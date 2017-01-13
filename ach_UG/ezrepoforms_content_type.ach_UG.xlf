@@ -1,16 +1,361 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file date="2016-11-29T11:49:06Z" source-language="en" target-language="ach" datatype="plaintext" original="not.available">
-    <header>
-      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
-      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
-    </header>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="ach">
     <body>
-      <trans-unit id="38a48d5b27331f27a6a51e3bb9be3e6340fc1ccb" resname="content_type.edit_title">
-        <source>__content_type.edit_title</source>
-        <target xml:lang="ach">crwdns209315:0crwdne209315:0</target>
-        <note>key: content_type.edit_title</note>
-        <jms:reference-file line="6">/../../../../.././Resources/views/ContentType/update_content_type.html.twig</jms:reference-file>
+      <trans-unit id="1">
+        <source>content_type.name</source>
+        <target xml:lang="ach">crwdns209880:0crwdne209880:0</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>content_type.identifier</source>
+        <target xml:lang="ach">crwdns209881:0crwdne209881:0</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>content_type.description</source>
+        <target xml:lang="ach">crwdns209882:0crwdne209882:0</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>content_type.name_schema</source>
+        <target xml:lang="ach">crwdns209883:0crwdne209883:0</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>content_type.url_alias_schema</source>
+        <target xml:lang="ach">crwdns209884:0crwdne209884:0</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>content_type.is_container</source>
+        <target xml:lang="ach">crwdns209885:0crwdne209885:0</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>content_type.default_sort_field</source>
+        <target xml:lang="ach">crwdns209886:0crwdne209886:0</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>content_type.default_sort_order</source>
+        <target xml:lang="ach">crwdns209887:0crwdne209887:0</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>content_type.default_always_available</source>
+        <target xml:lang="ach">crwdns209888:0crwdne209888:0</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>content_type.field_definitions_data</source>
+        <target xml:lang="ach">crwdns209889:0crwdne209889:0</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>content_type.field_type_selection</source>
+        <target xml:lang="ach">crwdns209890:0crwdne209890:0</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>content_type.add_field_definition</source>
+        <target xml:lang="ach">crwdns209891:0crwdne209891:0</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>content_type.save</source>
+        <target xml:lang="ach">crwdns209892:0crwdne209892:0</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>content_type.edit_title</source>
+        <target xml:lang="ach">crwdns209893:0crwdne209893:0</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>content_type.publish</source>
+        <target xml:lang="ach">crwdns209894:0crwdne209894:0</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>content_type.remove_field_definitions</source>
+        <target xml:lang="ach">crwdns209895:0crwdne209895:0</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>content_type.remove_draft</source>
+        <target xml:lang="ach">crwdns209896:0crwdne209896:0</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>content_type.sort_field.1</source>
+        <target xml:lang="ach">crwdns209897:0crwdne209897:0</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>content_type.sort_field.2</source>
+        <target xml:lang="ach">crwdns209898:0crwdne209898:0</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>content_type.sort_field.3</source>
+        <target xml:lang="ach">crwdns209899:0crwdne209899:0</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>content_type.sort_field.4</source>
+        <target xml:lang="ach">crwdns209900:0crwdne209900:0</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>content_type.sort_field.5</source>
+        <target xml:lang="ach">crwdns209901:0crwdne209901:0</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>content_type.sort_field.6</source>
+        <target xml:lang="ach">crwdns209902:0crwdne209902:0</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>content_type.sort_field.7</source>
+        <target xml:lang="ach">crwdns209903:0crwdne209903:0</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>content_type.sort_field.8</source>
+        <target xml:lang="ach">crwdns209904:0crwdne209904:0</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>content_type.sort_field.9</source>
+        <target xml:lang="ach">crwdns209905:0crwdne209905:0</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>content_type.sort_order.0</source>
+        <target xml:lang="ach">crwdns209906:0crwdne209906:0</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>content_type.sort_order.1</source>
+        <target xml:lang="ach">crwdns209907:0crwdne209907:0</target>
+      </trans-unit>
+      <trans-unit id="c922cb4d7cf06dd353a1c42e5beaa942">
+        <source>content_type.create</source>
+        <target xml:lang="ach">crwdns209908:0crwdne209908:0</target>
+      </trans-unit>
+      <trans-unit id="d8ed8632f53a803e8c0b7686aca78dfd">
+        <source>content_type.delete</source>
+        <target xml:lang="ach">crwdns209909:0crwdne209909:0</target>
+      </trans-unit>
+      <!-- Field definition -->
+      <trans-unit id="101">
+        <source>field_definition.name</source>
+        <target xml:lang="ach">crwdns209910:0crwdne209910:0</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>field_definition.identifier</source>
+        <target xml:lang="ach">crwdns209911:0crwdne209911:0</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>field_definition.description</source>
+        <target xml:lang="ach">crwdns209912:0crwdne209912:0</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>field_definition.is_required</source>
+        <target xml:lang="ach">crwdns209913:0crwdne209913:0</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>field_definition.is_translatable</source>
+        <target xml:lang="ach">crwdns209914:0crwdne209914:0</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>field_definition.field_group</source>
+        <target xml:lang="ach">crwdns209915:0crwdne209915:0</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>field_definition.position</source>
+        <target xml:lang="ach">crwdns209916:0crwdne209916:0</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>field_definition.is_searchable</source>
+        <target xml:lang="ach">crwdns209917:0crwdne209917:0</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>field_definition.ezstring.min_length</source>
+        <target xml:lang="ach">crwdns209918:0crwdne209918:0</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>field_definition.ezstring.max_length</source>
+        <target xml:lang="ach">crwdns209919:0crwdne209919:0</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>field_definition.ezstring.default_value</source>
+        <target xml:lang="ach">crwdns209920:0crwdne209920:0</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>field_definition.eztext.text_rows</source>
+        <target xml:lang="ach">crwdns209921:0crwdne209921:0</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>field_definition.ezfloat.min_value</source>
+        <target xml:lang="ach">crwdns209922:0crwdne209922:0</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>field_definition.ezfloat.max_value</source>
+        <target xml:lang="ach">crwdns209923:0crwdne209923:0</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>field_definition.ezinteger.min_value</source>
+        <target xml:lang="ach">crwdns209924:0crwdne209924:0</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>field_definition.ezinteger.max_value</source>
+        <target xml:lang="ach">crwdns209925:0crwdne209925:0</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>field_definition.ezisbn.is_isbn13</source>
+        <target xml:lang="ach">crwdns209926:0crwdne209926:0</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>field_definition.ezcountry.is_multiple</source>
+        <target xml:lang="ach">crwdns209927:0crwdne209927:0</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>field_definition.ezcountry.default_value</source>
+        <target xml:lang="ach">crwdns209928:0crwdne209928:0</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>field_definition.eztime.use_seconds</source>
+        <target xml:lang="ach">crwdns209929:0crwdne209929:0</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>field_definition.eztime.default_type</source>
+        <target xml:lang="ach">crwdns209930:0crwdne209930:0</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>field_definition.eztime.default_type_empty</source>
+        <target xml:lang="ach">crwdns209931:0crwdne209931:0</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>field_definition.eztime.default_type_current</source>
+        <target xml:lang="ach">crwdns209932:0crwdne209932:0</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>field_definition.ezdate.default_type</source>
+        <target xml:lang="ach">crwdns209933:0crwdne209933:0</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>field_definition.ezdate.default_type_empty</source>
+        <target xml:lang="ach">crwdns209934:0crwdne209934:0</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>field_definition.ezdate.default_type_current</source>
+        <target xml:lang="ach">crwdns209935:0crwdne209935:0</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>field_definition.ezbinaryfile.max_file_size</source>
+        <target xml:lang="ach">crwdns209936:0crwdne209936:0</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>field_definition.ezmedia.max_file_size</source>
+        <target xml:lang="ach">crwdns209937:0crwdne209937:0</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>field_definition.ezmedia.media_type</source>
+        <target xml:lang="ach">crwdns209938:0crwdne209938:0</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>field_definition.ezmedia.type_html5_video</source>
+        <target xml:lang="ach">crwdns209939:0crwdne209939:0</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>field_definition.ezmedia.type_flash</source>
+        <target xml:lang="ach">crwdns209940:0crwdne209940:0</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>field_definition.ezmedia.type_quick_time</source>
+        <target xml:lang="ach">crwdns209941:0crwdne209941:0</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>field_definition.ezmedia.type_real_player</source>
+        <target xml:lang="ach">crwdns209942:0crwdne209942:0</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>field_definition.ezmedia.type_silverlight</source>
+        <target xml:lang="ach">crwdns209943:0crwdne209943:0</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>field_definition.ezmedia.type_windows_media_player</source>
+        <target xml:lang="ach">crwdns209944:0crwdne209944:0</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>field_definition.ezmedia.type_html5_audio</source>
+        <target xml:lang="ach">crwdns209945:0crwdne209945:0</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>field_definition.ezpage.default_layout</source>
+        <target xml:lang="ach">crwdns209946:0crwdne209946:0</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>field_definition.ezselection.is_multiple</source>
+        <target xml:lang="ach">crwdns209947:0crwdne209947:0</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>field_definition.ezselection.options</source>
+        <target xml:lang="ach">crwdns209948:0crwdne209948:0</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>field_definition.ezrichtext.num_rows</source>
+        <target xml:lang="ach">crwdns209949:0crwdne209949:0</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>field_definition.ezimage.max_file_size</source>
+        <target xml:lang="ach">crwdns209950:0crwdne209950:0</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>field_definition.ezdatetime.use_seconds</source>
+        <target xml:lang="ach">crwdns209951:0crwdne209951:0</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>field_definition.ezdatetime.default_type</source>
+        <target xml:lang="ach">crwdns209952:0crwdne209952:0</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>field_definition.ezdatetime.default_type_empty</source>
+        <target xml:lang="ach">crwdns209953:0crwdne209953:0</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>field_definition.ezdatetime.default_type_current</source>
+        <target xml:lang="ach">crwdns209954:0crwdne209954:0</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>field_definition.ezdatetime.default_type_adjusted</source>
+        <target xml:lang="ach">crwdns209955:0crwdne209955:0</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>field_definition.ezdatetime.date_interval</source>
+        <target xml:lang="ach">crwdns209956:0crwdne209956:0</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>field_definition.ezobjectrelation.selection_root</source>
+        <target xml:lang="ach">crwdns209957:0crwdne209957:0</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>field_definition.ezobjectrelation.selection_root_udw_title</source>
+        <target xml:lang="ach">crwdns209958:0crwdne209958:0</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>field_definition.ezobjectrelation.selection_root_udw_button</source>
+        <target xml:lang="ach">crwdns209959:0crwdne209959:0</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>field_definition.ezobjectrelationlist.selection_default_location</source>
+        <target xml:lang="ach">crwdns209960:0crwdne209960:0</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>field_definition.ezobjectrelationlist.selection_content_types</source>
+        <target xml:lang="ach">crwdns209961:0crwdne209961:0</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>field_definition.ezobjectrelationlist.selection_root_udw_title</source>
+        <target xml:lang="ach">crwdns209962:0crwdne209962:0</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>field_definition.ezobjectrelationlist.selection_root_udw_button</source>
+        <target xml:lang="ach">crwdns209963:0crwdne209963:0</target>
+      </trans-unit>
+      <!-- Errors -->
+      <trans-unit id="1ccb9c8a9c5030a616b4caf4b2e532c0">
+        <source>content_type.error.content_type_group.not_found</source>
+        <target xml:lang="ach">crwdns209964:0crwdne209964:0</target>
+      </trans-unit>
+      <!-- ContentType groups -->
+      <trans-unit id="4fc6b746712fd2aeaea4d323a89ee4a3">
+        <source>content_type.group.identifier</source>
+        <target xml:lang="ach">crwdns209965:0crwdne209965:0</target>
+      </trans-unit>
+      <trans-unit id="efa6eedcf144d6acddf602ffe497fedf">
+        <source>content_type.group.save</source>
+        <target xml:lang="ach">crwdns209966:0crwdne209966:0</target>
+      </trans-unit>
+      <trans-unit id="21b3559b40d1828b8fc109bcfeebc70e">
+        <source>content_type.group.delete</source>
+        <target xml:lang="ach">crwdns209967:0crwdne209967:0</target>
       </trans-unit>
     </body>
   </file>
