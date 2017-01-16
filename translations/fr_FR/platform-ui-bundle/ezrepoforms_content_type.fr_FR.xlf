@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="38a48d5b27331f27a6a51e3bb9be3e6340fc1ccb" resname="content_type.edit_title">
         <source>__content_type.edit_title</source>
-        <target xml:lang="fr" state="translated">__content_type.edit_title</target>
+        <target xml:lang="fr" state="needs-translation">__content_type.edit_title</target>
         <note>key: content_type.edit_title</note>
         <jms:reference-file line="6">/../../../../.././Resources/views/ContentType/update_content_type.html.twig</jms:reference-file>
       </trans-unit>
