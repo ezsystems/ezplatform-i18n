@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="1">
         <source>user.register_button</source>
-        <target xml:lang="fr" state="needs-translation">user.register_button</target>
+        <target xml:lang="fr" state="translated">S'enregistrer</target>
       </trans-unit>
     </body>
   </file>
