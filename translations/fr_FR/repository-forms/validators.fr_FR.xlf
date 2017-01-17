@@ -2,20 +2,30 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="file.ext" target-language="fr">
     <body>
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-        </body>
+      <trans-unit id="1">
+        <source>ez.content_type.identifier.pattern</source>
+        <target xml:lang="fr" state="translated">Les identifiants de type de contenu ne peuvent contenir que les lettres "a" à "z", des chiffres et des blancs soulignés.</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>ez.content_type.names</source>
+        <target xml:lang="fr" state="translated">Les noms de type de contenu ne peuvent pas être vide ni dépasser 255 caractères.</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>ez.content_type.descriptions</source>
+        <target xml:lang="fr" state="translated">Les descriptions de type de contenu ne peuvent dépasser 255 caractères.</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>ez.field_definition.names</source>
+        <target xml:lang="fr" state="translated">Les noms de définition de champ ne peuvent pas être vide ni dépasser 255 caractères.</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>ez.field_definition.descriptions</source>
+        <target xml:lang="fr" state="translated">Les descriptions de définition de champ ne peuvent pas dépasser 255 caractères.</target>
+      </trans-unit>
+      <trans-unit id="5387d26cceb54294dafe82be9b0d61d0">
+        <source>ez.section.identifier.format</source>
+        <target xml:lang="fr" state="translated">Les identifiants de section ne peuvent contenir que les lettres "a" à "z", des chiffres et des blancs soulignés.</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>
