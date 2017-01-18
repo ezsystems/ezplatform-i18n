@@ -6,37 +6,39 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="6d613a1ee01eec4c0f8ca66df0db71dca0c6e1cf" resname="database" approved="yes">
+        <source>Database</source>
+        <target xml:lang="fr">Base de données</target>
+        <note>key: database</note>
+        <jms:reference-file line="3">/../../../../.././Resources/views/ez-support-tools/info/database.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="07596f183f5e91b1778d5e47b2752b8d42aa763d" resname="disabled" approved="yes">
+        <source>Disabled</source>
+        <target xml:lang="fr">Désactivé</target>
+        <note>key: disabled</note>
+        <jms:reference-file line="13">/../../../../.././Resources/views/ez-support-tools/info/php.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="608cb271bb7fb52c99a1a8e003e0f80f57fb41e1" resname="hardware" approved="yes">
+        <source>Hardware</source>
+        <target xml:lang="fr">Matériel</target>
+        <note>key: hardware</note>
+        <jms:reference-file line="3">/../../../../.././Resources/views/ez-support-tools/info/hardware.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="81c5d49be9505089d8d248ea96f6d077fd0ab9bd" resname="memory" approved="yes">
+        <source>Memory</source>
+        <target xml:lang="fr">Mémoire</target>
+        <note>key: memory</note>
+        <jms:reference-file line="12">/../../../../.././Resources/views/ez-support-tools/info/hardware.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="345e6e0c761b74267435f4057f0eb3ef2ae2bc53" resname="system.information" approved="yes">
+        <source>System information</source>
+        <target xml:lang="fr">Information système</target>
+        <note>key: system.information</note>
+        <jms:reference-file line="12">/../../../../.././Resources/views/Dashboard/dashboard.html.twig</jms:reference-file>
+        <jms:reference-file line="15">/../../../../.././Resources/views/SystemInfo/info.html.twig</jms:reference-file>
+        <jms:reference-file line="42">/../../../../.././Resources/views/SystemInfo/info.html.twig</jms:reference-file>
+        <jms:reference-file line="8">/../../../../.././Resources/views/SystemInfo/info.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
