@@ -189,6 +189,24 @@
         <note>key: select.location.to.create.new.location</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit">
+        <source>Edit</source>
+        <target xml:lang="pt-PT" state="translated">Editar</target>
+        <note>key: translateaction.edit</note>
+        <jms:reference-file>./Resources/public/templates/translateaction.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0da142a7f050a139b79a5865547744a56a5f4281" resname="translateaction.existing.translations">
+        <source>Existing Translations</source>
+        <target xml:lang="pt-PT" state="translated">Editar Traduções</target>
+        <note>key: translateaction.existing.translations</note>
+        <jms:reference-file>./Resources/public/templates/translateaction.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cd6a171f15734694bbc3e15e0f2e4ca47dd5d1ff" resname="translateaction.new.translation">
+        <source>+ New Translation</source>
+        <target xml:lang="pt-PT" state="translated">+ Nova Tradução</target>
+        <note>key: translateaction.new.translation</note>
+        <jms:reference-file>./Resources/public/templates/translateaction.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
