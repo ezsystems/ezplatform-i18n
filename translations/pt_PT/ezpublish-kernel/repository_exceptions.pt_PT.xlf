@@ -152,6 +152,42 @@
         <note>key: Path '%path%' already exists for the given language</note>
         <jms:reference-file line="362">/../../../../../eZ/Publish/Core/Persistence/Legacy/Content/UrlAlias/Handler.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="b2d83ff8d535b64b36eaab04237a3091fc10ee5a" resname="Placeholders are not matching with wildcards.">
+        <source>Placeholders are not matching with wildcards.</source>
+        <target xml:lang="pt-PT" state="translated">Os espaços reservados não correspondem aos wildcards.</target>
+        <note>key: Placeholders are not matching with wildcards.</note>
+        <jms:reference-file line="102">/../../../../../eZ/Publish/Core/Repository/URLWildcardService.php</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pt-PT">Os espaços reservados não estão a coincidir com os wildcards.</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="pt-PT">Os espaços reservados não coincidem com wildcards.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="d750946e6e0689d003a701bf1db100b12a742c4f" resname="Provided content type does not contain ezuser field type">
+        <source>Provided content type does not contain ezuser field type</source>
+        <target xml:lang="pt-PT" state="translated">O tipo de conteúdo fornecido não contém o campo do tipo ezuser</target>
+        <note>key: Provided content type does not contain ezuser field type</note>
+        <jms:reference-file line="24">/../../../../../eZ/Publish/Core/Base/Exceptions/NoUserFieldContentValidationException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c13178e601c4bf79ad9ef57efe468ed438a9b167" resname="Relation is not of type COMMON">
+        <source>Relation is not of type COMMON</source>
+        <target xml:lang="pt-PT" state="translated">A relação não é do tipo COMUM</target>
+        <note>key: Relation is not of type COMMON</note>
+        <jms:reference-file line="645">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8da63ffae0f9707c46ca02d66e9074e7f9f538d6" resname="Relation of type COMMON can only be added to drafts">
+        <source>Relation of type COMMON can only be added to drafts</source>
+        <target xml:lang="pt-PT" state="translated">As relações do tipo COMUM apenas podem ser adicionadas a rascunhos</target>
+        <note>key: Relation of type COMMON can only be added to drafts</note>
+        <jms:reference-file line="684">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="388dae35f493b4e06e6458455f4837b1691fd72b" resname="Relation of type COMMON can only be removed from drafts">
+        <source>Relation of type COMMON can only be removed from drafts</source>
+        <target xml:lang="pt-PT" state="translated">As relações do tipo COMUM apenas podem ser removidas de rascunhos</target>
+        <note>key: Relation of type COMMON can only be removed from drafts</note>
+        <jms:reference-file line="649">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
