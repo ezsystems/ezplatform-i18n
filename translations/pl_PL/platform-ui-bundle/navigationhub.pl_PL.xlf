@@ -24,6 +24,69 @@
         <note>key: navigationhub.content_type.dashboard_title</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="7937b453cfa9e72eadf1e64ca4cfbee7ba443014" resname="navigationhub.dashboard.title">
+        <source>Admin dashboard</source>
+        <target xml:lang="pl" state="translated">Panel sterowania</target>
+        <note>key: navigationhub.dashboard.title</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Panel administracyjny</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="6a7e8372aebbd558cab8c19c5caecc1deee66024" resname="navigationhub.language.list">
+        <source>Languages</source>
+        <target xml:lang="pl" state="translated">Języki</target>
+        <note>key: navigationhub.language.list</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b3ae3658840e3e375d5c88eb4abc96f3efe0ade8" resname="navigationhub.logo.ez">
+        <source>Logo eZ</source>
+        <target xml:lang="pl" state="translated">Logo eZ Systems</target>
+        <note>key: navigationhub.logo.ez</note>
+        <jms:reference-file>./Resources/public/templates/navigationhub.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7bd6ca1c2f35a3578ca48a6ef671f4b370a4f93a" resname="navigationhub.media.library">
+        <source>Media library</source>
+        <target xml:lang="pl" state="translated">Biblioteka mediów</target>
+        <note>key: navigationhub.media.library</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4f5a9c342a40becc3f806f44fdda706f513cea4d" resname="navigationhub.more">
+        <source>More</source>
+        <target xml:lang="pl" state="translated">Więcej</target>
+        <note>key: navigationhub.more</note>
+        <jms:reference-file>./Resources/public/templates/navigationhub.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cb156e3f0e5acefaace3ae69a36edcfdd4335035" resname="navigationhub.role.list">
+        <source>Roles</source>
+        <target xml:lang="pl" state="translated">Role</target>
+        <note>key: navigationhub.role.list</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="05bd808967aac1311d193cc98d15b0f736c8343d" resname="navigationhub.section.list">
+        <source>Sections</source>
+        <target xml:lang="pl" state="translated">Sekcje</target>
+        <note>key: navigationhub.section.list</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2ee246e2cc6a385e5ae2d5cbc7b5611e2de3a799" resname="navigationhub.system.information">
+        <source>System information</source>
+        <target xml:lang="pl" state="translated">Informacje o systemie</target>
+        <note>key: navigationhub.system.information</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5bf12850a3a99f7bbd51deb7c695c07e39bcbf0e" resname="navigationhub.user.list">
+        <source>Users</source>
+        <target xml:lang="pl" state="translated">Użytkownicy</target>
+        <note>key: navigationhub.user.list</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9dad31674a58b4c29df317da824ecd407e79d708" resname="navigationhub.zone.admin">
+        <source>Admin Panel</source>
+        <target xml:lang="pl" state="translated">Panel administracyjny</target>
+        <note>key: navigationhub.zone.admin</note>
+        <jms:reference-file>./Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
