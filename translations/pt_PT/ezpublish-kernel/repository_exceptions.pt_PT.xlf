@@ -188,6 +188,30 @@
         <note>key: Relation of type COMMON can only be removed from drafts</note>
         <jms:reference-file line="649">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="30ea10f44d07a5752ed9c57a8458b3579b8dd421" resname="Relation of type COMMON to selected destination content ID already exists">
+        <source>Relation of type COMMON to selected destination content ID already exists</source>
+        <target xml:lang="pt-PT" state="translated">A relação do tipo COMUM com o destino com o ID selecionado já existe</target>
+        <note>key: Relation of type COMMON to selected destination content ID already exists</note>
+        <jms:reference-file line="696">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="09683b2a73d28421548e01bfbd6cc468095fa29d" resname="User does not have access to '%function%' '%module%'">
+        <source>User does not have access to '%function%' '%module%'</source>
+        <target xml:lang="pt-PT" state="translated">O utilizador não tem acesso à '%function%' '%module%'</target>
+        <note>key: User does not have access to '%function%' '%module%'</note>
+        <jms:reference-file line="38">/../../../../../eZ/Publish/Core/Base/Exceptions/UnauthorizedException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="649224015306dff4831eceb63d49e66d7c0c4f1b" resname="User does not have access to '%function%' '%module%' with: %with%'">
+        <source>User does not have access to '%function%' '%module%' with: %with%'</source>
+        <target xml:lang="pt-PT" state="translated">O utilizador não tem acesso à '%function%' '%module%' com: %with%'</target>
+        <note>key: User does not have access to '%function%' '%module%' with: %with%'</note>
+        <jms:reference-file line="42">/../../../../../eZ/Publish/Core/Base/Exceptions/UnauthorizedException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dfb77818edfca3ee72ed24e16c643a84203ecfa7" resname="Version in status PUBLISHED cannot be deleted">
+        <source>Version in status PUBLISHED cannot be deleted</source>
+        <target xml:lang="pt-PT" state="translated">A versão no estado PUBLICADO não pode ser eliminada</target>
+        <note>key: Version in status PUBLISHED cannot be deleted</note>
+        <jms:reference-file line="354">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
