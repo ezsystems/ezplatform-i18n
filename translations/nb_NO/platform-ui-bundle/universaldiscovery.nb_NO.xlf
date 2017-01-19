@@ -102,6 +102,68 @@
         <note>key: universaldiscovery.next</note>
         <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="f5f82593d891af025a0e08c15256acfb88d1520d" resname="universaldiscovery.no.confirmed.contents">
+        <source>No confirmed content yet.</source>
+        <target xml:lang="nb" state="translated">Ikke bekreftet innhold ennå.</target>
+        <note>key: universaldiscovery.no.confirmed.contents</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/confirmedlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="16db03c0f5393377ce31c398b1b7f797a749516a" resname="universaldiscovery.preview">
+        <source>Preview</source>
+        <target xml:lang="nb" state="translated">Forhåndsvis</target>
+        <note>key: universaldiscovery.preview</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a1f6611a8c1b705c11f7e4b9030764736976c4c1" resname="universaldiscovery.previous">
+        <source>Previous</source>
+        <target xml:lang="nb" state="translated">Forrige</target>
+        <note>key: universaldiscovery.previous</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c73096f8a35429230e9496f6f838884f76102f7d" resname="universaldiscovery.provide.search.text">
+        <source>Please provide search text</source>
+        <target xml:lang="nb" state="translated">Vennligst oppgi søketekst</target>
+        <note>key: universaldiscovery.provide.search.text</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="239fc54ecb59fb4fee3fbedaf606a462b9000cd8" resname="universaldiscovery.retry">
+        <source>Retry</source>
+        <target xml:lang="nb" state="translated">Prøv igjen</target>
+        <note>key: universaldiscovery.retry</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d8a3ebd791267b179810d3c27bc1b78e566aa385" resname="universaldiscovery.search">
+        <source>Search</source>
+        <target xml:lang="nb" state="translated">Søk</target>
+        <note>key: universaldiscovery.search</note>
+        <jms:reference-file>./Resources/public/js/views/universaldiscovery/ez-universaldiscoverysearchview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f223bfebe47730c110cca9599db5deb546ab872f" resname="universaldiscovery.select.from.left">
+        <source>Select a content item from the left</source>
+        <target xml:lang="nb" state="translated">Velg et innholdselement fra venstre</target>
+        <note>key: universaldiscovery.select.from.left</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b69553576460fe7b356aa72e9c702109f4dd5f4" resname="universaldiscovery.selected.item">
+        <source>Selected item</source>
+        <target xml:lang="nb" state="translated">Valgt element</target>
+        <note>key: universaldiscovery.selected.item</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a3767d9200cdb373450e1ec075431a49b2bcd380" resname="universaldiscovery.translations">
+        <source>Translations</source>
+        <target xml:lang="nb" state="translated">Oversettelser</target>
+        <note>key: universaldiscovery.translations</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8b825fd3563931192778181dece1a37e0930073f" resname="universaldiscovery.type">
+        <source>Type</source>
+        <target xml:lang="nb" state="translated">Type</target>
+        <note>key: universaldiscovery.type</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
