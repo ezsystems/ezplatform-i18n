@@ -12,6 +12,12 @@
         <note>key: locationview.details.versions</note>
         <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="f67a3e91c4d5aa8aac6c72fe7027dfba73eb1a4f" resname="rawcontent.content">
+        <source>Content</source>
+        <target xml:lang="pt-PT" state="translated">Conteúdo</target>
+        <note>key: rawcontent.content</note>
+        <jms:reference-file>./Resources/public/templates/rawcontent.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
