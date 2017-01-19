@@ -212,6 +212,18 @@
         <note>key: Version in status PUBLISHED cannot be deleted</note>
         <jms:reference-file line="354">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="f80f674916004d986500fe18b36ff55286191490" resname="expected value to be of type '%expectedType%'">
+        <source>expected value to be of type '%expectedType%'</source>
+        <target xml:lang="pt-PT" state="translated">o valor esperado é do tipo '%expectedType%'</target>
+        <note>key: expected value to be of type '%expectedType%'</note>
+        <jms:reference-file line="31">/../../../../../eZ/Publish/Core/Base/Exceptions/InvalidArgumentType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5f722d4df65d72e23fbf62ea8a5adadaf249413c" resname="expected value to be of type '%expectedType%', got '%actualType%'">
+        <source>expected value to be of type '%expectedType%', got '%actualType%'</source>
+        <target xml:lang="pt-PT" state="translated">esperava-se que o valor fosse do tipo '%expectedType%', mas obteve-se '%actualType%'</target>
+        <note>key: expected value to be of type '%expectedType%', got '%actualType%'</note>
+        <jms:reference-file line="33">/../../../../../eZ/Publish/Core/Base/Exceptions/InvalidArgumentType.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
