@@ -18,6 +18,12 @@
         <note>key: universaldiscovery.cancel</note>
         <jms:reference-file>./Resources/public/templates/universaldiscovery.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="5afbdba140a12800056af6216eacaeb6c04d5cf4" resname="universaldiscovery.choose.this.content">
+        <source>Choose this content</source>
+        <target xml:lang="pl" state="translated">Wybierz ten element</target>
+        <note>key: universaldiscovery.choose.this.content</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="39b27d53e4d40abdf72543f7dc720f0ad7dfe34c" resname="universaldiscovery.confirm.selection">
         <source>Confirm selection</source>
         <target xml:lang="pl" state="translated">Potwierdź wybór</target>
@@ -35,6 +41,18 @@
         <target xml:lang="pl" state="translated">Drzewo elementów</target>
         <note>key: universaldiscovery.content.tree</note>
         <jms:reference-file>./Resources/public/templates/universaldiscovery/browse.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5d385d494274d016769564a3bdf95332896d62af" resname="universaldiscovery.creation.date">
+        <source>Creation Date</source>
+        <target xml:lang="pl" state="translated">Data utworzenia</target>
+        <note>key: universaldiscovery.creation.date</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b191a7509309ed153691a5ea5a97d2dd2bcfd88d" resname="universaldiscovery.last.modified">
+        <source>Last Modified</source>
+        <target xml:lang="pl" state="translated">Ostatnia modyfikacja</target>
+        <note>key: universaldiscovery.last.modified</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="f5f82593d891af025a0e08c15256acfb88d1520d" resname="universaldiscovery.no.confirmed.contents">
         <source>No confirmed content yet.</source>
@@ -59,6 +77,18 @@
         <source>Select a content item from the left</source>
         <target xml:lang="pl" state="translated">Wybierz element po lewej</target>
         <note>key: universaldiscovery.select.from.left</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b69553576460fe7b356aa72e9c702109f4dd5f4" resname="universaldiscovery.selected.item">
+        <source>Selected item</source>
+        <target xml:lang="pl" state="translated">Zaznaczony element</target>
+        <note>key: universaldiscovery.selected.item</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a3767d9200cdb373450e1ec075431a49b2bcd380" resname="universaldiscovery.translations">
+        <source>Translations</source>
+        <target xml:lang="pl" state="translated">Tłumaczenia</target>
+        <note>key: universaldiscovery.translations</note>
         <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
       </trans-unit>
     </body>
