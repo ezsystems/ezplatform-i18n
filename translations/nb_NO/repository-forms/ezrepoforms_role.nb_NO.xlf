@@ -2,31 +2,34 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="file.ext" target-language="nb">
     <body>
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
-        </body>
+      <trans-unit id="15a96bd8e517e1cfb6d989c69ccd4a07" resname="role.identifier">
+        <source>role.identifier</source>
+        <target xml:lang="nb" state="translated">Rolleidentifikator</target>
+      </trans-unit>
+      <trans-unit id="b240ba7952e3686902a0ea78ae3fec91" resname="role.save">
+        <source>role.save</source>
+        <target xml:lang="nb" state="translated">Lagre</target>
+      </trans-unit>
+      <trans-unit id="97ccb80e8991c2b37daf50834a8d7a18" resname="role.remove_draft">
+        <source>role.remove_draft</source>
+        <target xml:lang="nb" state="translated">Slett utkast</target>
+      </trans-unit>
+      <trans-unit id="0b4cb733c3b00614be932928650a567f" resname="role.form.delete">
+        <source>role.form.delete</source>
+        <target xml:lang="nb" state="translated">Slett rolle</target>
+      </trans-unit>
+      <trans-unit id="565405ab5f15e4274e9edf5301d567b1" resname="role.create">
+        <source>role.create</source>
+        <target xml:lang="nb" state="translated">Lag ny rolle</target>
+      </trans-unit>
+      <trans-unit id="c66259bddf003273f41e31e77b7af64d">
+        <source>role.policy.form.delete</source>
+        <target xml:lang="nb" state="translated">Slett rollevilkår</target>
+      </trans-unit>
+      <trans-unit id="7ba51a99524d33986e1169814afd8584" resname="role.assignment.form.delete">
+        <source>role.assignment.form.delete</source>
+        <target xml:lang="nb" state="translated">Slett tilordning av rolle</target>
+      </trans-unit>
+    </body>
   </file>
 </xliff>
