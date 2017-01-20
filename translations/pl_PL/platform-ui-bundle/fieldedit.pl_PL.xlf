@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file date="2016-12-05T14:54:41Z" source-language="en" target-language="pl" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="e1ee64eddc5bc3ee8690f59e23a52dd4c50d036e" resname="richtext.focus">
+        <source>Focus</source>
+        <target xml:lang="pl" state="translated">Powiększ</target>
+        <note>key: richtext.focus</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a8867a26b3b1adfde513cee1bbc0b2cd0beb5cce" resname="richtext.save">
+        <source>Save and Return</source>
+        <target xml:lang="pl" state="translated">Zapisz i wróć</target>
+        <note>key: richtext.save</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
