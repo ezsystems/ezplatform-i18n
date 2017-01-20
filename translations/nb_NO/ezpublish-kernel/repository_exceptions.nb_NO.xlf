@@ -43,6 +43,24 @@
         <note>key: Content fields did not validate</note>
         <jms:reference-file line="45">/../../../../../eZ/Publish/Core/Base/Exceptions/ContentFieldValidationException.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="ebf71981c65ff4930b2b3f704b9e5383e92e06a6" resname="Content type cannot be unlinked from the only remaining group">
+        <source>Content type cannot be unlinked from the only remaining group</source>
+        <target xml:lang="nb" state="translated">Innholdstypen må tilhøre minst en gruppe</target>
+        <note>key: Content type cannot be unlinked from the only remaining group</note>
+        <jms:reference-file line="857">/../../../../../eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="632a0a349b256b80469d59a604d24a52eea93c56" resname="Content type is already linked to provided group">
+        <source>Content type is already linked to provided group</source>
+        <target xml:lang="nb" state="translated">Innholdstypen er allerede koblet til denne gruppen</target>
+        <note>key: Content type is already linked to provided group</note>
+        <jms:reference-file line="811">/../../../../../eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1423a591f045a16c96d4b1c11d2c5bdc86ae19a6" resname="ContentType FieldDefinitions did not validate">
+        <source>ContentType FieldDefinitions did not validate</source>
+        <target xml:lang="nb" state="translated">Innholdstypens feltdefinisjoner er ikke gyldige</target>
+        <note>key: ContentType FieldDefinitions did not validate</note>
+        <jms:reference-file line="45">/../../../../../eZ/Publish/Core/Base/Exceptions/ContentTypeFieldDefinitionValidationException.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
