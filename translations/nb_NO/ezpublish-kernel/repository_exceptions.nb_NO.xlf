@@ -61,6 +61,12 @@
         <note>key: ContentType FieldDefinitions did not validate</note>
         <jms:reference-file line="45">/../../../../../eZ/Publish/Core/Base/Exceptions/ContentTypeFieldDefinitionValidationException.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="dbf0b883e33a6e7c433ffa9a536fd214cda39b5c" resname="Could not find %classType% class '%className%'">
+        <source>Could not find %classType% class '%className%'</source>
+        <target xml:lang="nb" state="translated">Finner ikke %classType% av klassen '%className%'</target>
+        <note>key: Could not find %classType% class '%className%'</note>
+        <jms:reference-file line="41">/../../../../../eZ/Publish/Core/Base/Exceptions/MissingClass.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="ff3e1dacaa764a0e94a86b173f9c93509fcaadeb" resname="Could not find '%what%' with identifier '%identifier%'">
         <source>Could not find '%what%' with identifier '%identifier%'</source>
         <target xml:lang="nb" state="translated">Finner ikke "%what%" med ID '%identifier%'</target>
