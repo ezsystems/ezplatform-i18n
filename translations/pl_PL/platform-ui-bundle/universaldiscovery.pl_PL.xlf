@@ -12,11 +12,35 @@
         <note>key: browse</note>
         <jms:reference-file>./Resources/public/js/views/universaldiscovery/ez-universaldiscoverybrowseview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="724b2384805ea6aa150d57d3d870d50b1d661d8b" resname="universaldiscovery.cancel">
+        <source>Cancel</source>
+        <target xml:lang="pl" state="translated">Anuluj</target>
+        <note>key: universaldiscovery.cancel</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="39b27d53e4d40abdf72543f7dc720f0ad7dfe34c" resname="universaldiscovery.confirm.selection">
+        <source>Confirm selection</source>
+        <target xml:lang="pl" state="translated">Potwierdź wybór</target>
+        <note>key: universaldiscovery.confirm.selection</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c951ce12db4e892a7cdb5a44b399e21d689a44ed" resname="universaldiscovery.confirmed.items">
+        <source>Confirmed items</source>
+        <target xml:lang="pl" state="translated">Wybrane elementy</target>
+        <note>key: universaldiscovery.confirmed.items</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/confirmedlist.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="572fdb94d49b6e58d297fd7491cf28c77d60e241" resname="universaldiscovery.content.tree">
         <source>Content tree</source>
         <target xml:lang="pl" state="translated">Drzewo elementów</target>
         <note>key: universaldiscovery.content.tree</note>
         <jms:reference-file>./Resources/public/templates/universaldiscovery/browse.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f5f82593d891af025a0e08c15256acfb88d1520d" resname="universaldiscovery.no.confirmed.contents">
+        <source>No confirmed content yet.</source>
+        <target xml:lang="pl" state="translated">Brak wybranych elementów.</target>
+        <note>key: universaldiscovery.no.confirmed.contents</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/confirmedlist.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="c73096f8a35429230e9496f6f838884f76102f7d" resname="universaldiscovery.provide.search.text">
         <source>Please provide search text</source>
