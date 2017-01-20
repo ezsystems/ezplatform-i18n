@@ -85,6 +85,13 @@
         <note>key: Empty content type draft cannot be published</note>
         <jms:reference-file line="708">/../../../../../eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="64614c5387b9921b33bfe34d6a6d88283a97d119" resname="Field definition '%identifier%' does not exist in given ContentType">
+        <source>Field definition '%identifier%' does not exist in given ContentType</source>
+        <target xml:lang="nb" state="translated">Feltdefinisjonen "%identifier%" finnes ikke i innholdstypen</target>
+        <note>key: Field definition '%identifier%' does not exist in given ContentType</note>
+        <jms:reference-file line="1393">/../../../../../eZ/Publish/Core/Repository/ContentService.php</jms:reference-file>
+        <jms:reference-file line="755">/../../../../../eZ/Publish/Core/Repository/ContentService.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
