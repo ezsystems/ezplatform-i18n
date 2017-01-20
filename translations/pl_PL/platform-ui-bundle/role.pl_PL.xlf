@@ -57,6 +57,12 @@
         <note>key: assignment.user_or_group_using</note>
         <jms:reference-file line="24">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="ca65309bef9a375c91388358cc8304dae5032ca1" resname="failed.assigned.role">
+        <source>Role has not been assigned to "%name%": %message%</source>
+        <target xml:lang="pl" state="translated">Nie przypisano roli do "%name%": %message%</target>
+        <note>key: failed.assigned.role</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="7f17d5ce98c94b79ee8708703b552c2c101714ff" resname="failed.assigned.role.user">
         <source>Role has not been assigned to any users/groups</source>
         <target xml:lang="pl" state="translated">Nie przypisano roli żadnym użytkownikom/grupom</target>
@@ -235,6 +241,13 @@
         <note>key: role.error.delete</note>
         <jms:reference-file line="243">/../../../../.././Controller/RoleController.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="68310ce0c358df2115b5944a580f158b01c2e719" resname="role.error.policy_not_found">
+        <source>Role #%roleId% doesn't contain any policy with ID #%policyId%</source>
+        <target xml:lang="pl" state="translated">Rola #%roleId% nie zawiera reguły o ID #%policyId%</target>
+        <note>key: role.error.policy_not_found</note>
+        <jms:reference-file line="268">/../../../../.././Controller/RoleController.php</jms:reference-file>
+        <jms:reference-file line="330">/../../../../.././Controller/RoleController.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="c049089744629771a10145f3c8b52aefbd0cce17" resname="role.id">
         <source>ID</source>
         <target xml:lang="pl" state="translated">ID</target>
@@ -254,6 +267,87 @@
         <target xml:lang="pl" state="translated">Nazwa</target>
         <note>key: role.name</note>
         <jms:reference-file line="25">/../../../../.././Resources/views/Role/list_roles.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="723a06ac319ea75dc2c78c3eb8a30ebacded1a64" resname="role.notification.draft_removed">
+        <source>The role draft was removed.</source>
+        <target xml:lang="pl" state="translated">Usunięto szkic roli.</target>
+        <note>key: role.notification.draft_removed</note>
+        <jms:reference-file line="83">/../../../../.././Form/Processor/PolicyFormProcessor.php</jms:reference-file>
+        <jms:reference-file line="100">/../../../../.././Form/Processor/RoleFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b61546f861fa7af02bb566f7cc18b71828f1827b" resname="role.notification.draft_saved">
+        <source>The role draft was saved.</source>
+        <target xml:lang="pl" state="translated">Zapisano szkic roli.</target>
+        <note>key: role.notification.draft_saved</note>
+        <jms:reference-file line="74">/../../../../.././Form/Processor/RoleFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="116219f003b3ddd2b2e8b3529aa96a5b34713a91" resname="role.notification.published">
+        <source>The role was published.</source>
+        <target xml:lang="pl" state="translated">Opublikowano szkic roli.</target>
+        <note>key: role.notification.published</note>
+        <jms:reference-file line="69">/../../../../.././Form/Processor/PolicyFormProcessor.php</jms:reference-file>
+        <jms:reference-file line="75">/../../../../.././Form/Processor/RoleFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6dafd96fb9e7b28a8048e7ae6985ce49b0dbff82" resname="role.policy.add">
+        <source>Add a new policy</source>
+        <target xml:lang="pl" state="translated">Dodaj nową regułę</target>
+        <note>key: role.policy.add</note>
+        <jms:reference-file line="108">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bc75703d2446d97b0b9cefd67cd89db4848e9fae" resname="role.policy.create.title">
+        <source>New policy</source>
+        <target xml:lang="pl" state="translated">Nowa reguła</target>
+        <note>key: role.policy.create.title</note>
+        <jms:reference-file line="6">/../../../../.././Resources/views/Role/edit_policy.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3d3b8aee83935b3229b0f0f13f92f7f8fdd07853" resname="role.policy.deleted">
+        <source>Policy #%policyId% for role "%roleIdentifier%" was correctly deleted.</source>
+        <target xml:lang="pl" state="translated">Usunięto regułę #%policyId% z roli "%roleIdentifier%".</target>
+        <note>key: role.policy.deleted</note>
+        <jms:reference-file line="336">/../../../../.././Controller/RoleController.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="28ccd472ae9e01f00eb14337f9dea449476a0b67" resname="role.policy.edit.title">
+        <source>Edit %policy%</source>
+        <target xml:lang="pl" state="translated">Edytuj %policy%</target>
+        <note>key: role.policy.edit.title</note>
+        <jms:reference-file line="6">/../../../../.././Resources/views/Role/edit_policy.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b9034a726357d2e19c7493932f9bcee454d4ce97" resname="role.policy.edit_limitations">
+        <source>Edit limitations</source>
+        <target xml:lang="pl" state="translated">Edytuj ograniczenia</target>
+        <note>key: role.policy.edit_limitations</note>
+        <jms:reference-file line="75">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+        <jms:reference-file line="77">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="692ee66b1323dc62c0d79062c789fa8657ea997b" resname="role.policy.error.delete">
+        <source>An error occurred when trying to delete policy #%policyId% for role "%roleIdentifier%".</source>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas próby usunięcia reguły #%policyId% z roli "%roleIdentifier%".</target>
+        <note>key: role.policy.error.delete</note>
+        <jms:reference-file line="338">/../../../../.././Controller/RoleController.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="99225f0df6ad50a81ddb060600d0518ae871b105" resname="role.policy.notification.draft_removed">
+        <source>The policy draft was removed.</source>
+        <target xml:lang="pl" state="translated">Usunięto szkic reguły.</target>
+        <note>key: role.policy.notification.draft_removed</note>
+        <jms:reference-file line="82">/../../../../.././Form/Processor/PolicyFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6cefbf6392b5c48497a28d56749439827be0aa39" resname="role.policy.notification.draft_saved">
+        <source>The policy draft was saved.</source>
+        <target xml:lang="pl" state="translated">Zapisano szkic reguły.</target>
+        <note>key: role.policy.notification.draft_saved</note>
+        <jms:reference-file line="47">/../../../../.././Form/Processor/PolicyFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f38831dca94d40d24f14cdfa9c00225b90f1e2a7" resname="role.policy_none">
+        <source>There are no policies set up for this role.</source>
+        <target xml:lang="pl" state="translated">Ta rola nie ma przypisanych reguł.</target>
+        <note>key: role.policy_none</note>
+        <jms:reference-file line="99">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2d54315058102bcb341f1907e5567cefeed78316" resname="selected.content.not.user.group">
+        <source>Selected content is not a user or group.</source>
+        <target xml:lang="pl" state="translated">Wybrany element nie jest użytkownikiem ani grupą.</target>
+        <note>key: selected.content.not.user.group</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
       </trans-unit>
     </body>
   </file>
