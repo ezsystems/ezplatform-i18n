@@ -108,6 +108,12 @@
         <note>key: locationview.locations.remove.selected</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="30412ae8741b6ad892f8e7121c1df1c98690fe69" resname="locationview.locations.select.content.item">
+        <source>Select Content item</source>
+        <target xml:lang="pl" state="translated">Wybierz element</target>
+        <note>key: locationview.locations.select.content.item</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="b5ab365ec9097447d661364c587dd74a3a2a4da3" resname="locationview.locations.subitems">
         <source>Sub-items</source>
         <target xml:lang="pl" state="translated">Podelementy</target>
