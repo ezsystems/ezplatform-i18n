@@ -6,6 +6,26 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="2fde2228bf4d0451dce51640519824f39dca0ad9" resname="assigned.section">
+        <source>Section "%sectionName%" assigned to %count% contents</source>
+        <target xml:lang="pl" state="translated">Przypisano sekcję "%sectionName%" do %count% elementów</target>
+        <note>key: assigned.section</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-sectionserversideviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f7e3a4c368276a309c136f36ba4b0fde89f8258f" resname="assigning.section">
+        <source>Assigning the section "%sectionName%" to %count% contents</source>
+        <target xml:lang="pl" state="translated">Przypisywanie sekcji "%sectionName%" do %count% elementów</target>
+        <note>key: assigning.section</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-sectionserversideviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5752d1a75675e5cd0fde02a23eb424313e42e4c9" resname="section.assign.contents">
+        <source>Assign to content</source>
+        <target xml:lang="pl" state="translated">Przypisz do treści</target>
+        <note>key: section.assign.contents</note>
+        <jms:reference-file line="23">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
+        <jms:reference-file line="75">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
+        <jms:reference-file line="79">/../../../../.././Resources/views/Section/view.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="6e9972f315911664e7e596892c4cce1c3319a6ba" resname="section.assign.universaldiscovery.title">
         <source>Pick the Content items to assign to section "%sectionName%"</source>
         <target xml:lang="pl" state="translated">Wybierz elementy, które chcesz przypisać do sekcji "%sectionName%"</target>
