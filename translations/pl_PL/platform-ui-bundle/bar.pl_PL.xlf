@@ -48,6 +48,12 @@
         <note>key: actionbar.translate</note>
         <jms:reference-file>./Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="7eaf9281f3e62d4f3acf5dac5b34060808c363b9" resname="discoverybar.contenttree">
+        <source>Content tree</source>
+        <target xml:lang="pl" state="translated">Drzewo treści</target>
+        <note>key: discoverybar.contenttree</note>
+        <jms:reference-file>./Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="07eab5f1fb10d5c76c8b190ed9aa24f44b8631b7" resname="discoverybar.trash">
         <source>Trash</source>
         <target xml:lang="pl" state="translated">Kosz</target>
