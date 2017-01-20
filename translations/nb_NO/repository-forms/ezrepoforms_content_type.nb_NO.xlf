@@ -2,9 +2,25 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="file.ext" target-language="nb">
     <body>
+      <trans-unit id="d8ed8632f53a803e8c0b7686aca78dfd">
+        <source>content_type.delete</source>
+        <target xml:lang="nb" state="translated">Slett</target>
+      </trans-unit>
       <!-- Field definition -->
       <!-- Errors -->
       <!-- ContentType groups -->
+      <trans-unit id="4fc6b746712fd2aeaea4d323a89ee4a3">
+        <source>content_type.group.identifier</source>
+        <target xml:lang="nb" state="translated">Identifikator for innholdsgruppe</target>
+      </trans-unit>
+      <trans-unit id="efa6eedcf144d6acddf602ffe497fedf">
+        <source>content_type.group.save</source>
+        <target xml:lang="nb" state="translated">Lagre</target>
+      </trans-unit>
+      <trans-unit id="21b3559b40d1828b8fc109bcfeebc70e">
+        <source>content_type.group.delete</source>
+        <target xml:lang="nb" state="translated">Slett</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
