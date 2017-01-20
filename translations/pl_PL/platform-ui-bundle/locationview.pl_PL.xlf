@@ -138,6 +138,21 @@
         <note>key: locationview.locations.visible</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="d6b8b44043ab3a73bd6a8a1e1e9079e55a816623" resname="locationview.relations.no.related.content">
+        <source>This content has no related content.</source>
+        <target xml:lang="pl" state="translated">Ta treść nie ma powiązanych elementów.</target>
+        <note>key: locationview.relations.no.related.content</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0b409a5f5675b6ee03cfaea432d179c2648a36a3" resname="locationview.relations.related.content">
+        <source>Related content</source>
+        <target xml:lang="pl" state="translated">Elementy powiązane</target>
+        <note>key: locationview.relations.related.content</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Powiązane elementy</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit id="b7920f94494966e6db92b3937a84d3add836a812" resname="locationview.versions.author">
         <source>Author</source>
         <target xml:lang="pl" state="translated">Autor</target>
