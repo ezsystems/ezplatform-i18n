@@ -2,6 +2,10 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="file.ext" target-language="nb">
     <body>
+      <trans-unit id="14">
+        <source>content_type.edit_title</source>
+        <target xml:lang="nb" state="translated">Rediger innholdstype</target>
+      </trans-unit>
       <trans-unit id="c922cb4d7cf06dd353a1c42e5beaa942">
         <source>content_type.create</source>
         <target xml:lang="nb" state="translated">Opprett ny gruppe</target>
