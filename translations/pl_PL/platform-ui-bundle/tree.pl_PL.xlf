@@ -8,9 +8,12 @@
     <body>
       <trans-unit id="a4b16c26cb1349d85fd849abedb5d4e4b921b4ce" resname="tree.empty">
         <source>The Content Tree is empty</source>
-        <target xml:lang="pl" state="translated">Drzewo elementów jest puste</target>
+        <target xml:lang="pl" state="translated">Drzewo zawartości jest puste</target>
         <note>key: tree.empty</note>
         <jms:reference-file>./Resources/public/js/views/ez-treeview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Drzewo elementów jest puste</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="f75d3723a7901fb539c3f580f5cdaab5bb7b2257" resname="tree.loading">
         <source>Loading</source>
