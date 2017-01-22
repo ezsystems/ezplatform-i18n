@@ -82,11 +82,14 @@
       </trans-unit>
       <trans-unit id="d5c97668af30fef2819f3f52add12af828cbe9b3" resname="subitem.no.subitem">
         <source>This location has no sub-item.</source>
-        <target xml:lang="pl" state="translated">Ta lokacja nie ma podelementów.</target>
+        <target xml:lang="pl" state="translated">Ta lokalizacja nie ma żadnych elementów podrzędnych.</target>
         <note>key: subitem.no.subitem</note>
         <jms:reference-file>./Resources/public/templates/subitem/grid.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/subitem/list.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/subitem/listmore.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Ta lokacja nie ma podelementów.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="30b83e737fd8950c2dd108986fa2a82820c2a033" resname="subitem.previous">
         <source>Previous</source>
@@ -103,9 +106,12 @@
       </trans-unit>
       <trans-unit id="5f58a440086c7ddb295d36e1b7b58af48b6f568a" resname="subitem.subitems">
         <source>Sub-items</source>
-        <target xml:lang="pl" state="translated">Podelementy</target>
+        <target xml:lang="pl" state="translated">Elementy podrzędne</target>
         <note>key: subitem.subitems</note>
         <jms:reference-file>./Resources/public/templates/subitembox.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Podelementy</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="31c20e73fa29248cc7bf440ac9d720ff6d88fd3e" resname="translations">
         <source>Translations</source>
