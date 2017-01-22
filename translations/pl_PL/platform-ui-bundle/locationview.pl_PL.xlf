@@ -158,9 +158,12 @@
       </trans-unit>
       <trans-unit id="2e143171eb44b9d8b17a06195b938181101de957" resname="locationview.details.contentid">
         <source>Content Id</source>
-        <target xml:lang="pl" state="translated">ID elementu</target>
+        <target xml:lang="pl" state="translated">ID obiektu</target>
         <note>key: locationview.details.contentid</note>
         <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">ID elementu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="34ce6c404ac9a5a82f9a598d3e4e62916094c351" resname="locationview.details.contentremoteid">
         <source>Content remote Id</source>
@@ -176,9 +179,12 @@
       </trans-unit>
       <trans-unit id="5095b70f3c9ccc1c77ba2d4f8ae1b2ce6121e233" resname="locationview.details.default.listing.of.subitems.by">
         <source>Default listing of sub-items by</source>
-        <target xml:lang="pl" state="translated">Domyślnie sortuj podelementy według:</target>
+        <target xml:lang="pl" state="translated">Domyślnie sortuj elementy podrzędne według:</target>
         <note>key: locationview.details.default.listing.of.subitems.by</note>
         <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Domyślnie sortuj podelementy według:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="5cc52ce2cc763622f266df9138b7e507cca2d7de" resname="locationview.details.errorcontributor">
         <source>An error occurred while loading the last contributor.</source>
@@ -242,9 +248,12 @@
       </trans-unit>
       <trans-unit id="dacdbac551cb8fc3eb998fead8834693305ba105" resname="locationview.details.title">
         <source>Content details</source>
-        <target xml:lang="pl" state="translated">Szczegóły elementu</target>
+        <target xml:lang="pl" state="translated">Szczegóły obiektu</target>
         <note>key: locationview.details.title</note>
         <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Szczegóły elementu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="a651fb9282b5626ba9e3a6cdfd1861b981aa1d76" resname="locationview.details.translations">
         <source>Translations</source>
@@ -266,9 +275,12 @@
       </trans-unit>
       <trans-unit id="d97d830f21868cefae182b651cb5399379d61a4e" resname="locationview.locations.content.locations">
         <source>Content locations</source>
-        <target xml:lang="pl" state="translated">Lokacje elementu</target>
+        <target xml:lang="pl" state="translated">Lokalizacje obiektu</target>
         <note>key: locationview.locations.content.locations</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Lokacje elementu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="33ceaa61b8d64b8c3ea118e4f8d1c172c97f5329" resname="locationview.locations.hidden">
         <source>Hidden</source>
@@ -332,9 +344,12 @@
       </trans-unit>
       <trans-unit id="b5ab365ec9097447d661364c587dd74a3a2a4da3" resname="locationview.locations.subitems">
         <source>Sub-items</source>
-        <target xml:lang="pl" state="translated">Podelementy</target>
+        <target xml:lang="pl" state="translated">Elementy podrzędne</target>
         <note>key: locationview.locations.subitems</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Podelementy</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="78f72ceb515315ffb377e812832368f846c12fec" resname="locationview.locations.swap.with.another">
         <source>Swap the Content item at this location with another</source>
@@ -580,9 +595,12 @@
       </trans-unit>
       <trans-unit id="4f2fcdfe68ca50269b9c334594a8acd1a688809f" resname="sort.name">
         <source>Content name</source>
-        <target xml:lang="pl" state="translated">Nazwa elementu</target>
+        <target xml:lang="pl" state="translated">Nazwa obiektu</target>
         <note>key: sort.name</note>
         <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Nazwa elementu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="668f8150c4acd0a0c8075de8b794639b8b4a6519" resname="sort.path">
         <source>Location path</source>
