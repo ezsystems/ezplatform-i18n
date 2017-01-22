@@ -30,6 +30,72 @@
         <note>key: authorinput.remove</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/authorinput.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="9b553533713b1ca3b636ebe184350b5c0301a296" resname="bad.checksum.last.digit.should.be">
+        <source>Bad checksum, last digit of ISBN 13 should be %checkDigit%</source>
+        <target xml:lang="pl" state="translated">Niepoprawna suma kontrolna, ostatni znak ISBN 13 powinien być %checkDigit%</target>
+        <note>key: bad.checksum.last.digit.should.be</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e5070f4a7780feaac79ab807cd1546a70effb49d" resname="binaryfile.download">
+        <source>Download the file</source>
+        <target xml:lang="pl" state="translated">Pobierz plik</target>
+        <note>key: binaryfile.download</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6368a200a5ca556ba56c6065d90cb55ccf4b3262" resname="binaryfile.empty">
+        <source>No file yet.</source>
+        <target xml:lang="pl" state="translated">Brak pliku.</target>
+        <note>key: binaryfile.empty</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="30424972909697b477376e7ca05c88535f9a2b58" resname="binaryfile.help">
+        <source>Drag and drop your file here or simply click on the buttons and select your file manually.</source>
+        <target xml:lang="pl" state="translated">Przeciągnij i upuść swój plik tutaj lub kliknij na przycisk aby wybrać plik ręcznie.</target>
+        <note>key: binaryfile.help</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="deb180f588060bb98b95d7df6d43b0d9d5278774" resname="binaryfile.name">
+        <source>File name:</source>
+        <target xml:lang="pl" state="translated">Nazwa pliku:</target>
+        <note>key: binaryfile.name</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="63b7d9eb28e23a7b075fd63567bb1c021b8f93d0" resname="binaryfile.or">
+        <source>or</source>
+        <target xml:lang="pl" state="translated">lub</target>
+        <note>key: binaryfile.or</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="09251818f4f6aabd8f9c9e3caddd0e52a4e94f53" resname="binaryfile.remove">
+        <source>Remove this file</source>
+        <target xml:lang="pl" state="translated">Usuń ten plik</target>
+        <note>key: binaryfile.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1c966af2e1e58bbe0cc2fcedf97a72a128f97e05" resname="binaryfile.replace">
+        <source>Replace this file</source>
+        <target xml:lang="pl" state="translated">Zamień ten plik</target>
+        <note>key: binaryfile.replace</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="43102016be1b21e84fd962003da92c48bc434ad3" resname="binaryfile.size">
+        <source>File size:</source>
+        <target xml:lang="pl" state="translated">Rozmiar pliku:</target>
+        <note>key: binaryfile.size</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="012ca0baa21f8d816f95de486b4da746ed42f845" resname="binaryfile.type">
+        <source>Type:</source>
+        <target xml:lang="pl" state="translated">Typ:</target>
+        <note>key: binaryfile.type</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="50d21f53a194d59aa5f1e9f3a12af1afcc6ef8fe" resname="binaryfile.upload">
+        <source>Upload a file</source>
+        <target xml:lang="pl" state="translated">Prześlij plik</target>
+        <note>key: binaryfile.upload</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="a1e89ea5d1c7efa83d78aecaaf08c993df7b8d7a" resname="relation.empty">
         <source>No relation.</source>
         <target xml:lang="pl" state="translated">Brak powiązanych elementów.</target>
