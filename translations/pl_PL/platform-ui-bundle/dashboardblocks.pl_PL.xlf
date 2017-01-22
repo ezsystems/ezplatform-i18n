@@ -8,9 +8,12 @@
     <body>
       <trans-unit id="643281298a4a2c0e5590ad430fbf5c503888dfec" resname="cannot.load.root.location">
         <source>Cannot load root location</source>
-        <target xml:lang="pl" state="translated">Nie można załadować głównej lokacji</target>
+        <target xml:lang="pl" state="translated">Nie można załadować głównej lokalizacji</target>
         <note>key: cannot.load.root.location</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-dashboardblocksviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Nie można załadować głównej lokacji</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="ff6664ae5d5b882ee85a683861bf2d39369f3992" resname="dashboard.all.content">
         <source>All Content</source>
@@ -69,6 +72,14 @@
         <source>You don't have any drafts.</source>
         <target xml:lang="pl" state="translated">Brak szkiców.</target>
         <note>key: dashboard.mydrafts.no.draft</note>
+        <jms:reference-file>./Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1598105f8c01cd4d73924667af473114a30c2ae5" resname="dashboard.retry">
+        <source>Retry</source>
+        <target xml:lang="pl" state="translated">Ponów</target>
+        <note>key: dashboard.retry</note>
+        <jms:reference-file>./Resources/public/templates/dashboard/allcontent.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="e9c04dcd1a73d8cb5fc72ca356e61ab28d38ec46" resname="dashboard.title">
