@@ -6,6 +6,18 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="ca64ff63bda52d9511fe5fc4f98dce4034335f0a" resname="binaryfile.download.file">
+        <source>Download the file</source>
+        <target xml:lang="pl" state="translated">Pobierz plik</target>
+        <note>key: binaryfile.download.file</note>
+        <jms:reference-file>./Resources/public/templates/fields/view/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6167f5a54d6b6aeda1db413dcfb2e5ead6632a32" resname="failed.to.load.the.map">
+        <source>Failed to load the map</source>
+        <target xml:lang="pl" state="translated">Nie udało się załądować mapy</target>
+        <note>key: failed.to.load.the.map</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-view.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="977cb55c24b1708d46ccbd753c2cea745976ae21" resname="fieldview.field.empty">
         <source>This field is empty</source>
         <target xml:lang="pl" state="translated">To pole jest puste</target>
@@ -26,6 +38,62 @@
         <jms:reference-file>./Resources/public/templates/fields/view/url.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/fields/view/user.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/fields/view/xmltext.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="81448b0d61f500e4292f65544a15c667721d061a" resname="fieldview.no">
+        <source>no</source>
+        <target xml:lang="pl" state="translated">nie</target>
+        <note>key: fieldview.no</note>
+        <jms:reference-file>./Resources/public/templates/fields/view/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b6c23de67df46c0c13d509f9132dc9dc1477c4cf" resname="fieldview.retry">
+        <source>Retry</source>
+        <target xml:lang="pl" state="translated">Ponów</target>
+        <note>key: fieldview.retry</note>
+        <jms:reference-file>./Resources/public/templates/fields/view/image.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/fields/view/relation.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/fields/view/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9b682841001f88b881dff78dc5f0d7dff0b71330" resname="fieldview.yes">
+        <source>yes</source>
+        <target xml:lang="pl" state="translated">tak</target>
+        <note>key: fieldview.yes</note>
+        <jms:reference-file>./Resources/public/templates/fields/view/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a64621b5af174b18350e8774d65ac227c79f0077" resname="file.size">
+        <source><![CDATA[<span class="ez-binaryfile-properties-size">%size%</span>&nbsp;bytes]]></source>
+        <target xml:lang="pl" state="translated"><![CDATA[<span class="ez-binaryfile-properties-size">%size%</span> bajtów]]></target>
+        <note>key: file.size</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dbaaba623cb1c7f8c1c65c4be03b3838a8e80908" resname="image.error.loading">
+        <source>An error occurred while loading the image.</source>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas wczytywania obrazu.</target>
+        <note>key: image.error.loading</note>
+        <jms:reference-file>./Resources/public/templates/fields/view/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6a5e12298723fd524ac84a436bcfd7fe381310ce" resname="image.loading">
+        <source>Loading the image</source>
+        <target xml:lang="pl" state="translated">Wczytywanie grafiki</target>
+        <note>key: image.loading</note>
+        <jms:reference-file>./Resources/public/templates/fields/view/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e21151edf210d6968aa67c35235066389865f136" resname="maplocation.latitude">
+        <source>Latitude:</source>
+        <target xml:lang="pl" state="translated">Szerokość geograficzna:</target>
+        <note>key: maplocation.latitude</note>
+        <jms:reference-file>./Resources/public/templates/fields/view/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="60f60bbfc3c9cd30603670eb6b91fa5a1619f73b" resname="maplocation.longitude">
+        <source>Longitude:</source>
+        <target xml:lang="pl" state="translated">Długość geograficzna:</target>
+        <note>key: maplocation.longitude</note>
+        <jms:reference-file>./Resources/public/templates/fields/view/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f99159789fb9c89f1ac926ec3e8221b5bc4fd34e" resname="maplocation.map.loading">
+        <source>The map is loading...</source>
+        <target xml:lang="pl" state="translated">Wczytywanie mapy...</target>
+        <note>key: maplocation.map.loading</note>
+        <jms:reference-file>./Resources/public/templates/fields/view/maplocation.hbt</jms:reference-file>
       </trans-unit>
     </body>
   </file>
