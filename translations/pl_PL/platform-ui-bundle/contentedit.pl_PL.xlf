@@ -188,6 +188,12 @@
         <note>key: version.not.belong.to.you</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="4399ce0f2a2f08359f4a35c8597b8579e9c302ab" resname="version.not.exist.in">
+        <source>The version '%versionId%' does not exist in '%languageCode%'</source>
+        <target xml:lang="pl" state="translated">Wersja '%versionId%' nie istnieje w języku '%languageCode%'</target>
+        <note>key: version.not.exist.in</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
