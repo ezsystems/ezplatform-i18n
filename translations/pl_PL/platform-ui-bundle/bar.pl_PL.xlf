@@ -86,9 +86,12 @@
       </trans-unit>
       <trans-unit id="7eaf9281f3e62d4f3acf5dac5b34060808c363b9" resname="discoverybar.contenttree">
         <source>Content tree</source>
-        <target xml:lang="pl" state="translated">Drzewo elementów</target>
+        <target xml:lang="pl" state="translated">Drzewo zawartości</target>
         <note>key: discoverybar.contenttree</note>
         <jms:reference-file>./Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Drzewo elementów</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="pl">Drzewo treści</target>
         </alt-trans>
@@ -143,9 +146,12 @@
       </trans-unit>
       <trans-unit id="69136005da4d2304538601244f76e7e68a009049" resname="hidden.location">
         <source>Location "%id" has been hidden</source>
-        <target xml:lang="pl" state="translated">Ukryto lokację "%id"</target>
+        <target xml:lang="pl" state="translated">Ukryto lokalizację "%id"</target>
         <note>key: hidden.location</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Ukryto lokację "%id"</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="a08ae71216dacd8a23c388addb647ecab7e3fcc1" resname="hiding.location">
         <source>Hiding Location "%id%"</source>
@@ -161,9 +167,12 @@
       </trans-unit>
       <trans-unit id="9ed496cc88a3a2f48a33464deb00f217d41803ca" resname="locations.created">
         <source>%count% new locations for "%name%" have been successfully created</source>
-        <target xml:lang="pl" state="translated">Utworzono %count% nowych lokacji dla elementu "%name%"</target>
+        <target xml:lang="pl" state="translated">Utworzono %count% nowych lokalizacji dla obiektu "%name%"</target>
         <note>key: locations.created</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Utworzono %count% nowych lokacji dla elementu "%name%"</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="0303d73c8f63f2d6b9f34ac721f6622214ad458d" resname="revealed.location">
         <source>Location "%id%" has been revealed</source>
