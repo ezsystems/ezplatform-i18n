@@ -96,6 +96,250 @@
         <note>key: binaryfile.upload</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="a471779c9392f01dd003a1bc6879fd783e050f84" resname="date.and.time.not.valid">
+        <source>Date and time do not have valid inputs</source>
+        <target xml:lang="pl" state="translated">Data i czas nie są poprawne</target>
+        <note>key: date.and.time.not.valid</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="81e49b2ea1382af92570ae58ccb754535b55b224" resname="date.calendar">
+        <source>Calendar</source>
+        <target xml:lang="pl" state="translated">Kalendarz</target>
+        <note>key: date.calendar</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/date.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1096c88b9ecb1c83173e6fe1a7330ac88aae7e1e" resname="date.not.valid">
+        <source>This is not a correct date</source>
+        <target xml:lang="pl" state="translated">To nie jest prawidłowa data</target>
+        <note>key: date.not.valid</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="86b1150b591a089eab73f5cb58fc11964ccb5f78" resname="date.not.valid.time.missing">
+        <source>Date do not have a valid input and time is missing</source>
+        <target xml:lang="pl" state="translated">Data nie jest poprawna lub brakuje czasu</target>
+        <note>key: date.not.valid.time.missing</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b262de6dff7418fd4c316ac5946911aff50c5df1" resname="date.not.valid.time.required">
+        <source>Date do not have a valid input and time is required</source>
+        <target xml:lang="pl" state="translated">Data nie jest poprawna i czas jest wymagany</target>
+        <note>key: date.not.valid.time.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5ea84ba9d0dd61b9b47b2104f086c4770daf2c74" resname="date.placeholder">
+        <source>YYYY-MM-DD</source>
+        <target xml:lang="pl" state="translated">RRRR-MM-DD</target>
+        <note>key: date.placeholder</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/date.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">YYYY-MM-DD</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="ac8b6151c30254609f6e9f2a7ab5c5570ea94dcd" resname="date.required">
+        <source>Date is required</source>
+        <target xml:lang="pl" state="translated">Data jest wymagana</target>
+        <note>key: date.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c1eee799ee7368e2089f1eb18e2431108253dc07" resname="date.time.required">
+        <source>Date and time are required</source>
+        <target xml:lang="pl" state="translated">Data i czas są wymagane</target>
+        <note>key: date.time.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3512b5e328b32d7ad9f98fa9fdc35df7f2207526" resname="dropped.several.files">
+        <source>You dropped several files while only one can be stored in this field. Please choose one file.</source>
+        <target xml:lang="pl" state="translated">Przeniosłeś parę plików podczas gdy tylko jeden może zostać zapisany w tym polu. Proszę wybrać pojedynczy plik.</target>
+        <note>key: dropped.several.files</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="77e9dcf7fa3a6196173e1ef8d749321c078a61fb" resname="dropped.text.selection">
+        <source>You dropped a text selection while this field can only store a file. Please drop a file instead.</source>
+        <target xml:lang="pl" state="translated">Przeniosłeś zaznaczony tekst podczas gdy to pole może wyłącznie przechowywać pliki. Proszę przenieść plik.</target>
+        <note>key: dropped.text.selection</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7e57a01ae6b4b0385ec149a170df478fa2868f25" resname="email.not.valid">
+        <source>The email address should be valid</source>
+        <target xml:lang="pl" state="translated">Adres email powinien być poprawny</target>
+        <note>key: email.not.valid</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-emailaddress-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9c96ffba7a783d0786368dbf8b2b23dfc4188e66" resname="email.required">
+        <source>The email address is required</source>
+        <target xml:lang="pl" state="translated">Adres email jest wymagany</target>
+        <note>key: email.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3baff585bf1b4c49f13ffa7f27f2afb737498a8c" resname="email.required.if.name.filled">
+        <source>The email address is required if the name is filled.</source>
+        <target xml:lang="pl" state="translated">Adres email jest wymagany jeśli nazwa została wypełniona.</target>
+        <note>key: email.required.if.name.filled</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4681faa8e9e01a7b94ecbbc5f581b4d44a5e935d" resname="embed.content.not.loaded">
+        <source>Embedded Content item could not be loaded</source>
+        <target xml:lang="pl" state="translated">Osadzony obiekt nie może zostać załadowany</target>
+        <note>key: embed.content.not.loaded</note>
+        <jms:reference-file>./Resources/public/js/views/fields/richtext/ez-richtext-resolveembed.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0a60003c1459ed6556b63b64c050fd4d070d94e4" resname="error.during.geolocation.request">
+        <source>An error occurred during geolocation request of your current position</source>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas próby geolokalizacji twojego aktualnego położenia</target>
+        <note>key: error.during.geolocation.request</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9c74a8f5f67dd8e07a2912177bc6de9c9cde6d75" resname="failed.retrieve.google.maps.api">
+        <source>Failed to retrieve Google Maps API</source>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas pobierania interfejsu Google Maps API</target>
+        <note>key: failed.retrieve.google.maps.api</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a64621b5af174b18350e8774d65ac227c79f0077" resname="file.size">
+        <source>(%size% bytes)</source>
+        <target xml:lang="pl" state="translated">(%size% bajtów)</target>
+        <note>key: file.size</note>
+        <jms:reference-file>./Resources/public/templates/fields/view/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c02ec1f84b17c734661c3a5935960b7392a3af2a" resname="float.value.should.be.less.than">
+        <source>The value should be less than or equal to %maxFloatValue%</source>
+        <target xml:lang="pl" state="translated">Wartość powinna być mnie lub równa %maxFloatValue%</target>
+        <note>key: float.value.should.be.less.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f29cb6461d72c2fe892e65d4dd7dd296ed5db961" resname="float.value.should.be.more.than">
+        <source>The value should be more than or equal to %minFloatValue%</source>
+        <target xml:lang="pl" state="translated">Wartość powinna być większa lub równa %minFloatValue%</target>
+        <note>key: float.value.should.be.more.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0e560377b2f3909ebf37cd10977860242a93f694" resname="geocoding.error">
+        <source>An error occurred during the geocoding request for this address</source>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas pobierania lokalizacji dla podanego adresu</target>
+        <note>key: geocoding.error</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="683f0d47319d2d3671eb34b0aab6bcc549b0ac5e" resname="google.map.not.loaded.correctly">
+        <source>Google maps are not loaded correctly, try reloading the page</source>
+        <target xml:lang="pl" state="translated">Google Maps nie zostały pomyślnie załadowane, spróbuj odświeżyć stronę</target>
+        <note>key: google.map.not.loaded.correctly</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5c973cf4cef4fd2936dbd1d7879ccdcd8b9e6ffe" resname="image.alternativetext">
+        <source>Alternative text:</source>
+        <target xml:lang="pl" state="translated">Tekst alternatywny:</target>
+        <note>key: image.alternativetext</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b93ecd00f44abdce9d25bb437706b04329a172aa" resname="image.content.not.loaded">
+        <source>Image could not be loaded</source>
+        <target xml:lang="pl" state="translated">Grafika nie może zostać załadowana</target>
+        <note>key: image.content.not.loaded</note>
+        <jms:reference-file>./Resources/public/js/views/fields/richtext/ez-richtext-resolveimage.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c21c1e24ffd073c7213022cf4d0cde8e94be62b8" resname="image.fullwidth">
+        <source>View the full width image</source>
+        <target xml:lang="pl" state="translated">Zobacz grafikę o pełnej szerokości</target>
+        <note>key: image.fullwidth</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="421768b6fafc8049fe02c600c5bc6ecb8a5590c2" resname="image.help">
+        <source>Drag and drop your image here or simply click on the buttons and select your image manually.</source>
+        <target xml:lang="pl" state="translated">Przeciągnij i upuść swoją grafikę tutaj lub kliknij w przycisk aby wybrać grafikę ręcznie.</target>
+        <note>key: image.help</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="623d52cead77075eabf73bd844f1870264264f8e" resname="image.name">
+        <source>File name</source>
+        <target xml:lang="pl" state="translated">Nazwa pliku</target>
+        <note>key: image.name</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4869b50f2d217dadd224261042666bd2a3fd0e9e" resname="image.noimage">
+        <source>No image yet.</source>
+        <target xml:lang="pl" state="translated">Brak grafiki.</target>
+        <note>key: image.noimage</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ddb2b77067d29961704d011d303b42d5fcc00e5c" resname="image.or">
+        <source>or</source>
+        <target xml:lang="pl" state="translated">lub</target>
+        <note>key: image.or</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7deddf51ab844e5621b291039176191f8bbdef95" resname="image.preview">
+        <source>Image preview</source>
+        <target xml:lang="pl" state="translated">Podgląd grafiki</target>
+        <note>key: image.preview</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a291c895782db79ab2693d1e91090f491402f32d" resname="image.properties">
+        <source>Image properties</source>
+        <target xml:lang="pl" state="translated">Właściwości grafiki</target>
+        <note>key: image.properties</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="eaa4c2c811e8e5048745d4d437e122b67e16bbfa" resname="image.remove">
+        <source>Remove this image</source>
+        <target xml:lang="pl" state="translated">Usuń grafikę</target>
+        <note>key: image.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Usuń tę grafikę</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="e7b9c11716066f2b3bcb38ac4db35fb7501118e0" resname="image.replace">
+        <source>Replace this image</source>
+        <target xml:lang="pl" state="translated">Zamień grafikę</target>
+        <note>key: image.replace</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="265c4b8ea4ab58567a9be6610f7dff0b99223299" resname="image.size">
+        <source>File size:</source>
+        <target xml:lang="pl" state="translated">Rozmiar pliku:</target>
+        <note>key: image.size</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="16a6d4b19907cd8be6b2be041fca055ad70a3447" resname="image.thumbnail.error">
+        <source>An error occurred while loading the thumbnail.</source>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas ładowania miniatury.</target>
+        <note>key: image.thumbnail.error</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b17eed3677a5d65192b549375f533751091f25f" resname="image.thumbnail.loading">
+        <source>Loading a thumbnail of the image...</source>
+        <target xml:lang="pl" state="translated">Trwa ładowanie miniatury dla grafiki...</target>
+        <note>key: image.thumbnail.loading</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="689cae8350541efc2cad64f32e6d1a9512845b05" resname="image.thumbnail.retry">
+        <source>Retry</source>
+        <target xml:lang="pl" state="translated">Ponów</target>
+        <note>key: image.thumbnail.retry</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1fa08ff0c1b3b004705e4fc4884f7c0cf631465a" resname="image.type">
+        <source>Type:</source>
+        <target xml:lang="pl" state="translated">Typ:</target>
+        <note>key: image.type</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3cb3d1ded419f0923f0b00e65e3c9b6c112e450c" resname="image.upload">
+        <source>Upload an image</source>
+        <target xml:lang="pl" state="translated">Wgraj grafikę</target>
+        <note>key: image.upload</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f0edbc370c196d4d5a74049ed4382bbd16aa4b82" resname="input.not.valid">
+        <source>This is not a valid input</source>
+        <target xml:lang="pl" state="translated">To nie jest poprawna wartość</target>
+        <note>key: input.not.valid</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="a1e89ea5d1c7efa83d78aecaaf08c993df7b8d7a" resname="relation.empty">
         <source>No relation.</source>
         <target xml:lang="pl" state="translated">Brak powiązanych elementów.</target>
