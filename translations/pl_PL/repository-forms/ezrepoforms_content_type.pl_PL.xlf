@@ -2,6 +2,22 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="file.ext" target-language="pl">
     <body>
+      <trans-unit id="1">
+        <source>content_type.name</source>
+        <target xml:lang="pl" state="translated">Nazwa</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>content_type.identifier</source>
+        <target xml:lang="pl" state="translated">Identyfikator</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>content_type.description</source>
+        <target xml:lang="pl" state="translated">Opis</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>content_type.name_schema</source>
+        <target xml:lang="pl" state="translated">Schemat nazwy</target>
+      </trans-unit>
       <!-- Field definition -->
       <!-- Errors -->
       <!-- ContentType groups -->
