@@ -24,6 +24,24 @@
         <note>key: draftconflict.language</note>
         <jms:reference-file>./Resources/public/templates/confirmbox/draftconflict.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="0061cab899c3a8d9b9f601491b0474f9d85d92a7" resname="draftconflict.lastmodified">
+        <source>Last Modified</source>
+        <target xml:lang="pl" state="translated">Ostatnia modyfikacja</target>
+        <note>key: draftconflict.lastmodified</note>
+        <jms:reference-file>./Resources/public/templates/confirmbox/draftconflict.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c35f9f95f267fd0c78da8ae80914a1cbc15bb90b" resname="draftconflict.newdraft">
+        <source>New Draft</source>
+        <target xml:lang="pl" state="translated">Nowy szkic</target>
+        <note>key: draftconflict.newdraft</note>
+        <jms:reference-file>./Resources/public/templates/confirmbox/draftconflict.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="302cfdba7ddbb677d9abb7967b44aaf8ab0ce8d0" resname="draftconflict.owner">
+        <source>Owner</source>
+        <target xml:lang="pl" state="translated">Właściciel</target>
+        <note>key: draftconflict.owner</note>
+        <jms:reference-file>./Resources/public/templates/confirmbox/draftconflict.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
