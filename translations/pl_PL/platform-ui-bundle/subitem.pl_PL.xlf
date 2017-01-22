@@ -62,6 +62,18 @@
         <jms:reference-file>./Resources/public/js/views/subitem/ez-asynchronoussubitemview.js</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/subitem/list.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="1ba785e2cab1df903e4feca2bc9e4eccf5b542dc" resname="subitem.first">
+        <source>First</source>
+        <target xml:lang="pl" state="translated">Pierwszy</target>
+        <note>key: subitem.first</note>
+        <jms:reference-file>./Resources/public/templates/subitem/list.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0729624b971947f00032e59cd4de5fe7e8c92e4e" resname="subitem.last">
+        <source>Last</source>
+        <target xml:lang="pl" state="translated">Ostatni</target>
+        <note>key: subitem.last</note>
+        <jms:reference-file>./Resources/public/templates/subitem/list.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="c9196a19ae958da788cf0b5fbb4e0fb6451ebdf2" resname="subitem.next">
         <source>Next</source>
         <target xml:lang="pl" state="translated">Dalej</target>
