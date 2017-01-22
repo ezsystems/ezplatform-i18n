@@ -580,10 +580,22 @@
         <note>key: over.maximum.allowed.size</note>
         <jms:reference-file>./Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="6fe513c14eb957ff25185e5b3bf73f9f3a8ccee4" resname="refused.not.an.image">
+        <source>The file '%name%' was refused because it seems to not be an image. Please choose an image file.</source>
+        <target xml:lang="pl" state="translated">Plik "%name%" został odrzucony ponieważ nie jest on grafiką. Proszę wybrać plik z grafiką.</target>
+        <note>key: refused.not.an.image</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="a1e89ea5d1c7efa83d78aecaaf08c993df7b8d7a" resname="relation.empty">
         <source>No relation.</source>
         <target xml:lang="pl" state="translated">Brak powiązanych elementów.</target>
         <note>key: relation.empty</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c0c592b62ccf324bfae2eba6f869050b32641b0c" resname="relation.error">
+        <source>An error occurred while loading the related content.</source>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas ładowania obiektów powiązanych.</target>
+        <note>key: relation.error</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="1a0432678a22f538bc956d02a1a52709a24019a3" resname="relation.help">
@@ -592,10 +604,34 @@
         <note>key: relation.help</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="d83d7f0b353c6177f297b5a502f4beae187819ec" resname="relation.loading">
+        <source>Loading the related content</source>
+        <target xml:lang="pl" state="translated">Ładowanie obiektów powiązanych</target>
+        <note>key: relation.loading</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="75d2eb26107e9f1bebc6fd525965df6a2c35dee8" resname="relation.modified">
+        <source>Modified:</source>
+        <target xml:lang="pl" state="translated">Modyfikowano:</target>
+        <note>key: relation.modified</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fe7dd2a6fbf71766715c5ea46100398267102adc" resname="relation.published">
+        <source>Published:</source>
+        <target xml:lang="pl" state="translated">Opublikowano:</target>
+        <note>key: relation.published</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="f46aad015f05a6ae74da1d451f030dcc02dc1e39" resname="relation.remove">
         <source>Remove relation</source>
         <target xml:lang="pl" state="translated">Usuń powiązanie</target>
         <note>key: relation.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d0a96c335f3402fd4df0fdad937321b580c13eb7" resname="relation.retry">
+        <source>Retry</source>
+        <target xml:lang="pl" state="translated">Ponów</target>
+        <note>key: relation.retry</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="2e594c668c9f88817270dd8c12acd559fe485f5b" resname="relation.select">
@@ -603,6 +639,30 @@
         <target xml:lang="pl" state="translated">Wybierz element</target>
         <note>key: relation.select</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="76eb23938007b8dc5d74961c52923f34fd9863fc" resname="relationlist.empty">
+        <source>No relation.</source>
+        <target xml:lang="pl" state="translated">Brak relacji.</target>
+        <note>key: relationlist.empty</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7b6f3591c6f295907a1636bd3ea950fa0126d970" resname="relationlist.error">
+        <source>An error occurred while loading the related content.</source>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas ładowania obiektów powiązanych.</target>
+        <note>key: relationlist.error</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="048ae70654be763915d036765feb172d2baa7559" resname="relationlist.help">
+        <source>Set up multiple relations with several contents.</source>
+        <target xml:lang="pl" state="translated">Ustaw wiele relacji do obiektów.</target>
+        <note>key: relationlist.help</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1d30f0399910c05468169bd5a7f737caff136afe" resname="relationlist.loading">
+        <source>Loading the related content(s)</source>
+        <target xml:lang="pl" state="translated">Ładowanie powiązanych obiektów</target>
+        <note>key: relationlist.loading</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="b0eb3cbb48be1ff976bd4569a8978d63336dd8b7" resname="relationlist.remove">
         <source>Remove</source>
