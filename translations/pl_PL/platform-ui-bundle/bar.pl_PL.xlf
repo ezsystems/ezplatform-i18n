@@ -176,9 +176,12 @@
       </trans-unit>
       <trans-unit id="0303d73c8f63f2d6b9f34ac721f6622214ad458d" resname="revealed.location">
         <source>Location "%id%" has been revealed</source>
-        <target xml:lang="pl" state="translated">Schowano lokację "%id%"</target>
+        <target xml:lang="pl" state="translated">Odkryto lokalizację "%id%"</target>
         <note>key: revealed.location</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Schowano lokację "%id%"</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="67b19056cc5015b057182c283116f05c69507d22" resname="revealing.location">
         <source>Revealing Location "%id%"</source>
@@ -200,9 +203,12 @@
       </trans-unit>
       <trans-unit id="303fa8448e329ecb88341279a1a17b044549270a" resname="select.location.to.create.new.location">
         <source>Select the location where you want to create new location</source>
-        <target xml:lang="pl" state="translated">Wybierz nową lokację</target>
+        <target xml:lang="pl" state="translated">Wybierz nową lokalizację</target>
         <note>key: select.location.to.create.new.location</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wybierz nową lokację</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit">
         <source>Edit</source>
