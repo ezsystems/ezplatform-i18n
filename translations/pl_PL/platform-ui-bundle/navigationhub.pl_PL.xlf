@@ -18,6 +18,12 @@
         <note>key: logout</note>
         <jms:reference-file>./Resources/public/js/views/ez-usermenuview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="2338455ec2fdf1d720446cbf9103ea5e44c772d2" resname="navigationhub.content.structure">
+        <source>Content structure</source>
+        <target xml:lang="pl" state="translated">Struktura treści</target>
+        <note>key: navigationhub.content.structure</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="404d24ec036d0f0f7590d7d63fa9ba64d19116e7" resname="navigationhub.content_type.dashboard_title">
         <source>Content types</source>
         <target xml:lang="pl" state="translated">Typy treści</target>
@@ -85,6 +91,24 @@
         <source>Admin Panel</source>
         <target xml:lang="pl" state="translated">Panel administracyjny</target>
         <note>key: navigationhub.zone.admin</note>
+        <jms:reference-file>./Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f32918f2df2d2ecd3aa263a188187635d45c3d49" resname="navigationhub.zone.platform">
+        <source>Content</source>
+        <target xml:lang="pl" state="translated">Treści</target>
+        <note>key: navigationhub.zone.platform</note>
+        <jms:reference-file>./Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e296e7a38799c79dee11c3e18ac42150c9f02673" resname="navigationhub.zone.studio">
+        <source>Page</source>
+        <target xml:lang="pl" state="translated">Strona</target>
+        <note>key: navigationhub.zone.studio</note>
+        <jms:reference-file>./Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6ab1d96fc11727d94958674d980864844202f89a" resname="navigationhub.zone.studioplus">
+        <source>Performance</source>
+        <target xml:lang="pl" state="translated">Wydajność</target>
+        <note>key: navigationhub.zone.studioplus</note>
         <jms:reference-file>./Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
       </trans-unit>
     </body>
