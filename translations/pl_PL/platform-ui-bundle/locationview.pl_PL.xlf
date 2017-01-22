@@ -218,13 +218,16 @@
       </trans-unit>
       <trans-unit id="7f653bba9440b8a0b2dac47b4c30a5c97ba83678" resname="locationview.details.locationid">
         <source>Location Id</source>
-        <target xml:lang="pl" state="translated">ID lokacji</target>
+        <target xml:lang="pl" state="translated">ID lokalizacji</target>
         <note>key: locationview.details.locationid</note>
         <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">ID lokacji</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="2b72d1da8862e8f7f123df770f7733b294d765a3" resname="locationview.details.remoteid">
         <source>Location remove Id</source>
-        <target xml:lang="pl" state="translated">Usuwanie ID lokalizacji</target>
+        <target xml:lang="pl" state="translated">Zdalne ID lokalizacji</target>
         <note>key: locationview.details.remoteid</note>
         <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
@@ -269,9 +272,12 @@
       </trans-unit>
       <trans-unit id="cf775f467a5d5f450635af645a5587ada940d885" resname="locationview.locations.add.location">
         <source>Add Location</source>
-        <target xml:lang="pl" state="translated">Dodaj lokację</target>
+        <target xml:lang="pl" state="translated">Dodaj lokalizację</target>
         <note>key: locationview.locations.add.location</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Dodaj lokację</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="d97d830f21868cefae182b651cb5399379d61a4e" resname="locationview.locations.content.locations">
         <source>Content locations</source>
@@ -353,9 +359,12 @@
       </trans-unit>
       <trans-unit id="78f72ceb515315ffb377e812832368f846c12fec" resname="locationview.locations.swap.with.another">
         <source>Swap the Content item at this location with another</source>
-        <target xml:lang="pl" state="translated">Zamień miejscami element z tej lokacji z innym</target>
+        <target xml:lang="pl" state="translated">Zamień lokalizację dla tego obiektu</target>
         <note>key: locationview.locations.swap.with.another</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Zamień miejscami element z tej lokacji z innym</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="8bf047758974255c4a8001ef57927d5b4098e7b1" resname="locationview.locations.visibility">
         <source>Visibility</source>
