@@ -8,7 +8,10 @@
       </trans-unit>
       <trans-unit id="b240ba7952e3686902a0ea78ae3fec91" resname="role.save">
         <source>role.save</source>
-        <target xml:lang="pl" state="translated">Zapisz</target>
+        <target xml:lang="pl" state="translated">Zapisz rolę</target>
+        <alt-trans>
+          <target xml:lang="pl">Zapisz</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="2bcaf8ca5d0b4a50085011b522da0dfc">
         <source>role.cancel</source>
@@ -48,7 +51,7 @@
       </trans-unit>
       <trans-unit id="c66259bddf003273f41e31e77b7af64d">
         <source>role.policy.form.delete</source>
-        <target xml:lang="pl" state="translated">Usuń</target>
+        <target xml:lang="pl" state="translated">Usuń polisę</target>
       </trans-unit>
       <trans-unit id="157e46260f2070af0f4f00093c8ee07c">
         <source>role.policy.limitation.none</source>
@@ -77,6 +80,30 @@
       <trans-unit id="7ba51a99524d33986e1169814afd8584" resname="role.assignment.form.delete">
         <source>role.assignment.form.delete</source>
         <target xml:lang="pl" state="translated">Usuń</target>
+      </trans-unit>
+      <trans-unit id="b4b711374bd2445bc8716c0b10c0d361">
+        <source>role.policy.limitation.any</source>
+        <target xml:lang="pl" state="translated">Brak ograniczeń</target>
+      </trans-unit>
+      <trans-unit id="8d4b6dfff06f5ca9afc003c3aea32402">
+        <source>role.policy.limitation.not_implemented</source>
+        <target xml:lang="pl" state="translated">Ograniczenia dla '%limitationTypeIdentifier%' nie zostały zaimplementowane.</target>
+      </trans-unit>
+      <trans-unit id="8274dd06c2b2c0cf113502369bbf9516">
+        <source>policy.limitation.owner.self</source>
+        <target xml:lang="pl" state="translated">Własne</target>
+      </trans-unit>
+      <trans-unit id="6d1269a5d06fd566a4037bf7e59866a8">
+        <source>policy.limitation.group.self</source>
+        <target xml:lang="pl" state="translated">Własne</target>
+      </trans-unit>
+      <trans-unit id="58e363b2a3b22ed976fd14fce49f8ae1">
+        <source>role.policy.limitation.location.udw_title</source>
+        <target xml:lang="pl" state="translated">Wybierz lokalizacje jako ograniczenie polisy</target>
+      </trans-unit>
+      <trans-unit id="112d31a04edd6a98ec253cc6b9336f75">
+        <source>role.policy.limitation.location.udw_button</source>
+        <target xml:lang="pl" state="translated">Wybierz lokalizacje</target>
       </trans-unit>
     </body>
   </file>
