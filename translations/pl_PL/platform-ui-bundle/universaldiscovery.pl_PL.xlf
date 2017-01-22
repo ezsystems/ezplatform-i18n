@@ -50,9 +50,12 @@
       </trans-unit>
       <trans-unit id="572fdb94d49b6e58d297fd7491cf28c77d60e241" resname="universaldiscovery.content.tree">
         <source>Content tree</source>
-        <target xml:lang="pl" state="translated">Drzewo elementów</target>
+        <target xml:lang="pl" state="translated">Drzewo zawartości</target>
         <note>key: universaldiscovery.content.tree</note>
         <jms:reference-file>./Resources/public/templates/universaldiscovery/browse.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Drzewo elementów</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="5d385d494274d016769564a3bdf95332896d62af" resname="universaldiscovery.creation.date">
         <source>Creation Date</source>
