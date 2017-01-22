@@ -18,6 +18,12 @@
         <note>key: no.result</note>
         <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="d5ddefb37351cd23fd0ef3eef4c9afca357a4493" resname="remaining.more">
+        <source>+%remainingCount% more</source>
+        <target xml:lang="pl" state="translated">+%remainingCount% więcej</target>
+        <note>key: remaining.more</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/confirmedlist.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="724b2384805ea6aa150d57d3d870d50b1d661d8b" resname="universaldiscovery.cancel">
         <source>Cancel</source>
         <target xml:lang="pl" state="translated">Anuluj</target>
@@ -64,6 +70,18 @@
         <source>An error occurred while loading the search result list.</source>
         <target xml:lang="pl" state="translated">Wystąpił błąd podczas wczytywania wyników wyszukiwania.</target>
         <note>key: universaldiscovery.error.loading.result</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="75c9a01263a787fb0956c3776f25565f1aca5fee" resname="universaldiscovery.first">
+        <source>First</source>
+        <target xml:lang="pl" state="translated">Pierwszy</target>
+        <note>key: universaldiscovery.first</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="053e68a4e422bcbf510fffa066f6192ad809044f" resname="universaldiscovery.last">
+        <source>Last</source>
+        <target xml:lang="pl" state="translated">Ostatni</target>
+        <note>key: universaldiscovery.last</note>
         <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="b191a7509309ed153691a5ea5a97d2dd2bcfd88d" resname="universaldiscovery.last.modified">
