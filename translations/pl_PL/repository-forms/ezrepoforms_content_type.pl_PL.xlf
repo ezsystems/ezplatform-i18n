@@ -287,8 +287,72 @@
         <source>field_definition.ezimage.max_file_size</source>
         <target xml:lang="pl" state="translated">Maksymalny rozmiar pliku</target>
       </trans-unit>
+      <trans-unit id="142">
+        <source>field_definition.ezdatetime.use_seconds</source>
+        <target xml:lang="pl" state="translated">Używaj sekund</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>field_definition.ezdatetime.default_type</source>
+        <target xml:lang="pl" state="translated">Domyślny typ</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>field_definition.ezdatetime.default_type_empty</source>
+        <target xml:lang="pl" state="translated">Puste</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>field_definition.ezdatetime.default_type_current</source>
+        <target xml:lang="pl" state="translated">Obecna data i czas</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>field_definition.ezdatetime.default_type_adjusted</source>
+        <target xml:lang="pl" state="translated">Dostosowana obecna data i czas</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>field_definition.ezdatetime.date_interval</source>
+        <target xml:lang="pl" state="translated">Obecna data i czas dostosowana przez</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>field_definition.ezobjectrelation.selection_root</source>
+        <target xml:lang="pl" state="translated">Domyślna ścieżka wyboru</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>field_definition.ezobjectrelation.selection_root_udw_title</source>
+        <target xml:lang="pl" state="translated">Wybierz domyślną lokalizację, od której zaczyna się wybór relacji dla tego pola</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>field_definition.ezobjectrelation.selection_root_udw_button</source>
+        <target xml:lang="pl" state="translated">Wybierz obiekt</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>field_definition.ezobjectrelationlist.selection_default_location</source>
+        <target xml:lang="pl" state="translated">Domyślna lokalizacja</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>field_definition.ezobjectrelationlist.selection_content_types</source>
+        <target xml:lang="pl" state="translated">Typy treści</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>field_definition.ezobjectrelationlist.selection_root_udw_title</source>
+        <target xml:lang="pl" state="translated">Wybierz domyślną lokalizację, od której zaczyna się wybór relacji dla tego pola</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>field_definition.ezobjectrelationlist.selection_root_udw_button</source>
+        <target xml:lang="pl" state="translated">Wybierz lokalizację</target>
+      </trans-unit>
       <!-- Errors -->
+      <trans-unit id="1ccb9c8a9c5030a616b4caf4b2e532c0">
+        <source>content_type.error.content_type_group.not_found</source>
+        <target xml:lang="pl" state="translated">Nie znaleziono wybranej grupy</target>
+      </trans-unit>
       <!-- ContentType groups -->
+      <trans-unit id="4fc6b746712fd2aeaea4d323a89ee4a3">
+        <source>content_type.group.identifier</source>
+        <target xml:lang="pl" state="translated">Identyfikator</target>
+      </trans-unit>
+      <trans-unit id="efa6eedcf144d6acddf602ffe497fedf">
+        <source>content_type.group.save</source>
+        <target xml:lang="pl" state="translated">Zapisz</target>
+      </trans-unit>
       <trans-unit id="21b3559b40d1828b8fc109bcfeebc70e">
         <source>content_type.group.delete</source>
         <target xml:lang="pl" state="translated">Usuń</target>
