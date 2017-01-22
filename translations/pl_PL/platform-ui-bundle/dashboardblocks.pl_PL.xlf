@@ -52,9 +52,12 @@
       </trans-unit>
       <trans-unit id="dc6421eab8286e0adb87544214a132d5c31d8fd8" resname="dashboard.my.content">
         <source>My Content</source>
-        <target xml:lang="pl" state="translated">Moja treść</target>
+        <target xml:lang="pl" state="translated">Moje treści</target>
         <note>key: dashboard.my.content</note>
         <jms:reference-file>./Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Moja treść</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="deee7b8356005d3419c3907048b4c62f6c947a3c" resname="dashboard.my.drafts">
         <source>My Drafts</source>
