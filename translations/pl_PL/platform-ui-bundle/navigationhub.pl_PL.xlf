@@ -8,9 +8,12 @@
     <body>
       <trans-unit id="f252acdd0b26f0c35fd6e9ddcdbc27c0ce366e98" resname="failed.to.load.root.locations">
         <source>Failed to load root locations</source>
-        <target xml:lang="pl" state="translated">Nie udało się załadować głównych lokacji</target>
+        <target xml:lang="pl" state="translated">Nie udało się załadować głównych lokalizacji</target>
         <note>key: failed.to.load.root.locations</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Nie udało się załadować głównych lokacji</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="55525e1b3dfd8787fd202aed45fb04494e3242d0" resname="logout">
         <source>Logout</source>
