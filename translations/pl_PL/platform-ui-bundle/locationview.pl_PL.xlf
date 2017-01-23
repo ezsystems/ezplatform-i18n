@@ -59,9 +59,12 @@
       </trans-unit>
       <trans-unit id="c44059e516685b63857e6db9c22a11ed0d990519" resname="deleted.content">
         <source>'%name%' was deleted</source>
-        <target xml:lang="pl" state="translated">"%name%" został pomyślnie usunięte</target>
+        <target xml:lang="pl" state="translated">Usunięto "%name%"</target>
         <note>key: deleted.content</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">"%name%" został pomyślnie usunięte</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="380334ddc39c537065b6b955660ee02d5af915f2" resname="deleting.content">
         <source>Deleting '%name%'</source>
@@ -89,9 +92,12 @@
       </trans-unit>
       <trans-unit id="f569143536f9f8e4e698086f4d85428661a61a37" resname="failed.moving">
         <source>An error occurred while moving your content</source>
-        <target xml:lang="pl" state="translated">Wystąpił błąd podczas przenoszenia obiektu</target>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas przenoszenia elementu</target>
         <note>key: failed.moving</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wystąpił błąd podczas przenoszenia obiektu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="3cb305d711f15ff39be36a9b111cb766c618ec53" resname="failed.removing.locations.of">
         <source>Removing of %count% location(s) of "%name%" has failed</source>
@@ -149,9 +155,12 @@
       </trans-unit>
       <trans-unit id="d68085cf6081898b8757cdee5fb66aff8c0531f6" resname="failed.updating.sort.method">
         <source>An error occured while updating the sub items sort method</source>
-        <target xml:lang="pl" state="translated">Wystąpił błąd podczas aktualizowania rodzaju sortowania dla elementów podrzędnych</target>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas aktualizacji rodzaju sortowania dla podelementów</target>
         <note>key: failed.updating.sort.method</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wystąpił błąd podczas aktualizowania rodzaju sortowania dla elementów podrzędnych</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="e0be1422e1af400879a6716220eabc9ad4fca29e" resname="locationview.details.ascending">
         <source>Ascending</source>
@@ -278,9 +287,6 @@
         <target xml:lang="pl" state="translated">Dodaj lokalizację</target>
         <note>key: locationview.locations.add.location</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
-        <alt-trans>
-          <target xml:lang="pl">Dodaj lokację</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d97d830f21868cefae182b651cb5399379d61a4e" resname="locationview.locations.content.locations">
         <source>Content locations</source>
