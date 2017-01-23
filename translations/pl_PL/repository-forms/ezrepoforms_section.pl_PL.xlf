@@ -20,7 +20,10 @@
       </trans-unit>
       <trans-unit id="a07809a8014c979ffe3e2256610b0ea4">
         <source>section.error.cannot_delete_with_assigned_content</source>
-        <target xml:lang="pl" state="translated">Nie można usunąć sekcji posiadającej obiekty.</target>
+        <target xml:lang="pl" state="translated">Nie można usunąć sekcji zawierającej elementy.</target>
+        <alt-trans>
+          <target xml:lang="pl">Nie można usunąć sekcji posiadającej obiekty.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="85af0dc2a9b83eb5cfc7871a73cbeab9">
         <source>section.form.save</source>
