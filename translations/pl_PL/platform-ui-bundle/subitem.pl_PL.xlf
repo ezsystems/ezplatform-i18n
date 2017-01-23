@@ -82,11 +82,14 @@
       </trans-unit>
       <trans-unit id="d5c97668af30fef2819f3f52add12af828cbe9b3" resname="subitem.no.subitem">
         <source>This location has no sub-item.</source>
-        <target xml:lang="pl" state="translated">Ta lokalizacja nie ma żadnych elementów podrzędnych.</target>
+        <target xml:lang="pl" state="translated">Ta lokalizacja nie ma podelementów.</target>
         <note>key: subitem.no.subitem</note>
         <jms:reference-file>./Resources/public/templates/subitem/grid.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/subitem/list.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/subitem/listmore.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Ta lokalizacja nie ma żadnych elementów podrzędnych.</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="pl">Ta lokacja nie ma podelementów.</target>
         </alt-trans>
