@@ -69,9 +69,12 @@
       </trans-unit>
       <trans-unit id="0e76292794888d4f1fa75fb3aff4ca27c58f56a6" resname="image">
         <source>Image</source>
-        <target xml:lang="pl" state="translated">Grafika</target>
+        <target xml:lang="pl" state="translated">Obraz</target>
         <note>key: image</note>
         <jms:reference-file>./Resources/public/js/alloyeditor/buttons/image.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Grafika</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="3d7a034a83cbfb625391d2e897c5163400413b6b" resname="justify">
         <source>Justify</source>
@@ -115,29 +118,41 @@
       </trans-unit>
       <trans-unit id="66e4d5a581b0460c2a07236f815ada78bfa75a68" resname="select.a.content.to.embed">
         <source>Select a content to embed</source>
-        <target xml:lang="pl" state="translated">Wybierz obiekt do osadzenia</target>
+        <target xml:lang="pl" state="translated">Wybierz element do osadzenia</target>
         <note>key: select.a.content.to.embed</note>
         <jms:reference-file>./Resources/public/js/alloyeditor/buttons/embed.js</jms:reference-file>
         <jms:reference-file>./Resources/public/js/alloyeditor/buttons/embedhref.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wybierz obiekt do osadzenia</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="180522f369f637cf58b08e8526b86bf4fe9f6e96" resname="select.an.image.to.embed">
         <source>Select an image to embed</source>
-        <target xml:lang="pl" state="translated">Wybierz grafikę do osadzenia</target>
+        <target xml:lang="pl" state="translated">Wybierz obraz do osadzenia</target>
         <note>key: select.an.image.to.embed</note>
         <jms:reference-file>./Resources/public/js/alloyeditor/buttons/image.js</jms:reference-file>
         <jms:reference-file>./Resources/public/js/alloyeditor/buttons/imagehref.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wybierz grafikę do osadzenia</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="01f73cbcef515e5358afb1631af189449219fe73" resname="select.another.content.item">
         <source>Select another content item</source>
-        <target xml:lang="pl" state="translated">Wybierz inny obiekt</target>
+        <target xml:lang="pl" state="translated">Wybierz inny element</target>
         <note>key: select.another.content.item</note>
         <jms:reference-file>./Resources/public/js/alloyeditor/buttons/embedhref.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wybierz inny obiekt</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="6c7ff48bfb23af1c48100802f28c610bb4e477b6" resname="select.another.image">
         <source>Select another image</source>
-        <target xml:lang="pl" state="translated">Wybierz inną grafikę</target>
+        <target xml:lang="pl" state="translated">Wybierz inny obraz</target>
         <note>key: select.another.image</note>
         <jms:reference-file>./Resources/public/js/alloyeditor/buttons/imagehref.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wybierz inną grafikę</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
