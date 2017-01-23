@@ -39,7 +39,10 @@
       </trans-unit>
       <trans-unit id="9">
         <source>content_type.default_always_available</source>
-        <target xml:lang="pl" state="translated">Domyślna dostępność obiektu</target>
+        <target xml:lang="pl" state="translated">Domyślna dostępność elementu</target>
+        <alt-trans>
+          <target xml:lang="pl">Domyślna dostępność obiektu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="10">
         <source>content_type.field_definitions_data</source>
