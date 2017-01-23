@@ -162,9 +162,6 @@
         <target xml:lang="pl" state="translated">Wybierz lokalizację, aby ograniczyć rolę "%roleIdentifier%" do segmentu drzewa</target>
         <note>key: role.assign_limit_subtree.universaldiscovery.title</note>
         <jms:reference-file line="203">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
-        <alt-trans>
-          <target xml:lang="pl">Wybierz lokację, aby ograniczyć rolę "%roleIdentifier%" do segmentu drzewa</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8211a64763ecf5a6a1e5d0e2386357c0bc2e7c89" resname="role.assign_limit_subtree.user_or_group">
         <source>Assign to users/groups with subtree limitation</source>
