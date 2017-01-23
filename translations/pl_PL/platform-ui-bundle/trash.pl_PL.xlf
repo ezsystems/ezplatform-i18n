@@ -32,9 +32,12 @@
       </trans-unit>
       <trans-unit id="c7d0ace34e28047e04285d5d1ca7dbd8a4757432" resname="error.restoring.item">
         <source>An error occurred while restoring trash item with id: %id%. For the moment item's whose original location has been deleted can not be restored</source>
-        <target xml:lang="pl" state="translated">Wystąpił błąd podczas przywracania obiektu o id: %id% z kosza. Aktualnie nie można przywrócić obiektu, którego oryginalna lokalizacja została usunięta</target>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas przywracania elementu o id: %id% z kosza. Aktualnie nie można przywrócić elementu, którego oryginalna lokalizacja została usunięta</target>
         <note>key: error.restoring.item</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wystąpił błąd podczas przywracania obiektu o id: %id% z kosza. Aktualnie nie można przywrócić obiektu, którego oryginalna lokalizacja została usunięta</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="pl">Wystąpił błąd podczas przywracania elementu o id: %id% z kosza. Aktualnie nie można przywrócić elementu, którego oryginalna lokacja została usunięta</target>
         </alt-trans>
@@ -50,9 +53,12 @@
       </trans-unit>
       <trans-unit id="161c33f86dcd9d9116d020cbc5566086e8bb4c8c" resname="failed.load.parent.location.path">
         <source>Failed to load parent location's path</source>
-        <target xml:lang="pl" state="translated">Nie można załadować ścieżki lokalizacji obiektu nadrzędnego</target>
+        <target xml:lang="pl" state="translated">Nie można załadować ścieżki lokalizacji elementu nadrzędnego</target>
         <note>key: failed.load.parent.location.path</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Nie można załadować ścieżki lokalizacji obiektu nadrzędnego</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="pl">Nie można załadować ścieżki lokacji elementu-rodzica</target>
         </alt-trans>
