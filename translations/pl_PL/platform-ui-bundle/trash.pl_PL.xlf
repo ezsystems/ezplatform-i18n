@@ -116,9 +116,6 @@
         <target xml:lang="pl" state="translated">Lokalizacja oryginalna</target>
         <note>key: trash.original.location.label</note>
         <jms:reference-file>./Resources/public/templates/trash.hbt</jms:reference-file>
-        <alt-trans>
-          <target xml:lang="pl">Lokacja oryginalna</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ca702addebbb7f19ce7adc7b2d990c2abcbe73dc" resname="trash.type.label">
         <source>Type</source>
