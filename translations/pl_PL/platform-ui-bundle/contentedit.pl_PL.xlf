@@ -21,15 +21,21 @@
       </trans-unit>
       <trans-unit id="f3528c72d108e105ecdb31e377a3514595dcfa6a" resname="content.id.location.id">
         <source>Content ID: %contentId%, Location ID: %locationId%</source>
-        <target xml:lang="pl" state="translated">ID obiektu: %contentId%, ID lokalizacji: %locationId%</target>
+        <target xml:lang="pl" state="translated">ID elementu: %contentId%, ID lokalizacji: %locationId%</target>
         <note>key: content.id.location.id</note>
         <jms:reference-file>./Resources/public/templates/contentedit.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">ID obiektu: %contentId%, ID lokalizacji: %locationId%</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published">
         <source>Content has been published</source>
-        <target xml:lang="pl" state="translated">Obiekt został opublikowany</target>
+        <target xml:lang="pl" state="translated">Element został opublikowany</target>
         <note>key: content.published</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-publishdraftplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Obiekt został opublikowany</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="54a68935aefb2a88a794f8b85d8c3170588edb3f" resname="contentedit.close.preview">
         <source>Close preview</source>
@@ -45,9 +51,12 @@
       </trans-unit>
       <trans-unit id="55bfafdd36ab25c84547ddc2ecfc0fb802565885" resname="created.by">
         <source>Created by %name%</source>
-        <target xml:lang="pl" state="translated">Utworzono przez %name%</target>
+        <target xml:lang="pl" state="translated">Utworzone przez %name%</target>
         <note>key: created.by</note>
         <jms:reference-file>./Resources/public/templates/contentedit.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Utworzono przez %name%</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="7af6c0a920d16426b99840eb404723badd38088d" resname="discard.changes">
         <source>Discard Changes</source>
@@ -75,21 +84,30 @@
       </trans-unit>
       <trans-unit id="017e73e2672420a3448a1f74176b3dcbaf06082e" resname="failed.finding.content">
         <source>Could not find the content id '%id%'</source>
-        <target xml:lang="pl" state="translated">Nie można znaleźć obiektu o ID '%id%'</target>
+        <target xml:lang="pl" state="translated">Nie można znaleźć elementu o ID '%id%'</target>
         <note>key: failed.finding.content</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Nie można znaleźć obiektu o ID '%id%'</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="b9f80ecb0db5052858af3b167a67caeacc9d99e9" resname="failed.loading.content.id.language">
         <source>Could not load the content with id '%contentId%' and languageCode '%languageCode%'</source>
-        <target xml:lang="pl" state="translated">Nie można załadować obiektu o ID '%contentId%' oraz języku '%languageCode%'</target>
+        <target xml:lang="pl" state="translated">Nie można załadować elementu o ID '%contentId%' w języku '%languageCode%'</target>
         <note>key: failed.loading.content.id.language</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Nie można załadować obiektu o ID '%contentId%' oraz języku '%languageCode%'</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="17a5ca14762c150e062aa874e2911d5c917da04a" resname="failed.loading.content.in">
         <source>Could not load the content with id '%contentId%' and languageCode '%languageCode%'</source>
-        <target xml:lang="pl" state="translated">Nie można załadować obiektu o ID '%contentId%' oraz języku '%languageCode%'</target>
+        <target xml:lang="pl" state="translated">Nie można załadować elementu o ID '%contentId%' w języku '%languageCode%'</target>
         <note>key: failed.loading.content.in</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Nie można załadować obiektu o ID '%contentId%' oraz języku '%languageCode%'</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="5f9372fdbe581e8eb35c5e26d8924cd701aec768" resname="failed.loading.content.type">
         <source>Could not load the content type with id %id%</source>
@@ -106,9 +124,12 @@
       </trans-unit>
       <trans-unit id="a351796a7cf41aee232765320231e0c6e7840d18" resname="failed.loading.version.in">
         <source>Could not load the version with id '%versionId%' and languageCode '%languageCode%'</source>
-        <target xml:lang="pl" state="translated">Nie można załądować wersji o ID '%versionId%' oraz języku '%languageCode%'</target>
+        <target xml:lang="pl" state="translated">Nie można załadować wersji o ID '%versionId%' w języku '%languageCode%'</target>
         <note>key: failed.loading.version.in</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Nie można załądować wersji o ID '%versionId%' oraz języku '%languageCode%'</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="78481c1d043da7c443be844ac99ab76ad611fb94" resname="failed.saving.draft.to.generate.the.preview">
         <source>An error occurred while saving the draft, the preview cannot be generated.</source>
@@ -178,9 +199,12 @@
       </trans-unit>
       <trans-unit id="de9120a2c5c374027f74d571071a0e8e36502888" resname="version.not.a.draft.of.content">
         <source>The version '%versionId%' is not a version of the content '%contentId%'</source>
-        <target xml:lang="pl" state="translated">Wersja '%versionId%' nie jest wersją obiektu '%contentId%'</target>
+        <target xml:lang="pl" state="translated">Wersja '%versionId%' nie jest wersją elementu '%contentId%'</target>
         <note>key: version.not.a.draft.of.content</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wersja '%versionId%' nie jest wersją obiektu '%contentId%'</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="6cc66f843c3ccf4dd174ae35a72c94720b61322b" resname="version.not.belong.to.you">
         <source>The version '%versionId%' does not belong to you</source>
