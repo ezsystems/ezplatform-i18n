@@ -264,9 +264,12 @@
       </trans-unit>
       <trans-unit id="421768b6fafc8049fe02c600c5bc6ecb8a5590c2" resname="image.help">
         <source>Drag and drop your image here or simply click on the buttons and select your image manually.</source>
-        <target xml:lang="pl" state="translated">Przeciągnij i upuść swoją grafikę tutaj lub kliknij w przycisk aby wybrać grafikę ręcznie.</target>
+        <target xml:lang="pl" state="translated">Przeciągnij i upuść swój obraz tutaj lub kliknij w przycisk aby wybrać go ręcznie.</target>
         <note>key: image.help</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Przeciągnij i upuść swoją grafikę tutaj lub kliknij w przycisk aby wybrać grafikę ręcznie.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="623d52cead77075eabf73bd844f1870264264f8e" resname="image.name">
         <source>File name</source>
@@ -276,9 +279,12 @@
       </trans-unit>
       <trans-unit id="4869b50f2d217dadd224261042666bd2a3fd0e9e" resname="image.noimage">
         <source>No image yet.</source>
-        <target xml:lang="pl" state="translated">Brak grafiki.</target>
+        <target xml:lang="pl" state="translated">Brak obrazu.</target>
         <note>key: image.noimage</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Brak grafiki.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="ddb2b77067d29961704d011d303b42d5fcc00e5c" resname="image.or">
         <source>or</source>
@@ -288,21 +294,30 @@
       </trans-unit>
       <trans-unit id="7deddf51ab844e5621b291039176191f8bbdef95" resname="image.preview">
         <source>Image preview</source>
-        <target xml:lang="pl" state="translated">Podgląd grafiki</target>
+        <target xml:lang="pl" state="translated">Podgląd obrazu</target>
         <note>key: image.preview</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Podgląd grafiki</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="a291c895782db79ab2693d1e91090f491402f32d" resname="image.properties">
         <source>Image properties</source>
-        <target xml:lang="pl" state="translated">Właściwości grafiki</target>
+        <target xml:lang="pl" state="translated">Właściwości obrazu</target>
         <note>key: image.properties</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Właściwości grafiki</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="eaa4c2c811e8e5048745d4d437e122b67e16bbfa" resname="image.remove">
         <source>Remove this image</source>
-        <target xml:lang="pl" state="translated">Usuń grafikę</target>
+        <target xml:lang="pl" state="translated">Usuń obraz</target>
         <note>key: image.remove</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Usuń grafikę</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="pl">Usuń tę grafikę</target>
         </alt-trans>
@@ -327,9 +342,12 @@
       </trans-unit>
       <trans-unit id="2b17eed3677a5d65192b549375f533751091f25f" resname="image.thumbnail.loading">
         <source>Loading a thumbnail of the image...</source>
-        <target xml:lang="pl" state="translated">Trwa ładowanie miniatury dla grafiki...</target>
+        <target xml:lang="pl" state="translated">Trwa ładowanie miniatury obrazu...</target>
         <note>key: image.thumbnail.loading</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Trwa ładowanie miniatury dla grafiki...</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="689cae8350541efc2cad64f32e6d1a9512845b05" resname="image.thumbnail.retry">
         <source>Retry</source>
