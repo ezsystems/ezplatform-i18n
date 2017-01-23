@@ -8,9 +8,9 @@
       </trans-unit>
       <trans-unit id="b240ba7952e3686902a0ea78ae3fec91" resname="role.save">
         <source>role.save</source>
-        <target xml:lang="pl" state="translated">Zapisz rolę</target>
+        <target xml:lang="pl" state="translated">Zapisz</target>
         <alt-trans>
-          <target xml:lang="pl">Zapisz</target>
+          <target xml:lang="pl">Zapisz rolę</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="2bcaf8ca5d0b4a50085011b522da0dfc">
@@ -51,7 +51,10 @@
       </trans-unit>
       <trans-unit id="c66259bddf003273f41e31e77b7af64d">
         <source>role.policy.form.delete</source>
-        <target xml:lang="pl" state="translated">Usuń polisę</target>
+        <target xml:lang="pl" state="translated">Usuń regułę</target>
+        <alt-trans>
+          <target xml:lang="pl">Usuń polisę</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="157e46260f2070af0f4f00093c8ee07c">
         <source>role.policy.limitation.none</source>
@@ -99,7 +102,10 @@
       </trans-unit>
       <trans-unit id="58e363b2a3b22ed976fd14fce49f8ae1">
         <source>role.policy.limitation.location.udw_title</source>
-        <target xml:lang="pl" state="translated">Wybierz lokalizacje jako ograniczenie polisy</target>
+        <target xml:lang="pl" state="translated">Wybierz lokalizacje jako ograniczenie reguły</target>
+        <alt-trans>
+          <target xml:lang="pl">Wybierz lokalizacje jako ograniczenie polisy</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="112d31a04edd6a98ec253cc6b9336f75">
         <source>role.policy.limitation.location.udw_button</source>
