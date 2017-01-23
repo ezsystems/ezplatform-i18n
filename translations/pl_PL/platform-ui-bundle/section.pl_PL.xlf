@@ -52,10 +52,6 @@
           <target xml:lang="pl">{0} Ta sekcja nie jest przypisana to żadnego obiektu.|{1} Ta sekcja jest przypisana do %contentCount% obiektu.|]1,Inf[ Ta sekcja jest przypisana do %contentCount% obiektów.
                 </target>
         </alt-trans>
-        <alt-trans>
-          <target xml:lang="pl">{0} Ta sekcja jest przypisana do %contentCount% elementów.|{1} Ta sekcja jest przypisana do %contentCount% elementu.|]1,Inf[ Ta sekcja jest przypisana do %contentCount% elementów.
-                </target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0a8c9188f868f7dfd2f523d0d1eabeb846d39d03" resname="section.cancel">
         <source>Cancel</source>
@@ -154,9 +150,6 @@
         <note>key: section.new</note>
         <jms:reference-file line="105">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="107">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
-        <alt-trans>
-          <target xml:lang="pl">Utwórz nową sekcję</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="73477cdb03483ff68ff67d6a840516b4bcf6e64e" resname="section.notification.created">
         <source>The section "%sectionName%" was correctly created.</source>
