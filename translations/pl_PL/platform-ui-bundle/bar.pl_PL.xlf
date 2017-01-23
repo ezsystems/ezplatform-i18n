@@ -176,9 +176,12 @@
       </trans-unit>
       <trans-unit id="0303d73c8f63f2d6b9f34ac721f6622214ad458d" resname="revealed.location">
         <source>Location "%id%" has been revealed</source>
-        <target xml:lang="pl" state="translated">Odkryto lokalizację "%id%"</target>
+        <target xml:lang="pl" state="translated">Ujawniono lokalizację "%id%"</target>
         <note>key: revealed.location</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Odkryto lokalizację "%id%"</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="pl">Schowano lokację "%id%"</target>
         </alt-trans>
