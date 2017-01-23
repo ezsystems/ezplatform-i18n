@@ -14,9 +14,12 @@
       </trans-unit>
       <trans-unit id="6167f5a54d6b6aeda1db413dcfb2e5ead6632a32" resname="failed.to.load.the.map">
         <source>Failed to load the map</source>
-        <target xml:lang="pl" state="translated">Nie udało się załądować mapy</target>
+        <target xml:lang="pl" state="translated">Nie udało się załadować mapy</target>
         <note>key: failed.to.load.the.map</note>
         <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-view.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Nie udało się załądować mapy</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="977cb55c24b1708d46ccbd753c2cea745976ae21" resname="fieldview.field.empty">
         <source>This field is empty</source>
@@ -73,9 +76,12 @@
       </trans-unit>
       <trans-unit id="6a5e12298723fd524ac84a436bcfd7fe381310ce" resname="image.loading">
         <source>Loading the image</source>
-        <target xml:lang="pl" state="translated">Wczytywanie grafiki</target>
+        <target xml:lang="pl" state="translated">Wczytywanie obrazu</target>
         <note>key: image.loading</note>
         <jms:reference-file>./Resources/public/templates/fields/view/image.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wczytywanie grafiki</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="e21151edf210d6968aa67c35235066389865f136" resname="maplocation.latitude">
         <source>Latitude:</source>
@@ -175,27 +181,39 @@
       </trans-unit>
       <trans-unit id="91c98f2902da311c78017da8229a739b6c917a68" resname="relation.error.loading">
         <source>An error occurred while loading some of the related content.</source>
-        <target xml:lang="pl" state="translated">Wystąpił błąd podczas ładowania niektórych obiektów powiązanych.</target>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas wczytywania niektórych elementów powiązanych.</target>
         <note>key: relation.error.loading</note>
         <jms:reference-file>./Resources/public/templates/fields/view/relation.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wystąpił błąd podczas ładowania niektórych obiektów powiązanych.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="d83d7f0b353c6177f297b5a502f4beae187819ec" resname="relation.loading">
         <source>Loading the related content</source>
-        <target xml:lang="pl" state="translated">Wczytywanie obiektów powiązanych</target>
+        <target xml:lang="pl" state="translated">Wczytywanie elementów powiązanych</target>
         <note>key: relation.loading</note>
         <jms:reference-file>./Resources/public/templates/fields/view/relation.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wczytywanie obiektów powiązanych</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="3eb127472dda2866ceb5a1278982d2021642e637" resname="relationlist.error.loading">
         <source>An error occurred while loading some of the related contents.</source>
-        <target xml:lang="pl" state="translated">Wystąpił błąd podczas wczytywania niektórych obiektów powiązanych.</target>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas wczytywania niektórych elementów powiązanych.</target>
         <note>key: relationlist.error.loading</note>
         <jms:reference-file>./Resources/public/templates/fields/view/relationlist.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wystąpił błąd podczas wczytywania niektórych obiektów powiązanych.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="1d30f0399910c05468169bd5a7f737caff136afe" resname="relationlist.loading">
         <source>Loading the related contents</source>
-        <target xml:lang="pl" state="translated">Wczytywanie obiektów powiązanych</target>
+        <target xml:lang="pl" state="translated">Wczytywanie elementów powiązanych</target>
         <note>key: relationlist.loading</note>
         <jms:reference-file>./Resources/public/templates/fields/view/relationlist.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wczytywanie obiektów powiązanych</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="faedf9e69727ee79230585317a79d93c074508b8" resname="richtext.parsing.error">
         <source>An error occurred while parsing the content of this field</source>
