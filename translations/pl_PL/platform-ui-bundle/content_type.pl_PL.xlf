@@ -52,9 +52,12 @@
       </trans-unit>
       <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting">
         <source>Default property for sorting chilren</source>
-        <target xml:lang="pl" state="translated">Domyślne pole użyte do sortowania elementów podrzędnych</target>
+        <target xml:lang="pl" state="translated">Domyślne pole używane do sortowania podelementów</target>
         <note>key: content_type.default_children_sorting</note>
         <jms:reference-file line="64">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Domyślne pole użyte do sortowania elementów podrzędnych</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
         <source>Default sort order</source>
@@ -180,10 +183,13 @@
       </trans-unit>
       <trans-unit id="8d1c4e01ea895221eda65f6d840b29c4cfe932f2" resname="content_type.is_in_use">
         <source>The content type cannot be deleted because it has content items, or because you don't have permission.</source>
-        <target xml:lang="pl" state="translated">Nie można usunąć typu treści ponieważ posiada on obiekty lub nie posiadasz odpowiednich uprawnień.</target>
+        <target xml:lang="pl" state="translated">Nie można usunąć typu treści ponieważ zawiera on elementy lub nie posiadasz odpowiednich uprawnień.</target>
         <note>key: content_type.is_in_use</note>
         <jms:reference-file line="150">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="59">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Nie można usunąć typu treści ponieważ posiada on obiekty lub nie posiadasz odpowiednich uprawnień.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="de2ea38b0604e5c021452e0eef43c2cc9494a2b7" resname="content_type.last_modified">
         <source>Last modified: %date% by %modifier%</source>
