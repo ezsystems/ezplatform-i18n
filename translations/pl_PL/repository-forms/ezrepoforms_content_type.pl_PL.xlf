@@ -32,7 +32,10 @@
       </trans-unit>
       <trans-unit id="8">
         <source>content_type.default_sort_order</source>
-        <target xml:lang="pl" state="translated">Domyślny rodzaj sortowania</target>
+        <target xml:lang="pl" state="translated">Domyślna kolejność sortowania</target>
+        <alt-trans>
+          <target xml:lang="pl">Domyślny rodzaj sortowania</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="9">
         <source>content_type.default_always_available</source>
