@@ -90,9 +90,6 @@
         <alt-trans>
           <target xml:lang="pl">Ta lokalizacja nie ma żadnych elementów podrzędnych.</target>
         </alt-trans>
-        <alt-trans>
-          <target xml:lang="pl">Ta lokacja nie ma podelementów.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="30b83e737fd8950c2dd108986fa2a82820c2a033" resname="subitem.previous">
         <source>Previous</source>
