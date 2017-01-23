@@ -44,10 +44,14 @@
         <source xml:space="preserve">{0} This section is assigned to %contentCount% content items.|{1} This section is assigned to
                     %contentCount% content item.|]1,Inf[ This section is assigned to %contentCount% content items
                 </source>
-        <target xml:space="preserve" xml:lang="pl" state="translated">{0} Ta sekcja nie jest przypisana to żadnego obiektu.|{1} Ta sekcja jest przypisana do %contentCount% obiektu.|]1,Inf[ Ta sekcja jest przypisana do %contentCount% obiektów.
+        <target xml:space="preserve" xml:lang="pl" state="translated">{0} Ta sekcja nie jest przypisana do żadnego elementu.|{1} Ta sekcja jest przypisana do %contentCount% elementu.|]1,Inf[ Ta sekcja jest przypisana do %contentCount% elementów.
                 </target>
         <note>key: section.assigned.contentcount</note>
         <jms:reference-file line="41">/../../../../.././Resources/views/Section/view.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">{0} Ta sekcja nie jest przypisana to żadnego obiektu.|{1} Ta sekcja jest przypisana do %contentCount% obiektu.|]1,Inf[ Ta sekcja jest przypisana do %contentCount% obiektów.
+                </target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="pl">{0} Ta sekcja jest przypisana do %contentCount% elementów.|{1} Ta sekcja jest przypisana do %contentCount% elementu.|]1,Inf[ Ta sekcja jest przypisana do %contentCount% elementów.
                 </target>
