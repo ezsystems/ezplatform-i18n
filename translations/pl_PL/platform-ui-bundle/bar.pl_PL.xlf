@@ -92,9 +92,6 @@
         <alt-trans>
           <target xml:lang="pl">Drzewo elementów</target>
         </alt-trans>
-        <alt-trans>
-          <target xml:lang="pl">Drzewo treści</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="69eda63e3b6ba8e8eb35db12ef1995c5dba42c17" resname="discoverybar.minimize">
         <source>Minimize</source>
@@ -134,9 +131,12 @@
       </trans-unit>
       <trans-unit id="310cc7a3978ffe18c9e51dc5038b371f5428f46f" resname="error.revealing.location">
         <source>Error while revealing location "%id%"</source>
-        <target xml:lang="pl" state="translated">Wystąpił błąd podczas ukazywania lokalizacji "%id%"</target>
+        <target xml:lang="pl" state="translated">Wystąpił błąd podczas ujawniania lokalizacji "%id%"</target>
         <note>key: error.revealing.location</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Wystąpił błąd podczas ukazywania lokalizacji "%id%"</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="e650b8f59c13ba2541db9ae6ac90a1857d88cb54" resname="failed.creating.new.location.for">
         <source>Creating new location for "%name%" under "%parentName%" failed</source>
@@ -149,9 +149,6 @@
         <target xml:lang="pl" state="translated">Ukryto lokalizację "%id"</target>
         <note>key: hidden.location</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
-        <alt-trans>
-          <target xml:lang="pl">Ukryto lokację "%id"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a08ae71216dacd8a23c388addb647ecab7e3fcc1" resname="hiding.location">
         <source>Hiding Location "%id%"</source>
@@ -171,7 +168,7 @@
         <note>key: locations.created</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
         <alt-trans>
-          <target xml:lang="pl">Utworzono %count% nowych lokacji dla elementu "%name%"</target>
+          <target xml:lang="pl">Utworzono %count% nowych lokalizacji dla elementu "%name%"</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="0303d73c8f63f2d6b9f34ac721f6622214ad458d" resname="revealed.location">
@@ -181,9 +178,6 @@
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
         <alt-trans>
           <target xml:lang="pl">Odkryto lokalizację "%id%"</target>
-        </alt-trans>
-        <alt-trans>
-          <target xml:lang="pl">Schowano lokację "%id%"</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="67b19056cc5015b057182c283116f05c69507d22" resname="revealing.location">
@@ -209,9 +203,6 @@
         <target xml:lang="pl" state="translated">Wybierz nową lokalizację</target>
         <note>key: select.location.to.create.new.location</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
-        <alt-trans>
-          <target xml:lang="pl">Wybierz nową lokację</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit">
         <source>Edit</source>
