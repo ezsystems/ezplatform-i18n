@@ -8,9 +8,12 @@
     <body>
       <trans-unit id="41c3a5ae2a605ec7f8c6bdb8f33a730e3967f110" resname="being.moved.under">
         <source>'%name%' is being moved under '%parentName%'</source>
-        <target xml:lang="pl" state="translated">"%name%" jest przenoszona do "%parentName%"</target>
+        <target xml:lang="pl" state="translated">"%name%" jest przenoszone do "%parentName%"</target>
         <note>key: being.moved.under</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">"%name%" jest przenoszona do "%parentName%"</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="0a95ef6ccb3ab8cf4b2e04235129c2f08a115a3a" resname="changed.main.location.of">
         <source>The main location of "%name%" has been changed</source>
