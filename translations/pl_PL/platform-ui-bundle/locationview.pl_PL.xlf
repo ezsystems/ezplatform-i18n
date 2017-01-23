@@ -281,9 +281,12 @@
       </trans-unit>
       <trans-unit id="d97d830f21868cefae182b651cb5399379d61a4e" resname="locationview.locations.content.locations">
         <source>Content locations</source>
-        <target xml:lang="pl" state="translated">Lokalizacje obiektu</target>
+        <target xml:lang="pl" state="translated">Lokalizacje elementu</target>
         <note>key: locationview.locations.content.locations</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Lokalizacje obiektu</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="pl">Lokacje elementu</target>
         </alt-trans>
@@ -359,9 +362,12 @@
       </trans-unit>
       <trans-unit id="78f72ceb515315ffb377e812832368f846c12fec" resname="locationview.locations.swap.with.another">
         <source>Swap the Content item at this location with another</source>
-        <target xml:lang="pl" state="translated">Zamień lokalizację dla tego obiektu</target>
+        <target xml:lang="pl" state="translated">Zamień lokalizację dla tego elementu</target>
         <note>key: locationview.locations.swap.with.another</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">Zamień lokalizację dla tego obiektu</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="pl">Zamień miejscami element z tej lokacji z innym</target>
         </alt-trans>
