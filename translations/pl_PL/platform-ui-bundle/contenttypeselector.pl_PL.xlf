@@ -26,9 +26,12 @@
       </trans-unit>
       <trans-unit id="e1d6420dd5ff75aabc939563cb4e874c0f9cbb00" resname="contenttypeselector.start.typing">
         <source>start typing to refine the list</source>
-        <target xml:lang="pl" state="translated">zacznij pisać aby wyświetlić listę</target>
+        <target xml:lang="pl" state="translated">zacznij pisać aby zawęzić listę</target>
         <note>key: contenttypeselector.start.typing</note>
         <jms:reference-file>./Resources/public/templates/contenttypeselector.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pl">zacznij pisać aby wyświetlić listę</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
