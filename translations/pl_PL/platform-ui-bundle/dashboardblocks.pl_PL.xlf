@@ -6,9 +6,9 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="643281298a4a2c0e5590ad430fbf5c503888dfec" resname="cannot.load.root.location">
+      <trans-unit id="643281298a4a2c0e5590ad430fbf5c503888dfec" resname="cannot.load.root.location" approved="yes">
         <source>Cannot load root location</source>
-        <target xml:lang="pl" state="translated">Nie można załadować głównej lokalizacji</target>
+        <target xml:lang="pl">Nie można załadować głównej lokalizacji</target>
         <note>key: cannot.load.root.location</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-dashboardblocksviewservice.js</jms:reference-file>
       </trans-unit>
