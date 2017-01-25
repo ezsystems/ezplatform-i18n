@@ -6,6 +6,12 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="55525e1b3dfd8787fd202aed45fb04494e3242d0" resname="logout">
+        <source>Logout</source>
+        <target xml:lang="fr" state="translated">Déconnexion</target>
+        <note>key: logout</note>
+        <jms:reference-file>./Resources/public/js/views/ez-usermenuview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="2338455ec2fdf1d720446cbf9103ea5e44c772d2" resname="navigationhub.content.structure" approved="yes">
         <source>Content structure</source>
         <target xml:lang="fr">Contenu</target>
@@ -41,6 +47,18 @@
         <target xml:lang="fr">Plus</target>
         <note>key: navigationhub.more</note>
         <jms:reference-file>./Resources/public/templates/navigationhub.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cb156e3f0e5acefaace3ae69a36edcfdd4335035" resname="navigationhub.role.list">
+        <source>Roles</source>
+        <target xml:lang="fr" state="translated">Rôles</target>
+        <note>key: navigationhub.role.list</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="05bd808967aac1311d193cc98d15b0f736c8343d" resname="navigationhub.section.list">
+        <source>Sections</source>
+        <target xml:lang="fr" state="translated">Sections</target>
+        <note>key: navigationhub.section.list</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="2ee246e2cc6a385e5ae2d5cbc7b5611e2de3a799" resname="navigationhub.system.information" approved="yes">
         <source>System information</source>
