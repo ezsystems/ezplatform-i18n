@@ -14,10 +14,24 @@
         <jms:reference-file>./Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="f3523831ab3c2067acfa6fdf0bc19c64a39647b4" resname="dashboard.last.saved">
+        <source>Last saved</source>
+        <target xml:lang="fr" state="translated">Dernière modification</target>
+        <note>key: dashboard.last.saved</note>
+        <jms:reference-file>./Resources/public/templates/dashboard/allcontent.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="deee7b8356005d3419c3907048b4c62f6c947a3c" resname="dashboard.my.drafts">
         <source>My Drafts</source>
         <target xml:lang="fr" state="translated">Mes brouillons</target>
         <note>key: dashboard.my.drafts</note>
+        <jms:reference-file>./Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="77c0cd3f3cae226e66b157a227ba1c48480c03c9" resname="dashboard.mydrafts.no.draft">
+        <source>You don't have any drafts.</source>
+        <target xml:lang="fr" state="translated">Vous n'avez aucun brouillon.</target>
+        <note>key: dashboard.mydrafts.no.draft</note>
         <jms:reference-file>./Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="e9c04dcd1a73d8cb5fc72ca356e61ab28d38ec46" resname="dashboard.title" approved="yes">
