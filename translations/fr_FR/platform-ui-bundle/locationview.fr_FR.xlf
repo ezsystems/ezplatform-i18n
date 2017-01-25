@@ -6,6 +6,12 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="e0be1422e1af400879a6716220eabc9ad4fca29e" resname="locationview.details.ascending">
+        <source>Ascending</source>
+        <target xml:lang="fr" state="translated">Ordre croissant</target>
+        <note>key: locationview.details.ascending</note>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="2e143171eb44b9d8b17a06195b938181101de957" resname="locationview.details.contentid">
         <source>Content Id</source>
         <target xml:lang="fr" state="translated">Id du contenu</target>
@@ -22,6 +28,12 @@
         <source>Creator</source>
         <target xml:lang="fr" state="translated">Auteur</target>
         <note>key: locationview.details.creator</note>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5095b70f3c9ccc1c77ba2d4f8ae1b2ce6121e233" resname="locationview.details.default.listing.of.subitems.by">
+        <source>Default listing of sub-items by</source>
+        <target xml:lang="fr" state="translated">Sous-éléments affichés par défaut par</target>
+        <note>key: locationview.details.default.listing.of.subitems.by</note>
         <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="e0d315cc1f7772de59ebb7a943e5331402f087f4" resname="locationview.details.lastcontributor">
@@ -54,6 +66,12 @@
         <note>key: locationview.details.remoteid</note>
         <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="92ecfb85a6f93f491fb98ca6f584fffaea5d56a2" resname="locationview.details.subitems.default.ordering">
+        <source>Sub-items default ordering</source>
+        <target xml:lang="fr" state="translated">Ordre de tri par défaut des sous-éléments</target>
+        <note>key: locationview.details.subitems.default.ordering</note>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="9699a1cb9c610905dddcb2b123fa7ba10a840957" resname="locationview.details.technicaldetails">
         <source>Technical details</source>
         <target xml:lang="fr" state="translated">Informations techniques</target>
@@ -78,11 +96,86 @@
         <note>key: locationview.details.versions</note>
         <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="cf775f467a5d5f450635af645a5587ada940d885" resname="locationview.locations.add.location">
+        <source>Add Location</source>
+        <target xml:lang="fr" state="translated">Ajouter un emplacement</target>
+        <note>key: locationview.locations.add.location</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d97d830f21868cefae182b651cb5399379d61a4e" resname="locationview.locations.content.locations">
+        <source>Content locations</source>
+        <target xml:lang="fr" state="translated">Emplacements</target>
+        <note>key: locationview.locations.content.locations</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="18ffeb7a312f5b6c621e15a46d902ae1fddefe0f" resname="locationview.locations.loading.location.list">
+        <source>Loading the locations list</source>
+        <target xml:lang="fr" state="translated">Chargement de la liste des emplacements</target>
+        <note>key: locationview.locations.loading.location.list</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c74cc382c1023b02479021fe7b260023d1287df1" resname="locationview.locations.remove.selected">
+        <source>Remove selected</source>
+        <target xml:lang="fr" state="translated">Supprimer la sélection</target>
+        <note>key: locationview.locations.remove.selected</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="30412ae8741b6ad892f8e7121c1df1c98690fe69" resname="locationview.locations.select.content.item">
+        <source>Select Content item</source>
+        <target xml:lang="fr" state="translated">Sélectionner le contenu</target>
+        <note>key: locationview.locations.select.content.item</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="78f72ceb515315ffb377e812832368f846c12fec" resname="locationview.locations.swap.with.another">
+        <source>Swap the Content item at this location with another</source>
+        <target xml:lang="fr" state="translated">Echanger le contenu à cet emplacement avec un autre</target>
+        <note>key: locationview.locations.swap.with.another</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d6b8b44043ab3a73bd6a8a1e1e9079e55a816623" resname="locationview.relations.no.related.content">
+        <source>This content has no related content.</source>
+        <target xml:lang="fr" state="translated">Ce contenu n'a pas de relations.</target>
+        <note>key: locationview.relations.no.related.content</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="fr">Ce contenu n'a pas de relations</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="0b409a5f5675b6ee03cfaea432d179c2648a36a3" resname="locationview.relations.related.content">
+        <source>Related content</source>
+        <target xml:lang="fr" state="translated">Contenu lié</target>
+        <note>key: locationview.relations.related.content</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="f67a3e91c4d5aa8aac6c72fe7027dfba73eb1a4f" resname="rawcontent.content">
         <source>Content</source>
         <target xml:lang="fr" state="translated">Contenu</target>
         <note>key: rawcontent.content</note>
         <jms:reference-file>./Resources/public/templates/rawcontent.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8e3b63eca8c0b79018040b44d8ee39701824a187" resname="sort.modified">
+        <source>Modification date</source>
+        <target xml:lang="fr" state="translated">Date de modification</target>
+        <note>key: sort.modified</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4f2fcdfe68ca50269b9c334594a8acd1a688809f" resname="sort.name">
+        <source>Content name</source>
+        <target xml:lang="fr" state="translated">Nom du contenu</target>
+        <note>key: sort.name</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bcb9183148c577a8a232c08847dff0c1647e62e7" resname="sort.priority">
+        <source>Priority</source>
+        <target xml:lang="fr" state="translated">Priorité</target>
+        <note>key: sort.priority</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="033291f867da64bfb4f9db9ec1b3c947b1e431c5" resname="sort.published">
+        <source>Publication date</source>
+        <target xml:lang="fr" state="translated">Date de publication</target>
+        <note>key: sort.published</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
       </trans-unit>
     </body>
   </file>
