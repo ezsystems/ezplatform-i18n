@@ -53,6 +53,32 @@
         <note>key: content_type.default_children_sorting</note>
         <jms:reference-file line="64">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
+        <source>Default sort order</source>
+        <target xml:lang="pt-PT" state="translated">Ordenação por omissão</target>
+        <note>key: content_type.default_sort</note>
+        <jms:reference-file line="70">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
+        <source>Description</source>
+        <target xml:lang="pt-PT" state="translated">Descrição</target>
+        <note>key: content_type.description</note>
+        <jms:reference-file line="48">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="252d43535d548e208668c24e8924f737a1a191c8" resname="content_type.edit">
+        <source>Edit</source>
+        <target xml:lang="pt-PT" state="translated">Editar</target>
+        <note>key: content_type.edit</note>
+        <jms:reference-file line="138">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="44">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+        <jms:reference-file line="46">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="38a48d5b27331f27a6a51e3bb9be3e6340fc1ccb" resname="content_type.edit_title">
+        <source>Edit</source>
+        <target xml:lang="pt-PT" state="translated">Editar</target>
+        <note>key: content_type.edit_title</note>
+        <jms:reference-file line="140">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
