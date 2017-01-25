@@ -156,9 +156,12 @@
       </trans-unit>
       <trans-unit id="77e9dcf7fa3a6196173e1ef8d749321c078a61fb" resname="dropped.text.selection">
         <source>You dropped a text selection while this field can only store a file. Please drop a file instead.</source>
-        <target xml:lang="nb" state="translated">Du slapp en tekst. Dette feltet kan bare lagre en fil. Vennligst velg å slippe en fil i stedet.</target>
+        <target xml:lang="nb" state="translated">Du slapp en tekst. Dette feltet kan bare lagre en fil. Vennligst slipp en fil i stedet.</target>
         <note>key: dropped.text.selection</note>
         <jms:reference-file>./Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="nb">Du slapp en tekst. Dette feltet kan bare lagre en fil. Vennligst velg å slippe en fil i stedet.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="7e57a01ae6b4b0385ec149a170df478fa2868f25" resname="email.not.valid">
         <source>The email address should be valid</source>
