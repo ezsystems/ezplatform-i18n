@@ -334,6 +334,96 @@
         <note>key: relation.remove</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="d0a96c335f3402fd4df0fdad937321b580c13eb7" resname="relation.retry">
+        <source>Retry</source>
+        <target xml:lang="pt-PT" state="translated">Tentar novamente</target>
+        <note>key: relation.retry</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2e594c668c9f88817270dd8c12acd559fe485f5b" resname="relation.select">
+        <source>Select a content</source>
+        <target xml:lang="pt-PT" state="translated">Seleccionar um conteúdo</target>
+        <note>key: relation.select</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="76eb23938007b8dc5d74961c52923f34fd9863fc" resname="relationlist.empty">
+        <source>No relation.</source>
+        <target xml:lang="pt-PT" state="translated">Sem relacção.</target>
+        <note>key: relationlist.empty</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7b6f3591c6f295907a1636bd3ea950fa0126d970" resname="relationlist.error">
+        <source>An error occurred while loading the related content.</source>
+        <target xml:lang="pt-PT" state="translated">Ocorreu um erro ao carregar conteúdo relaccionado.</target>
+        <note>key: relationlist.error</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="048ae70654be763915d036765feb172d2baa7559" resname="relationlist.help">
+        <source>Set up multiple relations with several contents.</source>
+        <target xml:lang="pt-PT" state="translated">Definir relacções múltiplas com vários conteúdos.</target>
+        <note>key: relationlist.help</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1d30f0399910c05468169bd5a7f737caff136afe" resname="relationlist.loading">
+        <source>Loading the related content(s)</source>
+        <target xml:lang="pt-PT" state="translated">A carregar conteúdo(s) relaccionados</target>
+        <note>key: relationlist.loading</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b0eb3cbb48be1ff976bd4569a8978d63336dd8b7" resname="relationlist.remove">
+        <source>Remove</source>
+        <target xml:lang="pt-PT" state="translated">Remover</target>
+        <note>key: relationlist.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="493a9cbc47e3af553067486bc8b13b43c8472fc4" resname="relationlist.retry">
+        <source>Retry</source>
+        <target xml:lang="pt-PT" state="translated">Tentar novamente</target>
+        <note>key: relationlist.retry</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4d8d4cfb7509f6d02d61100e1b940fb5a847d91d" resname="relationlist.select">
+        <source>Select contents</source>
+        <target xml:lang="pt-PT" state="translated">Seleccionar conteúdos</target>
+        <note>key: relationlist.select</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1c46a1068b55e75f3cac49a3f59c85ca19edbc52" resname="relationlist.table.modified">
+        <source>Modified</source>
+        <target xml:lang="pt-PT" state="translated">Modificado</target>
+        <note>key: relationlist.table.modified</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fd35d9bedc6d39be95cef85dd23bc3fd550d6078" resname="relationlist.table.name">
+        <source>Name</source>
+        <target xml:lang="pt-PT" state="translated">Nome</target>
+        <note>key: relationlist.table.name</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fea522d933afafa19ac438bd82d49ddc1c254d2f" resname="relationlist.table.published">
+        <source>Published</source>
+        <target xml:lang="pt-PT" state="translated">Publicado</target>
+        <note>key: relationlist.table.published</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e1ee64eddc5bc3ee8690f59e23a52dd4c50d036e" resname="richtext.focus">
+        <source>Focus</source>
+        <target xml:lang="pt-PT" state="translated">Focar</target>
+        <note>key: richtext.focus</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a8867a26b3b1adfde513cee1bbc0b2cd0beb5cce" resname="richtext.save">
+        <source>Save and Return</source>
+        <target xml:lang="pt-PT" state="translated">Gravar e retornar</target>
+        <note>key: richtext.save</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2661cb6d447aad0683ba849b76913b44492fe727" resname="select.contents.to.add">
+        <source>Select the contents you want to add in the relation</source>
+        <target xml:lang="pt-PT" state="translated">Seleccionar os conteúdos que quer adicionar à relacção</target>
+        <note>key: select.contents.to.add</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-relationlist-editview.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
