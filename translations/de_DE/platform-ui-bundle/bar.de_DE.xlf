@@ -141,6 +141,15 @@
         <note>key: error.occurred.loading</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="310cc7a3978ffe18c9e51dc5038b371f5428f46f" resname="error.revealing.location">
+        <source>Error while revealing location "%id%"</source>
+        <target xml:lang="de" state="translated">Fehler beim sichtbar machen von dem Ort "%id%"</target>
+        <note>key: error.revealing.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="de">Fehler beim sichtbar machen von Ort "%id%"</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit">
         <source>Edit</source>
         <target xml:lang="de" state="translated">Bearbeiten</target>
