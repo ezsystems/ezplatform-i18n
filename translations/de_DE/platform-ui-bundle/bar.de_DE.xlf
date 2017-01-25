@@ -65,15 +65,36 @@
       </trans-unit>
       <trans-unit id="a45dde06d9f58df76767d6fdaa8da714979b737d" resname="content.copied.under">
         <source>'%contentName%' has been successfully copied under '%parentContentName%'</source>
-        <target xml:lang="de" state="translated">'%contentName%' wurde erfolgreich unter '%parentContentName%' kopiert</target>
+        <target xml:lang="de" state="translated">"%contentName%" wurde erfolgreich unter '%parentContentName%' kopiert</target>
         <note>key: content.copied.under</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="de">'%contentName%' wurde erfolgreich unter '%parentContentName%' kopiert</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="0bc4676a2e348119912d9a0cb23c8b9c2db54b38" resname="createcontentaction.loading">
         <source>Loading</source>
         <target xml:lang="de" state="translated">Laden</target>
         <note>key: createcontentaction.loading</note>
         <jms:reference-file>./Resources/public/templates/createcontentaction.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8168e6a5b68d175e892512352ec75bdfe1275631" resname="creating.new.location.for">
+        <source>Creating new location for "%name%"</source>
+        <target xml:lang="de" state="translated">Erzeuge neuen Ort für "%name%"</target>
+        <note>key: creating.new.location.for</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="de">Erzeuge neue Location für "%name%"</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="bad3f2a8b005e430f9760b9b3c47e37faa3176bd" resname="creating.new.location.for.failed">
+        <source>Creating new location(s) for "%name%" failed</source>
+        <target xml:lang="de" state="translated">Das erzeugen von neuen Orten für "%name%" ist fehlgeschlagen</target>
+        <note>key: creating.new.location.for.failed</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="de">Das erzeugen von neuen Location's für "%name%" ist fehlgeschlagen</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="7eaf9281f3e62d4f3acf5dac5b34060808c363b9" resname="discoverybar.contenttree">
         <source>Content tree</source>
@@ -98,6 +119,18 @@
         <target xml:lang="de" state="translated">Mülleimer</target>
         <note>key: discoverybar.trash</note>
         <jms:reference-file>./Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4f05b52ccc249d1a7747839ea78300f80c6011d3" resname="error.hiding.location">
+        <source>Error while hiding location "%id%"</source>
+        <target xml:lang="de" state="translated">Fehler beim Ausblenden von dem Ort "%id%"</target>
+        <note>key: error.hiding.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b751b43622c766dad211b5892e401abe17292918" resname="error.occurred.copying">
+        <source>An error occurred while copying your content</source>
+        <target xml:lang="de" state="translated">Beim kopieren Ihres Inhaltes trat ein Fehler auf</target>
+        <note>key: error.occurred.copying</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit">
         <source>Edit</source>
