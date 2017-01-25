@@ -21,6 +21,12 @@
           <target xml:lang="de">Bearbeiten</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="be3348d5545fb64e8506ae64e667dac048bbc97c" resname="actionbar.delete">
+        <source>Delete</source>
+        <target xml:lang="de" state="translated">Löschen</target>
+        <note>key: actionbar.delete</note>
+        <jms:reference-file>./Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="5fb95ba95e83264744f36bd3dafb74013b86d315" resname="actionbar.edit">
         <source>Edit</source>
         <target xml:lang="de" state="translated">Bearbeiten</target>
@@ -50,6 +56,18 @@
         <target xml:lang="de" state="translated">Übersetzungen</target>
         <note>key: actionbar.translate</note>
         <jms:reference-file>./Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="36ec797c4394265124b47a9ef9d8981ab3cb80c1" resname="content.being.copied.under">
+        <source>"%contentName%" is being copied under "%parentContentName%"</source>
+        <target xml:lang="de" state="translated">"%contentName%" wurde unter "%parentContentName%" kopiert</target>
+        <note>key: content.being.copied.under</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a45dde06d9f58df76767d6fdaa8da714979b737d" resname="content.copied.under">
+        <source>'%contentName%' has been successfully copied under '%parentContentName%'</source>
+        <target xml:lang="de" state="translated">'%contentName%' wurde erfolgreich unter '%parentContentName%' kopiert</target>
+        <note>key: content.copied.under</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="0bc4676a2e348119912d9a0cb23c8b9c2db54b38" resname="createcontentaction.loading">
         <source>Loading</source>
