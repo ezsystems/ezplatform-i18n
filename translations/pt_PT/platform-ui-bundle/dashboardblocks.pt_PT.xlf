@@ -40,10 +40,62 @@
         <note>key: dashboard.loading.draft.error</note>
         <jms:reference-file>./Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="90451c27b66dffbfea45c8ce24eff1cb380d6d46" resname="dashboard.loading.error">
+        <source>An error occurred while loading the content list.</source>
+        <target xml:lang="pt-PT" state="translated">Ocorreu um erro ao carregar a lista de conteúdos.</target>
+        <note>key: dashboard.loading.error</note>
+        <jms:reference-file>./Resources/public/templates/dashboard/allcontent.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dc6421eab8286e0adb87544214a132d5c31d8fd8" resname="dashboard.my.content">
+        <source>My Content</source>
+        <target xml:lang="pt-PT" state="translated">Os meus Conteúdos</target>
+        <note>key: dashboard.my.content</note>
+        <jms:reference-file>./Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pt-PT">Meus Conteúdos</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit id="deee7b8356005d3419c3907048b4c62f6c947a3c" resname="dashboard.my.drafts" approved="yes">
         <source>My Drafts</source>
         <target xml:lang="pt-PT">Os meus Rascunhos</target>
         <note>key: dashboard.my.drafts</note>
+        <jms:reference-file>./Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="328b897775fad72927fcdd34b26e6c67d77ac6bc" resname="dashboard.mycontent.no.modified.content">
+        <source>You haven't modified any content item yet.</source>
+        <target xml:lang="pt-PT" state="translated">Ainda não modificou nenhum conteúdo.</target>
+        <note>key: dashboard.mycontent.no.modified.content</note>
+        <jms:reference-file>./Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="77c0cd3f3cae226e66b157a227ba1c48480c03c9" resname="dashboard.mydrafts.no.draft">
+        <source>You don't have any drafts.</source>
+        <target xml:lang="pt-PT" state="translated">Não tem nenhum rascunho.</target>
+        <note>key: dashboard.mydrafts.no.draft</note>
+        <jms:reference-file>./Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1598105f8c01cd4d73924667af473114a30c2ae5" resname="dashboard.retry">
+        <source>Retry</source>
+        <target xml:lang="pt-PT" state="translated">Tentar novamente</target>
+        <note>key: dashboard.retry</note>
+        <jms:reference-file>./Resources/public/templates/dashboard/allcontent.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e9c04dcd1a73d8cb5fc72ca356e61ab28d38ec46" resname="dashboard.title">
+        <source>Title</source>
+        <target xml:lang="pt-PT" state="translated">Título</target>
+        <note>key: dashboard.title</note>
+        <jms:reference-file>./Resources/public/templates/dashboard/allcontent.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7521275a12ed4eecb89be89777fcabb81f68338c" resname="dashboard.version">
+        <source>Version</source>
+        <target xml:lang="pt-PT" state="translated">Versão</target>
+        <note>key: dashboard.version</note>
+        <jms:reference-file>./Resources/public/templates/dashboard/allcontent.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="ad15e855aad7c14d65c0890d9d1e5c3e2aa5c5d0" resname="dashboardblocks.my.dashboard" approved="yes">
@@ -51,6 +103,9 @@
         <target xml:lang="pt-PT">O meu Painel</target>
         <note>key: dashboardblocks.my.dashboard</note>
         <jms:reference-file>./Resources/public/templates/dashboard-blocks.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pt-PT">O meu Painél</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
