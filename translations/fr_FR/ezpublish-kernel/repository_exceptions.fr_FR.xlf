@@ -18,6 +18,13 @@
         <note>key: '%actualValue%' is wrong value in class '%className%'</note>
         <jms:reference-file line="34">/../../../../../eZ/Publish/Core/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="894070fe84612fd5871c1b09bc79f85c2e17d384" resname="A value is set for non translatable field definition '%identifier%' with language '%languageCode%'">
+        <source>A value is set for non translatable field definition '%identifier%' with language '%languageCode%'</source>
+        <target xml:lang="fr" state="translated">Une valeur est définie pour le FieldDefinition non traduisible '%identifier%' avec la langue '%languageCode%'</target>
+        <note>key: A value is set for non translatable field definition '%identifier%' with language '%languageCode%'</note>
+        <jms:reference-file line="1409">/../../../../../eZ/Publish/Core/Repository/ContentService.php</jms:reference-file>
+        <jms:reference-file line="769">/../../../../../eZ/Publish/Core/Repository/ContentService.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
