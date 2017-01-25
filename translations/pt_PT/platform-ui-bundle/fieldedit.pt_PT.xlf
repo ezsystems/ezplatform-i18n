@@ -322,6 +322,96 @@
         <note>key: image.thumbnail.loading</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="689cae8350541efc2cad64f32e6d1a9512845b05" resname="image.thumbnail.retry">
+        <source>Retry</source>
+        <target xml:lang="pt-PT" state="translated">Tentar novamente</target>
+        <note>key: image.thumbnail.retry</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1fa08ff0c1b3b004705e4fc4884f7c0cf631465a" resname="image.type">
+        <source>Type:</source>
+        <target xml:lang="pt-PT" state="translated">Tipo:</target>
+        <note>key: image.type</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3cb3d1ded419f0923f0b00e65e3c9b6c112e450c" resname="image.upload">
+        <source>Upload an image</source>
+        <target xml:lang="pt-PT" state="translated">Enviar uma imagem</target>
+        <note>key: image.upload</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f0edbc370c196d4d5a74049ed4382bbd16aa4b82" resname="input.not.valid">
+        <source>This is not a valid input</source>
+        <target xml:lang="pt-PT" state="translated">Este não é um valor válido</target>
+        <note>key: input.not.valid</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8e49b578596402bf9f38b7a53ee4e6838f31c1a9" resname="invalid.float.value">
+        <source>The value should be a valid float number</source>
+        <target xml:lang="pt-PT" state="translated">Este valor devia ser um número float válido</target>
+        <note>key: invalid.float.value</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d5afda02a70b4e08a45743098c217ce1cb424278" resname="invalid.input">
+        <source>This is not a valid input</source>
+        <target xml:lang="pt-PT" state="translated">Este não é um valor válido</target>
+        <note>key: invalid.input</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="624975ced077be4e434e9ddc7aceb12cdd06a2f7" resname="invalid.isbn10">
+        <source>invalid ISBN 10</source>
+        <target xml:lang="pt-PT" state="translated">ISBN 10 inválido</target>
+        <note>key: invalid.isbn10</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a10ccd621b14ed09703e07e31cbfed166450b722" resname="invalid.isbn10.sum.not.multiple.of.11">
+        <source>invalid ISBN 10 (sum is not a multiple of 11")</source>
+        <target xml:lang="pt-PT" state="translated">ISBN 10 inválido (soma não é múltiplo de 11")</target>
+        <note>key: invalid.isbn10.sum.not.multiple.of.11</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="65c4aaaab5989949a929cc5f7e96eb7017c2d9f4" resname="loading...">
+        <source>Loading...</source>
+        <target xml:lang="pt-PT" state="translated">A carregar...</target>
+        <note>key: loading...</note>
+        <jms:reference-file>./Resources/public/js/views/fields/richtext/ez-richtext-resolveembed.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0d7b8b93e93ce650d31862d74cdc2566058742d3" resname="login.required">
+        <source>'The login is required</source>
+        <target xml:lang="pt-PT" state="translated">'O login é obrigatório</target>
+        <note>key: login.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3ebb2a2e0355aff0d63b0a1c644aff0efa6b52c6" resname="maplocation.address">
+        <source>Address:</source>
+        <target xml:lang="pt-PT" state="translated">Endereço:</target>
+        <note>key: maplocation.address</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e21151edf210d6968aa67c35235066389865f136" resname="maplocation.latitude">
+        <source>Latitude:</source>
+        <target xml:lang="pt-PT" state="translated">Latitude:</target>
+        <note>key: maplocation.latitude</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="04e7fa05923b84dde058e7a8b349de8a019962f8" resname="maplocation.locateaddress">
+        <source>Locate Address</source>
+        <target xml:lang="pt-PT" state="translated">Encontrar endereço</target>
+        <note>key: maplocation.locateaddress</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="748db692b3faa75edc78fe780f125dacc597fdd2" resname="maplocation.locateme">
+        <source>Locate Me</source>
+        <target xml:lang="pt-PT" state="translated">Localizar-me</target>
+        <note>key: maplocation.locateme</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="60f60bbfc3c9cd30603670eb6b91fa5a1619f73b" resname="maplocation.longitude">
+        <source>Longitude:</source>
+        <target xml:lang="pt-PT" state="translated">Longitude:</target>
+        <note>key: maplocation.longitude</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="fe7dd2a6fbf71766715c5ea46100398267102adc" resname="relation.published">
         <source>Published:</source>
         <target xml:lang="pt-PT" state="translated">Publicado:</target>
@@ -423,6 +513,130 @@
         <target xml:lang="pt-PT" state="translated">Seleccionar os conteúdos que quer adicionar à relacção</target>
         <note>key: select.contents.to.add</note>
         <jms:reference-file>./Resources/public/js/views/fields/ez-relationlist-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8049139bde69cab92f967e171a9b3f1b933f3151" resname="svg.not.supported">
+        <source>SVG images are not supported. Please choose another image file.</source>
+        <target xml:lang="pt-PT" state="translated">Imagens SVG não são suportadas. Escolha outra imagem por favor.</target>
+        <note>key: svg.not.supported</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cbeb2eb9d25d8d0349f48bd24450b4431112165a" resname="this.field.is.required">
+        <source>This field is required</source>
+        <target xml:lang="pt-PT" state="translated">Este campo é obrigatório</target>
+        <note>key: this.field.is.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-emailaddress-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-keyword-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-relation-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-relationlist-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-textblock-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-textline-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-url-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-xmltext-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a1df2bc73b96d5f4f733b81df6e65eab72e0a707" resname="time.not.valid">
+        <source>Time do not have a valid input</source>
+        <target xml:lang="pt-PT" state="translated">Hora não tem um valor válido</target>
+        <note>key: time.not.valid</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3ac8de09a795de3e631c721617dab1caf9e90d12" resname="time.not.valid.date.missing">
+        <source>Time do not have a valid input and date is missing</source>
+        <target xml:lang="pt-PT" state="translated">Hora não tem um valor válido e a data está em falta</target>
+        <note>key: time.not.valid.date.missing</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c788a67f4c797fb4111df6384dd2d201ae947859" resname="time.not.valid.date.required">
+        <source>Time do not have a valid input and date is required</source>
+        <target xml:lang="pt-PT" state="translated">Hora não tem um valor válido e a data é obrigatória</target>
+        <note>key: time.not.valid.date.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4547cf11661540086aa7919af220e53df1d305c0" resname="time.not.valid.enter.format">
+        <source>This time is invalid, enter a correct time: HH:MM(:SS)</source>
+        <target xml:lang="pt-PT" state="translated">Esta hora é inválida, introduza uma hora correcta: HH:MM(:SS)</target>
+        <note>key: time.not.valid.enter.format</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="464257823e27d65e1467abb5b4d6421541870a95" resname="time.required">
+        <source>Time is required</source>
+        <target xml:lang="pt-PT" state="translated">Hora é obrigatória</target>
+        <note>key: time.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c93547a1639e55df78bf8797247cbf75c03649c1" resname="unable.find.address">
+        <source>Unable to find this address</source>
+        <target xml:lang="pt-PT" state="translated">Não foi possível encontrar este endereço</target>
+        <note>key: unable.find.address</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="45b69f23fd0b5a0e687942663b3acb369ded5c9b" resname="unsupported.html5.geolocation.api">
+        <source>Your browser does not support HTML5 Geolocation API</source>
+        <target xml:lang="pt-PT" state="translated">O browser não suporta API de geolocalização HTML5</target>
+        <note>key: unsupported.html5.geolocation.api</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="96c974ba32d664442a67e0f5885fd4f29e5ab015" resname="url.text">
+        <source>Text:</source>
+        <target xml:lang="pt-PT" state="translated">Texto:</target>
+        <note>key: url.text</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/url.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="aa0e54e7bb0afd83ecbc5ac7a5222961cbd911df" resname="url.url">
+        <source>URL</source>
+        <target xml:lang="pt-PT" state="translated">URL</target>
+        <note>key: url.url</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/url.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="20afd5b376ab9ffb3cfe083496345d7e9d11d9f5" resname="user.email">
+        <source>Email</source>
+        <target xml:lang="pt-PT" state="translated">Email</target>
+        <note>key: user.email</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1d797b831d4559bdebe45193f8b51b570437e97d" resname="user.login">
+        <source>Login</source>
+        <target xml:lang="pt-PT" state="translated">Login</target>
+        <note>key: user.login</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e4d06be519f5ddd5206349fb39cf7522dd947a3a" resname="user.password">
+        <source>Password</source>
+        <target xml:lang="pt-PT" state="translated">Palavra-chave</target>
+        <note>key: user.password</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="782314478554920473f13c4ec6cb6a0471bc8172" resname="user.passwordconfirm">
+        <source>Confirm password</source>
+        <target xml:lang="pt-PT" state="translated">Confirmar palavra-chave</target>
+        <note>key: user.passwordconfirm</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="65a42e27e76bf2722822dd28dd0b7ff2d163cb37" resname="value.should.be.less.than">
+        <source>The value should be less than or equal to %maxIntegerValue%</source>
+        <target xml:lang="pt-PT" state="translated">O valor deve ser menor ou igual que %maxIntegerValue%</target>
+        <note>key: value.should.be.less.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pt-PT">O valor deve ser igual ou menor que %maxIntegerValue%</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="0e3930cc51c59d71efa5464323c96d75b93873f3" resname="value.should.be.more.than">
+        <source>The value should be more than or equal to %minIntegerValue%</source>
+        <target xml:lang="pt-PT" state="translated">O valor deve ser maior ou igual que %minIntegerValue%</target>
+        <note>key: value.should.be.more.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5c462c60b8cdc7e23d84aca23ffda3d32000247e" resname="value.should.be.valid.integer">
+        <source>The value should be a valid integer number</source>
+        <target xml:lang="pt-PT" state="translated">O valor deve ser um número inteiro válido</target>
+        <note>key: value.should.be.valid.integer</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
       </trans-unit>
     </body>
   </file>
