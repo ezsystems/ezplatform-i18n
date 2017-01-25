@@ -190,6 +190,150 @@
         <note>key: email.required.if.name.filled</note>
         <jms:reference-file>./Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="4681faa8e9e01a7b94ecbbc5f581b4d44a5e935d" resname="embed.content.not.loaded">
+        <source>Embedded Content item could not be loaded</source>
+        <target xml:lang="pt-PT" state="translated">Conteúdo incorporado não pôde ser carregado</target>
+        <note>key: embed.content.not.loaded</note>
+        <jms:reference-file>./Resources/public/js/views/fields/richtext/ez-richtext-resolveembed.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0a60003c1459ed6556b63b64c050fd4d070d94e4" resname="error.during.geolocation.request">
+        <source>An error occurred during geolocation request of your current position</source>
+        <target xml:lang="pt-PT" state="translated">Ocorreu um erro durante o pedido de geolocalização da sua posição actual</target>
+        <note>key: error.during.geolocation.request</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9c74a8f5f67dd8e07a2912177bc6de9c9cde6d75" resname="failed.retrieve.google.maps.api">
+        <source>Failed to retrieve Google Maps API</source>
+        <target xml:lang="pt-PT" state="translated">Busca da API Google Maps falhou</target>
+        <note>key: failed.retrieve.google.maps.api</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a64621b5af174b18350e8774d65ac227c79f0077" resname="file.size">
+        <source>(%size% bytes)</source>
+        <target xml:lang="pt-PT" state="translated">(%size% bytes)</target>
+        <note>key: file.size</note>
+        <jms:reference-file>./Resources/public/templates/fields/view/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c02ec1f84b17c734661c3a5935960b7392a3af2a" resname="float.value.should.be.less.than">
+        <source>The value should be less than or equal to %maxFloatValue%</source>
+        <target xml:lang="pt-PT" state="translated">O valor deve ser igual ou menor que %maxFloatValue%</target>
+        <note>key: float.value.should.be.less.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f29cb6461d72c2fe892e65d4dd7dd296ed5db961" resname="float.value.should.be.more.than">
+        <source>The value should be more than or equal to %minFloatValue%</source>
+        <target xml:lang="pt-PT" state="translated">O valor deve ser igual ou maior que %minFloatValue%</target>
+        <note>key: float.value.should.be.more.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0e560377b2f3909ebf37cd10977860242a93f694" resname="geocoding.error">
+        <source>An error occurred during the geocoding request for this address</source>
+        <target xml:lang="pt-PT" state="translated">Ocorreu um erro durante o pedido de geocodificação para este endereço</target>
+        <note>key: geocoding.error</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="683f0d47319d2d3671eb34b0aab6bcc549b0ac5e" resname="google.map.not.loaded.correctly">
+        <source>Google maps are not loaded correctly, try reloading the page</source>
+        <target xml:lang="pt-PT" state="translated">Google maps não foi carregado correctamente, tente recarregar a página</target>
+        <note>key: google.map.not.loaded.correctly</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5c973cf4cef4fd2936dbd1d7879ccdcd8b9e6ffe" resname="image.alternativetext">
+        <source>Alternative text:</source>
+        <target xml:lang="pt-PT" state="translated">Texto alternativo:</target>
+        <note>key: image.alternativetext</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b93ecd00f44abdce9d25bb437706b04329a172aa" resname="image.content.not.loaded">
+        <source>Image could not be loaded</source>
+        <target xml:lang="pt-PT" state="translated">Imagem não pôde ser carregada</target>
+        <note>key: image.content.not.loaded</note>
+        <jms:reference-file>./Resources/public/js/views/fields/richtext/ez-richtext-resolveimage.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c21c1e24ffd073c7213022cf4d0cde8e94be62b8" resname="image.fullwidth">
+        <source>View the full width image</source>
+        <target xml:lang="pt-PT" state="translated">Ver imagem em tamanho inteiro</target>
+        <note>key: image.fullwidth</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="421768b6fafc8049fe02c600c5bc6ecb8a5590c2" resname="image.help">
+        <source>Drag and drop your image here or simply click on the buttons and select your image manually.</source>
+        <target xml:lang="pt-PT" state="translated">Arraste e largue a imagem aqui ou simplesmente carregue nos botões e seleccione a imagem manualmente.</target>
+        <note>key: image.help</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="623d52cead77075eabf73bd844f1870264264f8e" resname="image.name">
+        <source>File name</source>
+        <target xml:lang="pt-PT" state="translated">Nome do ficheiro</target>
+        <note>key: image.name</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4869b50f2d217dadd224261042666bd2a3fd0e9e" resname="image.noimage">
+        <source>No image yet.</source>
+        <target xml:lang="pt-PT" state="translated">Nenhuma imagem ainda.</target>
+        <note>key: image.noimage</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ddb2b77067d29961704d011d303b42d5fcc00e5c" resname="image.or">
+        <source>or</source>
+        <target xml:lang="pt-PT" state="translated">ou</target>
+        <note>key: image.or</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7deddf51ab844e5621b291039176191f8bbdef95" resname="image.preview">
+        <source>Image preview</source>
+        <target xml:lang="pt-PT" state="translated">Pré-visualização da imagem</target>
+        <note>key: image.preview</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a291c895782db79ab2693d1e91090f491402f32d" resname="image.properties">
+        <source>Image properties</source>
+        <target xml:lang="pt-PT" state="translated">Propriedades da imagem</target>
+        <note>key: image.properties</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="eaa4c2c811e8e5048745d4d437e122b67e16bbfa" resname="image.remove">
+        <source>Remove this image</source>
+        <target xml:lang="pt-PT" state="translated">Remover esta imagem</target>
+        <note>key: image.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e7b9c11716066f2b3bcb38ac4db35fb7501118e0" resname="image.replace">
+        <source>Replace this image</source>
+        <target xml:lang="pt-PT" state="translated">Substituir esta imagem</target>
+        <note>key: image.replace</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="265c4b8ea4ab58567a9be6610f7dff0b99223299" resname="image.size">
+        <source>File size:</source>
+        <target xml:lang="pt-PT" state="translated">Dimensão do ficheiro:</target>
+        <note>key: image.size</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="16a6d4b19907cd8be6b2be041fca055ad70a3447" resname="image.thumbnail.error">
+        <source>An error occurred while loading the thumbnail.</source>
+        <target xml:lang="pt-PT" state="translated">Ocorreu um erro ao carregar a miniatura.</target>
+        <note>key: image.thumbnail.error</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b17eed3677a5d65192b549375f533751091f25f" resname="image.thumbnail.loading">
+        <source>Loading a thumbnail of the image...</source>
+        <target xml:lang="pt-PT" state="translated">A carregar a miniatura da imagem...</target>
+        <note>key: image.thumbnail.loading</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fe7dd2a6fbf71766715c5ea46100398267102adc" resname="relation.published">
+        <source>Published:</source>
+        <target xml:lang="pt-PT" state="translated">Publicado:</target>
+        <note>key: relation.published</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f46aad015f05a6ae74da1d451f030dcc02dc1e39" resname="relation.remove">
+        <source>Remove relation</source>
+        <target xml:lang="pt-PT" state="translated">Remover relacção</target>
+        <note>key: relation.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
