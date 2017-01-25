@@ -104,6 +104,18 @@
         <note>key: section.identifier.label</note>
         <jms:reference-file line="32">/../../../../.././Resources/views/Section/view.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="1f9b6e37416ff607de9d4fa280dce2f734ea622c" resname="section.list">
+        <source>Sections</source>
+        <target xml:lang="fr" state="translated">Sections</target>
+        <note>key: section.list</note>
+        <jms:reference-file line="14">/../../../../.././Resources/views/Dashboard/dashboard.html.twig</jms:reference-file>
+        <jms:reference-file line="10">/../../../../.././Resources/views/Section/create.html.twig</jms:reference-file>
+        <jms:reference-file line="14">/../../../../.././Resources/views/Section/edit.html.twig</jms:reference-file>
+        <jms:reference-file line="115">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
+        <jms:reference-file line="39">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
+        <jms:reference-file line="45">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
+        <jms:reference-file line="8">/../../../../.././Resources/views/Section/view.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="376986256605f27a204911de172c7bca4bd8e3b6" resname="section.name" approved="yes">
         <source>Section name</source>
         <target xml:lang="fr">Nom de la section</target>
