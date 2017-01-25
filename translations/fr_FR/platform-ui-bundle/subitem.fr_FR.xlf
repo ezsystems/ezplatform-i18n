@@ -6,24 +6,20 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="d5c97668af30fef2819f3f52add12af828cbe9b3" resname="subitem.no.subitem">
+        <source>This location has no sub-item.</source>
+        <target xml:lang="fr" state="translated">Cet emplacement n'a pas de sous-éléments.</target>
+        <note>key: subitem.no.subitem</note>
+        <jms:reference-file>./Resources/public/templates/subitem/grid.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/subitem/list.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/subitem/listmore.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5f58a440086c7ddb295d36e1b7b58af48b6f568a" resname="subitem.subitems">
+        <source>Sub-items</source>
+        <target xml:lang="fr" state="translated">Sous-éléments</target>
+        <note>key: subitem.subitems</note>
+        <jms:reference-file>./Resources/public/templates/subitembox.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
