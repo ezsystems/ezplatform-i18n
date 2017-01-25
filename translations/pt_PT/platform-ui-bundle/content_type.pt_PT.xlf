@@ -262,6 +262,42 @@
         <note>key: field_definition.name</note>
         <jms:reference-file line="91">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="2c59c801986049c4f4b48f11842932bf4342e278" resname="field_definition.required">
+        <source>Required</source>
+        <target xml:lang="pt-PT" state="translated">Obrigatório</target>
+        <note>key: field_definition.required</note>
+        <jms:reference-file line="113">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2e2ef6bae44fe23eec336dec39035b5d2c4b87b6" resname="field_definition.searchable">
+        <source>Searchable</source>
+        <target xml:lang="pt-PT" state="translated">Pesquisável</target>
+        <note>key: field_definition.searchable</note>
+        <jms:reference-file line="117">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fd6ec7b826db4a501858a8658d8e71b067a46568" resname="field_definition.translatable">
+        <source>Translatable</source>
+        <target xml:lang="pt-PT" state="translated">Tradutível</target>
+        <note>key: field_definition.translatable</note>
+        <jms:reference-file line="121">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pt-PT">Traduzível</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="9ca17bd05bb09ae1283d539c77d57558499ccca4" resname="field_definition.type">
+        <source>Type</source>
+        <target xml:lang="pt-PT" state="translated">Tipo</target>
+        <note>key: field_definition.type</note>
+        <jms:reference-file line="93">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3e9deeb426f08a404990a6926d70558955272593" resname="yes_no">
+        <source>{0} No|{1} Yes</source>
+        <target xml:lang="pt-PT" state="translated">{0} Não|{1} Sim</target>
+        <note>key: yes_no</note>
+        <jms:reference-file line="114">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="118">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="122">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="61">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
