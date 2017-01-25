@@ -79,6 +79,102 @@
         <note>key: content_type.edit_title</note>
         <jms:reference-file line="140">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="139bc06fcecd7ab2e8e59233d52cae047b22af5b" resname="content_type.group">
+        <source>Content type group</source>
+        <target xml:lang="pt-PT" state="translated">Grupo de tipos de conteúdo</target>
+        <note>key: content_type.group</note>
+        <jms:reference-file line="17">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fd931f1ea0d601fe877606ec9e42ff7c37d44d4e" resname="content_type.group.cancel">
+        <source>Cancel</source>
+        <target xml:lang="pt-PT" state="translated">Cancelar</target>
+        <note>key: content_type.group.cancel</note>
+        <jms:reference-file line="42">/../../../../.././Resources/views/ContentType/edit_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="73205aee63e2b76d2104c295ee19449cf248f045" resname="content_type.group.cannot_delete.has_content_types">
+        <source>Cannot delete Content type group "%identifier%" as it still contains Content types.</source>
+        <target xml:lang="pt-PT" state="translated">Impossível remover grupo de tipos de Conteúdo "%identifier%" pois ainda contém tipos de Conteúdo.</target>
+        <note>key: content_type.group.cannot_delete.has_content_types</note>
+        <jms:reference-file line="190">/../../../../.././Controller/ContentTypeController.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d9af30fb88ca7bed537ebf13fe3aef6c1679ff40" resname="content_type.group.create.title">
+        <source>Creating a new Content type group</source>
+        <target xml:lang="pt-PT" state="translated">Criar um novo grupo de tipos de Conteúdo</target>
+        <note>key: content_type.group.create.title</note>
+        <jms:reference-file line="5">/../../../../.././Resources/views/ContentType/edit_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8023ffcb49893af87bad5805790b91dee17b3acc" resname="content_type.group.deleted">
+        <source>Content type group "%identifier%" was correctly deleted.</source>
+        <target xml:lang="pt-PT" state="translated">Grupo de tipos de Conteúdo "%identifier%" foi correctamente removido.</target>
+        <note>key: content_type.group.deleted</note>
+        <jms:reference-file line="188">/../../../../.././Controller/ContentTypeController.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ad7e97ad4cf67edf7aadf9010b17c34dc57aa0a6" resname="content_type.group.edit">
+        <source>Edit</source>
+        <target xml:lang="pt-PT" state="translated">Editar</target>
+        <note>key: content_type.group.edit</note>
+        <jms:reference-file line="39">/../../../../.././Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
+        <jms:reference-file line="41">/../../../../.././Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="32ba0cf1376c3c7bb98ae775d06504203b972781" resname="content_type.group.edit.title">
+        <source>Editing Content type group "%identifier%"</source>
+        <target xml:lang="pt-PT" state="translated">Editar grupo de tipos de Conteúdo "%identifier%"</target>
+        <note>key: content_type.group.edit.title</note>
+        <jms:reference-file line="5">/../../../../.././Resources/views/ContentType/edit_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3aa78eef31f8d83f3229f888579149da40bb4126" resname="content_type.group.id">
+        <source>ID</source>
+        <target xml:lang="pt-PT" state="translated">ID</target>
+        <note>key: content_type.group.id</note>
+        <jms:reference-file line="26">/../../../../.././Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d09d4d7f65b1acd604c44c85d08f82fb55fcb880" resname="content_type.group.list">
+        <source>Content type groups</source>
+        <target xml:lang="pt-PT" state="translated">Grupos de tipos de conteúdo</target>
+        <note>key: content_type.group.list</note>
+        <jms:reference-file line="15">/../../../../.././Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
+        <jms:reference-file line="75">/../../../../.././Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
+        <jms:reference-file line="9">/../../../../.././Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
+        <jms:reference-file line="84">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e898d2cafb9cf32633ae1324fac8a0f233688885" resname="content_type.group.name">
+        <source>Name</source>
+        <target xml:lang="pt-PT" state="translated">Nome</target>
+        <note>key: content_type.group.name</note>
+        <jms:reference-file line="25">/../../../../.././Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="29cb17e453cf97bda9072c5e8a52f72a484d7e32" resname="content_type.group.new">
+        <source>Create a Content type group</source>
+        <target xml:lang="pt-PT" state="translated">Criar um grupo de tipos de Conteúdo</target>
+        <note>key: content_type.group.new</note>
+        <jms:reference-file line="65">/../../../../.././Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
+        <jms:reference-file line="67">/../../../../.././Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="334f261e09d7b3da4b26022a121ef596bff8a422" resname="content_type.group.notification.created">
+        <source>Content type group "%identifier%" was correctly created.</source>
+        <target xml:lang="pt-PT" state="translated">Grupo de tipos de Conteúdo "%identifier%" foi correctamente criado.</target>
+        <note>key: content_type.group.notification.created</note>
+        <jms:reference-file line="46">/../../../../.././Form/Processor/ContentTypeGroupFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="09685a253a508713c275a4ecde1adbb4b7f1781e" resname="content_type.group.notification.updated">
+        <source>Content type group "%identifier%" was correctly updated.</source>
+        <target xml:lang="pt-PT" state="translated">Grupo de tipos de Conteúdo "%identifier%" foi correctamente actualizado.</target>
+        <note>key: content_type.group.notification.updated</note>
+        <jms:reference-file line="48">/../../../../.././Form/Processor/ContentTypeGroupFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ac9f629a5395fbcbc31455777dafda7ef125b39e" resname="content_type.id">
+        <source>ID</source>
+        <target xml:lang="pt-PT" state="translated">ID</target>
+        <note>key: content_type.id</note>
+        <jms:reference-file line="27">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="238db0c5dee8ec13199b073f7cc78728f53ffa36" resname="content_type.identifier">
+        <source>Identifier</source>
+        <target xml:lang="pt-PT" state="translated">Identificador</target>
+        <note>key: content_type.identifier</note>
+        <jms:reference-file line="44">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="29">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
