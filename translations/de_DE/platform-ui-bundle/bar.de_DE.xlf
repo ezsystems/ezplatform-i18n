@@ -128,8 +128,17 @@
       </trans-unit>
       <trans-unit id="b751b43622c766dad211b5892e401abe17292918" resname="error.occurred.copying">
         <source>An error occurred while copying your content</source>
-        <target xml:lang="de" state="translated">Beim kopieren Ihres Inhaltes trat ein Fehler auf</target>
+        <target xml:lang="de" state="translated">Beim Kopieren Ihres Inhaltes trat ein Fehler auf</target>
         <note>key: error.occurred.copying</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="de">Beim kopieren Ihres Inhaltes trat ein Fehler auf</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="e3215cb818603963b4e6b318ed9874ba881ca5bb" resname="error.occurred.loading">
+        <source>An error occurred while loading your content</source>
+        <target xml:lang="de" state="translated">Beim Laden Ihres Inhaltes trat ein Fehler auf</target>
+        <note>key: error.occurred.loading</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit">
