@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="pt-PT">
+    <body>
+      <trans-unit id="1">
+        <source>ez.content_type.identifier.pattern</source>
+        <target xml:lang="pt-PT" state="translated">Identificadores de tipos de conteúdo podem apenas conter letras de "a" a "z", dígitos ou "_" começando por letra</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>ez.content_type.names</source>
+        <target xml:lang="pt-PT" state="translated">O nome de um tipo de conteúdo não pode ser vazio ou exceder 255 caracteres.</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>ez.content_type.descriptions</source>
+        <target xml:lang="pt-PT" state="translated">A descrição de um tipo de conteúdo não pode exceder os 255 caracteres.</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>ez.content_type.identifier.unique</source>
+        <target xml:lang="pt-PT" state="translated">Identificador de tipo de conteúdo tem de ser único.</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>ez.field_definition.names</source>
+        <target xml:lang="pt-PT" state="translated">O nome de uma definição de campo não pode ser vazio nem exceder 255 caracteres.</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>ez.field_definition.descriptions</source>
+        <target xml:lang="pt-PT" state="translated">A descrição de uma definição de campo não pode exceder 255 caracteres.</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>ez.field_definition.identifier.unique</source>
+        <target xml:lang="pt-PT" state="translated">ID de definição de campo deve ser único</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>ez.field_definition.validator_configuration</source>
+        <target xml:lang="pt-PT" state="translated">Ocorreu erro de configuração num validador de um campo.</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>ez.field_definition.field_settings</source>
+        <target xml:lang="pt-PT" state="translated">Configurações de campo</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
