@@ -23,9 +23,18 @@
       </trans-unit>
       <trans-unit id="be3348d5545fb64e8506ae64e667dac048bbc97c" resname="actionbar.delete">
         <source>Delete</source>
-        <target xml:lang="hi" state="translated">हटाएँ</target>
+        <target xml:lang="hi" state="translated">मिटाए</target>
         <note>key: actionbar.delete</note>
         <jms:reference-file>./Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hi">हटाएँ</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="55ba03a687a73559ef8a2d4e1ff935b47ddc5859" resname="discoverybar.search">
+        <source>Search</source>
+        <target xml:lang="hi" state="translated">खोज</target>
+        <note>key: discoverybar.search</note>
+        <jms:reference-file>./Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
       </trans-unit>
     </body>
   </file>
