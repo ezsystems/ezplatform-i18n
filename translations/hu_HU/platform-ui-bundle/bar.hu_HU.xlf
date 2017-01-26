@@ -165,6 +165,54 @@
         <note>key: locations.created</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="0303d73c8f63f2d6b9f34ac721f6622214ad458d" resname="revealed.location">
+        <source>Location "%id%" has been revealed</source>
+        <target xml:lang="hu" state="translated">A "%id%" lokációt felfedtük</target>
+        <note>key: revealed.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="67b19056cc5015b057182c283116f05c69507d22" resname="revealing.location">
+        <source>Revealing Location "%id%"</source>
+        <target xml:lang="hu" state="translated">"%id%" lokáció felfedése</target>
+        <note>key: revealing.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7fc31d0ca90043a53df1a70b6d9d84c8c4fddf30" resname="select.a.language.for.new.translation">
+        <source>Select a language for your new translation:</source>
+        <target xml:lang="hu" state="translated">Válasszon nyelvet az új fordításhoz:</target>
+        <note>key: select.a.language.for.new.translation</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ez-translateactionview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="801849651d85606aa04da1b4ea58fad208793e3a" resname="select.location.to.copy">
+        <source>Select the location you want to copy your content into</source>
+        <target xml:lang="hu" state="translated">Válassza ki a lokációt, ahová másolni szeretné a tartalmat</target>
+        <note>key: select.location.to.copy</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="303fa8448e329ecb88341279a1a17b044549270a" resname="select.location.to.create.new.location">
+        <source>Select the location where you want to create new location</source>
+        <target xml:lang="hu" state="translated">Válassza ki a lokációt, ahová az új lokációt szeretné létrehozni</target>
+        <note>key: select.location.to.create.new.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit">
+        <source>Edit</source>
+        <target xml:lang="hu" state="translated">Szerkesztés</target>
+        <note>key: translateaction.edit</note>
+        <jms:reference-file>./Resources/public/templates/translateaction.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0da142a7f050a139b79a5865547744a56a5f4281" resname="translateaction.existing.translations">
+        <source>Existing Translations</source>
+        <target xml:lang="hu" state="translated">Meglévő fordítások</target>
+        <note>key: translateaction.existing.translations</note>
+        <jms:reference-file>./Resources/public/templates/translateaction.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cd6a171f15734694bbc3e15e0f2e4ca47dd5d1ff" resname="translateaction.new.translation">
+        <source>+ New Translation</source>
+        <target xml:lang="hu" state="translated">Új fordítás hozzáadása</target>
+        <note>key: translateaction.new.translation</note>
+        <jms:reference-file>./Resources/public/templates/translateaction.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
