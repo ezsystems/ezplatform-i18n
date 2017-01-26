@@ -178,6 +178,126 @@
         <jms:reference-file line="44">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="29">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="8d1c4e01ea895221eda65f6d840b29c4cfe932f2" resname="content_type.is_in_use">
+        <source>The content type cannot be deleted because it has content items, or because you don't have permission.</source>
+        <target xml:lang="hu" state="translated">A tartalomtípus nem törölhető, mert tartalom elemek tartoznak hozzá, vagy Önnek nincs jogosultsága a művelethez.</target>
+        <note>key: content_type.is_in_use</note>
+        <jms:reference-file line="150">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="59">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="de2ea38b0604e5c021452e0eef43c2cc9494a2b7" resname="content_type.last_modified">
+        <source>Last modified: %date% by %modifier%</source>
+        <target xml:lang="hu" state="translated">Utoljára módosítva: %date% , %modifier% által</target>
+        <note>key: content_type.last_modified</note>
+        <jms:reference-file line="33">/../../../../.././Resources/views/ContentType/update_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="30">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d7155c791bcef0de802e2194552a2eee56d3b69e" resname="content_type.metadata.title">
+        <source>Global properties</source>
+        <target xml:lang="hu" state="translated">Általános beállítások</target>
+        <note>key: content_type.metadata.title</note>
+        <jms:reference-file line="38">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="da320072e416ddaba6f9ea57810d26fd1b6bfe80" resname="content_type.modified_date">
+        <source>Modification date</source>
+        <target xml:lang="hu" state="translated">Módosítás dátuma</target>
+        <note>key: content_type.modified_date</note>
+        <jms:reference-file line="30">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
+        <source>Name</source>
+        <target xml:lang="hu" state="translated">Név</target>
+        <note>key: content_type.name</note>
+        <jms:reference-file line="40">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="28">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9e9628fc59643f3167ebe81dfed3e40eecd281c9" resname="content_type.name_schema">
+        <source>Content name schema</source>
+        <target xml:lang="hu" state="translated">Tartalom név séma</target>
+        <note>key: content_type.name_schema</note>
+        <jms:reference-file line="52">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b771fde80a8c0b6981ab81a9408b4a800f92e38d" resname="content_type.notification.deleted">
+        <source>The Content type "%contentTypeName%" was successfully deleted.</source>
+        <target xml:lang="hu" state="translated">A "%contentTypeName% sikeresen törlésre került.</target>
+        <note>key: content_type.notification.deleted</note>
+        <jms:reference-file line="346">/../../../../.././Controller/ContentTypeController.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="974093fc35f4b06c80d9cf523f125cbc61beaa78" resname="content_type.notification.draft_removed">
+        <source>The Content type draft was successfully removed.</source>
+        <target xml:lang="hu" state="translated">A tartalomtípus piszkozata sikeresen el lett távolítva.</target>
+        <note>key: content_type.notification.draft_removed</note>
+        <jms:reference-file line="96">/../../../../.././Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="35f407c7c55275cd9046b6f9e9e77913b9b08e28" resname="content_type.notification.draft_updated">
+        <source>The Content type draft was successfully updated.</source>
+        <target xml:lang="hu" state="translated">A tartalomtípus piszkozata sikeresen frissítésre került.</target>
+        <note>key: content_type.notification.draft_updated</note>
+        <jms:reference-file line="60">/../../../../.././Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ceffda5dc773e1742f8fc336402cdc506774d2c0" resname="content_type.notification.published">
+        <source>The Content type draft was successfully updated and published. Related Content has also been updated.</source>
+        <target xml:lang="hu" state="translated">A tartalomtípus piszkozata sikeresen frissítve és publikálásra került. A kapcsolódó tartalom szintén frissítésre került.</target>
+        <note>key: content_type.notification.published</note>
+        <jms:reference-file line="72">/../../../../.././Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
+        <source>URL alias name pattern</source>
+        <target xml:lang="hu" state="translated">URL alias név minta</target>
+        <note>key: content_type.url_alias_schema</note>
+        <jms:reference-file line="56">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description">
+        <source>Description</source>
+        <target xml:lang="hu" state="translated">Leírás</target>
+        <note>key: field_definition.description</note>
+        <jms:reference-file line="109">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8b863a9c7cd91565182ad0a3a5e30ca8090f84c7" resname="field_definition.identifier">
+        <source>Identifier</source>
+        <target xml:lang="hu" state="translated">Azonosító</target>
+        <note>key: field_definition.identifier</note>
+        <jms:reference-file line="92">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9a02e329edf4c1e41c97c8be922137c284c249c4" resname="field_definition.name">
+        <source>Name</source>
+        <target xml:lang="hu" state="translated">Név</target>
+        <note>key: field_definition.name</note>
+        <jms:reference-file line="91">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2c59c801986049c4f4b48f11842932bf4342e278" resname="field_definition.required">
+        <source>Required</source>
+        <target xml:lang="hu" state="translated">Kötelező</target>
+        <note>key: field_definition.required</note>
+        <jms:reference-file line="113">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2e2ef6bae44fe23eec336dec39035b5d2c4b87b6" resname="field_definition.searchable">
+        <source>Searchable</source>
+        <target xml:lang="hu" state="translated">Kereshető</target>
+        <note>key: field_definition.searchable</note>
+        <jms:reference-file line="117">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fd6ec7b826db4a501858a8658d8e71b067a46568" resname="field_definition.translatable">
+        <source>Translatable</source>
+        <target xml:lang="hu" state="translated">Fordítható</target>
+        <note>key: field_definition.translatable</note>
+        <jms:reference-file line="121">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9ca17bd05bb09ae1283d539c77d57558499ccca4" resname="field_definition.type">
+        <source>Type</source>
+        <target xml:lang="hu" state="translated">Típus</target>
+        <note>key: field_definition.type</note>
+        <jms:reference-file line="93">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3e9deeb426f08a404990a6926d70558955272593" resname="yes_no">
+        <source>{0} No|{1} Yes</source>
+        <target xml:lang="hu" state="translated">{0} Nem |{1} Igen</target>
+        <note>key: yes_no</note>
+        <jms:reference-file line="114">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="118">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="122">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="61">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
