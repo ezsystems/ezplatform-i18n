@@ -126,9 +126,9 @@
         <note>key: locationview.locations.select.content.item</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="78f72ceb515315ffb377e812832368f846c12fec" resname="locationview.locations.swap.with.another">
+      <trans-unit id="78f72ceb515315ffb377e812832368f846c12fec" resname="locationview.locations.swap.with.another" approved="yes">
         <source>Swap the Content item at this location with another</source>
-        <target xml:lang="fr" state="translated">Echanger le contenu à cet emplacement avec un autre</target>
+        <target xml:lang="fr">Echanger le contenu à cet emplacement avec un autre</target>
         <note>key: locationview.locations.swap.with.another</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
