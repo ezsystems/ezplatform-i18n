@@ -104,6 +104,102 @@
         <note>key: FieldType '%fieldType%' not found, needs to be implemented or configured to use FieldType\Null\Type (%ezpublish.fieldType.eznull.class%)</note>
         <jms:reference-file line="32">/../../../../../eZ/Publish/Core/Base/Exceptions/NotFound/FieldTypeNotFoundException.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="25f2ccabd8883a36aee5754ce43741c211cf378a" resname="FieldType '%identifier%' is singular and can't be repeated in a ContentType">
+        <source>FieldType '%identifier%' is singular and can't be repeated in a ContentType</source>
+        <target xml:lang="hu" state="translated">A %identifier% mezőtípus egyedi és nem ismétlődhet egy tartalomtípusban</target>
+        <note>key: FieldType '%identifier%' is singular and can't be repeated in a ContentType</note>
+        <jms:reference-file line="30">/../../../../../eZ/Publish/Core/Base/Exceptions/SingularFieldTypeValidationException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b592a161a19d303272498874fb27a71626461be7" resname="Limitation '%limitation%' not found, needs to be implemented or configured to use Limitation\BlockingLimitationType (%ezpublish.api.role.limitation_type.blocking.class%">
+        <source>Limitation '%limitation%' not found, needs to be implemented or configured to use Limitation\BlockingLimitationType (%ezpublish.api.role.limitation_type.blocking.class%</source>
+        <target xml:lang="hu" state="translated">A %limitation% korlátozás nem található. Az alábbiak szerint szükséges implementálni, vagy konfigurálni: Limitation\BlockingLimitationType (%ezpublish.api.role.limitation_type.blocking.class%)</target>
+        <note>key: Limitation '%limitation%' not found, needs to be implemented or configured to use Limitation\BlockingLimitationType (%ezpublish.api.role.limitation_type.blocking.class%</note>
+        <jms:reference-file line="32">/../../../../../eZ/Publish/Core/Base/Exceptions/NotFound/LimitationNotFoundException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="71fd5f8839faaadfe7c61def7e4b42d429959952" resname="Limitations did not validate">
+        <source>Limitations did not validate</source>
+        <target xml:lang="hu" state="translated">A korlátozások nincsenek érvényesítve</target>
+        <note>key: Limitations did not validate</note>
+        <jms:reference-file line="40">/../../../../../eZ/Publish/Core/Base/Exceptions/LimitationValidationException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f915c78ee350c1b4fb3d3adac7584a12fcc0cfdf" resname="Only empty content type groups can be deleted">
+        <source>Only empty content type groups can be deleted</source>
+        <target xml:lang="hu" state="translated">Csak üres tartalomtípus csoportokat lehet törölni</target>
+        <note>key: Only empty content type groups can be deleted</note>
+        <jms:reference-file line="141">/../../../../../eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="87b49727a4d83168066183cbed772c1bbdfb63f8" resname="Only version in status DRAFT can be published">
+        <source>Only version in status DRAFT can be published</source>
+        <target xml:lang="hu" state="translated">Csak PISZKOZAT státuszú verziókat lehet publikálni</target>
+        <note>key: Only version in status DRAFT can be published</note>
+        <jms:reference-file line="513">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d75253ee3a0502ae44236a6556419822252f8849" resname="Only version in status DRAFT can be updated">
+        <source>Only version in status DRAFT can be updated</source>
+        <target xml:lang="hu" state="translated">Csak PISZKOZAT státuszú verziók frissíthetők</target>
+        <note>key: Only version in status DRAFT can be updated</note>
+        <jms:reference-file line="461">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3467ebb6448f4d8dd9f8a99cbea79415f25fa26d" resname="Path '%path%' already exists for the given language">
+        <source>Path '%path%' already exists for the given language</source>
+        <target xml:lang="hu" state="translated">A %path% elérési út már létezik a megadott nyelven</target>
+        <note>key: Path '%path%' already exists for the given language</note>
+        <jms:reference-file line="362">/../../../../../eZ/Publish/Core/Persistence/Legacy/Content/UrlAlias/Handler.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b2d83ff8d535b64b36eaab04237a3091fc10ee5a" resname="Placeholders are not matching with wildcards.">
+        <source>Placeholders are not matching with wildcards.</source>
+        <target xml:lang="hu" state="translated">A helyőrzők nem egyeznek a helyettesítőkkel.</target>
+        <note>key: Placeholders are not matching with wildcards.</note>
+        <jms:reference-file line="102">/../../../../../eZ/Publish/Core/Repository/URLWildcardService.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d750946e6e0689d003a701bf1db100b12a742c4f" resname="Provided content type does not contain ezuser field type">
+        <source>Provided content type does not contain ezuser field type</source>
+        <target xml:lang="hu" state="translated">A tartalom típus nem tartalmaz "eZuser" mezőtípust</target>
+        <note>key: Provided content type does not contain ezuser field type</note>
+        <jms:reference-file line="24">/../../../../../eZ/Publish/Core/Base/Exceptions/NoUserFieldContentValidationException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c13178e601c4bf79ad9ef57efe468ed438a9b167" resname="Relation is not of type COMMON">
+        <source>Relation is not of type COMMON</source>
+        <target xml:lang="hu" state="translated">A kapcsolat nem általános</target>
+        <note>key: Relation is not of type COMMON</note>
+        <jms:reference-file line="645">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8da63ffae0f9707c46ca02d66e9074e7f9f538d6" resname="Relation of type COMMON can only be added to drafts">
+        <source>Relation of type COMMON can only be added to drafts</source>
+        <target xml:lang="hu" state="translated">KÖZÖS kapcsolódási típus csak piszkozatokhoz adható meg</target>
+        <note>key: Relation of type COMMON can only be added to drafts</note>
+        <jms:reference-file line="684">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="388dae35f493b4e06e6458455f4837b1691fd72b" resname="Relation of type COMMON can only be removed from drafts">
+        <source>Relation of type COMMON can only be removed from drafts</source>
+        <target xml:lang="hu" state="translated">KÖZÖS kapcsolódási típus csak piszkozatoknál szüntethető meg</target>
+        <note>key: Relation of type COMMON can only be removed from drafts</note>
+        <jms:reference-file line="649">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="30ea10f44d07a5752ed9c57a8458b3579b8dd421" resname="Relation of type COMMON to selected destination content ID already exists">
+        <source>Relation of type COMMON to selected destination content ID already exists</source>
+        <target xml:lang="hu" state="translated">Kiválasztott célhoz rendelt KÖZÖS kapcsolódási tartalom ID már létezik</target>
+        <note>key: Relation of type COMMON to selected destination content ID already exists</note>
+        <jms:reference-file line="696">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="09683b2a73d28421548e01bfbd6cc468095fa29d" resname="User does not have access to '%function%' '%module%'">
+        <source>User does not have access to '%function%' '%module%'</source>
+        <target xml:lang="hu" state="translated">A %module% %function% funkciójához a felhasználó nem rendelkezik hozzáféréssel</target>
+        <note>key: User does not have access to '%function%' '%module%'</note>
+        <jms:reference-file line="38">/../../../../../eZ/Publish/Core/Base/Exceptions/UnauthorizedException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="649224015306dff4831eceb63d49e66d7c0c4f1b" resname="User does not have access to '%function%' '%module%' with: %with%'">
+        <source>User does not have access to '%function%' '%module%' with: %with%'</source>
+        <target xml:lang="hu" state="translated">A %module% %function% funkciójához a felhasználó nem rendelkezik hozzáféréssel ezzel: %with%</target>
+        <note>key: User does not have access to '%function%' '%module%' with: %with%'</note>
+        <jms:reference-file line="42">/../../../../../eZ/Publish/Core/Base/Exceptions/UnauthorizedException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dfb77818edfca3ee72ed24e16c643a84203ecfa7" resname="Version in status PUBLISHED cannot be deleted">
+        <source>Version in status PUBLISHED cannot be deleted</source>
+        <target xml:lang="hu" state="translated">PUBLIKUS verziójú elem nem törölhető</target>
+        <note>key: Version in status PUBLISHED cannot be deleted</note>
+        <jms:reference-file line="354">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
