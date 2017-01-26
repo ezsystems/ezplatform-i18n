@@ -6,37 +6,24 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="55bfafdd36ab25c84547ddc2ecfc0fb802565885" resname="created.by">
+        <source>Created by %name%</source>
+        <target xml:lang="fr" state="translated">Créé par %name%</target>
+        <note>key: created.by</note>
+        <jms:reference-file>./Resources/public/templates/contentedit.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1aa787fe0cfb373575fc2c0f6f826e7c6dc9fd41" resname="preview">
+        <source>Preview</source>
+        <target xml:lang="fr" state="translated">Aperçu</target>
+        <note>key: preview</note>
+        <jms:reference-file>./Resources/public/js/views/ez-editactionbarview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5e2fb0c2c59448e1dec5df0f70ec85fcad1ca7b6" resname="publish">
+        <source>Publish</source>
+        <target xml:lang="fr" state="translated">Publier</target>
+        <note>key: publish</note>
+        <jms:reference-file>./Resources/public/js/views/ez-editactionbarview.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
