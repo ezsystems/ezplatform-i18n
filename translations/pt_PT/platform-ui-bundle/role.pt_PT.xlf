@@ -30,6 +30,60 @@
         <note>key: assignment.none</note>
         <jms:reference-file line="186">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="70dd3723bde281857912354e3abdb2611345e1a1" resname="assignment.role_limitation">
+        <source>Limitation</source>
+        <target xml:lang="pt-PT" state="translated">Limitação</target>
+        <note>key: assignment.role_limitation</note>
+        <jms:reference-file line="137">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9d40ec6ea2a69dc31d986dd760c5c4d1e58274a0" resname="assignment.role_limitation_none">
+        <source>No limitations</source>
+        <target xml:lang="pt-PT" state="translated">Sem limitações</target>
+        <note>key: assignment.role_limitation_none</note>
+        <jms:reference-file line="165">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a94d773d3ca19d453ea28717e3a8e00c0c239c32" resname="assignment.user_or_group">
+        <source>User/group</source>
+        <target xml:lang="pt-PT" state="translated">Utilizador/grupo</target>
+        <note>key: assignment.user_or_group</note>
+        <jms:reference-file line="136">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="507cd080bead04f2b94f397dd7a3791ac7548e3c" resname="assignment.user_or_group_using">
+        <source><![CDATA[Users and groups using the <%role%> role (%count%)]]></source>
+        <target xml:lang="pt-PT" state="translated"><![CDATA[Utilizadores e grupos a utilizar o perfil de acesso <%role%> (%count%)]]></target>
+        <note>key: assignment.user_or_group_using</note>
+        <jms:reference-file line="24">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ca65309bef9a375c91388358cc8304dae5032ca1" resname="failed.assigned.role">
+        <source>Role has not been assigned to "%name%": %message%</source>
+        <target xml:lang="pt-PT" state="translated">Perfil de acesso não foi atribuído a "%name%": %message%</target>
+        <note>key: failed.assigned.role</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7f17d5ce98c94b79ee8708703b552c2c101714ff" resname="failed.assigned.role.user">
+        <source>Role has not been assigned to any users/groups</source>
+        <target xml:lang="pt-PT" state="translated">Perfil de acesso não foi atribuído a nenhum utilizador/grupo</target>
+        <note>key: failed.assigned.role.user</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c0f6421b8ab278d972511eeb070a3b76a1052a7f" resname="failed.loading.role">
+        <source>The role "%roleName%" could not be loaded</source>
+        <target xml:lang="pt-PT" state="translated">O perfil de acesso "%roleName%" não pôde ser carregado</target>
+        <note>key: failed.loading.role</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3444a2a8c58cd51ce588ed98a265546600e82dc4" resname="policy.function">
+        <source>Function</source>
+        <target xml:lang="pt-PT" state="translated">Função</target>
+        <note>key: policy.function</note>
+        <jms:reference-file line="33">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5f14c2cbee4f51ce207b4f179d888d87cc9d92db" resname="policy.function_all">
+        <source>all functions</source>
+        <target xml:lang="pt-PT" state="translated">todas as funções</target>
+        <note>key: policy.function_all</note>
+        <jms:reference-file line="52">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e9e10ddeb169d59d94b54912d0422481a0a0b140" resname="role.edit_title">
         <source><![CDATA[Edit <%roleName%>]]></source>
         <target xml:lang="pt-PT" state="needs-translation"><![CDATA[ <%roleName%>]]></target>
