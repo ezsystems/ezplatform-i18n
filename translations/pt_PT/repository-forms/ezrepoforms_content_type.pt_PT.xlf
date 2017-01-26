@@ -314,10 +314,67 @@
       </trans-unit>
       <trans-unit id="146">
         <source>field_definition.ezdatetime.default_type_adjusted</source>
-        <target xml:lang="pt-PT" state="translated">Data e hora actual ajustada</target>
+        <target xml:lang="pt-PT" state="translated">Data e hora actuais ajustadas</target>
+        <alt-trans>
+          <target xml:lang="pt-PT">Data e hora actual ajustada</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>field_definition.ezdatetime.date_interval</source>
+        <target xml:lang="pt-PT" state="translated">Intervalo de datas</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>field_definition.ezobjectrelation.selection_root</source>
+        <target xml:lang="pt-PT" state="translated">Raiz de selecção por omissão</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>field_definition.ezobjectrelation.selection_root_udw_title</source>
+        <target xml:lang="pt-PT" state="translated">Seleccione a localização por omissão para definir uma relação para o campo</target>
+        <alt-trans>
+          <target xml:lang="pt-PT">Seleccione a localização por omissão para definir relações para o campo</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>field_definition.ezobjectrelation.selection_root_udw_button</source>
+        <target xml:lang="pt-PT" state="translated">Seleccionar uma localização</target>
+        <alt-trans>
+          <target xml:lang="pt-PT">Seleccionar um item</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>field_definition.ezobjectrelationlist.selection_default_location</source>
+        <target xml:lang="pt-PT" state="translated">Localização por omissão</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>field_definition.ezobjectrelationlist.selection_content_types</source>
+        <target xml:lang="pt-PT" state="translated">Tipos de conteúdo</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>field_definition.ezobjectrelationlist.selection_root_udw_title</source>
+        <target xml:lang="pt-PT" state="translated">Seleccione a localização por omissão para definir relações para o campo</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>field_definition.ezobjectrelationlist.selection_root_udw_button</source>
+        <target xml:lang="pt-PT" state="translated">Seleccione uma localização</target>
       </trans-unit>
       <!-- Errors -->
+      <trans-unit id="1ccb9c8a9c5030a616b4caf4b2e532c0">
+        <source>content_type.error.content_type_group.not_found</source>
+        <target xml:lang="pt-PT" state="translated">Grupo seleccionado não foi encontrado</target>
+      </trans-unit>
       <!-- ContentType groups -->
+      <trans-unit id="4fc6b746712fd2aeaea4d323a89ee4a3">
+        <source>content_type.group.identifier</source>
+        <target xml:lang="pt-PT" state="translated">Identificador para grupo de conteúdos</target>
+      </trans-unit>
+      <trans-unit id="efa6eedcf144d6acddf602ffe497fedf">
+        <source>content_type.group.save</source>
+        <target xml:lang="pt-PT" state="translated">Gravar</target>
+      </trans-unit>
+      <trans-unit id="21b3559b40d1828b8fc109bcfeebc70e">
+        <source>content_type.group.delete</source>
+        <target xml:lang="pt-PT" state="translated">Remover</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
