@@ -38,6 +38,26 @@
         <source>ez.field_definition.field_settings</source>
         <target xml:lang="pt-PT" state="translated">Configurações de campo</target>
       </trans-unit>
+      <trans-unit id="15">
+        <source>ez.field_definition.default_field_value</source>
+        <target xml:lang="pt-PT" state="translated">Valor do campo por omissão</target>
+      </trans-unit>
+      <trans-unit id="b4bcdedc4147dd912dc0247cea16c750" resname="ez.role.identifier.unique">
+        <source>ez.role.identifier.unique</source>
+        <target xml:lang="pt-PT" state="translated">Identificador do perfil de acesso deve ser único.</target>
+      </trans-unit>
+      <trans-unit id="5387d26cceb54294dafe82be9b0d61d0">
+        <source>ez.section.identifier.format</source>
+        <target xml:lang="pt-PT" state="translated">Identificador de uma secção só pode conter letras de "a" a "z", dígitos ou "_" começando por letra.</target>
+      </trans-unit>
+      <trans-unit id="3782ffaac11648e8ead7248adb7a42bc">
+        <source>ez.section.identifier.unique</source>
+        <target xml:lang="pt-PT" state="translated">Identificador da secção deve ser único.</target>
+      </trans-unit>
+      <trans-unit id="89e55c873b7b7be97b6d3ad700e2e041">
+        <source>ez.field.value</source>
+        <target xml:lang="pt-PT" state="translated">Validação do campo falhou.</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
