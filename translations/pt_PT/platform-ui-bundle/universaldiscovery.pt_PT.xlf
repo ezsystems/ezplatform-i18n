@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file date="2016-11-29T11:49:06Z" source-language="en" target-language="pt-PT" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="0f6a24fa439e992bc7919aa2d949c05077899adc" resname="browse">
+        <source>Browse</source>
+        <target xml:lang="pt-PT" state="translated">Navegar</target>
+        <note>key: browse</note>
+        <jms:reference-file>./Resources/public/js/views/universaldiscovery/ez-universaldiscoverybrowseview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="eb49b4ba3c7e1ef3ac5b6d8f82f8095bed616989" resname="no.result">
+        <source>No results were found while searching for "%searchText%".</source>
+        <target xml:lang="pt-PT" state="translated">Não foram encontrados resultados ao procurar por "%searchText%".</target>
+        <note>key: no.result</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d5ddefb37351cd23fd0ef3eef4c9afca357a4493" resname="remaining.more">
+        <source>+%remainingCount% more</source>
+        <target xml:lang="pt-PT" state="translated">+%remainingCount% mais</target>
+        <note>key: remaining.more</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/confirmedlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="724b2384805ea6aa150d57d3d870d50b1d661d8b" resname="universaldiscovery.cancel">
+        <source>Cancel</source>
+        <target xml:lang="pt-PT" state="translated">Cancelar</target>
+        <note>key: universaldiscovery.cancel</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5afbdba140a12800056af6216eacaeb6c04d5cf4" resname="universaldiscovery.choose.this.content">
+        <source>Choose this content</source>
+        <target xml:lang="pt-PT" state="translated">Escolher este conteúdo</target>
+        <note>key: universaldiscovery.choose.this.content</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="39b27d53e4d40abdf72543f7dc720f0ad7dfe34c" resname="universaldiscovery.confirm.selection">
+        <source>Confirm selection</source>
+        <target xml:lang="pt-PT" state="translated">Confirmar selecção</target>
+        <note>key: universaldiscovery.confirm.selection</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c951ce12db4e892a7cdb5a44b399e21d689a44ed" resname="universaldiscovery.confirmed.items">
+        <source>Confirmed items</source>
+        <target xml:lang="pt-PT" state="translated">Itens confirmados</target>
+        <note>key: universaldiscovery.confirmed.items</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/confirmedlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="572fdb94d49b6e58d297fd7491cf28c77d60e241" resname="universaldiscovery.content.tree">
+        <source>Content tree</source>
+        <target xml:lang="pt-PT" state="translated">Árvore de conteúdos</target>
+        <note>key: universaldiscovery.content.tree</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/browse.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5d385d494274d016769564a3bdf95332896d62af" resname="universaldiscovery.creation.date">
+        <source>Creation Date</source>
+        <target xml:lang="pt-PT" state="translated">Data de Criação</target>
+        <note>key: universaldiscovery.creation.date</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pt-PT">Data de criação</target>
+        </alt-trans>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
