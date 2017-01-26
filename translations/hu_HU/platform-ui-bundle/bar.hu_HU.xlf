@@ -153,6 +153,18 @@
         <note>key: hiding.location</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="892075dad374cd4df8ce78ea7aa1bba5eb5b3244" resname="location.created">
+        <source>New location for "%name%" has been successfully created</source>
+        <target xml:lang="hu" state="translated">Az új lokáció sikeresen létrejött ehhez: "%name%"</target>
+        <note>key: location.created</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9ed496cc88a3a2f48a33464deb00f217d41803ca" resname="locations.created">
+        <source>%count% new locations for "%name%" have been successfully created</source>
+        <target xml:lang="hu" state="translated">%count% új lokáció sikeresen létrejött ehhez: "%name%"</target>
+        <note>key: locations.created</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
