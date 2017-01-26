@@ -270,11 +270,283 @@
         <note>key: locationview.locations.content.locations</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="33ceaa61b8d64b8c3ea118e4f8d1c172c97f5329" resname="locationview.locations.hidden">
+        <source>Hidden</source>
+        <target xml:lang="pt-PT" state="translated">Escondido</target>
+        <note>key: locationview.locations.hidden</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e5850a5016f4965ec5dc59f78bb7e9cd146fc9a4" resname="locationview.locations.hidden.by.superior">
+        <source>Hidden by superior</source>
+        <target xml:lang="pt-PT" state="translated">Escondido por superior</target>
+        <note>key: locationview.locations.hidden.by.superior</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8a1beb515496a34287a6fe56c5e12e752c12a47d" resname="locationview.locations.hide">
+        <source>Hide</source>
+        <target xml:lang="pt-PT" state="translated">Esconder</target>
+        <note>key: locationview.locations.hide</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="18ffeb7a312f5b6c621e15a46d902ae1fddefe0f" resname="locationview.locations.loading.location.list">
+        <source>Loading the locations list</source>
+        <target xml:lang="pt-PT" state="translated">A carregar a lista de localizações</target>
+        <note>key: locationview.locations.loading.location.list</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="84eeb5f06a07ce1fffe674e87dca6905ad4714a5" resname="locationview.locations.location.list.error">
+        <source>An error occurred while loading the locations list.</source>
+        <target xml:lang="pt-PT" state="translated">Ocorreu um erro ao carregar a lista de localizações.</target>
+        <note>key: locationview.locations.location.list.error</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dae83bb328778476ec3e0c5b6db211ca3aa2bc13" resname="locationview.locations.main">
+        <source>Main</source>
+        <target xml:lang="pt-PT" state="translated">Principal</target>
+        <note>key: locationview.locations.main</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e4effb18f15a8e0e891860a2b115f08df36a7313" resname="locationview.locations.path">
+        <source>Path</source>
+        <target xml:lang="pt-PT" state="translated">Caminho</target>
+        <note>key: locationview.locations.path</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c74cc382c1023b02479021fe7b260023d1287df1" resname="locationview.locations.remove.selected">
+        <source>Remove selected</source>
+        <target xml:lang="pt-PT" state="translated">Remover os seleccionados</target>
+        <note>key: locationview.locations.remove.selected</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1f6fe54dbf1b1db82393f87d469612c5b307ea81" resname="locationview.locations.reveal">
+        <source>Reveal</source>
+        <target xml:lang="pt-PT" state="translated">Mostrar</target>
+        <note>key: locationview.locations.reveal</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="30412ae8741b6ad892f8e7121c1df1c98690fe69" resname="locationview.locations.select.content.item">
+        <source>Select Content item</source>
+        <target xml:lang="pt-PT" state="translated">Seleccionar Conteúdo</target>
+        <note>key: locationview.locations.select.content.item</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b5ab365ec9097447d661364c587dd74a3a2a4da3" resname="locationview.locations.subitems">
+        <source>Sub-items</source>
+        <target xml:lang="pt-PT" state="translated">Sub-items</target>
+        <note>key: locationview.locations.subitems</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="78f72ceb515315ffb377e812832368f846c12fec" resname="locationview.locations.swap.with.another">
+        <source>Swap the Content item at this location with another</source>
+        <target xml:lang="pt-PT" state="translated">Trocar o conteúdo nesta localização por outra</target>
+        <note>key: locationview.locations.swap.with.another</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8bf047758974255c4a8001ef57927d5b4098e7b1" resname="locationview.locations.visibility">
+        <source>Visibility</source>
+        <target xml:lang="pt-PT" state="translated">Visibilidade</target>
+        <note>key: locationview.locations.visibility</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4994eadd8f401eba51181d4d3c394792e3ab1bbd" resname="locationview.locations.visible">
+        <source>Visible</source>
+        <target xml:lang="pt-PT" state="translated">Visível</target>
+        <note>key: locationview.locations.visible</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5f9c385b31ca9a7d5e7ac7f4bec58bcca1418aa9" resname="locationview.relations.content">
+        <source>Content</source>
+        <target xml:lang="pt-PT" state="translated">Conteúdo</target>
+        <note>key: locationview.relations.content</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e9731695b9a4bd13eb374293087855f8ae449be5" resname="locationview.relations.error.loading.related">
+        <source>An error occurred while loading the related content list.</source>
+        <target xml:lang="pt-PT" state="translated">Ocorreu um erro ao carregar a lista de conteúdos relaccionada.</target>
+        <note>key: locationview.relations.error.loading.related</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d6b8b44043ab3a73bd6a8a1e1e9079e55a816623" resname="locationview.relations.no.related.content">
+        <source>This content has no related content.</source>
+        <target xml:lang="pt-PT" state="translated">Este conteúdo não tem conteúdos relaccionados.</target>
+        <note>key: locationview.relations.no.related.content</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0b409a5f5675b6ee03cfaea432d179c2648a36a3" resname="locationview.relations.related.content">
+        <source>Related content</source>
+        <target xml:lang="pt-PT" state="translated">Conteúdo relaccionado</target>
+        <note>key: locationview.relations.related.content</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8aea3326a700a081784bc0e51f0c91a3583eedc2" resname="locationview.relations.relation.type">
+        <source>Relation type</source>
+        <target xml:lang="pt-PT" state="translated">Tipo de relacção</target>
+        <note>key: locationview.relations.relation.type</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e23a8cfab8000e4ce2ad014f7b55fb6f777274e4" resname="locationview.retry">
+        <source>Retry</source>
+        <target xml:lang="pt-PT" state="translated">Tentar novamente</target>
+        <note>key: locationview.retry</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="19f2181b9bb473b99dc985187f631876cebf3b35" resname="locationview.versions.archived.versions">
+        <source>Archived versions</source>
+        <target xml:lang="pt-PT" state="translated">Versões arquivadas</target>
+        <note>key: locationview.versions.archived.versions</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b7920f94494966e6db92b3937a84d3add836a812" resname="locationview.versions.author">
+        <source>Author</source>
+        <target xml:lang="pt-PT" state="translated">Autor</target>
+        <note>key: locationview.versions.author</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="47912146dd99224ef2e39362cf689e245bbf604a" resname="locationview.versions.created">
+        <source>Created</source>
+        <target xml:lang="pt-PT" state="translated">Criado</target>
+        <note>key: locationview.versions.created</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="419a69fad078eeaaf43244ac5874bc075affa8dc" resname="locationview.versions.delete.selected.draft">
+        <source>Delete selected draft</source>
+        <target xml:lang="pt-PT" state="translated">Remover rascunho seleccionado</target>
+        <note>key: locationview.versions.delete.selected.draft</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a7bf4de2ddd469229edee5cf992afa5b2099cd92" resname="locationview.versions.draft.under.edit">
+        <source>Draft under edit</source>
+        <target xml:lang="pt-PT" state="translated">Rascunho em edição</target>
+        <note>key: locationview.versions.draft.under.edit</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="150894069d0cf9666ae05e847cce60805208ed82" resname="locationview.versions.edit.selected.draft">
+        <source>Edit selected draft</source>
+        <target xml:lang="pt-PT" state="translated">Editar rascunho seleccionado</target>
+        <note>key: locationview.versions.edit.selected.draft</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="39ce8495c91402624f5e6729bcdb6bb914a4f9bc" resname="locationview.versions.error.loading.list">
+        <source>An error occurred while loading the versions list.</source>
+        <target xml:lang="pt-PT" state="translated">Ocorreu um erro ao carregar a lista de versões.</target>
+        <note>key: locationview.versions.error.loading.list</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="06c5892ec7611863b644cdbd638e57d83f88a303" resname="locationview.versions.language">
+        <source>Language</source>
+        <target xml:lang="pt-PT" state="translated">Idioma</target>
+        <note>key: locationview.versions.language</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5037377a0c7dc615547308d1ed82755e31176c03" resname="locationview.versions.last.saved">
+        <source>Last saved</source>
+        <target xml:lang="pt-PT" state="translated">Última gravação</target>
+        <note>key: locationview.versions.last.saved</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5d85516ece7ea51edb1fcff89135831903ab916b" resname="locationview.versions.loading.archived.list">
+        <source>Loading the archived version list</source>
+        <target xml:lang="pt-PT" state="translated">A carregar a lista de versões arquivadas</target>
+        <note>key: locationview.versions.loading.archived.list</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3362319e8e1f3885e6c6e0bfadf77d7c5774f106" resname="locationview.versions.loading.draft.list">
+        <source>Loading the draft list</source>
+        <target xml:lang="pt-PT" state="translated">A carregar a lista de rascunhos</target>
+        <note>key: locationview.versions.loading.draft.list</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f5e46b4632894a0a9a2b38eda614267de3e5e229" resname="locationview.versions.loading.published.list">
+        <source>Loading the published version list</source>
+        <target xml:lang="pt-PT" state="translated">A carregar a lista de versões publicadas</target>
+        <note>key: locationview.versions.loading.published.list</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ab40edd4e3d49edea2de3a5e5339cc9527c9ff03" resname="locationview.versions.new.draft.selected.version">
+        <source>New draft based on selected version</source>
+        <target xml:lang="pt-PT" state="translated">Novo rascunho baseado na versão seleccionada</target>
+        <note>key: locationview.versions.new.draft.selected.version</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bd9a1564891fdc81516078f86ecdb11dd212e86d" resname="locationview.versions.published.version">
+        <source>Published version</source>
+        <target xml:lang="pt-PT" state="translated">Versão publicada</target>
+        <note>key: locationview.versions.published.version</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="51b6a4fff074bf24fc4183bc944890cc849ba82d" resname="locationview.versions.remove.selected.archived.version">
+        <source>Remove selected archived version(s)</source>
+        <target xml:lang="pt-PT" state="translated">Remover versão/ões arquivada(s) seleccionada(s)</target>
+        <note>key: locationview.versions.remove.selected.archived.version</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="199990450f06a84725d61f91a899166d0d3305c4" resname="locationview.versions.version">
+        <source>Version</source>
+        <target xml:lang="pt-PT" state="translated">Versão</target>
+        <note>key: locationview.versions.version</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9f2228ea94634afa4c264cfa0b36b5f08d653298" resname="moved.under">
+        <source>'%name%' has been successfully moved under '%parentName%'</source>
+        <target xml:lang="pt-PT" state="translated">'%name%' foi movido para debaixo de '%parentName%' com sucesso</target>
+        <note>key: moved.under</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="f67a3e91c4d5aa8aac6c72fe7027dfba73eb1a4f" resname="rawcontent.content">
         <source>Content</source>
         <target xml:lang="pt-PT" state="translated">Conteúdo</target>
         <note>key: rawcontent.content</note>
         <jms:reference-file>./Resources/public/templates/rawcontent.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9ec896e824bd9e4181a3a6fbc7514c0dba5dde3d" resname="removed.locations.of">
+        <source>%count% location(s) of "%name%" have been removed</source>
+        <target xml:lang="pt-PT" state="translated">%count% localização/ões de "%name%" foi/foram removida(s)</target>
+        <note>key: removed.locations.of</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9e5f98b5c3f285bd15fc0a0a23b3a42c2faa47ea" resname="removed.versions.of">
+        <source>%count% version(s) of "%name%" have been removed</source>
+        <target xml:lang="pt-PT" state="translated">%count% versão/ões de "%name%" foi/foram removida(s)</target>
+        <note>key: removed.versions.of</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="acf9100e800a6f1f4f9fa47d8958d512a5729f06" resname="removing.locations.for">
+        <source>Removing locations for "%name%"</source>
+        <target xml:lang="pt-PT" state="translated">A remover localizações para "%name%"</target>
+        <note>key: removing.locations.for</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6bf8a2da889909164b44ea5b8942e18acb8f29b1" resname="removing.versions.for">
+        <source>Removing versions for "%name%"</source>
+        <target xml:lang="pt-PT" state="translated">A remover versões para "%name%"</target>
+        <note>key: removing.versions.for</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ae688447d6a0779e33bdbb155806278928d5ec7e" resname="select.location.move.to">
+        <source>Select the location you want to move your content into</source>
+        <target xml:lang="pt-PT" state="translated">Seleccione a localização para onde quer mover o conteúdo</target>
+        <note>key: select.location.move.to</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2ebde9679f8621dde1a0069e592eaf1164583c74" resname="select.location.to.swap">
+        <source>Select the location you want to swap with the given one</source>
+        <target xml:lang="pt-PT" state="translated">Seleccione a localização com a qual quer trocar a actual</target>
+        <note>key: select.location.to.swap</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationswapplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5cf5c23d5f73b6493879db84d39bf6a05940242f" resname="updated.sort.method">
+        <source>The sub-items sort method has been correctly updated</source>
+        <target xml:lang="pt-PT" state="translated">O método de ordenação de sub-items foi correctamente actualizado</target>
+        <note>key: updated.sort.method</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="420b18708dcd8de83f92b2cfdeafad23fd6b80a7" resname="updating.sort.method">
+        <source>Updating the sub-items sort method</source>
+        <target xml:lang="pt-PT" state="translated">A actualizar o método de ordenação de sub-items</target>
+        <note>key: updating.sort.method</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
     </body>
   </file>
