@@ -418,6 +418,162 @@
         <note>key: media.audio.empty</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="9e333a901ae1af3b53556d2dd70fd6b0d2bd36a2" resname="media.audio.help">
+        <source>Drag and drop your audio file here or simply click on the buttons and select your audio file manually.</source>
+        <target xml:lang="nb" state="translated">Dra og slipp lydfilen her, eller klikk på knappene og velg lydfilen manuelt.</target>
+        <note>key: media.audio.help</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0be02246f03eea8192409c98d2742cfc8394379b" resname="media.audio.properties">
+        <source>Audio file properties</source>
+        <target xml:lang="nb" state="translated">Lydfil-egenskaper</target>
+        <note>key: media.audio.properties</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2d64b8db93429eb250ac521adf66d0b8941cb1e8" resname="media.audio.remove">
+        <source>Remove this audio file</source>
+        <target xml:lang="nb" state="translated">Fjern denne lydfilen</target>
+        <note>key: media.audio.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="15a4d5ecb1370c9fad3f37f4235422017660a208" resname="media.audio.replace">
+        <source>Replace this audio file</source>
+        <target xml:lang="nb" state="translated">Erstatt denne lydfilen</target>
+        <note>key: media.audio.replace</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6a4fa5aa4d83d262f7179096cb94b1de7ef10582" resname="media.audio.unsupported">
+        <source>Unsupported audio format</source>
+        <target xml:lang="nb" state="translated">Lydformatet er ikke støttet</target>
+        <note>key: media.audio.unsupported</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="05a233289e65681f4b1ddc93eaffd0c756d63fc4" resname="media.audio.upload">
+        <source>Upload an audio file</source>
+        <target xml:lang="nb" state="translated">Last opp en lydfil</target>
+        <note>key: media.audio.upload</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6eadf968d3be0a9dbf1a708d86cf710bb62ed7bd" resname="media.autoplay">
+        <source>Auto play:</source>
+        <target xml:lang="nb" state="translated">Autospill:</target>
+        <note>key: media.autoplay</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="83643610d46ed56851ef235675f247e24a628112" resname="media.displaycontrols">
+        <source>Display controls:</source>
+        <target xml:lang="nb" state="translated">Vis kontroller:</target>
+        <note>key: media.displaycontrols</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="48f89aa321f9917ee7d69855d638ccc06fbc08cb" resname="media.file.size">
+        <source><![CDATA[<span class="ez-media-properties-size">%size%</span>&nbsp;bytes]]></source>
+        <target xml:lang="nb" state="translated"><![CDATA[<span class="ez-media-properties-size">%size%</span>&nbsp;byte]]></target>
+        <note>key: media.file.size</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dbde52fe3c3a99179a4835dcc6d199371fbc91b2" resname="media.height">
+        <source>Height:</source>
+        <target xml:lang="nb" state="translated">Høyde:</target>
+        <note>key: media.height</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2325191dea1090c18ddab4c6e793dc19ecfab29c" resname="media.loop">
+        <source>Loop:</source>
+        <target xml:lang="nb" state="translated">Repeter:</target>
+        <note>key: media.loop</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ddb130a4e4e9656800990ae5c96df1ea3fcc604e" resname="media.name">
+        <source>File name:</source>
+        <target xml:lang="nb" state="translated">Filnavn:</target>
+        <note>key: media.name</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5fe85b221381eab5cf085d06e93da5fd8cfbd4f3" resname="media.newtab">
+        <source>Open it in a new tab</source>
+        <target xml:lang="nb" state="translated">Åpne i en ny fane</target>
+        <note>key: media.newtab</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c888da5fa745a2e9517d698c6cadbc1b8404d7a9" resname="media.playersettings">
+        <source>Player settings</source>
+        <target xml:lang="nb" state="translated">Avspillerinnstillinger</target>
+        <note>key: media.playersettings</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="135cbb609fe487f5b9df8fdd756028516d582195" resname="media.size">
+        <source>File size:</source>
+        <target xml:lang="nb" state="translated">Filstørrelse:</target>
+        <note>key: media.size</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fc651caf3e8f0d087bf50d11af3a5852e4e4f4da" resname="media.type">
+        <source>Type:</source>
+        <target xml:lang="nb" state="translated">Type:</target>
+        <note>key: media.type</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="200321ea1995c3d33324fef4dba05f58873910f3" resname="media.video.empty">
+        <source>No video file yet.</source>
+        <target xml:lang="nb" state="translated">Ingen videofil ennå.</target>
+        <note>key: media.video.empty</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="99b8daaf90cdc2ee5b0f96b05c92e7452ca5cb7e" resname="media.video.help">
+        <source><![CDATA[Drag and drop your video here or simply click on the buttons and select your video manually. Customize size, controls & view.]]></source>
+        <target xml:lang="nb" state="translated"><![CDATA[Dra og slipp videoen her, eller klikk på knappene og velg videoen manuelt. Tilpass størrelsen, kontroller og visning.]]></target>
+        <note>key: media.video.help</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6e2da936d84283d264f260e9f966a11be051096e" resname="media.video.properties">
+        <source>Video file properties</source>
+        <target xml:lang="nb" state="translated">Videofil-egenskaper</target>
+        <note>key: media.video.properties</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0ea95996960e7e25850641cb651904538b525e0a" resname="media.video.remove">
+        <source>Remove this video</source>
+        <target xml:lang="nb" state="translated">Fjern denne videoen</target>
+        <note>key: media.video.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="685b7365429b2f2cf79ff014e38b14c73899a492" resname="media.video.replace">
+        <source>Replace this video</source>
+        <target xml:lang="nb" state="translated">Erstatt denne videoen</target>
+        <note>key: media.video.replace</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="af7590bb13331b3eda4b2a0ab28f0d2a100781e9" resname="media.video.unsupported">
+        <source>Unsupported video format</source>
+        <target xml:lang="nb" state="translated">Videoformatet støttes ikke</target>
+        <note>key: media.video.unsupported</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="782314478554920473f13c4ec6cb6a0471bc8172" resname="user.passwordconfirm">
+        <source>Confirm password</source>
+        <target xml:lang="nb" state="translated">Bekreft passord</target>
+        <note>key: user.passwordconfirm</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="65a42e27e76bf2722822dd28dd0b7ff2d163cb37" resname="value.should.be.less.than">
+        <source>The value should be less than or equal to %maxIntegerValue%</source>
+        <target xml:lang="nb" state="translated">Verdien må være mindre enn eller lik %maxIntegerValue%</target>
+        <note>key: value.should.be.less.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0e3930cc51c59d71efa5464323c96d75b93873f3" resname="value.should.be.more.than">
+        <source>The value should be more than or equal to %minIntegerValue%</source>
+        <target xml:lang="nb" state="translated">Verdien må være mer enn eller lik %minIntegerValue%</target>
+        <note>key: value.should.be.more.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5c462c60b8cdc7e23d84aca23ffda3d32000247e" resname="value.should.be.valid.integer">
+        <source>The value should be a valid integer number</source>
+        <target xml:lang="nb" state="translated">Verdien må være et gyldig heltall</target>
+        <note>key: value.should.be.valid.integer</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
