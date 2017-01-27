@@ -256,6 +256,168 @@
         <note>key: image.fullwidth</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="421768b6fafc8049fe02c600c5bc6ecb8a5590c2" resname="image.help">
+        <source>Drag and drop your image here or simply click on the buttons and select your image manually.</source>
+        <target xml:lang="nb" state="translated">Dra og slipp bildet her, eller klikk på knappene og velg bildet manuelt.</target>
+        <note>key: image.help</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="623d52cead77075eabf73bd844f1870264264f8e" resname="image.name">
+        <source>File name</source>
+        <target xml:lang="nb" state="translated">Filnavn</target>
+        <note>key: image.name</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4869b50f2d217dadd224261042666bd2a3fd0e9e" resname="image.noimage">
+        <source>No image yet.</source>
+        <target xml:lang="nb" state="translated">Ingen bilder ennå.</target>
+        <note>key: image.noimage</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ddb2b77067d29961704d011d303b42d5fcc00e5c" resname="image.or">
+        <source>or</source>
+        <target xml:lang="nb" state="translated">eller</target>
+        <note>key: image.or</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7deddf51ab844e5621b291039176191f8bbdef95" resname="image.preview">
+        <source>Image preview</source>
+        <target xml:lang="nb" state="translated">Forhåndsvisning av bilde</target>
+        <note>key: image.preview</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a291c895782db79ab2693d1e91090f491402f32d" resname="image.properties">
+        <source>Image properties</source>
+        <target xml:lang="nb" state="translated">Bildeegenskaper</target>
+        <note>key: image.properties</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="eaa4c2c811e8e5048745d4d437e122b67e16bbfa" resname="image.remove">
+        <source>Remove this image</source>
+        <target xml:lang="nb" state="translated">Fjern dette bildet</target>
+        <note>key: image.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e7b9c11716066f2b3bcb38ac4db35fb7501118e0" resname="image.replace">
+        <source>Replace this image</source>
+        <target xml:lang="nb" state="translated">Erstatt dette bildet</target>
+        <note>key: image.replace</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="265c4b8ea4ab58567a9be6610f7dff0b99223299" resname="image.size">
+        <source>File size:</source>
+        <target xml:lang="nb" state="translated">Filstørrelse:</target>
+        <note>key: image.size</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="16a6d4b19907cd8be6b2be041fca055ad70a3447" resname="image.thumbnail.error">
+        <source>An error occurred while loading the thumbnail.</source>
+        <target xml:lang="nb" state="translated">Det oppstod en feil under innlasting av miniatyrbildet.</target>
+        <note>key: image.thumbnail.error</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b17eed3677a5d65192b549375f533751091f25f" resname="image.thumbnail.loading">
+        <source>Loading a thumbnail of the image...</source>
+        <target xml:lang="nb" state="translated">Laster inn et miniatyrbilde av bildet...</target>
+        <note>key: image.thumbnail.loading</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="689cae8350541efc2cad64f32e6d1a9512845b05" resname="image.thumbnail.retry">
+        <source>Retry</source>
+        <target xml:lang="nb" state="translated">Prøv igjen</target>
+        <note>key: image.thumbnail.retry</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1fa08ff0c1b3b004705e4fc4884f7c0cf631465a" resname="image.type">
+        <source>Type:</source>
+        <target xml:lang="nb" state="translated">Type:</target>
+        <note>key: image.type</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3cb3d1ded419f0923f0b00e65e3c9b6c112e450c" resname="image.upload">
+        <source>Upload an image</source>
+        <target xml:lang="nb" state="translated">Laste opp et bilde</target>
+        <note>key: image.upload</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f0edbc370c196d4d5a74049ed4382bbd16aa4b82" resname="input.not.valid">
+        <source>This is not a valid input</source>
+        <target xml:lang="nb" state="translated">Dette er ikke gyldige data</target>
+        <note>key: input.not.valid</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8e49b578596402bf9f38b7a53ee4e6838f31c1a9" resname="invalid.float.value">
+        <source>The value should be a valid float number</source>
+        <target xml:lang="nb" state="translated">Verdien må være et gyldig desimaltall</target>
+        <note>key: invalid.float.value</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d5afda02a70b4e08a45743098c217ce1cb424278" resname="invalid.input">
+        <source>This is not a valid input</source>
+        <target xml:lang="nb" state="translated">Dette er ikke gyldige data</target>
+        <note>key: invalid.input</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="624975ced077be4e434e9ddc7aceb12cdd06a2f7" resname="invalid.isbn10">
+        <source>invalid ISBN 10</source>
+        <target xml:lang="nb" state="translated">ugyldig ISBN 10</target>
+        <note>key: invalid.isbn10</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a10ccd621b14ed09703e07e31cbfed166450b722" resname="invalid.isbn10.sum.not.multiple.of.11">
+        <source>invalid ISBN 10 (sum is not a multiple of 11")</source>
+        <target xml:lang="nb" state="translated">ugyldig ISBN 10 (summen er ikke et multiplum av 11)</target>
+        <note>key: invalid.isbn10.sum.not.multiple.of.11</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="65c4aaaab5989949a929cc5f7e96eb7017c2d9f4" resname="loading...">
+        <source>Loading...</source>
+        <target xml:lang="nb" state="translated">Laster...</target>
+        <note>key: loading...</note>
+        <jms:reference-file>./Resources/public/js/views/fields/richtext/ez-richtext-resolveembed.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0d7b8b93e93ce650d31862d74cdc2566058742d3" resname="login.required">
+        <source>'The login is required</source>
+        <target xml:lang="nb" state="translated">Pålogging kreves</target>
+        <note>key: login.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3ebb2a2e0355aff0d63b0a1c644aff0efa6b52c6" resname="maplocation.address">
+        <source>Address:</source>
+        <target xml:lang="nb" state="translated">Adresse:</target>
+        <note>key: maplocation.address</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e21151edf210d6968aa67c35235066389865f136" resname="maplocation.latitude">
+        <source>Latitude:</source>
+        <target xml:lang="nb" state="translated">Breddegrad:</target>
+        <note>key: maplocation.latitude</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="04e7fa05923b84dde058e7a8b349de8a019962f8" resname="maplocation.locateaddress">
+        <source>Locate Address</source>
+        <target xml:lang="nb" state="translated">Finn adresse</target>
+        <note>key: maplocation.locateaddress</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="748db692b3faa75edc78fe780f125dacc597fdd2" resname="maplocation.locateme">
+        <source>Locate Me</source>
+        <target xml:lang="nb" state="translated">Finn meg</target>
+        <note>key: maplocation.locateme</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="60f60bbfc3c9cd30603670eb6b91fa5a1619f73b" resname="maplocation.longitude">
+        <source>Longitude:</source>
+        <target xml:lang="nb" state="translated">Lengdegrad:</target>
+        <note>key: maplocation.longitude</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="de4d15e55b8a04ee1b6f188b3cf6dac4aca30d5a" resname="media.audio.empty">
+        <source>No audio file yet.</source>
+        <target xml:lang="nb" state="translated">Ingen lydfil ennå.</target>
+        <note>key: media.audio.empty</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
