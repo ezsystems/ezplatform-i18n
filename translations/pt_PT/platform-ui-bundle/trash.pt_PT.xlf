@@ -36,6 +36,12 @@
         <note>key: error.restoring.item</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="034c33d9dc24f606046bc88959214744dcb84993" resname="failed.load.content.type">
+        <source>Failed to load trash item Content Type name</source>
+        <target xml:lang="pt-PT" state="translated">Não é possível carregar o nome do tipo de conteúdo a partir do lixo.</target>
+        <note>key: failed.load.content.type</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="161c33f86dcd9d9116d020cbc5566086e8bb4c8c" resname="failed.load.parent.location.path">
         <source>Failed to load parent location's path</source>
         <target xml:lang="pt-PT" state="translated">Carregamento do caminho da localização pai falhou</target>
