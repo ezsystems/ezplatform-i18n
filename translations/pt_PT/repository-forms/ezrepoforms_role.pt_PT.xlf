@@ -94,6 +94,14 @@
         <source>policy.limitation.group.self</source>
         <target xml:lang="pt-PT" state="translated">Grupo do próprio utilizador</target>
       </trans-unit>
+      <trans-unit id="58e363b2a3b22ed976fd14fce49f8ae1">
+        <source>role.policy.limitation.location.udw_title</source>
+        <target xml:lang="pt-PT" state="translated">Seleccione uma localização como limitação de política</target>
+      </trans-unit>
+      <trans-unit id="112d31a04edd6a98ec253cc6b9336f75">
+        <source>role.policy.limitation.location.udw_button</source>
+        <target xml:lang="pt-PT" state="translated">Localizações seleccionadas</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
