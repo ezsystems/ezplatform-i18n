@@ -126,6 +126,48 @@
         <note>key: failed.to.load.content.type</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="2fbc2dbfad4beb8f37bac92cce6501b44f264c03" resname="failed.to.load.location">
+        <source>Failed to load the location %id%</source>
+        <target xml:lang="hu" state="translated">%id% lokáció betöltése sikertelen volt</target>
+        <note>key: failed.to.load.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="675d9c2b05e75bb44aec3d051a5793e2bf4746d0" resname="failed.to.load.location.path">
+        <source>Failed to load locations's path</source>
+        <target xml:lang="hu" state="translated">A lokáció elérési útjának betöltése sikertelen volt</target>
+        <note>key: failed.to.load.location.path</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e59fc009e6dc0079786973ab8b8542f463d3b233" resname="failed.updated.priority">
+        <source>An error occurred when updating the priority</source>
+        <target xml:lang="hu" state="translated">A prioritás frissítése során hiba történt</target>
+        <note>key: failed.updated.priority</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d68085cf6081898b8757cdee5fb66aff8c0531f6" resname="failed.updating.sort.method">
+        <source>An error occured while updating the sub items sort method</source>
+        <target xml:lang="hu" state="translated">Hiba történt az elemek sorrendjének frissítése során</target>
+        <note>key: failed.updating.sort.method</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e0be1422e1af400879a6716220eabc9ad4fca29e" resname="locationview.details.ascending">
+        <source>Ascending</source>
+        <target xml:lang="hu" state="translated">Növekvő</target>
+        <note>key: locationview.details.ascending</note>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2e143171eb44b9d8b17a06195b938181101de957" resname="locationview.details.contentid">
+        <source>Content Id</source>
+        <target xml:lang="hu" state="translated">Tartalom ID</target>
+        <note>key: locationview.details.contentid</note>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="34ce6c404ac9a5a82f9a598d3e4e62916094c351" resname="locationview.details.contentremoteid">
+        <source>Content remote Id</source>
+        <target xml:lang="hu" state="translated">Tartalom külső ID</target>
+        <note>key: locationview.details.contentremoteid</note>
+        <jms:reference-file>./Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
