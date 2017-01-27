@@ -102,6 +102,30 @@
         <note>key: failed.removing.versions.of</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="fd0df2ab8df516f5a2900775c5f427ddb9012b77" resname="failed.sending.to.trash">
+        <source>An error occurred when sending '%contentName%' to Trash</source>
+        <target xml:lang="hu" state="translated">Hiba történt a '%contentName%' lomtárba helyezése során</target>
+        <note>key: failed.sending.to.trash</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="60e53d4c1a6ed1632bf392e34fb5ae864a4683d5" resname="failed.swapping.location.for">
+        <source>Swapping location for "%name%" failed</source>
+        <target xml:lang="hu" state="translated">"%name%" lokációjának cseréje sikertelen volt</target>
+        <note>key: failed.swapping.location.for</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationswapplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d427c063172fceb30447a5a485474536ffcc8c91" resname="failed.to.load.content">
+        <source>Failed to load the content %id%</source>
+        <target xml:lang="hu" state="translated">Nem sikerült betölteni a %id% tartalmat</target>
+        <note>key: failed.to.load.content</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6e26e79018c441ce904ec1d78372148390d1f076" resname="failed.to.load.content.type">
+        <source>Failed to load the content type %id%</source>
+        <target xml:lang="hu" state="translated">A %id% tartalomtípus betöltése sikertelen volt</target>
+        <note>key: failed.to.load.content.type</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
