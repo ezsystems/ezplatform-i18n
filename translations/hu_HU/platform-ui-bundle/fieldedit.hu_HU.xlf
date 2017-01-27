@@ -48,6 +48,172 @@
         <note>key: binaryfile.empty</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="30424972909697b477376e7ca05c88535f9a2b58" resname="binaryfile.help">
+        <source>Drag and drop your file here or simply click on the buttons and select your file manually.</source>
+        <target xml:lang="hu" state="translated">Húzza ide a fájlt, vagy kattintson a gombokra és válassza ki a kívánt elemet.</target>
+        <note>key: binaryfile.help</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="deb180f588060bb98b95d7df6d43b0d9d5278774" resname="binaryfile.name">
+        <source>File name:</source>
+        <target xml:lang="hu" state="translated">Fájlnév:</target>
+        <note>key: binaryfile.name</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="63b7d9eb28e23a7b075fd63567bb1c021b8f93d0" resname="binaryfile.or">
+        <source>or</source>
+        <target xml:lang="hu" state="translated">vagy</target>
+        <note>key: binaryfile.or</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="09251818f4f6aabd8f9c9e3caddd0e52a4e94f53" resname="binaryfile.remove">
+        <source>Remove this file</source>
+        <target xml:lang="hu" state="translated">Fájl eltávolítása</target>
+        <note>key: binaryfile.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1c966af2e1e58bbe0cc2fcedf97a72a128f97e05" resname="binaryfile.replace">
+        <source>Replace this file</source>
+        <target xml:lang="hu" state="translated">Fájl cseréje</target>
+        <note>key: binaryfile.replace</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="43102016be1b21e84fd962003da92c48bc434ad3" resname="binaryfile.size">
+        <source>File size:</source>
+        <target xml:lang="hu" state="translated">Fájl mérete:</target>
+        <note>key: binaryfile.size</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="012ca0baa21f8d816f95de486b4da746ed42f845" resname="binaryfile.type">
+        <source>Type:</source>
+        <target xml:lang="hu" state="translated">Típus:</target>
+        <note>key: binaryfile.type</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="50d21f53a194d59aa5f1e9f3a12af1afcc6ef8fe" resname="binaryfile.upload">
+        <source>Upload a file</source>
+        <target xml:lang="hu" state="translated">Fájl feltöltése</target>
+        <note>key: binaryfile.upload</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a471779c9392f01dd003a1bc6879fd783e050f84" resname="date.and.time.not.valid">
+        <source>Date and time do not have valid inputs</source>
+        <target xml:lang="hu" state="translated">A dátum és idő nem érvényes</target>
+        <note>key: date.and.time.not.valid</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="81e49b2ea1382af92570ae58ccb754535b55b224" resname="date.calendar">
+        <source>Calendar</source>
+        <target xml:lang="hu" state="translated">Naptár</target>
+        <note>key: date.calendar</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/date.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1096c88b9ecb1c83173e6fe1a7330ac88aae7e1e" resname="date.not.valid">
+        <source>This is not a correct date</source>
+        <target xml:lang="hu" state="translated">Nem megfelelő dátum</target>
+        <note>key: date.not.valid</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="86b1150b591a089eab73f5cb58fc11964ccb5f78" resname="date.not.valid.time.missing">
+        <source>Date do not have a valid input and time is missing</source>
+        <target xml:lang="hu" state="translated">Érvénytelen dátum formátum és hiányzó "idő" érték</target>
+        <note>key: date.not.valid.time.missing</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b262de6dff7418fd4c316ac5946911aff50c5df1" resname="date.not.valid.time.required">
+        <source>Date do not have a valid input and time is required</source>
+        <target xml:lang="hu" state="translated">Érvénytelen dátum formátum és hiányzó "idő" érték</target>
+        <note>key: date.not.valid.time.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5ea84ba9d0dd61b9b47b2104f086c4770daf2c74" resname="date.placeholder">
+        <source>YYYY-MM-DD</source>
+        <target xml:lang="hu" state="translated">ÉÉÉÉ-HH-NN</target>
+        <note>key: date.placeholder</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/date.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ac8b6151c30254609f6e9f2a7ab5c5570ea94dcd" resname="date.required">
+        <source>Date is required</source>
+        <target xml:lang="hu" state="translated">Dátum megadása szükséges</target>
+        <note>key: date.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c1eee799ee7368e2089f1eb18e2431108253dc07" resname="date.time.required">
+        <source>Date and time are required</source>
+        <target xml:lang="hu" state="translated">Dátum és idő megadása szükséges</target>
+        <note>key: date.time.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3512b5e328b32d7ad9f98fa9fdc35df7f2207526" resname="dropped.several.files">
+        <source>You dropped several files while only one can be stored in this field. Please choose one file.</source>
+        <target xml:lang="hu" state="translated">Ebben a mezőben csak egy fájl tárolható. Kérjük, válasszon ki egy fájlt.</target>
+        <note>key: dropped.several.files</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="77e9dcf7fa3a6196173e1ef8d749321c078a61fb" resname="dropped.text.selection">
+        <source>You dropped a text selection while this field can only store a file. Please drop a file instead.</source>
+        <target xml:lang="hu" state="translated">Ebben a mezőben csak fájl tárolható.</target>
+        <note>key: dropped.text.selection</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7e57a01ae6b4b0385ec149a170df478fa2868f25" resname="email.not.valid">
+        <source>The email address should be valid</source>
+        <target xml:lang="hu" state="translated">Érvényes e-mail címet adjon meg</target>
+        <note>key: email.not.valid</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-emailaddress-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9c96ffba7a783d0786368dbf8b2b23dfc4188e66" resname="email.required">
+        <source>The email address is required</source>
+        <target xml:lang="hu" state="translated">E-mail cím megadása szükséges</target>
+        <note>key: email.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3baff585bf1b4c49f13ffa7f27f2afb737498a8c" resname="email.required.if.name.filled">
+        <source>The email address is required if the name is filled.</source>
+        <target xml:lang="hu" state="translated">E-mail cím megadása szükséges.</target>
+        <note>key: email.required.if.name.filled</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4681faa8e9e01a7b94ecbbc5f581b4d44a5e935d" resname="embed.content.not.loaded">
+        <source>Embedded Content item could not be loaded</source>
+        <target xml:lang="hu" state="translated">A beágyazott tartalom elem nem tölthető be</target>
+        <note>key: embed.content.not.loaded</note>
+        <jms:reference-file>./Resources/public/js/views/fields/richtext/ez-richtext-resolveembed.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0a60003c1459ed6556b63b64c050fd4d070d94e4" resname="error.during.geolocation.request">
+        <source>An error occurred during geolocation request of your current position</source>
+        <target xml:lang="hu" state="translated">Hiba történt az Ön aktuális földrajzi helyének lekérdezése során</target>
+        <note>key: error.during.geolocation.request</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9c74a8f5f67dd8e07a2912177bc6de9c9cde6d75" resname="failed.retrieve.google.maps.api">
+        <source>Failed to retrieve Google Maps API</source>
+        <target xml:lang="hu" state="translated">Nem sikerült beolvasni a Google Maps API-t</target>
+        <note>key: failed.retrieve.google.maps.api</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a64621b5af174b18350e8774d65ac227c79f0077" resname="file.size">
+        <source>(%size% bytes)</source>
+        <target xml:lang="hu" state="translated">(%size% byte)</target>
+        <note>key: file.size</note>
+        <jms:reference-file>./Resources/public/templates/fields/view/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c02ec1f84b17c734661c3a5935960b7392a3af2a" resname="float.value.should.be.less.than">
+        <source>The value should be less than or equal to %maxFloatValue%</source>
+        <target xml:lang="hu" state="translated">Az érték legyen egyenlő, vagy kisebb, mint %maxFloatValue%</target>
+        <note>key: float.value.should.be.less.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f29cb6461d72c2fe892e65d4dd7dd296ed5db961" resname="float.value.should.be.more.than">
+        <source>The value should be more than or equal to %minFloatValue%</source>
+        <target xml:lang="hu" state="translated">Az érték legyen egyenlő, vagy nagyobb, mint %minFloatValue%</target>
+        <note>key: float.value.should.be.more.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
