@@ -334,6 +334,102 @@
         <note>key: input.not.valid</note>
         <jms:reference-file>./Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="8e49b578596402bf9f38b7a53ee4e6838f31c1a9" resname="invalid.float.value">
+        <source>The value should be a valid float number</source>
+        <target xml:lang="hu" state="translated">Érvényes számot adjon meg</target>
+        <note>key: invalid.float.value</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d5afda02a70b4e08a45743098c217ce1cb424278" resname="invalid.input">
+        <source>This is not a valid input</source>
+        <target xml:lang="hu" state="translated">Érvénytelen</target>
+        <note>key: invalid.input</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="624975ced077be4e434e9ddc7aceb12cdd06a2f7" resname="invalid.isbn10">
+        <source>invalid ISBN 10</source>
+        <target xml:lang="hu" state="translated">érvénytelen ISBN-10</target>
+        <note>key: invalid.isbn10</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a10ccd621b14ed09703e07e31cbfed166450b722" resname="invalid.isbn10.sum.not.multiple.of.11">
+        <source>invalid ISBN 10 (sum is not a multiple of 11")</source>
+        <target xml:lang="hu" state="translated">érvénytelen ISBN 10</target>
+        <note>key: invalid.isbn10.sum.not.multiple.of.11</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="65c4aaaab5989949a929cc5f7e96eb7017c2d9f4" resname="loading...">
+        <source>Loading...</source>
+        <target xml:lang="hu" state="translated">Betöltés...</target>
+        <note>key: loading...</note>
+        <jms:reference-file>./Resources/public/js/views/fields/richtext/ez-richtext-resolveembed.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0d7b8b93e93ce650d31862d74cdc2566058742d3" resname="login.required">
+        <source>'The login is required</source>
+        <target xml:lang="hu" state="translated">Bejelentkezés szükséges</target>
+        <note>key: login.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3ebb2a2e0355aff0d63b0a1c644aff0efa6b52c6" resname="maplocation.address">
+        <source>Address:</source>
+        <target xml:lang="hu" state="translated">Cím:</target>
+        <note>key: maplocation.address</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e21151edf210d6968aa67c35235066389865f136" resname="maplocation.latitude">
+        <source>Latitude:</source>
+        <target xml:lang="hu" state="translated">Szélesség:</target>
+        <note>key: maplocation.latitude</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="04e7fa05923b84dde058e7a8b349de8a019962f8" resname="maplocation.locateaddress">
+        <source>Locate Address</source>
+        <target xml:lang="hu" state="translated">Cím keresése</target>
+        <note>key: maplocation.locateaddress</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="748db692b3faa75edc78fe780f125dacc597fdd2" resname="maplocation.locateme">
+        <source>Locate Me</source>
+        <target xml:lang="hu" state="translated">Keresse meg a földrajzi pozíciómat</target>
+        <note>key: maplocation.locateme</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="60f60bbfc3c9cd30603670eb6b91fa5a1619f73b" resname="maplocation.longitude">
+        <source>Longitude:</source>
+        <target xml:lang="hu" state="translated">Hosszúság:</target>
+        <note>key: maplocation.longitude</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="de4d15e55b8a04ee1b6f188b3cf6dac4aca30d5a" resname="media.audio.empty">
+        <source>No audio file yet.</source>
+        <target xml:lang="hu" state="translated">Még nincs audio fájl.</target>
+        <note>key: media.audio.empty</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9e333a901ae1af3b53556d2dd70fd6b0d2bd36a2" resname="media.audio.help">
+        <source>Drag and drop your audio file here or simply click on the buttons and select your audio file manually.</source>
+        <target xml:lang="hu" state="translated">Húzza ide az audio fájlt, vagy kattintson a gombokra és válassza ki a kívánt elemet.</target>
+        <note>key: media.audio.help</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0be02246f03eea8192409c98d2742cfc8394379b" resname="media.audio.properties">
+        <source>Audio file properties</source>
+        <target xml:lang="hu" state="translated">Audio fájl tulajdonságai</target>
+        <note>key: media.audio.properties</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2d64b8db93429eb250ac521adf66d0b8941cb1e8" resname="media.audio.remove">
+        <source>Remove this audio file</source>
+        <target xml:lang="hu" state="translated">Audio fájl eltávolítása</target>
+        <note>key: media.audio.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="15a4d5ecb1370c9fad3f37f4235422017660a208" resname="media.audio.replace">
+        <source>Replace this audio file</source>
+        <target xml:lang="hu" state="translated">Audio fájl cseréje</target>
+        <note>key: media.audio.replace</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="fe7dd2a6fbf71766715c5ea46100398267102adc" resname="relation.published">
         <source>Published:</source>
         <target xml:lang="hu" state="translated">Publikálva:</target>
