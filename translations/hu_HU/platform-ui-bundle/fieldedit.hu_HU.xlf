@@ -214,6 +214,352 @@
         <note>key: float.value.should.be.more.than</note>
         <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="0e560377b2f3909ebf37cd10977860242a93f694" resname="geocoding.error">
+        <source>An error occurred during the geocoding request for this address</source>
+        <target xml:lang="hu" state="translated">Hiba történt a földrajzi helyzet lekérdezése során</target>
+        <note>key: geocoding.error</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="683f0d47319d2d3671eb34b0aab6bcc549b0ac5e" resname="google.map.not.loaded.correctly">
+        <source>Google maps are not loaded correctly, try reloading the page</source>
+        <target xml:lang="hu" state="translated">A Google térkép nem töltődött be megfelelően, próbálja meg újratölteni az oldalt</target>
+        <note>key: google.map.not.loaded.correctly</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5c973cf4cef4fd2936dbd1d7879ccdcd8b9e6ffe" resname="image.alternativetext">
+        <source>Alternative text:</source>
+        <target xml:lang="hu" state="translated">Alternatív szöveg:</target>
+        <note>key: image.alternativetext</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b93ecd00f44abdce9d25bb437706b04329a172aa" resname="image.content.not.loaded">
+        <source>Image could not be loaded</source>
+        <target xml:lang="hu" state="translated">Nem tölthető be a kép</target>
+        <note>key: image.content.not.loaded</note>
+        <jms:reference-file>./Resources/public/js/views/fields/richtext/ez-richtext-resolveimage.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c21c1e24ffd073c7213022cf4d0cde8e94be62b8" resname="image.fullwidth">
+        <source>View the full width image</source>
+        <target xml:lang="hu" state="translated">Teljes szélességű kép megjelenítése</target>
+        <note>key: image.fullwidth</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="421768b6fafc8049fe02c600c5bc6ecb8a5590c2" resname="image.help">
+        <source>Drag and drop your image here or simply click on the buttons and select your image manually.</source>
+        <target xml:lang="hu" state="translated">Húzza ide a képet, vagy kattintson a gombokra és válassza ki a kívánt elemet.</target>
+        <note>key: image.help</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="623d52cead77075eabf73bd844f1870264264f8e" resname="image.name">
+        <source>File name</source>
+        <target xml:lang="hu" state="translated">Fájlnév</target>
+        <note>key: image.name</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4869b50f2d217dadd224261042666bd2a3fd0e9e" resname="image.noimage">
+        <source>No image yet.</source>
+        <target xml:lang="hu" state="translated">Nincs még kép.</target>
+        <note>key: image.noimage</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ddb2b77067d29961704d011d303b42d5fcc00e5c" resname="image.or">
+        <source>or</source>
+        <target xml:lang="hu" state="translated">vagy</target>
+        <note>key: image.or</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7deddf51ab844e5621b291039176191f8bbdef95" resname="image.preview">
+        <source>Image preview</source>
+        <target xml:lang="hu" state="translated">Kép előnézete</target>
+        <note>key: image.preview</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a291c895782db79ab2693d1e91090f491402f32d" resname="image.properties">
+        <source>Image properties</source>
+        <target xml:lang="hu" state="translated">Kép tulajdonságok</target>
+        <note>key: image.properties</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="eaa4c2c811e8e5048745d4d437e122b67e16bbfa" resname="image.remove">
+        <source>Remove this image</source>
+        <target xml:lang="hu" state="translated">Kép eltávolítása</target>
+        <note>key: image.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e7b9c11716066f2b3bcb38ac4db35fb7501118e0" resname="image.replace">
+        <source>Replace this image</source>
+        <target xml:lang="hu" state="translated">Kép cseréje</target>
+        <note>key: image.replace</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="265c4b8ea4ab58567a9be6610f7dff0b99223299" resname="image.size">
+        <source>File size:</source>
+        <target xml:lang="hu" state="translated">Fájl mérete:</target>
+        <note>key: image.size</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="16a6d4b19907cd8be6b2be041fca055ad70a3447" resname="image.thumbnail.error">
+        <source>An error occurred while loading the thumbnail.</source>
+        <target xml:lang="hu" state="translated">Hiba történt a kép betöltése közben.</target>
+        <note>key: image.thumbnail.error</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b17eed3677a5d65192b549375f533751091f25f" resname="image.thumbnail.loading">
+        <source>Loading a thumbnail of the image...</source>
+        <target xml:lang="hu" state="translated">A miniatűr a kép betöltése...</target>
+        <note>key: image.thumbnail.loading</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="689cae8350541efc2cad64f32e6d1a9512845b05" resname="image.thumbnail.retry">
+        <source>Retry</source>
+        <target xml:lang="hu" state="translated">Újra próbál</target>
+        <note>key: image.thumbnail.retry</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1fa08ff0c1b3b004705e4fc4884f7c0cf631465a" resname="image.type">
+        <source>Type:</source>
+        <target xml:lang="hu" state="translated">Típus:</target>
+        <note>key: image.type</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3cb3d1ded419f0923f0b00e65e3c9b6c112e450c" resname="image.upload">
+        <source>Upload an image</source>
+        <target xml:lang="hu" state="translated">Kép feltöltése</target>
+        <note>key: image.upload</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f0edbc370c196d4d5a74049ed4382bbd16aa4b82" resname="input.not.valid">
+        <source>This is not a valid input</source>
+        <target xml:lang="hu" state="translated">Érvénytelen</target>
+        <note>key: input.not.valid</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fe7dd2a6fbf71766715c5ea46100398267102adc" resname="relation.published">
+        <source>Published:</source>
+        <target xml:lang="hu" state="translated">Publikálva:</target>
+        <note>key: relation.published</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f46aad015f05a6ae74da1d451f030dcc02dc1e39" resname="relation.remove">
+        <source>Remove relation</source>
+        <target xml:lang="hu" state="translated">Kapcsolat eltávolítása</target>
+        <note>key: relation.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d0a96c335f3402fd4df0fdad937321b580c13eb7" resname="relation.retry">
+        <source>Retry</source>
+        <target xml:lang="hu" state="translated">Újra próbál</target>
+        <note>key: relation.retry</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2e594c668c9f88817270dd8c12acd559fe485f5b" resname="relation.select">
+        <source>Select a content</source>
+        <target xml:lang="hu" state="translated">Tartalom kiválasztása</target>
+        <note>key: relation.select</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="76eb23938007b8dc5d74961c52923f34fd9863fc" resname="relationlist.empty">
+        <source>No relation.</source>
+        <target xml:lang="hu" state="translated">Nincs kapcsolat.</target>
+        <note>key: relationlist.empty</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7b6f3591c6f295907a1636bd3ea950fa0126d970" resname="relationlist.error">
+        <source>An error occurred while loading the related content.</source>
+        <target xml:lang="hu" state="translated">Hiba történt a kapcsolódó tartalom betöltése során.</target>
+        <note>key: relationlist.error</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="048ae70654be763915d036765feb172d2baa7559" resname="relationlist.help">
+        <source>Set up multiple relations with several contents.</source>
+        <target xml:lang="hu" state="translated">Állítson be több kapcsolódó tartalmat.</target>
+        <note>key: relationlist.help</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1d30f0399910c05468169bd5a7f737caff136afe" resname="relationlist.loading">
+        <source>Loading the related content(s)</source>
+        <target xml:lang="hu" state="translated">Kapcsolódó tartalmak betöltése</target>
+        <note>key: relationlist.loading</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b0eb3cbb48be1ff976bd4569a8978d63336dd8b7" resname="relationlist.remove">
+        <source>Remove</source>
+        <target xml:lang="hu" state="translated">Eltávolítás</target>
+        <note>key: relationlist.remove</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Eltávolít</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="493a9cbc47e3af553067486bc8b13b43c8472fc4" resname="relationlist.retry">
+        <source>Retry</source>
+        <target xml:lang="hu" state="translated">Újra próbál</target>
+        <note>key: relationlist.retry</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4d8d4cfb7509f6d02d61100e1b940fb5a847d91d" resname="relationlist.select">
+        <source>Select contents</source>
+        <target xml:lang="hu" state="translated">Tartalom kiválasztása</target>
+        <note>key: relationlist.select</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1c46a1068b55e75f3cac49a3f59c85ca19edbc52" resname="relationlist.table.modified">
+        <source>Modified</source>
+        <target xml:lang="hu" state="translated">Módosítva</target>
+        <note>key: relationlist.table.modified</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fd35d9bedc6d39be95cef85dd23bc3fd550d6078" resname="relationlist.table.name">
+        <source>Name</source>
+        <target xml:lang="hu" state="translated">Név</target>
+        <note>key: relationlist.table.name</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fea522d933afafa19ac438bd82d49ddc1c254d2f" resname="relationlist.table.published">
+        <source>Published</source>
+        <target xml:lang="hu" state="translated">Publikálva</target>
+        <note>key: relationlist.table.published</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e1ee64eddc5bc3ee8690f59e23a52dd4c50d036e" resname="richtext.focus">
+        <source>Focus</source>
+        <target xml:lang="hu" state="translated">Fókusz</target>
+        <note>key: richtext.focus</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a8867a26b3b1adfde513cee1bbc0b2cd0beb5cce" resname="richtext.save">
+        <source>Save and Return</source>
+        <target xml:lang="hu" state="translated">Mentés és vissza</target>
+        <note>key: richtext.save</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2661cb6d447aad0683ba849b76913b44492fe727" resname="select.contents.to.add">
+        <source>Select the contents you want to add in the relation</source>
+        <target xml:lang="hu" state="translated">Válassza ki a kapcsolni kívánt tartalmakat</target>
+        <note>key: select.contents.to.add</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-relationlist-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8049139bde69cab92f967e171a9b3f1b933f3151" resname="svg.not.supported">
+        <source>SVG images are not supported. Please choose another image file.</source>
+        <target xml:lang="hu" state="translated">Az SVG formátum nem támogatott. Kérjük, válasszon egy másik képet.</target>
+        <note>key: svg.not.supported</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cbeb2eb9d25d8d0349f48bd24450b4431112165a" resname="this.field.is.required">
+        <source>This field is required</source>
+        <target xml:lang="hu" state="translated">Kötelező mező</target>
+        <note>key: this.field.is.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-emailaddress-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-keyword-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-relation-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-relationlist-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-textblock-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-textline-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-url-editview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-xmltext-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a1df2bc73b96d5f4f733b81df6e65eab72e0a707" resname="time.not.valid">
+        <source>Time do not have a valid input</source>
+        <target xml:lang="hu" state="translated">Érvénytelen "idő" formátum</target>
+        <note>key: time.not.valid</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3ac8de09a795de3e631c721617dab1caf9e90d12" resname="time.not.valid.date.missing">
+        <source>Time do not have a valid input and date is missing</source>
+        <target xml:lang="hu" state="translated">Érvénytelen idő formátum és hiányzó "dátum" érték</target>
+        <note>key: time.not.valid.date.missing</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c788a67f4c797fb4111df6384dd2d201ae947859" resname="time.not.valid.date.required">
+        <source>Time do not have a valid input and date is required</source>
+        <target xml:lang="hu" state="translated">Érvénytelen idő formátum és hiányzó "dátum" érték</target>
+        <note>key: time.not.valid.date.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4547cf11661540086aa7919af220e53df1d305c0" resname="time.not.valid.enter.format">
+        <source>This time is invalid, enter a correct time: HH:MM(:SS)</source>
+        <target xml:lang="hu" state="translated">Érvénytelen "idő" formátum. Így adja meg: HH:MM(:SS)</target>
+        <note>key: time.not.valid.enter.format</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="464257823e27d65e1467abb5b4d6421541870a95" resname="time.required">
+        <source>Time is required</source>
+        <target xml:lang="hu" state="translated">Idő megadása szükséges</target>
+        <note>key: time.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c93547a1639e55df78bf8797247cbf75c03649c1" resname="unable.find.address">
+        <source>Unable to find this address</source>
+        <target xml:lang="hu" state="translated">A cím nem található</target>
+        <note>key: unable.find.address</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="45b69f23fd0b5a0e687942663b3acb369ded5c9b" resname="unsupported.html5.geolocation.api">
+        <source>Your browser does not support HTML5 Geolocation API</source>
+        <target xml:lang="hu" state="translated">A böngészője nem támogatja a HTML5 geolokáció API-t</target>
+        <note>key: unsupported.html5.geolocation.api</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="96c974ba32d664442a67e0f5885fd4f29e5ab015" resname="url.text">
+        <source>Text:</source>
+        <target xml:lang="hu" state="translated">Szöveg:</target>
+        <note>key: url.text</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/url.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="aa0e54e7bb0afd83ecbc5ac7a5222961cbd911df" resname="url.url">
+        <source>URL</source>
+        <target xml:lang="hu" state="translated">URL</target>
+        <note>key: url.url</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/url.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="20afd5b376ab9ffb3cfe083496345d7e9d11d9f5" resname="user.email">
+        <source>Email</source>
+        <target xml:lang="hu" state="translated">E-mail</target>
+        <note>key: user.email</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1d797b831d4559bdebe45193f8b51b570437e97d" resname="user.login">
+        <source>Login</source>
+        <target xml:lang="hu" state="translated">Bejelentkezés</target>
+        <note>key: user.login</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e4d06be519f5ddd5206349fb39cf7522dd947a3a" resname="user.password">
+        <source>Password</source>
+        <target xml:lang="hu" state="translated">Jelszó</target>
+        <note>key: user.password</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="782314478554920473f13c4ec6cb6a0471bc8172" resname="user.passwordconfirm">
+        <source>Confirm password</source>
+        <target xml:lang="hu" state="translated">Jelszó megerősítése</target>
+        <note>key: user.passwordconfirm</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="65a42e27e76bf2722822dd28dd0b7ff2d163cb37" resname="value.should.be.less.than">
+        <source>The value should be less than or equal to %maxIntegerValue%</source>
+        <target xml:lang="hu" state="translated">Az érték legyen egyenlő, vagy kisebb, mint %maxIntegerValue%</target>
+        <note>key: value.should.be.less.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0e3930cc51c59d71efa5464323c96d75b93873f3" resname="value.should.be.more.than">
+        <source>The value should be more than or equal to %minIntegerValue%</source>
+        <target xml:lang="hu" state="translated">Az érték legyen egyenlő, vagy nagyobb, mint %minIntegerValue%</target>
+        <note>key: value.should.be.more.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5c462c60b8cdc7e23d84aca23ffda3d32000247e" resname="value.should.be.valid.integer">
+        <source>The value should be a valid integer number</source>
+        <target xml:lang="hu" state="translated">Érvényes, egész számot adjon meg</target>
+        <note>key: value.should.be.valid.integer</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
