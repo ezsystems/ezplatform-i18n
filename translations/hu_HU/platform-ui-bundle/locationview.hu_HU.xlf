@@ -66,6 +66,42 @@
         <note>key: deleting.content</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="2b962f456b0226a8cc71d12c14f72fa5e7672f53" resname="failed.changing.main.location.of">
+        <source>Changing main location of "%name%" failed</source>
+        <target xml:lang="hu" state="translated">A "%name%" fő lokációjának módosítása sikertelen volt</target>
+        <note>key: failed.changing.main.location.of</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="abde0bee2ae04d9f8c4d588cb25a8667ba96d67e" resname="failed.creating.draft.for.based.on">
+        <source>Creating new draft for "%name%" based on version %version% failed.</source>
+        <target xml:lang="hu" state="translated">A %version% alapján %name% piszkozat létrehozása sikertelen volt.</target>
+        <note>key: failed.creating.draft.for.based.on</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a35316336667d1d2661322af8daeb7f76c0a7743" resname="failed.deleting.content">
+        <source>An error occurred when deleting '%name%'</source>
+        <target xml:lang="hu" state="translated">Hiba történt a '%name%' törlése során</target>
+        <note>key: failed.deleting.content</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f569143536f9f8e4e698086f4d85428661a61a37" resname="failed.moving">
+        <source>An error occurred while moving your content</source>
+        <target xml:lang="hu" state="translated">Hiba történt a tartalom áthelyezése során</target>
+        <note>key: failed.moving</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3cb305d711f15ff39be36a9b111cb766c618ec53" resname="failed.removing.locations.of">
+        <source>Removing of %count% location(s) of "%name%" has failed</source>
+        <target xml:lang="hu" state="translated">%count% db "%name%" lokáció eltávolítása sikertelen volt</target>
+        <note>key: failed.removing.locations.of</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="edf8822d85f6e3cc0e13582feee8a65f66ed0d08" resname="failed.removing.versions.of">
+        <source>Removal of %count% version(s) of "%name%" has failed</source>
+        <target xml:lang="hu" state="translated">"%name%" %count% verziójának eltávolítása sikertelen volt</target>
+        <note>key: failed.removing.versions.of</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
