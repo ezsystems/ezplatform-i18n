@@ -270,6 +270,72 @@
         <note>key: locationview.locations.content.locations</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="33ceaa61b8d64b8c3ea118e4f8d1c172c97f5329" resname="locationview.locations.hidden">
+        <source>Hidden</source>
+        <target xml:lang="hu" state="translated">Elrejtve</target>
+        <note>key: locationview.locations.hidden</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e5850a5016f4965ec5dc59f78bb7e9cd146fc9a4" resname="locationview.locations.hidden.by.superior">
+        <source>Hidden by superior</source>
+        <target xml:lang="hu" state="translated">Felettes által elrejtve</target>
+        <note>key: locationview.locations.hidden.by.superior</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8a1beb515496a34287a6fe56c5e12e752c12a47d" resname="locationview.locations.hide">
+        <source>Hide</source>
+        <target xml:lang="hu" state="translated">Elrejtés</target>
+        <note>key: locationview.locations.hide</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="18ffeb7a312f5b6c621e15a46d902ae1fddefe0f" resname="locationview.locations.loading.location.list">
+        <source>Loading the locations list</source>
+        <target xml:lang="hu" state="translated">Lokációk listájának betöltése</target>
+        <note>key: locationview.locations.loading.location.list</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="84eeb5f06a07ce1fffe674e87dca6905ad4714a5" resname="locationview.locations.location.list.error">
+        <source>An error occurred while loading the locations list.</source>
+        <target xml:lang="hu" state="translated">Hiba történt a lokációk listájának betöltése során.</target>
+        <note>key: locationview.locations.location.list.error</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dae83bb328778476ec3e0c5b6db211ca3aa2bc13" resname="locationview.locations.main">
+        <source>Main</source>
+        <target xml:lang="hu" state="translated">Főmenü</target>
+        <note>key: locationview.locations.main</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e4effb18f15a8e0e891860a2b115f08df36a7313" resname="locationview.locations.path">
+        <source>Path</source>
+        <target xml:lang="hu" state="translated">Elérési út</target>
+        <note>key: locationview.locations.path</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c74cc382c1023b02479021fe7b260023d1287df1" resname="locationview.locations.remove.selected">
+        <source>Remove selected</source>
+        <target xml:lang="hu" state="translated">Kijelölt elemek eltávolítása</target>
+        <note>key: locationview.locations.remove.selected</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1f6fe54dbf1b1db82393f87d469612c5b307ea81" resname="locationview.locations.reveal">
+        <source>Reveal</source>
+        <target xml:lang="hu" state="translated">Felfedés</target>
+        <note>key: locationview.locations.reveal</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="30412ae8741b6ad892f8e7121c1df1c98690fe69" resname="locationview.locations.select.content.item">
+        <source>Select Content item</source>
+        <target xml:lang="hu" state="translated">Tartalom elem kiválasztása</target>
+        <note>key: locationview.locations.select.content.item</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b5ab365ec9097447d661364c587dd74a3a2a4da3" resname="locationview.locations.subitems">
+        <source>Sub-items</source>
+        <target xml:lang="hu" state="translated">Alsóbb elemek</target>
+        <note>key: locationview.locations.subitems</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
