@@ -96,6 +96,32 @@
         <note>key: universaldiscovery.provide.search.text</note>
         <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="239fc54ecb59fb4fee3fbedaf606a462b9000cd8" resname="universaldiscovery.retry">
+        <source>Retry</source>
+        <target xml:lang="hi" state="translated">फिर से कोशिश करें</target>
+        <note>key: universaldiscovery.retry</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d8a3ebd791267b179810d3c27bc1b78e566aa385" resname="universaldiscovery.search">
+        <source>Search</source>
+        <target xml:lang="hi" state="translated">खोज</target>
+        <note>key: universaldiscovery.search</note>
+        <jms:reference-file>./Resources/public/js/views/universaldiscovery/ez-universaldiscoverysearchview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b69553576460fe7b356aa72e9c702109f4dd5f4" resname="universaldiscovery.selected.item">
+        <source>Selected item</source>
+        <target xml:lang="hi" state="translated">चयनित आइटम</target>
+        <note>key: universaldiscovery.selected.item</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a3767d9200cdb373450e1ec075431a49b2bcd380" resname="universaldiscovery.translations">
+        <source>Translations</source>
+        <target xml:lang="hi" state="translated">अनुवाद</target>
+        <note>key: universaldiscovery.translations</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
