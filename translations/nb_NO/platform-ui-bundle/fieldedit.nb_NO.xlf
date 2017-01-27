@@ -550,6 +550,36 @@
         <note>key: media.video.unsupported</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3cce6f7478e77242b2c94108460c48905e28da7f" resname="media.video.upload">
+        <source>Upload a video</source>
+        <target xml:lang="nb" state="translated">Last opp en video</target>
+        <note>key: media.video.upload</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e869d62b8c16e01b95bc9d235173e8dba6f42f30" resname="media.width">
+        <source>Width:</source>
+        <target xml:lang="nb" state="translated">Bredde:</target>
+        <note>key: media.width</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4472d1a8e3b30bcb2a5ca35aef3354d87c4f7e0d" resname="name.required">
+        <source>The name is required</source>
+        <target xml:lang="nb" state="translated">Navnet kreves</target>
+        <note>key: name.required</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="76a19d250ba3d1fa3c051e03183820ba5a8f6d98" resname="name.required.if.email.filled">
+        <source>The name is required if the email is filled</source>
+        <target xml:lang="nb" state="translated">Navnet kreves hvis e-post er utfylt</target>
+        <note>key: name.required.if.email.filled</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dd18de349adefaf37b5e99873421b2a0ff05b4d3" resname="not.a.correct.isbn13.pattern">
+        <source>This is not a correct ISBN13 pattern</source>
+        <target xml:lang="nb" state="translated">Dette er ikke en korrekt ISBN13-mønster</target>
+        <note>key: not.a.correct.isbn13.pattern</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="782314478554920473f13c4ec6cb6a0471bc8172" resname="user.passwordconfirm">
         <source>Confirm password</source>
         <target xml:lang="nb" state="translated">Bekreft passord</target>
