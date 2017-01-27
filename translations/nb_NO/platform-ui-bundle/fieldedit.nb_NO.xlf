@@ -190,6 +190,15 @@
         <note>key: embed.content.not.loaded</note>
         <jms:reference-file>./Resources/public/js/views/fields/richtext/ez-richtext-resolveembed.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="0a60003c1459ed6556b63b64c050fd4d070d94e4" resname="error.during.geolocation.request">
+        <source>An error occurred during geolocation request of your current position</source>
+        <target xml:lang="nb" state="translated">Feil under forespørsel om geoplassering fra din nåværende posisjon</target>
+        <note>key: error.during.geolocation.request</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="nb">Feil under anmodning om geoplassering fra din nåværende posisjon</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit id="9c74a8f5f67dd8e07a2912177bc6de9c9cde6d75" resname="failed.retrieve.google.maps.api">
         <source>Failed to retrieve Google Maps API</source>
         <target xml:lang="nb" state="translated">Kan ikke hente Google Maps API</target>
@@ -201,6 +210,51 @@
         <target xml:lang="nb" state="translated">(%size% bytes)</target>
         <note>key: file.size</note>
         <jms:reference-file>./Resources/public/templates/fields/view/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c02ec1f84b17c734661c3a5935960b7392a3af2a" resname="float.value.should.be.less.than">
+        <source>The value should be less than or equal to %maxFloatValue%</source>
+        <target xml:lang="nb" state="translated">Verdien må være mindre enn eller lik %maxFloatValue%</target>
+        <note>key: float.value.should.be.less.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f29cb6461d72c2fe892e65d4dd7dd296ed5db961" resname="float.value.should.be.more.than">
+        <source>The value should be more than or equal to %minFloatValue%</source>
+        <target xml:lang="nb" state="translated">Verdien bør være mer enn eller lik %minFloatValue%</target>
+        <note>key: float.value.should.be.more.than</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0e560377b2f3909ebf37cd10977860242a93f694" resname="geocoding.error">
+        <source>An error occurred during the geocoding request for this address</source>
+        <target xml:lang="nb" state="translated">Feil under forespørsel om geoplassering for denne adressen</target>
+        <note>key: geocoding.error</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="683f0d47319d2d3671eb34b0aab6bcc549b0ac5e" resname="google.map.not.loaded.correctly">
+        <source>Google maps are not loaded correctly, try reloading the page</source>
+        <target xml:lang="nb" state="translated">Google maps lastes ikke riktig, prøv å laste siden på nytt</target>
+        <note>key: google.map.not.loaded.correctly</note>
+        <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="nb">Google maps lastes ikke riktig, prøv å oppdatere siden</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="5c973cf4cef4fd2936dbd1d7879ccdcd8b9e6ffe" resname="image.alternativetext">
+        <source>Alternative text:</source>
+        <target xml:lang="nb" state="translated">Alternativ tekst:</target>
+        <note>key: image.alternativetext</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b93ecd00f44abdce9d25bb437706b04329a172aa" resname="image.content.not.loaded">
+        <source>Image could not be loaded</source>
+        <target xml:lang="nb" state="translated">Bildet kan ikke lastes</target>
+        <note>key: image.content.not.loaded</note>
+        <jms:reference-file>./Resources/public/js/views/fields/richtext/ez-richtext-resolveimage.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c21c1e24ffd073c7213022cf4d0cde8e94be62b8" resname="image.fullwidth">
+        <source>View the full width image</source>
+        <target xml:lang="nb" state="translated">Vis bildet i full bredde</target>
+        <note>key: image.fullwidth</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
       </trans-unit>
     </body>
   </file>
