@@ -313,6 +313,43 @@
         <note>key: role.policy.edit.title</note>
         <jms:reference-file line="6">/../../../../.././Resources/views/Role/edit_policy.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="b9034a726357d2e19c7493932f9bcee454d4ce97" resname="role.policy.edit_limitations">
+        <source>Edit limitations</source>
+        <target xml:lang="hu" state="translated">Korlátozások szerkesztése</target>
+        <note>key: role.policy.edit_limitations</note>
+        <jms:reference-file line="75">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+        <jms:reference-file line="77">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="692ee66b1323dc62c0d79062c789fa8657ea997b" resname="role.policy.error.delete">
+        <source>An error occurred when trying to delete policy #%policyId% for role "%roleIdentifier%".</source>
+        <target xml:lang="hu" state="translated">A "%roleIdentifier%" szerepkör %policyId% szabályának törlése során hiba történt.</target>
+        <note>key: role.policy.error.delete</note>
+        <jms:reference-file line="338">/../../../../.././Controller/RoleController.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="99225f0df6ad50a81ddb060600d0518ae871b105" resname="role.policy.notification.draft_removed">
+        <source>The policy draft was removed.</source>
+        <target xml:lang="hu" state="translated">A szabály piszkozatot eltávolítottuk.</target>
+        <note>key: role.policy.notification.draft_removed</note>
+        <jms:reference-file line="82">/../../../../.././Form/Processor/PolicyFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6cefbf6392b5c48497a28d56749439827be0aa39" resname="role.policy.notification.draft_saved">
+        <source>The policy draft was saved.</source>
+        <target xml:lang="hu" state="translated">A szabály piszkozat mentése sikeres volt.</target>
+        <note>key: role.policy.notification.draft_saved</note>
+        <jms:reference-file line="47">/../../../../.././Form/Processor/PolicyFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f38831dca94d40d24f14cdfa9c00225b90f1e2a7" resname="role.policy_none">
+        <source>There are no policies set up for this role.</source>
+        <target xml:lang="hu" state="translated">Nincsenek szabályok beállítva ehhez a szerepkörhöz.</target>
+        <note>key: role.policy_none</note>
+        <jms:reference-file line="99">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2d54315058102bcb341f1907e5567cefeed78316" resname="selected.content.not.user.group">
+        <source>Selected content is not a user or group.</source>
+        <target xml:lang="hu" state="translated">A kiválasztott tartalom nem felhasználó, vagy csoport.</target>
+        <note>key: selected.content.not.user.group</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
