@@ -6,26 +6,46 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="305047e96ec089021660ee5965f893ac80268731" resname="center">
+        <source>Center</source>
+        <target xml:lang="hu" state="translated">Középre zárt</target>
+        <note>key: center</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/blocktextaligncenter.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/embedcenter.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cfff27c96089b93150f3553b6ffdd39d0d5d8e78" resname="embed">
+        <source>Embed</source>
+        <target xml:lang="hu" state="translated">Beágyazás</target>
+        <note>key: embed</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/embed.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8809edb77f319ec2f52fca2114de27d637fa4642" resname="heading">
+        <source>Heading</source>
+        <target xml:lang="hu" state="translated">Címsor</target>
+        <note>key: heading</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/heading.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8ccbbbe6115fdd98c98cfd7f699501b3550a050b" resname="heading.1">
+        <source>Heading 1</source>
+        <target xml:lang="hu" state="translated">Címsor 1</target>
+        <note>key: heading.1</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4decf57f600f5e23f972092da3023f7065f7008b" resname="heading.2">
+        <source>Heading 2</source>
+        <target xml:lang="hu" state="translated">Címsor 2</target>
+        <note>key: heading.2</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6402924fbcdd16ea9dbf4c37c3da4f53db8fd631" resname="heading.3">
+        <source>Heading 3</source>
+        <target xml:lang="hu" state="translated">Címsor 3</target>
+        <note>key: heading.3</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
