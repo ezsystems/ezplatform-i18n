@@ -179,21 +179,30 @@
       </trans-unit>
       <trans-unit id="7fc31d0ca90043a53df1a70b6d9d84c8c4fddf30" resname="select.a.language.for.new.translation">
         <source>Select a language for your new translation:</source>
-        <target xml:lang="hu" state="translated">Válasszon nyelvet az új fordításhoz:</target>
+        <target xml:lang="hu" state="translated">Válassz nyelvet az új fordításhoz:</target>
         <note>key: select.a.language.for.new.translation</note>
         <jms:reference-file>./Resources/public/js/views/actions/ez-translateactionview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Válasszon nyelvet az új fordításhoz:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="801849651d85606aa04da1b4ea58fad208793e3a" resname="select.location.to.copy">
         <source>Select the location you want to copy your content into</source>
-        <target xml:lang="hu" state="translated">Válassza ki a lokációt, ahová másolni szeretné a tartalmat</target>
+        <target xml:lang="hu" state="translated">Válaszd ki a lokációt, ahová másolni szeretnéd a tartalmat</target>
         <note>key: select.location.to.copy</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Válassza ki a lokációt, ahová másolni szeretné a tartalmat</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="303fa8448e329ecb88341279a1a17b044549270a" resname="select.location.to.create.new.location">
         <source>Select the location where you want to create new location</source>
-        <target xml:lang="hu" state="translated">Válassza ki a lokációt, ahová az új lokációt szeretné létrehozni</target>
+        <target xml:lang="hu" state="translated">Válaszd ki a lokációt, ahová az új lokációt szeretnéd létrehozni</target>
         <note>key: select.location.to.create.new.location</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Válassza ki a lokációt, ahová az új lokációt szeretné létrehozni</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit">
         <source>Edit</source>
