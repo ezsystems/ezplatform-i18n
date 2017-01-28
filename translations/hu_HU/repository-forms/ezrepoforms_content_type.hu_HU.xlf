@@ -2,6 +2,82 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="file.ext" target-language="hu">
     <body>
+      <trans-unit id="1">
+        <source>content_type.name</source>
+        <target xml:lang="hu" state="translated">content_type.name</target>
+        <alt-trans>
+          <target xml:lang="hu">Tartalomtípus neve</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>content_type.identifier</source>
+        <target xml:lang="hu" state="translated">content_type.identifier</target>
+        <alt-trans>
+          <target xml:lang="hu">Tartalomtípus azonosító</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>content_type.description</source>
+        <target xml:lang="hu" state="translated">content_type.description</target>
+        <alt-trans>
+          <target xml:lang="hu">Tartalomtípus leírás</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>content_type.name_schema</source>
+        <target xml:lang="hu" state="translated">content_type.name_schema</target>
+        <alt-trans>
+          <target xml:lang="hu">Tartalomtípus név séma</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>content_type.url_alias_schema</source>
+        <target xml:lang="hu" state="translated">content_type.url_alias_schema</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>content_type.is_container</source>
+        <target xml:lang="hu" state="translated">content_type.is_container</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>content_type.default_sort_field</source>
+        <target xml:lang="hu" state="translated">content_type.default_sort_field</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>content_type.default_sort_order</source>
+        <target xml:lang="hu" state="translated">content_type.default_sort_order</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>content_type.default_always_available</source>
+        <target xml:lang="hu" state="translated">content_type.default_always_available</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>content_type.field_definitions_data</source>
+        <target xml:lang="hu" state="translated">content_type.field_definitions_data</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>content_type.field_type_selection</source>
+        <target xml:lang="hu" state="translated">content_type.field_type_selection</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>content_type.add_field_definition</source>
+        <target xml:lang="hu" state="translated">content_type.add_field_definition</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>content_type.save</source>
+        <target xml:lang="hu" state="translated">content_type.save</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>content_type.edit_title</source>
+        <target xml:lang="hu" state="translated">content_type.edit_title</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>content_type.publish</source>
+        <target xml:lang="hu" state="translated">content_type.publish</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>content_type.remove_field_definitions</source>
+        <target xml:lang="hu" state="translated">content_type.remove_field_definitions</target>
+      </trans-unit>
       <!-- Field definition -->
       <!-- Errors -->
       <!-- ContentType groups -->
