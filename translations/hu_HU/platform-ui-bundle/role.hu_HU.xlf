@@ -118,12 +118,15 @@
       </trans-unit>
       <trans-unit id="1fd015af1b28cdbb8999ea2fe2dc08e181f8836e" resname="role.assign.universaldiscovery.title">
         <source>Pick the users/groups to assign the role "%roleIdentifier%" to</source>
-        <target xml:lang="hu" state="translated">Válassza ki a felhasználókat / csoportokat, akikhez hozzá kívánja rendelni a %roleIdentifier% szerepkört</target>
+        <target xml:lang="hu" state="translated">Válaszd ki a felhasználókat / csoportokat, akikhez hozzá kívánod rendelni a %roleIdentifier% szerepkört</target>
         <note>key: role.assign.universaldiscovery.title</note>
         <jms:reference-file line="35">/../../../../.././Resources/views/Role/assign_role_by_section.html.twig</jms:reference-file>
         <jms:reference-file line="38">/../../../../.././Resources/views/Role/list_roles.html.twig</jms:reference-file>
         <jms:reference-file line="193">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
         <jms:reference-file line="202">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Válassza ki a felhasználókat / csoportokat, akikhez hozzá kívánja rendelni a %roleIdentifier% szerepkört</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="75fb0347cd4923218126c0696153902dbb14fb96" resname="role.assign.user_or_group">
         <source>Assign to users/groups</source>
@@ -154,9 +157,12 @@
       </trans-unit>
       <trans-unit id="fb7171e412fc18e77fe5c7c5e20e85a37c0b126a" resname="role.assign_limit_subtree.universaldiscovery.title">
         <source>Pick the location to use as subtree limitation when assigning the role "%roleIdentifier%"</source>
-        <target xml:lang="hu" state="translated">Válassza ki, mely területre vonatkozzon az alsóbb szintű elemeknél aklamazandó korlátozás, amikor a "%roleIdentifier%" szerepkört rendelik hozzá</target>
+        <target xml:lang="hu" state="translated">Válaszd ki, mely területre vonatkozzon az alsóbb szintű elemeknél aklamazandó korlátozás, amikor a "%roleIdentifier%" szerepkört rendelik hozzá</target>
         <note>key: role.assign_limit_subtree.universaldiscovery.title</note>
         <jms:reference-file line="203">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Válassza ki, mely területre vonatkozzon az alsóbb szintű elemeknél aklamazandó korlátozás, amikor a "%roleIdentifier%" szerepkört rendelik hozzá</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="8211a64763ecf5a6a1e5d0e2386357c0bc2e7c89" resname="role.assign_limit_subtree.user_or_group">
         <source>Assign to users/groups with subtree limitation</source>
