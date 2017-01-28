@@ -236,6 +236,83 @@
         <note>key: role.edit_title</note>
         <jms:reference-file line="7">/../../../../.././Resources/views/Role/update_role.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="c3488ceda2728b14f24019f28ed44180b84ed179" resname="role.error.delete">
+        <source>An error occurred when trying to delete role "%roleIdentifier%".</source>
+        <target xml:lang="hu" state="translated">Hiba történt a "%roleIdentifier%" szerepkör törlése során.</target>
+        <note>key: role.error.delete</note>
+        <jms:reference-file line="243">/../../../../.././Controller/RoleController.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="68310ce0c358df2115b5944a580f158b01c2e719" resname="role.error.policy_not_found">
+        <source>Role #%roleId% doesn't contain any policy with ID #%policyId%</source>
+        <target xml:lang="hu" state="translated">A #%roleId% nem tartalmaz szabályozást erre az ID-ra #%policyId%</target>
+        <note>key: role.error.policy_not_found</note>
+        <jms:reference-file line="268">/../../../../.././Controller/RoleController.php</jms:reference-file>
+        <jms:reference-file line="330">/../../../../.././Controller/RoleController.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c049089744629771a10145f3c8b52aefbd0cce17" resname="role.id">
+        <source>ID</source>
+        <target xml:lang="hu" state="translated">ID / azonosító</target>
+        <note>key: role.id</note>
+        <jms:reference-file line="26">/../../../../.././Resources/views/Role/list_roles.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7bc6d651a804258ae2918bced396ae12e24ea286" resname="role.list">
+        <source>Roles</source>
+        <target xml:lang="hu" state="translated">Szerepkörök</target>
+        <note>key: role.list</note>
+        <jms:reference-file line="15">/../../../../.././Resources/views/Role/list_roles.html.twig</jms:reference-file>
+        <jms:reference-file line="64">/../../../../.././Resources/views/Role/list_roles.html.twig</jms:reference-file>
+        <jms:reference-file line="9">/../../../../.././Resources/views/Role/list_roles.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0d01a66ae157f61d7744fb5e60a8f1e19fee4aa1" resname="role.name">
+        <source>Name</source>
+        <target xml:lang="hu" state="translated">Név</target>
+        <note>key: role.name</note>
+        <jms:reference-file line="25">/../../../../.././Resources/views/Role/list_roles.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="723a06ac319ea75dc2c78c3eb8a30ebacded1a64" resname="role.notification.draft_removed">
+        <source>The role draft was removed.</source>
+        <target xml:lang="hu" state="translated">Szerepkör piszkozat eltávolítva.</target>
+        <note>key: role.notification.draft_removed</note>
+        <jms:reference-file line="83">/../../../../.././Form/Processor/PolicyFormProcessor.php</jms:reference-file>
+        <jms:reference-file line="100">/../../../../.././Form/Processor/RoleFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b61546f861fa7af02bb566f7cc18b71828f1827b" resname="role.notification.draft_saved">
+        <source>The role draft was saved.</source>
+        <target xml:lang="hu" state="translated">Szerepkör piszkozat elmentve.</target>
+        <note>key: role.notification.draft_saved</note>
+        <jms:reference-file line="74">/../../../../.././Form/Processor/RoleFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="116219f003b3ddd2b2e8b3529aa96a5b34713a91" resname="role.notification.published">
+        <source>The role was published.</source>
+        <target xml:lang="hu" state="translated">Szerepkör publikálva.</target>
+        <note>key: role.notification.published</note>
+        <jms:reference-file line="69">/../../../../.././Form/Processor/PolicyFormProcessor.php</jms:reference-file>
+        <jms:reference-file line="75">/../../../../.././Form/Processor/RoleFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6dafd96fb9e7b28a8048e7ae6985ce49b0dbff82" resname="role.policy.add">
+        <source>Add a new policy</source>
+        <target xml:lang="hu" state="translated">Új szabály hozzáadása</target>
+        <note>key: role.policy.add</note>
+        <jms:reference-file line="108">/../../../../.././Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bc75703d2446d97b0b9cefd67cd89db4848e9fae" resname="role.policy.create.title">
+        <source>New policy</source>
+        <target xml:lang="hu" state="translated">Új szabály</target>
+        <note>key: role.policy.create.title</note>
+        <jms:reference-file line="6">/../../../../.././Resources/views/Role/edit_policy.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3d3b8aee83935b3229b0f0f13f92f7f8fdd07853" resname="role.policy.deleted">
+        <source>Policy #%policyId% for role "%roleIdentifier%" was correctly deleted.</source>
+        <target xml:lang="hu" state="translated">%roleIdentifier% szerepkör %policyId% szabályát töröltük.</target>
+        <note>key: role.policy.deleted</note>
+        <jms:reference-file line="336">/../../../../.././Controller/RoleController.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="28ccd472ae9e01f00eb14337f9dea449476a0b67" resname="role.policy.edit.title">
+        <source>Edit %policy%</source>
+        <target xml:lang="hu" state="translated">%policy% szerkesztése</target>
+        <note>key: role.policy.edit.title</note>
+        <jms:reference-file line="6">/../../../../.././Resources/views/Role/edit_policy.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
