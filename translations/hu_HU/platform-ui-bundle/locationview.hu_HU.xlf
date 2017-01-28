@@ -518,6 +518,90 @@
         <note>key: removing.locations.for</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="6bf8a2da889909164b44ea5b8942e18acb8f29b1" resname="removing.versions.for">
+        <source>Removing versions for "%name%"</source>
+        <target xml:lang="hu" state="translated">%name% verziók eltávolítása</target>
+        <note>key: removing.versions.for</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ae688447d6a0779e33bdbb155806278928d5ec7e" resname="select.location.move.to">
+        <source>Select the location you want to move your content into</source>
+        <target xml:lang="hu" state="translated">Válassza ki, hogy hova szeretné áthelyezni a tartalmat</target>
+        <note>key: select.location.move.to</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2ebde9679f8621dde1a0069e592eaf1164583c74" resname="select.location.to.swap">
+        <source>Select the location you want to swap with the given one</source>
+        <target xml:lang="hu" state="translated">Válassza ki a lokációt, amivel cserélni szeretné a kiválasztott elemet</target>
+        <note>key: select.location.to.swap</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationswapplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c3a7268c770036494e916618aae9927d0a353773" resname="sending.to.trash">
+        <source>Sending '%name%' to Trash</source>
+        <target xml:lang="hu" state="translated">%name% lomtárba helyezése</target>
+        <note>key: sending.to.trash</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8766b28d763385b40a48711bd66412d5f4d0f609" resname="sent.to.trash">
+        <source>"%name%" sent to Trash</source>
+        <target xml:lang="hu" state="translated">%name% áthelyezve a lomtárba</target>
+        <note>key: sent.to.trash</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5fa3c429a7ffda07ccc05013a851a2beafee966d" resname="sort.content.type.identifier">
+        <source>Content type identifier</source>
+        <target xml:lang="hu" state="translated">Tartalomtípus azonosítója</target>
+        <note>key: sort.content.type.identifier</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="62a66a9c02d5728bbc517a5d7c11889990cbed12" resname="sort.content.type.name">
+        <source>Content type name</source>
+        <target xml:lang="hu" state="translated">Tartalomtípus neve</target>
+        <note>key: sort.content.type.name</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3fc89a073d545b17319f4926105bf536a2481795" resname="sort.depth">
+        <source>Location depth</source>
+        <target xml:lang="hu" state="translated">Hely mélysége</target>
+        <note>key: sort.depth</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8e3b63eca8c0b79018040b44d8ee39701824a187" resname="sort.modified">
+        <source>Modification date</source>
+        <target xml:lang="hu" state="translated">Módosítás dátuma</target>
+        <note>key: sort.modified</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4f2fcdfe68ca50269b9c334594a8acd1a688809f" resname="sort.name">
+        <source>Content name</source>
+        <target xml:lang="hu" state="translated">Tartalom neve</target>
+        <note>key: sort.name</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="668f8150c4acd0a0c8075de8b794639b8b4a6519" resname="sort.path">
+        <source>Location path</source>
+        <target xml:lang="hu" state="translated">Elérési útvonal</target>
+        <note>key: sort.path</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bcb9183148c577a8a232c08847dff0c1647e62e7" resname="sort.priority">
+        <source>Priority</source>
+        <target xml:lang="hu" state="translated">Prioritás</target>
+        <note>key: sort.priority</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="033291f867da64bfb4f9db9ec1b3c947b1e431c5" resname="sort.published">
+        <source>Publication date</source>
+        <target xml:lang="hu" state="translated">Publikálás dátuma</target>
+        <note>key: sort.published</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f0ec72293071715721e084ed98b6ceb112aae22b" resname="sort.section">
+        <source>Section</source>
+        <target xml:lang="hu" state="translated">Szekció</target>
+        <note>key: sort.section</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
