@@ -5,33 +5,49 @@
       <tool tool-id="symfony" tool-name="Symfony"/>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="8fe293b0e64f23e34124c70b08e7a996" resname="ezauthor.name">
+        <source>ezauthor.name</source>
+        <target xml:lang="hu" state="translated">ezauthor.name</target>
+        <alt-trans>
+          <target xml:lang="hu">Szerző</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="256fc0cf36587c3090c20589feab88d8" resname="ezbinaryfile.name">
+        <source>ezbinaryfile.name</source>
+        <target xml:lang="hu" state="translated">ezbinaryfile.name</target>
+      </trans-unit>
+      <trans-unit id="c56580fb0319cca9dd79d308e1e694fe" resname="ezboolean.name">
+        <source>ezboolean.name</source>
+        <target xml:lang="hu" state="translated">ezboolean.name</target>
+      </trans-unit>
+      <trans-unit id="597319108eb9a4dba9c34feaea3993ae" resname="ezcountry.name">
+        <source>ezcountry.name</source>
+        <target xml:lang="hu" state="translated">ezcountry.name</target>
+      </trans-unit>
+      <trans-unit id="9f57533acc7d3e2a1213e1f459c0b6d0" resname="ezdate.name">
+        <source>ezdate.name</source>
+        <target xml:lang="hu" state="translated">ezdate.name</target>
+      </trans-unit>
+      <trans-unit id="af0817b74df3418f8cc1efe6b700e9b9" resname="ezdatetime.name">
+        <source>ezdatetime.name</source>
+        <target xml:lang="hu" state="translated">ezdatetime.name</target>
+      </trans-unit>
+      <trans-unit id="042ab1dd392bdda70faf5bfd45cd688e" resname="ezemail.name">
+        <source>ezemail.name</source>
+        <target xml:lang="hu" state="translated">ezemail.name</target>
+      </trans-unit>
+      <trans-unit id="9b3383d363eb0ddd88a4759b357b6f11" resname="ezfloat.name">
+        <source>ezfloat.name</source>
+        <target xml:lang="hu" state="translated">ezfloat.name</target>
+      </trans-unit>
+      <trans-unit id="24153ebd2d03f8479c60fbed348c0167" resname="ezgmaplocation.name">
+        <source>ezgmaplocation.name</source>
+        <target xml:lang="hu" state="translated">ezgmaplocation.name</target>
+      </trans-unit>
+      <trans-unit id="c43e04e65f482ab46685662b411b591a" resname="ezisbn.name">
+        <source>ezisbn.name</source>
+        <target xml:lang="hu" state="translated">ezisbn.name</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
