@@ -2,7 +2,50 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="file.ext" target-language="hu">
     <body>
+      <trans-unit id="eb732abfbae397aca2742d95e9d0be74">
+        <source>content.create_button</source>
+        <target xml:lang="hu" state="translated">Létrehozás</target>
+        <alt-trans>
+          <target xml:lang="hu">Tartalom létrehozása</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="feebb073e498ff5b9166f640554eeb60">
+        <source>content.edit_button</source>
+        <target xml:lang="hu" state="translated">Szerkesztés</target>
+      </trans-unit>
+      <trans-unit id="f51270da268bd8eda1a5d49f51cf93f6">
+        <source>content.publish_button</source>
+        <target xml:lang="hu" state="translated">Publikálás</target>
+      </trans-unit>
+      <trans-unit id="39a661284481408be917e7c121e7ab1d">
+        <source>content.save_button</source>
+        <target xml:lang="hu" state="translated">Mentés</target>
+      </trans-unit>
+      <trans-unit id="6a0d486e8aa479d2af5f67112f464e20">
+        <source>content.cancel_button</source>
+        <target xml:lang="hu" state="translated">Mégse</target>
+      </trans-unit>
+      <trans-unit id="e93fea1c0536d108e24b150ac03c2677">
+        <source>content.field.non_editable</source>
+        <target xml:lang="hu" state="translated">Nem szerkeszthető</target>
+      </trans-unit>
       <!-- FieldTypes -->
+      <trans-unit id="7b0583136e2275a809b31ae90a455e59">
+        <source>content.field_type.ezuser.username</source>
+        <target xml:lang="hu" state="translated">Felhasználónév</target>
+      </trans-unit>
+      <trans-unit id="8acd3d9a24e181ea0e82ad298422fdc7">
+        <source>content.field_type.ezuser.password</source>
+        <target xml:lang="hu" state="translated">Jelszó</target>
+      </trans-unit>
+      <trans-unit id="fd2c89db5fdb5a32b85b4813a80f0c35">
+        <source>content.field_type.ezuser.password_confirm</source>
+        <target xml:lang="hu" state="translated">Jelszó megerősítése</target>
+      </trans-unit>
+      <trans-unit id="94f3c48fbdb6323962103bebf6575c30">
+        <source>content.field_type.ezuser.email</source>
+        <target xml:lang="hu" state="translated">E-mail</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
