@@ -6,14 +6,12 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="521307ddb67a4abc14248801dae5e5989aca76c1" resname="copyright">
+        <source><![CDATA[eZ Platform ©1999-%endYear% <a href="http://ez.no">eZ Systems AS</a> and others.]]></source>
+        <target xml:lang="hu" state="translated"><![CDATA[eZ Platform ©1999-%endYear% <a href="http://ez.no">eZ Systems AS</a> és mások.]]></target>
+        <note>key: copyright</note>
+        <jms:reference-file>./Resources/public/templates/loginform.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
