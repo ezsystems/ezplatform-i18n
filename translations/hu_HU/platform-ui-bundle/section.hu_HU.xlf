@@ -12,14 +12,48 @@
         <note>key: assigned.section</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-sectionserversideviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="f7e3a4c368276a309c136f36ba4b0fde89f8258f" resname="assigning.section">
+        <source>Assigning the section "%sectionName%" to %count% contents</source>
+        <target xml:lang="hu" state="translated">%sectionName% szekció hozzárentelése %count% tartalomhoz</target>
+        <note>key: assigning.section</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-sectionserversideviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5752d1a75675e5cd0fde02a23eb424313e42e4c9" resname="section.assign.contents">
+        <source>Assign to content</source>
+        <target xml:lang="hu" state="translated">Tartalomhoz rendelés</target>
+        <note>key: section.assign.contents</note>
+        <jms:reference-file line="23">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
+        <jms:reference-file line="75">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
+        <jms:reference-file line="79">/../../../../.././Resources/views/Section/view.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6e9972f315911664e7e596892c4cce1c3319a6ba" resname="section.assign.universaldiscovery.title">
+        <source>Pick the Content items to assign to section "%sectionName%"</source>
+        <target xml:lang="hu" state="translated">Válassza ki a tartalom elemeket, amelyeket a "%sectionName%" szekcióhoz kíván rendelni</target>
+        <note>key: section.assign.universaldiscovery.title</note>
+        <jms:reference-file line="19">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
+        <jms:reference-file line="71">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
+        <jms:reference-file line="74">/../../../../.././Resources/views/Section/view.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content">
+        <source>Assigned Content items</source>
+        <target xml:lang="hu" state="translated">Hozzárendelt tartalmi elemek</target>
+        <note>key: section.assigned.content</note>
+        <jms:reference-file line="58">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="b3a79602ff55ce138d41cd00a9d93ff6a6324604" resname="section.assigned.contentcount">
         <source xml:space="preserve">{0} This section is assigned to %contentCount% content items.|{1} This section is assigned to
                     %contentCount% content item.|]1,Inf[ This section is assigned to %contentCount% content items
                 </source>
-        <target xml:space="preserve" xml:lang="hu" state="needs-translation">
+        <target xml:space="preserve" xml:lang="hu" state="translated">{0} Ezt a szekciót %contentCount% elemhez rendeltük.|{1} Ezt a szekciót %contentCount% elemhez rendeltük.|]1,Inf[ Ez a szekciót %contentCount% elemhez rendeltük
                 </target>
         <note>key: section.assigned.contentcount</note>
         <jms:reference-file line="41">/../../../../.././Resources/views/Section/view.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0a8c9188f868f7dfd2f523d0d1eabeb846d39d03" resname="section.cancel">
+        <source>Cancel</source>
+        <target xml:lang="hu" state="translated">Mégse</target>
+        <note>key: section.cancel</note>
+        <jms:reference-file line="52">/../../../../.././Resources/views/Section/edit.html.twig</jms:reference-file>
       </trans-unit>
     </body>
   </file>
