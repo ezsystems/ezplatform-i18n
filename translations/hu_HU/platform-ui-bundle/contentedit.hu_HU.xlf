@@ -98,11 +98,15 @@ Nyelv kódja: "%languageCode%"</target>
       <trans-unit id="5f9372fdbe581e8eb35c5e26d8924cd701aec768" resname="failed.loading.content.type">
         <source>Could not load the content type with id %id%</source>
         <target xml:lang="hu" state="translated">Nem sikerült a tartalomtípus betöltése.
-ID: "%id"
-</target>
+ID: "%id"</target>
         <note>key: failed.loading.content.type</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-contentcreateviewservice.js</jms:reference-file>
         <jms:reference-file>./Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Nem sikerült a tartalomtípus betöltése.
+ID: "%id"
+</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="2dfcf61a9108b8d0c6e9e763b77f42900c993c26" resname="failed.loading.location">
         <source>Could not load the location with id '%id%'</source>
