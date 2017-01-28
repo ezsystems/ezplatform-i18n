@@ -180,10 +180,13 @@
       </trans-unit>
       <trans-unit id="8d1c4e01ea895221eda65f6d840b29c4cfe932f2" resname="content_type.is_in_use">
         <source>The content type cannot be deleted because it has content items, or because you don't have permission.</source>
-        <target xml:lang="hu" state="translated">A tartalomtípus nem törölhető, mert tartalom elemek tartoznak hozzá, vagy Önnek nincs jogosultsága a művelethez.</target>
+        <target xml:lang="hu" state="translated">A tartalomtípus nem törölhető, mert tartalom elemek tartoznak hozzá, vagy nincs jogosultságod a művelethez.</target>
         <note>key: content_type.is_in_use</note>
         <jms:reference-file line="150">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="59">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">A tartalomtípus nem törölhető, mert tartalom elemek tartoznak hozzá, vagy Önnek nincs jogosultsága a művelethez.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="de2ea38b0604e5c021452e0eef43c2cc9494a2b7" resname="content_type.last_modified">
         <source>Last modified: %date% by %modifier%</source>
