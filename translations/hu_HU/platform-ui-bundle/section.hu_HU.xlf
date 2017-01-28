@@ -28,11 +28,14 @@
       </trans-unit>
       <trans-unit id="6e9972f315911664e7e596892c4cce1c3319a6ba" resname="section.assign.universaldiscovery.title">
         <source>Pick the Content items to assign to section "%sectionName%"</source>
-        <target xml:lang="hu" state="translated">Válassza ki a tartalom elemeket, amelyeket a "%sectionName%" szekcióhoz kíván rendelni</target>
+        <target xml:lang="hu" state="translated">Válaszd ki a tartalom elemeket, amelyeket a "%sectionName%" szekcióhoz kívánsz rendelni</target>
         <note>key: section.assign.universaldiscovery.title</note>
         <jms:reference-file line="19">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="71">/../../../../.././Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="74">/../../../../.././Resources/views/Section/view.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Válassza ki a tartalom elemeket, amelyeket a "%sectionName%" szekcióhoz kíván rendelni</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content">
         <source>Assigned Content items</source>
