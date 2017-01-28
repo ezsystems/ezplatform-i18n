@@ -159,6 +159,15 @@
         <note>key: section.notification.updated</note>
         <jms:reference-file line="48">/../../../../.././Form/Processor/SectionFormProcessor.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="7ca9da842cdea433f0a9e05a8c6b135def0bc6e3" resname="section.view.title">
+        <source>Section: %sectionName%</source>
+        <target xml:lang="hu" state="translated">Szekció: %sectionName%</target>
+        <note>key: section.view.title</note>
+        <jms:reference-file line="17">/../../../../.././Resources/views/Section/edit.html.twig</jms:reference-file>
+        <jms:reference-file line="16">/../../../../.././Resources/views/Section/view.html.twig</jms:reference-file>
+        <jms:reference-file line="86">/../../../../.././Resources/views/Section/view.html.twig</jms:reference-file>
+        <jms:reference-file line="9">/../../../../.././Resources/views/Section/view.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
