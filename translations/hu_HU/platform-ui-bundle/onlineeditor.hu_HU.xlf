@@ -46,6 +46,99 @@
         <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
         <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="7e65910e3c5725aaff4b648220dab7bb6266df48" resname="heading.4">
+        <source>Heading 4</source>
+        <target xml:lang="hu" state="translated">Címsor 4</target>
+        <note>key: heading.4</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f70107bea5df35dd8bd8b8b0321db6190d7d6aba" resname="heading.5">
+        <source>Heading 5</source>
+        <target xml:lang="hu" state="translated">Címsor 5</target>
+        <note>key: heading.5</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="29b64da968aa203bc30bea66937d98b1808f7061" resname="heading.6">
+        <source>Heading 6</source>
+        <target xml:lang="hu" state="translated">Címsor 6</target>
+        <note>key: heading.6</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0e76292794888d4f1fa75fb3aff4ca27c58f56a6" resname="image">
+        <source>Image</source>
+        <target xml:lang="hu" state="translated">Kép</target>
+        <note>key: image</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/image.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3d7a034a83cbfb625391d2e897c5163400413b6b" resname="justify">
+        <source>Justify</source>
+        <target xml:lang="hu" state="translated">Sorkizárt</target>
+        <note>key: justify</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/blocktextalignjustify.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="12c0f1fbadc4046b5f2bb9e063b227ef8750d9d6" resname="left">
+        <source>Left</source>
+        <target xml:lang="hu" state="translated">Balra zárt</target>
+        <note>key: left</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/blocktextalignleft.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/embedleft.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="38b62be4bddaa5661c7d6b8e36e28159314df5c7" resname="list">
+        <source>List</source>
+        <target xml:lang="hu" state="translated">Lista</target>
+        <note>key: list</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/list.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f416747c2f302b11d2360559f101e49353e88038" resname="paragraph">
+        <source>Paragraph</source>
+        <target xml:lang="hu" state="translated">Bekezdés</target>
+        <note>key: paragraph</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/paragraph.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c5ef10db9a6a48b85cd15ce1050f42933a4305ae" resname="remove.this.block">
+        <source>Remove this block</source>
+        <target xml:lang="hu" state="translated">Blokk eltávolítása</target>
+        <note>key: remove.this.block</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/blockremove.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d27a1f11771200949714b1af99f048a416f5d6f4" resname="right">
+        <source>Right</source>
+        <target xml:lang="hu" state="translated">Jobbra zárt</target>
+        <note>key: right</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/blocktextalignright.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/embedright.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="66e4d5a581b0460c2a07236f815ada78bfa75a68" resname="select.a.content.to.embed">
+        <source>Select a content to embed</source>
+        <target xml:lang="hu" state="translated">Válasszon beágyazandó tartalmat</target>
+        <note>key: select.a.content.to.embed</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/embed.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/embedhref.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="180522f369f637cf58b08e8526b86bf4fe9f6e96" resname="select.an.image.to.embed">
+        <source>Select an image to embed</source>
+        <target xml:lang="hu" state="translated">Válasszon beágyazandó képet</target>
+        <note>key: select.an.image.to.embed</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/image.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/imagehref.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="01f73cbcef515e5358afb1631af189449219fe73" resname="select.another.content.item">
+        <source>Select another content item</source>
+        <target xml:lang="hu" state="translated">Válasszon másik elemet</target>
+        <note>key: select.another.content.item</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/embedhref.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6c7ff48bfb23af1c48100802f28c610bb4e477b6" resname="select.another.image">
+        <source>Select another image</source>
+        <target xml:lang="hu" state="translated">Válasszon másik képet</target>
+        <note>key: select.another.image</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/imagehref.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
