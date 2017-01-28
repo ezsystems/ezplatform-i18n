@@ -78,7 +78,151 @@
         <source>content_type.remove_field_definitions</source>
         <target xml:lang="hu" state="translated">content_type.remove_field_definitions</target>
       </trans-unit>
+      <trans-unit id="17">
+        <source>content_type.remove_draft</source>
+        <target xml:lang="hu" state="translated">content_type.remove_draft</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>content_type.sort_field.1</source>
+        <target xml:lang="hu" state="translated">content_type.sort_field.1</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>content_type.sort_field.2</source>
+        <target xml:lang="hu" state="translated">content_type.sort_field.2</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>content_type.sort_field.3</source>
+        <target xml:lang="hu" state="translated">content_type.sort_field.3</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>content_type.sort_field.4</source>
+        <target xml:lang="hu" state="translated">content_type.sort_field.4</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>content_type.sort_field.5</source>
+        <target xml:lang="hu" state="translated">content_type.sort_field.5</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>content_type.sort_field.6</source>
+        <target xml:lang="hu" state="translated">content_type.sort_field.6</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>content_type.sort_field.7</source>
+        <target xml:lang="hu" state="translated">content_type.sort_field.7</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>content_type.sort_field.8</source>
+        <target xml:lang="hu" state="translated">content_type.sort_field.8</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>content_type.sort_field.9</source>
+        <target xml:lang="hu" state="translated">content_type.sort_field.9</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>content_type.sort_order.0</source>
+        <target xml:lang="hu" state="translated">content_type.sort_order.0</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>content_type.sort_order.1</source>
+        <target xml:lang="hu" state="translated">content_type.sort_order.1</target>
+      </trans-unit>
+      <trans-unit id="c922cb4d7cf06dd353a1c42e5beaa942">
+        <source>content_type.create</source>
+        <target xml:lang="hu" state="translated">content_type.create</target>
+      </trans-unit>
+      <trans-unit id="d8ed8632f53a803e8c0b7686aca78dfd">
+        <source>content_type.delete</source>
+        <target xml:lang="hu" state="translated">content_type.delete</target>
+      </trans-unit>
       <!-- Field definition -->
+      <trans-unit id="101">
+        <source>field_definition.name</source>
+        <target xml:lang="hu" state="translated">field_definition.name</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>field_definition.identifier</source>
+        <target xml:lang="hu" state="translated">field_definition.identifier</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>field_definition.description</source>
+        <target xml:lang="hu" state="translated">field_definition.description</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>field_definition.is_required</source>
+        <target xml:lang="hu" state="translated">field_definition.is_required</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>field_definition.is_translatable</source>
+        <target xml:lang="hu" state="translated">field_definition.is_translatable</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>field_definition.field_group</source>
+        <target xml:lang="hu" state="translated">field_definition.field_group</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>field_definition.position</source>
+        <target xml:lang="hu" state="translated">field_definition.position</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>field_definition.is_searchable</source>
+        <target xml:lang="hu" state="translated">field_definition.is_searchable</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>field_definition.ezstring.min_length</source>
+        <target xml:lang="hu" state="translated">field_definition.ezstring.min_length</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>field_definition.ezstring.max_length</source>
+        <target xml:lang="hu" state="translated">field_definition.ezstring.max_length</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>field_definition.ezstring.default_value</source>
+        <target xml:lang="hu" state="translated">field_definition.ezstring.default_value</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>field_definition.eztext.text_rows</source>
+        <target xml:lang="hu" state="translated">field_definition.eztext.text_rows</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>field_definition.ezfloat.min_value</source>
+        <target xml:lang="hu" state="translated">field_definition.ezfloat.min_value</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>field_definition.ezfloat.max_value</source>
+        <target xml:lang="hu" state="translated">field_definition.ezfloat.max_value</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>field_definition.ezinteger.min_value</source>
+        <target xml:lang="hu" state="translated">field_definition.ezinteger.min_value</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>field_definition.ezinteger.max_value</source>
+        <target xml:lang="hu" state="translated">field_definition.ezinteger.max_value</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>field_definition.ezisbn.is_isbn13</source>
+        <target xml:lang="hu" state="translated">field_definition.ezisbn.is_isbn13</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>field_definition.ezcountry.is_multiple</source>
+        <target xml:lang="hu" state="translated">field_definition.ezcountry.is_multiple</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>field_definition.ezcountry.default_value</source>
+        <target xml:lang="hu" state="translated">field_definition.ezcountry.default_value</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>field_definition.eztime.use_seconds</source>
+        <target xml:lang="hu" state="translated">field_definition.eztime.use_seconds</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>field_definition.eztime.default_type</source>
+        <target xml:lang="hu" state="translated">field_definition.eztime.default_type</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>field_definition.eztime.default_type_empty</source>
+        <target xml:lang="hu" state="translated">field_definition.eztime.default_type_empty</target>
+      </trans-unit>
       <!-- Errors -->
       <!-- ContentType groups -->
     </body>
