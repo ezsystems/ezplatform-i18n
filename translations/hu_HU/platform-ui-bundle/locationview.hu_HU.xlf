@@ -541,15 +541,21 @@
       </trans-unit>
       <trans-unit id="ae688447d6a0779e33bdbb155806278928d5ec7e" resname="select.location.move.to">
         <source>Select the location you want to move your content into</source>
-        <target xml:lang="hu" state="translated">Válassza ki, hogy hova szeretné áthelyezni a tartalmat</target>
+        <target xml:lang="hu" state="translated">Válaszd ki, hogy hova szeretnéd áthelyezni a tartalmat</target>
         <note>key: select.location.move.to</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Válassza ki, hogy hova szeretné áthelyezni a tartalmat</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="2ebde9679f8621dde1a0069e592eaf1164583c74" resname="select.location.to.swap">
         <source>Select the location you want to swap with the given one</source>
-        <target xml:lang="hu" state="translated">Válassza ki a lokációt, amivel cserélni szeretné a kiválasztott elemet</target>
+        <target xml:lang="hu" state="translated">Válaszd ki a lokációt, amivel cserélni szeretnéd a kiválasztott elemet</target>
         <note>key: select.location.to.swap</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationswapplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Válassza ki a lokációt, amivel cserélni szeretné a kiválasztott elemet</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="c3a7268c770036494e916618aae9927d0a353773" resname="sending.to.trash">
         <source>Sending '%name%' to Trash</source>
