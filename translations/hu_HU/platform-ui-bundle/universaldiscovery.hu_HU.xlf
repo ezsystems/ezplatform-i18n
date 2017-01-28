@@ -133,6 +133,37 @@
         <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="d8a3ebd791267b179810d3c27bc1b78e566aa385" resname="universaldiscovery.search">
+        <source>Search</source>
+        <target xml:lang="hu" state="translated">Keresés</target>
+        <note>key: universaldiscovery.search</note>
+        <jms:reference-file>./Resources/public/js/views/universaldiscovery/ez-universaldiscoverysearchview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f223bfebe47730c110cca9599db5deb546ab872f" resname="universaldiscovery.select.from.left">
+        <source>Select a content item from the left</source>
+        <target xml:lang="hu" state="translated">Válassz ki egy tartalom elemet balról</target>
+        <note>key: universaldiscovery.select.from.left</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b69553576460fe7b356aa72e9c702109f4dd5f4" resname="universaldiscovery.selected.item">
+        <source>Selected item</source>
+        <target xml:lang="hu" state="translated">Kiválasztott elem</target>
+        <note>key: universaldiscovery.selected.item</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a3767d9200cdb373450e1ec075431a49b2bcd380" resname="universaldiscovery.translations">
+        <source>Translations</source>
+        <target xml:lang="hu" state="translated">Fordítások</target>
+        <note>key: universaldiscovery.translations</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8b825fd3563931192778181dece1a37e0930073f" resname="universaldiscovery.type">
+        <source>Type</source>
+        <target xml:lang="hu" state="translated">Típus</target>
+        <note>key: universaldiscovery.type</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
