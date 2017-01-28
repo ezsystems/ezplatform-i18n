@@ -50,9 +50,12 @@
       </trans-unit>
       <trans-unit id="30424972909697b477376e7ca05c88535f9a2b58" resname="binaryfile.help">
         <source>Drag and drop your file here or simply click on the buttons and select your file manually.</source>
-        <target xml:lang="hu" state="translated">Húzza ide a fájlt, vagy kattintson a gombokra és válassza ki a kívánt elemet.</target>
+        <target xml:lang="hu" state="translated">Húzd ide a fájlt, vagy kattints a gombokra és válaszd ki a kívánt elemet.</target>
         <note>key: binaryfile.help</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Húzza ide a fájlt, vagy kattintson a gombokra és válassza ki a kívánt elemet.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="deb180f588060bb98b95d7df6d43b0d9d5278774" resname="binaryfile.name">
         <source>File name:</source>
@@ -147,9 +150,12 @@
       </trans-unit>
       <trans-unit id="3512b5e328b32d7ad9f98fa9fdc35df7f2207526" resname="dropped.several.files">
         <source>You dropped several files while only one can be stored in this field. Please choose one file.</source>
-        <target xml:lang="hu" state="translated">Ebben a mezőben csak egy fájl tárolható. Kérjük, válasszon ki egy fájlt.</target>
+        <target xml:lang="hu" state="translated">Ebben a mezőben csak egy fájl tárolható. Kérjük, válassz ki egy fájlt.</target>
         <note>key: dropped.several.files</note>
         <jms:reference-file>./Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Ebben a mezőben csak egy fájl tárolható. Kérjük, válasszon ki egy fájlt.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="77e9dcf7fa3a6196173e1ef8d749321c078a61fb" resname="dropped.text.selection">
         <source>You dropped a text selection while this field can only store a file. Please drop a file instead.</source>
@@ -186,9 +192,12 @@
       </trans-unit>
       <trans-unit id="0a60003c1459ed6556b63b64c050fd4d070d94e4" resname="error.during.geolocation.request">
         <source>An error occurred during geolocation request of your current position</source>
-        <target xml:lang="hu" state="translated">Hiba történt az Ön aktuális földrajzi helyének lekérdezése során</target>
+        <target xml:lang="hu" state="translated">Hiba történt az aktuális földrajzi helyed lekérdezése során</target>
         <note>key: error.during.geolocation.request</note>
         <jms:reference-file>./Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Hiba történt az Ön aktuális földrajzi helyének lekérdezése során</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="9c74a8f5f67dd8e07a2912177bc6de9c9cde6d75" resname="failed.retrieve.google.maps.api">
         <source>Failed to retrieve Google Maps API</source>
@@ -246,9 +255,12 @@
       </trans-unit>
       <trans-unit id="421768b6fafc8049fe02c600c5bc6ecb8a5590c2" resname="image.help">
         <source>Drag and drop your image here or simply click on the buttons and select your image manually.</source>
-        <target xml:lang="hu" state="translated">Húzza ide a képet, vagy kattintson a gombokra és válassza ki a kívánt elemet.</target>
+        <target xml:lang="hu" state="translated">Húzd ide a képet, vagy kattints a gombokra és válaszd ki a kívánt elemet.</target>
         <note>key: image.help</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hu">Húzza ide a képet, vagy kattintson a gombokra és válassza ki a kívánt elemet.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="623d52cead77075eabf73bd844f1870264264f8e" resname="image.name">
         <source>File name</source>
