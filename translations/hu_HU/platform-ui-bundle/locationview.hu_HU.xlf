@@ -602,6 +602,30 @@
         <note>key: sort.section</note>
         <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="52f0c0ed206437d87ca936e0c9b3d4dcf799269d" resname="swapped.location.for.with">
+        <source>Location for "%name%" has been swapped with "%destinationName%"</source>
+        <target xml:lang="hu" state="translated">A %name% le lett cserélve ezzel: "%destinationName%"</target>
+        <note>key: swapped.location.for.with</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationswapplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dcb6122be8a1d8ef5aac7e14ba12d8c9729b91e1" resname="swapping.location.for">
+        <source>Swaping location for "%name%"</source>
+        <target xml:lang="hu" state="translated">%name% lokáció cseréje</target>
+        <note>key: swapping.location.for</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationswapplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5cf5c23d5f73b6493879db84d39bf6a05940242f" resname="updated.sort.method">
+        <source>The sub-items sort method has been correctly updated</source>
+        <target xml:lang="hu" state="translated">Az alsóbb elemek sorrendezése frissítésre került</target>
+        <note>key: updated.sort.method</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="420b18708dcd8de83f92b2cfdeafad23fd6b80a7" resname="updating.sort.method">
+        <source>Updating the sub-items sort method</source>
+        <target xml:lang="hu" state="translated">Alsóbb elemek sorrendezési módjának frissítése</target>
+        <note>key: updating.sort.method</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
