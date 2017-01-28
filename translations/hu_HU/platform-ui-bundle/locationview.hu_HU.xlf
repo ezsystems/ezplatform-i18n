@@ -336,6 +336,188 @@
         <note>key: locationview.locations.subitems</note>
         <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="78f72ceb515315ffb377e812832368f846c12fec" resname="locationview.locations.swap.with.another">
+        <source>Swap the Content item at this location with another</source>
+        <target xml:lang="hu" state="translated">Tartalom elem cseréje az adott lokációban</target>
+        <note>key: locationview.locations.swap.with.another</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8bf047758974255c4a8001ef57927d5b4098e7b1" resname="locationview.locations.visibility">
+        <source>Visibility</source>
+        <target xml:lang="hu" state="translated">Láthatóság</target>
+        <note>key: locationview.locations.visibility</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4994eadd8f401eba51181d4d3c394792e3ab1bbd" resname="locationview.locations.visible">
+        <source>Visible</source>
+        <target xml:lang="hu" state="translated">Látható</target>
+        <note>key: locationview.locations.visible</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5f9c385b31ca9a7d5e7ac7f4bec58bcca1418aa9" resname="locationview.relations.content">
+        <source>Content</source>
+        <target xml:lang="hu" state="translated">Tartalom</target>
+        <note>key: locationview.relations.content</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e9731695b9a4bd13eb374293087855f8ae449be5" resname="locationview.relations.error.loading.related">
+        <source>An error occurred while loading the related content list.</source>
+        <target xml:lang="hu" state="translated">Hiba történt a kapcsolódó tartalmak listájának betöltése során.</target>
+        <note>key: locationview.relations.error.loading.related</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d6b8b44043ab3a73bd6a8a1e1e9079e55a816623" resname="locationview.relations.no.related.content">
+        <source>This content has no related content.</source>
+        <target xml:lang="hu" state="translated">Nincs kapcsolódó tartalom.</target>
+        <note>key: locationview.relations.no.related.content</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0b409a5f5675b6ee03cfaea432d179c2648a36a3" resname="locationview.relations.related.content">
+        <source>Related content</source>
+        <target xml:lang="hu" state="translated">Kapcsolódó tartalom</target>
+        <note>key: locationview.relations.related.content</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8aea3326a700a081784bc0e51f0c91a3583eedc2" resname="locationview.relations.relation.type">
+        <source>Relation type</source>
+        <target xml:lang="hu" state="translated">Kapcsolat típusa</target>
+        <note>key: locationview.relations.relation.type</note>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e23a8cfab8000e4ce2ad014f7b55fb6f777274e4" resname="locationview.retry">
+        <source>Retry</source>
+        <target xml:lang="hu" state="translated">Újra próbál</target>
+        <note>key: locationview.retry</note>
+        <jms:reference-file>./Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="19f2181b9bb473b99dc985187f631876cebf3b35" resname="locationview.versions.archived.versions">
+        <source>Archived versions</source>
+        <target xml:lang="hu" state="translated">Archivált verziók</target>
+        <note>key: locationview.versions.archived.versions</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b7920f94494966e6db92b3937a84d3add836a812" resname="locationview.versions.author">
+        <source>Author</source>
+        <target xml:lang="hu" state="translated">Szerző</target>
+        <note>key: locationview.versions.author</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="47912146dd99224ef2e39362cf689e245bbf604a" resname="locationview.versions.created">
+        <source>Created</source>
+        <target xml:lang="hu" state="translated">Létrehozva</target>
+        <note>key: locationview.versions.created</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="419a69fad078eeaaf43244ac5874bc075affa8dc" resname="locationview.versions.delete.selected.draft">
+        <source>Delete selected draft</source>
+        <target xml:lang="hu" state="translated">Kiválasztott piszkozat törlése</target>
+        <note>key: locationview.versions.delete.selected.draft</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a7bf4de2ddd469229edee5cf992afa5b2099cd92" resname="locationview.versions.draft.under.edit">
+        <source>Draft under edit</source>
+        <target xml:lang="hu" state="translated">Piszkozat szerkesztés alatt</target>
+        <note>key: locationview.versions.draft.under.edit</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="150894069d0cf9666ae05e847cce60805208ed82" resname="locationview.versions.edit.selected.draft">
+        <source>Edit selected draft</source>
+        <target xml:lang="hu" state="translated">Kiválasztott piszkozat szerkesztése</target>
+        <note>key: locationview.versions.edit.selected.draft</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="39ce8495c91402624f5e6729bcdb6bb914a4f9bc" resname="locationview.versions.error.loading.list">
+        <source>An error occurred while loading the versions list.</source>
+        <target xml:lang="hu" state="translated">Hiba történt a verziók listájának betöltése során.</target>
+        <note>key: locationview.versions.error.loading.list</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="06c5892ec7611863b644cdbd638e57d83f88a303" resname="locationview.versions.language">
+        <source>Language</source>
+        <target xml:lang="hu" state="translated">Nyelv</target>
+        <note>key: locationview.versions.language</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5037377a0c7dc615547308d1ed82755e31176c03" resname="locationview.versions.last.saved">
+        <source>Last saved</source>
+        <target xml:lang="hu" state="translated">Utoljára mentett</target>
+        <note>key: locationview.versions.last.saved</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5d85516ece7ea51edb1fcff89135831903ab916b" resname="locationview.versions.loading.archived.list">
+        <source>Loading the archived version list</source>
+        <target xml:lang="hu" state="translated">Az archivált verzió lista betöltése</target>
+        <note>key: locationview.versions.loading.archived.list</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3362319e8e1f3885e6c6e0bfadf77d7c5774f106" resname="locationview.versions.loading.draft.list">
+        <source>Loading the draft list</source>
+        <target xml:lang="hu" state="translated">Piszkozat lista betöltése</target>
+        <note>key: locationview.versions.loading.draft.list</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f5e46b4632894a0a9a2b38eda614267de3e5e229" resname="locationview.versions.loading.published.list">
+        <source>Loading the published version list</source>
+        <target xml:lang="hu" state="translated">Publikált verziók listájának betöltése</target>
+        <note>key: locationview.versions.loading.published.list</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ab40edd4e3d49edea2de3a5e5339cc9527c9ff03" resname="locationview.versions.new.draft.selected.version">
+        <source>New draft based on selected version</source>
+        <target xml:lang="hu" state="translated">Új piszkozat a kiválasztott verzió alapján</target>
+        <note>key: locationview.versions.new.draft.selected.version</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bd9a1564891fdc81516078f86ecdb11dd212e86d" resname="locationview.versions.published.version">
+        <source>Published version</source>
+        <target xml:lang="hu" state="translated">Publikált verzió</target>
+        <note>key: locationview.versions.published.version</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="51b6a4fff074bf24fc4183bc944890cc849ba82d" resname="locationview.versions.remove.selected.archived.version">
+        <source>Remove selected archived version(s)</source>
+        <target xml:lang="hu" state="translated">Kiválasztott archivált verziók eltávolítása</target>
+        <note>key: locationview.versions.remove.selected.archived.version</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="199990450f06a84725d61f91a899166d0d3305c4" resname="locationview.versions.version">
+        <source>Version</source>
+        <target xml:lang="hu" state="translated">Verzió</target>
+        <note>key: locationview.versions.version</note>
+        <jms:reference-file>./Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9f2228ea94634afa4c264cfa0b36b5f08d653298" resname="moved.under">
+        <source>'%name%' has been successfully moved under '%parentName%'</source>
+        <target xml:lang="hu" state="translated">'%name%' sikeresen áthelyezésre került '%parentName%' alatt</target>
+        <note>key: moved.under</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f67a3e91c4d5aa8aac6c72fe7027dfba73eb1a4f" resname="rawcontent.content">
+        <source>Content</source>
+        <target xml:lang="hu" state="translated">Tartalom</target>
+        <note>key: rawcontent.content</note>
+        <jms:reference-file>./Resources/public/templates/rawcontent.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9ec896e824bd9e4181a3a6fbc7514c0dba5dde3d" resname="removed.locations.of">
+        <source>%count% location(s) of "%name%" have been removed</source>
+        <target xml:lang="hu" state="translated">"%name%" %count% lokációja eltávolításra került</target>
+        <note>key: removed.locations.of</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9e5f98b5c3f285bd15fc0a0a23b3a42c2faa47ea" resname="removed.versions.of">
+        <source>%count% version(s) of "%name%" have been removed</source>
+        <target xml:lang="hu" state="translated">"%name%" %count% verziója eltávolításra került</target>
+        <note>key: removed.versions.of</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="acf9100e800a6f1f4f9fa47d8958d512a5729f06" resname="removing.locations.for">
+        <source>Removing locations for "%name%"</source>
+        <target xml:lang="hu" state="translated">%name% lokációk eltávolítása</target>
+        <note>key: removing.locations.for</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
