@@ -96,9 +96,9 @@
         <note>key: discoverybar.search</note>
         <jms:reference-file>./Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="07eab5f1fb10d5c76c8b190ed9aa24f44b8631b7" resname="discoverybar.trash">
+      <trans-unit id="07eab5f1fb10d5c76c8b190ed9aa24f44b8631b7" resname="discoverybar.trash" approved="yes">
         <source>Trash</source>
-        <target xml:lang="fr" state="translated">Corbeille</target>
+        <target xml:lang="fr">Corbeille</target>
         <note>key: discoverybar.trash</note>
         <jms:reference-file>./Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
       </trans-unit>
