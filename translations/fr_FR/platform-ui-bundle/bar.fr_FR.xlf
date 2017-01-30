@@ -75,9 +75,9 @@
         <note>key: createcontentaction.loading</note>
         <jms:reference-file>./Resources/public/templates/createcontentaction.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="7eaf9281f3e62d4f3acf5dac5b34060808c363b9" resname="discoverybar.contenttree">
+      <trans-unit id="7eaf9281f3e62d4f3acf5dac5b34060808c363b9" resname="discoverybar.contenttree" approved="yes">
         <source>Content tree</source>
-        <target xml:lang="fr" state="translated">Arbre de contenu</target>
+        <target xml:lang="fr">Arbre de contenu</target>
         <note>key: discoverybar.contenttree</note>
         <jms:reference-file>./Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
       </trans-unit>
