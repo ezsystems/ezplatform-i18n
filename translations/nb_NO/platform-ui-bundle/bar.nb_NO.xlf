@@ -108,6 +108,93 @@
         <note>key: discoverybar.trash</note>
         <jms:reference-file>./Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="4f05b52ccc249d1a7747839ea78300f80c6011d3" resname="error.hiding.location">
+        <source>Error while hiding location "%id%"</source>
+        <target xml:lang="nb" state="translated">Feil ved forsøk på å skjule plasseringen "%id%"</target>
+        <note>key: error.hiding.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b751b43622c766dad211b5892e401abe17292918" resname="error.occurred.copying">
+        <source>An error occurred while copying your content</source>
+        <target xml:lang="nb" state="translated">Det oppstod en feil ved kopiering av innholdet ditt</target>
+        <note>key: error.occurred.copying</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e3215cb818603963b4e6b318ed9874ba881ca5bb" resname="error.occurred.loading">
+        <source>An error occurred while loading your content</source>
+        <target xml:lang="nb" state="translated">Det oppstod en feil ved lasting av innholdet ditt</target>
+        <note>key: error.occurred.loading</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="310cc7a3978ffe18c9e51dc5038b371f5428f46f" resname="error.revealing.location">
+        <source>Error while revealing location "%id%"</source>
+        <target xml:lang="nb" state="translated">Feil ved forsøk på å vise plasseringen "%id%"</target>
+        <note>key: error.revealing.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e650b8f59c13ba2541db9ae6ac90a1857d88cb54" resname="failed.creating.new.location.for">
+        <source>Creating new location for "%name%" under "%parentName%" failed</source>
+        <target xml:lang="nb" state="translated">Opprette ny plassering for "%name%" under "%parentName%" mislyktes</target>
+        <note>key: failed.creating.new.location.for</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="69136005da4d2304538601244f76e7e68a009049" resname="hidden.location">
+        <source>Location "%id" has been hidden</source>
+        <target xml:lang="nb" state="translated">Plasseringen "%id%" har blitt skjult</target>
+        <note>key: hidden.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="nb">Plasseringen "%id" er skjult</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="a08ae71216dacd8a23c388addb647ecab7e3fcc1" resname="hiding.location">
+        <source>Hiding Location "%id%"</source>
+        <target xml:lang="nb" state="translated">Skjuler plasseringen "%id%"</target>
+        <note>key: hiding.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="892075dad374cd4df8ce78ea7aa1bba5eb5b3244" resname="location.created">
+        <source>New location for "%name%" has been successfully created</source>
+        <target xml:lang="nb" state="translated">Ny plassering for "%name%" har blitt opprettet</target>
+        <note>key: location.created</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9ed496cc88a3a2f48a33464deb00f217d41803ca" resname="locations.created">
+        <source>%count% new locations for "%name%" have been successfully created</source>
+        <target xml:lang="nb" state="translated">%count% nye plasseringer for "%name%" har blitt opprettet</target>
+        <note>key: locations.created</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0303d73c8f63f2d6b9f34ac721f6622214ad458d" resname="revealed.location">
+        <source>Location "%id%" has been revealed</source>
+        <target xml:lang="nb" state="translated">Plasseringen "%id%" er ikke lenger skjult</target>
+        <note>key: revealed.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="67b19056cc5015b057182c283116f05c69507d22" resname="revealing.location">
+        <source>Revealing Location "%id%"</source>
+        <target xml:lang="nb" state="translated">Vis plasseringen "%id%"</target>
+        <note>key: revealing.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7fc31d0ca90043a53df1a70b6d9d84c8c4fddf30" resname="select.a.language.for.new.translation">
+        <source>Select a language for your new translation:</source>
+        <target xml:lang="nb" state="translated">Velg et språk for din nye oversettelse:</target>
+        <note>key: select.a.language.for.new.translation</note>
+        <jms:reference-file>./Resources/public/js/views/actions/ez-translateactionview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="801849651d85606aa04da1b4ea58fad208793e3a" resname="select.location.to.copy">
+        <source>Select the location you want to copy your content into</source>
+        <target xml:lang="nb" state="translated">Velg plasseringen du vil kopiere innholdet til</target>
+        <note>key: select.location.to.copy</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="303fa8448e329ecb88341279a1a17b044549270a" resname="select.location.to.create.new.location">
+        <source>Select the location where you want to create new location</source>
+        <target xml:lang="nb" state="translated">Velg hvor du vil opprette en ny plassering</target>
+        <note>key: select.location.to.create.new.location</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit">
         <source>Edit</source>
         <target xml:lang="nb" state="translated">Rediger</target>
