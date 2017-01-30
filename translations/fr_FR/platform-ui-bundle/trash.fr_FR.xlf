@@ -24,6 +24,12 @@
         <note>key: minimize</note>
         <jms:reference-file>./Resources/public/js/views/ez-trashbarview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="6dcfe1a862453282cc8de9d38d2468fa7bebd7c9" resname="restore.selected">
+        <source>Restore selected</source>
+        <target xml:lang="fr" state="translated">Restaurer la sélection</target>
+        <note>key: restore.selected</note>
+        <jms:reference-file>./Resources/public/js/views/ez-trashbarview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="7883128cdfb813826271abe90b3a1f3190833ce6" resname="trash.empty">
         <source>The trash is empty</source>
         <target xml:lang="fr" state="translated">La corbeille est vide</target>
@@ -40,6 +46,12 @@
         <source>Name</source>
         <target xml:lang="fr" state="translated">Nom</target>
         <note>key: trash.name.label</note>
+        <jms:reference-file>./Resources/public/templates/trash.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9575bcbf8b3c77d77aaae07deedce83f809818f5" resname="trash.original.location.label">
+        <source>Original Location</source>
+        <target xml:lang="fr" state="translated">Emplacement original</target>
+        <note>key: trash.original.location.label</note>
         <jms:reference-file>./Resources/public/templates/trash.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="ca702addebbb7f19ce7adc7b2d990c2abcbe73dc" resname="trash.type.label">
