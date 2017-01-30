@@ -26,9 +26,9 @@
         <source>section.form.save</source>
         <target xml:lang="fr" state="translated">Enregistrer</target>
       </trans-unit>
-      <trans-unit id="e61b7d6232fcbd424e1a4b030475be25">
+      <trans-unit id="e61b7d6232fcbd424e1a4b030475be25" approved="yes">
         <source>section.form.delete</source>
-        <target xml:lang="fr" state="translated">Supprimer</target>
+        <target xml:lang="fr">Supprimer</target>
       </trans-unit>
     </body>
   </file>
