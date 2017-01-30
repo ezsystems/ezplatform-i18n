@@ -104,9 +104,9 @@
         <note>key: section.identifier.label</note>
         <jms:reference-file line="32">/../../../../.././Resources/views/Section/view.html.twig</jms:reference-file>
       </trans-unit>
-      <trans-unit id="1f9b6e37416ff607de9d4fa280dce2f734ea622c" resname="section.list">
+      <trans-unit id="1f9b6e37416ff607de9d4fa280dce2f734ea622c" resname="section.list" approved="yes">
         <source>Sections</source>
-        <target xml:lang="fr" state="translated">Sections</target>
+        <target xml:lang="fr">Sections</target>
         <note>key: section.list</note>
         <jms:reference-file line="14">/../../../../.././Resources/views/Dashboard/dashboard.html.twig</jms:reference-file>
         <jms:reference-file line="10">/../../../../.././Resources/views/Section/create.html.twig</jms:reference-file>
