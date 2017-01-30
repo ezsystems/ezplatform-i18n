@@ -6,32 +6,61 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="0f6a24fa439e992bc7919aa2d949c05077899adc" resname="browse">
+        <source>Browse</source>
+        <target xml:lang="fr" state="translated">Parcourir</target>
+        <note>key: browse</note>
+        <jms:reference-file>./Resources/public/js/views/universaldiscovery/ez-universaldiscoverybrowseview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="724b2384805ea6aa150d57d3d870d50b1d661d8b" resname="universaldiscovery.cancel">
+        <source>Cancel</source>
+        <target xml:lang="fr" state="translated">Annuler</target>
+        <note>key: universaldiscovery.cancel</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="39b27d53e4d40abdf72543f7dc720f0ad7dfe34c" resname="universaldiscovery.confirm.selection">
+        <source>Confirm selection</source>
+        <target xml:lang="fr" state="translated">Confirmer la sélection</target>
+        <note>key: universaldiscovery.confirm.selection</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5d385d494274d016769564a3bdf95332896d62af" resname="universaldiscovery.creation.date">
+        <source>Creation Date</source>
+        <target xml:lang="fr" state="translated">Date de création</target>
+        <note>key: universaldiscovery.creation.date</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b191a7509309ed153691a5ea5a97d2dd2bcfd88d" resname="universaldiscovery.last.modified">
+        <source>Last Modified</source>
+        <target xml:lang="fr" state="translated">Dernière modification</target>
+        <note>key: universaldiscovery.last.modified</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c73096f8a35429230e9496f6f838884f76102f7d" resname="universaldiscovery.provide.search.text">
+        <source>Please provide search text</source>
+        <target xml:lang="fr" state="translated">Veuillez fournir le texte de recherche</target>
+        <note>key: universaldiscovery.provide.search.text</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d8a3ebd791267b179810d3c27bc1b78e566aa385" resname="universaldiscovery.search">
+        <source>Search</source>
+        <target xml:lang="fr" state="translated">Rechercher</target>
+        <note>key: universaldiscovery.search</note>
+        <jms:reference-file>./Resources/public/js/views/universaldiscovery/ez-universaldiscoverysearchview.js</jms:reference-file>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b69553576460fe7b356aa72e9c702109f4dd5f4" resname="universaldiscovery.selected.item">
+        <source>Selected item</source>
+        <target xml:lang="fr" state="translated">Élément sélectionné</target>
+        <note>key: universaldiscovery.selected.item</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a3767d9200cdb373450e1ec075431a49b2bcd380" resname="universaldiscovery.translations">
+        <source>Translations</source>
+        <target xml:lang="fr" state="translated">Traductions</target>
+        <note>key: universaldiscovery.translations</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
