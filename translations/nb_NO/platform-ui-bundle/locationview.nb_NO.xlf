@@ -78,6 +78,18 @@
         <note>key: failed.creating.draft.for.based.on</note>
         <jms:reference-file>./Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="a35316336667d1d2661322af8daeb7f76c0a7743" resname="failed.deleting.content">
+        <source>An error occurred when deleting '%name%'</source>
+        <target xml:lang="nb" state="translated">Det oppstod en feil ved sletting av '%name%'</target>
+        <note>key: failed.deleting.content</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f569143536f9f8e4e698086f4d85428661a61a37" resname="failed.moving">
+        <source>An error occurred while moving your content</source>
+        <target xml:lang="nb" state="translated">Det oppstod en feil ved flytting av innholdet ditt</target>
+        <note>key: failed.moving</note>
+        <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e0be1422e1af400879a6716220eabc9ad4fca29e" resname="locationview.details.ascending">
         <source>Ascending</source>
         <target xml:lang="nb" state="translated">Stigende</target>
