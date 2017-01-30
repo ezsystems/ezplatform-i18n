@@ -90,9 +90,9 @@
           <target xml:lang="fr">Réduire</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="55ba03a687a73559ef8a2d4e1ff935b47ddc5859" resname="discoverybar.search">
+      <trans-unit id="55ba03a687a73559ef8a2d4e1ff935b47ddc5859" resname="discoverybar.search" approved="yes">
         <source>Search</source>
-        <target xml:lang="fr" state="translated">Rechercher</target>
+        <target xml:lang="fr">Rechercher</target>
         <note>key: discoverybar.search</note>
         <jms:reference-file>./Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
       </trans-unit>
