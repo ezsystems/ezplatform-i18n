@@ -100,6 +100,12 @@
         <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
         <jms:reference-file>./Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="c5ef10db9a6a48b85cd15ce1050f42933a4305ae" resname="remove.this.block">
+        <source>Remove this block</source>
+        <target xml:lang="fr" state="translated">Supprimer ce bloc</target>
+        <note>key: remove.this.block</note>
+        <jms:reference-file>./Resources/public/js/alloyeditor/buttons/blockremove.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="d27a1f11771200949714b1af99f048a416f5d6f4" resname="right">
         <source>Right</source>
         <target xml:lang="fr" state="translated">Droite</target>
