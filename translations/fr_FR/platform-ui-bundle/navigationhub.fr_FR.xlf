@@ -36,6 +36,12 @@
         <note>key: navigationhub.language.list</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="b3ae3658840e3e375d5c88eb4abc96f3efe0ade8" resname="navigationhub.logo.ez">
+        <source>Logo eZ</source>
+        <target xml:lang="fr" state="translated">Logo eZ</target>
+        <note>key: navigationhub.logo.ez</note>
+        <jms:reference-file>./Resources/public/templates/navigationhub.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="7bd6ca1c2f35a3578ca48a6ef671f4b370a4f93a" resname="navigationhub.media.library" approved="yes">
         <source>Media library</source>
         <target xml:lang="fr">Médiathèque</target>
