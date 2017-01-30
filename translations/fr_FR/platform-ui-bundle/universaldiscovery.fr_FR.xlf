@@ -12,6 +12,12 @@
         <note>key: browse</note>
         <jms:reference-file>./Resources/public/js/views/universaldiscovery/ez-universaldiscoverybrowseview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="eb49b4ba3c7e1ef3ac5b6d8f82f8095bed616989" resname="no.result">
+        <source>No results were found while searching for "%searchText%".</source>
+        <target xml:lang="fr" state="translated">Aucun résultat n'a été trouvé pour "%searchText%".</target>
+        <note>key: no.result</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="724b2384805ea6aa150d57d3d870d50b1d661d8b" resname="universaldiscovery.cancel">
         <source>Cancel</source>
         <target xml:lang="fr" state="translated">Annuler</target>
@@ -36,6 +42,18 @@
         <note>key: universaldiscovery.last.modified</note>
         <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="6f3ff5ad95f00a897d624e534d2479070c722226" resname="universaldiscovery.name">
+        <source>Name</source>
+        <target xml:lang="fr" state="translated">Nom</target>
+        <note>key: universaldiscovery.name</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="16db03c0f5393377ce31c398b1b7f797a749516a" resname="universaldiscovery.preview">
+        <source>Preview</source>
+        <target xml:lang="fr" state="translated">Aperçu</target>
+        <note>key: universaldiscovery.preview</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="c73096f8a35429230e9496f6f838884f76102f7d" resname="universaldiscovery.provide.search.text">
         <source>Please provide search text</source>
         <target xml:lang="fr" state="translated">Veuillez fournir le texte de recherche</target>
@@ -49,6 +67,12 @@
         <jms:reference-file>./Resources/public/js/views/universaldiscovery/ez-universaldiscoverysearchview.js</jms:reference-file>
         <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="f223bfebe47730c110cca9599db5deb546ab872f" resname="universaldiscovery.select.from.left">
+        <source>Select a content item from the left</source>
+        <target xml:lang="fr" state="translated">Sélectionner un élément de contenu sur la gauche</target>
+        <note>key: universaldiscovery.select.from.left</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="2b69553576460fe7b356aa72e9c702109f4dd5f4" resname="universaldiscovery.selected.item">
         <source>Selected item</source>
         <target xml:lang="fr" state="translated">Élément sélectionné</target>
@@ -60,6 +84,12 @@
         <target xml:lang="fr" state="translated">Traductions</target>
         <note>key: universaldiscovery.translations</note>
         <jms:reference-file>./Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8b825fd3563931192778181dece1a37e0930073f" resname="universaldiscovery.type">
+        <source>Type</source>
+        <target xml:lang="fr" state="translated">Type</target>
+        <note>key: universaldiscovery.type</note>
+        <jms:reference-file>./Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
     </body>
   </file>
