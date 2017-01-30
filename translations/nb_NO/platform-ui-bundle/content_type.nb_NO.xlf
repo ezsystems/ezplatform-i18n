@@ -29,11 +29,29 @@
         <jms:reference-file line="10">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
         <jms:reference-file line="15">/../../../../.././Resources/views/Dashboard/dashboard.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability">
+        <source>Default availability in primary language, if translation is absent</source>
+        <target xml:lang="nb" state="translated">Standard tilgjengelighet i primærspråk, hvis oversettelse mangler</target>
+        <note>key: content_type.default_availability</note>
+        <jms:reference-file line="75">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help">
+        <source>Default availability in primary language, if translation is absent</source>
+        <target xml:lang="nb" state="translated">Standard tilgjengelighet i primærspråk, hvis oversettelse mangler</target>
+        <note>key: content_type.default_availability.help</note>
+        <jms:reference-file line="76">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="d14799b2ac8854ab3f0bb9976258c3db39213d09" resname="content_type.default_availability.value">
         <source>{0} Not available|{1} Available</source>
         <target xml:lang="nb" state="translated">{0} ikke tilgjengelig |{1} tilgjengelig</target>
         <note>key: content_type.default_availability.value</note>
         <jms:reference-file line="78">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting">
+        <source>Default property for sorting chilren</source>
+        <target xml:lang="nb" state="translated">Standard kriterie for sortering av underelementer</target>
+        <note>key: content_type.default_children_sorting</note>
+        <jms:reference-file line="64">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
         <source>Default sort order</source>
@@ -157,6 +175,20 @@
         <jms:reference-file line="44">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="29">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="8d1c4e01ea895221eda65f6d840b29c4cfe932f2" resname="content_type.is_in_use">
+        <source>The content type cannot be deleted because it has content items, or because you don't have permission.</source>
+        <target xml:lang="nb" state="translated">Innholdstypen kan ikke slettes fordi det finnes innhold av denne typen, eller fordi du ikke har tillatelse.</target>
+        <note>key: content_type.is_in_use</note>
+        <jms:reference-file line="150">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="59">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="de2ea38b0604e5c021452e0eef43c2cc9494a2b7" resname="content_type.last_modified">
+        <source>Last modified: %date% by %modifier%</source>
+        <target xml:lang="nb" state="translated">Sist endret: %date% av %modifier%</target>
+        <note>key: content_type.last_modified</note>
+        <jms:reference-file line="33">/../../../../.././Resources/views/ContentType/update_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="30">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="d7155c791bcef0de802e2194552a2eee56d3b69e" resname="content_type.metadata.title">
         <source>Global properties</source>
         <target xml:lang="nb" state="translated">Globale egenskaper</target>
@@ -175,6 +207,42 @@
         <note>key: content_type.name</note>
         <jms:reference-file line="40">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="28">/../../../../.././Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9e9628fc59643f3167ebe81dfed3e40eecd281c9" resname="content_type.name_schema">
+        <source>Content name schema</source>
+        <target xml:lang="nb" state="translated">Format for innholdsnavn</target>
+        <note>key: content_type.name_schema</note>
+        <jms:reference-file line="52">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b771fde80a8c0b6981ab81a9408b4a800f92e38d" resname="content_type.notification.deleted">
+        <source>The Content type "%contentTypeName%" was successfully deleted.</source>
+        <target xml:lang="nb" state="translated">Innholdstypen "%contentTypeName%" ble slettet.</target>
+        <note>key: content_type.notification.deleted</note>
+        <jms:reference-file line="346">/../../../../.././Controller/ContentTypeController.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="974093fc35f4b06c80d9cf523f125cbc61beaa78" resname="content_type.notification.draft_removed">
+        <source>The Content type draft was successfully removed.</source>
+        <target xml:lang="nb" state="translated">Utkastet til innholdstypen er fjernet.</target>
+        <note>key: content_type.notification.draft_removed</note>
+        <jms:reference-file line="96">/../../../../.././Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="35f407c7c55275cd9046b6f9e9e77913b9b08e28" resname="content_type.notification.draft_updated">
+        <source>The Content type draft was successfully updated.</source>
+        <target xml:lang="nb" state="translated">Utkastet til innholdstypen er oppdatert.</target>
+        <note>key: content_type.notification.draft_updated</note>
+        <jms:reference-file line="60">/../../../../.././Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ceffda5dc773e1742f8fc336402cdc506774d2c0" resname="content_type.notification.published">
+        <source>The Content type draft was successfully updated and published. Related Content has also been updated.</source>
+        <target xml:lang="nb" state="translated">Utkastet til innholdstypen er oppdatert og publisert. Relatert innhold er også oppdatert.</target>
+        <note>key: content_type.notification.published</note>
+        <jms:reference-file line="72">/../../../../.././Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
+        <source>URL alias name pattern</source>
+        <target xml:lang="nb" state="translated">Mønster for navn på URL-alias</target>
+        <note>key: content_type.url_alias_schema</note>
+        <jms:reference-file line="56">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description">
         <source>Description</source>
