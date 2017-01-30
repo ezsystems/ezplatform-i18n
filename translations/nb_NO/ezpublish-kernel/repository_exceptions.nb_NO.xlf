@@ -161,6 +161,60 @@
         <note>key: Provided content type does not contain ezuser field type</note>
         <jms:reference-file line="24">/../../../../../eZ/Publish/Core/Base/Exceptions/NoUserFieldContentValidationException.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="c13178e601c4bf79ad9ef57efe468ed438a9b167" resname="Relation is not of type COMMON">
+        <source>Relation is not of type COMMON</source>
+        <target xml:lang="nb" state="translated">Relasjonen er ikke av typen COMMON</target>
+        <note>key: Relation is not of type COMMON</note>
+        <jms:reference-file line="645">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8da63ffae0f9707c46ca02d66e9074e7f9f538d6" resname="Relation of type COMMON can only be added to drafts">
+        <source>Relation of type COMMON can only be added to drafts</source>
+        <target xml:lang="nb" state="translated">Relasjon av typen COMMON kan bare legges til på utkast</target>
+        <note>key: Relation of type COMMON can only be added to drafts</note>
+        <jms:reference-file line="684">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="388dae35f493b4e06e6458455f4837b1691fd72b" resname="Relation of type COMMON can only be removed from drafts">
+        <source>Relation of type COMMON can only be removed from drafts</source>
+        <target xml:lang="nb" state="translated">Relasjon av typen COMMON kan bare fjernes fra utkast</target>
+        <note>key: Relation of type COMMON can only be removed from drafts</note>
+        <jms:reference-file line="649">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="30ea10f44d07a5752ed9c57a8458b3579b8dd421" resname="Relation of type COMMON to selected destination content ID already exists">
+        <source>Relation of type COMMON to selected destination content ID already exists</source>
+        <target xml:lang="nb" state="translated">Relasjon av typen COMMON til valgt innholds-ID eksisterer allerede</target>
+        <note>key: Relation of type COMMON to selected destination content ID already exists</note>
+        <jms:reference-file line="696">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="09683b2a73d28421548e01bfbd6cc468095fa29d" resname="User does not have access to '%function%' '%module%'">
+        <source>User does not have access to '%function%' '%module%'</source>
+        <target xml:lang="nb" state="translated">Brukeren har ikke tilgang til '%function%' '%module%'</target>
+        <note>key: User does not have access to '%function%' '%module%'</note>
+        <jms:reference-file line="38">/../../../../../eZ/Publish/Core/Base/Exceptions/UnauthorizedException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="649224015306dff4831eceb63d49e66d7c0c4f1b" resname="User does not have access to '%function%' '%module%' with: %with%'">
+        <source>User does not have access to '%function%' '%module%' with: %with%'</source>
+        <target xml:lang="nb" state="translated">Brukeren har ikke tilgang til '%function%' '%module%' med: %with%'</target>
+        <note>key: User does not have access to '%function%' '%module%' with: %with%'</note>
+        <jms:reference-file line="42">/../../../../../eZ/Publish/Core/Base/Exceptions/UnauthorizedException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dfb77818edfca3ee72ed24e16c643a84203ecfa7" resname="Version in status PUBLISHED cannot be deleted">
+        <source>Version in status PUBLISHED cannot be deleted</source>
+        <target xml:lang="nb" state="translated">Versjon med status PUBLISERT kan ikke slettes</target>
+        <note>key: Version in status PUBLISHED cannot be deleted</note>
+        <jms:reference-file line="354">/../../../../../eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f80f674916004d986500fe18b36ff55286191490" resname="expected value to be of type '%expectedType%'">
+        <source>expected value to be of type '%expectedType%'</source>
+        <target xml:lang="nb" state="translated">forventet verdi av type '%expectedType%'</target>
+        <note>key: expected value to be of type '%expectedType%'</note>
+        <jms:reference-file line="31">/../../../../../eZ/Publish/Core/Base/Exceptions/InvalidArgumentType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5f722d4df65d72e23fbf62ea8a5adadaf249413c" resname="expected value to be of type '%expectedType%', got '%actualType%'">
+        <source>expected value to be of type '%expectedType%', got '%actualType%'</source>
+        <target xml:lang="nb" state="translated">forventet verdi av type '%expectedType%', fikk '%actualType%'</target>
+        <note>key: expected value to be of type '%expectedType%', got '%actualType%'</note>
+        <jms:reference-file line="33">/../../../../../eZ/Publish/Core/Base/Exceptions/InvalidArgumentType.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
