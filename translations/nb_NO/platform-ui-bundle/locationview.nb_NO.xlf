@@ -66,6 +66,18 @@
         <note>key: deleting.content</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="2b962f456b0226a8cc71d12c14f72fa5e7672f53" resname="failed.changing.main.location.of">
+        <source>Changing main location of "%name%" failed</source>
+        <target xml:lang="nb" state="translated">Endring av hovedplasseringen til "%name%" mislyktes</target>
+        <note>key: failed.changing.main.location.of</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="abde0bee2ae04d9f8c4d588cb25a8667ba96d67e" resname="failed.creating.draft.for.based.on">
+        <source>Creating new draft for "%name%" based on version %version% failed.</source>
+        <target xml:lang="nb" state="translated">Opprette nytt utkast for "%name%" basert på versjon %version% mislyktes.</target>
+        <note>key: failed.creating.draft.for.based.on</note>
+        <jms:reference-file>./Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e0be1422e1af400879a6716220eabc9ad4fca29e" resname="locationview.details.ascending">
         <source>Ascending</source>
         <target xml:lang="nb" state="translated">Stigende</target>
