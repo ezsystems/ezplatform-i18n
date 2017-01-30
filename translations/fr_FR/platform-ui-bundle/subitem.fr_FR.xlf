@@ -6,6 +6,18 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="0bb9f90672f5fc639172ca0404b04581207c530e" resname="grid.view">
+        <source>Grid view</source>
+        <target xml:lang="fr" state="translated">Grille</target>
+        <note>key: grid.view</note>
+        <jms:reference-file>./Resources/public/js/views/subitem/ez-subitemgridview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="22d2dc7a032551838259f398cd5b8dd8e260d17e" resname="list.view">
+        <source>List view</source>
+        <target xml:lang="fr" state="translated">Liste</target>
+        <note>key: list.view</note>
+        <jms:reference-file>./Resources/public/js/views/subitem/ez-subitemlistmoreview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="d5c97668af30fef2819f3f52add12af828cbe9b3" resname="subitem.no.subitem">
         <source>This location has no sub-item.</source>
         <target xml:lang="fr" state="translated">Cet emplacement n'a pas de sous-éléments.</target>
