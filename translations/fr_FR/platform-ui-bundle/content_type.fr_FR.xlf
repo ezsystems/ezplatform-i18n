@@ -86,6 +86,12 @@
         <note>key: content_type.group.edit.title</note>
         <jms:reference-file line="5">/../../../../.././Resources/views/ContentType/edit_content_type_group.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3aa78eef31f8d83f3229f888579149da40bb4126" resname="content_type.group.id">
+        <source>ID</source>
+        <target xml:lang="fr" state="translated">ID du type de contenu</target>
+        <note>key: content_type.group.id</note>
+        <jms:reference-file line="26">/../../../../.././Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="d09d4d7f65b1acd604c44c85d08f82fb55fcb880" resname="content_type.group.list" approved="yes">
         <source>Content type groups</source>
         <target xml:lang="fr">Groupes de type de contenu</target>
