@@ -12,6 +12,12 @@
         <note>key: role.cancel</note>
         <jms:reference-file line="97">lib/Form/Type/Role/PolicyType.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="2899eca602b4735e6d40c6602fe539474fcbe76d" resname="role.identifier">
+        <source>Name</source>
+        <target xml:lang="fr" state="translated">Nom</target>
+        <note>key: role.identifier</note>
+        <jms:reference-file line="44">lib/Form/Type/Role/RoleUpdateType.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
