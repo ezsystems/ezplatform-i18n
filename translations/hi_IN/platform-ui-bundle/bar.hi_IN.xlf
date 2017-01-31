@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file date="2016-11-29T11:49:06Z" source-language="en" target-language="hi" datatype="plaintext" original="not.available">
+  <file date="2017-01-26T14:52:02Z" source-language="en" target-language="hi" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -10,7 +10,7 @@
         <source>Copy</source>
         <target xml:lang="hi" state="translated">कॉपी</target>
         <note>key: actionbar.copy</note>
-        <jms:reference-file>./Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
         <alt-trans>
           <target xml:lang="hi">कापी</target>
         </alt-trans>
@@ -19,13 +19,13 @@
         <source>Create</source>
         <target xml:lang="hi" state="translated">बनाएँ</target>
         <note>key: actionbar.createContent</note>
-        <jms:reference-file>./Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="be3348d5545fb64e8506ae64e667dac048bbc97c" resname="actionbar.delete">
         <source>Delete</source>
         <target xml:lang="hi" state="translated">मिटाए</target>
         <note>key: actionbar.delete</note>
-        <jms:reference-file>./Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
         <alt-trans>
           <target xml:lang="hi">हटाएँ</target>
         </alt-trans>
@@ -34,7 +34,7 @@
         <source>Search</source>
         <target xml:lang="hi" state="translated">खोज</target>
         <note>key: discoverybar.search</note>
-        <jms:reference-file>./Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
       </trans-unit>
     </body>
   </file>
