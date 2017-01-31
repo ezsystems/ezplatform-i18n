@@ -33,6 +33,20 @@
         <jms:reference-file>Resources/public/templates/fields/view/user.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/fields/view/xmltext.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="b6c23de67df46c0c13d509f9132dc9dc1477c4cf" resname="fieldview.retry">
+        <source>Retry</source>
+        <target xml:lang="fr" state="translated">Rééssayer</target>
+        <note>key: fieldview.retry</note>
+        <jms:reference-file>Resources/public/templates/fields/view/image.hbt</jms:reference-file>
+        <jms:reference-file>Resources/public/templates/fields/view/relation.hbt</jms:reference-file>
+        <jms:reference-file>Resources/public/templates/fields/view/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9b682841001f88b881dff78dc5f0d7dff0b71330" resname="fieldview.yes">
+        <source>yes</source>
+        <target xml:lang="fr" state="translated">oui</target>
+        <note>key: fieldview.yes</note>
+        <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
