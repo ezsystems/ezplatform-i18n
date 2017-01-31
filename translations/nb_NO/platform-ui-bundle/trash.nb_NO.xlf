@@ -36,6 +36,42 @@
         <note>key: error.restoring.item</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="034c33d9dc24f606046bc88959214744dcb84993" resname="failed.load.content.type">
+        <source>Failed to load trash item Content Type name</source>
+        <target xml:lang="nb" state="translated">Kan ikke laste inn navnet på innholdstypen</target>
+        <note>key: failed.load.content.type</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="161c33f86dcd9d9116d020cbc5566086e8bb4c8c" resname="failed.load.parent.location.path">
+        <source>Failed to load parent location's path</source>
+        <target xml:lang="nb" state="translated">Kan ikke laste inn stien til overordnet plassering</target>
+        <note>key: failed.load.parent.location.path</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e4070d79791c331da86fcb230fec53235b1519ad" resname="items.permanently.deleted">
+        <source>%count items were permanently deleted.</source>
+        <target xml:lang="nb" state="translated">%count elementer er slettet permanent.</target>
+        <note>key: items.permanently.deleted</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0c3639c10994d885f997d2403c4fb64b10a118b3" resname="minimize">
+        <source>Minimize</source>
+        <target xml:lang="nb" state="translated">Minimer</target>
+        <note>key: minimize</note>
+        <jms:reference-file>Resources/public/js/views/ez-trashbarview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6dcfe1a862453282cc8de9d38d2468fa7bebd7c9" resname="restore.selected">
+        <source>Restore selected</source>
+        <target xml:lang="nb" state="translated">Gjenopprett valgte</target>
+        <note>key: restore.selected</note>
+        <jms:reference-file>Resources/public/js/views/ez-trashbarview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="975936b6f9637047ab09d9e23550ee47e44a1308" resname="restoring.trash.items">
+        <source>Restoring trash item(s)</source>
+        <target xml:lang="nb" state="translated">Gjenoppretter element(er) fra papirkurven</target>
+        <note>key: restoring.trash.items</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
