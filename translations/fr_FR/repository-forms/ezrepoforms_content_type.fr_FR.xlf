@@ -12,6 +12,12 @@
         <note>key: content_type.default_sort_field</note>
         <jms:reference-file line="103">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description" approved="yes">
+        <source>Description</source>
+        <target xml:lang="fr">Description</target>
+        <note>key: content_type.description</note>
+        <jms:reference-file line="83">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
