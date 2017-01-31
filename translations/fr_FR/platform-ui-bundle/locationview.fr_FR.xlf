@@ -165,6 +165,12 @@
         <note>key: sort.name</note>
         <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="668f8150c4acd0a0c8075de8b794639b8b4a6519" resname="sort.path">
+        <source>Location path</source>
+        <target xml:lang="fr" state="translated">Chemin de l'emplacement</target>
+        <note>key: sort.path</note>
+        <jms:reference-file>./Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="bcb9183148c577a8a232c08847dff0c1647e62e7" resname="sort.priority">
         <source>Priority</source>
         <target xml:lang="fr" state="translated">Priorité</target>
