@@ -46,10 +46,13 @@
         <target xml:lang="pt-PT">Float</target>
         <note>key: ezfloat.name</note>
       </trans-unit>
-      <trans-unit id="fcabb29fdb097d916c88328daad461c1ea765121" resname="ezgmaplocation.name">
+      <trans-unit id="fcabb29fdb097d916c88328daad461c1ea765121" resname="ezgmaplocation.name" approved="yes">
         <source>Map location</source>
-        <target xml:lang="pt-PT" state="translated">Localização de mapa</target>
+        <target xml:lang="pt-PT">Localização do mapa</target>
         <note>key: ezgmaplocation.name</note>
+        <alt-trans>
+          <target xml:lang="pt-PT">Localização de mapa</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="6300f890f00d9999466b4abc478857b0d29022b4" resname="ezimage.name" approved="yes">
         <source>Image</source>
@@ -86,9 +89,9 @@
         <target xml:lang="pt-PT">Relacções de conteúdo (múltiplas)</target>
         <note>key: ezobjectrelationlist.name</note>
       </trans-unit>
-      <trans-unit id="6ce4370c413c1a478e8e3c0a072a340584338b84" resname="ezpage.name">
+      <trans-unit id="6ce4370c413c1a478e8e3c0a072a340584338b84" resname="ezpage.name" approved="yes">
         <source>Layout</source>
-        <target xml:lang="pt-PT" state="translated">Layout</target>
+        <target xml:lang="pt-PT">Layout</target>
         <note>key: ezpage.name</note>
       </trans-unit>
       <trans-unit id="3accdb01fd6ce79f38be1b4622659b61be77b608" resname="ezprice.name" approved="yes">
@@ -96,9 +99,9 @@
         <target xml:lang="pt-PT">Preço</target>
         <note>key: ezprice.name</note>
       </trans-unit>
-      <trans-unit id="213da4efa5baa8b47c34dc4b645df7115d07d66e" resname="ezrichtext.name">
+      <trans-unit id="213da4efa5baa8b47c34dc4b645df7115d07d66e" resname="ezrichtext.name" approved="yes">
         <source>Rich text</source>
-        <target xml:lang="pt-PT" state="translated">Texto rico</target>
+        <target xml:lang="pt-PT">Texto rico</target>
         <note>key: ezrichtext.name</note>
       </trans-unit>
       <trans-unit id="3229c3fc41a4af84f0fd1636f0678aac770359bc" resname="ezselection.name" approved="yes">
