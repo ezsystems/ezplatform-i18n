@@ -1,48 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="file.ext" target-language="fr">
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file date="2017-01-26T15:03:32Z" source-language="en" target-language="fr" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
     <body>
-      <trans-unit id="eb732abfbae397aca2742d95e9d0be74">
-        <source>content.create_button</source>
-        <target xml:lang="fr" state="translated">Créer</target>
-      </trans-unit>
-      <trans-unit id="feebb073e498ff5b9166f640554eeb60">
-        <source>content.edit_button</source>
-        <target xml:lang="fr" state="translated">Editer</target>
-      </trans-unit>
-      <trans-unit id="f51270da268bd8eda1a5d49f51cf93f6">
-        <source>content.publish_button</source>
-        <target xml:lang="fr" state="translated">Publier</target>
-      </trans-unit>
-      <trans-unit id="39a661284481408be917e7c121e7ab1d">
-        <source>content.save_button</source>
-        <target xml:lang="fr" state="translated">Enregistrer le brouillon</target>
-      </trans-unit>
-      <trans-unit id="6a0d486e8aa479d2af5f67112f464e20">
-        <source>content.cancel_button</source>
-        <target xml:lang="fr" state="translated">Annuler</target>
-      </trans-unit>
-      <trans-unit id="e93fea1c0536d108e24b150ac03c2677">
-        <source>content.field.non_editable</source>
-        <target xml:lang="fr" state="translated">Ce champ n'est pas éditable.</target>
-      </trans-unit>
-      <!-- FieldTypes -->
-      <trans-unit id="7b0583136e2275a809b31ae90a455e59">
-        <source>content.field_type.ezuser.username</source>
-        <target xml:lang="fr" state="translated">Nom d'utilisateur:</target>
-      </trans-unit>
-      <trans-unit id="8acd3d9a24e181ea0e82ad298422fdc7">
-        <source>content.field_type.ezuser.password</source>
-        <target xml:lang="fr" state="translated">Mot de passe:</target>
-      </trans-unit>
-      <trans-unit id="fd2c89db5fdb5a32b85b4813a80f0c35">
-        <source>content.field_type.ezuser.password_confirm</source>
-        <target xml:lang="fr" state="translated">Confirmation du mot de passe:</target>
-      </trans-unit>
-      <trans-unit id="94f3c48fbdb6323962103bebf6575c30">
-        <source>content.field_type.ezuser.email</source>
-        <target xml:lang="fr" state="translated">E-mail:</target>
-      </trans-unit>
+      
+      
+      
+      
+      
+      
+      
+      
+      
     </body>
   </file>
 </xliff>
