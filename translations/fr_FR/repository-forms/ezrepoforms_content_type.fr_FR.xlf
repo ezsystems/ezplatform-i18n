@@ -2,6 +2,10 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file source-language="en" datatype="plaintext" original="file.ext" target-language="fr">
     <body>
+      <trans-unit id="d8ed8632f53a803e8c0b7686aca78dfd">
+        <source>content_type.delete</source>
+        <target xml:lang="fr" state="translated">Supprimer</target>
+      </trans-unit>
       <!-- Field definition -->
       <!-- Errors -->
       <!-- ContentType groups -->
