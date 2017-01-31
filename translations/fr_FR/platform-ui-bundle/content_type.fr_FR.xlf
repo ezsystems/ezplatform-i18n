@@ -12,6 +12,12 @@
         <note>key: content_type.container</note>
         <jms:reference-file line="60">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="f1312e397c7aa2e8e21be7f65161c6a99b728d3e" resname="content_type.content.title">
+        <source>Content field definitions</source>
+        <target xml:lang="fr" state="translated">Definitions de champs de contenu</target>
+        <note>key: content_type.content.title</note>
+        <jms:reference-file line="83">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="d93b35cbbda2fccd239d83cd8e4fbba2cbb02166" resname="content_type.dashboard_title" approved="yes">
         <source>Content types</source>
         <target xml:lang="fr">Types de contenu</target>
@@ -25,11 +31,11 @@
       </trans-unit>
       <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability" approved="yes">
         <source>Default availability in primary language, if translation is absent</source>
-        <target xml:lang="fr">Disponible par défaut, même si la traduction n'existe pas</target>
+        <target xml:lang="fr">Toujours disponible</target>
         <note>key: content_type.default_availability</note>
         <jms:reference-file line="75">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <alt-trans>
-          <target xml:lang="fr">Toujours disponible</target>
+          <target xml:lang="fr">Disponible par défaut, même si la traduction n'existe pas</target>
         </alt-trans>
         <alt-trans>
           <target xml:lang="fr">Disponible dans la langue par défaut même, si la traduction n'existe pas</target>
@@ -40,6 +46,18 @@
         <target xml:lang="fr">Tri par défaut des sous-éléments</target>
         <note>key: content_type.default_children_sorting</note>
         <jms:reference-file line="64">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
+        <source>Default sort order</source>
+        <target xml:lang="fr" state="translated">Ordre de tri par défaut</target>
+        <note>key: content_type.default_sort</note>
+        <jms:reference-file line="70">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
+        <source>Description</source>
+        <target xml:lang="fr" state="translated">Description</target>
+        <note>key: content_type.description</note>
+        <jms:reference-file line="48">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="252d43535d548e208668c24e8924f737a1a191c8" resname="content_type.edit" approved="yes">
         <source>Edit</source>
@@ -153,6 +171,12 @@
         <jms:reference-file line="33">/../../../../.././Resources/views/ContentType/update_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="30">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="d7155c791bcef0de802e2194552a2eee56d3b69e" resname="content_type.metadata.title">
+        <source>Global properties</source>
+        <target xml:lang="fr" state="translated">Propriétés globales</target>
+        <note>key: content_type.metadata.title</note>
+        <jms:reference-file line="38">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="da320072e416ddaba6f9ea57810d26fd1b6bfe80" resname="content_type.modified_date" approved="yes">
         <source>Modification date</source>
         <target xml:lang="fr">Date de modification</target>
@@ -201,6 +225,48 @@
         <target xml:lang="fr">Modèle de génération de l'URL</target>
         <note>key: content_type.url_alias_schema</note>
         <jms:reference-file line="56">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description">
+        <source>Description</source>
+        <target xml:lang="fr" state="translated">Description</target>
+        <note>key: field_definition.description</note>
+        <jms:reference-file line="109">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8b863a9c7cd91565182ad0a3a5e30ca8090f84c7" resname="field_definition.identifier">
+        <source>Identifier</source>
+        <target xml:lang="fr" state="translated">Identifiant</target>
+        <note>key: field_definition.identifier</note>
+        <jms:reference-file line="92">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9a02e329edf4c1e41c97c8be922137c284c249c4" resname="field_definition.name">
+        <source>Name</source>
+        <target xml:lang="fr" state="translated">Nom</target>
+        <note>key: field_definition.name</note>
+        <jms:reference-file line="91">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2c59c801986049c4f4b48f11842932bf4342e278" resname="field_definition.required">
+        <source>Required</source>
+        <target xml:lang="fr" state="translated">Requis</target>
+        <note>key: field_definition.required</note>
+        <jms:reference-file line="113">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2e2ef6bae44fe23eec336dec39035b5d2c4b87b6" resname="field_definition.searchable">
+        <source>Searchable</source>
+        <target xml:lang="fr" state="translated">Recherchable</target>
+        <note>key: field_definition.searchable</note>
+        <jms:reference-file line="117">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fd6ec7b826db4a501858a8658d8e71b067a46568" resname="field_definition.translatable">
+        <source>Translatable</source>
+        <target xml:lang="fr" state="translated">Traduisible</target>
+        <note>key: field_definition.translatable</note>
+        <jms:reference-file line="121">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9ca17bd05bb09ae1283d539c77d57558499ccca4" resname="field_definition.type">
+        <source>Type</source>
+        <target xml:lang="fr" state="translated">Type</target>
+        <note>key: field_definition.type</note>
+        <jms:reference-file line="93">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
     </body>
   </file>
