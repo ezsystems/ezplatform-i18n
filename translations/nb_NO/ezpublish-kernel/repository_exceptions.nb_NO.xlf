@@ -49,6 +49,18 @@
         <note>key: Argument '%argumentName%' is invalid: expected value to be of type '%expectedType%', got '%actualType%'</note>
         <jms:reference-file line="33">eZ/Publish/Core/Base/Exceptions/InvalidArgumentType.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="6a5a5e4df0f09cc7587d11571aa90c31e68c15c6" resname="Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, binary file ids can not begin with a '/'">
+        <source>Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, binary file ids can not begin with a '/'</source>
+        <target xml:lang="nb" state="translated">Argumentet 'BinaryFile::id' er ugyldig: '%id%' er feil verdi, binærfil-IDer kan ikke begynne med en '/'</target>
+        <note>key: Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, binary file ids can not begin with a '/'</note>
+        <jms:reference-file line="17">eZ/Publish/Core/IO/Exception/InvalidBinaryAbsolutePathException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0afe736d44da00b87ed3fe777775661ddf10a455" resname="Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, it does not contain prefix '%prefix%'. Is 'var_dir' config correct?">
+        <source>Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, it does not contain prefix '%prefix%'. Is 'var_dir' config correct?</source>
+        <target xml:lang="nb" state="translated">Argumentet 'BinaryFile::id' er ugyldig: '%id%' er feil verdi, den inneholder ikke prefikset '%prefix%'. Er 'var_dir' konfigurert riktig?</target>
+        <note>key: Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, it does not contain prefix '%prefix%'. Is 'var_dir' config correct?</note>
+        <jms:reference-file line="17">eZ/Publish/Core/IO/Exception/InvalidBinaryPrefixException.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="8967aa151e1b84f60c505163d42350eb6a96e948" resname="Content fields did not validate">
         <source>Content fields did not validate</source>
         <target xml:lang="nb" state="translated">Innholdsfelt ble ikke validert</target>
