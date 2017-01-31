@@ -18,6 +18,12 @@
         <note>key: empty.trash</note>
         <jms:reference-file>Resources/public/js/views/ez-trashbarview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="e472f53d72216a0252d8d8c55c4c565b656201d8" resname="error.emptying.trash">
+        <source>An error occurred while emptying the Trash</source>
+        <target xml:lang="fr" state="translated">Une erreur s’est produite lors du vidage la corbeille</target>
+        <note>key: error.emptying.trash</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e4070d79791c331da86fcb230fec53235b1519ad" resname="items.permanently.deleted">
         <source>%count items were permanently deleted.</source>
         <target xml:lang="fr" state="translated">%count éléments ont été supprimés définitivement.</target>
