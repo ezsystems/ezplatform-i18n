@@ -30,6 +30,12 @@
         <note>key: error.emptying.trash</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="c7d0ace34e28047e04285d5d1ca7dbd8a4757432" resname="error.restoring.item">
+        <source>An error occurred while restoring trash item with id: %id%. For the moment item's whose original location has been deleted can not be restored</source>
+        <target xml:lang="nb" state="translated">Det oppstod en feil ved forsøk på å gjenopprette innholdselement med id: %id% fra papirkurven. Når originalplasseringen er slettet kan ikke innholdet gjenopprettes</target>
+        <note>key: error.restoring.item</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
