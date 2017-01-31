@@ -196,6 +196,12 @@
         <note>key: title</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="5703353ad23aceb493d616c7eb3ef4c65ed5b888" resname="type.or.paste.link">
+        <source>Type or paste link here</source>
+        <target xml:lang="pt-PT" state="translated">Escreva ou cole o link aqui</target>
+        <note>key: type.or.paste.link</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
