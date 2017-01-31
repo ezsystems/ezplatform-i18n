@@ -135,81 +135,81 @@
         <note>key: error.revealing.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="e650b8f59c13ba2541db9ae6ac90a1857d88cb54" resname="failed.creating.new.location.for">
+      <trans-unit id="e650b8f59c13ba2541db9ae6ac90a1857d88cb54" resname="failed.creating.new.location.for" approved="yes">
         <source>Creating new location for "%name%" under "%parentName%" failed</source>
-        <target xml:lang="pt-PT" state="translated">A criação de uma nova localização para "%name%" sob "%parentName%" não foi bem sucedida</target>
+        <target xml:lang="pt-PT">A criação de uma nova localização para "%name%" sob "%parentName%" não foi bem sucedida</target>
         <note>key: failed.creating.new.location.for</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="69136005da4d2304538601244f76e7e68a009049" resname="hidden.location">
+      <trans-unit id="69136005da4d2304538601244f76e7e68a009049" resname="hidden.location" approved="yes">
         <source>Location "%id" has been hidden</source>
-        <target xml:lang="pt-PT" state="translated">A localização "%id" foi escondida</target>
+        <target xml:lang="pt-PT">A localização "%id" foi escondida</target>
         <note>key: hidden.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="a08ae71216dacd8a23c388addb647ecab7e3fcc1" resname="hiding.location">
+      <trans-unit id="a08ae71216dacd8a23c388addb647ecab7e3fcc1" resname="hiding.location" approved="yes">
         <source>Hiding Location "%id%"</source>
-        <target xml:lang="pt-PT" state="translated">A esconder a localização "%id%"</target>
+        <target xml:lang="pt-PT">A esconder a localização "%id%"</target>
         <note>key: hiding.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="892075dad374cd4df8ce78ea7aa1bba5eb5b3244" resname="location.created">
+      <trans-unit id="892075dad374cd4df8ce78ea7aa1bba5eb5b3244" resname="location.created" approved="yes">
         <source>New location for "%name%" has been successfully created</source>
-        <target xml:lang="pt-PT" state="translated">A nova localização para "%name%" foi criada com sucesso</target>
+        <target xml:lang="pt-PT">A nova localização para "%name%" foi criada com sucesso</target>
         <note>key: location.created</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="9ed496cc88a3a2f48a33464deb00f217d41803ca" resname="locations.created">
+      <trans-unit id="9ed496cc88a3a2f48a33464deb00f217d41803ca" resname="locations.created" approved="yes">
         <source>%count% new locations for "%name%" have been successfully created</source>
-        <target xml:lang="pt-PT" state="translated">%count% novas localizações para "%name%" foram criadas com sucesso</target>
+        <target xml:lang="pt-PT">%count% novas localizações para "%name%" foram criadas com sucesso</target>
         <note>key: locations.created</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="0303d73c8f63f2d6b9f34ac721f6622214ad458d" resname="revealed.location">
+      <trans-unit id="0303d73c8f63f2d6b9f34ac721f6622214ad458d" resname="revealed.location" approved="yes">
         <source>Location "%id%" has been revealed</source>
-        <target xml:lang="pt-PT" state="translated">A localização "%id%" foi revelada</target>
+        <target xml:lang="pt-PT">A localização "%id%" foi revelada</target>
         <note>key: revealed.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="67b19056cc5015b057182c283116f05c69507d22" resname="revealing.location">
+      <trans-unit id="67b19056cc5015b057182c283116f05c69507d22" resname="revealing.location" approved="yes">
         <source>Revealing Location "%id%"</source>
-        <target xml:lang="pt-PT" state="translated">A revelar a localização "%id%"</target>
+        <target xml:lang="pt-PT">A revelar a localização "%id%"</target>
         <note>key: revealing.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="7fc31d0ca90043a53df1a70b6d9d84c8c4fddf30" resname="select.a.language.for.new.translation">
+      <trans-unit id="7fc31d0ca90043a53df1a70b6d9d84c8c4fddf30" resname="select.a.language.for.new.translation" approved="yes">
         <source>Select a language for your new translation:</source>
-        <target xml:lang="pt-PT" state="translated">Seleccione o idioma da sua nova tradução:</target>
+        <target xml:lang="pt-PT">Seleccione o idioma da sua nova tradução:</target>
         <note>key: select.a.language.for.new.translation</note>
         <jms:reference-file>Resources/public/js/views/actions/ez-translateactionview.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="801849651d85606aa04da1b4ea58fad208793e3a" resname="select.location.to.copy">
+      <trans-unit id="801849651d85606aa04da1b4ea58fad208793e3a" resname="select.location.to.copy" approved="yes">
         <source>Select the location you want to copy your content into</source>
-        <target xml:lang="pt-PT" state="translated">Seleccione o local para o qual deseja copiar o seu conteúdo</target>
+        <target xml:lang="pt-PT">Seleccione o local para o qual deseja copiar o seu conteúdo</target>
         <note>key: select.location.to.copy</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="303fa8448e329ecb88341279a1a17b044549270a" resname="select.location.to.create.new.location">
+      <trans-unit id="303fa8448e329ecb88341279a1a17b044549270a" resname="select.location.to.create.new.location" approved="yes">
         <source>Select the location where you want to create new location</source>
-        <target xml:lang="pt-PT" state="translated">Seleccione o local onde deseja criar a nova lozalização</target>
+        <target xml:lang="pt-PT">Seleccione o local onde deseja criar a nova lozalização</target>
         <note>key: select.location.to.create.new.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit">
+      <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit" approved="yes">
         <source>Edit</source>
-        <target xml:lang="pt-PT" state="translated">Editar</target>
+        <target xml:lang="pt-PT">Editar</target>
         <note>key: translateaction.edit</note>
         <jms:reference-file>Resources/public/templates/translateaction.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="0da142a7f050a139b79a5865547744a56a5f4281" resname="translateaction.existing.translations">
+      <trans-unit id="0da142a7f050a139b79a5865547744a56a5f4281" resname="translateaction.existing.translations" approved="yes">
         <source>Existing Translations</source>
-        <target xml:lang="pt-PT" state="translated">Editar Traduções</target>
+        <target xml:lang="pt-PT">Editar Traduções</target>
         <note>key: translateaction.existing.translations</note>
         <jms:reference-file>Resources/public/templates/translateaction.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="cd6a171f15734694bbc3e15e0f2e4ca47dd5d1ff" resname="translateaction.new.translation">
+      <trans-unit id="cd6a171f15734694bbc3e15e0f2e4ca47dd5d1ff" resname="translateaction.new.translation" approved="yes">
         <source>+ New Translation</source>
-        <target xml:lang="pt-PT" state="translated">+ Nova Tradução</target>
+        <target xml:lang="pt-PT">+ Nova Tradução</target>
         <note>key: translateaction.new.translation</note>
         <jms:reference-file>Resources/public/templates/translateaction.hbt</jms:reference-file>
       </trans-unit>
