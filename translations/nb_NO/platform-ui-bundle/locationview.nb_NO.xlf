@@ -90,6 +90,12 @@
         <note>key: failed.moving</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="edf8822d85f6e3cc0e13582feee8a65f66ed0d08" resname="failed.removing.versions.of">
+        <source>Removal of %count% version(s) of "%name%" has failed</source>
+        <target xml:lang="nb" state="translated">Fjerning av %count% versjon(er) av "%name%" mislyktes</target>
+        <note>key: failed.removing.versions.of</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e0be1422e1af400879a6716220eabc9ad4fca29e" resname="locationview.details.ascending">
         <source>Ascending</source>
         <target xml:lang="nb" state="translated">Stigende</target>
