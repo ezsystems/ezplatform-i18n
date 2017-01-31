@@ -18,6 +18,12 @@
         <note>key: content.id.location.id</note>
         <jms:reference-file>Resources/public/templates/contentedit.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="7403ac1a8e8db35e577bf4e7ca7c3a7122a2169e" resname="contentedit.previewing">
+        <source>Previewing</source>
+        <target xml:lang="fr" state="translated">Aperçu</target>
+        <note>key: contentedit.previewing</note>
+        <jms:reference-file>Resources/public/templates/editpreview.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="55bfafdd36ab25c84547ddc2ecfc0fb802565885" resname="created.by" approved="yes">
         <source>Created by %name%</source>
         <target xml:lang="fr">Créé par %name%</target>
