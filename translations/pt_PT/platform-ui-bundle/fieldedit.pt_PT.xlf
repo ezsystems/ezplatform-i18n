@@ -493,160 +493,176 @@
         <note>key: media.displaycontrols</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="48f89aa321f9917ee7d69855d638ccc06fbc08cb" resname="media.file.size">
+      <trans-unit id="48f89aa321f9917ee7d69855d638ccc06fbc08cb" resname="media.file.size" approved="yes">
         <source><![CDATA[<span class="ez-media-properties-size">%size%</span>&nbsp;bytes]]></source>
-        <target xml:lang="pt-PT" state="translated"><![CDATA[<span class="ez-media-properties-size">%size%</span>&nbsp;bytes]]></target>
+        <target xml:lang="pt-PT"><![CDATA[<span class="ez-media-properties-size">%size%</span>&nbsp;bytes]]></target>
         <note>key: media.file.size</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="dbde52fe3c3a99179a4835dcc6d199371fbc91b2" resname="media.height">
+      <trans-unit id="dbde52fe3c3a99179a4835dcc6d199371fbc91b2" resname="media.height" approved="yes">
         <source>Height:</source>
-        <target xml:lang="pt-PT" state="translated">Altura:</target>
+        <target xml:lang="pt-PT">Altura:</target>
         <note>key: media.height</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="2325191dea1090c18ddab4c6e793dc19ecfab29c" resname="media.loop">
+      <trans-unit id="2325191dea1090c18ddab4c6e793dc19ecfab29c" resname="media.loop" approved="yes">
         <source>Loop:</source>
-        <target xml:lang="pt-PT" state="translated">Repetição:</target>
+        <target xml:lang="pt-PT">Repetição:</target>
         <note>key: media.loop</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="ddb130a4e4e9656800990ae5c96df1ea3fcc604e" resname="media.name">
+      <trans-unit id="ddb130a4e4e9656800990ae5c96df1ea3fcc604e" resname="media.name" approved="yes">
         <source>File name:</source>
-        <target xml:lang="pt-PT" state="translated">Nome do ficheiro:</target>
+        <target xml:lang="pt-PT">Nome do ficheiro:</target>
         <note>key: media.name</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="5fe85b221381eab5cf085d06e93da5fd8cfbd4f3" resname="media.newtab">
+      <trans-unit id="5fe85b221381eab5cf085d06e93da5fd8cfbd4f3" resname="media.newtab" approved="yes">
         <source>Open it in a new tab</source>
-        <target xml:lang="pt-PT" state="translated">Abrir num novo separador</target>
+        <target xml:lang="pt-PT">Abrir num novo separador</target>
         <note>key: media.newtab</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="c888da5fa745a2e9517d698c6cadbc1b8404d7a9" resname="media.playersettings">
+      <trans-unit id="c888da5fa745a2e9517d698c6cadbc1b8404d7a9" resname="media.playersettings" approved="yes">
         <source>Player settings</source>
-        <target xml:lang="pt-PT" state="translated">Definições do leitor</target>
+        <target xml:lang="pt-PT">Definições do leitor</target>
         <note>key: media.playersettings</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="135cbb609fe487f5b9df8fdd756028516d582195" resname="media.size">
+      <trans-unit id="135cbb609fe487f5b9df8fdd756028516d582195" resname="media.size" approved="yes">
         <source>File size:</source>
-        <target xml:lang="pt-PT" state="translated">Dimensão do ficheiro:</target>
+        <target xml:lang="pt-PT">Dimensão do ficheiro:</target>
         <note>key: media.size</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="fc651caf3e8f0d087bf50d11af3a5852e4e4f4da" resname="media.type">
+      <trans-unit id="fc651caf3e8f0d087bf50d11af3a5852e4e4f4da" resname="media.type" approved="yes">
         <source>Type:</source>
-        <target xml:lang="pt-PT" state="translated">Tipo:</target>
+        <target xml:lang="pt-PT">Tipo:</target>
         <note>key: media.type</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="200321ea1995c3d33324fef4dba05f58873910f3" resname="media.video.empty">
+      <trans-unit id="200321ea1995c3d33324fef4dba05f58873910f3" resname="media.video.empty" approved="yes">
         <source>No video file yet.</source>
-        <target xml:lang="pt-PT" state="translated">Nenhum ficheiro de vídeo ainda.</target>
+        <target xml:lang="pt-PT">Nenhum ficheiro de vídeo ainda.</target>
         <note>key: media.video.empty</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="99b8daaf90cdc2ee5b0f96b05c92e7452ca5cb7e" resname="media.video.help">
+      <trans-unit id="99b8daaf90cdc2ee5b0f96b05c92e7452ca5cb7e" resname="media.video.help" approved="yes">
         <source><![CDATA[Drag and drop your video here or simply click on the buttons and select your video manually. Customize size, controls & view.]]></source>
-        <target xml:lang="pt-PT" state="translated"><![CDATA[Arraste e largue o ficheiro de vídeo aqui ou simplemente carregue nos botões e seleccione o vídeo manualmente.
+        <target xml:lang="pt-PT"><![CDATA[Arraste e largue o ficheiro de vídeo para aqui ou simplesmente carregue nos botões e seleccione o vídeo manualmente.
 Personalize o tamanho, controlos e vista.]]></target>
         <note>key: media.video.help</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pt-PT"><![CDATA[Arraste e largue o ficheiro de vídeo aqui ou simplemente carregue nos botões e seleccione o vídeo manualmente.
+Personalize o tamanho, controlos e vista.]]></target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="6e2da936d84283d264f260e9f966a11be051096e" resname="media.video.properties">
+      <trans-unit id="6e2da936d84283d264f260e9f966a11be051096e" resname="media.video.properties" approved="yes">
         <source>Video file properties</source>
-        <target xml:lang="pt-PT" state="translated">Propriedades de ficheiro vídeo</target>
+        <target xml:lang="pt-PT">Propriedades de ficheiro vídeo</target>
         <note>key: media.video.properties</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="0ea95996960e7e25850641cb651904538b525e0a" resname="media.video.remove">
+      <trans-unit id="0ea95996960e7e25850641cb651904538b525e0a" resname="media.video.remove" approved="yes">
         <source>Remove this video</source>
-        <target xml:lang="pt-PT" state="translated">Remover este vídeo</target>
+        <target xml:lang="pt-PT">Remover este vídeo</target>
         <note>key: media.video.remove</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="685b7365429b2f2cf79ff014e38b14c73899a492" resname="media.video.replace">
+      <trans-unit id="685b7365429b2f2cf79ff014e38b14c73899a492" resname="media.video.replace" approved="yes">
         <source>Replace this video</source>
-        <target xml:lang="pt-PT" state="translated">Substituir este vídeo</target>
+        <target xml:lang="pt-PT">Substituir este vídeo</target>
         <note>key: media.video.replace</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="af7590bb13331b3eda4b2a0ab28f0d2a100781e9" resname="media.video.unsupported">
+      <trans-unit id="af7590bb13331b3eda4b2a0ab28f0d2a100781e9" resname="media.video.unsupported" approved="yes">
         <source>Unsupported video format</source>
-        <target xml:lang="pt-PT" state="translated">Formato de vídeo não suportado</target>
+        <target xml:lang="pt-PT">Formato de vídeo não suportado</target>
         <note>key: media.video.unsupported</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="3cce6f7478e77242b2c94108460c48905e28da7f" resname="media.video.upload">
+      <trans-unit id="3cce6f7478e77242b2c94108460c48905e28da7f" resname="media.video.upload" approved="yes">
         <source>Upload a video</source>
-        <target xml:lang="pt-PT" state="translated">Enviar um vídeo</target>
+        <target xml:lang="pt-PT">Enviar um vídeo</target>
         <note>key: media.video.upload</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="e869d62b8c16e01b95bc9d235173e8dba6f42f30" resname="media.width">
+      <trans-unit id="e869d62b8c16e01b95bc9d235173e8dba6f42f30" resname="media.width" approved="yes">
         <source>Width:</source>
-        <target xml:lang="pt-PT" state="translated">Largura:</target>
+        <target xml:lang="pt-PT">Largura:</target>
         <note>key: media.width</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="4472d1a8e3b30bcb2a5ca35aef3354d87c4f7e0d" resname="name.required">
+      <trans-unit id="4472d1a8e3b30bcb2a5ca35aef3354d87c4f7e0d" resname="name.required" approved="yes">
         <source>The name is required</source>
-        <target xml:lang="pt-PT" state="translated">O nome é obrigatório</target>
+        <target xml:lang="pt-PT">O nome é obrigatório</target>
         <note>key: name.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="76a19d250ba3d1fa3c051e03183820ba5a8f6d98" resname="name.required.if.email.filled">
+      <trans-unit id="76a19d250ba3d1fa3c051e03183820ba5a8f6d98" resname="name.required.if.email.filled" approved="yes">
         <source>The name is required if the email is filled</source>
-        <target xml:lang="pt-PT" state="translated">O nome é obrigatório se o email está preenchido</target>
+        <target xml:lang="pt-PT">O nome é obrigatório se o email está preenchido</target>
         <note>key: name.required.if.email.filled</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="dd18de349adefaf37b5e99873421b2a0ff05b4d3" resname="not.a.correct.isbn13.pattern">
+      <trans-unit id="dd18de349adefaf37b5e99873421b2a0ff05b4d3" resname="not.a.correct.isbn13.pattern" approved="yes">
         <source>This is not a correct ISBN13 pattern</source>
-        <target xml:lang="pt-PT" state="translated">Este padrão de ISBN13 não é correcto</target>
+        <target xml:lang="pt-PT">Este padrão de ISBN13 não é correcto</target>
         <note>key: not.a.correct.isbn13.pattern</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="bfa3d0165087e1b249eceda81f084e4404ed79f4" resname="over.maximum.allowed.size">
+      <trans-unit id="bfa3d0165087e1b249eceda81f084e4404ed79f4" resname="over.maximum.allowed.size" approved="yes">
         <source>The file '%name%' was refused because its size is greater than the maximum allowed size (%max%)</source>
-        <target xml:lang="pt-PT" state="translated">O ficheiro '%name%' foi recusado porque tem um tamanho maior do que o tamanho máximo permitido (%max%)</target>
+        <target xml:lang="pt-PT">O ficheiro '%name%' foi recusado porque tem um tamanho maior do que o tamanho máximo permitido (%max%)</target>
         <note>key: over.maximum.allowed.size</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="6fe513c14eb957ff25185e5b3bf73f9f3a8ccee4" resname="refused.not.an.image">
+      <trans-unit id="6fe513c14eb957ff25185e5b3bf73f9f3a8ccee4" resname="refused.not.an.image" approved="yes">
         <source>The file '%name%' was refused because it seems to not be an image. Please choose an image file.</source>
-        <target xml:lang="pt-PT" state="translated">O ficheiro '%name%' foi recusado porque não aparenta ser uma imagem. Escolha uma imagem por favor.</target>
+        <target xml:lang="pt-PT">O ficheiro '%name%' foi recusado porque não aparenta ser uma imagem. Escolha uma imagem por favor.</target>
         <note>key: refused.not.an.image</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="a1e89ea5d1c7efa83d78aecaaf08c993df7b8d7a" resname="relation.empty">
+      <trans-unit id="a1e89ea5d1c7efa83d78aecaaf08c993df7b8d7a" resname="relation.empty" approved="yes">
         <source>No relation.</source>
-        <target xml:lang="pt-PT" state="translated">Sem relacção.</target>
+        <target xml:lang="pt-PT">Sem relação.</target>
         <note>key: relation.empty</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pt-PT">Sem relacção.</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="c0c592b62ccf324bfae2eba6f869050b32641b0c" resname="relation.error">
+      <trans-unit id="c0c592b62ccf324bfae2eba6f869050b32641b0c" resname="relation.error" approved="yes">
         <source>An error occurred while loading the related content.</source>
-        <target xml:lang="pt-PT" state="translated">Ocorreu um erro ao carregar o conteúdo relaccionado.</target>
+        <target xml:lang="pt-PT">Ocorreu um erro ao carregar o conteúdo relacionado.</target>
         <note>key: relation.error</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pt-PT">Ocorreu um erro ao carregar o conteúdo relaccionado.</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="1a0432678a22f538bc956d02a1a52709a24019a3" resname="relation.help">
+      <trans-unit id="1a0432678a22f538bc956d02a1a52709a24019a3" resname="relation.help" approved="yes">
         <source>Select another content and link it up with your content.</source>
-        <target xml:lang="pt-PT" state="translated">Seleccione outro conteúdo e relaccione-o ao seu conteúdo.</target>
+        <target xml:lang="pt-PT">Seleccione outro conteúdo e relacione-o ao seu conteúdo.</target>
         <note>key: relation.help</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pt-PT">Seleccione outro conteúdo e relaccione-o ao seu conteúdo.</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="d83d7f0b353c6177f297b5a502f4beae187819ec" resname="relation.loading">
+      <trans-unit id="d83d7f0b353c6177f297b5a502f4beae187819ec" resname="relation.loading" approved="yes">
         <source>Loading the related content</source>
-        <target xml:lang="pt-PT" state="translated">A carregar o conteúdo relaccionado</target>
+        <target xml:lang="pt-PT">A carregar o conteúdo relacionado</target>
         <note>key: relation.loading</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pt-PT">A carregar o conteúdo relaccionado</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="75d2eb26107e9f1bebc6fd525965df6a2c35dee8" resname="relation.modified">
+      <trans-unit id="75d2eb26107e9f1bebc6fd525965df6a2c35dee8" resname="relation.modified" approved="yes">
         <source>Modified:</source>
-        <target xml:lang="pt-PT" state="translated">Modificado:</target>
+        <target xml:lang="pt-PT">Modificado:</target>
         <note>key: relation.modified</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
       </trans-unit>
