@@ -33,9 +33,12 @@
       </trans-unit>
       <trans-unit id="be81ab98cb9ccf753975f50fa70cd32581a821fc" resname="Password:" approved="yes">
         <source>Password:</source>
-        <target xml:lang="pt-PT">Palavra chave:</target>
+        <target xml:lang="pt-PT">Palavra-chave:</target>
         <note>key: Password:</note>
         <jms:reference-file line="21">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="pt-PT">Palavra chave:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="17dfb031e086e3415d71f3928e6ce08d6b1c1d4d" resname="Username:" approved="yes">
         <source>Username:</source>
