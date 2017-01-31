@@ -25,9 +25,15 @@
       </trans-unit>
       <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability" approved="yes">
         <source>Default availability in primary language, if translation is absent</source>
-        <target xml:lang="fr">Disponible dans la langue par défaut même, si la traduction n'existe pas</target>
+        <target xml:lang="fr">Disponible par défaut, même si la traduction n'existe pas</target>
         <note>key: content_type.default_availability</note>
         <jms:reference-file line="75">/../../../../.././Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="fr">Toujours disponible</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="fr">Disponible dans la langue par défaut même, si la traduction n'existe pas</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting" approved="yes">
         <source>Default property for sorting chilren</source>
