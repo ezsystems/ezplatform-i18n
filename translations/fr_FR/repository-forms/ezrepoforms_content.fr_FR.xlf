@@ -12,6 +12,12 @@
         <note>key: content.field_type.ezuser.password</note>
         <jms:reference-file line="42">lib/Form/Type/User/UserAccountType.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="1120fc646c853c462aa4cdf634f476004846fc1b" resname="content.publish_button">
+        <source>Publish</source>
+        <target xml:lang="fr" state="translated">Publier</target>
+        <note>key: content.publish_button</note>
+        <jms:reference-file line="43">lib/Form/Type/Content/ContentEditType.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
