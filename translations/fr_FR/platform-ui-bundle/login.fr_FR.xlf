@@ -36,9 +36,9 @@
         <note>key: loginform.need.login</note>
         <jms:reference-file>Resources/public/templates/loginform.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="53a66da95f881a2e104a73e61af22c1ce3a7b53e" resname="loginform.password">
+      <trans-unit id="53a66da95f881a2e104a73e61af22c1ce3a7b53e" resname="loginform.password" approved="yes">
         <source>Password</source>
-        <target xml:lang="fr" state="translated">Mot de passe</target>
+        <target xml:lang="fr">Mot de passe</target>
         <note>key: loginform.password</note>
         <jms:reference-file>Resources/public/templates/loginform.hbt</jms:reference-file>
       </trans-unit>
