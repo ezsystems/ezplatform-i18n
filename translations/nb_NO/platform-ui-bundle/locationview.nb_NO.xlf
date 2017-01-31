@@ -512,6 +512,66 @@
         <note>key: removed.locations.of</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="9e5f98b5c3f285bd15fc0a0a23b3a42c2faa47ea" resname="removed.versions.of">
+        <source>%count% version(s) of "%name%" have been removed</source>
+        <target xml:lang="nb" state="translated">%count% versjon(er) av "%name%" er fjernet</target>
+        <note>key: removed.versions.of</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="acf9100e800a6f1f4f9fa47d8958d512a5729f06" resname="removing.locations.for">
+        <source>Removing locations for "%name%"</source>
+        <target xml:lang="nb" state="translated">Fjerner plasseringer for "%name%"</target>
+        <note>key: removing.locations.for</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6bf8a2da889909164b44ea5b8942e18acb8f29b1" resname="removing.versions.for">
+        <source>Removing versions for "%name%"</source>
+        <target xml:lang="nb" state="translated">Fjerner versjoner for "%name%"</target>
+        <note>key: removing.versions.for</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ae688447d6a0779e33bdbb155806278928d5ec7e" resname="select.location.move.to">
+        <source>Select the location you want to move your content into</source>
+        <target xml:lang="nb" state="translated">Velg plasseringen du vil flytte innholdet til</target>
+        <note>key: select.location.move.to</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2ebde9679f8621dde1a0069e592eaf1164583c74" resname="select.location.to.swap">
+        <source>Select the location you want to swap with the given one</source>
+        <target xml:lang="nb" state="translated">Velg plasseringen du vil bytte med den angitte</target>
+        <note>key: select.location.to.swap</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationswapplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c3a7268c770036494e916618aae9927d0a353773" resname="sending.to.trash">
+        <source>Sending '%name%' to Trash</source>
+        <target xml:lang="nb" state="translated">Sender '%name%' til papirkurven</target>
+        <note>key: sending.to.trash</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8766b28d763385b40a48711bd66412d5f4d0f609" resname="sent.to.trash">
+        <source>"%name%" sent to Trash</source>
+        <target xml:lang="nb" state="translated">"%name%" sendt til papirkurven</target>
+        <note>key: sent.to.trash</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5fa3c429a7ffda07ccc05013a851a2beafee966d" resname="sort.content.type.identifier">
+        <source>Content type identifier</source>
+        <target xml:lang="nb" state="translated">Innholdstype-ID</target>
+        <note>key: sort.content.type.identifier</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="62a66a9c02d5728bbc517a5d7c11889990cbed12" resname="sort.content.type.name">
+        <source>Content type name</source>
+        <target xml:lang="nb" state="translated">Navn på innholdstype</target>
+        <note>key: sort.content.type.name</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3fc89a073d545b17319f4926105bf536a2481795" resname="sort.depth">
+        <source>Location depth</source>
+        <target xml:lang="nb" state="translated">Plasseringsdybde</target>
+        <note>key: sort.depth</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="8e3b63eca8c0b79018040b44d8ee39701824a187" resname="sort.modified">
         <source>Modification date</source>
         <target xml:lang="nb" state="translated">Endringsdato</target>
@@ -541,6 +601,36 @@
         <target xml:lang="nb" state="translated">Publiseringsdato</target>
         <note>key: sort.published</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f0ec72293071715721e084ed98b6ceb112aae22b" resname="sort.section">
+        <source>Section</source>
+        <target xml:lang="nb" state="translated">Seksjon</target>
+        <note>key: sort.section</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="52f0c0ed206437d87ca936e0c9b3d4dcf799269d" resname="swapped.location.for.with">
+        <source>Location for "%name%" has been swapped with "%destinationName%"</source>
+        <target xml:lang="nb" state="translated">Plasseringen for "%name%" er byttet med "%destinationName%"</target>
+        <note>key: swapped.location.for.with</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationswapplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dcb6122be8a1d8ef5aac7e14ba12d8c9729b91e1" resname="swapping.location.for">
+        <source>Swaping location for "%name%"</source>
+        <target xml:lang="nb" state="translated">Bytter plassering for %name%</target>
+        <note>key: swapping.location.for</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationswapplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5cf5c23d5f73b6493879db84d39bf6a05940242f" resname="updated.sort.method">
+        <source>The sub-items sort method has been correctly updated</source>
+        <target xml:lang="nb" state="translated">Sorteringsmetoden for underelementer er oppdatert</target>
+        <note>key: updated.sort.method</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="420b18708dcd8de83f92b2cfdeafad23fd6b80a7" resname="updating.sort.method">
+        <source>Updating the sub-items sort method</source>
+        <target xml:lang="nb" state="translated">Oppdaterer sorteringsmetode for underelementer</target>
+        <note>key: updating.sort.method</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
     </body>
   </file>
