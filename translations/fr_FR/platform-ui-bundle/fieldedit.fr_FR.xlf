@@ -18,6 +18,12 @@
         <note>key: authorinput.name</note>
         <jms:reference-file>Resources/public/templates/fields/edit/authorinput.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="e5070f4a7780feaac79ab807cd1546a70effb49d" resname="binaryfile.download">
+        <source>Download the file</source>
+        <target xml:lang="fr" state="translated">Télécharger le fichier</target>
+        <note>key: binaryfile.download</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e1ee64eddc5bc3ee8690f59e23a52dd4c50d036e" resname="richtext.focus">
         <source>Focus</source>
         <target xml:lang="fr" state="translated">Focus</target>
