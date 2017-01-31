@@ -24,9 +24,9 @@
         <note>key: draftconflict.language</note>
         <jms:reference-file>Resources/public/templates/confirmbox/draftconflict.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="0061cab899c3a8d9b9f601491b0474f9d85d92a7" resname="draftconflict.lastmodified">
+      <trans-unit id="0061cab899c3a8d9b9f601491b0474f9d85d92a7" resname="draftconflict.lastmodified" approved="yes">
         <source>Last Modified</source>
-        <target xml:lang="fr" state="translated">Dernière modification</target>
+        <target xml:lang="fr">Dernière modification</target>
         <note>key: draftconflict.lastmodified</note>
         <jms:reference-file>Resources/public/templates/confirmbox/draftconflict.hbt</jms:reference-file>
       </trans-unit>
