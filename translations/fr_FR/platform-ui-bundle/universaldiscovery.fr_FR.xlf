@@ -18,9 +18,15 @@
         <note>key: no.result</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="724b2384805ea6aa150d57d3d870d50b1d661d8b" resname="universaldiscovery.cancel">
+      <trans-unit id="d5ddefb37351cd23fd0ef3eef4c9afca357a4493" resname="remaining.more">
+        <source>+%remainingCount% more</source>
+        <target xml:lang="fr" state="translated">+%remainingCount% en plus</target>
+        <note>key: remaining.more</note>
+        <jms:reference-file>Resources/public/templates/universaldiscovery/confirmedlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="724b2384805ea6aa150d57d3d870d50b1d661d8b" resname="universaldiscovery.cancel" approved="yes">
         <source>Cancel</source>
-        <target xml:lang="fr" state="translated">Annuler</target>
+        <target xml:lang="fr">Annuler</target>
         <note>key: universaldiscovery.cancel</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery.hbt</jms:reference-file>
       </trans-unit>
