@@ -54,9 +54,9 @@
         <note>key: navigationhub.more</note>
         <jms:reference-file>./Resources/public/templates/navigationhub.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="cb156e3f0e5acefaace3ae69a36edcfdd4335035" resname="navigationhub.role.list">
+      <trans-unit id="cb156e3f0e5acefaace3ae69a36edcfdd4335035" resname="navigationhub.role.list" approved="yes">
         <source>Roles</source>
-        <target xml:lang="fr" state="translated">Rôles</target>
+        <target xml:lang="fr">Rôles</target>
         <note>key: navigationhub.role.list</note>
         <jms:reference-file>./Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
       </trans-unit>
