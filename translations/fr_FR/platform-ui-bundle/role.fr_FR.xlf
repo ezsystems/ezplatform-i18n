@@ -12,6 +12,12 @@
         <note>key: assignment.none</note>
         <jms:reference-file line="186">Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="70dd3723bde281857912354e3abdb2611345e1a1" resname="assignment.role_limitation">
+        <source>Limitation</source>
+        <target xml:lang="fr" state="translated">Limitation</target>
+        <note>key: assignment.role_limitation</note>
+        <jms:reference-file line="137">Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="9d40ec6ea2a69dc31d986dd760c5c4d1e58274a0" resname="assignment.role_limitation_none" approved="yes">
         <source>No limitations</source>
         <target xml:lang="fr">Aucune limitation</target>
