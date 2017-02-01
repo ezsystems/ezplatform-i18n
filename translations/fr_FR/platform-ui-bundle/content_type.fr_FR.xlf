@@ -41,6 +41,12 @@
           <target xml:lang="fr">Disponible dans la langue par défaut même, si la traduction n'existe pas</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help">
+        <source>Default availability in primary language, if translation is absent</source>
+        <target xml:lang="fr" state="translated">Disponible dans la langue par défaut même, si la traduction n'existe pas</target>
+        <note>key: content_type.default_availability.help</note>
+        <jms:reference-file line="75">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting" approved="yes">
         <source>Default property for sorting chilren</source>
         <target xml:lang="fr">Tri par défaut des sous-éléments</target>
@@ -66,6 +72,12 @@
         <jms:reference-file line="137">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="44">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
         <jms:reference-file line="46">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="38a48d5b27331f27a6a51e3bb9be3e6340fc1ccb" resname="content_type.edit_title">
+        <source>Edit</source>
+        <target xml:lang="fr" state="translated">Modifier</target>
+        <note>key: content_type.edit_title</note>
+        <jms:reference-file line="139">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="139bc06fcecd7ab2e8e59233d52cae047b22af5b" resname="content_type.group" approved="yes">
         <source>Content type group</source>
