@@ -12,6 +12,12 @@
         <note>key: binaryfile.download.file</note>
         <jms:reference-file>Resources/public/templates/fields/view/binaryfile.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="6167f5a54d6b6aeda1db413dcfb2e5ead6632a32" resname="failed.to.load.the.map">
+        <source>Failed to load the map</source>
+        <target xml:lang="fr" state="translated">Le chargement de la carte a échoué</target>
+        <note>key: failed.to.load.the.map</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-view.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="977cb55c24b1708d46ccbd753c2cea745976ae21" resname="fieldview.field.empty">
         <source>This field is empty</source>
         <target xml:lang="fr" state="translated">Ce champ est vide</target>
@@ -32,6 +38,12 @@
         <jms:reference-file>Resources/public/templates/fields/view/url.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/fields/view/user.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/fields/view/xmltext.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="81448b0d61f500e4292f65544a15c667721d061a" resname="fieldview.no">
+        <source>no</source>
+        <target xml:lang="fr" state="translated">non</target>
+        <note>key: fieldview.no</note>
+        <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="b6c23de67df46c0c13d509f9132dc9dc1477c4cf" resname="fieldview.retry">
         <source>Retry</source>
