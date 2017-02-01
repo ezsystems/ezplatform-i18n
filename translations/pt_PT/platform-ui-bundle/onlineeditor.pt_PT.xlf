@@ -82,9 +82,9 @@
         <note>key: justify</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextalignjustify.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="12c0f1fbadc4046b5f2bb9e063b227ef8750d9d6" resname="left">
+      <trans-unit id="12c0f1fbadc4046b5f2bb9e063b227ef8750d9d6" resname="left" approved="yes">
         <source>Left</source>
-        <target xml:lang="pt-PT" state="translated">Esquerda</target>
+        <target xml:lang="pt-PT">Esquerda</target>
         <note>key: left</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextalignleft.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/embedleft.js</jms:reference-file>
