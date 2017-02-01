@@ -6,79 +6,79 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="305047e96ec089021660ee5965f893ac80268731" resname="center">
+      <trans-unit id="305047e96ec089021660ee5965f893ac80268731" resname="center" approved="yes">
         <source>Center</source>
-        <target xml:lang="pt-PT" state="translated">Centrado</target>
+        <target xml:lang="pt-PT">Centrado</target>
         <note>key: center</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextaligncenter.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/embedcenter.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="cfff27c96089b93150f3553b6ffdd39d0d5d8e78" resname="embed">
+      <trans-unit id="cfff27c96089b93150f3553b6ffdd39d0d5d8e78" resname="embed" approved="yes">
         <source>Embed</source>
-        <target xml:lang="pt-PT" state="translated">Incorporar</target>
+        <target xml:lang="pt-PT">Incorporar</target>
         <note>key: embed</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/embed.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="8809edb77f319ec2f52fca2114de27d637fa4642" resname="heading">
+      <trans-unit id="8809edb77f319ec2f52fca2114de27d637fa4642" resname="heading" approved="yes">
         <source>Heading</source>
-        <target xml:lang="pt-PT" state="translated">Título</target>
+        <target xml:lang="pt-PT">Título</target>
         <note>key: heading</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/heading.js</jms:reference-file>
         <alt-trans>
           <target xml:lang="pt-PT">Cabeçalho</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="8ccbbbe6115fdd98c98cfd7f699501b3550a050b" resname="heading.1">
+      <trans-unit id="8ccbbbe6115fdd98c98cfd7f699501b3550a050b" resname="heading.1" approved="yes">
         <source>Heading 1</source>
-        <target xml:lang="pt-PT" state="translated">Título 1</target>
+        <target xml:lang="pt-PT">Título 1</target>
         <note>key: heading.1</note>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="4decf57f600f5e23f972092da3023f7065f7008b" resname="heading.2">
+      <trans-unit id="4decf57f600f5e23f972092da3023f7065f7008b" resname="heading.2" approved="yes">
         <source>Heading 2</source>
-        <target xml:lang="pt-PT" state="translated">Título 2</target>
+        <target xml:lang="pt-PT">Título 2</target>
         <note>key: heading.2</note>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="6402924fbcdd16ea9dbf4c37c3da4f53db8fd631" resname="heading.3">
+      <trans-unit id="6402924fbcdd16ea9dbf4c37c3da4f53db8fd631" resname="heading.3" approved="yes">
         <source>Heading 3</source>
-        <target xml:lang="pt-PT" state="translated">Título 3</target>
+        <target xml:lang="pt-PT">Título 3</target>
         <note>key: heading.3</note>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="7e65910e3c5725aaff4b648220dab7bb6266df48" resname="heading.4">
+      <trans-unit id="7e65910e3c5725aaff4b648220dab7bb6266df48" resname="heading.4" approved="yes">
         <source>Heading 4</source>
-        <target xml:lang="pt-PT" state="translated">Título 4</target>
+        <target xml:lang="pt-PT">Título 4</target>
         <note>key: heading.4</note>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="f70107bea5df35dd8bd8b8b0321db6190d7d6aba" resname="heading.5">
+      <trans-unit id="f70107bea5df35dd8bd8b8b0321db6190d7d6aba" resname="heading.5" approved="yes">
         <source>Heading 5</source>
-        <target xml:lang="pt-PT" state="translated">Título 5</target>
+        <target xml:lang="pt-PT">Título 5</target>
         <note>key: heading.5</note>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="29b64da968aa203bc30bea66937d98b1808f7061" resname="heading.6">
+      <trans-unit id="29b64da968aa203bc30bea66937d98b1808f7061" resname="heading.6" approved="yes">
         <source>Heading 6</source>
-        <target xml:lang="pt-PT" state="translated">Título 6</target>
+        <target xml:lang="pt-PT">Título 6</target>
         <note>key: heading.6</note>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="0e76292794888d4f1fa75fb3aff4ca27c58f56a6" resname="image">
+      <trans-unit id="0e76292794888d4f1fa75fb3aff4ca27c58f56a6" resname="image" approved="yes">
         <source>Image</source>
-        <target xml:lang="pt-PT" state="translated">Imagem</target>
+        <target xml:lang="pt-PT">Imagem</target>
         <note>key: image</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/image.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="3d7a034a83cbfb625391d2e897c5163400413b6b" resname="justify">
+      <trans-unit id="3d7a034a83cbfb625391d2e897c5163400413b6b" resname="justify" approved="yes">
         <source>Justify</source>
-        <target xml:lang="pt-PT" state="translated">Justificar</target>
+        <target xml:lang="pt-PT">Justificar</target>
         <note>key: justify</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextalignjustify.js</jms:reference-file>
       </trans-unit>
