@@ -6,11 +6,23 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="8199e9b3c9cfe019c9a9c07424abe35374ff0321" resname="role.assignment.form.delete">
+        <source>Delete assignment</source>
+        <target xml:lang="fr" state="translated">Supprimer l'assignation</target>
+        <note>key: role.assignment.form.delete</note>
+        <jms:reference-file line="32">lib/Form/Type/Role/RoleAssignmentDeleteType.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="2055432dd7586fdb260245c2eee60e3869bc5b23" resname="role.cancel" approved="yes">
         <source>Cancel</source>
         <target xml:lang="fr">Annuler</target>
         <note>key: role.cancel</note>
         <jms:reference-file line="97">lib/Form/Type/Role/PolicyType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d0f7a460463941ed043e46909f5b73e7062db88a" resname="role.create">
+        <source>Create a role</source>
+        <target xml:lang="fr" state="translated">Créer un rôle</target>
+        <note>key: role.create</note>
+        <jms:reference-file line="34">lib/Form/Type/Role/RoleCreateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="2899eca602b4735e6d40c6602fe539474fcbe76d" resname="role.identifier">
         <source>Name</source>
