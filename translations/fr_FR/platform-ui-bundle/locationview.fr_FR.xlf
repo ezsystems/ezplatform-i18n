@@ -12,6 +12,18 @@
         <note>key: being.moved.under</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="95d6046a734be802fb22460fd8276a042e7e1198" resname="confirm.remove.location">
+        <source>Are you sure you want to remove selected locations?</source>
+        <target xml:lang="fr" state="translated">Êtes-vous sûr de vouloir supprimer les emplacements sélectionnés ?</target>
+        <note>key: confirm.remove.location</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="10b37ae9b695e443fa4704d7a21efd0cadca7d49" resname="confirm.set.main.location">
+        <source>Are you sure you want to set this location as main location of content?</source>
+        <target xml:lang="fr" state="translated">Êtes-vous sûr de que vouloir définir cet emplacement comme emplacement principal du contenu ?</target>
+        <note>key: confirm.set.main.location</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="8a2fbb282605f72d531c11a15b621a9edc4913db" resname="confirmed.delete">
         <source>Are you sure you want to delete this content?</source>
         <target xml:lang="fr" state="translated">Êtes-vous sur de vouloir supprimer ce contenu?</target>
