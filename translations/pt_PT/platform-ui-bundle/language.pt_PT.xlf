@@ -43,6 +43,9 @@
         <jms:reference-file line="41">Resources/views/Language/list.html.twig</jms:reference-file>
         <jms:reference-file line="40">Resources/views/Language/view.html.twig</jms:reference-file>
         <alt-trans>
+          <target xml:lang="pt-PT">Desactivado</target>
+        </alt-trans>
+        <alt-trans>
           <target xml:lang="pt-PT">Desactivo</target>
         </alt-trans>
       </trans-unit>
