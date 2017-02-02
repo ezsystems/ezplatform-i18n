@@ -162,11 +162,29 @@
         <note>key: Path '%path%' already exists for the given language</note>
         <jms:reference-file line="397">eZ/Publish/Core/Persistence/Legacy/Content/UrlAlias/Handler.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="b2d83ff8d535b64b36eaab04237a3091fc10ee5a" resname="Placeholders are not matching with wildcards.">
+        <source>Placeholders are not matching with wildcards.</source>
+        <target xml:lang="fr" state="translated">Les espaces réservés ne correspondent pas avec des caractères génériques.</target>
+        <note>key: Placeholders are not matching with wildcards.</note>
+        <jms:reference-file line="102">eZ/Publish/Core/Repository/URLWildcardService.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d750946e6e0689d003a701bf1db100b12a742c4f" resname="Provided content type does not contain ezuser field type">
+        <source>Provided content type does not contain ezuser field type</source>
+        <target xml:lang="fr" state="translated">Le type de contenu fourni ne contient pas de type de champ ezuser</target>
+        <note>key: Provided content type does not contain ezuser field type</note>
+        <jms:reference-file line="422">eZ/Publish/Core/Repository/UserService.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="c13178e601c4bf79ad9ef57efe468ed438a9b167" resname="Relation is not of type COMMON">
         <source>Relation is not of type COMMON</source>
         <target xml:lang="fr" state="translated">La relation n'est pas de type COMMON</target>
         <note>key: Relation is not of type COMMON</note>
         <jms:reference-file line="645">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8da63ffae0f9707c46ca02d66e9074e7f9f538d6" resname="Relation of type COMMON can only be added to drafts">
+        <source>Relation of type COMMON can only be added to drafts</source>
+        <target xml:lang="fr" state="translated">La relation de type COMMUN peut uniquement être ajoutée aux Brouillons</target>
+        <note>key: Relation of type COMMON can only be added to drafts</note>
+        <jms:reference-file line="684">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="09683b2a73d28421548e01bfbd6cc468095fa29d" resname="User does not have access to '%function%' '%module%'">
         <source>User does not have access to '%function%' '%module%'</source>
@@ -179,6 +197,22 @@
         <target xml:lang="fr" state="translated">L'utilisateur n'a pas accès à '%function%' '%module%' avec %with%</target>
         <note>key: User does not have access to '%function%' '%module%' with: %with%'</note>
         <jms:reference-file line="42">eZ/Publish/Core/Base/Exceptions/UnauthorizedException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dfb77818edfca3ee72ed24e16c643a84203ecfa7" resname="Version in status PUBLISHED cannot be deleted">
+        <source>Version in status PUBLISHED cannot be deleted</source>
+        <target xml:lang="fr" state="translated">Impossible de supprimer la version PUBLIEE</target>
+        <note>key: Version in status PUBLISHED cannot be deleted</note>
+        <jms:reference-file line="354">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f80f674916004d986500fe18b36ff55286191490" resname="expected value to be of type '%expectedType%'">
+        <source>expected value to be of type '%expectedType%'</source>
+        <target xml:lang="fr" state="translated">la valeur attendue est de type %expectedType%</target>
+        <note>key: expected value to be of type '%expectedType%'</note>
+      </trans-unit>
+      <trans-unit id="5f722d4df65d72e23fbf62ea8a5adadaf249413c" resname="expected value to be of type '%expectedType%', got '%actualType%'">
+        <source>expected value to be of type '%expectedType%', got '%actualType%'</source>
+        <target xml:lang="fr" state="translated">le type de la valeur attendu est %expectedType%, le type obtenu est %actualType%</target>
+        <note>key: expected value to be of type '%expectedType%', got '%actualType%'</note>
       </trans-unit>
     </body>
   </file>
