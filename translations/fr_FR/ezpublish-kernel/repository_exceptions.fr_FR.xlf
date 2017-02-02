@@ -6,9 +6,9 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="c2993e6873e928a2a635698ce582b4aba5748643" resname="'%actualValue%' is wrong value">
+      <trans-unit id="c2993e6873e928a2a635698ce582b4aba5748643" resname="'%actualValue%' is wrong value" approved="yes">
         <source>'%actualValue%' is wrong value</source>
-        <target xml:lang="fr" state="translated">« %actualValue% » est une valeur incorrecte</target>
+        <target xml:lang="fr">« %actualValue% » est une valeur incorrecte</target>
         <note>key: '%actualValue%' is wrong value</note>
         <jms:reference-file line="32">eZ/Publish/Core/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
       </trans-unit>
@@ -18,9 +18,9 @@
         <note>key: '%actualValue%' is wrong value in class '%className%'</note>
         <jms:reference-file line="34">eZ/Publish/Core/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
       </trans-unit>
-      <trans-unit id="894070fe84612fd5871c1b09bc79f85c2e17d384" resname="A value is set for non translatable field definition '%identifier%' with language '%languageCode%'">
+      <trans-unit id="894070fe84612fd5871c1b09bc79f85c2e17d384" resname="A value is set for non translatable field definition '%identifier%' with language '%languageCode%'" approved="yes">
         <source>A value is set for non translatable field definition '%identifier%' with language '%languageCode%'</source>
-        <target xml:lang="fr" state="translated">Une valeur est définie pour le FieldDefinition non traduisible '%identifier%' avec la langue '%languageCode%'</target>
+        <target xml:lang="fr">Une valeur est définie pour le FieldDefinition non traduisible '%identifier%' avec la langue '%languageCode%'</target>
         <note>key: A value is set for non translatable field definition '%identifier%' with language '%languageCode%'</note>
         <jms:reference-file line="1410">eZ/Publish/Core/Repository/ContentService.php</jms:reference-file>
         <jms:reference-file line="770">eZ/Publish/Core/Repository/ContentService.php</jms:reference-file>
