@@ -89,16 +89,22 @@
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextalignleft.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/embedleft.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="f1b97751d7808745ad7eb7c9edcae87482aa9852" resname="link.remove">
+      <trans-unit id="f1b97751d7808745ad7eb7c9edcae87482aa9852" resname="link.remove" approved="yes">
         <source>Remove</source>
-        <target xml:lang="pl" state="translated">Usuń</target>
+        <target xml:lang="pl">Usuń</target>
         <note>key: link.remove</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="df924f3511438d4ef5588e1680b084b2a665da56" resname="link.save">
+      <trans-unit id="df924f3511438d4ef5588e1680b084b2a665da56" resname="link.save" approved="yes">
         <source>Save</source>
-        <target xml:lang="pl" state="translated">Zapisz</target>
+        <target xml:lang="pl">Zapisz</target>
         <note>key: link.save</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9dda4a5c146e73bc34c431f92055186a9e5a45c9" resname="link.to" approved="yes">
+        <source>Link to:</source>
+        <target xml:lang="pl">Link do:</target>
+        <note>key: link.to</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="38b62be4bddaa5661c7d6b8e36e28159314df5c7" resname="list" approved="yes">
@@ -106,6 +112,30 @@
         <target xml:lang="pl">Lista</target>
         <note>key: list</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/list.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="568ae6cf926fffd4ef996af48a51dee3830bd96b" resname="move.down" approved="yes">
+        <source>Move downward</source>
+        <target xml:lang="pl">Przesuń w dół</target>
+        <note>key: move.down</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/movedown.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="68dec644b0986ba6a27e8e7e8ffcd5e1f22cd3fc" resname="move.up" approved="yes">
+        <source>Move upward</source>
+        <target xml:lang="pl">Przesuń w górę</target>
+        <note>key: move.up</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/moveup.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="24178d4b489565d2890ffe1c7a81d353cfaeda34" resname="new.tab" approved="yes">
+        <source>New tab</source>
+        <target xml:lang="pl">Nowej zakładce</target>
+        <note>key: new.tab</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d4fcd0ab161cf2389caeb1b3318ac72eb1437810" resname="open.in" approved="yes">
+        <source>Open in:</source>
+        <target xml:lang="pl">Otwórz w:</target>
+        <note>key: open.in</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="f416747c2f302b11d2360559f101e49353e88038" resname="paragraph" approved="yes">
         <source>Paragraph</source>
@@ -127,6 +157,12 @@
         <note>key: right</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextalignright.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/embedright.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4cdec5ce343b49799b87d7c0adbe47dd2e67ed7f" resname="same.tab" approved="yes">
+        <source>Same tab</source>
+        <target xml:lang="pl">Tej samej zakładce</target>
+        <note>key: same.tab</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="66e4d5a581b0460c2a07236f815ada78bfa75a68" resname="select.a.content.to.embed" approved="yes">
         <source>Select a content to embed</source>
@@ -165,6 +201,18 @@
         <alt-trans>
           <target xml:lang="pl">Wybierz inną grafikę</target>
         </alt-trans>
+      </trans-unit>
+      <trans-unit id="3c6de1b7dd91465d437ef415f94f36afc1fbc8a8" resname="title" approved="yes">
+        <source>Title</source>
+        <target xml:lang="pl">Tytuł</target>
+        <note>key: title</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5703353ad23aceb493d616c7eb3ef4c65ed5b888" resname="type.or.paste.link" approved="yes">
+        <source>Type or paste link here</source>
+        <target xml:lang="pl">Tutaj wpisz lub wklej link</target>
+        <note>key: type.or.paste.link</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
       </trans-unit>
     </body>
   </file>
