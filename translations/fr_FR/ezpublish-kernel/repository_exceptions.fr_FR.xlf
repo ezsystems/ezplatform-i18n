@@ -85,6 +85,12 @@
         <note>key: ContentType FieldDefinitions did not validate</note>
         <jms:reference-file line="45">eZ/Publish/Core/Base/Exceptions/ContentTypeFieldDefinitionValidationException.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="dbf0b883e33a6e7c433ffa9a536fd214cda39b5c" resname="Could not find %classType% class '%className%'">
+        <source>Could not find %classType% class '%className%'</source>
+        <target xml:lang="fr" state="translated">La classe '%className%' de type %classType% est introuvable</target>
+        <note>key: Could not find %classType% class '%className%'</note>
+        <jms:reference-file line="41">eZ/Publish/Core/Base/Exceptions/MissingClass.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="ff3e1dacaa764a0e94a86b173f9c93509fcaadeb" resname="Could not find '%what%' with identifier '%identifier%'">
         <source>Could not find '%what%' with identifier '%identifier%'</source>
         <target xml:lang="fr" state="translated">'%what%' avec pour identifiant '%identifier%' est introuvable</target>
@@ -103,16 +109,58 @@
         <note>key: Current version is already in status DRAFT</note>
         <jms:reference-file line="410">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="577ff380f946adc384c1ca853ac1e7c21a0cba41" resname="Empty content type draft cannot be published">
+        <source>Empty content type draft cannot be published</source>
+        <target xml:lang="fr" state="translated">Un brouillon vide de Type de Contenu ne peut être publié</target>
+        <note>key: Empty content type draft cannot be published</note>
+        <jms:reference-file line="708">eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="097b8a2bc1db5e54deb4aa00b0e0483fe1af27a4" resname="FieldType '%fieldType%' not found, needs to be implemented or configured to use FieldType\Null\Type (%ezpublish.fieldType.eznull.class%)">
+        <source>FieldType '%fieldType%' not found, needs to be implemented or configured to use FieldType\Null\Type (%ezpublish.fieldType.eznull.class%)</source>
+        <target xml:lang="fr" state="translated">Le FieldType '%fieldType%' est introuvable, il doit être implémenté ou configuré pour utiliser FieldType\\Null\\Type (%ezpublish.fieldType.eznull.class%)</target>
+        <note>key: FieldType '%fieldType%' not found, needs to be implemented or configured to use FieldType\Null\Type (%ezpublish.fieldType.eznull.class%)</note>
+        <jms:reference-file line="32">eZ/Publish/Core/Base/Exceptions/NotFound/FieldTypeNotFoundException.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="25f2ccabd8883a36aee5754ce43741c211cf378a" resname="FieldType '%identifier%' is singular and can't be repeated in a ContentType">
         <source>FieldType '%identifier%' is singular and can't be repeated in a ContentType</source>
         <target xml:lang="fr" state="translated">Le FieldType '%identifier%' est unique et ne peut être répété dans un ContentType</target>
         <note>key: FieldType '%identifier%' is singular and can't be repeated in a ContentType</note>
+      </trans-unit>
+      <trans-unit id="b592a161a19d303272498874fb27a71626461be7" resname="Limitation '%limitation%' not found, needs to be implemented or configured to use Limitation\BlockingLimitationType (%ezpublish.api.role.limitation_type.blocking.class%">
+        <source>Limitation '%limitation%' not found, needs to be implemented or configured to use Limitation\BlockingLimitationType (%ezpublish.api.role.limitation_type.blocking.class%</source>
+        <target xml:lang="fr" state="translated">La limitation '%limitation%' est introuvable, elle doit être implémentée ou configurée pour utiliser Limitation\\BlockingLimitationType (%ezpublish.api.role.limitation_type.blocking.class%</target>
+        <note>key: Limitation '%limitation%' not found, needs to be implemented or configured to use Limitation\BlockingLimitationType (%ezpublish.api.role.limitation_type.blocking.class%</note>
+        <jms:reference-file line="32">eZ/Publish/Core/Base/Exceptions/NotFound/LimitationNotFoundException.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="71fd5f8839faaadfe7c61def7e4b42d429959952" resname="Limitations did not validate">
         <source>Limitations did not validate</source>
         <target xml:lang="fr" state="translated">Les limitations sont invalides</target>
         <note>key: Limitations did not validate</note>
         <jms:reference-file line="40">eZ/Publish/Core/Base/Exceptions/LimitationValidationException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f915c78ee350c1b4fb3d3adac7584a12fcc0cfdf" resname="Only empty content type groups can be deleted">
+        <source>Only empty content type groups can be deleted</source>
+        <target xml:lang="fr" state="translated">Seuls les groupes de type de contenu vides peuvent être supprimés</target>
+        <note>key: Only empty content type groups can be deleted</note>
+        <jms:reference-file line="141">eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="87b49727a4d83168066183cbed772c1bbdfb63f8" resname="Only version in status DRAFT can be published">
+        <source>Only version in status DRAFT can be published</source>
+        <target xml:lang="fr" state="translated">Seules les versions dans l'état BROUILLON peuvent être publiées</target>
+        <note>key: Only version in status DRAFT can be published</note>
+        <jms:reference-file line="513">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d75253ee3a0502ae44236a6556419822252f8849" resname="Only version in status DRAFT can be updated">
+        <source>Only version in status DRAFT can be updated</source>
+        <target xml:lang="fr" state="translated">Seules les versions dans l'état BROUILLON peuvent être mises à jour</target>
+        <note>key: Only version in status DRAFT can be updated</note>
+        <jms:reference-file line="461">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3467ebb6448f4d8dd9f8a99cbea79415f25fa26d" resname="Path '%path%' already exists for the given language">
+        <source>Path '%path%' already exists for the given language</source>
+        <target xml:lang="fr" state="translated">Le chemin '%path%' existe déjà pour la langue donnée</target>
+        <note>key: Path '%path%' already exists for the given language</note>
+        <jms:reference-file line="397">eZ/Publish/Core/Persistence/Legacy/Content/UrlAlias/Handler.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="c13178e601c4bf79ad9ef57efe468ed438a9b167" resname="Relation is not of type COMMON">
         <source>Relation is not of type COMMON</source>
