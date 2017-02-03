@@ -119,6 +119,18 @@
           <target xml:lang="fr">Une erreur s'est produite lors de l'enregistrement du brouillon, l'aperçu ne peut pas être généré.</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="efde392b8cb92e5f09d889652fcb0160fbbdbb24" resname="language.changed.to">
+        <source>Language has been changed to %name%</source>
+        <target xml:lang="fr" state="translated">La langue a été modifiée par %name%</target>
+        <note>key: language.changed.to</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-contentcreateviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6d0401db3e4611b4d77886467ae5ca21014be5f5" resname="name.new.content.of.type">
+        <source>New "%contentTypeName%"</source>
+        <target xml:lang="fr" state="translated">Nouveau "%contentTypeName%"</target>
+        <note>key: name.new.content.of.type</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-contentcreateviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="1aa787fe0cfb373575fc2c0f6f826e7c6dc9fd41" resname="preview">
         <source>Preview</source>
         <target xml:lang="fr" state="translated">Aperçu</target>
