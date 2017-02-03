@@ -75,39 +75,39 @@
         <note>key: restoring.trash.items</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="bdaee6eee47e0c028566b056680e5f7488772428" resname="trash.ancestors">
+      <trans-unit id="bdaee6eee47e0c028566b056680e5f7488772428" resname="trash.ancestors" approved="yes">
         <source>Item's ancestors are in Trash</source>
-        <target xml:lang="pt-PT" state="translated">Antecessores do item estão no Lixo</target>
+        <target xml:lang="pt-PT">Antecessores do item estão no Lixo</target>
         <note>key: trash.ancestors</note>
         <jms:reference-file>Resources/public/templates/trash.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="7883128cdfb813826271abe90b3a1f3190833ce6" resname="trash.empty">
+      <trans-unit id="7883128cdfb813826271abe90b3a1f3190833ce6" resname="trash.empty" approved="yes">
         <source>The trash is empty</source>
-        <target xml:lang="pt-PT" state="translated">O lixo está vazio</target>
+        <target xml:lang="pt-PT">O lixo está vazio</target>
         <note>key: trash.empty</note>
         <jms:reference-file>Resources/public/templates/trash.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="9bedf5469883778a8aac2f2a0daaa7664704069b" resname="trash.header.name">
+      <trans-unit id="9bedf5469883778a8aac2f2a0daaa7664704069b" resname="trash.header.name" approved="yes">
         <source>Trash</source>
-        <target xml:lang="pt-PT" state="translated">Lixo</target>
+        <target xml:lang="pt-PT">Lixo</target>
         <note>key: trash.header.name</note>
         <jms:reference-file>Resources/public/templates/trash.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="3a3e7b9bb64031650fdee83795a1ff063f6e655b" resname="trash.name.label">
+      <trans-unit id="3a3e7b9bb64031650fdee83795a1ff063f6e655b" resname="trash.name.label" approved="yes">
         <source>Name</source>
-        <target xml:lang="pt-PT" state="translated">Nome</target>
+        <target xml:lang="pt-PT">Nome</target>
         <note>key: trash.name.label</note>
         <jms:reference-file>Resources/public/templates/trash.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="9575bcbf8b3c77d77aaae07deedce83f809818f5" resname="trash.original.location.label">
+      <trans-unit id="9575bcbf8b3c77d77aaae07deedce83f809818f5" resname="trash.original.location.label" approved="yes">
         <source>Original Location</source>
-        <target xml:lang="pt-PT" state="translated">Localização Original</target>
+        <target xml:lang="pt-PT">Localização Original</target>
         <note>key: trash.original.location.label</note>
         <jms:reference-file>Resources/public/templates/trash.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="ca702addebbb7f19ce7adc7b2d990c2abcbe73dc" resname="trash.type.label">
+      <trans-unit id="ca702addebbb7f19ce7adc7b2d990c2abcbe73dc" resname="trash.type.label" approved="yes">
         <source>Type</source>
-        <target xml:lang="pt-PT" state="translated">Tipo</target>
+        <target xml:lang="pt-PT">Tipo</target>
         <note>key: trash.type.label</note>
         <jms:reference-file>Resources/public/templates/trash.hbt</jms:reference-file>
       </trans-unit>
