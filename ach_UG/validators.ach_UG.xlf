@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" datatype="plaintext" original="file.ext" target-language="ach">
+    <body>
+      <trans-unit id="1">
+        <source>ez.content_type.identifier.pattern</source>
+        <target xml:lang="ach">crwdns209126:0crwdne209126:0</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>ez.content_type.names</source>
+        <target xml:lang="ach">crwdns209127:0crwdne209127:0</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>ez.content_type.descriptions</source>
+        <target xml:lang="ach">crwdns209128:0crwdne209128:0</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>ez.content_type.identifier.unique</source>
+        <target xml:lang="ach">crwdns209129:0crwdne209129:0</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>ez.field_definition.names</source>
+        <target xml:lang="ach">crwdns209130:0crwdne209130:0</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>ez.field_definition.descriptions</source>
+        <target xml:lang="ach">crwdns209131:0crwdne209131:0</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>ez.field_definition.identifier.unique</source>
+        <target xml:lang="ach">crwdns209132:0crwdne209132:0</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>ez.field_definition.validator_configuration</source>
+        <target xml:lang="ach">crwdns209133:0crwdne209133:0</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>ez.field_definition.field_settings</source>
+        <target xml:lang="ach">crwdns209134:0crwdne209134:0</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>ez.field_definition.default_field_value</source>
+        <target xml:lang="ach">crwdns209135:0crwdne209135:0</target>
+      </trans-unit>
+      <trans-unit id="b4bcdedc4147dd912dc0247cea16c750" resname="ez.role.identifier.unique">
+        <source>ez.role.identifier.unique</source>
+        <target xml:lang="ach">crwdns209136:0crwdne209136:0</target>
+      </trans-unit>
+      <trans-unit id="5387d26cceb54294dafe82be9b0d61d0">
+        <source>ez.section.identifier.format</source>
+        <target xml:lang="ach">crwdns209137:0crwdne209137:0</target>
+      </trans-unit>
+      <trans-unit id="3782ffaac11648e8ead7248adb7a42bc">
+        <source>ez.section.identifier.unique</source>
+        <target xml:lang="ach">crwdns209138:0crwdne209138:0</target>
+      </trans-unit>
+      <trans-unit id="89e55c873b7b7be97b6d3ad700e2e041">
+        <source>ez.field.value</source>
+        <target xml:lang="ach">crwdns209139:0crwdne209139:0</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
