@@ -37,6 +37,74 @@
         <note>key: database</note>
         <jms:reference-file line="3">Resources/views/ez-support-tools/info/database.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="cda1c2cdc0936c26cd9a325835b49a27d2ddfcc3" resname="database.name">
+        <source>Name</source>
+        <target xml:lang="nb" state="translated">Navn</target>
+        <note>key: database.name</note>
+        <jms:reference-file line="7">Resources/views/ez-support-tools/info/database.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3af131bd1d37e4242ca0c124312180ad31ee23e9" resname="database.type">
+        <source>Type</source>
+        <target xml:lang="nb" state="translated">Type</target>
+        <note>key: database.type</note>
+        <jms:reference-file line="5">Resources/views/ez-support-tools/info/database.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="512e470f98391ba6e8140ef7a85e27c71af6e6bc" resname="database.username">
+        <source>Username</source>
+        <target xml:lang="nb" state="translated">Brukernavn</target>
+        <note>key: database.username</note>
+        <jms:reference-file line="11">Resources/views/ez-support-tools/info/database.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="07596f183f5e91b1778d5e47b2752b8d42aa763d" resname="disabled">
+        <source>Disabled</source>
+        <target xml:lang="nb" state="translated">Deaktivert</target>
+        <note>key: disabled</note>
+        <jms:reference-file line="13">Resources/views/ez-support-tools/info/php.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="608cb271bb7fb52c99a1a8e003e0f80f57fb41e1" resname="hardware">
+        <source>Hardware</source>
+        <target xml:lang="nb" state="translated">Maskinvare</target>
+        <note>key: hardware</note>
+        <jms:reference-file line="3">Resources/views/ez-support-tools/info/hardware.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="81c5d49be9505089d8d248ea96f6d077fd0ab9bd" resname="memory">
+        <source>Memory</source>
+        <target xml:lang="nb" state="translated">Minne</target>
+        <note>key: memory</note>
+        <jms:reference-file line="12">Resources/views/ez-support-tools/info/hardware.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a5a3d389f27a890d41a05f33c37b2f6133497c88" resname="mhz">
+        <source>MHz</source>
+        <target xml:lang="nb" state="translated">MHz</target>
+        <note>key: mhz</note>
+        <jms:reference-file line="9">Resources/views/ez-support-tools/info/hardware.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d8ae088aee969371bf4ed994e9106b5d3e799c35" resname="packages">
+        <source>Packages</source>
+        <target xml:lang="nb" state="translated">Pakker</target>
+        <note>key: packages</note>
+        <jms:reference-file line="15">Resources/views/ez-support-tools/info/composer.html.twig</jms:reference-file>
+        <jms:reference-file line="9">Resources/views/ez-support-tools/info/composer.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="47425e4490d1548713efea3b8a6f5d778e4b1766" resname="php">
+        <source>PHP</source>
+        <target xml:lang="nb" state="translated">PHP</target>
+        <note>key: php</note>
+        <jms:reference-file line="3">Resources/views/ez-support-tools/info/php.html.twig</jms:reference-file>
+        <jms:reference-file line="5">Resources/views/ez-support-tools/info/php.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ee982f9a979085f2f15b3ddc699bfada99429bb4" resname="php.info">
+        <source>PHP info</source>
+        <target xml:lang="nb" state="translated">PHP info</target>
+        <note>key: php.info</note>
+        <jms:reference-file line="8">Resources/views/ez-support-tools/info/php.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="98c89e1daa8c0a7c472af26752752299ff44ee23" resname="symfony_kernel">
+        <source>Symfony kernel</source>
+        <target xml:lang="nb" state="translated">Symfony-kjerne</target>
+        <note>key: symfony_kernel</note>
+        <jms:reference-file line="3">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
