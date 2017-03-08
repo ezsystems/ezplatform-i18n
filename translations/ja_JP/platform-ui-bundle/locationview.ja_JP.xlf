@@ -66,6 +66,12 @@
         <note>key: locationview.locations.content.locations</note>
         <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="c74cc382c1023b02479021fe7b260023d1287df1" resname="locationview.locations.remove.selected">
+        <source>Remove selected</source>
+        <target xml:lang="ja" state="translated">選択項目を削除</target>
+        <note>key: locationview.locations.remove.selected</note>
+        <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="30412ae8741b6ad892f8e7121c1df1c98690fe69" resname="locationview.locations.select.content.item">
         <source>Select Content item</source>
         <target xml:lang="ja" state="translated">コンテンツアイテムの選択</target>
