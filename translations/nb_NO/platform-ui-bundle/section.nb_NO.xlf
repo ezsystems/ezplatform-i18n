@@ -44,16 +44,26 @@
         <source xml:space="preserve">{0} This section is assigned to %contentCount% content items.|{1} This section is assigned to
                     %contentCount% content item.|]1,Inf[ This section is assigned to %contentCount% content items
                 </source>
-        <target xml:space="preserve" xml:lang="nb" state="needs-translation">
+        <target xml:space="preserve" xml:lang="nb" state="translated">{0} Denne seksjonen er tilordnet %contentCount% innholdselementer.|{1} Denne seksjonen er tilordnet %contentCount% innholdselement.|]1,Inf[ Denne seksjonen er tilordnet %contentCount% innholdselementer.
                 </target>
         <note>key: section.assigned.contentcount</note>
         <jms:reference-file line="41">Resources/views/Section/view.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="nb">{0} Denne seksjonen er tilordnet %contentCount% innholdselementer.|{1} Denne seksjonen er tilordnet %contentCount% innholdselement.|]1,Inf[ Denne seksjonen er tilordnet til %contentCount% innholdselementer.
+                </target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="0a8c9188f868f7dfd2f523d0d1eabeb846d39d03" resname="section.cancel">
         <source>Cancel</source>
         <target xml:lang="nb" state="translated">Avbryt</target>
         <note>key: section.cancel</note>
         <jms:reference-file line="52">Resources/views/Section/edit.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8ca211181d27cce804802165a8831f0b6c06214a" resname="section.content.translate">
+        <source>Content items in this section (%contentCount%)</source>
+        <target xml:lang="nb" state="translated">Innhold i denne seksjonen (%contentCount%)</target>
+        <note>key: section.content.translate</note>
+        <jms:reference-file line="23">Resources/views/Section/view.html.twig</jms:reference-file>
       </trans-unit>
     </body>
   </file>
