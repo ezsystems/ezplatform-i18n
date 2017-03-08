@@ -32,9 +32,18 @@
       </trans-unit>
       <trans-unit id="2aecf6f88fd1ee89037907b8743d5873879a0590" resname="content_type.field_definitions_data">
         <source>Content field definitions</source>
-        <target xml:lang="ja" state="translated">コンテンツフィールドの定義</target>
+        <target xml:lang="ja" state="translated">コンテンツフィールド定義</target>
         <note>key: content_type.field_definitions_data</note>
         <jms:reference-file line="120">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="ja">コンテンツフィールドの定義</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="a43bfd2651eb1f3357e3398286afd5b6e17c101e" resname="content_type.field_type_selection">
+        <source>Field type selection</source>
+        <target xml:lang="ja" state="translated">フィールドタイプの選択</target>
+        <note>key: content_type.field_type_selection</note>
+        <jms:reference-file line="126">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="368a6ffa173a2e9605371392e99e565d9b247382" resname="content_type.group.delete">
         <source>Delete</source>
