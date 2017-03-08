@@ -168,6 +168,18 @@
         <note>key: fielddefinition.maximum-file-size.label</note>
         <jms:reference-file line="295">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="e58e37a5cd49fa5884d15ea8af61ad6973f33412" resname="fielddefinition.maximum-file-size.undefined">
+        <source>No defined maximum size</source>
+        <target xml:lang="es-ES" state="translated">Tamaño máximo no definido</target>
+        <note>key: fielddefinition.maximum-file-size.undefined</note>
+        <jms:reference-file line="300">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3e08813722e7959e982f4d8624c98b83d077cd55" resname="fielddefinition.maximum-file-size.value">
+        <source>%max% MB</source>
+        <target xml:lang="es-ES" state="translated">%max% MB</target>
+        <note>key: fielddefinition.maximum-file-size.value</note>
+        <jms:reference-file line="298">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="b9bb83913e23ad5a59eb7485ca48386bd7fce66e" resname="fielddefinition.media-player-type.flash">
         <source>Flash</source>
         <target xml:lang="es-ES" state="translated">Flash</target>
@@ -179,6 +191,24 @@
         <target xml:lang="es-ES" state="translated">Audio de HTML5</target>
         <note>key: fielddefinition.media-player-type.html5_audio</note>
         <jms:reference-file line="184">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="22881c3ebee12191bc6f269d943c1140eea4bfb1" resname="fielddefinition.media-player-type.html5_video">
+        <source>HTML5 Video</source>
+        <target xml:lang="es-ES" state="translated">Video HTML5</target>
+        <note>key: fielddefinition.media-player-type.html5_video</note>
+        <jms:reference-file line="182">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0aaa90efdf7cc5042723e7500891db70da3f8850" resname="fielddefinition.media-player-type.label">
+        <source>Media player type:</source>
+        <target xml:lang="es-ES" state="translated">Tipo de reproductor de medios:</target>
+        <note>key: fielddefinition.media-player-type.label</note>
+        <jms:reference-file line="169">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c7a28f2ea418dc17e634bf386d5f1db091582fc8" resname="fielddefinition.media-player-type.quick_time">
+        <source>Quicktime</source>
+        <target xml:lang="es-ES" state="translated">Quicktime</target>
+        <note>key: fielddefinition.media-player-type.quick_time</note>
+        <jms:reference-file line="174">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="edd8db0307e234e095d1788540bd026e48e173f8" resname="fielddefinition.media-player-type.real_player">
         <source>Real Player</source>
@@ -210,6 +240,42 @@
         <note>key: fielddefinition.min-value.label</note>
         <jms:reference-file line="347">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="625d3f00da19e0e839ad54eb5cc6b3504033b882" resname="fielddefinition.min-value.undefined">
+        <source>No defined minimum value</source>
+        <target xml:lang="es-ES" state="translated">Valor mínimo no definido</target>
+        <note>key: fielddefinition.min-value.undefined</note>
+        <jms:reference-file line="352">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="694dc611591facca075a581721e399e272b758fe" resname="fielddefinition.multiple.label">
+        <source>Allow multiple choices:</source>
+        <target xml:lang="es-ES" state="translated">Permitir opciones múltiples:</target>
+        <note>key: fielddefinition.multiple.label</note>
+        <jms:reference-file line="373">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="77c3603526e153eea2b11a851601dabd3bfdbd9a" resname="fielddefinition.multiple.yes_no">
+        <source>{0} No|{1} Yes</source>
+        <target xml:lang="es-ES" state="translated">{0} No|{1} Sí</target>
+        <note>key: fielddefinition.multiple.yes_no</note>
+        <jms:reference-file line="374">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4d59776118124c81734aacab8a71198ee555479c" resname="fielddefinition.options.label">
+        <source>Defined options</source>
+        <target xml:lang="es-ES" state="translated">Opciones definidas</target>
+        <note>key: fielddefinition.options.label</note>
+        <jms:reference-file line="143">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="030aa959f56ae9ba0e1d84a99606995a02c5bd97" resname="fielddefinition.preferred-rows-number.label">
+        <source>Preferred number of rows:</source>
+        <target xml:lang="es-ES" state="translated">Número de filas preferido:</target>
+        <note>key: fielddefinition.preferred-rows-number.label</note>
+        <jms:reference-file line="308">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f552c76a800b38e41d8b16afa53d3d22d3b37692" resname="fielddefinition.preferred-rows-number.undefined">
+        <source>No preferred number of rows</source>
+        <target xml:lang="es-ES" state="translated">Número de filas no preferido</target>
+        <note>key: fielddefinition.preferred-rows-number.undefined</note>
+        <jms:reference-file line="313">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="ac0aff5c558fb078621da0f46b2ae5b0e04afcaa" resname="fielddefinition.preferred-rows-number.value">
         <source>%rows% rows</source>
         <target xml:lang="es-ES" state="translated">%rows% entradas</target>
@@ -223,12 +289,81 @@
         <jms:reference-file line="205">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
         <jms:reference-file line="224">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="02c78e1886bdf844e359ddd54b190eb718286557" resname="fielddefinition.selection-method.checkbox">
+        <source>List with checkboxes</source>
+        <target xml:lang="es-ES" state="translated">Lista con casillas de verificación</target>
+        <note>key: fielddefinition.selection-method.checkbox</note>
+        <jms:reference-file line="230">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a60c81e556aa14c00b3b44ffb6e49f90b882c286" resname="fielddefinition.selection-method.label">
+        <source>Selection method:</source>
+        <target xml:lang="es-ES" state="translated">Método de selección:</target>
+        <note>key: fielddefinition.selection-method.label</note>
+        <jms:reference-file line="202">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="221">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cd94d6146477b427bdc6dbbe19be20bd6db31542" resname="fielddefinition.selection-method.list">
+        <source>Drop-down list</source>
+        <target xml:lang="es-ES" state="translated">Lista desplegable</target>
+        <note>key: fielddefinition.selection-method.list</note>
+        <jms:reference-file line="207">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="226">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7d8f219b8fc1dab2be8b6a82898b0e7a8920c928" resname="fielddefinition.selection-method.multi_template">
+        <source>Template based, multi</source>
+        <target xml:lang="es-ES" state="translated">Basado en plantillas, multi</target>
+        <note>key: fielddefinition.selection-method.multi_template</note>
+        <jms:reference-file line="234">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1095b3a335cbfeed0e396f081895affe81e7b7fd" resname="fielddefinition.selection-method.multiple_list">
+        <source>Multiple selection list</source>
+        <target xml:lang="es-ES" state="translated">Lista de selección múltiple</target>
+        <note>key: fielddefinition.selection-method.multiple_list</note>
+        <jms:reference-file line="232">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="60f06115f038572328285e2ca1fc5ad811105c49" resname="fielddefinition.selection-method.radio">
+        <source>List with radio buttons</source>
+        <target xml:lang="es-ES" state="translated">Lista con botones de radio</target>
+        <note>key: fielddefinition.selection-method.radio</note>
+        <jms:reference-file line="228">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="37121f3c9e8054432510a9f85fd3235e5f549734" resname="fielddefinition.selection-method.single_template">
+        <source>Template based, single</source>
+        <target xml:lang="es-ES" state="translated">Basado en planilla, simple</target>
+        <note>key: fielddefinition.selection-method.single_template</note>
+        <jms:reference-file line="236">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e0b6bc6950269d05c7318553912abe4042d6a423" resname="fielddefinition.selection-method.tree">
+        <source>Drop-down tree</source>
+        <target xml:lang="es-ES" state="translated">Árbol desplegable</target>
+        <note>key: fielddefinition.selection-method.tree</note>
+        <jms:reference-file line="209">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ccf4d68283a388e6a965caf9e507c6a39fffc46f" resname="fielddefinition.selection-root.label">
+        <source>Selection root:</source>
+        <target xml:lang="es-ES" state="translated">Raíz de selección:</target>
+        <note>key: fielddefinition.selection-root.label</note>
+        <jms:reference-file line="321">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c7b711d3eb6c197d83e064f309bd2e9791a0950d" resname="fielddefinition.selection-root.undefined">
+        <source>No defined root</source>
+        <target xml:lang="es-ES" state="translated">Raíz no definida</target>
+        <note>key: fielddefinition.selection-root.undefined</note>
+        <jms:reference-file line="326">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="4c9eb21a084528340d7944eeb0ffe525fc5e5e75" resname="fielddefinition.use-seconds.label">
         <source>Use seconds:</source>
         <target xml:lang="es-ES" state="translated">Usar segundos:</target>
         <note>key: fielddefinition.use-seconds.label</note>
         <jms:reference-file line="112">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
         <jms:reference-file line="86">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f875a84fc9f3c1e0610a90197722f04b9442fa01" resname="fielddefinition.use-seconds.yes_no">
+        <source>{0} No|{1} Yes</source>
+        <target xml:lang="es-ES" state="translated">{0} No|{1} Sí</target>
+        <note>key: fielddefinition.use-seconds.yes_no</note>
+        <jms:reference-file line="113">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="87">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
     </body>
   </file>
