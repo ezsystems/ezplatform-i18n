@@ -35,6 +35,14 @@
         <note>key: content_type.default_sort</note>
         <jms:reference-file line="72">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="252d43535d548e208668c24e8924f737a1a191c8" resname="content_type.edit">
+        <source>Edit</source>
+        <target xml:lang="ja" state="translated">編集</target>
+        <note>key: content_type.edit</note>
+        <jms:reference-file line="152">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="44">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+        <jms:reference-file line="46">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="fd931f1ea0d601fe877606ec9e42ff7c37d44d4e" resname="content_type.group.cancel">
         <source>Cancel</source>
         <target xml:lang="ja" state="translated">キャンセル</target>
@@ -88,6 +96,19 @@
         <note>key: content_type.identifier</note>
         <jms:reference-file line="46">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="29">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="da320072e416ddaba6f9ea57810d26fd1b6bfe80" resname="content_type.modified_date">
+        <source>Modification date</source>
+        <target xml:lang="ja" state="translated">更新日時</target>
+        <note>key: content_type.modified_date</note>
+        <jms:reference-file line="30">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
+        <source>Name</source>
+        <target xml:lang="ja" state="translated">名前</target>
+        <note>key: content_type.name</note>
+        <jms:reference-file line="42">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="28">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
         <source>URL alias name pattern</source>
