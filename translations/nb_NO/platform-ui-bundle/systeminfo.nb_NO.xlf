@@ -37,6 +37,12 @@
         <note>key: database</note>
         <jms:reference-file line="3">Resources/views/ez-support-tools/info/database.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="5588036c51b3fff9557483e210bfd47187f54ac8" resname="database.host">
+        <source>Host</source>
+        <target xml:lang="nb" state="translated">Vert</target>
+        <note>key: database.host</note>
+        <jms:reference-file line="9">Resources/views/ez-support-tools/info/database.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="cda1c2cdc0936c26cd9a325835b49a27d2ddfcc3" resname="database.name">
         <source>Name</source>
         <target xml:lang="nb" state="translated">Navn</target>
@@ -86,12 +92,24 @@
         <jms:reference-file line="15">Resources/views/ez-support-tools/info/composer.html.twig</jms:reference-file>
         <jms:reference-file line="9">Resources/views/ez-support-tools/info/composer.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="5bfa5c4492601632e405273e2f7ea28977f108c3" resname="packages.empty">
+        <source>Could not find any packages, composer.lock file missing?</source>
+        <target xml:lang="nb" state="translated">Finner ingen pakker, mangler composer.lock-fil?</target>
+        <note>key: packages.empty</note>
+        <jms:reference-file line="10">Resources/views/ez-support-tools/info/composer.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="47425e4490d1548713efea3b8a6f5d778e4b1766" resname="php">
         <source>PHP</source>
         <target xml:lang="nb" state="translated">PHP</target>
         <note>key: php</note>
         <jms:reference-file line="3">Resources/views/ez-support-tools/info/php.html.twig</jms:reference-file>
         <jms:reference-file line="5">Resources/views/ez-support-tools/info/php.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="43ebf283d294d1a15b5d590815cd893e52164ed9" resname="php.accelerator">
+        <source>PHP Accelerator</source>
+        <target xml:lang="nb" state="translated">PHP Accelerator</target>
+        <note>key: php.accelerator</note>
+        <jms:reference-file line="10">Resources/views/ez-support-tools/info/php.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="ee982f9a979085f2f15b3ddc699bfada99429bb4" resname="php.info">
         <source>PHP info</source>
@@ -104,6 +122,81 @@
         <target xml:lang="nb" state="translated">Symfony-kjerne</target>
         <note>key: symfony_kernel</note>
         <jms:reference-file line="3">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dbc3d622a5e78844eeb75f3e9477b90357984ad7" resname="symfony_kernel.bundles.empty">
+        <source>Could not find any bundles.</source>
+        <target xml:lang="nb" state="translated">Fant ingen bunter.</target>
+        <note>key: symfony_kernel.bundles.empty</note>
+        <jms:reference-file line="24">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8bce9f0cf5c9c698c1907808aa20cfa0b1ec9ecb" resname="symfony_kernel.cacheDir">
+        <source>Cache directory</source>
+        <target xml:lang="nb" state="translated">Cache-katalog</target>
+        <note>key: symfony_kernel.cacheDir</note>
+        <jms:reference-file line="15">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="74d0f849585c3bfe67e3477d0773fd8f097bd54d" resname="symfony_kernel.charset">
+        <source>Character set</source>
+        <target xml:lang="nb" state="translated">Tegnsett</target>
+        <note>key: symfony_kernel.charset</note>
+        <jms:reference-file line="19">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8da408eada2e85ad98868421df6185d1c8e4bdb2" resname="symfony_kernel.debugMode">
+        <source>Debug mode</source>
+        <target xml:lang="nb" state="translated">Debug-modus</target>
+        <note>key: symfony_kernel.debugMode</note>
+        <jms:reference-file line="7">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b279d615747857a87b80e268ef4a8eefc631cd3c" resname="symfony_kernel.debugMode.disabled">
+        <source>Disabled</source>
+        <target xml:lang="nb" state="translated">Deaktivert</target>
+        <note>key: symfony_kernel.debugMode.disabled</note>
+        <jms:reference-file line="8">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="edea137ff68106045aa74351ae612e2160700503" resname="symfony_kernel.debugMode.enabled">
+        <source>Enabled</source>
+        <target xml:lang="nb" state="translated">Aktivert</target>
+        <note>key: symfony_kernel.debugMode.enabled</note>
+        <jms:reference-file line="8">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ae50a8c234dbf0d24521f3aec3a5f430b79ccb4c" resname="symfony_kernel.environment">
+        <source>Environment</source>
+        <target xml:lang="nb" state="translated">Miljø</target>
+        <note>key: symfony_kernel.environment</note>
+        <jms:reference-file line="5">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b04c158895f34062a8748223da67059fe45b3a60" resname="symfony_kernel.logDir">
+        <source>Log directory</source>
+        <target xml:lang="nb" state="translated">Loggkatalog</target>
+        <note>key: symfony_kernel.logDir</note>
+        <jms:reference-file line="17">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ea20258358e7a0d4e8bc037d4e352ac2ad06b7fa" resname="symfony_kernel.name">
+        <source>Name</source>
+        <target xml:lang="nb" state="translated">Navn</target>
+        <note>key: symfony_kernel.name</note>
+        <jms:reference-file line="11">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="56014c7eba59799c182934e3a0eb97eff6fd8a97" resname="symfony_kernel.rootDir">
+        <source>Root directory</source>
+        <target xml:lang="nb" state="translated">Rotkatalog</target>
+        <note>key: symfony_kernel.rootDir</note>
+        <jms:reference-file line="13">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="74fd4792096e74360c7508e16bbe7c1e121d393e" resname="symfony_kernel.version">
+        <source>Version</source>
+        <target xml:lang="nb" state="translated">Versjon</target>
+        <note>key: symfony_kernel.version</note>
+        <jms:reference-file line="9">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="345e6e0c761b74267435f4057f0eb3ef2ae2bc53" resname="system.information">
+        <source>System information</source>
+        <target xml:lang="nb" state="translated">Systeminformasjon</target>
+        <note>key: system.information</note>
+        <jms:reference-file line="12">Resources/views/Dashboard/dashboard.html.twig</jms:reference-file>
+        <jms:reference-file line="15">Resources/views/SystemInfo/info.html.twig</jms:reference-file>
+        <jms:reference-file line="42">Resources/views/SystemInfo/info.html.twig</jms:reference-file>
+        <jms:reference-file line="8">Resources/views/SystemInfo/info.html.twig</jms:reference-file>
       </trans-unit>
     </body>
   </file>
