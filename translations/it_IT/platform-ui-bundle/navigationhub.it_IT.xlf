@@ -6,23 +6,30 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="2338455ec2fdf1d720446cbf9103ea5e44c772d2" resname="navigationhub.content.structure">
+        <source>Content structure</source>
+        <target xml:lang="it" state="translated">Struttura Contenuti</target>
+        <note>key: navigationhub.content.structure</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7bd6ca1c2f35a3578ca48a6ef671f4b370a4f93a" resname="navigationhub.media.library">
+        <source>Media library</source>
+        <target xml:lang="it" state="translated">Media</target>
+        <note>key: navigationhub.media.library</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9dad31674a58b4c29df317da824ecd407e79d708" resname="navigationhub.zone.admin">
+        <source>Admin Panel</source>
+        <target xml:lang="it" state="translated">Pannello Amminsitrazione</target>
+        <note>key: navigationhub.zone.admin</note>
+        <jms:reference-file>Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f32918f2df2d2ecd3aa263a188187635d45c3d49" resname="navigationhub.zone.platform">
+        <source>Content</source>
+        <target xml:lang="it" state="translated">Contenuti</target>
+        <note>key: navigationhub.zone.platform</note>
+        <jms:reference-file>Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
