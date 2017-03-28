@@ -18,6 +18,18 @@
         <note>key: locationview.details.lastcontributor</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="92ecfb85a6f93f491fb98ca6f584fffaea5d56a2" resname="locationview.details.subitems.default.ordering">
+        <source>Sub-items default ordering</source>
+        <target xml:lang="it" state="translated">Ordine dei sotto elementi</target>
+        <note>key: locationview.details.subitems.default.ordering</note>
+        <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9699a1cb9c610905dddcb2b123fa7ba10a840957" resname="locationview.details.technicaldetails">
+        <source>Technical details</source>
+        <target xml:lang="it" state="translated">Dettagli tecnici</target>
+        <note>key: locationview.details.technicaldetails</note>
+        <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="dacdbac551cb8fc3eb998fead8834693305ba105" resname="locationview.details.title">
         <source>Content details</source>
         <target xml:lang="it" state="translated">Dettaglio contenuto</target>
