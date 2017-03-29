@@ -12,6 +12,17 @@
         <note>key: content_type.container</note>
         <jms:reference-file line="62">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="d93b35cbbda2fccd239d83cd8e4fbba2cbb02166" resname="content_type.dashboard_title">
+        <source>Content types</source>
+        <target xml:lang="it" state="translated">Tipi di contenuto</target>
+        <note>key: content_type.dashboard_title</note>
+        <jms:reference-file line="14">Resources/views/ContentType/edit_content_type_group.html.twig</jms:reference-file>
+        <jms:reference-file line="8">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
+        <jms:reference-file line="17">Resources/views/ContentType/update_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="13">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="10">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+        <jms:reference-file line="15">Resources/views/Dashboard/dashboard.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
