@@ -32,9 +32,12 @@
       </trans-unit>
       <trans-unit id="5095b70f3c9ccc1c77ba2d4f8ae1b2ce6121e233" resname="locationview.details.default.listing.of.subitems.by">
         <source>Default listing of sub-items by</source>
-        <target xml:lang="it" state="translated">Default: lista dei sotto elementi da</target>
+        <target xml:lang="it" state="translated">Lista dei sotto elementi ordinati per</target>
         <note>key: locationview.details.default.listing.of.subitems.by</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="it">Default: lista dei sotto elementi da</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="a8f82a516b76060775a7c40c5163cd4f2af7b8ac" resname="locationview.details.descending">
         <source>Descending</source>
@@ -215,8 +218,17 @@
       </trans-unit>
       <trans-unit id="4f2fcdfe68ca50269b9c334594a8acd1a688809f" resname="sort.name">
         <source>Content name</source>
-        <target xml:lang="it" state="translated">Content name</target>
+        <target xml:lang="it" state="translated">Nome</target>
         <note>key: sort.name</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="it">Content name</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="668f8150c4acd0a0c8075de8b794639b8b4a6519" resname="sort.path" approved="yes">
+        <source>Location path</source>
+        <target xml:lang="it">Percorso</target>
+        <note>key: sort.path</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="bcb9183148c577a8a232c08847dff0c1647e62e7" resname="sort.priority">
