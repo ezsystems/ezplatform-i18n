@@ -36,6 +36,12 @@
         <note>key: image.noimage</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="ddb2b77067d29961704d011d303b42d5fcc00e5c" resname="image.or">
+        <source>or</source>
+        <target xml:lang="it" state="translated">o</target>
+        <note>key: image.or</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="7deddf51ab844e5621b291039176191f8bbdef95" resname="image.preview">
         <source>Image preview</source>
         <target xml:lang="it" state="translated">Anteprima immagine</target>
@@ -46,6 +52,18 @@
         <source>Image properties</source>
         <target xml:lang="it" state="translated">Proprietà dell'immagine</target>
         <note>key: image.properties</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="eaa4c2c811e8e5048745d4d437e122b67e16bbfa" resname="image.remove">
+        <source>Remove this image</source>
+        <target xml:lang="it" state="translated">Rimuovi l'immagine</target>
+        <note>key: image.remove</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e7b9c11716066f2b3bcb38ac4db35fb7501118e0" resname="image.replace">
+        <source>Replace this image</source>
+        <target xml:lang="it" state="translated">Sostituisci l'immagine</target>
+        <note>key: image.replace</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="265c4b8ea4ab58567a9be6610f7dff0b99223299" resname="image.size">
@@ -83,6 +101,12 @@
         <target xml:lang="it" state="translated">Carica una immagine</target>
         <note>key: image.upload</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a8867a26b3b1adfde513cee1bbc0b2cd0beb5cce" resname="richtext.save">
+        <source>Save and Return</source>
+        <target xml:lang="it" state="translated">Salva e continua</target>
+        <note>key: richtext.save</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
       </trans-unit>
     </body>
   </file>
