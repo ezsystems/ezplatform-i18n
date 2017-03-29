@@ -26,9 +26,12 @@
       </trans-unit>
       <trans-unit id="99db324742823c55d975b605e1fc22f4253a9b7d" resname="modified">
         <source>Modified</source>
-        <target xml:lang="it" state="translated">Modificato</target>
+        <target xml:lang="it" state="translated">Data di modifica</target>
         <note>key: modified</note>
         <jms:reference-file>Resources/public/js/views/subitem/ez-subitemlistmoreview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="it">Modificato</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="6ae999552a0d2dca14d62e2bc8b764d377b1dd6c" resname="name">
         <source>Name</source>
