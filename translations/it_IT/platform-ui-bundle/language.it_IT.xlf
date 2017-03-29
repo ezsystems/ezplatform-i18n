@@ -6,25 +6,17 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="ec0418b84a04e7ba4b75a65cbd8a395144e8d8e8" resname="language.list">
+        <source>Languages</source>
+        <target xml:lang="it" state="translated">Lingue</target>
+        <note>key: language.list</note>
+        <jms:reference-file line="13">Resources/views/Dashboard/dashboard.html.twig</jms:reference-file>
+        <jms:reference-file line="14">Resources/views/Language/edit.html.twig</jms:reference-file>
+        <jms:reference-file line="12">Resources/views/Language/list.html.twig</jms:reference-file>
+        <jms:reference-file line="18">Resources/views/Language/list.html.twig</jms:reference-file>
+        <jms:reference-file line="80">Resources/views/Language/list.html.twig</jms:reference-file>
+        <jms:reference-file line="8">Resources/views/Language/view.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
