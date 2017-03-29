@@ -6,37 +6,15 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="345e6e0c761b74267435f4057f0eb3ef2ae2bc53" resname="system.information">
+        <source>System information</source>
+        <target xml:lang="it" state="translated">Informazioni sul sistema</target>
+        <note>key: system.information</note>
+        <jms:reference-file line="12">Resources/views/Dashboard/dashboard.html.twig</jms:reference-file>
+        <jms:reference-file line="15">Resources/views/SystemInfo/info.html.twig</jms:reference-file>
+        <jms:reference-file line="42">Resources/views/SystemInfo/info.html.twig</jms:reference-file>
+        <jms:reference-file line="8">Resources/views/SystemInfo/info.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
