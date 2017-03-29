@@ -36,11 +36,37 @@
         <note>key: name</note>
         <jms:reference-file>Resources/public/js/views/subitem/ez-subitemlistmoreview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3345867ecfeeaaae30e155d010fc96d9f5119644" resname="priority">
+        <source>Priority</source>
+        <target xml:lang="it" state="translated">Priorità</target>
+        <note>key: priority</note>
+        <jms:reference-file>Resources/public/js/views/subitem/ez-subitemlistmoreview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e9fbb7ba38fa94be8b417699fb729a60c7b8ab48" resname="show.more.results">
+        <source><![CDATA[Show <span class="ez-loadmorepagination-more-count">%limit%</span> more results]]></source>
+        <target xml:lang="it" state="translated"><![CDATA[Mosta <span class="ez-loadmorepagination-more-count">%limit%</span> piu risultati]]></target>
+        <note>key: show.more.results</note>
+        <jms:reference-file>Resources/public/templates/subitem/grid.hbt</jms:reference-file>
+        <jms:reference-file>Resources/public/templates/subitem/listmore.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="5f58a440086c7ddb295d36e1b7b58af48b6f568a" resname="subitem.subitems">
         <source>Sub-items</source>
         <target xml:lang="it" state="translated">Sotto elementi</target>
         <note>key: subitem.subitems</note>
         <jms:reference-file>Resources/public/templates/subitembox.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="31c20e73fa29248cc7bf440ac9d720ff6d88fd3e" resname="translations">
+        <source>Translations</source>
+        <target xml:lang="it" state="translated">Traduzioni</target>
+        <note>key: translations</note>
+        <jms:reference-file>Resources/public/js/views/subitem/ez-subitemlistmoreview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3cae0754bed733e5785947e0b1a795ffeacb8a12" resname="viewing.out.of.items" approved="yes">
+        <source><![CDATA[viewing <strong class="ez-loadmorepagination-display-count">%displayCount%</strong> out of <strong>%subitemCount%</strong> sub-items]]></source>
+        <target xml:lang="it"><![CDATA[visualizza <strong class="ez-loadmorepagination-display-count">%displayCount%</strong> fuori dai <strong>%subitemCount%</strong> sotto elementi]]></target>
+        <note>key: viewing.out.of.items</note>
+        <jms:reference-file>Resources/public/templates/subitem/grid.hbt</jms:reference-file>
+        <jms:reference-file>Resources/public/templates/subitem/listmore.hbt</jms:reference-file>
       </trans-unit>
     </body>
   </file>
