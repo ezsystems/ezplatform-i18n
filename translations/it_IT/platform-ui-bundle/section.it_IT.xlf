@@ -8,9 +8,12 @@
     <body>
       <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content">
         <source>Assigned Content items</source>
-        <target xml:lang="it" state="translated">Elementi di contenuto assegnati</target>
+        <target xml:lang="it" state="translated">Elementi assegnati a questa sezione</target>
         <note>key: section.assigned.content</note>
         <jms:reference-file line="58">Resources/views/Section/list.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="it">Elementi di contenuto assegnati</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="b3a79602ff55ce138d41cd00a9d93ff6a6324604" resname="section.assigned.contentcount">
         <source xml:space="preserve">{0} This section is assigned to %contentCount% content items.|{1} This section is assigned to
