@@ -61,6 +61,42 @@
         <note>key: memory</note>
         <jms:reference-file line="12">Resources/views/ez-support-tools/info/hardware.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="98c89e1daa8c0a7c472af26752752299ff44ee23" resname="symfony_kernel">
+        <source>Symfony kernel</source>
+        <target xml:lang="it" state="translated">Kernel di symfony</target>
+        <note>key: symfony_kernel</note>
+        <jms:reference-file line="3">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dbc3d622a5e78844eeb75f3e9477b90357984ad7" resname="symfony_kernel.bundles.empty">
+        <source>Could not find any bundles.</source>
+        <target xml:lang="it" state="translated">Non posso trovare nessun bundles.</target>
+        <note>key: symfony_kernel.bundles.empty</note>
+        <jms:reference-file line="24">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b279d615747857a87b80e268ef4a8eefc631cd3c" resname="symfony_kernel.debugMode.disabled">
+        <source>Disabled</source>
+        <target xml:lang="it" state="translated">Disabilitato</target>
+        <note>key: symfony_kernel.debugMode.disabled</note>
+        <jms:reference-file line="8">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="edea137ff68106045aa74351ae612e2160700503" resname="symfony_kernel.debugMode.enabled">
+        <source>Enabled</source>
+        <target xml:lang="it" state="translated">Abilitato</target>
+        <note>key: symfony_kernel.debugMode.enabled</note>
+        <jms:reference-file line="8">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ae50a8c234dbf0d24521f3aec3a5f430b79ccb4c" resname="symfony_kernel.environment">
+        <source>Environment</source>
+        <target xml:lang="it" state="translated">Ambiente</target>
+        <note>key: symfony_kernel.environment</note>
+        <jms:reference-file line="5">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ea20258358e7a0d4e8bc037d4e352ac2ad06b7fa" resname="symfony_kernel.name">
+        <source>Name</source>
+        <target xml:lang="it" state="translated">Nome</target>
+        <note>key: symfony_kernel.name</note>
+        <jms:reference-file line="11">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="74fd4792096e74360c7508e16bbe7c1e121d393e" resname="symfony_kernel.version">
         <source>Version</source>
         <target xml:lang="it" state="translated">Versione</target>
