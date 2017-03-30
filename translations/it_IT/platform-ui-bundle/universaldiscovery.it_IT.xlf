@@ -155,6 +155,24 @@
         <note>key: universaldiscovery.select.from.left</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="2b69553576460fe7b356aa72e9c702109f4dd5f4" resname="universaldiscovery.selected.item">
+        <source>Selected item</source>
+        <target xml:lang="it" state="translated">Elemento selezionato</target>
+        <note>key: universaldiscovery.selected.item</note>
+        <jms:reference-file>Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a3767d9200cdb373450e1ec075431a49b2bcd380" resname="universaldiscovery.translations">
+        <source>Translations</source>
+        <target xml:lang="it" state="translated">Traduzioni</target>
+        <note>key: universaldiscovery.translations</note>
+        <jms:reference-file>Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8b825fd3563931192778181dece1a37e0930073f" resname="universaldiscovery.type">
+        <source>Type</source>
+        <target xml:lang="it" state="translated">Tipo</target>
+        <note>key: universaldiscovery.type</note>
+        <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
