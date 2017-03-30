@@ -18,6 +18,12 @@
         <note>key: actionbar.createContent</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="be3348d5545fb64e8506ae64e667dac048bbc97c" resname="actionbar.delete">
+        <source>Delete</source>
+        <target xml:lang="it" state="translated">Cancella</target>
+        <note>key: actionbar.delete</note>
+        <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="5fb95ba95e83264744f36bd3dafb74013b86d315" resname="actionbar.edit">
         <source>Edit</source>
         <target xml:lang="it" state="translated">Modifica</target>
@@ -48,11 +54,38 @@
         <note>key: actionbar.translate</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="36ec797c4394265124b47a9ef9d8981ab3cb80c1" resname="content.being.copied.under">
+        <source>"%contentName%" is being copied under "%parentContentName%"</source>
+        <target xml:lang="it" state="translated">"%contentName%" viene copiata sotto "%parentContentName%"</target>
+        <note>key: content.being.copied.under</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a45dde06d9f58df76767d6fdaa8da714979b737d" resname="content.copied.under">
+        <source>'%contentName%' has been successfully copied under '%parentContentName%'</source>
+        <target xml:lang="it" state="translated">'%contentName%' è stato copiato con successo sotto '%parentContentName%'</target>
+        <note>key: content.copied.under</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="0bc4676a2e348119912d9a0cb23c8b9c2db54b38" resname="createcontentaction.loading">
         <source>Loading</source>
         <target xml:lang="it" state="translated">Caricamento</target>
         <note>key: createcontentaction.loading</note>
         <jms:reference-file>Resources/public/templates/createcontentaction.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8168e6a5b68d175e892512352ec75bdfe1275631" resname="creating.new.location.for">
+        <source>Creating new location for "%name%"</source>
+        <target xml:lang="it" state="translated">Creazione di nuova posizione per "%name%"</target>
+        <note>key: creating.new.location.for</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bad3f2a8b005e430f9760b9b3c47e37faa3176bd" resname="creating.new.location.for.failed">
+        <source>Creating new location(s) for "%name%" failed</source>
+        <target xml:lang="it" state="translated">Creazione di una nuova posizione/i "%name%" non riuscita</target>
+        <note>key: creating.new.location.for.failed</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="it">Creazione di una nuova posizione "%name%" non riuscita</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="7eaf9281f3e62d4f3acf5dac5b34060808c363b9" resname="discoverybar.contenttree">
         <source>Content tree</source>
@@ -77,6 +110,24 @@
         <target xml:lang="it" state="translated">Cestino</target>
         <note>key: discoverybar.trash</note>
         <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4f05b52ccc249d1a7747839ea78300f80c6011d3" resname="error.hiding.location">
+        <source>Error while hiding location "%id%"</source>
+        <target xml:lang="it" state="translated">Errore mentre si nasconde la posizione "%id%"</target>
+        <note>key: error.hiding.location</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b751b43622c766dad211b5892e401abe17292918" resname="error.occurred.copying">
+        <source>An error occurred while copying your content</source>
+        <target xml:lang="it" state="translated">Errore durante la copia dei tuo contenuto</target>
+        <note>key: error.occurred.copying</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e3215cb818603963b4e6b318ed9874ba881ca5bb" resname="error.occurred.loading">
+        <source>An error occurred while loading your content</source>
+        <target xml:lang="it" state="translated">Errore durante il caricamento del tuo contenuto</target>
+        <note>key: error.occurred.loading</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit">
         <source>Edit</source>
