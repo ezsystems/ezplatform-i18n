@@ -390,9 +390,12 @@
       </trans-unit>
       <trans-unit id="e21151edf210d6968aa67c35235066389865f136" resname="maplocation.latitude">
         <source>Latitude:</source>
-        <target xml:lang="fr" state="translated">Latitude:</target>
+        <target xml:lang="fr" state="translated">Latitude :</target>
         <note>key: maplocation.latitude</note>
         <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="fr">Latitude:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="04e7fa05923b84dde058e7a8b349de8a019962f8" resname="maplocation.locateaddress">
         <source>Locate Address</source>
@@ -408,9 +411,12 @@
       </trans-unit>
       <trans-unit id="60f60bbfc3c9cd30603670eb6b91fa5a1619f73b" resname="maplocation.longitude">
         <source>Longitude:</source>
-        <target xml:lang="fr" state="translated">Longitude:</target>
+        <target xml:lang="fr" state="translated">Longitude :</target>
         <note>key: maplocation.longitude</note>
         <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="fr">Longitude:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="de4d15e55b8a04ee1b6f188b3cf6dac4aca30d5a" resname="media.audio.empty">
         <source>No audio file yet.</source>
