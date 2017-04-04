@@ -70,6 +70,24 @@
         <jms:reference-file line="44">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
         <jms:reference-file line="46">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="38a48d5b27331f27a6a51e3bb9be3e6340fc1ccb" resname="content_type.edit_title">
+        <source>Edit</source>
+        <target xml:lang="it" state="translated">Modifica</target>
+        <note>key: content_type.edit_title</note>
+        <jms:reference-file line="154">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="139bc06fcecd7ab2e8e59233d52cae047b22af5b" resname="content_type.group">
+        <source>Content type group</source>
+        <target xml:lang="it" state="translated">Gruppo tipo di contenuto</target>
+        <note>key: content_type.group</note>
+        <jms:reference-file line="17">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fd931f1ea0d601fe877606ec9e42ff7c37d44d4e" resname="content_type.group.cancel">
+        <source>Cancel</source>
+        <target xml:lang="it" state="translated">Annulla</target>
+        <note>key: content_type.group.cancel</note>
+        <jms:reference-file line="42">Resources/views/ContentType/edit_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="ad7e97ad4cf67edf7aadf9010b17c34dc57aa0a6" resname="content_type.group.edit">
         <source>Edit</source>
         <target xml:lang="it" state="translated">Modifica</target>
