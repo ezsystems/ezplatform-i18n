@@ -187,6 +187,21 @@
         <note>key: Relation is not of type COMMON</note>
         <jms:reference-file line="645">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="8da63ffae0f9707c46ca02d66e9074e7f9f538d6" resname="Relation of type COMMON can only be added to drafts">
+        <source>Relation of type COMMON can only be added to drafts</source>
+        <target xml:lang="it" state="translated">Relazione di tipo COMMON può essere solo aggiunta alle bozza</target>
+        <note>key: Relation of type COMMON can only be added to drafts</note>
+        <jms:reference-file line="684">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="it">Relazione di tipo COMMON può essere solo aggiunta alle bozze</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="388dae35f493b4e06e6458455f4837b1691fd72b" resname="Relation of type COMMON can only be removed from drafts">
+        <source>Relation of type COMMON can only be removed from drafts</source>
+        <target xml:lang="it" state="translated">Relazione di tipo COMMON può essere solo rimossa dalla bozza</target>
+        <note>key: Relation of type COMMON can only be removed from drafts</note>
+        <jms:reference-file line="649">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
