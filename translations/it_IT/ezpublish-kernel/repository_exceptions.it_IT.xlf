@@ -202,6 +202,43 @@
         <note>key: Relation of type COMMON can only be removed from drafts</note>
         <jms:reference-file line="649">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="30ea10f44d07a5752ed9c57a8458b3579b8dd421" resname="Relation of type COMMON to selected destination content ID already exists">
+        <source>Relation of type COMMON to selected destination content ID already exists</source>
+        <target xml:lang="it" state="translated">Relazione di tipo COMMON scelta per la destinazione già esistente</target>
+        <note>key: Relation of type COMMON to selected destination content ID already exists</note>
+        <jms:reference-file line="696">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="09683b2a73d28421548e01bfbd6cc468095fa29d" resname="User does not have access to '%function%' '%module%'">
+        <source>User does not have access to '%function%' '%module%'</source>
+        <target xml:lang="it" state="translated">L'utente non dispone dell'accesso a '%function%' '%module%'</target>
+        <note>key: User does not have access to '%function%' '%module%'</note>
+        <jms:reference-file line="38">eZ/Publish/Core/Base/Exceptions/UnauthorizedException.php</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="it">Utente non dispone dell'accesso a '%function%' '%module%'</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="649224015306dff4831eceb63d49e66d7c0c4f1b" resname="User does not have access to '%function%' '%module%' with: %with%'">
+        <source>User does not have access to '%function%' '%module%' with: %with%'</source>
+        <target xml:lang="it" state="translated">L'utente non ha accesso a '%function%' '%module%' con: %with%'</target>
+        <note>key: User does not have access to '%function%' '%module%' with: %with%'</note>
+        <jms:reference-file line="42">eZ/Publish/Core/Base/Exceptions/UnauthorizedException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dfb77818edfca3ee72ed24e16c643a84203ecfa7" resname="Version in status PUBLISHED cannot be deleted">
+        <source>Version in status PUBLISHED cannot be deleted</source>
+        <target xml:lang="it" state="translated">La versione in stato PUBLISHED non può essere eliminata</target>
+        <note>key: Version in status PUBLISHED cannot be deleted</note>
+        <jms:reference-file line="354">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f80f674916004d986500fe18b36ff55286191490" resname="expected value to be of type '%expectedType%'">
+        <source>expected value to be of type '%expectedType%'</source>
+        <target xml:lang="it" state="translated">il valore atteso deve essere di tipo '%expectedType%'</target>
+        <note>key: expected value to be of type '%expectedType%'</note>
+      </trans-unit>
+      <trans-unit id="5f722d4df65d72e23fbf62ea8a5adadaf249413c" resname="expected value to be of type '%expectedType%', got '%actualType%'">
+        <source>expected value to be of type '%expectedType%', got '%actualType%'</source>
+        <target xml:lang="it" state="translated">il valore previsto è di tipo '%expectedType%', fornito '%actualType%'</target>
+        <note>key: expected value to be of type '%expectedType%', got '%actualType%'</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
