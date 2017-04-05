@@ -126,6 +126,16 @@
         <jms:reference-file line="65">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
         <jms:reference-file line="67">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="de2ea38b0604e5c021452e0eef43c2cc9494a2b7" resname="content_type.last_modified">
+        <source>Last modified: %date% by %modifier%</source>
+        <target xml:lang="it" state="translated">Ultima Modifica: %date% fatta da %modifier%</target>
+        <note>key: content_type.last_modified</note>
+        <jms:reference-file line="36">Resources/views/ContentType/update_content_type.html.twig</jms:reference-file>
+        <jms:reference-file line="29">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="it">Ultima Modifica</target>
+        </alt-trans>
+      </trans-unit>
     </body>
   </file>
 </xliff>
