@@ -129,6 +129,12 @@
         <note>key: error.occurred.loading</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="310cc7a3978ffe18c9e51dc5038b371f5428f46f" resname="error.revealing.location">
+        <source>Error while revealing location "%id%"</source>
+        <target xml:lang="it" state="translated">Errore mentre si visualizza la location "%id%"</target>
+        <note>key: error.revealing.location</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e650b8f59c13ba2541db9ae6ac90a1857d88cb54" resname="failed.creating.new.location.for">
         <source>Creating new location for "%name%" under "%parentName%" failed</source>
         <target xml:lang="it" state="translated">Creazione di nuova posizione per "%name%" sotto "%parentName%" non riuscita</target>
