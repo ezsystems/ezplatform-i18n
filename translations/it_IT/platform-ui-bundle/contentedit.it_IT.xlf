@@ -12,11 +12,36 @@
         <note>key: change</note>
         <jms:reference-file>Resources/public/templates/contentedit.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="d4a9f87b1214f3f434e3e765c826de1501b17932" resname="change.language.to">
+        <source>Change language to:</source>
+        <target xml:lang="it" state="translated">Cambia la lingua in:</target>
+        <note>key: change.language.to</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-contentcreateviewservice.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="f3528c72d108e105ecdb31e377a3514595dcfa6a" resname="content.id.location.id">
         <source>Content ID: %contentId%, Location ID: %locationId%</source>
         <target xml:lang="it" state="translated">Content ID: %contentId%, Location ID: %locationId%</target>
         <note>key: content.id.location.id</note>
         <jms:reference-file>Resources/public/templates/contentedit.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published">
+        <source>Content has been published</source>
+        <target xml:lang="it" state="translated">Il contenuto è stato pubblicato</target>
+        <note>key: content.published</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-publishdraftplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="54a68935aefb2a88a794f8b85d8c3170588edb3f" resname="contentedit.close.preview">
+        <source>Close preview</source>
+        <target xml:lang="it" state="translated">Chiudi Anteprima</target>
+        <note>key: contentedit.close.preview</note>
+        <jms:reference-file>Resources/public/templates/editpreview.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7403ac1a8e8db35e577bf4e7ca7c3a7122a2169e" resname="contentedit.previewing">
+        <source>Previewing</source>
+        <target xml:lang="it" state="translated">Anteprima</target>
+        <note>key: contentedit.previewing</note>
+        <jms:reference-file>Resources/public/templates/editpreview.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="55bfafdd36ab25c84547ddc2ecfc0fb802565885" resname="created.by">
         <source>Created by %name%</source>
@@ -29,6 +54,12 @@
         <target xml:lang="it" state="translated">Annulla cambiamenti</target>
         <note>key: discard.changes</note>
         <jms:reference-file>Resources/public/js/views/ez-editactionbarview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="431acee9716b1c0e01f44d5c29066c88805baa76" resname="draft.saved">
+        <source>The draft was stored successfully</source>
+        <target xml:lang="it" state="translated">La bozza è stata registrata con successo</target>
+        <note>key: draft.saved</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-savedraftplugin.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="1aa787fe0cfb373575fc2c0f6f826e7c6dc9fd41" resname="preview">
         <source>Preview</source>
