@@ -18,6 +18,12 @@
         <note>key: no.result</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="d5ddefb37351cd23fd0ef3eef4c9afca357a4493" resname="remaining.more">
+        <source>+%remainingCount% more</source>
+        <target xml:lang="it" state="translated">+%remainingCount% più</target>
+        <note>key: remaining.more</note>
+        <jms:reference-file>Resources/public/templates/universaldiscovery/confirmedlist.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="065088a37d32d19ef453c0c30641fdabf7452e0e" resname="result.list">
         <source>Result list</source>
         <target xml:lang="it" state="translated">Elenco dei risultati</target>
