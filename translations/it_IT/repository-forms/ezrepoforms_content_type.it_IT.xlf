@@ -390,6 +390,108 @@
         <note>key: field_definition.ezobjectrelation.selection_root_udw_button</note>
         <jms:reference-file line="129">bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="d892163a41d816c03db3c4a04e35550f02169c11" resname="field_definition.ezobjectrelation.selection_root_udw_title">
+        <source>Select a start location for browsing for relations</source>
+        <target xml:lang="it" state="translated">Selezionare una posizione per le relazioni</target>
+        <note>key: field_definition.ezobjectrelation.selection_root_udw_title</note>
+        <jms:reference-file line="125">bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7e061dc7c88fe38c11714695d4034f935788efb3" resname="field_definition.ezobjectrelationlist.selection_content_types">
+        <source>Allowed content types</source>
+        <target xml:lang="it" state="translated">Tipi di contenuto permessi</target>
+        <note>key: field_definition.ezobjectrelationlist.selection_content_types</note>
+        <jms:reference-file line="67">lib/FieldType/Mapper/RelationListFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b08d97ea9175eef7352c7e9c5c8ee0516798bdfa" resname="field_definition.ezobjectrelationlist.selection_default_location">
+        <source>Default location</source>
+        <target xml:lang="it" state="translated">Posizione Predefinita</target>
+        <note>key: field_definition.ezobjectrelationlist.selection_default_location</note>
+        <jms:reference-file line="58">lib/FieldType/Mapper/RelationListFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1592c36df8d445c3154d1f639027f97a90739856" resname="field_definition.ezobjectrelationlist.selection_root_udw_button">
+        <source>Select location</source>
+        <target xml:lang="it" state="translated">Seleziona la posizione</target>
+        <note>key: field_definition.ezobjectrelationlist.selection_root_udw_button</note>
+        <jms:reference-file line="148">bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="17d8f3e8bbd5b5f0f5b4b02ddaeaf2af82b0d222" resname="field_definition.ezobjectrelationlist.selection_root_udw_title">
+        <source>Select a start location for browsing for relations</source>
+        <target xml:lang="it" state="translated">Selezionare una posizione per le relazioni</target>
+        <note>key: field_definition.ezobjectrelationlist.selection_root_udw_title</note>
+        <jms:reference-file line="144">bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8c89d231e7f1b33a8e0b84ad81fc964785a59cbd" resname="field_definition.ezpage.default_layout">
+        <source>Default layout</source>
+        <target xml:lang="it" state="translated">Layout Predefinito</target>
+        <note>key: field_definition.ezpage.default_layout</note>
+        <jms:reference-file line="45">lib/FieldType/Mapper/PageFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5f4e08d826e58f0be9e678f7c7a60068fd63b567" resname="field_definition.ezrichtext.num_rows">
+        <source>Number of text rows in the editor</source>
+        <target xml:lang="it" state="translated">Numero di righe di testo nell'editor</target>
+        <note>key: field_definition.ezrichtext.num_rows</note>
+        <jms:reference-file line="26">lib/FieldType/Mapper/RichTextFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e9e5a43d734719bf6ca42940c1cf5bc78b234e2b" resname="field_definition.ezselection.is_multiple">
+        <source>Multiple choice</source>
+        <target xml:lang="it" state="translated">Scelta multipla</target>
+        <note>key: field_definition.ezselection.is_multiple</note>
+        <jms:reference-file line="41">lib/FieldType/Mapper/SelectionFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ac85420bb89c319433f4d0e8e988b6fa8363e8b9" resname="field_definition.ezselection.options">
+        <source>Options</source>
+        <target xml:lang="it" state="translated">Opzioni</target>
+        <note>key: field_definition.ezselection.options</note>
+        <jms:reference-file line="53">lib/FieldType/Mapper/SelectionFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e8ede1605bfed09023397f8662ca28c40e7c460a" resname="field_definition.ezstring.default_value">
+        <source>Default value</source>
+        <target xml:lang="it" state="translated">Valore di default</target>
+        <note>key: field_definition.ezstring.default_value</note>
+        <jms:reference-file line="55">lib/FieldType/Mapper/TextLineFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="aeb5a467102cac589770bb08efe1ae15c2845cca" resname="field_definition.ezstring.max_length">
+        <source>Maximum length</source>
+        <target xml:lang="it" state="translated">Lunghezza massima</target>
+        <note>key: field_definition.ezstring.max_length</note>
+        <jms:reference-file line="47">lib/FieldType/Mapper/TextLineFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b3ccbbb1d949cd2ce5971857c15d8c972ee82691" resname="field_definition.ezstring.min_length">
+        <source>Minimum length</source>
+        <target xml:lang="it" state="translated">Lunghezza minima</target>
+        <note>key: field_definition.ezstring.min_length</note>
+        <jms:reference-file line="41">lib/FieldType/Mapper/TextLineFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0a5ed21a62aec2cda555012922b97975d97bc95c" resname="field_definition.eztext.text_rows">
+        <source>Number of text rows</source>
+        <target xml:lang="it" state="translated">Numero di righe di testo</target>
+        <note>key: field_definition.eztext.text_rows</note>
+        <jms:reference-file line="41">lib/FieldType/Mapper/TextBlockFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0f8aa615d0ec1b242535348fecb702d9b75ca2eb" resname="field_definition.eztime.default_type">
+        <source>Default value</source>
+        <target xml:lang="it" state="translated">Valore di default</target>
+        <note>key: field_definition.eztime.default_type</note>
+        <jms:reference-file line="45">lib/FieldType/Mapper/TimeFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="95dc4af57dce875f9140238d276ed77f0236746f" resname="field_definition.eztime.default_type_current">
+        <source>Current time</source>
+        <target xml:lang="it" state="translated">Ora corrente</target>
+        <note>key: field_definition.eztime.default_type_current</note>
+        <jms:reference-file line="39">lib/FieldType/Mapper/TimeFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0a0e3e8eb5d13b0e9e8ca8348615a5c00e2e51c1" resname="field_definition.eztime.default_type_empty">
+        <source>Empty</source>
+        <target xml:lang="it" state="translated">Vuoto</target>
+        <note>key: field_definition.eztime.default_type_empty</note>
+        <jms:reference-file line="38">lib/FieldType/Mapper/TimeFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3095005d6d92b499602347e3692b69346a35a845" resname="field_definition.eztime.use_seconds">
+        <source>Use seconds</source>
+        <target xml:lang="it" state="translated">Usa secondi</target>
+        <note>key: field_definition.eztime.use_seconds</note>
+        <jms:reference-file line="30">lib/FieldType/Mapper/TimeFormMapper.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="92d9243bb9fac540233dc376b41a3bcd41615ccc" resname="field_definition.field_group">
         <source>Category</source>
         <target xml:lang="it" state="translated">Categoria di appartenenza</target>
