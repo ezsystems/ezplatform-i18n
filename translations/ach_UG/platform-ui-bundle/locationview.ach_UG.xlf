@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file date="2017-01-26T14:52:02Z" source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+  <file date="2017-03-09T16:35:22Z" source-language="en" target-language="ach" datatype="plaintext" original="not.available">
     <header>
       <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
@@ -138,6 +138,12 @@
         <note>key: failed.to.load.location.path</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3f04f55debf0d3a13a9cfa32616c860989ac11d1" resname="failed.to.load.section">
+        <source>Failed to load content's section</source>
+        <target xml:lang="ach">crwdns212973:0crwdne212973:0</target>
+        <note>key: failed.to.load.section</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e59fc009e6dc0079786973ab8b8542f463d3b233" resname="failed.updated.priority">
         <source>An error occurred when updating the priority</source>
         <target xml:lang="ach">crwdns211320:0crwdne211320:0</target>
@@ -223,8 +229,8 @@
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="2b72d1da8862e8f7f123df770f7733b294d765a3" resname="locationview.details.remoteid">
-        <source>Location remove Id</source>
-        <target xml:lang="ach">crwdns211333:0crwdne211333:0</target>
+        <source>Location remote Id</source>
+        <target xml:lang="ach">crwdns212962:0crwdne212962:0</target>
         <note>key: locationview.details.remoteid</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
@@ -232,6 +238,30 @@
         <source>Retry</source>
         <target xml:lang="ach">crwdns211334:0crwdne211334:0</target>
         <note>key: locationview.details.retry</note>
+        <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="331cffcd3a384170271d5718f985aceb785c1c66" resname="locationview.details.sectionId">
+        <source>Section id</source>
+        <target xml:lang="ach">crwdns212974:0crwdne212974:0</target>
+        <note>key: locationview.details.sectionId</note>
+        <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a7269661e9fb6263e1384653afec0a71a486f464" resname="locationview.details.sectionIdentifier">
+        <source>Section identifier</source>
+        <target xml:lang="ach">crwdns212975:0crwdne212975:0</target>
+        <note>key: locationview.details.sectionIdentifier</note>
+        <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3856df0053db711c29636338a59538cba6951220" resname="locationview.details.sectionName">
+        <source>Section name</source>
+        <target xml:lang="ach">crwdns212976:0crwdne212976:0</target>
+        <note>key: locationview.details.sectionName</note>
+        <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="eca9605beb0cee0f9908fcb213519c57b987bf80" resname="locationview.details.sectiondetails">
+        <source>Section details</source>
+        <target xml:lang="ach">crwdns212977:0crwdne212977:0</target>
+        <note>key: locationview.details.sectiondetails</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="92ecfb85a6f93f491fb98ca6f584fffaea5d56a2" resname="locationview.details.subitems.default.ordering">
