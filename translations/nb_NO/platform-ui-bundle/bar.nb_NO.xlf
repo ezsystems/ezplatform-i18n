@@ -60,6 +60,12 @@
         <note>key: content.being.copied.under</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="2be07d7fa67c4111b55ff1ae95aa7bb38df17774" resname="content.browser.title">
+        <source>Content browser</source>
+        <target xml:lang="nb" state="translated">Innholdsutforsker</target>
+        <note>key: content.browser.title</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-discoverybarviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="a45dde06d9f58df76767d6fdaa8da714979b737d" resname="content.copied.under">
         <source>'%contentName%' has been successfully copied under '%parentContentName%'</source>
         <target xml:lang="nb" state="translated">'%contentName%' er kopiert under '%parentContentName%'</target>
@@ -211,6 +217,12 @@
         <target xml:lang="nb" state="translated">+ Ny oversettelse</target>
         <note>key: translateaction.new.translation</note>
         <jms:reference-file>Resources/public/templates/translateaction.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0141ea1c4b92b9abdd164fdc4a7a824350d856f7" resname="view.content.label">
+        <source>View this content</source>
+        <target xml:lang="nb" state="translated">Vis dette innholdet</target>
+        <note>key: view.content.label</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-discoverybarviewservice.js</jms:reference-file>
       </trans-unit>
     </body>
   </file>
