@@ -90,6 +90,12 @@
         <note>key: creating.new.location.for.failed</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="4f1d1e873e2acd3ffa920e7ee8fa339b43ffe384" resname="discoverybar.browse">
+        <source>Content browse</source>
+        <target xml:lang="nb" state="translated">Finn innhold</target>
+        <note>key: discoverybar.browse</note>
+        <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="7eaf9281f3e62d4f3acf5dac5b34060808c363b9" resname="discoverybar.contenttree">
         <source>Content tree</source>
         <target xml:lang="nb" state="translated">Innholdstre</target>
