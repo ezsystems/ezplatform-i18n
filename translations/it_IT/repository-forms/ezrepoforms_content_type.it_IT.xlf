@@ -390,6 +390,12 @@
         <note>key: field_definition.ezobjectrelation.selection_root_udw_button</note>
         <jms:reference-file line="129">bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="d892163a41d816c03db3c4a04e35550f02169c11" resname="field_definition.ezobjectrelation.selection_root_udw_title">
+        <source>Select a start location for browsing for relation</source>
+        <target xml:lang="it" state="translated">Selezionare una posizione per scegliere le relazioni</target>
+        <note>key: field_definition.ezobjectrelation.selection_root_udw_title</note>
+        <jms:reference-file line="125">bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="7e061dc7c88fe38c11714695d4034f935788efb3" resname="field_definition.ezobjectrelationlist.selection_content_types">
         <source>Allowed content types</source>
         <target xml:lang="it" state="translated">Tipi di contenuto permessi</target>
@@ -420,6 +426,12 @@
         <note>key: field_definition.ezpage.default_layout</note>
         <jms:reference-file line="45">lib/FieldType/Mapper/PageFormMapper.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="14a95e986cd6b94301e0f44fd5ef2d5e7cdf90a4" resname="field_definition.ezselection.add_option">
+        <source>Add an option</source>
+        <target xml:lang="it" state="translated">Aggiungere un'opzione</target>
+        <note>key: field_definition.ezselection.add_option</note>
+        <jms:reference-file line="206">bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e9e5a43d734719bf6ca42940c1cf5bc78b234e2b" resname="field_definition.ezselection.is_multiple">
         <source>Multiple choice</source>
         <target xml:lang="it" state="translated">Scelta multipla</target>
@@ -431,6 +443,12 @@
         <target xml:lang="it" state="translated">Opzioni</target>
         <note>key: field_definition.ezselection.options</note>
         <jms:reference-file line="53">lib/FieldType/Mapper/SelectionFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c8017c71074191e0e6ebe4eb1a3a278eecbcc874" resname="field_definition.ezselection.remove_selected_options">
+        <source>Remove selected options</source>
+        <target xml:lang="it" state="translated">Rimuovi le opzioni selezionate</target>
+        <note>key: field_definition.ezselection.remove_selected_options</note>
+        <jms:reference-file line="207">bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="e8ede1605bfed09023397f8662ca28c40e7c460a" resname="field_definition.ezstring.default_value">
         <source>Default value</source>
