@@ -21,9 +21,54 @@
       </trans-unit>
       <trans-unit id="8809edb77f319ec2f52fca2114de27d637fa4642" resname="heading">
         <source>Heading</source>
-        <target xml:lang="it" state="translated">Heading</target>
+        <target xml:lang="it" state="translated">Intestazione</target>
         <note>key: heading</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/heading.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="it">Heading</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="8ccbbbe6115fdd98c98cfd7f699501b3550a050b" resname="heading.1">
+        <source>Heading 1</source>
+        <target xml:lang="it" state="translated">Intestazione 1</target>
+        <note>key: heading.1</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4decf57f600f5e23f972092da3023f7065f7008b" resname="heading.2">
+        <source>Heading 2</source>
+        <target xml:lang="it" state="translated">Intestazione 2</target>
+        <note>key: heading.2</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6402924fbcdd16ea9dbf4c37c3da4f53db8fd631" resname="heading.3">
+        <source>Heading 3</source>
+        <target xml:lang="it" state="translated">Intestazione 3</target>
+        <note>key: heading.3</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7e65910e3c5725aaff4b648220dab7bb6266df48" resname="heading.4">
+        <source>Heading 4</source>
+        <target xml:lang="it" state="translated">Intestazione 4</target>
+        <note>key: heading.4</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f70107bea5df35dd8bd8b8b0321db6190d7d6aba" resname="heading.5">
+        <source>Heading 5</source>
+        <target xml:lang="it" state="translated">Intestazione 5</target>
+        <note>key: heading.5</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="29b64da968aa203bc30bea66937d98b1808f7061" resname="heading.6">
+        <source>Heading 6</source>
+        <target xml:lang="it" state="translated">Intestazione 6</target>
+        <note>key: heading.6</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="0e76292794888d4f1fa75fb3aff4ca27c58f56a6" resname="image">
         <source>Image</source>
