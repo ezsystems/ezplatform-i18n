@@ -48,6 +48,109 @@
         <note>key: binaryfile.empty</note>
         <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="30424972909697b477376e7ca05c88535f9a2b58" resname="binaryfile.help">
+        <source>Drag and drop your file here or simply click on the buttons and select your file manually.</source>
+        <target xml:lang="it" state="translated">Trascina e rilascia il file qui o semplicemente fare clic sul pulsante e seleziona il file manualmente.</target>
+        <note>key: binaryfile.help</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="deb180f588060bb98b95d7df6d43b0d9d5278774" resname="binaryfile.name">
+        <source>File name:</source>
+        <target xml:lang="it" state="translated">Nome del file:</target>
+        <note>key: binaryfile.name</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="63b7d9eb28e23a7b075fd63567bb1c021b8f93d0" resname="binaryfile.or">
+        <source>or</source>
+        <target xml:lang="it" state="translated">o</target>
+        <note>key: binaryfile.or</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="09251818f4f6aabd8f9c9e3caddd0e52a4e94f53" resname="binaryfile.remove">
+        <source>Remove this file</source>
+        <target xml:lang="it" state="translated">Rimuovere questo file</target>
+        <note>key: binaryfile.remove</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1c966af2e1e58bbe0cc2fcedf97a72a128f97e05" resname="binaryfile.replace">
+        <source>Replace this file</source>
+        <target xml:lang="it" state="translated">Sostituire questo file</target>
+        <note>key: binaryfile.replace</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="43102016be1b21e84fd962003da92c48bc434ad3" resname="binaryfile.size">
+        <source>File size:</source>
+        <target xml:lang="it" state="translated">Dimensione del file:</target>
+        <note>key: binaryfile.size</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="012ca0baa21f8d816f95de486b4da746ed42f845" resname="binaryfile.type">
+        <source>Type:</source>
+        <target xml:lang="it" state="translated">Tipo:</target>
+        <note>key: binaryfile.type</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="50d21f53a194d59aa5f1e9f3a12af1afcc6ef8fe" resname="binaryfile.upload">
+        <source>Upload a file</source>
+        <target xml:lang="it" state="translated">Caricare un file</target>
+        <note>key: binaryfile.upload</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a471779c9392f01dd003a1bc6879fd783e050f84" resname="date.and.time.not.valid">
+        <source>Date and time do not have valid inputs</source>
+        <target xml:lang="it" state="translated">Data e ora non hanno input validi</target>
+        <note>key: date.and.time.not.valid</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="81e49b2ea1382af92570ae58ccb754535b55b224" resname="date.calendar">
+        <source>Calendar</source>
+        <target xml:lang="it" state="translated">Calendario</target>
+        <note>key: date.calendar</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/date.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1096c88b9ecb1c83173e6fe1a7330ac88aae7e1e" resname="date.not.valid">
+        <source>This is not a correct date</source>
+        <target xml:lang="it" state="translated">Non si tratta di una data corretta</target>
+        <note>key: date.not.valid</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="86b1150b591a089eab73f5cb58fc11964ccb5f78" resname="date.not.valid.time.missing">
+        <source>Date do not have a valid input and time is missing</source>
+        <target xml:lang="it" state="translated">La data non ha un input valido e mancano le ore</target>
+        <note>key: date.not.valid.time.missing</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b262de6dff7418fd4c316ac5946911aff50c5df1" resname="date.not.valid.time.required">
+        <source>Date do not have a valid input and time is required</source>
+        <target xml:lang="it" state="translated">La data non ha un input valido e le ore sono richieste</target>
+        <note>key: date.not.valid.time.required</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5ea84ba9d0dd61b9b47b2104f086c4770daf2c74" resname="date.placeholder">
+        <source>YYYY-MM-DD</source>
+        <target xml:lang="it" state="translated">AAAA-MM-GG</target>
+        <note>key: date.placeholder</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/date.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ac8b6151c30254609f6e9f2a7ab5c5570ea94dcd" resname="date.required">
+        <source>Date is required</source>
+        <target xml:lang="it" state="translated">La data è obbligatoria</target>
+        <note>key: date.required</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c1eee799ee7368e2089f1eb18e2431108253dc07" resname="date.time.required">
+        <source>Date and time are required</source>
+        <target xml:lang="it" state="translated">Data e ora sono richiesti</target>
+        <note>key: date.time.required</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a26a9e8cceea9e78f5ed30052cd1e0aa592498ca" resname="dateandtime.placeholder.date">
+        <source>YYYY-MM-DD</source>
+        <target xml:lang="it" state="translated">AAAA-MM-GG</target>
+        <note>key: dateandtime.placeholder.date</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/dateandtime.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="5c973cf4cef4fd2936dbd1d7879ccdcd8b9e6ffe" resname="image.alternativetext">
         <source>Alternative text:</source>
         <target xml:lang="it" state="translated">Testo alternativo:</target>
