@@ -202,11 +202,65 @@
         <note>key: embed.content.not.loaded</note>
         <jms:reference-file>Resources/public/js/views/fields/richtext/ez-richtext-resolveembed.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="0a60003c1459ed6556b63b64c050fd4d070d94e4" resname="error.during.geolocation.request">
+        <source>An error occurred during geolocation request of your current position</source>
+        <target xml:lang="it" state="translated">Errore durante la richiesta di geolocalizzazione della vostra posizione attuale</target>
+        <note>key: error.during.geolocation.request</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9c74a8f5f67dd8e07a2912177bc6de9c9cde6d75" resname="failed.retrieve.google.maps.api">
+        <source>Failed to retrieve Google Maps API</source>
+        <target xml:lang="it" state="translated">Impossibile recuperare le API di Google Maps</target>
+        <note>key: failed.retrieve.google.maps.api</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="48c7ad76114f57866321089105b2e7c0f2ea7806" resname="fieldedit.notTranslatable">
+        <source>This is not a translatable field and cannot be modified.</source>
+        <target xml:lang="it" state="translated">Questo non è un campo traducibile e non può essere modificato.</target>
+        <note>key: fieldedit.notTranslatable</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/checkbox.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a64621b5af174b18350e8774d65ac227c79f0077" resname="file.size">
+        <source>(%size% bytes)</source>
+        <target xml:lang="it" state="translated">(%size% byte)</target>
+        <note>key: file.size</note>
+        <jms:reference-file>Resources/public/templates/fields/view/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c02ec1f84b17c734661c3a5935960b7392a3af2a" resname="float.value.should.be.less.than">
+        <source>The value should be less than or equal to %maxFloatValue%</source>
+        <target xml:lang="it" state="translated">Il valore deve essere minore o uguale a %maxFloatValue%</target>
+        <note>key: float.value.should.be.less.than</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f29cb6461d72c2fe892e65d4dd7dd296ed5db961" resname="float.value.should.be.more.than">
+        <source>The value should be more than or equal to %minFloatValue%</source>
+        <target xml:lang="it" state="translated">Il valore deve essere maggiore o uguale a %minFloatValue%</target>
+        <note>key: float.value.should.be.more.than</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0e560377b2f3909ebf37cd10977860242a93f694" resname="geocoding.error">
+        <source>An error occurred during the geocoding request for this address</source>
+        <target xml:lang="it" state="translated">Si è verificato un errore durante la richiesta di geocodifica per questo indirizzo</target>
+        <note>key: geocoding.error</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="683f0d47319d2d3671eb34b0aab6bcc549b0ac5e" resname="google.map.not.loaded.correctly">
+        <source>Google maps are not loaded correctly, try reloading the page</source>
+        <target xml:lang="it" state="translated">Le Google maps non vengono caricati correttamente, prova a ricaricare la pagina</target>
+        <note>key: google.map.not.loaded.correctly</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="5c973cf4cef4fd2936dbd1d7879ccdcd8b9e6ffe" resname="image.alternativetext">
         <source>Alternative text:</source>
         <target xml:lang="it" state="translated">Testo alternativo:</target>
         <note>key: image.alternativetext</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b93ecd00f44abdce9d25bb437706b04329a172aa" resname="image.content.not.loaded">
+        <source>Image could not be loaded</source>
+        <target xml:lang="it" state="translated">L'immagine non può essere caricata</target>
+        <note>key: image.content.not.loaded</note>
+        <jms:reference-file>Resources/public/js/views/fields/richtext/ez-richtext-resolveimage.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="c21c1e24ffd073c7213022cf4d0cde8e94be62b8" resname="image.fullwidth">
         <source>View the full width image</source>
@@ -297,6 +351,12 @@
         <target xml:lang="it" state="translated">Carica una immagine</target>
         <note>key: image.upload</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f0edbc370c196d4d5a74049ed4382bbd16aa4b82" resname="input.not.valid">
+        <source>This is not a valid input</source>
+        <target xml:lang="it" state="translated">Non è un input valido</target>
+        <note>key: input.not.valid</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="a8867a26b3b1adfde513cee1bbc0b2cd0beb5cce" resname="richtext.save">
         <source>Save and Return</source>
