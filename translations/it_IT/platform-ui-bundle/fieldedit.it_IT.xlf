@@ -733,6 +733,139 @@
         <note>key: richtext.save</note>
         <jms:reference-file>Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="2661cb6d447aad0683ba849b76913b44492fe727" resname="select.contents.to.add">
+        <source>Select the contents you want to add in the relation</source>
+        <target xml:lang="it" state="translated">Selezionare il contenuto che si desidera aggiungere alla relazione</target>
+        <note>key: select.contents.to.add</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-relationlist-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8049139bde69cab92f967e171a9b3f1b933f3151" resname="svg.not.supported">
+        <source>SVG images are not supported. Please choose another image file.</source>
+        <target xml:lang="it" state="translated">Immagini SVG non sono supportate. Si prega di scegliere un altro file immagine.</target>
+        <note>key: svg.not.supported</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cbeb2eb9d25d8d0349f48bd24450b4431112165a" resname="this.field.is.required">
+        <source>This field is required</source>
+        <target xml:lang="it" state="translated">Questo campo è obbligatorio</target>
+        <note>key: this.field.is.required</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-emailaddress-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-keyword-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-relation-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-relationlist-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-textblock-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-textline-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-url-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-xmltext-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a1df2bc73b96d5f4f733b81df6e65eab72e0a707" resname="time.not.valid">
+        <source>Time do not have a valid input</source>
+        <target xml:lang="it" state="translated">L'ora non ha un input valido</target>
+        <note>key: time.not.valid</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="it">La data non ha un input valido</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="it">Il campo time non ha un input valido</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="3ac8de09a795de3e631c721617dab1caf9e90d12" resname="time.not.valid.date.missing">
+        <source>Time do not have a valid input and date is missing</source>
+        <target xml:lang="it" state="translated">L'ora non ha un input valido e la data è mancante</target>
+        <note>key: time.not.valid.date.missing</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c788a67f4c797fb4111df6384dd2d201ae947859" resname="time.not.valid.date.required">
+        <source>Time do not have a valid input and date is required</source>
+        <target xml:lang="it" state="translated">L'ora non ha un input valido e la data è richiesta</target>
+        <note>key: time.not.valid.date.required</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4547cf11661540086aa7919af220e53df1d305c0" resname="time.not.valid.enter.format">
+        <source>This time is invalid, enter a correct time: HH:MM(:SS)</source>
+        <target xml:lang="it" state="translated">L'ora non è valida, immettere un ora corretta: HH:MM(:SS)</target>
+        <note>key: time.not.valid.enter.format</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="464257823e27d65e1467abb5b4d6421541870a95" resname="time.required">
+        <source>Time is required</source>
+        <target xml:lang="it" state="translated">L'ora è richiesta</target>
+        <note>key: time.required</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c93547a1639e55df78bf8797247cbf75c03649c1" resname="unable.find.address">
+        <source>Unable to find this address</source>
+        <target xml:lang="it" state="translated">Impossibile trovare questo indirizzo</target>
+        <note>key: unable.find.address</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="45b69f23fd0b5a0e687942663b3acb369ded5c9b" resname="unsupported.html5.geolocation.api">
+        <source>Your browser does not support HTML5 Geolocation API</source>
+        <target xml:lang="it" state="translated">Il tuo browser non supporta la geolocalizzazione HTML5</target>
+        <note>key: unsupported.html5.geolocation.api</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="96c974ba32d664442a67e0f5885fd4f29e5ab015" resname="url.text">
+        <source>Text:</source>
+        <target xml:lang="it" state="translated">Testo:</target>
+        <note>key: url.text</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/url.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="aa0e54e7bb0afd83ecbc5ac7a5222961cbd911df" resname="url.url">
+        <source>URL</source>
+        <target xml:lang="it" state="translated">URL</target>
+        <note>key: url.url</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/url.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="20afd5b376ab9ffb3cfe083496345d7e9d11d9f5" resname="user.email">
+        <source>Email</source>
+        <target xml:lang="it" state="translated">Email</target>
+        <note>key: user.email</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1d797b831d4559bdebe45193f8b51b570437e97d" resname="user.login">
+        <source>Login</source>
+        <target xml:lang="it" state="translated">Login</target>
+        <note>key: user.login</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e4d06be519f5ddd5206349fb39cf7522dd947a3a" resname="user.password">
+        <source>Password</source>
+        <target xml:lang="it" state="translated">Password</target>
+        <note>key: user.password</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="782314478554920473f13c4ec6cb6a0471bc8172" resname="user.passwordconfirm">
+        <source>Confirm password</source>
+        <target xml:lang="it" state="translated">Conferma password</target>
+        <note>key: user.passwordconfirm</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="65a42e27e76bf2722822dd28dd0b7ff2d163cb37" resname="value.should.be.less.than">
+        <source>The value should be less than or equal to %maxIntegerValue%</source>
+        <target xml:lang="it" state="translated">Il valore deve essere minore o uguale a %maxIntegerValue%</target>
+        <note>key: value.should.be.less.than</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0e3930cc51c59d71efa5464323c96d75b93873f3" resname="value.should.be.more.than">
+        <source>The value should be more than or equal to %minIntegerValue%</source>
+        <target xml:lang="it" state="translated">Il valore deve essere maggiore o uguale a %minIntegerValue%</target>
+        <note>key: value.should.be.more.than</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5c462c60b8cdc7e23d84aca23ffda3d32000247e" resname="value.should.be.valid.integer">
+        <source>The value should be a valid integer number</source>
+        <target xml:lang="it" state="translated">Il valore deve essere un numero intero valido</target>
+        <note>key: value.should.be.valid.integer</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
