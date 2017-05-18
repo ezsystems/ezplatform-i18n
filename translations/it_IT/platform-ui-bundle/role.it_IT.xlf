@@ -24,6 +24,33 @@
         <note>key: assigning.role.to.users.subtree.limited</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="c06ec423bdd64f80f5e1bd403445c8f158cbbf7a" resname="assignment.none">
+        <source>This role is not assigned to any users or user groups.</source>
+        <target xml:lang="it" state="translated">Questo ruolo non è assegnato a nessun utente o a nessun gruppo di utenti.</target>
+        <note>key: assignment.none</note>
+        <jms:reference-file line="186">Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="70dd3723bde281857912354e3abdb2611345e1a1" resname="assignment.role_limitation">
+        <source>Limitation</source>
+        <target xml:lang="it" state="translated">Limitazione</target>
+        <note>key: assignment.role_limitation</note>
+        <jms:reference-file line="137">Resources/views/Role/view_role.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="it">Limitazioni</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="9d40ec6ea2a69dc31d986dd760c5c4d1e58274a0" resname="assignment.role_limitation_none">
+        <source>No limitations</source>
+        <target xml:lang="it" state="translated">Senza limitazioni</target>
+        <note>key: assignment.role_limitation_none</note>
+        <jms:reference-file line="165">Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a94d773d3ca19d453ea28717e3a8e00c0c239c32" resname="assignment.user_or_group">
+        <source>User/group</source>
+        <target xml:lang="it" state="translated">Utente/gruppo</target>
+        <note>key: assignment.user_or_group</note>
+        <jms:reference-file line="136">Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="1fd015af1b28cdbb8999ea2fe2dc08e181f8836e" resname="role.assign.universaldiscovery.title">
         <source>Pick the users/groups to assign the role "%roleIdentifier%" to</source>
         <target xml:lang="it" state="translated">Scegliere utenti/gruppi per assegnare il ruolo "%roleIdentifier%"</target>
