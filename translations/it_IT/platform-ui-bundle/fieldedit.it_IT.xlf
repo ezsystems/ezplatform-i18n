@@ -421,6 +421,120 @@
         <note>key: maplocation.locateme</note>
         <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="60f60bbfc3c9cd30603670eb6b91fa5a1619f73b" resname="maplocation.longitude">
+        <source>Longitude:</source>
+        <target xml:lang="it" state="translated">Longitudine:</target>
+        <note>key: maplocation.longitude</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="de4d15e55b8a04ee1b6f188b3cf6dac4aca30d5a" resname="media.audio.empty">
+        <source>No audio file yet.</source>
+        <target xml:lang="it" state="translated">Ancora nessun file audio.</target>
+        <note>key: media.audio.empty</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9e333a901ae1af3b53556d2dd70fd6b0d2bd36a2" resname="media.audio.help">
+        <source>Drag and drop your audio file here or simply click on the buttons and select your audio file manually.</source>
+        <target xml:lang="it" state="translated">Trascina e rilascia il file audio qui o semplicemente fare clic sul pulsante e seleziona il file manualmente.</target>
+        <note>key: media.audio.help</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0be02246f03eea8192409c98d2742cfc8394379b" resname="media.audio.properties">
+        <source>Audio file properties</source>
+        <target xml:lang="it" state="translated">Proprietà del file audio</target>
+        <note>key: media.audio.properties</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2d64b8db93429eb250ac521adf66d0b8941cb1e8" resname="media.audio.remove">
+        <source>Remove this audio file</source>
+        <target xml:lang="it" state="translated">Rimuovere il file audio</target>
+        <note>key: media.audio.remove</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="15a4d5ecb1370c9fad3f37f4235422017660a208" resname="media.audio.replace">
+        <source>Replace this audio file</source>
+        <target xml:lang="it" state="translated">Sostituire il file audio</target>
+        <note>key: media.audio.replace</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6a4fa5aa4d83d262f7179096cb94b1de7ef10582" resname="media.audio.unsupported">
+        <source>Unsupported audio format</source>
+        <target xml:lang="it" state="translated">Formato audio non supportato</target>
+        <note>key: media.audio.unsupported</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="05a233289e65681f4b1ddc93eaffd0c756d63fc4" resname="media.audio.upload">
+        <source>Upload an audio file</source>
+        <target xml:lang="it" state="translated">Carica un file audio</target>
+        <note>key: media.audio.upload</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6eadf968d3be0a9dbf1a708d86cf710bb62ed7bd" resname="media.autoplay">
+        <source>Auto play:</source>
+        <target xml:lang="it" state="translated">Riproduzione automatica:</target>
+        <note>key: media.autoplay</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="83643610d46ed56851ef235675f247e24a628112" resname="media.displaycontrols">
+        <source>Display controls:</source>
+        <target xml:lang="it" state="translated">Visualizzare i controlli:</target>
+        <note>key: media.displaycontrols</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="48f89aa321f9917ee7d69855d638ccc06fbc08cb" resname="media.file.size">
+        <source><![CDATA[<span class="ez-media-properties-size">%size%</span>&nbsp;bytes]]></source>
+        <target xml:lang="it" state="translated"><![CDATA[<span class="ez-media-properties-size">%size%</span>&nbsp;bytes]]></target>
+        <note>key: media.file.size</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dbde52fe3c3a99179a4835dcc6d199371fbc91b2" resname="media.height">
+        <source>Height:</source>
+        <target xml:lang="it" state="translated">Altezza:</target>
+        <note>key: media.height</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2325191dea1090c18ddab4c6e793dc19ecfab29c" resname="media.loop">
+        <source>Loop:</source>
+        <target xml:lang="it" state="translated">Ripeti:</target>
+        <note>key: media.loop</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ddb130a4e4e9656800990ae5c96df1ea3fcc604e" resname="media.name">
+        <source>File name:</source>
+        <target xml:lang="it" state="translated">Nome del file:</target>
+        <note>key: media.name</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5fe85b221381eab5cf085d06e93da5fd8cfbd4f3" resname="media.newtab">
+        <source>Open it in a new tab</source>
+        <target xml:lang="it" state="translated">Apri in una nuova scheda</target>
+        <note>key: media.newtab</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c888da5fa745a2e9517d698c6cadbc1b8404d7a9" resname="media.playersettings">
+        <source>Player settings</source>
+        <target xml:lang="it" state="translated">Impostazioni del lettore</target>
+        <note>key: media.playersettings</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="135cbb609fe487f5b9df8fdd756028516d582195" resname="media.size">
+        <source>File size:</source>
+        <target xml:lang="it" state="translated">Dimensione del file:</target>
+        <note>key: media.size</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fc651caf3e8f0d087bf50d11af3a5852e4e4f4da" resname="media.type">
+        <source>Type:</source>
+        <target xml:lang="it" state="translated">Tipo:</target>
+        <note>key: media.type</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="200321ea1995c3d33324fef4dba05f58873910f3" resname="media.video.empty">
+        <source>No video file yet.</source>
+        <target xml:lang="it" state="translated">Ancora nessun file video.</target>
+        <note>key: media.video.empty</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="a8867a26b3b1adfde513cee1bbc0b2cd0beb5cce" resname="richtext.save">
         <source>Save and Return</source>
         <target xml:lang="it" state="translated">Salva e continua</target>
