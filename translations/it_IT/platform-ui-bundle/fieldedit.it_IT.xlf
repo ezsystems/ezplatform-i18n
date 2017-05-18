@@ -535,6 +535,198 @@
         <note>key: media.video.empty</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="99b8daaf90cdc2ee5b0f96b05c92e7452ca5cb7e" resname="media.video.help">
+        <source><![CDATA[Drag and drop your video here or simply click on the buttons and select your video manually. Customize size, controls & view.]]></source>
+        <target xml:lang="it" state="translated"><![CDATA[Trascina e rilascia il tuo video qui o semplicemente fare clic sul pulsante e seleziona il video manualmente. Personalizza dimensioni, controlli e vista.]]></target>
+        <note>key: media.video.help</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6e2da936d84283d264f260e9f966a11be051096e" resname="media.video.properties">
+        <source>Video file properties</source>
+        <target xml:lang="it" state="translated">Proprietà file video</target>
+        <note>key: media.video.properties</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0ea95996960e7e25850641cb651904538b525e0a" resname="media.video.remove">
+        <source>Remove this video</source>
+        <target xml:lang="it" state="translated">Rimuovi questo video</target>
+        <note>key: media.video.remove</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="685b7365429b2f2cf79ff014e38b14c73899a492" resname="media.video.replace">
+        <source>Replace this video</source>
+        <target xml:lang="it" state="translated">Sostituisci questo video</target>
+        <note>key: media.video.replace</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="af7590bb13331b3eda4b2a0ab28f0d2a100781e9" resname="media.video.unsupported">
+        <source>Unsupported video format</source>
+        <target xml:lang="it" state="translated">Formato video non supportato</target>
+        <note>key: media.video.unsupported</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3cce6f7478e77242b2c94108460c48905e28da7f" resname="media.video.upload">
+        <source>Upload a video</source>
+        <target xml:lang="it" state="translated">Carica un video</target>
+        <note>key: media.video.upload</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e869d62b8c16e01b95bc9d235173e8dba6f42f30" resname="media.width">
+        <source>Width:</source>
+        <target xml:lang="it" state="translated">Larghezza:</target>
+        <note>key: media.width</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4472d1a8e3b30bcb2a5ca35aef3354d87c4f7e0d" resname="name.required">
+        <source>The name is required</source>
+        <target xml:lang="it" state="translated">Il nome è obbligatorio</target>
+        <note>key: name.required</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="76a19d250ba3d1fa3c051e03183820ba5a8f6d98" resname="name.required.if.email.filled">
+        <source>The name is required if the email is filled</source>
+        <target xml:lang="it" state="translated">Il nome è obbligatorio se l'email è stata inserita</target>
+        <note>key: name.required.if.email.filled</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="dd18de349adefaf37b5e99873421b2a0ff05b4d3" resname="not.a.correct.isbn13.pattern">
+        <source>This is not a correct ISBN13 pattern</source>
+        <target xml:lang="it" state="translated">Non si tratta di un formato ISBN13 corretto</target>
+        <note>key: not.a.correct.isbn13.pattern</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bfa3d0165087e1b249eceda81f084e4404ed79f4" resname="over.maximum.allowed.size">
+        <source>The file '%name%' was refused because its size is greater than the maximum allowed size (%max%)</source>
+        <target xml:lang="it" state="translated">Il file '%name%' è stato rifiutato perché la dimensione è più grande della dimensione (%max%) massima consentita</target>
+        <note>key: over.maximum.allowed.size</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6fe513c14eb957ff25185e5b3bf73f9f3a8ccee4" resname="refused.not.an.image">
+        <source>The file '%name%' was refused because it seems to not be an image. Please choose an image file.</source>
+        <target xml:lang="it" state="translated">Il file '%name%' è stato rifiutato perché sembra non essere un'immagine. Scegliere un file di immagine.</target>
+        <note>key: refused.not.an.image</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a1e89ea5d1c7efa83d78aecaaf08c993df7b8d7a" resname="relation.empty">
+        <source>No relation.</source>
+        <target xml:lang="it" state="translated">Nessuna relazione.</target>
+        <note>key: relation.empty</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c0c592b62ccf324bfae2eba6f869050b32641b0c" resname="relation.error">
+        <source>An error occurred while loading the related content.</source>
+        <target xml:lang="it" state="translated">Si è verificato un errore durante il caricamento dei contenuti relazionati.</target>
+        <note>key: relation.error</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1a0432678a22f538bc956d02a1a52709a24019a3" resname="relation.help">
+        <source>Select another content and link it up with your content.</source>
+        <target xml:lang="it" state="translated">Selezionare un altro contenuto e collegalo con i tuoi contenuti.</target>
+        <note>key: relation.help</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d83d7f0b353c6177f297b5a502f4beae187819ec" resname="relation.loading">
+        <source>Loading the related content</source>
+        <target xml:lang="it" state="translated">Caricamento dei contenuti relazionati</target>
+        <note>key: relation.loading</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="75d2eb26107e9f1bebc6fd525965df6a2c35dee8" resname="relation.modified">
+        <source>Modified:</source>
+        <target xml:lang="it" state="translated">Modificato:</target>
+        <note>key: relation.modified</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fe7dd2a6fbf71766715c5ea46100398267102adc" resname="relation.published">
+        <source>Published:</source>
+        <target xml:lang="it" state="translated">Pubblicato:</target>
+        <note>key: relation.published</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f46aad015f05a6ae74da1d451f030dcc02dc1e39" resname="relation.remove">
+        <source>Remove relation</source>
+        <target xml:lang="it" state="translated">Rimuovere la relazione</target>
+        <note>key: relation.remove</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d0a96c335f3402fd4df0fdad937321b580c13eb7" resname="relation.retry">
+        <source>Retry</source>
+        <target xml:lang="it" state="translated">Riprova</target>
+        <note>key: relation.retry</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2e594c668c9f88817270dd8c12acd559fe485f5b" resname="relation.select">
+        <source>Select a content</source>
+        <target xml:lang="it" state="translated">Seleziona un contenuto</target>
+        <note>key: relation.select</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="76eb23938007b8dc5d74961c52923f34fd9863fc" resname="relationlist.empty">
+        <source>No relation.</source>
+        <target xml:lang="it" state="translated">Nessuna relazione.</target>
+        <note>key: relationlist.empty</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7b6f3591c6f295907a1636bd3ea950fa0126d970" resname="relationlist.error">
+        <source>An error occurred while loading the related content.</source>
+        <target xml:lang="it" state="translated">Si è verificato un errore durante il caricamento dei contenuti relazionati.</target>
+        <note>key: relationlist.error</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="048ae70654be763915d036765feb172d2baa7559" resname="relationlist.help">
+        <source>Set up multiple relations with several contents.</source>
+        <target xml:lang="it" state="translated">Impostare relazioni multiple con diversi contenuti.</target>
+        <note>key: relationlist.help</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1d30f0399910c05468169bd5a7f737caff136afe" resname="relationlist.loading">
+        <source>Loading the related content(s)</source>
+        <target xml:lang="it" state="translated">Caricamento dei contenuti relazionati</target>
+        <note>key: relationlist.loading</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b0eb3cbb48be1ff976bd4569a8978d63336dd8b7" resname="relationlist.remove">
+        <source>Remove</source>
+        <target xml:lang="it" state="translated">Rimuovi</target>
+        <note>key: relationlist.remove</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="493a9cbc47e3af553067486bc8b13b43c8472fc4" resname="relationlist.retry">
+        <source>Retry</source>
+        <target xml:lang="it" state="translated">Riprova</target>
+        <note>key: relationlist.retry</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4d8d4cfb7509f6d02d61100e1b940fb5a847d91d" resname="relationlist.select">
+        <source>Select contents</source>
+        <target xml:lang="it" state="translated">Seleziona i contenuti</target>
+        <note>key: relationlist.select</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1c46a1068b55e75f3cac49a3f59c85ca19edbc52" resname="relationlist.table.modified">
+        <source>Modified</source>
+        <target xml:lang="it" state="translated">Modificato</target>
+        <note>key: relationlist.table.modified</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fd35d9bedc6d39be95cef85dd23bc3fd550d6078" resname="relationlist.table.name">
+        <source>Name</source>
+        <target xml:lang="it" state="translated">Nome</target>
+        <note>key: relationlist.table.name</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fea522d933afafa19ac438bd82d49ddc1c254d2f" resname="relationlist.table.published">
+        <source>Published</source>
+        <target xml:lang="it" state="translated">Pubblicato</target>
+        <note>key: relationlist.table.published</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e1ee64eddc5bc3ee8690f59e23a52dd4c50d036e" resname="richtext.focus">
+        <source>Focus</source>
+        <target xml:lang="it" state="translated">Focus</target>
+        <note>key: richtext.focus</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="a8867a26b3b1adfde513cee1bbc0b2cd0beb5cce" resname="richtext.save">
         <source>Save and Return</source>
         <target xml:lang="it" state="translated">Salva e continua</target>
