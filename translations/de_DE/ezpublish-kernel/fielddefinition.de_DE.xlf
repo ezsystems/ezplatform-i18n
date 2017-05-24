@@ -42,6 +42,18 @@
         <note>key: fielddefinition.default-value.current_date</note>
         <jms:reference-file line="97">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="d3cda4b47dfae160f1e7f982570b8b544a494701" resname="fielddefinition.default-value.current_datetime">
+        <source>Current datetime</source>
+        <target xml:lang="de" state="translated">Jetziger datetime</target>
+        <note>key: fielddefinition.default-value.current_datetime</note>
+        <jms:reference-file line="73">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5cdfd0738c76b8fe520f77e56b819fd3a781a514" resname="fielddefinition.default-value.current_datetime_adjust_by">
+        <source>Current datetime adjusted by</source>
+        <target xml:lang="de" state="translated">Jetziger datetime angepasst um</target>
+        <note>key: fielddefinition.default-value.current_datetime_adjust_by</note>
+        <jms:reference-file line="76">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="baf973c669d404a5aa072edce1d84deaaf936a0f" resname="fielddefinition.default-value.current_time">
         <source>Current time</source>
         <target xml:lang="de" state="translated">Aktuelle Uhrzeit</target>
@@ -294,6 +306,18 @@
         <jms:reference-file line="207">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
         <jms:reference-file line="226">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="7d8f219b8fc1dab2be8b6a82898b0e7a8920c928" resname="fielddefinition.selection-method.multi_template">
+        <source>Template based, multi</source>
+        <target xml:lang="de" state="translated">Template-basiert, multi</target>
+        <note>key: fielddefinition.selection-method.multi_template</note>
+        <jms:reference-file line="234">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1095b3a335cbfeed0e396f081895affe81e7b7fd" resname="fielddefinition.selection-method.multiple_list">
+        <source>Multiple selection list</source>
+        <target xml:lang="de" state="translated">Mehrfach-Auswahlliste</target>
+        <note>key: fielddefinition.selection-method.multiple_list</note>
+        <jms:reference-file line="232">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="60f06115f038572328285e2ca1fc5ad811105c49" resname="fielddefinition.selection-method.radio">
         <source>List with radio buttons</source>
         <target xml:lang="de" state="translated">Liste mit Radio-Buttons</target>
@@ -311,6 +335,25 @@
         <target xml:lang="de" state="translated">Dropdown-Baum</target>
         <note>key: fielddefinition.selection-method.tree</note>
         <jms:reference-file line="209">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ccf4d68283a388e6a965caf9e507c6a39fffc46f" resname="fielddefinition.selection-root.label">
+        <source>Selection root:</source>
+        <target xml:lang="de" state="translated">Auswahl-Stammverzeichnis:</target>
+        <note>key: fielddefinition.selection-root.label</note>
+        <jms:reference-file line="321">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c7b711d3eb6c197d83e064f309bd2e9791a0950d" resname="fielddefinition.selection-root.undefined">
+        <source>No defined root</source>
+        <target xml:lang="de" state="translated">Undefiniertes Stammverzeichnis</target>
+        <note>key: fielddefinition.selection-root.undefined</note>
+        <jms:reference-file line="326">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4c9eb21a084528340d7944eeb0ffe525fc5e5e75" resname="fielddefinition.use-seconds.label">
+        <source>Use seconds:</source>
+        <target xml:lang="de" state="translated">Verwende Sekunden:</target>
+        <note>key: fielddefinition.use-seconds.label</note>
+        <jms:reference-file line="112">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="86">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="f875a84fc9f3c1e0610a90197722f04b9442fa01" resname="fielddefinition.use-seconds.yes_no">
         <source>{0} No|{1} Yes</source>
