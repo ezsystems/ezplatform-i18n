@@ -168,6 +168,12 @@
         <note>key: locationview.relations.related.content</note>
         <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="19f2181b9bb473b99dc985187f631876cebf3b35" resname="locationview.versions.archived.versions">
+        <source>Archived versions</source>
+        <target xml:lang="it" state="translated">Versioni archiviate</target>
+        <note>key: locationview.versions.archived.versions</note>
+        <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="b7920f94494966e6db92b3937a84d3add836a812" resname="locationview.versions.author">
         <source>Author</source>
         <target xml:lang="it" state="translated">Autore</target>
@@ -190,6 +196,12 @@
         <source>Last saved</source>
         <target xml:lang="it" state="translated">Ultimo salvataggio</target>
         <note>key: locationview.versions.last.saved</note>
+        <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ab40edd4e3d49edea2de3a5e5339cc9527c9ff03" resname="locationview.versions.new.draft.selected.version">
+        <source>New draft based on selected version</source>
+        <target xml:lang="it" state="translated">Nuova bozza basata sulla versione scelta</target>
+        <note>key: locationview.versions.new.draft.selected.version</note>
         <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="bd9a1564891fdc81516078f86ecdb11dd212e86d" resname="locationview.versions.published.version">
