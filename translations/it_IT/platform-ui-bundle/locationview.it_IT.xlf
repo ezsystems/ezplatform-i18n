@@ -210,6 +210,12 @@
         <note>key: locationview.versions.published.version</note>
         <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="51b6a4fff074bf24fc4183bc944890cc849ba82d" resname="locationview.versions.remove.selected.archived.version">
+        <source>Remove selected archived version(s)</source>
+        <target xml:lang="it" state="translated">Rimozione delle versioni archiviate selezionate</target>
+        <note>key: locationview.versions.remove.selected.archived.version</note>
+        <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="199990450f06a84725d61f91a899166d0d3305c4" resname="locationview.versions.version">
         <source>Version</source>
         <target xml:lang="it" state="translated">Versione</target>
