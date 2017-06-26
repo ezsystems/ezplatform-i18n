@@ -36,6 +36,16 @@
         <target xml:lang="hu">Szekció-azonosító csak az angol ABC betűit, számokat, alulvonást tartalmazhat</target>
         <note>key: ez.section.identifier.format</note>
       </trans-unit>
+      <trans-unit id="963a415cd08151ecf8726e651a7a36140e05f4b5" resname="ez.role.identifier.unique" approved="yes">
+        <source>The role identifier "%identifier%" is used by another role. You must enter a unique identifier.</source>
+        <target xml:lang="hu">A "%identifier%" jogosultság azonosító már használatban van egy másik jogosultságnál. Egyedi azonosítót adj meg!</target>
+        <note>key: ez.role.identifier.unique</note>
+      </trans-unit>
+      <trans-unit id="e7e08263e46325665a4d7f85d5f3465c37d49bb7" resname="ez.language.code.unique" approved="yes">
+        <source>The language code "%language_code%" is used by another language. You must enter a unique language code.</source>
+        <target xml:lang="hu">A "%language_code%" nyelv kód egy másik nyelv által már használatban van. Egyedi nyelv kódot adj meg!</target>
+        <note>key: ez.language.code.unique</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
