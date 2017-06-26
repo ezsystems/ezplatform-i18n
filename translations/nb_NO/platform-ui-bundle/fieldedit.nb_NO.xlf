@@ -110,10 +110,13 @@
       </trans-unit>
       <trans-unit id="1096c88b9ecb1c83173e6fe1a7330ac88aae7e1e" resname="date.not.valid">
         <source>This is not a correct date</source>
-        <target xml:lang="nb" state="translated">Dette er ikke en gyldig dato</target>
+        <target xml:lang="nb" state="translated">Dette er en ugyldig dato</target>
         <note>key: date.not.valid</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="nb">Dette er ikke en gyldig dato</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="86b1150b591a089eab73f5cb58fc11964ccb5f78" resname="date.not.valid.time.missing">
         <source>Date do not have a valid input and time is missing</source>
@@ -138,15 +141,24 @@
       </trans-unit>
       <trans-unit id="ac8b6151c30254609f6e9f2a7ab5c5570ea94dcd" resname="date.required">
         <source>Date is required</source>
-        <target xml:lang="nb" state="translated">Dato må oppgis</target>
+        <target xml:lang="nb" state="translated">Dato er påkrevd</target>
         <note>key: date.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="nb">Dato må angis</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="nb">Dato må oppgis</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="c1eee799ee7368e2089f1eb18e2431108253dc07" resname="date.time.required">
         <source>Date and time are required</source>
-        <target xml:lang="nb" state="translated">Dato og klokkeslett må oppgis</target>
+        <target xml:lang="nb" state="translated">Dato og klokkeslett er påkrevd</target>
         <note>key: date.time.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="nb">Dato og klokkeslett må oppgis</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="a26a9e8cceea9e78f5ed30052cd1e0aa592498ca" resname="dateandtime.placeholder.date">
         <source>YYYY-MM-DD</source>
