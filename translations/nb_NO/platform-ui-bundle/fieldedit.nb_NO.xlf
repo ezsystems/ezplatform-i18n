@@ -145,9 +145,6 @@
         <note>key: date.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
         <alt-trans>
-          <target xml:lang="nb">Dato må angis</target>
-        </alt-trans>
-        <alt-trans>
           <target xml:lang="nb">Dato må oppgis</target>
         </alt-trans>
       </trans-unit>
@@ -372,9 +369,12 @@
       </trans-unit>
       <trans-unit id="3cb3d1ded419f0923f0b00e65e3c9b6c112e450c" resname="image.upload">
         <source>Upload an image</source>
-        <target xml:lang="nb" state="translated">Laste opp et bilde</target>
+        <target xml:lang="nb" state="translated">Last opp et bilde</target>
         <note>key: image.upload</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="nb">Laste opp et bilde</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="f0edbc370c196d4d5a74049ed4382bbd16aa4b82" resname="input.not.valid">
         <source>This is not a valid input</source>
@@ -495,9 +495,12 @@
       </trans-unit>
       <trans-unit id="6eadf968d3be0a9dbf1a708d86cf710bb62ed7bd" resname="media.autoplay">
         <source>Auto play:</source>
-        <target xml:lang="nb" state="translated">Autospill:</target>
+        <target xml:lang="nb" state="translated">Automatisk avspilling:</target>
         <note>key: media.autoplay</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="nb">Autospill:</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="83643610d46ed56851ef235675f247e24a628112" resname="media.displaycontrols">
         <source>Display controls:</source>
