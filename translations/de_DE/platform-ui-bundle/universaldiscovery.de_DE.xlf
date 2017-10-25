@@ -36,6 +36,12 @@
         <note>key: universaldiscovery.confirm.selection</note>
         <jms:reference-file>Resources/public/js/views/ez-universaldiscoveryview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="c951ce12db4e892a7cdb5a44b399e21d689a44ed" resname="universaldiscovery.confirmed.items">
+        <source>Confirmed items</source>
+        <target xml:lang="de" state="translated">Ausgewählte Elemente</target>
+        <note>key: universaldiscovery.confirmed.items</note>
+        <jms:reference-file>Resources/public/templates/universaldiscovery/confirmedlist.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="572fdb94d49b6e58d297fd7491cf28c77d60e241" resname="universaldiscovery.content.tree">
         <source>Content tree</source>
         <target xml:lang="de" state="translated">Inhaltsstruktur</target>
@@ -72,10 +78,22 @@
         <note>key: universaldiscovery.next</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="f5f82593d891af025a0e08c15256acfb88d1520d" resname="universaldiscovery.no.confirmed.contents">
+        <source>No confirmed content yet.</source>
+        <target xml:lang="de" state="translated">Noch nichts ausgewählt.</target>
+        <note>key: universaldiscovery.no.confirmed.contents</note>
+        <jms:reference-file>Resources/public/templates/universaldiscovery/confirmedlist.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="16db03c0f5393377ce31c398b1b7f797a749516a" resname="universaldiscovery.preview">
         <source>Preview</source>
         <target xml:lang="de" state="translated">Vorschau</target>
         <note>key: universaldiscovery.preview</note>
+        <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c73096f8a35429230e9496f6f838884f76102f7d" resname="universaldiscovery.provide.search.text">
+        <source>Please provide search text</source>
+        <target xml:lang="de" state="translated">Bitte geben Sie einen Suchbegriff ein</target>
+        <note>key: universaldiscovery.provide.search.text</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="239fc54ecb59fb4fee3fbedaf606a462b9000cd8" resname="universaldiscovery.retry">
@@ -91,6 +109,12 @@
         <note>key: universaldiscovery.search</note>
         <jms:reference-file>Resources/public/js/views/universaldiscovery/ez-universaldiscoverysearchview.js</jms:reference-file>
         <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f223bfebe47730c110cca9599db5deb546ab872f" resname="universaldiscovery.select.from.left">
+        <source>Select a content item from the left</source>
+        <target xml:lang="de" state="translated">Wählen Sie links einen Content aus</target>
+        <note>key: universaldiscovery.select.from.left</note>
+        <jms:reference-file>Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="2b69553576460fe7b356aa72e9c702109f4dd5f4" resname="universaldiscovery.selected.item">
         <source>Selected item</source>
