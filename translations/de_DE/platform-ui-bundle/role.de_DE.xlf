@@ -73,6 +73,13 @@
         <jms:reference-file line="50">Resources/views/Role/assign_role_by_section.html.twig</jms:reference-file>
         <jms:reference-file line="227">Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="75fb0347cd4923218126c0696153902dbb14fb96" resname="role.assign.user_or_group">
+        <source>Assign to users/groups</source>
+        <target xml:lang="de" state="translated">Benutzer/Gruppen Zuordnung</target>
+        <note>key: role.assign.user_or_group</note>
+        <jms:reference-file line="42">Resources/views/Role/list_roles.html.twig</jms:reference-file>
+        <jms:reference-file line="199">Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e8925242d54f54b2dca206c8ca6ea2c28bc145e0" resname="role.assign_limit_section.cancel">
         <source>Cancel</source>
         <target xml:lang="de" state="translated">Abbrechen</target>
@@ -88,6 +95,17 @@
         <jms:reference-file line="15">Resources/views/Role/edit_policy.html.twig</jms:reference-file>
         <jms:reference-file line="14">Resources/views/Role/update_role.html.twig</jms:reference-file>
         <jms:reference-file line="10">Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2dc532ed3100b62f85a3e923f51bcdb792561c26" resname="role.edit">
+        <source>Edit role name</source>
+        <target xml:lang="de" state="translated">Rollen Namen bearbeiten</target>
+        <note>key: role.edit</note>
+        <jms:reference-file line="45">Resources/views/Role/list_roles.html.twig</jms:reference-file>
+        <jms:reference-file line="109">Resources/views/Role/view_role.html.twig</jms:reference-file>
+        <jms:reference-file line="111">Resources/views/Role/view_role.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="de">Rollen Namen Bearbeiten</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="e9e10ddeb169d59d94b54912d0422481a0a0b140" resname="role.edit_title">
         <source><![CDATA[Edit <%roleName%>]]></source>
