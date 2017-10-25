@@ -24,11 +24,29 @@
         <note>key: authorinput.name</note>
         <jms:reference-file>Resources/public/templates/fields/edit/authorinput.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="cb37a419e7f74648f3096f17a11b45d29d4f30a9" resname="authorinput.remove">
+        <source>Remove this author</source>
+        <target xml:lang="de" state="translated">Diesen Autor entfernen</target>
+        <note>key: authorinput.remove</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/authorinput.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="9b553533713b1ca3b636ebe184350b5c0301a296" resname="bad.checksum.last.digit.should.be">
         <source>Bad checksum, last digit of ISBN 13 should be %checkDigit%</source>
         <target xml:lang="de" state="translated">Falsche Prüfsumme, letzte Ziffer der ISBN-13 sollte %checkDigit% sein</target>
         <note>key: bad.checksum.last.digit.should.be</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e5070f4a7780feaac79ab807cd1546a70effb49d" resname="binaryfile.download">
+        <source>Download the file</source>
+        <target xml:lang="de" state="translated">Datei herunterladen</target>
+        <note>key: binaryfile.download</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6368a200a5ca556ba56c6065d90cb55ccf4b3262" resname="binaryfile.empty">
+        <source>No file yet.</source>
+        <target xml:lang="de" state="translated">Keine Datei ausgewählt.</target>
+        <note>key: binaryfile.empty</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="deb180f588060bb98b95d7df6d43b0d9d5278774" resname="binaryfile.name">
         <source>File name:</source>
@@ -42,6 +60,18 @@
         <note>key: binaryfile.or</note>
         <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="09251818f4f6aabd8f9c9e3caddd0e52a4e94f53" resname="binaryfile.remove">
+        <source>Remove this file</source>
+        <target xml:lang="de" state="translated">Diese Datei entfernen</target>
+        <note>key: binaryfile.remove</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1c966af2e1e58bbe0cc2fcedf97a72a128f97e05" resname="binaryfile.replace">
+        <source>Replace this file</source>
+        <target xml:lang="de" state="translated">Ersetze diese Seite</target>
+        <note>key: binaryfile.replace</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="43102016be1b21e84fd962003da92c48bc434ad3" resname="binaryfile.size">
         <source>File size:</source>
         <target xml:lang="de" state="translated">Dateigröße:</target>
@@ -52,6 +82,12 @@
         <source>Type:</source>
         <target xml:lang="de" state="translated">Typ:</target>
         <note>key: binaryfile.type</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="50d21f53a194d59aa5f1e9f3a12af1afcc6ef8fe" resname="binaryfile.upload">
+        <source>Upload a file</source>
+        <target xml:lang="de" state="translated">Datei hochladen</target>
+        <note>key: binaryfile.upload</note>
         <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="81e49b2ea1382af92570ae58ccb754535b55b224" resname="date.calendar">
@@ -79,6 +115,12 @@
         <note>key: date.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="c1eee799ee7368e2089f1eb18e2431108253dc07" resname="date.time.required">
+        <source>Date and time are required</source>
+        <target xml:lang="de" state="translated">Datum und Uhrzeit sind erforderlich</target>
+        <note>key: date.time.required</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="7e57a01ae6b4b0385ec149a170df478fa2868f25" resname="email.not.valid">
         <source>The email address should be valid</source>
         <target xml:lang="de" state="translated">Die E-Mail-Adresse muss gültig sein</target>
@@ -93,6 +135,12 @@
         <note>key: email.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3baff585bf1b4c49f13ffa7f27f2afb737498a8c" resname="email.required.if.name.filled">
+        <source>The email address is required if the name is filled.</source>
+        <target xml:lang="de" state="translated">E-Mail benötigt wenn Name ausgefüllt ist.</target>
+        <note>key: email.required.if.name.filled</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="a64621b5af174b18350e8774d65ac227c79f0077" resname="file.size">
         <source>(%size% bytes)</source>
