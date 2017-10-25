@@ -36,6 +36,12 @@
         <note>key: error.restoring.item</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="e4070d79791c331da86fcb230fec53235b1519ad" resname="items.permanently.deleted">
+        <source>%count% items were permanently deleted.</source>
+        <target xml:lang="de" state="translated">%count% Elemente wurden dauerhaft gelöscht.</target>
+        <note>key: items.permanently.deleted</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="0c3639c10994d885f997d2403c4fb64b10a118b3" resname="minimize">
         <source>Minimize</source>
         <target xml:lang="de" state="translated">Verkleinern</target>
@@ -56,6 +62,18 @@
         <target xml:lang="de" state="translated">Artikel aus Papierkorb wiederherstellen</target>
         <note>key: restoring.trash.items</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a97f5d20007194640d4a0f86e05bccd2463d9642" resname="trash.ancestor.to.select">
+        <source>Select a new parent location for the item</source>
+        <target xml:lang="de" state="translated">Wählen Sie eine neue übergeordnete Location für das Element</target>
+        <note>key: trash.ancestor.to.select</note>
+        <jms:reference-file>Resources/public/js/views/ez-trashview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ef15335cc7bc4c4bb04a558b3e7346fb2be24795" resname="trash.ancestors.button">
+        <source>Restore under a new parent</source>
+        <target xml:lang="de" state="translated">Unter einem neuen übergeordneten Element wiederherstellen</target>
+        <note>key: trash.ancestors.button</note>
+        <jms:reference-file>Resources/public/templates/trash.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="7883128cdfb813826271abe90b3a1f3190833ce6" resname="trash.empty">
         <source>The trash is empty</source>
