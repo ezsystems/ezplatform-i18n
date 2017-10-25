@@ -142,6 +142,12 @@
         <note>key: email.required.if.name.filled</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="0a60003c1459ed6556b63b64c050fd4d070d94e4" resname="error.during.geolocation.request">
+        <source>An error occurred during geolocation request of your current position</source>
+        <target xml:lang="de" state="translated">Bei der Lokalisierung ihrer Position trat ein Fehler auf</target>
+        <note>key: error.during.geolocation.request</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="a64621b5af174b18350e8774d65ac227c79f0077" resname="file.size">
         <source>(%size% bytes)</source>
         <target xml:lang="de" state="translated">(%size% Byte)</target>
@@ -158,6 +164,30 @@
         <source>or</source>
         <target xml:lang="de" state="translated">oder</target>
         <note>key: image.or</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7deddf51ab844e5621b291039176191f8bbdef95" resname="image.preview">
+        <source>Image preview</source>
+        <target xml:lang="de" state="translated">Bildvorschau</target>
+        <note>key: image.preview</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a291c895782db79ab2693d1e91090f491402f32d" resname="image.properties">
+        <source>Image properties</source>
+        <target xml:lang="de" state="translated">Bildeigenschaften</target>
+        <note>key: image.properties</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="eaa4c2c811e8e5048745d4d437e122b67e16bbfa" resname="image.remove">
+        <source>Remove this image</source>
+        <target xml:lang="de" state="translated">Bild entfernen</target>
+        <note>key: image.remove</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e7b9c11716066f2b3bcb38ac4db35fb7501118e0" resname="image.replace">
+        <source>Replace this image</source>
+        <target xml:lang="de" state="translated">Bild ersetzen</target>
+        <note>key: image.replace</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="265c4b8ea4ab58567a9be6610f7dff0b99223299" resname="image.size">
@@ -178,11 +208,53 @@
         <note>key: image.type</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3cb3d1ded419f0923f0b00e65e3c9b6c112e450c" resname="image.upload">
+        <source>Upload an image</source>
+        <target xml:lang="de" state="translated">Bild hochladen</target>
+        <note>key: image.upload</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f0edbc370c196d4d5a74049ed4382bbd16aa4b82" resname="input.not.valid">
+        <source>This is not a valid input</source>
+        <target xml:lang="de" state="translated">Dies ist keine gültige Eingabe</target>
+        <note>key: input.not.valid</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d5afda02a70b4e08a45743098c217ce1cb424278" resname="invalid.input">
+        <source>This is not a valid input</source>
+        <target xml:lang="de" state="translated">Ungültige Eingabe</target>
+        <note>key: invalid.input</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="65c4aaaab5989949a929cc5f7e96eb7017c2d9f4" resname="loading...">
         <source>Loading...</source>
         <target xml:lang="de" state="translated">Wird geladen...</target>
         <note>key: loading...</note>
         <jms:reference-file>Resources/public/js/views/fields/richtext/ez-richtext-resolveembed.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3ebb2a2e0355aff0d63b0a1c644aff0efa6b52c6" resname="maplocation.address">
+        <source>Address:</source>
+        <target xml:lang="de" state="translated">Adresse:</target>
+        <note>key: maplocation.address</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e21151edf210d6968aa67c35235066389865f136" resname="maplocation.latitude">
+        <source>Latitude:</source>
+        <target xml:lang="de" state="translated">Breitengrad (Lat):</target>
+        <note>key: maplocation.latitude</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="748db692b3faa75edc78fe780f125dacc597fdd2" resname="maplocation.locateme">
+        <source>Locate Me</source>
+        <target xml:lang="de" state="translated">Lokalisieren Sie mich</target>
+        <note>key: maplocation.locateme</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="60f60bbfc3c9cd30603670eb6b91fa5a1619f73b" resname="maplocation.longitude">
+        <source>Longitude:</source>
+        <target xml:lang="de" state="translated">Längengrad (Lon):</target>
+        <note>key: maplocation.longitude</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="0be02246f03eea8192409c98d2742cfc8394379b" resname="media.audio.properties">
         <source>Audio file properties</source>
