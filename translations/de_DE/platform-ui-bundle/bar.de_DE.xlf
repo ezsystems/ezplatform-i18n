@@ -121,9 +121,12 @@
       </trans-unit>
       <trans-unit id="07eab5f1fb10d5c76c8b190ed9aa24f44b8631b7" resname="discoverybar.trash">
         <source>Trash</source>
-        <target xml:lang="de" state="translated">Mülleimer</target>
+        <target xml:lang="de" state="translated">Papierkorb</target>
         <note>key: discoverybar.trash</note>
         <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="de">Mülleimer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="4f05b52ccc249d1a7747839ea78300f80c6011d3" resname="error.hiding.location">
         <source>Error while hiding location "%id%"</source>
