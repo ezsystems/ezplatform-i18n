@@ -180,6 +180,12 @@
         <note>key: locationview.relations.no.related.content</note>
         <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="0b409a5f5675b6ee03cfaea432d179c2648a36a3" resname="locationview.relations.related.content">
+        <source>Related content</source>
+        <target xml:lang="de" state="translated">Zugehörigen Inhalt</target>
+        <note>key: locationview.relations.related.content</note>
+        <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e23a8cfab8000e4ce2ad014f7b55fb6f777274e4" resname="locationview.retry">
         <source>Retry</source>
         <target xml:lang="de" state="translated">Wiederholen</target>
