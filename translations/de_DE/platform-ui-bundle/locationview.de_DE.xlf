@@ -12,10 +12,112 @@
         <note>key: being.moved.under</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="0a95ef6ccb3ab8cf4b2e04235129c2f08a115a3a" resname="changed.main.location.of">
+        <source>The main location of "%name%" has been changed</source>
+        <target xml:lang="de" state="translated">Die Mainlocation des "%name%" wurde geändert</target>
+        <note>key: changed.main.location.of</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="95d6046a734be802fb22460fd8276a042e7e1198" resname="confirm.remove.location">
+        <source>Are you sure you want to remove selected locations?</source>
+        <target xml:lang="de" state="translated">Sind Sie sicher, dass Sie die ausgewählten Locations entfernen möchten?</target>
+        <note>key: confirm.remove.location</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="10b37ae9b695e443fa4704d7a21efd0cadca7d49" resname="confirm.set.main.location">
+        <source>Are you sure you want to set this location as main location of content?</source>
+        <target xml:lang="de" state="translated">Sind Sie sicher, dass Sie diese Location als Mainlocation des Inhalts festlegen möchten?</target>
+        <note>key: confirm.set.main.location</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8a2fbb282605f72d531c11a15b621a9edc4913db" resname="confirmed.delete">
+        <source>Are you sure you want to delete this content?</source>
+        <target xml:lang="de" state="translated">Sind Sie sicher, dass Sie diesen Inhalt löschen wollen?</target>
+        <note>key: confirmed.delete</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a98b131ae17c523ac36a36d82c20b082fc2efa73" resname="confirmed.remove.versions">
+        <source>Are you sure you want to remove selected version(s)?</source>
+        <target xml:lang="de" state="translated">Sind Sie sicher, dass Sie die ausgewählten Versionen entfernen möchten?</target>
+        <note>key: confirmed.remove.versions</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e751550d2bffb320256d3934693e4cbe1b9610b5" resname="confirmed.send.to.trash">
+        <source>Are you sure you want to send this content to trash?</source>
+        <target xml:lang="de" state="translated">Sind Sie sicher, dass Sie diesen Inhalt löschen wollen?</target>
+        <note>key: confirmed.send.to.trash</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="c44059e516685b63857e6db9c22a11ed0d990519" resname="deleted.content">
         <source>'%name%' was deleted</source>
         <target xml:lang="de" state="translated">"%name%" wurde gelöscht</target>
         <note>key: deleted.content</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="380334ddc39c537065b6b955660ee02d5af915f2" resname="deleting.content">
+        <source>Deleting '%name%'</source>
+        <target xml:lang="de" state="translated">Löschen von "%name%"</target>
+        <note>key: deleting.content</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b962f456b0226a8cc71d12c14f72fa5e7672f53" resname="failed.changing.main.location.of">
+        <source>Changing main location of "%name%" failed</source>
+        <target xml:lang="de" state="translated">Ändern der Mainlocation des "%name%" ist fehlgeschlagen</target>
+        <note>key: failed.changing.main.location.of</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="abde0bee2ae04d9f8c4d588cb25a8667ba96d67e" resname="failed.creating.draft.for.based.on">
+        <source>Creating new draft for "%name%" based on version %version% failed.</source>
+        <target xml:lang="de" state="translated">Erstellen von neuen Entwurf für "%name%", basierend auf Version %version% ist fehlgeschlagen.</target>
+        <note>key: failed.creating.draft.for.based.on</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a35316336667d1d2661322af8daeb7f76c0a7743" resname="failed.deleting.content">
+        <source>An error occurred when deleting '%name%'</source>
+        <target xml:lang="de" state="translated">Fehler beim Löschen von %name%</target>
+        <note>key: failed.deleting.content</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f569143536f9f8e4e698086f4d85428661a61a37" resname="failed.moving">
+        <source>An error occurred while moving your content</source>
+        <target xml:lang="de" state="translated">Beim verschieben Ihres Contents trat ein Fehler auf</target>
+        <note>key: failed.moving</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fd0df2ab8df516f5a2900775c5f427ddb9012b77" resname="failed.sending.to.trash">
+        <source>An error occurred when sending '%contentName%' to Trash</source>
+        <target xml:lang="de" state="translated">Fehler beim verschieben von '%contentName%' in den Papierkorb</target>
+        <note>key: failed.sending.to.trash</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="60e53d4c1a6ed1632bf392e34fb5ae864a4683d5" resname="failed.swapping.location.for">
+        <source>Swapping location for "%name%" failed</source>
+        <target xml:lang="de" state="translated">Swap der Location für %name% fehlgeschlagen</target>
+        <note>key: failed.swapping.location.for</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationswapplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d427c063172fceb30447a5a485474536ffcc8c91" resname="failed.to.load.content">
+        <source>Failed to load the content %id%</source>
+        <target xml:lang="de" state="translated">Fehler beim Laden von Content %id%</target>
+        <note>key: failed.to.load.content</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6e26e79018c441ce904ec1d78372148390d1f076" resname="failed.to.load.content.type">
+        <source>Failed to load the content type %id%</source>
+        <target xml:lang="de" state="translated">Fehler beim Laden der Location -%id%</target>
+        <note>key: failed.to.load.content.type</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2fbc2dbfad4beb8f37bac92cce6501b44f264c03" resname="failed.to.load.location">
+        <source>Failed to load the location %id%</source>
+        <target xml:lang="de" state="translated">Fehler beim Laden von Location %id%</target>
+        <note>key: failed.to.load.location</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="675d9c2b05e75bb44aec3d051a5793e2bf4746d0" resname="failed.to.load.location.path">
+        <source>Failed to load locations's path</source>
+        <target xml:lang="de" state="translated">Fehler beim Laden des Location Pfades</target>
+        <note>key: failed.to.load.location.path</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="e0be1422e1af400879a6716220eabc9ad4fca29e" resname="locationview.details.ascending">
