@@ -73,6 +73,15 @@
         <jms:reference-file line="50">Resources/views/Role/assign_role_by_section.html.twig</jms:reference-file>
         <jms:reference-file line="227">Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="1fd015af1b28cdbb8999ea2fe2dc08e181f8836e" resname="role.assign.universaldiscovery.title">
+        <source>Pick the users/groups to assign the role "%roleIdentifier%" to</source>
+        <target xml:lang="de" state="translated">Benutzer/Gruppen der Rolle %roleIdentifier% zuweisen</target>
+        <note>key: role.assign.universaldiscovery.title</note>
+        <jms:reference-file line="35">Resources/views/Role/assign_role_by_section.html.twig</jms:reference-file>
+        <jms:reference-file line="38">Resources/views/Role/list_roles.html.twig</jms:reference-file>
+        <jms:reference-file line="193">Resources/views/Role/view_role.html.twig</jms:reference-file>
+        <jms:reference-file line="202">Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="75fb0347cd4923218126c0696153902dbb14fb96" resname="role.assign.user_or_group">
         <source>Assign to users/groups</source>
         <target xml:lang="de" state="translated">Benutzer/Gruppen Zuordnung</target>
