@@ -271,6 +271,12 @@
         <note>key: richtext.focus</note>
         <jms:reference-file>Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="a8867a26b3b1adfde513cee1bbc0b2cd0beb5cce" resname="richtext.save">
+        <source>Save and Return</source>
+        <target xml:lang="de" state="translated">Speichern und zurück</target>
+        <note>key: richtext.save</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="464257823e27d65e1467abb5b4d6421541870a95" resname="time.required">
         <source>Time is required</source>
         <target xml:lang="de" state="translated">Datum ist erforderlich</target>
