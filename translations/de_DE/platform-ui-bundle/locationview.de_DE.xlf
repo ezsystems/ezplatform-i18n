@@ -246,6 +246,12 @@
         <note>key: locationview.locations.remove.selected</note>
         <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="30412ae8741b6ad892f8e7121c1df1c98690fe69" resname="locationview.locations.select.content.item">
+        <source>Select Content item</source>
+        <target xml:lang="de" state="translated">Content Objekt auswählen</target>
+        <note>key: locationview.locations.select.content.item</note>
+        <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="b5ab365ec9097447d661364c587dd74a3a2a4da3" resname="locationview.locations.subitems">
         <source>Sub-items</source>
         <target xml:lang="de" state="translated">Unterpunkte</target>
@@ -382,9 +388,12 @@
       </trans-unit>
       <trans-unit id="eb9d8fcea3c517851502006e163eb0725ec183f0" resname="tab.locations">
         <source>Locations</source>
-        <target xml:lang="de" state="translated">Orte</target>
+        <target xml:lang="de" state="translated">Locations</target>
         <note>key: tab.locations</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewlocationstabview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="de">Orte</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="20043ee647633fb1c639869bce609c568c195de1" resname="tab.related.content">
         <source>Related content</source>
