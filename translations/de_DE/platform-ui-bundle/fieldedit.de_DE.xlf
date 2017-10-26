@@ -274,6 +274,12 @@
         <note>key: maplocation.longitude</note>
         <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="de4d15e55b8a04ee1b6f188b3cf6dac4aca30d5a" resname="media.audio.empty">
+        <source>No audio file yet.</source>
+        <target xml:lang="de" state="translated">Noch keine Audiodatei.</target>
+        <note>key: media.audio.empty</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="0be02246f03eea8192409c98d2742cfc8394379b" resname="media.audio.properties">
         <source>Audio file properties</source>
         <target xml:lang="de" state="translated">Audiodatei-Eigenschaften</target>
@@ -289,16 +295,34 @@
         <note>key: media.audio.remove</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="15a4d5ecb1370c9fad3f37f4235422017660a208" resname="media.audio.replace">
+        <source>Replace this audio file</source>
+        <target xml:lang="de" state="translated">Ersetze diese Audiodatei</target>
+        <note>key: media.audio.replace</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="6a4fa5aa4d83d262f7179096cb94b1de7ef10582" resname="media.audio.unsupported">
         <source>Unsupported audio format</source>
         <target xml:lang="de" state="translated">Nicht unterstütztes Audioformat</target>
         <note>key: media.audio.unsupported</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="05a233289e65681f4b1ddc93eaffd0c756d63fc4" resname="media.audio.upload">
+        <source>Upload an audio file</source>
+        <target xml:lang="de" state="translated">Audiodatei hochladen</target>
+        <note>key: media.audio.upload</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="6eadf968d3be0a9dbf1a708d86cf710bb62ed7bd" resname="media.autoplay">
         <source>Auto play:</source>
         <target xml:lang="de" state="translated">Auto-Abspielen:</target>
         <note>key: media.autoplay</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="83643610d46ed56851ef235675f247e24a628112" resname="media.displaycontrols">
+        <source>Display controls:</source>
+        <target xml:lang="de" state="translated">Steuerelemente anzeigen:</target>
+        <note>key: media.displaycontrols</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="48f89aa321f9917ee7d69855d638ccc06fbc08cb" resname="media.file.size">
@@ -427,11 +451,36 @@
         <note>key: richtext.save</note>
         <jms:reference-file>Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="cbeb2eb9d25d8d0349f48bd24450b4431112165a" resname="this.field.is.required">
+        <source>This field is required</source>
+        <target xml:lang="de" state="translated">Dieses Feld ist erforderlich</target>
+        <note>key: this.field.is.required</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-emailaddress-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-keyword-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-relation-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-relationlist-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-textblock-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-textline-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-url-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-xmltext-editview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="464257823e27d65e1467abb5b4d6421541870a95" resname="time.required">
         <source>Time is required</source>
         <target xml:lang="de" state="translated">Datum ist erforderlich</target>
         <note>key: time.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c93547a1639e55df78bf8797247cbf75c03649c1" resname="unable.find.address">
+        <source>Unable to find this address</source>
+        <target xml:lang="de" state="translated">Diese Adresse konnte nicht gefunden werden</target>
+        <note>key: unable.find.address</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="96c974ba32d664442a67e0f5885fd4f29e5ab015" resname="url.text">
         <source>Text:</source>
