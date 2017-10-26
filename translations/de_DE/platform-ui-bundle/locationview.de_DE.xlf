@@ -326,6 +326,18 @@
         <note>key: locationview.versions.last.saved</note>
         <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3362319e8e1f3885e6c6e0bfadf77d7c5774f106" resname="locationview.versions.loading.draft.list">
+        <source>Loading the draft list</source>
+        <target xml:lang="de" state="translated">Die Liste mit Entwürfen wird geladen</target>
+        <note>key: locationview.versions.loading.draft.list</note>
+        <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ab40edd4e3d49edea2de3a5e5339cc9527c9ff03" resname="locationview.versions.new.draft.selected.version">
+        <source>New draft based on selected version</source>
+        <target xml:lang="de" state="translated">Neuen Entwurf auf Basis der aktuellen Version</target>
+        <note>key: locationview.versions.new.draft.selected.version</note>
+        <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="bd9a1564891fdc81516078f86ecdb11dd212e86d" resname="locationview.versions.published.version">
         <source>Published version</source>
         <target xml:lang="de" state="translated">Veröffentlichte Version</target>
