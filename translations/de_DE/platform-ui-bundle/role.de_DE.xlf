@@ -95,6 +95,18 @@
         <note>key: role.assign_limit_section.cancel</note>
         <jms:reference-file line="44">Resources/views/Role/assign_role_by_section.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="a170d74c0942f5bb7207fc36c1110b7a75dccfca" resname="role.assignment.deleted">
+        <source>The role assignment was correctly deleted.</source>
+        <target xml:lang="de" state="translated">Die Rollenzuweisung wurde korrekt gelöscht.</target>
+        <note>key: role.assignment.deleted</note>
+        <jms:reference-file line="359">Controller/RoleController.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="af158308ce98ba0ee117306a9dc154cf96cf9c39" resname="role.assignment.error.delete">
+        <source>An error occurred when trying to delete the role assignment.</source>
+        <target xml:lang="de" state="translated">Beim Versuch, die Rollenzuweisung zu löschen, ist ein Fehler aufgetreten.</target>
+        <note>key: role.assignment.error.delete</note>
+        <jms:reference-file line="361">Controller/RoleController.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="93a5221c554b7577697c1a68acbe2e17a3389dea" resname="role.dashboard_title">
         <source>Roles</source>
         <target xml:lang="de" state="translated">Rollen</target>
