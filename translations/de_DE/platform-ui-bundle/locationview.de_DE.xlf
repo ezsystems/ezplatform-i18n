@@ -18,6 +18,12 @@
         <note>key: changed.main.location.of</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="b87552f132d6e0ff4afe5f2f0b12e36dce35c1cb" resname="changing.main.location.of">
+        <source>Changing the main location of "%name%"</source>
+        <target xml:lang="de" state="translated">Ändern der Mainlocation von %name%</target>
+        <note>key: changing.main.location.of</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="95d6046a734be802fb22460fd8276a042e7e1198" resname="confirm.remove.location">
         <source>Are you sure you want to remove selected locations?</source>
         <target xml:lang="de" state="translated">Sind Sie sicher, dass Sie die ausgewählten Locations entfernen möchten?</target>
@@ -326,10 +332,22 @@
         <note>key: locationview.versions.last.saved</note>
         <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="5d85516ece7ea51edb1fcff89135831903ab916b" resname="locationview.versions.loading.archived.list">
+        <source>Loading the archived version list</source>
+        <target xml:lang="de" state="translated">Laden der Liste mit archivierten Versionen</target>
+        <note>key: locationview.versions.loading.archived.list</note>
+        <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="3362319e8e1f3885e6c6e0bfadf77d7c5774f106" resname="locationview.versions.loading.draft.list">
         <source>Loading the draft list</source>
         <target xml:lang="de" state="translated">Die Liste mit Entwürfen wird geladen</target>
         <note>key: locationview.versions.loading.draft.list</note>
+        <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f5e46b4632894a0a9a2b38eda614267de3e5e229" resname="locationview.versions.loading.published.list">
+        <source>Loading the published version list</source>
+        <target xml:lang="de" state="translated">Laden der Liste mit veröffentlichten Versionen</target>
+        <note>key: locationview.versions.loading.published.list</note>
         <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="ab40edd4e3d49edea2de3a5e5339cc9527c9ff03" resname="locationview.versions.new.draft.selected.version">
@@ -360,6 +378,12 @@
         <source>Content type identifier</source>
         <target xml:lang="de" state="translated">Content-Typ-ID</target>
         <note>key: sort.content.type.identifier</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="62a66a9c02d5728bbc517a5d7c11889990cbed12" resname="sort.content.type.name">
+        <source>Content type name</source>
+        <target xml:lang="de" state="translated">Content-Typ Name</target>
+        <note>key: sort.content.type.name</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="8e3b63eca8c0b79018040b44d8ee39701824a187" resname="sort.modified">
