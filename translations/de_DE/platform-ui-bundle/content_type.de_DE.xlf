@@ -49,6 +49,12 @@
         <note>key: content_type.edit_title</note>
         <jms:reference-file line="154">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="139bc06fcecd7ab2e8e59233d52cae047b22af5b" resname="content_type.group">
+        <source>Content type group</source>
+        <target xml:lang="de" state="translated">Content-Typ Gruppen</target>
+        <note>key: content_type.group</note>
+        <jms:reference-file line="17">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="fd931f1ea0d601fe877606ec9e42ff7c37d44d4e" resname="content_type.group.cancel">
         <source>Cancel</source>
         <target xml:lang="de" state="translated">Abbrechen</target>
@@ -92,6 +98,18 @@
         <note>key: content_type.group.new</note>
         <jms:reference-file line="65">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
         <jms:reference-file line="67">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="334f261e09d7b3da4b26022a121ef596bff8a422" resname="content_type.group.notification.created">
+        <source>Content type group "%identifier%" was correctly created.</source>
+        <target xml:lang="de" state="translated">Content-Typ Gruppe %identifier% wurde korrekt erstellt.</target>
+        <note>key: content_type.group.notification.created</note>
+        <jms:reference-file line="46">Form/Processor/ContentTypeGroupFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="09685a253a508713c275a4ecde1adbb4b7f1781e" resname="content_type.group.notification.updated">
+        <source>Content type group "%identifier%" was correctly updated.</source>
+        <target xml:lang="de" state="translated">Content-Typ Gruppe %identifier% wurde korrekt upgedated.</target>
+        <note>key: content_type.group.notification.updated</note>
+        <jms:reference-file line="48">Form/Processor/ContentTypeGroupFormProcessor.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="ac9f629a5395fbcbc31455777dafda7ef125b39e" resname="content_type.id">
         <source>ID</source>
