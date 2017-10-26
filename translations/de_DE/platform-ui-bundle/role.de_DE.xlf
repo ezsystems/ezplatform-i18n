@@ -12,6 +12,12 @@
         <note>key: assigning.role.to.users</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="c06ec423bdd64f80f5e1bd403445c8f158cbbf7a" resname="assignment.none">
+        <source>This role is not assigned to any users or user groups.</source>
+        <target xml:lang="de" state="translated">Diese Rolle ist keinem Benutzer und keiner Gruppe zugeordnet.</target>
+        <note>key: assignment.none</note>
+        <jms:reference-file line="186">Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="70dd3723bde281857912354e3abdb2611345e1a1" resname="assignment.role_limitation">
         <source>Limitation</source>
         <target xml:lang="de" state="translated">Einschränkung</target>
@@ -29,6 +35,30 @@
         <target xml:lang="de" state="translated">Benutzer/Gruppe</target>
         <note>key: assignment.user_or_group</note>
         <jms:reference-file line="136">Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="507cd080bead04f2b94f397dd7a3791ac7548e3c" resname="assignment.user_or_group_using">
+        <source><![CDATA[Users and groups using the <%role%> role (%count%)]]></source>
+        <target xml:lang="de" state="translated"><![CDATA[Benutzer und Gruppen, mit der <%role%>-Rolle (%count%)]]></target>
+        <note>key: assignment.user_or_group_using</note>
+        <jms:reference-file line="24">Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ca65309bef9a375c91388358cc8304dae5032ca1" resname="failed.assigned.role">
+        <source>Role has not been assigned to "%name%": %message%</source>
+        <target xml:lang="de" state="translated">Die Rolle wurde %name% nicht zugewiesen: %message%</target>
+        <note>key: failed.assigned.role</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7f17d5ce98c94b79ee8708703b552c2c101714ff" resname="failed.assigned.role.user">
+        <source>Role has not been assigned to any users/groups</source>
+        <target xml:lang="de" state="translated">Rolle wurde noch keinen Benutzer/Gruppen zugeordnet</target>
+        <note>key: failed.assigned.role.user</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c0f6421b8ab278d972511eeb070a3b76a1052a7f" resname="failed.loading.role">
+        <source>The role "%roleName%" could not be loaded</source>
+        <target xml:lang="de" state="translated">Die Rolle "%roleName%" konnte nicht geladen werden</target>
+        <note>key: failed.loading.role</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="3444a2a8c58cd51ce588ed98a265546600e82dc4" resname="policy.function">
         <source>Function</source>
@@ -153,6 +183,32 @@
         <target xml:lang="de" state="translated">Name</target>
         <note>key: role.name</note>
         <jms:reference-file line="25">Resources/views/Role/list_roles.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="723a06ac319ea75dc2c78c3eb8a30ebacded1a64" resname="role.notification.draft_removed">
+        <source>The role draft was removed.</source>
+        <target xml:lang="de" state="translated">Der Entwurf der Rolle wurde entfernt.</target>
+        <note>key: role.notification.draft_removed</note>
+        <jms:reference-file line="83">Form/Processor/PolicyFormProcessor.php</jms:reference-file>
+        <jms:reference-file line="100">Form/Processor/RoleFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b61546f861fa7af02bb566f7cc18b71828f1827b" resname="role.notification.draft_saved">
+        <source>The role draft was saved.</source>
+        <target xml:lang="de" state="translated">Der Entwurf der Rolle wurde gespeichert.</target>
+        <note>key: role.notification.draft_saved</note>
+        <jms:reference-file line="74">Form/Processor/RoleFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="116219f003b3ddd2b2e8b3529aa96a5b34713a91" resname="role.notification.published">
+        <source>The role was published.</source>
+        <target xml:lang="de" state="translated">Die Rolle wurde veröffentlicht.</target>
+        <note>key: role.notification.published</note>
+        <jms:reference-file line="69">Form/Processor/PolicyFormProcessor.php</jms:reference-file>
+        <jms:reference-file line="75">Form/Processor/RoleFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6dafd96fb9e7b28a8048e7ae6985ce49b0dbff82" resname="role.policy.add">
+        <source>Add a new policy</source>
+        <target xml:lang="de" state="translated">Eine neue Policy hinzufügen</target>
+        <note>key: role.policy.add</note>
+        <jms:reference-file line="108">Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
     </body>
   </file>
