@@ -24,6 +24,12 @@
         <note>key: language.create.title</note>
         <jms:reference-file line="5">Resources/views/Language/edit.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="6edb100c9b7079f15b4d9b105583c97e5164d689" resname="language.deleted">
+        <source>The Language "%languageName%" was correctly deleted.</source>
+        <target xml:lang="de" state="translated">Die Sprache "%languageName%" wurde ordnungsgemäß gelöscht.</target>
+        <note>key: language.deleted</note>
+        <jms:reference-file line="100">Controller/LanguageController.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="0c028c20c9b353fbd7b71bfef8b4ae3dcbd0d7e4" resname="language.disabled">
         <source>Disabled</source>
         <target xml:lang="de" state="translated">Deaktiviert</target>
