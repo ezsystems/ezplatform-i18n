@@ -397,6 +397,12 @@
         <note>key: relation.retry</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="2e594c668c9f88817270dd8c12acd559fe485f5b" resname="relation.select">
+        <source>Select a content</source>
+        <target xml:lang="de" state="translated">Content auswählen</target>
+        <note>key: relation.select</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="76eb23938007b8dc5d74961c52923f34fd9863fc" resname="relationlist.empty">
         <source>No relation.</source>
         <target xml:lang="de" state="translated">Keine Verknüpfungen.</target>
