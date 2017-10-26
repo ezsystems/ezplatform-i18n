@@ -210,6 +210,37 @@
         <note>key: role.policy.add</note>
         <jms:reference-file line="108">Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="bc75703d2446d97b0b9cefd67cd89db4848e9fae" resname="role.policy.create.title">
+        <source>New policy</source>
+        <target xml:lang="de" state="translated">Neue Richtlinie</target>
+        <note>key: role.policy.create.title</note>
+        <jms:reference-file line="6">Resources/views/Role/edit_policy.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="28ccd472ae9e01f00eb14337f9dea449476a0b67" resname="role.policy.edit.title">
+        <source>Edit %policy%</source>
+        <target xml:lang="de" state="translated">%policy% bearbeiten</target>
+        <note>key: role.policy.edit.title</note>
+        <jms:reference-file line="6">Resources/views/Role/edit_policy.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b9034a726357d2e19c7493932f9bcee454d4ce97" resname="role.policy.edit_limitations">
+        <source>Edit limitations</source>
+        <target xml:lang="de" state="translated">Einschränkungen bearbeiten</target>
+        <note>key: role.policy.edit_limitations</note>
+        <jms:reference-file line="75">Resources/views/Role/view_role.html.twig</jms:reference-file>
+        <jms:reference-file line="77">Resources/views/Role/view_role.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="99225f0df6ad50a81ddb060600d0518ae871b105" resname="role.policy.notification.draft_removed">
+        <source>The policy draft was removed.</source>
+        <target xml:lang="de" state="translated">Der Entwurf der Policy wurde entfernt.</target>
+        <note>key: role.policy.notification.draft_removed</note>
+        <jms:reference-file line="82">Form/Processor/PolicyFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6cefbf6392b5c48497a28d56749439827be0aa39" resname="role.policy.notification.draft_saved">
+        <source>The policy draft was saved.</source>
+        <target xml:lang="de" state="translated">Der Entwurf der Policy wurde gespeichert.</target>
+        <note>key: role.policy.notification.draft_saved</note>
+        <jms:reference-file line="47">Form/Processor/PolicyFormProcessor.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
