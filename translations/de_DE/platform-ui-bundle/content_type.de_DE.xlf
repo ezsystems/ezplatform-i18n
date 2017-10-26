@@ -12,6 +12,12 @@
         <note>key: content_type.container</note>
         <jms:reference-file line="62">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="f1312e397c7aa2e8e21be7f65161c6a99b728d3e" resname="content_type.content.title">
+        <source>Content field definitions</source>
+        <target xml:lang="de" state="translated">Content Felder Definitionen</target>
+        <note>key: content_type.content.title</note>
+        <jms:reference-file line="86">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="d93b35cbbda2fccd239d83cd8e4fbba2cbb02166" resname="content_type.dashboard_title">
         <source>Content types</source>
         <target xml:lang="de" state="translated">Content-Typen</target>
@@ -23,11 +29,35 @@
         <jms:reference-file line="10">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
         <jms:reference-file line="15">Resources/views/Dashboard/dashboard.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability">
+        <source>Default availability in primary language, if translation is absent</source>
+        <target xml:lang="de" state="translated">Standard-Verfügbarkeit in der primären Sprache, falls die Übersetzung fehlt</target>
+        <note>key: content_type.default_availability</note>
+        <jms:reference-file line="77">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help">
+        <source>Default availability in primary language, if translation is absent</source>
+        <target xml:lang="de" state="translated">Standard-Verfügbarkeit in der primären Sprache, falls die Übersetzung fehlt</target>
+        <note>key: content_type.default_availability.help</note>
+        <jms:reference-file line="78">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="d14799b2ac8854ab3f0bb9976258c3db39213d09" resname="content_type.default_availability.value">
         <source>{0} Not available|{1} Available</source>
         <target xml:lang="de" state="translated">{0} nicht verfügbar |{1} verfügbar</target>
         <note>key: content_type.default_availability.value</note>
         <jms:reference-file line="80">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting">
+        <source>Default property for sorting chilren</source>
+        <target xml:lang="de" state="translated">Standard Eigenschaft für die Sortierung der Kindelemente</target>
+        <note>key: content_type.default_children_sorting</note>
+        <jms:reference-file line="66">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
+        <source>Default sort order</source>
+        <target xml:lang="de" state="translated">Standardsortierreihenfolge</target>
+        <note>key: content_type.default_sort</note>
+        <jms:reference-file line="72">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
         <source>Description</source>
@@ -60,6 +90,12 @@
         <target xml:lang="de" state="translated">Abbrechen</target>
         <note>key: content_type.group.cancel</note>
         <jms:reference-file line="42">Resources/views/ContentType/edit_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="73205aee63e2b76d2104c295ee19449cf248f045" resname="content_type.group.cannot_delete.has_content_types">
+        <source>Cannot delete Content type group "%identifier%" as it still contains Content types.</source>
+        <target xml:lang="de" state="translated">Content-Type Gruppe "%identifier%" kann nicht gelöscht werden, da es noch Content-Types enthält.</target>
+        <note>key: content_type.group.cannot_delete.has_content_types</note>
+        <jms:reference-file line="190">Controller/ContentTypeController.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="ad7e97ad4cf67edf7aadf9010b17c34dc57aa0a6" resname="content_type.group.edit">
         <source>Edit</source>
@@ -149,6 +185,12 @@
         <note>key: content_type.name</note>
         <jms:reference-file line="42">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="28">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="35f407c7c55275cd9046b6f9e9e77913b9b08e28" resname="content_type.notification.draft_updated">
+        <source>The Content type draft was successfully updated.</source>
+        <target xml:lang="de" state="translated">Der Entwurf des Content-Typs wurde erfolgreich aktualisiert.</target>
+        <note>key: content_type.notification.draft_updated</note>
+        <jms:reference-file line="60">Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description">
         <source>Description</source>
