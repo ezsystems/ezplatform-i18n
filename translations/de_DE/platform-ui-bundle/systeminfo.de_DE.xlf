@@ -117,11 +117,23 @@
         <note>key: symfony_kernel</note>
         <jms:reference-file line="3">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="dbc3d622a5e78844eeb75f3e9477b90357984ad7" resname="symfony_kernel.bundles.empty">
+        <source>Could not find any bundles.</source>
+        <target xml:lang="de" state="translated">Es wurde keine Bundles gefunden.</target>
+        <note>key: symfony_kernel.bundles.empty</note>
+        <jms:reference-file line="24">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="8bce9f0cf5c9c698c1907808aa20cfa0b1ec9ecb" resname="symfony_kernel.cacheDir">
         <source>Cache directory</source>
         <target xml:lang="de" state="translated">Cache-Verzeichnis</target>
         <note>key: symfony_kernel.cacheDir</note>
         <jms:reference-file line="15">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="74d0f849585c3bfe67e3477d0773fd8f097bd54d" resname="symfony_kernel.charset">
+        <source>Character set</source>
+        <target xml:lang="de" state="translated">Zeichensatz</target>
+        <note>key: symfony_kernel.charset</note>
+        <jms:reference-file line="19">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="8da408eada2e85ad98868421df6185d1c8e4bdb2" resname="symfony_kernel.debugMode">
         <source>Debug mode</source>
