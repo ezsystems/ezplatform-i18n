@@ -104,6 +104,12 @@
         <note>key: media.audio.file.properties</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="22ba814b33eebd8af70529872cafaa1bc4b87064" resname="media.auto.play">
+        <source>Auto play:</source>
+        <target xml:lang="de" state="translated">Auto Play:</target>
+        <note>key: media.auto.play</note>
+        <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="7097c3e879074d847c1d5bc6710b2fe4afa91171" resname="media.file.name">
         <source>File name:</source>
         <target xml:lang="de" state="translated">Dateiname:</target>
