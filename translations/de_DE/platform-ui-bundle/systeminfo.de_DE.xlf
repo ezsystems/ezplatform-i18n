@@ -62,6 +62,12 @@
         <note>key: symfony_kernel.debugMode</note>
         <jms:reference-file line="7">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="b279d615747857a87b80e268ef4a8eefc631cd3c" resname="symfony_kernel.debugMode.disabled">
+        <source>Disabled</source>
+        <target xml:lang="de" state="translated">Deaktiviert</target>
+        <note>key: symfony_kernel.debugMode.disabled</note>
+        <jms:reference-file line="8">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="edea137ff68106045aa74351ae612e2160700503" resname="symfony_kernel.debugMode.enabled">
         <source>Enabled</source>
         <target xml:lang="de" state="translated">Aktiviert</target>
@@ -80,11 +86,23 @@
         <note>key: symfony_kernel.logDir</note>
         <jms:reference-file line="17">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="ea20258358e7a0d4e8bc037d4e352ac2ad06b7fa" resname="symfony_kernel.name">
+        <source>Name</source>
+        <target xml:lang="de" state="translated">Name</target>
+        <note>key: symfony_kernel.name</note>
+        <jms:reference-file line="11">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="56014c7eba59799c182934e3a0eb97eff6fd8a97" resname="symfony_kernel.rootDir">
         <source>Root directory</source>
         <target xml:lang="de" state="translated">Root-Verzeichnis</target>
         <note>key: symfony_kernel.rootDir</note>
         <jms:reference-file line="13">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="74fd4792096e74360c7508e16bbe7c1e121d393e" resname="symfony_kernel.version">
+        <source>Version</source>
+        <target xml:lang="de" state="translated">Version</target>
+        <note>key: symfony_kernel.version</note>
+        <jms:reference-file line="9">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="345e6e0c761b74267435f4057f0eb3ef2ae2bc53" resname="system.information">
         <source>System information</source>
