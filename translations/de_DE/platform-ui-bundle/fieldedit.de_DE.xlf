@@ -154,10 +154,28 @@
         <note>key: file.size</note>
         <jms:reference-file>Resources/public/templates/fields/view/binaryfile.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="5c973cf4cef4fd2936dbd1d7879ccdcd8b9e6ffe" resname="image.alternativetext">
+        <source>Alternative text:</source>
+        <target xml:lang="de" state="translated">Alternativer Text:</target>
+        <note>key: image.alternativetext</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c21c1e24ffd073c7213022cf4d0cde8e94be62b8" resname="image.fullwidth">
+        <source>View the full width image</source>
+        <target xml:lang="de" state="translated">Bild in Originalgröße zeigen</target>
+        <note>key: image.fullwidth</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="623d52cead77075eabf73bd844f1870264264f8e" resname="image.name">
         <source>File name</source>
         <target xml:lang="de" state="translated">Dateiname</target>
         <note>key: image.name</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4869b50f2d217dadd224261042666bd2a3fd0e9e" resname="image.noimage">
+        <source>No image yet.</source>
+        <target xml:lang="de" state="translated">Noch kein Bild ausgewählt.</target>
+        <note>key: image.noimage</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="ddb2b77067d29961704d011d303b42d5fcc00e5c" resname="image.or">
@@ -355,6 +373,12 @@
         <note>key: relation.retry</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="76eb23938007b8dc5d74961c52923f34fd9863fc" resname="relationlist.empty">
+        <source>No relation.</source>
+        <target xml:lang="de" state="translated">Keine Verknüpfungen.</target>
+        <note>key: relationlist.empty</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="b0eb3cbb48be1ff976bd4569a8978d63336dd8b7" resname="relationlist.remove">
         <source>Remove</source>
         <target xml:lang="de" state="translated">Entfernen</target>
@@ -365,6 +389,12 @@
         <source>Retry</source>
         <target xml:lang="de" state="translated">Wiederholen</target>
         <note>key: relationlist.retry</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4d8d4cfb7509f6d02d61100e1b940fb5a847d91d" resname="relationlist.select">
+        <source>Select contents</source>
+        <target xml:lang="de" state="translated">Content auswählen</target>
+        <note>key: relationlist.select</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="1c46a1068b55e75f3cac49a3f59c85ca19edbc52" resname="relationlist.table.modified">
