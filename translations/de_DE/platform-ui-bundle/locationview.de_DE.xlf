@@ -90,6 +90,12 @@
         <note>key: failed.moving</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3cb305d711f15ff39be36a9b111cb766c618ec53" resname="failed.removing.locations.of">
+        <source>Removing of %count% location(s) of "%name%" has failed</source>
+        <target xml:lang="de" state="translated">Entferne %count% Elemente von "%name%" fehlgeschlagen</target>
+        <note>key: failed.removing.locations.of</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="fd0df2ab8df516f5a2900775c5f427ddb9012b77" resname="failed.sending.to.trash">
         <source>An error occurred when sending '%contentName%' to Trash</source>
         <target xml:lang="de" state="translated">Fehler beim verschieben von '%contentName%' in den Papierkorb</target>
@@ -124,6 +130,18 @@
         <source>Failed to load locations's path</source>
         <target xml:lang="de" state="translated">Fehler beim Laden des Location Pfades</target>
         <note>key: failed.to.load.location.path</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e59fc009e6dc0079786973ab8b8542f463d3b233" resname="failed.updated.priority">
+        <source>An error occurred when updating the priority</source>
+        <target xml:lang="de" state="translated">Fehler beim Aktualisieren der Priorität</target>
+        <note>key: failed.updated.priority</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d68085cf6081898b8757cdee5fb66aff8c0531f6" resname="failed.updating.sort.method">
+        <source>An error occured while updating the sub items sort method</source>
+        <target xml:lang="de" state="translated">Beim Update der Kindelemente trat ein Fehler auf</target>
+        <note>key: failed.updating.sort.method</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="e0be1422e1af400879a6716220eabc9ad4fca29e" resname="locationview.details.ascending">
