@@ -746,6 +746,30 @@
         <jms:reference-file>Resources/public/js/views/fields/ez-url-editview.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/views/fields/ez-xmltext-editview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="a1df2bc73b96d5f4f733b81df6e65eab72e0a707" resname="time.not.valid">
+        <source>Time do not have a valid input</source>
+        <target xml:lang="de" state="translated">Ungültige Eingabe bei Zeit</target>
+        <note>key: time.not.valid</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3ac8de09a795de3e631c721617dab1caf9e90d12" resname="time.not.valid.date.missing">
+        <source>Time do not have a valid input and date is missing</source>
+        <target xml:lang="de" state="translated">Ungültige Eingabe bei Zeit und Datum fehlt</target>
+        <note>key: time.not.valid.date.missing</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c788a67f4c797fb4111df6384dd2d201ae947859" resname="time.not.valid.date.required">
+        <source>Time do not have a valid input and date is required</source>
+        <target xml:lang="de" state="translated">Ungültige Eingabe bei Zeit und Datum wird benötigt</target>
+        <note>key: time.not.valid.date.required</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4547cf11661540086aa7919af220e53df1d305c0" resname="time.not.valid.enter.format">
+        <source>This time is invalid, enter a correct time: HH:MM(:SS)</source>
+        <target xml:lang="de" state="translated">Ungültige Zeitangabe, geben Sie eine korrekte Zeit an: HH:MM(:SS)</target>
+        <note>key: time.not.valid.enter.format</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="464257823e27d65e1467abb5b4d6421541870a95" resname="time.required">
         <source>Time is required</source>
         <target xml:lang="de" state="translated">Datum ist erforderlich</target>
