@@ -216,6 +216,12 @@
         <note>key: field_definition.ezbinaryfile.max_file_size</note>
         <jms:reference-file line="24">lib/FieldType/Mapper/BinaryFileFormMapper.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3ef6598f8cd7d60095784845bb24852ac531e47c" resname="field_definition.ezcountry.default_value">
+        <source>Select which countries by default</source>
+        <target xml:lang="de" state="translated">Wählen Sie die Standard Länder aus</target>
+        <note>key: field_definition.ezcountry.default_value</note>
+        <jms:reference-file line="56">lib/FieldType/Mapper/CountryFormMapper.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="027f35cf66e5ea571cc7b600dad0ab5ceea20cd6" resname="field_definition.ezcountry.is_multiple">
         <source>Multiple choice</source>
         <target xml:lang="de" state="translated">Multiple-choice</target>
@@ -365,6 +371,12 @@
         <target xml:lang="de" state="translated">Windows Media Player</target>
         <note>key: field_definition.ezmedia.type_windows_media_player</note>
         <jms:reference-file line="36">lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="440d8fe80bb8a07b62f17d843721285b2cf8a4d5" resname="field_definition.ezobjectrelation.selection_root">
+        <source>Default selection item</source>
+        <target xml:lang="de" state="translated">Standard Auswahl Element</target>
+        <note>key: field_definition.ezobjectrelation.selection_root</note>
+        <jms:reference-file line="25">lib/FieldType/Mapper/RelationFormMapper.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="e03e262fad0802fdee49aac136644b35450e1eab" resname="field_definition.ezobjectrelation.selection_root_udw_button">
         <source>Select item</source>
