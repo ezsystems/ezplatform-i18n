@@ -72,6 +72,12 @@
         <note>key: role.policy.limitation.location.udw_button</note>
         <jms:reference-file line="9">bundle/Resources/views/Limitation/udw_limitation_value.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title">
+        <source>Select locations to use as policy limitation</source>
+        <target xml:lang="de" state="translated">Locations für Policy Einschränkungen auswählen</target>
+        <note>key: role.policy.limitation.location.udw_title</note>
+        <jms:reference-file line="5">bundle/Resources/views/Limitation/udw_limitation_value.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="2651baeac233ce0e4ec974e260d8e0873197f3fc" resname="role.policy.save">
         <source>Save</source>
         <target xml:lang="de" state="translated">Speichern</target>
