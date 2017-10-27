@@ -589,6 +589,42 @@
         <note>key: not.a.correct.isbn13.pattern</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="bfa3d0165087e1b249eceda81f084e4404ed79f4" resname="over.maximum.allowed.size">
+        <source>The file '%name%' was refused because its size is greater than the maximum allowed size (%max%)</source>
+        <target xml:lang="de" state="translated">Die Datei '%name%' wurde nicht geladen, weil ihre Größe größer als die maximal zulässige Größe (%max% ist)</target>
+        <note>key: over.maximum.allowed.size</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6fe513c14eb957ff25185e5b3bf73f9f3a8ccee4" resname="refused.not.an.image">
+        <source>The file '%name%' was refused because it seems to not be an image. Please choose an image file.</source>
+        <target xml:lang="de" state="translated">Die Datei '%name%' wurde nicht geladen, weil es offenbar kein Bild ist. Bitte wählen Sie eine Bilddatei.</target>
+        <note>key: refused.not.an.image</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a1e89ea5d1c7efa83d78aecaaf08c993df7b8d7a" resname="relation.empty">
+        <source>No relation.</source>
+        <target xml:lang="de" state="translated">Keine Verknüpfungen.</target>
+        <note>key: relation.empty</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c0c592b62ccf324bfae2eba6f869050b32641b0c" resname="relation.error">
+        <source>An error occurred while loading the related content.</source>
+        <target xml:lang="de" state="translated">Beim laden der verknüpften Inhalte trat ein Fehler auf.</target>
+        <note>key: relation.error</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1a0432678a22f538bc956d02a1a52709a24019a3" resname="relation.help">
+        <source>Select another content and link it up with your content.</source>
+        <target xml:lang="de" state="translated">Wählen Sie einen anderen Content und verknüpfen Sie es mit diesem Content.</target>
+        <note>key: relation.help</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d83d7f0b353c6177f297b5a502f4beae187819ec" resname="relation.loading">
+        <source>Loading the related content</source>
+        <target xml:lang="de" state="translated">Verknüpfte Inhalte Laden</target>
+        <note>key: relation.loading</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="75d2eb26107e9f1bebc6fd525965df6a2c35dee8" resname="relation.modified">
         <source>Modified:</source>
         <target xml:lang="de" state="translated">Geändert:</target>
@@ -599,6 +635,12 @@
         <source>Published:</source>
         <target xml:lang="de" state="translated">Veröffentlicht:</target>
         <note>key: relation.published</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f46aad015f05a6ae74da1d451f030dcc02dc1e39" resname="relation.remove">
+        <source>Remove relation</source>
+        <target xml:lang="de" state="translated">Verknüpfung entfernen</target>
+        <note>key: relation.remove</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="d0a96c335f3402fd4df0fdad937321b580c13eb7" resname="relation.retry">
@@ -617,6 +659,18 @@
         <source>No relation.</source>
         <target xml:lang="de" state="translated">Keine Verknüpfungen.</target>
         <note>key: relationlist.empty</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7b6f3591c6f295907a1636bd3ea950fa0126d970" resname="relationlist.error">
+        <source>An error occurred while loading the related content.</source>
+        <target xml:lang="de" state="translated">Beim laden der verknüpften Inhalte trat ein Fehler auf.</target>
+        <note>key: relationlist.error</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1d30f0399910c05468169bd5a7f737caff136afe" resname="relationlist.loading">
+        <source>Loading the related content(s)</source>
+        <target xml:lang="de" state="translated">Verknüpfte Inhalte laden</target>
+        <note>key: relationlist.loading</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="b0eb3cbb48be1ff976bd4569a8978d63336dd8b7" resname="relationlist.remove">
@@ -667,6 +721,12 @@
         <note>key: richtext.save</note>
         <jms:reference-file>Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="8049139bde69cab92f967e171a9b3f1b933f3151" resname="svg.not.supported">
+        <source>SVG images are not supported. Please choose another image file.</source>
+        <target xml:lang="de" state="translated">SVG-Bilder werden nicht unterstützt. Bitte wählen Sie eine andere Bilddatei.</target>
+        <note>key: svg.not.supported</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="cbeb2eb9d25d8d0349f48bd24450b4431112165a" resname="this.field.is.required">
         <source>This field is required</source>
         <target xml:lang="de" state="translated">Dieses Feld ist erforderlich</target>
@@ -696,6 +756,12 @@
         <source>Unable to find this address</source>
         <target xml:lang="de" state="translated">Diese Adresse konnte nicht gefunden werden</target>
         <note>key: unable.find.address</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="45b69f23fd0b5a0e687942663b3acb369ded5c9b" resname="unsupported.html5.geolocation.api">
+        <source>Your browser does not support HTML5 Geolocation API</source>
+        <target xml:lang="de" state="translated">Dein Browser unterstützt keine HTML5 Geolocation API</target>
+        <note>key: unsupported.html5.geolocation.api</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="96c974ba32d664442a67e0f5885fd4f29e5ab015" resname="url.text">
@@ -733,6 +799,24 @@
         <target xml:lang="de" state="translated">Passwort bestätigen</target>
         <note>key: user.passwordconfirm</note>
         <jms:reference-file>Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="65a42e27e76bf2722822dd28dd0b7ff2d163cb37" resname="value.should.be.less.than">
+        <source>The value should be less than or equal to %maxIntegerValue%</source>
+        <target xml:lang="de" state="translated">Der Wert sollte kleiner als oder gleich %maxIntegerValue% sein</target>
+        <note>key: value.should.be.less.than</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0e3930cc51c59d71efa5464323c96d75b93873f3" resname="value.should.be.more.than">
+        <source>The value should be more than or equal to %minIntegerValue%</source>
+        <target xml:lang="de" state="translated">Der Wert muss größer als oder gleich %minIntegerValue% sein</target>
+        <note>key: value.should.be.more.than</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5c462c60b8cdc7e23d84aca23ffda3d32000247e" resname="value.should.be.valid.integer">
+        <source>The value should be a valid integer number</source>
+        <target xml:lang="de" state="translated">Dieser Wert muss eine gültige Zahl sein</target>
+        <note>key: value.should.be.valid.integer</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
       </trans-unit>
     </body>
   </file>
