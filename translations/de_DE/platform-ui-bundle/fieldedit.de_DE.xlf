@@ -493,6 +493,12 @@
         <note>key: media.height</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="2325191dea1090c18ddab4c6e793dc19ecfab29c" resname="media.loop">
+        <source>Loop:</source>
+        <target xml:lang="de" state="translated">Schleife:</target>
+        <note>key: media.loop</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="ddb130a4e4e9656800990ae5c96df1ea3fcc604e" resname="media.name">
         <source>File name:</source>
         <target xml:lang="de" state="translated">Dateiname:</target>
