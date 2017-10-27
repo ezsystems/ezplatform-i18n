@@ -92,6 +92,12 @@
         <jms:reference-file line="15">Resources/views/ez-support-tools/info/composer.html.twig</jms:reference-file>
         <jms:reference-file line="9">Resources/views/ez-support-tools/info/composer.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="5bfa5c4492601632e405273e2f7ea28977f108c3" resname="packages.empty">
+        <source>Could not find any packages, composer.lock file missing?</source>
+        <target xml:lang="de" state="translated">Konnte keine Pakete finden. Fehlt die composer.lock Datei?</target>
+        <note>key: packages.empty</note>
+        <jms:reference-file line="10">Resources/views/ez-support-tools/info/composer.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="47425e4490d1548713efea3b8a6f5d778e4b1766" resname="php">
         <source>PHP</source>
         <target xml:lang="de" state="translated">PHP</target>
