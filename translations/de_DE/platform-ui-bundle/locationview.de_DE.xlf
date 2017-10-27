@@ -132,6 +132,12 @@
         <note>key: failed.to.load.location.path</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3f04f55debf0d3a13a9cfa32616c860989ac11d1" resname="failed.to.load.section">
+        <source>Failed to load content's section</source>
+        <target xml:lang="de" state="translated">Fehler beim Laden des Inhalts der Section</target>
+        <note>key: failed.to.load.section</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e59fc009e6dc0079786973ab8b8542f463d3b233" resname="failed.updated.priority">
         <source>An error occurred when updating the priority</source>
         <target xml:lang="de" state="translated">Fehler beim Aktualisieren der Priorität</target>
@@ -357,6 +363,12 @@
         <note>key: locationview.relations.content</note>
         <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="e9731695b9a4bd13eb374293087855f8ae449be5" resname="locationview.relations.error.loading.related">
+        <source>An error occurred while loading the related content list.</source>
+        <target xml:lang="de" state="translated">Beim Laden der Liste mit verknüpften Inhalte trat ein Fehler auf.</target>
+        <note>key: locationview.relations.error.loading.related</note>
+        <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="d6b8b44043ab3a73bd6a8a1e1e9079e55a816623" resname="locationview.relations.no.related.content">
         <source>This content has no related content.</source>
         <target xml:lang="de" state="translated">Dieser Inhalt hat keine verbundenen Inhalte.</target>
@@ -490,6 +502,42 @@
         <target xml:lang="de" state="translated">Content</target>
         <note>key: rawcontent.content</note>
         <jms:reference-file>Resources/public/templates/rawcontent.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="acf9100e800a6f1f4f9fa47d8958d512a5729f06" resname="removing.locations.for">
+        <source>Removing locations for "%name%"</source>
+        <target xml:lang="de" state="translated">Locations für "%name%" entfernen</target>
+        <note>key: removing.locations.for</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6bf8a2da889909164b44ea5b8942e18acb8f29b1" resname="removing.versions.for">
+        <source>Removing versions for "%name%"</source>
+        <target xml:lang="de" state="translated">Versionen für "%name%" entfernen</target>
+        <note>key: removing.versions.for</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ae688447d6a0779e33bdbb155806278928d5ec7e" resname="select.location.move.to">
+        <source>Select the location you want to move your content into</source>
+        <target xml:lang="de" state="translated">Wählen Sie die Location an die Sie ihre Inhalte verschieben möchten</target>
+        <note>key: select.location.move.to</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2ebde9679f8621dde1a0069e592eaf1164583c74" resname="select.location.to.swap">
+        <source>Select the location you want to swap with the given one</source>
+        <target xml:lang="de" state="translated">Wählen Sie die Location die Sie mit der Aktuellen swapen möchten</target>
+        <note>key: select.location.to.swap</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationswapplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c3a7268c770036494e916618aae9927d0a353773" resname="sending.to.trash">
+        <source>Sending '%name%' to Trash</source>
+        <target xml:lang="de" state="translated">'%name%' in den Papierkorb legen</target>
+        <note>key: sending.to.trash</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8766b28d763385b40a48711bd66412d5f4d0f609" resname="sent.to.trash">
+        <source>"%name%" sent to Trash</source>
+        <target xml:lang="de" state="translated">"%name%" in den Papierkorb gelegt</target>
+        <note>key: sent.to.trash</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="5fa3c429a7ffda07ccc05013a851a2beafee966d" resname="sort.content.type.identifier">
         <source>Content type identifier</source>
