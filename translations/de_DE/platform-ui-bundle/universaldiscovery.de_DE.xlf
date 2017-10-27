@@ -12,6 +12,12 @@
         <note>key: browse</note>
         <jms:reference-file>Resources/public/js/views/universaldiscovery/ez-universaldiscoverybrowseview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="eb49b4ba3c7e1ef3ac5b6d8f82f8095bed616989" resname="no.result">
+        <source>No results were found while searching for "%searchText%".</source>
+        <target xml:lang="de" state="translated">Bei der Suche nach "%searchText%" wurden keine Ergebnisse gefunden.</target>
+        <note>key: no.result</note>
+        <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="d5ddefb37351cd23fd0ef3eef4c9afca357a4493" resname="remaining.more">
         <source>+%remainingCount% more</source>
         <target xml:lang="de" state="translated">+%remainingCount% mehr</target>
@@ -29,6 +35,12 @@
         <target xml:lang="de" state="translated">Abbrechen</target>
         <note>key: universaldiscovery.cancel</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5afbdba140a12800056af6216eacaeb6c04d5cf4" resname="universaldiscovery.choose.this.content">
+        <source>Choose this content</source>
+        <target xml:lang="de" state="translated">Diesen Content auswählen</target>
+        <note>key: universaldiscovery.choose.this.content</note>
+        <jms:reference-file>Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="39b27d53e4d40abdf72543f7dc720f0ad7dfe34c" resname="universaldiscovery.confirm.selection">
         <source>Confirm selection</source>
@@ -78,6 +90,12 @@
         <note>key: universaldiscovery.first</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="053e68a4e422bcbf510fffa066f6192ad809044f" resname="universaldiscovery.last">
+        <source>Last</source>
+        <target xml:lang="de" state="translated">Letzte</target>
+        <note>key: universaldiscovery.last</note>
+        <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="b191a7509309ed153691a5ea5a97d2dd2bcfd88d" resname="universaldiscovery.last.modified">
         <source>Last Modified</source>
         <target xml:lang="de" state="translated">Zuletzt geändert</target>
@@ -106,6 +124,12 @@
         <source>Preview</source>
         <target xml:lang="de" state="translated">Vorschau</target>
         <note>key: universaldiscovery.preview</note>
+        <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a1f6611a8c1b705c11f7e4b9030764736976c4c1" resname="universaldiscovery.previous">
+        <source>Previous</source>
+        <target xml:lang="de" state="translated">Vorherige</target>
+        <note>key: universaldiscovery.previous</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="c73096f8a35429230e9496f6f838884f76102f7d" resname="universaldiscovery.provide.search.text">
