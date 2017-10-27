@@ -474,6 +474,12 @@
         <note>key: field_definition.eztime.default_type_empty</note>
         <jms:reference-file line="38">lib/FieldType/Mapper/TimeFormMapper.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3095005d6d92b499602347e3692b69346a35a845" resname="field_definition.eztime.use_seconds">
+        <source>Use seconds</source>
+        <target xml:lang="de" state="translated">Sekunden benutzen</target>
+        <note>key: field_definition.eztime.use_seconds</note>
+        <jms:reference-file line="30">lib/FieldType/Mapper/TimeFormMapper.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="92d9243bb9fac540233dc376b41a3bcd41615ccc" resname="field_definition.field_group">
         <source>Category</source>
         <target xml:lang="de" state="translated">Kategorie</target>
@@ -509,6 +515,12 @@
         <target xml:lang="de" state="translated">Name</target>
         <note>key: field_definition.name</note>
         <jms:reference-file line="76">lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f6d7350ade5162400b0848796720fe586392fa46" resname="field_definition.position">
+        <source>Position</source>
+        <target xml:lang="de" state="translated">Position</target>
+        <note>key: field_definition.position</note>
+        <jms:reference-file line="99">lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
       </trans-unit>
     </body>
   </file>
