@@ -77,6 +77,12 @@
         <note>key: subitem.last</note>
         <jms:reference-file>Resources/public/templates/subitem/list.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="e85e98a7e031974c2dc497b926158e893a366f56" resname="subitem.listitem.edit">
+        <source>Edit</source>
+        <target xml:lang="fr" state="translated">Modifier</target>
+        <note>key: subitem.listitem.edit</note>
+        <jms:reference-file>Resources/public/templates/subitem/listitem.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="c9196a19ae958da788cf0b5fbb4e0fb6451ebdf2" resname="subitem.next">
         <source>Next</source>
         <target xml:lang="fr" state="translated">Suivant</target>
