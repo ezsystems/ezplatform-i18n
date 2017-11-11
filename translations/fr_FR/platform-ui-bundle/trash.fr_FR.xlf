@@ -51,6 +51,12 @@
         <note>key: failed.load.parent.location.path</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="e4070d79791c331da86fcb230fec53235b1519ad" resname="items.permanently.deleted">
+        <source>%count% items were permanently deleted.</source>
+        <target xml:lang="fr" state="translated">%count éléments ont été supprimés définitivement.</target>
+        <note>key: items.permanently.deleted</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="0c3639c10994d885f997d2403c4fb64b10a118b3" resname="minimize">
         <source>Minimize</source>
         <target xml:lang="fr" state="translated">Minimiser</target>
@@ -72,10 +78,22 @@
           <target xml:lang="fr">Restaurer les éléments de la corbeille</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="a97f5d20007194640d4a0f86e05bccd2463d9642" resname="trash.ancestor.to.select">
+        <source>Select a new parent location for the item</source>
+        <target xml:lang="fr" state="translated">Sélectionnez un nouveau parent pour cet élément</target>
+        <note>key: trash.ancestor.to.select</note>
+        <jms:reference-file>Resources/public/js/views/ez-trashview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="bdaee6eee47e0c028566b056680e5f7488772428" resname="trash.ancestors">
         <source>Item's ancestors are in Trash</source>
         <target xml:lang="fr" state="translated">Les ancêtres de l'élément sont dans la Corbeille</target>
         <note>key: trash.ancestors</note>
+        <jms:reference-file>Resources/public/templates/trash.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ef15335cc7bc4c4bb04a558b3e7346fb2be24795" resname="trash.ancestors.button">
+        <source>Restore under a new parent</source>
+        <target xml:lang="fr" state="translated">Restaurer sous un nouveau parent</target>
+        <note>key: trash.ancestors.button</note>
         <jms:reference-file>Resources/public/templates/trash.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="7883128cdfb813826271abe90b3a1f3190833ce6" resname="trash.empty">
