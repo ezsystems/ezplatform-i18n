@@ -36,6 +36,87 @@
         <note>key: fielddefinition.default-value.checked</note>
         <jms:reference-file line="59">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3410f38fd1f44cb841ec374c13daca04dcc5910b" resname="fielddefinition.default-value.current_date">
+        <source>Current date</source>
+        <target xml:lang="el" state="translated">Τρέχουσα ημερομηνία</target>
+        <note>key: fielddefinition.default-value.current_date</note>
+        <jms:reference-file line="97">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d3cda4b47dfae160f1e7f982570b8b544a494701" resname="fielddefinition.default-value.current_datetime">
+        <source>Current datetime</source>
+        <target xml:lang="el" state="translated">Τρέχουσα ημερομηνία και ώρα</target>
+        <note>key: fielddefinition.default-value.current_datetime</note>
+        <jms:reference-file line="73">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5cdfd0738c76b8fe520f77e56b819fd3a781a514" resname="fielddefinition.default-value.current_datetime_adjust_by">
+        <source>Current datetime adjusted by</source>
+        <target xml:lang="el" state="translated">Τρέχουσα ημερομηνία και ώρα ρυθμίστηκε από</target>
+        <note>key: fielddefinition.default-value.current_datetime_adjust_by</note>
+        <jms:reference-file line="76">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="baf973c669d404a5aa072edce1d84deaaf936a0f" resname="fielddefinition.default-value.current_time">
+        <source>Current time</source>
+        <target xml:lang="el" state="translated">Τρέχουσα ώρα</target>
+        <note>key: fielddefinition.default-value.current_time</note>
+        <jms:reference-file line="108">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fa5a2f0bf185c7e872f77b81a24867afb9ef0ec7" resname="fielddefinition.default-value.empty">
+        <source>Empty</source>
+        <target xml:lang="el" state="translated">Κενό</target>
+        <note>key: fielddefinition.default-value.empty</note>
+        <jms:reference-file line="106">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="71">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="95">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ad6776fd58e0ae4b2ba44ff014986ec6b1ec4de4" resname="fielddefinition.default-value.label">
+        <source>Default value:</source>
+        <target xml:lang="el" state="translated">Προεπιλεγμένη τιμή:</target>
+        <note>key: fielddefinition.default-value.label</note>
+        <jms:reference-file line="334">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="56">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="232dd99b54158ff1f3be77113aae16e691ce406a" resname="fielddefinition.default-value.unchecked">
+        <source>Unchecked</source>
+        <target xml:lang="el" state="translated">Αποεπιλεγμένο</target>
+        <note>key: fielddefinition.default-value.unchecked</note>
+        <jms:reference-file line="61">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="908870d411d8599211d188e35d0240bfecb98b5e" resname="fielddefinition.default-value.undefined">
+        <source>No default value</source>
+        <target xml:lang="el" state="translated">Χωρίς προεπιλεγμένη τιμή</target>
+        <note>key: fielddefinition.default-value.undefined</note>
+        <jms:reference-file line="339">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="34ced944f5d7159b0597b98279e73be045c0ccd9" resname="fielddefinition.interval.day">
+        <source>%default% %day% day(s)</source>
+        <target xml:lang="el" state="translated">%default% %day% ημέρα(ες)</target>
+        <note>key: fielddefinition.interval.day</note>
+        <jms:reference-file line="79">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4b31f5a6cfde5d347f3ad264daa7db77e704a5e0" resname="fielddefinition.interval.hour">
+        <source>%default% %hour% hour(s)</source>
+        <target xml:lang="el" state="translated">%default% %hour% ώρα(ες)</target>
+        <note>key: fielddefinition.interval.hour</note>
+        <jms:reference-file line="80">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="388ff2c36717a410a72060911657dce61108ed3c" resname="fielddefinition.interval.minute">
+        <source>%default% %minute% minute(s)</source>
+        <target xml:lang="el" state="translated">λεπτό (ά) %default% %minute%</target>
+        <note>key: fielddefinition.interval.minute</note>
+        <jms:reference-file line="81">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b93b6a1548ffa873b1ef5a95c727f93d7be2fd0c" resname="fielddefinition.interval.month">
+        <source>%default% %month% month(s)</source>
+        <target xml:lang="el" state="translated">%default% %month% μήνα(ες)</target>
+        <note>key: fielddefinition.interval.month</note>
+        <jms:reference-file line="78">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c410f54bc82c293dcce4b252928dc4a020ab1705" resname="fielddefinition.interval.second">
+        <source>%default% %second% second(s)</source>
+        <target xml:lang="el" state="translated">%default% %second% δευτερόλεπτο(α)</target>
+        <note>key: fielddefinition.interval.second</note>
+        <jms:reference-file line="82">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
