@@ -12,9 +12,9 @@
         <note>key: content_type.add_field_definition</note>
         <jms:reference-file line="128">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
-      <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create">
+      <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create" approved="yes">
         <source>Create a content type</source>
-        <target xml:lang="fr" state="translated">Créer un type de contenu</target>
+        <target xml:lang="fr">Créer un type de contenu</target>
         <note>key: content_type.create</note>
         <jms:reference-file line="67">lib/Form/Type/ContentType/ContentTypeCreateType.php</jms:reference-file>
       </trans-unit>
