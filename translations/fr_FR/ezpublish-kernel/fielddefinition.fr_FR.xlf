@@ -333,34 +333,34 @@
           <target xml:lang="fr">Modèle de base, simple</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="e0b6bc6950269d05c7318553912abe4042d6a423" resname="fielddefinition.selection-method.tree">
+      <trans-unit id="e0b6bc6950269d05c7318553912abe4042d6a423" resname="fielddefinition.selection-method.tree" approved="yes">
         <source>Drop-down tree</source>
-        <target xml:lang="fr" state="translated">Arborescence déroulante</target>
+        <target xml:lang="fr">Arborescence déroulante</target>
         <note>key: fielddefinition.selection-method.tree</note>
         <jms:reference-file line="209">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
-      <trans-unit id="ccf4d68283a388e6a965caf9e507c6a39fffc46f" resname="fielddefinition.selection-root.label">
+      <trans-unit id="ccf4d68283a388e6a965caf9e507c6a39fffc46f" resname="fielddefinition.selection-root.label" approved="yes">
         <source>Selection root:</source>
-        <target xml:lang="fr" state="translated">Sélectionner la racine :</target>
+        <target xml:lang="fr">Sélectionner la racine :</target>
         <note>key: fielddefinition.selection-root.label</note>
         <jms:reference-file line="321">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
-      <trans-unit id="c7b711d3eb6c197d83e064f309bd2e9791a0950d" resname="fielddefinition.selection-root.undefined">
+      <trans-unit id="c7b711d3eb6c197d83e064f309bd2e9791a0950d" resname="fielddefinition.selection-root.undefined" approved="yes">
         <source>No defined root</source>
-        <target xml:lang="fr" state="translated">Aucune racine définie</target>
+        <target xml:lang="fr">Aucune racine définie</target>
         <note>key: fielddefinition.selection-root.undefined</note>
         <jms:reference-file line="326">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
-      <trans-unit id="4c9eb21a084528340d7944eeb0ffe525fc5e5e75" resname="fielddefinition.use-seconds.label">
+      <trans-unit id="4c9eb21a084528340d7944eeb0ffe525fc5e5e75" resname="fielddefinition.use-seconds.label" approved="yes">
         <source>Use seconds:</source>
-        <target xml:lang="fr" state="translated">Utiliser les secondes :</target>
+        <target xml:lang="fr">Utiliser les secondes :</target>
         <note>key: fielddefinition.use-seconds.label</note>
         <jms:reference-file line="112">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
         <jms:reference-file line="86">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
-      <trans-unit id="f875a84fc9f3c1e0610a90197722f04b9442fa01" resname="fielddefinition.use-seconds.yes_no">
+      <trans-unit id="f875a84fc9f3c1e0610a90197722f04b9442fa01" resname="fielddefinition.use-seconds.yes_no" approved="yes">
         <source>{0} No|{1} Yes</source>
-        <target xml:lang="fr" state="translated">{0} Non|{1} Oui</target>
+        <target xml:lang="fr">{0} Non|{1} Oui</target>
         <note>key: fielddefinition.use-seconds.yes_no</note>
         <jms:reference-file line="113">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
         <jms:reference-file line="87">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
