@@ -63,9 +63,9 @@
         <note>key: content.being.copied.under</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="2be07d7fa67c4111b55ff1ae95aa7bb38df17774" resname="content.browser.title">
+      <trans-unit id="2be07d7fa67c4111b55ff1ae95aa7bb38df17774" resname="content.browser.title" approved="yes">
         <source>Content browser</source>
-        <target xml:lang="fr" state="translated">Navigateur de contenus</target>
+        <target xml:lang="fr">Navigateur de contenus</target>
         <note>key: content.browser.title</note>
         <jms:reference-file>Resources/public/js/views/services/ez-discoverybarviewservice.js</jms:reference-file>
         <alt-trans>
@@ -96,9 +96,9 @@
         <note>key: creating.new.location.for.failed</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="4f1d1e873e2acd3ffa920e7ee8fa339b43ffe384" resname="discoverybar.browse">
+      <trans-unit id="4f1d1e873e2acd3ffa920e7ee8fa339b43ffe384" resname="discoverybar.browse" approved="yes">
         <source>Content browse</source>
-        <target xml:lang="fr" state="translated">Naviguer dans les contenus</target>
+        <target xml:lang="fr">Naviguer dans les contenus</target>
         <note>key: discoverybar.browse</note>
         <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
         <alt-trans>
