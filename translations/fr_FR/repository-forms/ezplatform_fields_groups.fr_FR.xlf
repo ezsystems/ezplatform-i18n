@@ -11,9 +11,9 @@
         <target xml:lang="fr">Contenu</target>
         <note>key: content</note>
       </trans-unit>
-      <trans-unit id="4c24b2612e94e2ae622e54397663f2b7bf0a2e17" resname="metadata">
+      <trans-unit id="4c24b2612e94e2ae622e54397663f2b7bf0a2e17" resname="metadata" approved="yes">
         <source>Metadata</source>
-        <target xml:lang="fr" state="translated">Métadonnée</target>
+        <target xml:lang="fr">Métadonnée</target>
         <note>key: metadata</note>
       </trans-unit>
     </body>
