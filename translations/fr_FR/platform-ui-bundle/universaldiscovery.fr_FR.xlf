@@ -18,15 +18,15 @@
         <note>key: no.result</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="d5ddefb37351cd23fd0ef3eef4c9afca357a4493" resname="remaining.more">
+      <trans-unit id="d5ddefb37351cd23fd0ef3eef4c9afca357a4493" resname="remaining.more" approved="yes">
         <source>+%remainingCount% more</source>
-        <target xml:lang="fr" state="translated">+%remainingCount% en plus</target>
+        <target xml:lang="fr">+%remainingCount% en plus</target>
         <note>key: remaining.more</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/confirmedlist.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="065088a37d32d19ef453c0c30641fdabf7452e0e" resname="result.list">
+      <trans-unit id="065088a37d32d19ef453c0c30641fdabf7452e0e" resname="result.list" approved="yes">
         <source>Result list</source>
-        <target xml:lang="fr" state="translated">Liste des résultats</target>
+        <target xml:lang="fr">Liste des résultats</target>
         <note>key: result.list</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
@@ -48,18 +48,18 @@
         <note>key: universaldiscovery.confirm.selection</note>
         <jms:reference-file>Resources/public/js/views/ez-universaldiscoveryview.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="c951ce12db4e892a7cdb5a44b399e21d689a44ed" resname="universaldiscovery.confirmed.items">
+      <trans-unit id="c951ce12db4e892a7cdb5a44b399e21d689a44ed" resname="universaldiscovery.confirmed.items" approved="yes">
         <source>Confirmed items</source>
-        <target xml:lang="fr" state="translated">Éléments confirmés</target>
+        <target xml:lang="fr">Éléments confirmés</target>
         <note>key: universaldiscovery.confirmed.items</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/confirmedlist.hbt</jms:reference-file>
         <alt-trans>
           <target xml:lang="fr">Eléments confirmés</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="73538954b18fddadb8404e15e4a5bdb3630d14fb" resname="universaldiscovery.content.browser">
+      <trans-unit id="73538954b18fddadb8404e15e4a5bdb3630d14fb" resname="universaldiscovery.content.browser" approved="yes">
         <source>Content browser</source>
-        <target xml:lang="fr" state="translated">Navigateur de Contenus</target>
+        <target xml:lang="fr">Navigateur de Contenus</target>
         <note>key: universaldiscovery.content.browser</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/explorer.hbt</jms:reference-file>
       </trans-unit>
