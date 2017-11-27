@@ -18,9 +18,9 @@
         <note>key: failed.to.load.the.map</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-view.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="977cb55c24b1708d46ccbd753c2cea745976ae21" resname="fieldview.field.empty">
+      <trans-unit id="977cb55c24b1708d46ccbd753c2cea745976ae21" resname="fieldview.field.empty" approved="yes">
         <source>This field is empty</source>
-        <target xml:lang="fr" state="translated">Ce champ est vide</target>
+        <target xml:lang="fr">Ce champ est vide</target>
         <note>key: fieldview.field.empty</note>
         <jms:reference-file>Resources/public/templates/fields/view/author.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/fields/view/binaryfile.hbt</jms:reference-file>
@@ -39,9 +39,9 @@
         <jms:reference-file>Resources/public/templates/fields/view/user.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/fields/view/xmltext.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="81448b0d61f500e4292f65544a15c667721d061a" resname="fieldview.no">
+      <trans-unit id="81448b0d61f500e4292f65544a15c667721d061a" resname="fieldview.no" approved="yes">
         <source>no</source>
-        <target xml:lang="fr" state="translated">non</target>
+        <target xml:lang="fr">non</target>
         <note>key: fieldview.no</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
@@ -65,51 +65,51 @@
         <note>key: file.size</note>
         <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="dbaaba623cb1c7f8c1c65c4be03b3838a8e80908" resname="image.error.loading">
+      <trans-unit id="dbaaba623cb1c7f8c1c65c4be03b3838a8e80908" resname="image.error.loading" approved="yes">
         <source>An error occurred while loading the image.</source>
-        <target xml:lang="fr" state="translated">Une erreur est apparue lors du chargement de l'image.</target>
+        <target xml:lang="fr">Une erreur est survenue lors du chargement de l'image.</target>
         <note>key: image.error.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/image.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="6a5e12298723fd524ac84a436bcfd7fe381310ce" resname="image.loading">
+      <trans-unit id="6a5e12298723fd524ac84a436bcfd7fe381310ce" resname="image.loading" approved="yes">
         <source>Loading the image</source>
-        <target xml:lang="fr" state="translated">Chargement de l'image</target>
+        <target xml:lang="fr">Chargement de l'image</target>
         <note>key: image.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/image.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="e21151edf210d6968aa67c35235066389865f136" resname="maplocation.latitude">
+      <trans-unit id="e21151edf210d6968aa67c35235066389865f136" resname="maplocation.latitude" approved="yes">
         <source>Latitude:</source>
-        <target xml:lang="fr" state="translated">Latitude :</target>
+        <target xml:lang="fr">Latitude :</target>
         <note>key: maplocation.latitude</note>
         <jms:reference-file>Resources/public/templates/fields/view/maplocation.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="60f60bbfc3c9cd30603670eb6b91fa5a1619f73b" resname="maplocation.longitude">
+      <trans-unit id="60f60bbfc3c9cd30603670eb6b91fa5a1619f73b" resname="maplocation.longitude" approved="yes">
         <source>Longitude:</source>
-        <target xml:lang="fr" state="translated">Longitude :</target>
+        <target xml:lang="fr">Longitude :</target>
         <note>key: maplocation.longitude</note>
         <jms:reference-file>Resources/public/templates/fields/view/maplocation.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="f99159789fb9c89f1ac926ec3e8221b5bc4fd34e" resname="maplocation.map.loading">
+      <trans-unit id="f99159789fb9c89f1ac926ec3e8221b5bc4fd34e" resname="maplocation.map.loading" approved="yes">
         <source>The map is loading...</source>
-        <target xml:lang="fr" state="translated">La carte est en train de se charger...</target>
+        <target xml:lang="fr">La carte est en train de se charger...</target>
         <note>key: maplocation.map.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/maplocation.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="06f85129e2e7727f858c84f47901510a4d788f0d" resname="media.audio.file.properties">
+      <trans-unit id="06f85129e2e7727f858c84f47901510a4d788f0d" resname="media.audio.file.properties" approved="yes">
         <source>Audio file properties</source>
-        <target xml:lang="fr" state="translated">Propriétés du fichier audio</target>
+        <target xml:lang="fr">Propriétés du fichier audio</target>
         <note>key: media.audio.file.properties</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="22ba814b33eebd8af70529872cafaa1bc4b87064" resname="media.auto.play">
+      <trans-unit id="22ba814b33eebd8af70529872cafaa1bc4b87064" resname="media.auto.play" approved="yes">
         <source>Auto play:</source>
-        <target xml:lang="fr" state="translated">Lecture automatique :</target>
+        <target xml:lang="fr">Lecture automatique :</target>
         <note>key: media.auto.play</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="f607f322881e39df930c236a13e1d03ecfd07ecf" resname="media.display.controls">
+      <trans-unit id="f607f322881e39df930c236a13e1d03ecfd07ecf" resname="media.display.controls" approved="yes">
         <source>Display controls:</source>
-        <target xml:lang="fr" state="translated">Afficher les réglages :</target>
+        <target xml:lang="fr">Afficher les réglages :</target>
         <note>key: media.display.controls</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
@@ -119,27 +119,27 @@
         <note>key: media.file.name</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="48f89aa321f9917ee7d69855d638ccc06fbc08cb" resname="media.file.size">
+      <trans-unit id="48f89aa321f9917ee7d69855d638ccc06fbc08cb" resname="media.file.size" approved="yes">
         <source>File size:</source>
-        <target xml:lang="fr" state="translated">Taille du fichier :</target>
+        <target xml:lang="fr">Taille du fichier :</target>
         <note>key: media.file.size</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="7aa71030f0d414447e914c2c037344aa54b03b87" resname="media.file.type">
+      <trans-unit id="7aa71030f0d414447e914c2c037344aa54b03b87" resname="media.file.type" approved="yes">
         <source>Type:</source>
-        <target xml:lang="fr" state="translated">Type :</target>
+        <target xml:lang="fr">Type :</target>
         <note>key: media.file.type</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="a135ffe48152a728ec0fd91fc87fc60939b7c469" resname="media.heigth">
+      <trans-unit id="a135ffe48152a728ec0fd91fc87fc60939b7c469" resname="media.heigth" approved="yes">
         <source>Height:</source>
-        <target xml:lang="fr" state="translated">Hauteur :</target>
+        <target xml:lang="fr">Hauteur :</target>
         <note>key: media.heigth</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
-      <trans-unit id="2325191dea1090c18ddab4c6e793dc19ecfab29c" resname="media.loop">
+      <trans-unit id="2325191dea1090c18ddab4c6e793dc19ecfab29c" resname="media.loop" approved="yes">
         <source>Loop:</source>
-        <target xml:lang="fr" state="translated">Boucle :</target>
+        <target xml:lang="fr">Boucle :</target>
         <note>key: media.loop</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
