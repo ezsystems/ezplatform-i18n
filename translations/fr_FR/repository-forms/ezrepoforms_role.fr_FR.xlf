@@ -12,15 +12,15 @@
         <note>key: policy.limitation.group.self</note>
         <jms:reference-file line="29">lib/Limitation/Mapper/GroupLimitationMapper.php</jms:reference-file>
       </trans-unit>
-      <trans-unit id="cc7c597ffa43ef724b881b127a4124fd35c8c6f6" resname="policy.limitation.owner.self">
+      <trans-unit id="cc7c597ffa43ef724b881b127a4124fd35c8c6f6" resname="policy.limitation.owner.self" approved="yes">
         <source>Self</source>
-        <target xml:lang="fr" state="translated">Soi-même</target>
+        <target xml:lang="fr">Soi-même</target>
         <note>key: policy.limitation.owner.self</note>
         <jms:reference-file line="30">lib/Limitation/Mapper/OwnerLimitationMapper.php</jms:reference-file>
       </trans-unit>
-      <trans-unit id="8199e9b3c9cfe019c9a9c07424abe35374ff0321" resname="role.assignment.form.delete">
+      <trans-unit id="8199e9b3c9cfe019c9a9c07424abe35374ff0321" resname="role.assignment.form.delete" approved="yes">
         <source>Delete assignment</source>
-        <target xml:lang="fr" state="translated">Supprimer l'assignation</target>
+        <target xml:lang="fr">Supprimer l'assignation</target>
         <note>key: role.assignment.form.delete</note>
         <jms:reference-file line="32">lib/Form/Type/Role/RoleAssignmentDeleteType.php</jms:reference-file>
       </trans-unit>
@@ -42,21 +42,21 @@
         <note>key: role.form.delete</note>
         <jms:reference-file line="32">lib/Form/Type/Role/RoleDeleteType.php</jms:reference-file>
       </trans-unit>
-      <trans-unit id="2899eca602b4735e6d40c6602fe539474fcbe76d" resname="role.identifier">
+      <trans-unit id="2899eca602b4735e6d40c6602fe539474fcbe76d" resname="role.identifier" approved="yes">
         <source>Name</source>
-        <target xml:lang="fr" state="translated">Nom</target>
+        <target xml:lang="fr">Nom</target>
         <note>key: role.identifier</note>
         <jms:reference-file line="44">lib/Form/Type/Role/RoleUpdateType.php</jms:reference-file>
       </trans-unit>
-      <trans-unit id="deab5c91a76488732d0405e72c36702ed2aea3d6" resname="role.policy.all_functions">
+      <trans-unit id="deab5c91a76488732d0405e72c36702ed2aea3d6" resname="role.policy.all_functions" approved="yes">
         <source>All functions</source>
-        <target xml:lang="fr" state="translated">Toutes les fonctions</target>
+        <target xml:lang="fr">Toutes les fonctions</target>
         <note>key: role.policy.all_functions</note>
         <jms:reference-file line="59">lib/Form/Type/Role/PolicyType.php</jms:reference-file>
       </trans-unit>
-      <trans-unit id="2a8bdc606cd0c96a53e2f661f0585029840af4b9" resname="role.policy.available_limitations">
+      <trans-unit id="2a8bdc606cd0c96a53e2f661f0585029840af4b9" resname="role.policy.available_limitations" approved="yes">
         <source>Limitations</source>
-        <target xml:lang="fr" state="translated">Restrictions</target>
+        <target xml:lang="fr">Restrictions</target>
         <note>key: role.policy.available_limitations</note>
         <jms:reference-file line="109">lib/Form/Type/Role/PolicyType.php</jms:reference-file>
       </trans-unit>
