@@ -409,9 +409,9 @@
         <note>key: login.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="3ebb2a2e0355aff0d63b0a1c644aff0efa6b52c6" resname="maplocation.address">
+      <trans-unit id="3ebb2a2e0355aff0d63b0a1c644aff0efa6b52c6" resname="maplocation.address" approved="yes">
         <source>Address:</source>
-        <target xml:lang="fr" state="translated">Adresse :</target>
+        <target xml:lang="fr">Adresse :</target>
         <note>key: maplocation.address</note>
         <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
         <alt-trans>
