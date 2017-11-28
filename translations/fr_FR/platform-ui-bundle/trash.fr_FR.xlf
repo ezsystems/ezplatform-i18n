@@ -24,9 +24,9 @@
         <note>key: empty.trash</note>
         <jms:reference-file>Resources/public/js/views/ez-trashbarview.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="e472f53d72216a0252d8d8c55c4c565b656201d8" resname="error.emptying.trash">
+      <trans-unit id="e472f53d72216a0252d8d8c55c4c565b656201d8" resname="error.emptying.trash" approved="yes">
         <source>An error occurred while emptying the Trash</source>
-        <target xml:lang="fr" state="translated">Une erreur s’est produite lors du vidage la Corbeille</target>
+        <target xml:lang="fr">Une erreur s’est produite lors du vidage la Corbeille</target>
         <note>key: error.emptying.trash</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
         <alt-trans>
@@ -51,15 +51,15 @@
         <note>key: failed.load.parent.location.path</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="e4070d79791c331da86fcb230fec53235b1519ad" resname="items.permanently.deleted">
+      <trans-unit id="e4070d79791c331da86fcb230fec53235b1519ad" resname="items.permanently.deleted" approved="yes">
         <source>%count% items were permanently deleted.</source>
-        <target xml:lang="fr" state="translated">%count éléments ont été supprimés définitivement.</target>
+        <target xml:lang="fr">%count éléments ont été supprimés définitivement.</target>
         <note>key: items.permanently.deleted</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="0c3639c10994d885f997d2403c4fb64b10a118b3" resname="minimize">
+      <trans-unit id="0c3639c10994d885f997d2403c4fb64b10a118b3" resname="minimize" approved="yes">
         <source>Minimize</source>
-        <target xml:lang="fr" state="translated">Minimiser</target>
+        <target xml:lang="fr">Minimiser</target>
         <note>key: minimize</note>
         <jms:reference-file>Resources/public/js/views/ez-trashbarview.js</jms:reference-file>
       </trans-unit>
@@ -69,24 +69,24 @@
         <note>key: restore.selected</note>
         <jms:reference-file>Resources/public/js/views/ez-trashbarview.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="975936b6f9637047ab09d9e23550ee47e44a1308" resname="restoring.trash.items">
+      <trans-unit id="975936b6f9637047ab09d9e23550ee47e44a1308" resname="restoring.trash.items" approved="yes">
         <source>Restoring trash item(s)</source>
-        <target xml:lang="fr" state="translated">Restaurer les éléments de la Corbeille</target>
+        <target xml:lang="fr">Restaurer les éléments de la Corbeille</target>
         <note>key: restoring.trash.items</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
         <alt-trans>
           <target xml:lang="fr">Restaurer les éléments de la corbeille</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="a97f5d20007194640d4a0f86e05bccd2463d9642" resname="trash.ancestor.to.select">
+      <trans-unit id="a97f5d20007194640d4a0f86e05bccd2463d9642" resname="trash.ancestor.to.select" approved="yes">
         <source>Select a new parent location for the item</source>
-        <target xml:lang="fr" state="translated">Sélectionnez un nouveau parent pour cet élément</target>
+        <target xml:lang="fr">Sélectionnez un nouveau parent pour cet élément</target>
         <note>key: trash.ancestor.to.select</note>
         <jms:reference-file>Resources/public/js/views/ez-trashview.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="bdaee6eee47e0c028566b056680e5f7488772428" resname="trash.ancestors">
+      <trans-unit id="bdaee6eee47e0c028566b056680e5f7488772428" resname="trash.ancestors" approved="yes">
         <source>Item's ancestors are in Trash</source>
-        <target xml:lang="fr" state="translated">Les ancêtres de l'élément sont dans la Corbeille</target>
+        <target xml:lang="fr">Les ancêtres de l'élément sont dans la Corbeille</target>
         <note>key: trash.ancestors</note>
         <jms:reference-file>Resources/public/templates/trash.hbt</jms:reference-file>
       </trans-unit>
