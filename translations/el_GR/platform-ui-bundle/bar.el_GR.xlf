@@ -191,6 +191,42 @@
         <note>key: select.a.language.for.new.translation</note>
         <jms:reference-file>Resources/public/js/views/actions/ez-translateactionview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="801849651d85606aa04da1b4ea58fad208793e3a" resname="select.location.to.copy">
+        <source>Select the location you want to copy your content into</source>
+        <target xml:lang="el" state="translated">Επιλέξτε την τοποθεσία που θέλετε να αντιγράψετε το περιεχόμενό σας</target>
+        <note>key: select.location.to.copy</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="303fa8448e329ecb88341279a1a17b044549270a" resname="select.location.to.create.new.location">
+        <source>Select the location where you want to create new location</source>
+        <target xml:lang="el" state="translated">Επιλέξτε τη θέση όπου θέλετε να δημιουργήσετε νέα τοποθεσία</target>
+        <note>key: select.location.to.create.new.location</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit">
+        <source>Edit</source>
+        <target xml:lang="el" state="translated">Επεξεργασία</target>
+        <note>key: translateaction.edit</note>
+        <jms:reference-file>Resources/public/templates/translateaction.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0da142a7f050a139b79a5865547744a56a5f4281" resname="translateaction.existing.translations">
+        <source>Existing Translations</source>
+        <target xml:lang="el" state="translated">Υπάρχουσες μεταφράσεις</target>
+        <note>key: translateaction.existing.translations</note>
+        <jms:reference-file>Resources/public/templates/translateaction.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cd6a171f15734694bbc3e15e0f2e4ca47dd5d1ff" resname="translateaction.new.translation">
+        <source>+ New Translation</source>
+        <target xml:lang="el" state="translated">+ Νέα μετάφραση</target>
+        <note>key: translateaction.new.translation</note>
+        <jms:reference-file>Resources/public/templates/translateaction.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0141ea1c4b92b9abdd164fdc4a7a824350d856f7" resname="view.content.label">
+        <source>View this content</source>
+        <target xml:lang="el" state="translated">Εμφάνιση αυτού τού περιεχόμενου</target>
+        <note>key: view.content.label</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-discoverybarviewservice.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
