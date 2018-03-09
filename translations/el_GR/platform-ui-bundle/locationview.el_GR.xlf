@@ -500,6 +500,141 @@
         <note>key: locationview.versions.loading.published.list</note>
         <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="ab40edd4e3d49edea2de3a5e5339cc9527c9ff03" resname="locationview.versions.new.draft.selected.version">
+        <source>New draft based on selected version</source>
+        <target xml:lang="el" state="translated">Νέο σχέδιο με βάση την επιλεγμένη έκδοση</target>
+        <note>key: locationview.versions.new.draft.selected.version</note>
+        <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bd9a1564891fdc81516078f86ecdb11dd212e86d" resname="locationview.versions.published.version">
+        <source>Published version</source>
+        <target xml:lang="el" state="translated">Δημιοσιευμένη έκδοση</target>
+        <note>key: locationview.versions.published.version</note>
+        <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="51b6a4fff074bf24fc4183bc944890cc849ba82d" resname="locationview.versions.remove.selected.archived.version">
+        <source>Remove selected archived version(s)</source>
+        <target xml:lang="el" state="translated">Κατάργηση της επιλεγμένης αρχειοθετημένης έκδοσης(εων)</target>
+        <note>key: locationview.versions.remove.selected.archived.version</note>
+        <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="199990450f06a84725d61f91a899166d0d3305c4" resname="locationview.versions.version">
+        <source>Version</source>
+        <target xml:lang="el" state="translated">Έκδοση</target>
+        <note>key: locationview.versions.version</note>
+        <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9f2228ea94634afa4c264cfa0b36b5f08d653298" resname="moved.under">
+        <source>'%name%' has been successfully moved under '%parentName%'</source>
+        <target xml:lang="el" state="translated">'%name%' μεταφέρθηκε υπό την τοποθεσία '%parentName%'</target>
+        <note>key: moved.under</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f67a3e91c4d5aa8aac6c72fe7027dfba73eb1a4f" resname="rawcontent.content">
+        <source>Content</source>
+        <target xml:lang="el" state="translated">Περιεχόμενο</target>
+        <note>key: rawcontent.content</note>
+        <jms:reference-file>Resources/public/templates/rawcontent.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9ec896e824bd9e4181a3a6fbc7514c0dba5dde3d" resname="removed.locations.of">
+        <source>%count% location(s) of "%name%" have been removed</source>
+        <target xml:lang="el" state="translated">%count% τοποθεσία(ες) "%name%" έχει μετακινηθεί</target>
+        <note>key: removed.locations.of</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="el">%count% τοποθεσία(ες) "%name%" έχουν μετακινηθεί</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="9e5f98b5c3f285bd15fc0a0a23b3a42c2faa47ea" resname="removed.versions.of">
+        <source>%count% version(s) of "%name%" have been removed</source>
+        <target xml:lang="el" state="translated">%count% έκδοση(ης) "%name%" έχει μετακινηθεί</target>
+        <note>key: removed.versions.of</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="acf9100e800a6f1f4f9fa47d8958d512a5729f06" resname="removing.locations.for">
+        <source>Removing locations for "%name%"</source>
+        <target xml:lang="el" state="translated">Αλλαγή των θέσεων τού «%name%»</target>
+        <note>key: removing.locations.for</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6bf8a2da889909164b44ea5b8942e18acb8f29b1" resname="removing.versions.for">
+        <source>Removing versions for "%name%"</source>
+        <target xml:lang="el" state="translated">Αλλαγή εκδόσεων τού «%name%»</target>
+        <note>key: removing.versions.for</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ae688447d6a0779e33bdbb155806278928d5ec7e" resname="select.location.move.to">
+        <source>Select the location you want to move your content into</source>
+        <target xml:lang="el" state="translated">Επιλέξτε την τοποθεσία στην οποία θέλετε να μετακινήσετε το περιεχόμενό σας</target>
+        <note>key: select.location.move.to</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2ebde9679f8621dde1a0069e592eaf1164583c74" resname="select.location.to.swap">
+        <source>Select the location you want to swap with the given one</source>
+        <target xml:lang="el" state="translated">Επιλέξτε την τοποθεσία που θέλετε να ανταλλάξετε με το δεδομένο ένα</target>
+        <note>key: select.location.to.swap</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationswapplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c3a7268c770036494e916618aae9927d0a353773" resname="sending.to.trash">
+        <source>Sending '%name%' to Trash</source>
+        <target xml:lang="el" state="translated">Αποστολή τού '%name%' στα σκουπίδια</target>
+        <note>key: sending.to.trash</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8766b28d763385b40a48711bd66412d5f4d0f609" resname="sent.to.trash">
+        <source>"%name%" sent to Trash</source>
+        <target xml:lang="el" state="translated">Το "%name%" στάλθηκε στα σκουπίδια</target>
+        <note>key: sent.to.trash</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5fa3c429a7ffda07ccc05013a851a2beafee966d" resname="sort.content.type.identifier">
+        <source>Content type identifier</source>
+        <target xml:lang="el" state="translated">Αναγνωριστικό περιεχομένου</target>
+        <note>key: sort.content.type.identifier</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="62a66a9c02d5728bbc517a5d7c11889990cbed12" resname="sort.content.type.name">
+        <source>Content type name</source>
+        <target xml:lang="el" state="translated">Ομάδα τύπου περιεχομένου</target>
+        <note>key: sort.content.type.name</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3fc89a073d545b17319f4926105bf536a2481795" resname="sort.depth">
+        <source>Location depth</source>
+        <target xml:lang="el" state="translated">Βάθος τοποθεσίας</target>
+        <note>key: sort.depth</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8e3b63eca8c0b79018040b44d8ee39701824a187" resname="sort.modified">
+        <source>Modification date</source>
+        <target xml:lang="el" state="translated">Ημερομηνία τροποποίησης</target>
+        <note>key: sort.modified</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4f2fcdfe68ca50269b9c334594a8acd1a688809f" resname="sort.name">
+        <source>Content name</source>
+        <target xml:lang="el" state="translated">Όνομα περιεχόμενου</target>
+        <note>key: sort.name</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="668f8150c4acd0a0c8075de8b794639b8b4a6519" resname="sort.path">
+        <source>Location path</source>
+        <target xml:lang="el" state="translated">Βάθος τοποθεσίας</target>
+        <note>key: sort.path</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bcb9183148c577a8a232c08847dff0c1647e62e7" resname="sort.priority">
+        <source>Priority</source>
+        <target xml:lang="el" state="translated">Προτεραιότητα</target>
+        <note>key: sort.priority</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="033291f867da64bfb4f9db9ec1b3c947b1e431c5" resname="sort.published">
+        <source>Publication date</source>
+        <target xml:lang="el" state="translated">Ημερομηνία δημοσίευσης</target>
+        <note>key: sort.published</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="f0ec72293071715721e084ed98b6ceb112aae22b" resname="sort.section">
         <source>Section</source>
         <target xml:lang="el" state="translated">Ενότητα</target>
