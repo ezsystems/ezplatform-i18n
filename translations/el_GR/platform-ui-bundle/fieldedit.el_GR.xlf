@@ -415,6 +415,30 @@
         <note>key: maplocation.locateaddress</note>
         <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="748db692b3faa75edc78fe780f125dacc597fdd2" resname="maplocation.locateme">
+        <source>Locate Me</source>
+        <target xml:lang="el" state="translated">Εντόπισε με</target>
+        <note>key: maplocation.locateme</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="60f60bbfc3c9cd30603670eb6b91fa5a1619f73b" resname="maplocation.longitude">
+        <source>Longitude:</source>
+        <target xml:lang="el" state="translated">Γεωγραφικό μήκος:</target>
+        <note>key: maplocation.longitude</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="de4d15e55b8a04ee1b6f188b3cf6dac4aca30d5a" resname="media.audio.empty">
+        <source>No audio file yet.</source>
+        <target xml:lang="el" state="translated">Κανένα αρχείο ήχου ακόμα.</target>
+        <note>key: media.audio.empty</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9e333a901ae1af3b53556d2dd70fd6b0d2bd36a2" resname="media.audio.help">
+        <source>Drag and drop your audio file here or simply click on the buttons and select your audio file manually.</source>
+        <target xml:lang="el" state="translated">Σύρετε και αποθέστε το αρχείο σας εδώ ή απλά κάντε κλικ στα πλήκτρα και επιλέξτε το αρχείο σας με μη αυτόματο τρόπο.</target>
+        <note>key: media.audio.help</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="fea522d933afafa19ac438bd82d49ddc1c254d2f" resname="relationlist.table.published">
         <source>Published</source>
         <target xml:lang="el" state="translated">Δημοσιεύθηκε</target>
