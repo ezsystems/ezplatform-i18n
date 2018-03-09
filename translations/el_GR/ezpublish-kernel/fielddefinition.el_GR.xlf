@@ -364,6 +364,13 @@
         <jms:reference-file line="112">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
         <jms:reference-file line="86">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="f875a84fc9f3c1e0610a90197722f04b9442fa01" resname="fielddefinition.use-seconds.yes_no">
+        <source>{0} No|{1} Yes</source>
+        <target xml:lang="el" state="translated">{0} 'Οχι |{1} Ναι</target>
+        <note>key: fielddefinition.use-seconds.yes_no</note>
+        <jms:reference-file line="113">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="87">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
