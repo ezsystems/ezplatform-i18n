@@ -8,37 +8,37 @@
     <body>
       <trans-unit id="558c96f6cc252f0dbe70418123dd8bbb13234a2b" resname="confirmbox.cancel">
         <source>Cancel</source>
-        <target xml:lang="ach">crwdns210976:0crwdne210976:0</target>
+        <target xml:lang="ach">crwdns213159:0crwdne213159:0</target>
         <note>key: confirmbox.cancel</note>
         <jms:reference-file>Resources/public/templates/confirmbox.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="333383790307ace20d9c43e23fa613daf0e4492c" resname="confirmbox.confirm">
         <source>Confirm</source>
-        <target xml:lang="ach">crwdns210977:0crwdne210977:0</target>
+        <target xml:lang="ach">crwdns213160:0crwdne213160:0</target>
         <note>key: confirmbox.confirm</note>
         <jms:reference-file>Resources/public/templates/confirmbox.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="c478b39ac9ceac6e2a91a937bb1d9fd310cb607d" resname="draftconflict.language">
         <source>Language</source>
-        <target xml:lang="ach">crwdns210978:0crwdne210978:0</target>
+        <target xml:lang="ach">crwdns213161:0crwdne213161:0</target>
         <note>key: draftconflict.language</note>
         <jms:reference-file>Resources/public/templates/confirmbox/draftconflict.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="0061cab899c3a8d9b9f601491b0474f9d85d92a7" resname="draftconflict.lastmodified">
         <source>Last Modified</source>
-        <target xml:lang="ach">crwdns210979:0crwdne210979:0</target>
+        <target xml:lang="ach">crwdns213162:0crwdne213162:0</target>
         <note>key: draftconflict.lastmodified</note>
         <jms:reference-file>Resources/public/templates/confirmbox/draftconflict.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="c35f9f95f267fd0c78da8ae80914a1cbc15bb90b" resname="draftconflict.newdraft">
         <source>New Draft</source>
-        <target xml:lang="ach">crwdns210980:0crwdne210980:0</target>
+        <target xml:lang="ach">crwdns213163:0crwdne213163:0</target>
         <note>key: draftconflict.newdraft</note>
         <jms:reference-file>Resources/public/templates/confirmbox/draftconflict.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="302cfdba7ddbb677d9abb7967b44aaf8ab0ce8d0" resname="draftconflict.owner">
         <source>Owner</source>
-        <target xml:lang="ach">crwdns210981:0crwdne210981:0</target>
+        <target xml:lang="ach">crwdns213164:0crwdne213164:0</target>
         <note>key: draftconflict.owner</note>
         <jms:reference-file>Resources/public/templates/confirmbox/draftconflict.hbt</jms:reference-file>
       </trans-unit>
