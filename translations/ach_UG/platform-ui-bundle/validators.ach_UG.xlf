@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="75b39067b1e7bca3c977f2a30426379e819fbbf6" resname="section.validator.identifier.format">
         <source>Identifier should consist of letters, numbers or '_' with letter prefix.</source>
-        <target xml:lang="ach">crwdns211628:0crwdne211628:0</target>
+        <target xml:lang="ach">crwdns213817:0crwdne213817:0</target>
         <note>key: section.validator.identifier.format</note>
       </trans-unit>
       <trans-unit id="f1e18acc46e3c3ad462486f6815c64267c2eb1fa" resname="section.validator.identifier.not_blank">
         <source>The section identifier can not be empty.</source>
-        <target xml:lang="ach">crwdns211629:0crwdne211629:0</target>
+        <target xml:lang="ach">crwdns213818:0crwdne213818:0</target>
         <note>key: section.validator.identifier.not_blank</note>
       </trans-unit>
       <trans-unit id="bc1b2c67bc416368f449869bb57b50b1d62a4c04" resname="section.validator.name.not_blank">
         <source>The section name can not be empty.</source>
-        <target xml:lang="ach">crwdns211630:0crwdne211630:0</target>
+        <target xml:lang="ach">crwdns213819:0crwdne213819:0</target>
         <note>key: section.validator.name.not_blank</note>
       </trans-unit>
     </body>
