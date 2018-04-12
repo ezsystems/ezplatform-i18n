@@ -8,19 +8,19 @@
     <body>
       <trans-unit id="473791d4ee73c0b1401f37519728414c339edc21" resname="javascript.disabled.required">
         <source>JavaScript is disabled in your browser but it is required to run the eZ Platform User Interface.</source>
-        <target xml:lang="ach">crwdns211272:0crwdne211272:0</target>
+        <target xml:lang="ach">crwdns213433:0crwdne213433:0</target>
         <note>key: javascript.disabled.required</note>
         <jms:reference-file line="53">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="1ac530659b5b57d48cf6d95bc51ead90f1a2ac6d" resname="javascript.enable">
         <source>Please enable JavaScript to use the eZ Platform User Interface.</source>
-        <target xml:lang="ach">crwdns211273:0crwdne211273:0</target>
+        <target xml:lang="ach">crwdns213434:0crwdne213434:0</target>
         <note>key: javascript.enable</note>
         <jms:reference-file line="54">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="40797c87a424e73c1893096db97ec0147bd261bf" resname="loading.application">
         <source>Loading the application...</source>
-        <target xml:lang="ach">crwdns211274:0crwdne211274:0</target>
+        <target xml:lang="ach">crwdns213435:0crwdne213435:0</target>
         <note>key: loading.application</note>
         <jms:reference-file line="38">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
       </trans-unit>
