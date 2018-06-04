@@ -121,11 +121,6 @@
         <target xml:lang="fr" state="translated">Propriétés globales</target>
         <note>key: content_type.view.edit.global_properties</note>
       </trans-unit>
-      <trans-unit id="1a2e4ef61d405d0628d8bacdb80d7bbaa11143d5" resname="content_type.view.list.action.edit">
-        <source>Edit</source>
-        <target xml:lang="fr" state="translated">Modifier</target>
-        <note>key: content_type.view.list.action.edit</note>
-      </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
         <source>ID</source>
         <target xml:lang="fr" state="translated">ID</target>
