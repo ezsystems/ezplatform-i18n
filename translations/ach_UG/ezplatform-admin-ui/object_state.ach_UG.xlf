@@ -31,6 +31,11 @@
         <target xml:lang="ach">crwdns215280:0crwdne215280:0 </target>
         <note>key: object_state.bulk_delete.delete</note>
       </trans-unit>
+      <trans-unit id="3f83af98ac201931eaf0055972d467c386ab72ef" resname="object_state.button.set">
+        <source>Set</source>
+        <target xml:lang="ach">crwdns215586:0crwdne215586:0</target>
+        <note>key: object_state.button.set</note>
+      </trans-unit>
       <trans-unit id="ba36d98066b4d157d8c91e3d642a2b54442f4846" resname="object_state.create.identifier">
         <source>Identifier</source>
         <target xml:lang="ach">crwdns215281:0crwdne215281:0</target>
