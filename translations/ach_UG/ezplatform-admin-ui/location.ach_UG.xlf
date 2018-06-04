@@ -11,6 +11,11 @@
         <target xml:lang="ach">crwdns215066:0%name%crwdnd215066:0%location%crwdne215066:0</target>
         <note>key: location.copy.success</note>
       </trans-unit>
+      <trans-unit id="656c4be212bdf722670400927051cb39593938a5" resname="location.copy_subtree.success">
+        <source>Subtree '%name%' copied to location '%location%'</source>
+        <target xml:lang="ach">crwdns215576:0%name%crwdnd215576:0%location%crwdne215576:0</target>
+        <note>key: location.copy_subtree.success</note>
+      </trans-unit>
       <trans-unit id="a9e3a80cf0b00f8a6b7d4e6ba0fa3ace6fe3f1f3" resname="location.create.success">
         <source>Location '%name%' created.</source>
         <target xml:lang="ach">crwdns215067:0%name%crwdne215067:0</target>
