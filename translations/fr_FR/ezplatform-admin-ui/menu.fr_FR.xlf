@@ -186,6 +186,11 @@
         <target xml:lang="fr" state="translated">Sauvegarder</target>
         <note>key: section_edit__sidebar_right__save</note>
       </trans-unit>
+      <trans-unit id="d69b54667fe89acac2f0e05bf84c606aff91d52b" resname="sidebar_left__bookmark">
+        <source>Bookmarks</source>
+        <target xml:lang="fr" state="translated">Favoris</target>
+        <note>key: sidebar_left__bookmark</note>
+      </trans-unit>
       <trans-unit id="951ac18ce3ab253f9de7fd9caef6636b18edd1c3" resname="sidebar_left__browse">
         <source>Browse</source>
         <target xml:lang="fr" state="translated">Parcourir</target>
