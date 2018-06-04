@@ -51,10 +51,25 @@
         <target xml:lang="ach">crwdns214931:0crwdne214931:0</target>
         <note>key: ezimage.image_file_properties</note>
       </trans-unit>
+      <trans-unit id="504042c3fda41a357db1614358fd3c8dc94e301f" resname="ezimage.master_dimensions">
+        <source>Master dimensions</source>
+        <target xml:lang="ach">crwdns215573:0crwdne215573:0</target>
+        <note>key: ezimage.master_dimensions</note>
+      </trans-unit>
+      <trans-unit id="55cfda30a4255cffac54e4c644dc6033720c28f6" resname="ezimage.ratio">
+        <source>Ratio</source>
+        <target xml:lang="ach">crwdns215574:0crwdne215574:0</target>
+        <note>key: ezimage.ratio</note>
+      </trans-unit>
       <trans-unit id="ac1f7c0bca124e29b9e6b09eaa0bb58334c62327" resname="ezimage.size">
         <source>Size</source>
         <target xml:lang="ach">crwdns214932:0crwdne214932:0</target>
         <note>key: ezimage.size</note>
+      </trans-unit>
+      <trans-unit id="d34002f3e81ae0592b02f40872388e0adea41279" resname="ezimage.width_and_height">
+        <source>%width%px Width - %height%px Height</source>
+        <target xml:lang="ach">crwdns215575:0%width%crwdnd215575:0%hecrwdnd215575:0%pcrwdne215575:0</target>
+        <note>key: ezimage.width_and_height</note>
       </trans-unit>
       <trans-unit id="e371d4573dda857ef4a58cebd2420f87992b8864" resname="ezmedia.auto_play">
         <source>Auto play</source>
