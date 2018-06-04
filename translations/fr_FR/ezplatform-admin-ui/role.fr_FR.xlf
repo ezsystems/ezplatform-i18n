@@ -86,6 +86,21 @@
         <target xml:lang="fr" state="translated">Restrictions</target>
         <note>key: role_assignment.view.list.panel.assignments.column.limitations</note>
       </trans-unit>
+      <trans-unit id="e9f659f5717d317c994c7950c14bcb4be644062c" resname="tab.roles.limitation">
+        <source>Limitation</source>
+        <target xml:lang="fr" state="translated">Limitation</target>
+        <note>key: tab.roles.limitation</note>
+      </trans-unit>
+      <trans-unit id="fbe67472651ec35066be2897a5cdab7afcb63733" resname="tab.roles.name">
+        <source>Name</source>
+        <target xml:lang="fr" state="translated">Nom</target>
+        <note>key: tab.roles.name</note>
+      </trans-unit>
+      <trans-unit id="cfba356470eba180c21d9a43e9bebbfe5e2d427b" resname="tab.roles.roles">
+        <source>Roles</source>
+        <target xml:lang="fr" state="translated">Roles</target>
+        <note>key: tab.roles.roles</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
