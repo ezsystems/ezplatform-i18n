@@ -11,6 +11,16 @@
         <target xml:lang="pl" state="translated">Nie można zapisać szkicu.</target>
         <note>key: error.preview</note>
       </trans-unit>
+      <trans-unit id="1aa787fe0cfb373575fc2c0f6f826e7c6dc9fd41" resname="preview">
+        <source>Preview</source>
+        <target xml:lang="pl" state="translated">Podgląd</target>
+        <note>key: preview</note>
+      </trans-unit>
+      <trans-unit id="4f8fad3c2cfe284942ebc83149ede92126ba2dc7" resname="previewing">
+        <source>Previewing</source>
+        <target xml:lang="pl" state="translated">Podgląd</target>
+        <note>key: previewing</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
