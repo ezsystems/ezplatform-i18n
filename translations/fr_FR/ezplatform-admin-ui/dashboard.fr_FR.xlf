@@ -16,6 +16,16 @@
         <target xml:lang="fr" state="translated">Type</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
+      <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
+        <source>Last Saved</source>
+        <target xml:lang="fr" state="translated">Dernière sauvegarde</target>
+        <note>key: dashboard.table.last_saved</note>
+      </trans-unit>
+      <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
+        <source>Modified Language</source>
+        <target xml:lang="fr" state="translated">Langue modifiée</target>
+        <note>key: dashboard.table.modified_language</note>
+      </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
         <source>Name</source>
         <target xml:lang="fr" state="translated">Nom</target>
