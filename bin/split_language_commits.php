@@ -4,7 +4,7 @@
  * @license For full copyright and license information view LICENSE file distributed with this source code.
  */
 
-// analyzes changes from l10n_master against the current branch
+// analyzes changes from l10n_1.0 against the current branch
 // and outputs commands to checkout & commit each language separately
 
 try {
@@ -14,7 +14,7 @@ try {
     exit(1);
 }
 
-foreach (explode(PHP_EOL, `git diff ..l10n_master --name-only`) as $file)
+foreach (explode(PHP_EOL, `git diff ..l10n_1.0 --name-only`) as $file)
 {
     if (!preg_match('|translations/([a-z]{2,3}_[a-z]{2,3})/.*\.xlf|i', $file, $m)) {
         continue;
@@ -41,7 +41,7 @@ foreach ($translations as $directory => $data) {
     }
 
     printf(
-        "git checkout l10n_master translations/%s/\n",
+        "git checkout l10n_1.0 translations/%s/\n",
         $directory
     );
     printf(
