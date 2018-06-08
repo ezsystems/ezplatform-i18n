@@ -105,6 +105,13 @@
         <note>key: fielddefinition.interval.year</note>
         <jms:reference-file line="77">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="b21527196a76acac750d478bfe8137cae7aff914" resname="fielddefinition.selection-method.browse">
+        <source>Browse</source>
+        <target xml:lang="hi" state="translated">ब्राउज़</target>
+        <note>key: fielddefinition.selection-method.browse</note>
+        <jms:reference-file line="205">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="224">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
