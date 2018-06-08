@@ -51,6 +51,11 @@
         <target xml:lang="es-ES" state="translated">ISBN</target>
         <note>key: ezisbn.name</note>
       </trans-unit>
+      <trans-unit id="6ce4370c413c1a478e8e3c0a072a340584338b84" resname="ezpage.name">
+        <source>Layout</source>
+        <target xml:lang="es-ES" state="translated">Layout</target>
+        <note>key: ezpage.name</note>
+      </trans-unit>
       <trans-unit id="3229c3fc41a4af84f0fd1636f0678aac770359bc" resname="ezselection.name">
         <source>Selection</source>
         <target xml:lang="es-ES" state="translated">Selección</target>
