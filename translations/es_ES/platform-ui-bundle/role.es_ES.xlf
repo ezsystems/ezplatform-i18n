@@ -54,6 +54,12 @@
         <note>key: assignment.user_or_group_using</note>
         <jms:reference-file line="24">Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="ca65309bef9a375c91388358cc8304dae5032ca1" resname="failed.assigned.role">
+        <source>Role has not been assigned to "%name%": %message%</source>
+        <target xml:lang="es-ES" state="translated">El rol no fue asignado a "%name%": %message%</target>
+        <note>key: failed.assigned.role</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="5f14c2cbee4f51ce207b4f179d888d87cc9d92db" resname="policy.function_all">
         <source>all functions</source>
         <target xml:lang="es-ES" state="translated">Todas las funciones</target>
