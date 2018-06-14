@@ -6,64 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="822d7184d659e0b1d639309dfe15ec0d886b81d2" resname="content_draft_create_type.create">
+        <source>Create</source>
+        <target xml:lang="ru" state="translated">Создать</target>
+        <note>key: content_draft_create_type.create</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
