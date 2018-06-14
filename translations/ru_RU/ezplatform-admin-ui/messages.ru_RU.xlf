@@ -21,6 +21,11 @@
         <target xml:lang="ru" state="translated">Удалить</target>
         <note>key: modal.delete</note>
       </trans-unit>
+      <trans-unit id="1152c93462d8bed85642b961f01ed63a6f2525ab" resname="tab.locations.location_content_swap">
+        <source>Location Content Swap</source>
+        <target xml:lang="ru" state="translated">Замена расположения контента</target>
+        <note>key: tab.locations.location_content_swap</note>
+      </trans-unit>
       <trans-unit id="ebe1352e4bc48c8ec1a4e5f7352c0d20f3d0a18f" resname="tab.view.content">
         <source>Content</source>
         <target xml:lang="ru" state="translated">Контент</target>
