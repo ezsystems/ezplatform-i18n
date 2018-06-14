@@ -11,6 +11,11 @@
         <target xml:lang="ru" state="translated">Копировать</target>
         <note>key: content__sidebar_right__copy</note>
       </trans-unit>
+      <trans-unit id="0d5f60093de3b822740abad95d1f8cb2195869c9" resname="content__sidebar_right__copy_subtree">
+        <source>Copy Subtree</source>
+        <target xml:lang="ru" state="translated">Копировать поддерево</target>
+        <note>key: content__sidebar_right__copy_subtree</note>
+      </trans-unit>
       <trans-unit id="a2fafde1538959ee924436a6d4bbd8269c1ac412" resname="content__sidebar_right__create">
         <source>Create</source>
         <target xml:lang="ru" state="translated">Создать</target>
@@ -25,6 +30,11 @@
         <source>Move</source>
         <target xml:lang="ru" state="translated">Переместить</target>
         <note>key: content__sidebar_right__move</note>
+      </trans-unit>
+      <trans-unit id="9445b360492505d3a8d7be4c316e2cc62f381e03" resname="content__sidebar_right__send_to_trash">
+        <source>Send to Trash</source>
+        <target xml:lang="ru" state="translated">Отправить в корзину</target>
+        <note>key: content__sidebar_right__send_to_trash</note>
       </trans-unit>
       <trans-unit id="f85206498106b1536c36c3231d870daa0d2805e2" resname="main__admin__content_types">
         <source>Content Types</source>
