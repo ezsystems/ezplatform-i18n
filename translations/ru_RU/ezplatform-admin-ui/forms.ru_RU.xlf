@@ -11,6 +11,16 @@
         <target xml:lang="ru" state="translated">Создать</target>
         <note>key: content_draft_create_type.create</note>
       </trans-unit>
+      <trans-unit id="c5edf119facebac72a105963da8db6be47549180" resname="content_location_add_type.add">
+        <source>Add location</source>
+        <target xml:lang="ru" state="translated">Добавить расположение</target>
+        <note>key: content_location_add_type.add</note>
+      </trans-unit>
+      <trans-unit id="9e3c743fb052b12d69896a30ee9a6e1bb0c41427" resname="content_location_remove_form.remove">
+        <source>Delete</source>
+        <target xml:lang="ru" state="translated">Удалить</target>
+        <note>key: content_location_remove_form.remove</note>
+      </trans-unit>
       <trans-unit id="4c29e9392116163c51f0e3d4d0c08ff96717f695" resname="content_type_groups_delete_form.delete">
         <source>Delete content type groups</source>
         <target xml:lang="ru" state="translated">Удалить группу типов контента</target>
