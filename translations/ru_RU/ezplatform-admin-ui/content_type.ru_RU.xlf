@@ -6,85 +6,41 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
+        <source>Content Types</source>
+        <target xml:lang="ru" state="translated">Типы контента</target>
+        <note>key: content_type_group.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message">
+        <source>Do you want to delete Content Type Group?</source>
+        <target xml:lang="ru" state="translated">Вы хотите удалить группу типа контента?</target>
+        <note>key: content_type_group.modal.message</note>
+      </trans-unit>
+      <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
+        <source>Create a Content Type Group</source>
+        <target xml:lang="ru" state="translated">Создать группу типов контента</target>
+        <note>key: content_type_group.view.list.action.add</note>
+      </trans-unit>
+      <trans-unit id="ceb2e962eccd99d66a600df886fb1ff3253c2f16" resname="content_type_group.view.list.action.delete">
+        <source>Delete Content Type Group</source>
+        <target xml:lang="ru" state="translated">Удалить группу типов контента</target>
+        <note>key: content_type_group.view.list.action.delete</note>
+      </trans-unit>
+      <trans-unit id="cd462ce30cd4d0b21393e24ca2c9e974369c1f57" resname="content_type_group.view.list.column.id">
+        <source>ID</source>
+        <target xml:lang="ru" state="translated">Идентификатор</target>
+        <note>key: content_type_group.view.list.column.id</note>
+      </trans-unit>
+      <trans-unit id="37d17dd014cd573541f83d4b5b0c4909b66ac7be" resname="content_type_group.view.list.column.identifier">
+        <source>Name</source>
+        <target xml:lang="ru" state="translated">Название</target>
+        <note>key: content_type_group.view.list.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="9522e89ad894375dcf878ae282bdd793946fc375" resname="content_type_group.view.list.title">
+        <source>Content Type Groups</source>
+        <target xml:lang="ru" state="translated">Группы типов контента</target>
+        <note>key: content_type_group.view.list.title</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
