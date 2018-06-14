@@ -6,6 +6,61 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="da59e6ae77cae375a30d7285970b1b2d9690049e" resname="content_type.sort_field.ascending">
+        <source>Ascending</source>
+        <target xml:lang="ru" state="translated">По возрастанию</target>
+        <note>key: content_type.sort_field.ascending</note>
+      </trans-unit>
+      <trans-unit id="c699d43b72ab990a33d92d85bc5c773078d8c62d" resname="content_type.sort_field.content_id">
+        <source>Content ID</source>
+        <target xml:lang="ru" state="translated">Идентификатор контента</target>
+        <note>key: content_type.sort_field.content_id</note>
+      </trans-unit>
+      <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth">
+        <source>Location depth</source>
+        <target xml:lang="ru" state="translated">Путь расположения</target>
+        <note>key: content_type.sort_field.depth</note>
+      </trans-unit>
+      <trans-unit id="09b31f9371d7512e3c5663053b0dc5ce781f696c" resname="content_type.sort_field.descending">
+        <source>Descending</source>
+        <target xml:lang="ru" state="translated">По убыванию</target>
+        <note>key: content_type.sort_field.descending</note>
+      </trans-unit>
+      <trans-unit id="afb48eb0ff69f32e95393be9247ac7ba40d61142" resname="content_type.sort_field.location_id">
+        <source>Location ID</source>
+        <target xml:lang="ru" state="translated">Идентификатор расположения</target>
+        <note>key: content_type.sort_field.location_id</note>
+      </trans-unit>
+      <trans-unit id="187a5f274b61172d6e478830081210a75b9f916d" resname="content_type.sort_field.location_path">
+        <source>Location path</source>
+        <target xml:lang="ru" state="translated">Путь расположения</target>
+        <note>key: content_type.sort_field.location_path</note>
+      </trans-unit>
+      <trans-unit id="8acac47605156b70e1d654c98b3b65b982e00db7" resname="content_type.sort_field.modified">
+        <source>Modification date</source>
+        <target xml:lang="ru" state="translated">Дата изменения</target>
+        <note>key: content_type.sort_field.modified</note>
+      </trans-unit>
+      <trans-unit id="3fd95b45be04d6ae42d3eb82114c65e474f1d4ce" resname="content_type.sort_field.name">
+        <source>Content name</source>
+        <target xml:lang="ru" state="translated">Название контента</target>
+        <note>key: content_type.sort_field.name</note>
+      </trans-unit>
+      <trans-unit id="ac2b24b167723165d67f63e17b0d4fa9faf081c0" resname="content_type.sort_field.priority">
+        <source>Location priority</source>
+        <target xml:lang="ru" state="translated">Приоритет расположения</target>
+        <note>key: content_type.sort_field.priority</note>
+      </trans-unit>
+      <trans-unit id="c51d29f35f4f8eb46b61904f4ab198a234b30dfc" resname="content_type.sort_field.published">
+        <source>Publication date</source>
+        <target xml:lang="ru" state="translated">Дата публикации</target>
+        <note>key: content_type.sort_field.published</note>
+      </trans-unit>
+      <trans-unit id="3accf658d1f58879c2e2fce80130dd8a9f8bd2bd" resname="content_type.sort_field.section_identifier">
+        <source>Section identifier</source>
+        <target xml:lang="ru" state="translated">Идентификатор раздела</target>
+        <note>key: content_type.sort_field.section_identifier</note>
+      </trans-unit>
       <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
         <source>Content Types</source>
         <target xml:lang="ru" state="translated">Типы контента</target>
