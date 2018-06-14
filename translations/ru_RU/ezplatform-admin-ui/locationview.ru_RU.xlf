@@ -6,6 +6,21 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type">
+        <source>Select Content Type</source>
+        <target xml:lang="ru" state="translated">Выбрать тип контента</target>
+        <note>key: content.create.select_content_type</note>
+      </trans-unit>
+      <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
+        <source>Select language</source>
+        <target xml:lang="ru" state="translated">Выбрать язык</target>
+        <note>key: content.create.select_language</note>
+      </trans-unit>
+      <trans-unit id="5e8851497aae3ba774d163d5fd191fd69ac871c0" resname="content.edit.select_language">
+        <source>Select language</source>
+        <target xml:lang="ru" state="translated">Выбрать язык</target>
+        <note>key: content.edit.select_language</note>
+      </trans-unit>
       <trans-unit id="9c91d85bc7658ec7dc6bbb07b720979177c0846a" resname="content.view.subitems">
         <source>Sub-items</source>
         <target xml:lang="ru" state="translated">Вложенные элементы</target>
@@ -21,6 +36,31 @@
         <target xml:lang="ru" state="translated">Удалить из закладок</target>
         <note>key: location.bookmark.remove</note>
       </trans-unit>
+      <trans-unit id="c0b36efcf0ebbe2ac0f9861cae35e12e668cbcc0" resname="tab.details.content_details">
+        <source>Content details</source>
+        <target xml:lang="ru" state="translated">Подробности контента</target>
+        <note>key: tab.details.content_details</note>
+      </trans-unit>
+      <trans-unit id="dc195b32e812b751daa7a3321844c9712e1460ba" resname="tab.details.creator">
+        <source>Creator</source>
+        <target xml:lang="ru" state="translated">Автор</target>
+        <note>key: tab.details.creator</note>
+      </trans-unit>
+      <trans-unit id="acc17a8db8d00036233faa9948ad9a496cd621b3" resname="tab.details.last_contributor">
+        <source>Last contributor</source>
+        <target xml:lang="ru" state="translated">Последний пользователь, который вносил изменения</target>
+        <note>key: tab.details.last_contributor</note>
+      </trans-unit>
+      <trans-unit id="26bd81ee7b010fa5846859eb4c2464764effeb81" resname="tab.details.published_version">
+        <source>Published version</source>
+        <target xml:lang="ru" state="translated">Опубликованная версия</target>
+        <note>key: tab.details.published_version</note>
+      </trans-unit>
+      <trans-unit id="69ca343732e6be688ff4606c3a9b15d83d531233" resname="tab.details.translations">
+        <source>Translations</source>
+        <target xml:lang="ru" state="translated">﻿Переводы</target>
+        <note>key: tab.details.translations</note>
+      </trans-unit>
       <trans-unit id="5d92b84a6c78bd443010f172c47d01ce0dacacd7" resname="tab.name.details">
         <source>Details</source>
         <target xml:lang="ru" state="translated">Подробности</target>
@@ -31,10 +71,20 @@
         <target xml:lang="ru" state="translated">Расположение</target>
         <note>key: tab.name.locations</note>
       </trans-unit>
+      <trans-unit id="a483f367c17cc75d6c5cf331f80e395b254cbbd6" resname="tab.name.policies">
+        <source>Policies</source>
+        <target xml:lang="ru" state="translated">Правила</target>
+        <note>key: tab.name.policies</note>
+      </trans-unit>
       <trans-unit id="8954433abc5d011c00f81f317c7eebec41fbb1c0" resname="tab.name.relations">
         <source>Relations</source>
         <target xml:lang="ru" state="translated">Связи</target>
         <note>key: tab.name.relations</note>
+      </trans-unit>
+      <trans-unit id="c58716ba1092b0208a11137dc226327a3ddf84dc" resname="tab.name.roles">
+        <source>Roles</source>
+        <target xml:lang="ru" state="translated">Роли пользователей</target>
+        <note>key: tab.name.roles</note>
       </trans-unit>
       <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
         <source>Translations</source>
