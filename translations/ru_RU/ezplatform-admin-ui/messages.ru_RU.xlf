@@ -11,6 +11,16 @@
         <target xml:lang="ru" state="translated">Настройки</target>
         <note>key: breadcrumb.admin</note>
       </trans-unit>
+      <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
+        <source>Cancel</source>
+        <target xml:lang="ru" state="translated">Отменить</target>
+        <note>key: modal.cancel</note>
+      </trans-unit>
+      <trans-unit id="9eae227b7c27ab230a6d0ce5947d93e7d2e1626f" resname="modal.delete">
+        <source>Delete</source>
+        <target xml:lang="ru" state="translated">Удалить</target>
+        <note>key: modal.delete</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
