@@ -11,6 +11,11 @@
         <target xml:lang="ru" state="translated">Создать</target>
         <note>key: content_draft_create_type.create</note>
       </trans-unit>
+      <trans-unit id="2b8a62034311f415eba9826996495c2ddd076745" resname="roles_delete_form.delete">
+        <source>Delete role</source>
+        <target xml:lang="ru" state="translated">Удалить роль</target>
+        <note>key: roles_delete_form.delete</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
