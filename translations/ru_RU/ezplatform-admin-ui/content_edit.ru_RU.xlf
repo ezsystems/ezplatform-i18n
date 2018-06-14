@@ -18,8 +18,11 @@
       </trans-unit>
       <trans-unit id="0474be007e2cbb859dcec4d70ced364af71ba119" resname="editing_in_language">
         <source>Editing - %contentName% in %languageName%</source>
-        <target xml:lang="ru" state="translated">Редактирование - %contentName% версия %languageName%</target>
+        <target xml:lang="ru" state="translated">Редактирование - %contentName% (%languageName%)</target>
         <note>key: editing_in_language</note>
+        <alt-trans>
+          <target xml:lang="ru">Редактирование - %contentName% версия %languageName%</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="876d7bdba03c72251ec4c2dc827fc54af7889091" resname="location_id">
         <source>Location ID: %locationId%</source>
