@@ -36,6 +36,26 @@
         <target xml:lang="ru" state="translated">Удалить группу типов контента</target>
         <note>key: content_type_groups_delete_form.delete</note>
       </trans-unit>
+      <trans-unit id="56281d5c292a4fe95f9b1af5ae0b1deaebab7342" resname="ezplatform.change_user_password.change">
+        <source>Change</source>
+        <target xml:lang="ru" state="translated">Изменить</target>
+        <note>key: ezplatform.change_user_password.change</note>
+      </trans-unit>
+      <trans-unit id="390eb98ace269d5909c838416c36248c40895058" resname="ezplatform.change_user_password.confirm_new_password">
+        <source>Confirm password</source>
+        <target xml:lang="ru" state="translated">Подтверждение пароля</target>
+        <note>key: ezplatform.change_user_password.confirm_new_password</note>
+      </trans-unit>
+      <trans-unit id="43521bfea046f591270e027a69fc52cccc486e23" resname="ezplatform.change_user_password.new_password">
+        <source>New password</source>
+        <target xml:lang="ru" state="translated">Новый пароль</target>
+        <note>key: ezplatform.change_user_password.new_password</note>
+      </trans-unit>
+      <trans-unit id="7d2421be11a5351c12c952611c7a1a7f00f51cd9" resname="ezplatform.change_user_password.old_password">
+        <source>Old password</source>
+        <target xml:lang="ru" state="translated">Старый пароль</target>
+        <note>key: ezplatform.change_user_password.old_password</note>
+      </trans-unit>
       <trans-unit id="e1f039c692df803a42d90f2bcd4f763623241bb2" resname="location_copy.copy">
         <source>Copy</source>
         <target xml:lang="ru" state="translated">Копировать</target>
