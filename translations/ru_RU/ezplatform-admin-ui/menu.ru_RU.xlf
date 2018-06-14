@@ -131,6 +131,16 @@
         <target xml:lang="ru" state="translated">Выход</target>
         <note>key: user__content</note>
       </trans-unit>
+      <trans-unit id="d79a55ddd58ecf56b4edb39c794c858d649481e2" resname="user_password_change__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="ru" state="translated">Отменить изменения</target>
+        <note>key: user_password_change__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="ab8629add84cbd9cebfdf326f7242044ae7650af" resname="user_password_change__sidebar_right__update">
+        <source>Update</source>
+        <target xml:lang="ru" state="translated">Обновить</target>
+        <note>key: user_password_change__sidebar_right__update</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
