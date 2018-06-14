@@ -11,6 +11,16 @@
         <target xml:lang="ru" state="translated">Настройки</target>
         <note>key: breadcrumb.admin</note>
       </trans-unit>
+      <trans-unit id="74954052fb86d856c77ee642195c0c0b23bf9e70" resname="breadcrumb.user_preferences">
+        <source>User Preferences</source>
+        <target xml:lang="ru" state="translated">Настройки пользователя</target>
+        <note>key: breadcrumb.user_preferences</note>
+      </trans-unit>
+      <trans-unit id="fe1c876b1a9bcde155f03227bce4ae4fbd54c24f" resname="custom_url_alias_add_form.add">
+        <source>Create</source>
+        <target xml:lang="ru" state="translated">Создать</target>
+        <note>key: custom_url_alias_add_form.add</note>
+      </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
         <source>Cancel</source>
         <target xml:lang="ru" state="translated">Отменить</target>
