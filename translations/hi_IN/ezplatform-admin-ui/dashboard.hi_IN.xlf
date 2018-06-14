@@ -26,6 +26,11 @@
         <target xml:lang="hi" state="translated">कांटेंट</target>
         <note>key: tab.name.everyone_content</note>
       </trans-unit>
+      <trans-unit id="73956c614b0e87aa1d4ae18abb82cdc6e2770bba" resname="tab.name.everyone_media">
+        <source>Media</source>
+        <target xml:lang="hi" state="translated">मीडिया</target>
+        <note>key: tab.name.everyone_media</note>
+      </trans-unit>
       <trans-unit id="fdd56e68fb3a108fce6f8ee4c5a191c0aa8f2996" resname="tab.name.my_content">
         <source>Content</source>
         <target xml:lang="hi" state="translated">कांटेंट</target>
