@@ -236,6 +236,76 @@
         <target xml:lang="ru" state="translated">Просмотр</target>
         <note>key: tab.name.view</note>
       </trans-unit>
+      <trans-unit id="373c6d223e1f346d71cf6cfd85f0fbc3d76ca1d5" resname="tab.relations.no_relations">
+        <source>This content item has no related content.</source>
+        <target xml:lang="ru" state="translated">Данная запись не имеет связанных записей.</target>
+        <note>key: tab.relations.no_relations</note>
+      </trans-unit>
+      <trans-unit id="1c95181a07cb4d7b83aa9b003eb4e8df95c8bfd9" resname="tab.relations.no_reverse_relations">
+        <source>This content item has no reverse relations.</source>
+        <target xml:lang="ru" state="translated">Данная запись не содержит обратных связей.</target>
+        <note>key: tab.relations.no_reverse_relations</note>
+      </trans-unit>
+      <trans-unit id="853cb6f02ff64af4dc6016318eff1c30bd16cc70" resname="tab.relations.related_content">
+        <source>Related content (content items used by %contentName%)</source>
+        <target xml:lang="ru" state="translated">Связанная запись (запись использованная с %contentName%)</target>
+        <note>key: tab.relations.related_content</note>
+      </trans-unit>
+      <trans-unit id="797eb29381132df5a71378b71b3237cf9a063b5c" resname="tab.relations.reverse_relations">
+        <source>Reverse relations (content items using %contentName%)</source>
+        <target xml:lang="ru" state="translated">Обратная связь (записи используемые с %contentName%)</target>
+        <note>key: tab.relations.reverse_relations</note>
+      </trans-unit>
+      <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
+        <source>Add Translation</source>
+        <target xml:lang="ru" state="translated">Добавить перевод</target>
+        <note>key: tab.translations.action.add</note>
+      </trans-unit>
+      <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
+        <source>Delete Translation</source>
+        <target xml:lang="ru" state="translated">Удалить перевод</target>
+        <note>key: tab.translations.action.delete</note>
+      </trans-unit>
+      <trans-unit id="5022ce879be6a69956541173bf658dccff5d7280" resname="tab.translations.add.base_language">
+        <source>Base this translation on an existing translation</source>
+        <target xml:lang="ru" state="translated">Взять за основу для перевода существующий перевод</target>
+        <note>key: tab.translations.add.base_language</note>
+      </trans-unit>
+      <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel">
+        <source>Cancel</source>
+        <target xml:lang="ru" state="translated">Отменить</target>
+        <note>key: tab.translations.add.cancel</note>
+      </trans-unit>
+      <trans-unit id="fe6c962e1d0766f59a66d3766c56edffdce6735d" resname="tab.translations.add.language">
+        <source>Select a language for your new translation</source>
+        <target xml:lang="ru" state="translated">Выберите язык для нового перевода</target>
+        <note>key: tab.translations.add.language</note>
+      </trans-unit>
+      <trans-unit id="2d1ceec2bfb85db323e21e358b6be6aad547e1d0" resname="tab.translations.add.title">
+        <source>Create new translation</source>
+        <target xml:lang="ru" state="translated">Создать новый перевод</target>
+        <note>key: tab.translations.add.title</note>
+      </trans-unit>
+      <trans-unit id="d494d753de03a08f7a10792b727ec88ca74d4913" resname="tab.translations.language_code">
+        <source>Language code</source>
+        <target xml:lang="ru" state="translated">Код языка</target>
+        <note>key: tab.translations.language_code</note>
+      </trans-unit>
+      <trans-unit id="0becdca42cbaa039a6166b8aa778a86657bb362f" resname="tab.translations.language_name">
+        <source>Language name</source>
+        <target xml:lang="ru" state="translated">Название языка</target>
+        <note>key: tab.translations.language_name</note>
+      </trans-unit>
+      <trans-unit id="e8d52c9e980661178d301e925ac8c74661b4350d" resname="tab.translations.modal.message">
+        <source>Do you want to delete Translation?</source>
+        <target xml:lang="ru" state="translated">Вы действительно хотите удалить перевод?</target>
+        <note>key: tab.translations.modal.message</note>
+      </trans-unit>
+      <trans-unit id="852ca97b78e55e9b7734ff3e5a6c1b3fde6eca6f" resname="tab.translations.translation_manger">
+        <source>Translation manager</source>
+        <target xml:lang="ru" state="translated">Управление переводами</target>
+        <note>key: tab.translations.translation_manger</note>
+      </trans-unit>
       <trans-unit id="f6c48627db1d026d9f3fbc3b5b1cb1b3c60af4b3" resname="tab.versions.published_version">
         <source>Published version</source>
         <target xml:lang="ru" state="translated">Опубликованная версия</target>
@@ -265,6 +335,11 @@
         <source>Version</source>
         <target xml:lang="ru" state="translated">Версия</target>
         <note>key: tab.versions.table.version</note>
+      </trans-unit>
+      <trans-unit id="cf6a7c9a98608dd58b428ce2187e3229b64b5701" resname="translation.modal_close">
+        <source>Close</source>
+        <target xml:lang="ru" state="translated">Закрыть</target>
+        <note>key: translation.modal_close</note>
       </trans-unit>
     </body>
   </file>
