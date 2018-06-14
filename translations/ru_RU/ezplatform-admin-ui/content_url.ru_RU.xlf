@@ -16,6 +16,11 @@
         <target xml:lang="ru" state="translated">Удалить пользовательский URL</target>
         <note>key: tab.urls.action.delete</note>
       </trans-unit>
+      <trans-unit id="2398a15c604fd353b25fc8f558e2d099a6afeb33" resname="tab.urls.add.cancel">
+        <source>Cancel</source>
+        <target xml:lang="ru" state="translated">Отменить</target>
+        <note>key: tab.urls.add.cancel</note>
+      </trans-unit>
       <trans-unit id="a0572cab5c339956a087626a6e62cc12643b8d26" resname="tab.urls.add.language">
         <source>Language</source>
         <target xml:lang="ru" state="translated">Язык</target>
@@ -30,6 +35,31 @@
         <source>Alias should redirect to its destination</source>
         <target xml:lang="ru" state="translated">Псевдоним должен перенаправлять на его цель</target>
         <note>key: tab.urls.add.redirect</note>
+      </trans-unit>
+      <trans-unit id="e84da49f6798548a0e09f5f7d5095788257f0119" resname="tab.urls.add.redirect.helper.checked">
+        <source>Checked will redirect to the destination using an HTTP 301 response.</source>
+        <target xml:lang="ru" state="translated">Выбранные будут перенаправлять на цель используя ответ HTTP 301.</target>
+        <note>key: tab.urls.add.redirect.helper.checked</note>
+      </trans-unit>
+      <trans-unit id="bccfa7be40c2932ae04a50767aee2184bd5ca4d5" resname="tab.urls.add.redirect.helper.unchecked">
+        <source>Unchecked will not redirect to the destination and the URL will stay the same.</source>
+        <target xml:lang="ru" state="translated">Не выбранные не будут перенаправлять на цель и URL остануться прежними.</target>
+        <note>key: tab.urls.add.redirect.helper.unchecked</note>
+      </trans-unit>
+      <trans-unit id="9ef990fca45f612ab2d3af7b21968803d76d5d77" resname="tab.urls.add.site_root">
+        <source>Place alias at the site root</source>
+        <target xml:lang="ru" state="translated">Расположите псевдоним в корне сайта</target>
+        <note>key: tab.urls.add.site_root</note>
+      </trans-unit>
+      <trans-unit id="9fc6fbd86b58ee883321610dd1726551772edaf1" resname="tab.urls.add.site_root.helper.checked">
+        <source>Checked will create the alias at the site root.</source>
+        <target xml:lang="ru" state="translated">Выбранные создадут псевдоним для корня сайта.</target>
+        <note>key: tab.urls.add.site_root.helper.checked</note>
+      </trans-unit>
+      <trans-unit id="db531fb5f993263b5ea57393101781b9d731a738" resname="tab.urls.add.site_root.helper.unchecked">
+        <source>Unchecked will create the new alias under %parent_name%</source>
+        <target xml:lang="ru" state="translated">Не выбранные создадут новый псевдоним для %parent_name%</target>
+        <note>key: tab.urls.add.site_root.helper.unchecked</note>
       </trans-unit>
       <trans-unit id="25badd959ce69714e8eb349ebddbbbe126c14458" resname="tab.urls.add.title">
         <source>Create new URL alias</source>
