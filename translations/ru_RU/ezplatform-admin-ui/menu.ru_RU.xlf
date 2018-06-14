@@ -6,6 +6,26 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="a0e5e0f0d39b0d4d58cb089d09414a0b8bcf7e2e" resname="content__sidebar_right__copy">
+        <source>Copy</source>
+        <target xml:lang="ru" state="translated">Копировать</target>
+        <note>key: content__sidebar_right__copy</note>
+      </trans-unit>
+      <trans-unit id="a2fafde1538959ee924436a6d4bbd8269c1ac412" resname="content__sidebar_right__create">
+        <source>Create</source>
+        <target xml:lang="ru" state="translated">Создать</target>
+        <note>key: content__sidebar_right__create</note>
+      </trans-unit>
+      <trans-unit id="c01e10e86b48dd064915bf18551985d47244c191" resname="content__sidebar_right__edit">
+        <source>Edit</source>
+        <target xml:lang="ru" state="translated">Редактировать</target>
+        <note>key: content__sidebar_right__edit</note>
+      </trans-unit>
+      <trans-unit id="522a7eb05659ac849a762954effc22db818b8323" resname="content__sidebar_right__move">
+        <source>Move</source>
+        <target xml:lang="ru" state="translated">Переместить</target>
+        <note>key: content__sidebar_right__move</note>
+      </trans-unit>
       <trans-unit id="f85206498106b1536c36c3231d870daa0d2805e2" resname="main__admin__content_types">
         <source>Content Types</source>
         <target xml:lang="ru" state="translated">Типы контента</target>
@@ -65,6 +85,26 @@
         <source>Admin</source>
         <target xml:lang="ru" state="translated">Настройки</target>
         <note>key: main_admin</note>
+      </trans-unit>
+      <trans-unit id="d69b54667fe89acac2f0e05bf84c606aff91d52b" resname="sidebar_left__bookmark">
+        <source>Bookmarks</source>
+        <target xml:lang="ru" state="translated">Закладки</target>
+        <note>key: sidebar_left__bookmark</note>
+      </trans-unit>
+      <trans-unit id="951ac18ce3ab253f9de7fd9caef6636b18edd1c3" resname="sidebar_left__browse">
+        <source>Browse</source>
+        <target xml:lang="ru" state="translated">Обзор</target>
+        <note>key: sidebar_left__browse</note>
+      </trans-unit>
+      <trans-unit id="e3401271f3c6a0f8c88b0fa500d2c97eb5e33ff0" resname="sidebar_left__search">
+        <source>Search</source>
+        <target xml:lang="ru" state="translated">Поиск</target>
+        <note>key: sidebar_left__search</note>
+      </trans-unit>
+      <trans-unit id="2f6558500ca2bb4d364fe81cf32f5c5f1b81746a" resname="sidebar_left__trash">
+        <source>Trash</source>
+        <target xml:lang="ru" state="translated">Корзина</target>
+        <note>key: sidebar_left__trash</note>
       </trans-unit>
       <trans-unit id="8acab9e005da20efe4001fac5f84ff2c835bb7c8" resname="user__bookmark">
         <source>Bookmarks</source>
