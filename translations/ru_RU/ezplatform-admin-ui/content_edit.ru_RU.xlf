@@ -21,6 +21,11 @@
         <target xml:lang="ru" state="translated">Редактирование - %contentName% версия %languageName%</target>
         <note>key: editing_in_language</note>
       </trans-unit>
+      <trans-unit id="876d7bdba03c72251ec4c2dc827fc54af7889091" resname="location_id">
+        <source>Location ID: %locationId%</source>
+        <target xml:lang="ru" state="translated">Идентификатор расположения: %locationId%</target>
+        <note>key: location_id</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
