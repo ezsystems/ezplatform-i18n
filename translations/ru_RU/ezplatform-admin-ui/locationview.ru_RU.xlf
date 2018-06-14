@@ -6,94 +6,56 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="9c91d85bc7658ec7dc6bbb07b720979177c0846a" resname="content.view.subitems">
+        <source>Sub-items</source>
+        <target xml:lang="ru" state="translated">Вложенные элементы</target>
+        <note>key: content.view.subitems</note>
+      </trans-unit>
+      <trans-unit id="eeb49235f0e3b40e651725430b85a2885174bd2b" resname="location.bookmark.add">
+        <source>Add to Bookmarks</source>
+        <target xml:lang="ru" state="translated">Добавить в закладки</target>
+        <note>key: location.bookmark.add</note>
+      </trans-unit>
+      <trans-unit id="0b2f22acb619fcc5672a7dd0ccf2a39316a07274" resname="location.bookmark.remove">
+        <source>Remove from Bookmarks</source>
+        <target xml:lang="ru" state="translated">Удалить из закладок</target>
+        <note>key: location.bookmark.remove</note>
+      </trans-unit>
+      <trans-unit id="5d92b84a6c78bd443010f172c47d01ce0dacacd7" resname="tab.name.details">
+        <source>Details</source>
+        <target xml:lang="ru" state="translated">Подробности</target>
+        <note>key: tab.name.details</note>
+      </trans-unit>
+      <trans-unit id="bc992b410ec56cce18c994806d7518fd47da2caa" resname="tab.name.locations">
+        <source>Locations</source>
+        <target xml:lang="ru" state="translated">Расположение</target>
+        <note>key: tab.name.locations</note>
+      </trans-unit>
+      <trans-unit id="8954433abc5d011c00f81f317c7eebec41fbb1c0" resname="tab.name.relations">
+        <source>Relations</source>
+        <target xml:lang="ru" state="translated">Связи</target>
+        <note>key: tab.name.relations</note>
+      </trans-unit>
+      <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
+        <source>Translations</source>
+        <target xml:lang="ru" state="translated">﻿Переводы</target>
+        <note>key: tab.name.translations</note>
+      </trans-unit>
+      <trans-unit id="50741647d206010a8c2ac911901f3c31d6bbfc6a" resname="tab.name.urls">
+        <source>URL</source>
+        <target xml:lang="ru" state="translated">Адрес URL</target>
+        <note>key: tab.name.urls</note>
+      </trans-unit>
+      <trans-unit id="337828c348b881920f84d17cc184f4c24e40c894" resname="tab.name.versions">
+        <source>Versions</source>
+        <target xml:lang="ru" state="translated">Версии</target>
+        <note>key: tab.name.versions</note>
+      </trans-unit>
+      <trans-unit id="eb3b504a0281951f15692e888226579aa99bb512" resname="tab.name.view">
+        <source>View</source>
+        <target xml:lang="ru" state="translated">Просмотр</target>
+        <note>key: tab.name.view</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
