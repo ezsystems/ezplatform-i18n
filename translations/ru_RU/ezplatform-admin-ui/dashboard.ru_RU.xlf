@@ -26,6 +26,11 @@
         <target xml:lang="ru" state="translated">Изменить медиа</target>
         <note>key: dashboard.table.all.media.edit</note>
       </trans-unit>
+      <trans-unit id="f0adf5df30310686ce6864bef32325c9a6988b49" resname="dashboard.table.content.edit">
+        <source>Edit Content</source>
+        <target xml:lang="ru" state="translated">Редактировать контент</target>
+        <note>key: dashboard.table.content.edit</note>
+      </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content Type</source>
         <target xml:lang="ru" state="translated">Тип контента</target>
@@ -40,6 +45,11 @@
         <source>Last Saved</source>
         <target xml:lang="ru" state="translated">Последний раз сохранено</target>
         <note>key: dashboard.table.last_saved</note>
+      </trans-unit>
+      <trans-unit id="ec988391649c3e25028a629b4e38dc426f4c4615" resname="dashboard.table.media.edit">
+        <source>Edit Media</source>
+        <target xml:lang="ru" state="translated">Изменить медиа</target>
+        <note>key: dashboard.table.media.edit</note>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
         <source>Name</source>
