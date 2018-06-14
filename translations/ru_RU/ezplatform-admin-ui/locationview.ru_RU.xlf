@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="a4b9e9b4898dd285237fc60130970ce7ed988871" resname="content.create.choose_content_type">
+        <source>Create your content</source>
+        <target xml:lang="ru" state="translated">Создать ваш контент</target>
+        <note>key: content.create.choose_content_type</note>
+      </trans-unit>
       <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type">
         <source>Select Content Type</source>
         <target xml:lang="ru" state="translated">Выбрать тип контента</target>
@@ -46,6 +51,11 @@
         <target xml:lang="ru" state="translated">Идентификатор контента</target>
         <note>key: tab.details.content_id</note>
       </trans-unit>
+      <trans-unit id="d5236d13b41dc38ee965599754a05e3283b55ae2" resname="tab.details.content_remote_id">
+        <source>Content remote ID</source>
+        <target xml:lang="ru" state="translated">Идентификатор внешнего контента</target>
+        <note>key: tab.details.content_remote_id</note>
+      </trans-unit>
       <trans-unit id="dc195b32e812b751daa7a3321844c9712e1460ba" resname="tab.details.creator">
         <source>Creator</source>
         <target xml:lang="ru" state="translated">Автор</target>
@@ -60,6 +70,11 @@
         <source>Location ID</source>
         <target xml:lang="ru" state="translated">ID расположения</target>
         <note>key: tab.details.location_id</note>
+      </trans-unit>
+      <trans-unit id="c391debe9105c6823145ca6c5ec76a252ba5538c" resname="tab.details.location_remote_id">
+        <source>Location remote ID</source>
+        <target xml:lang="ru" state="translated">Идентификатор внешнего расположения</target>
+        <note>key: tab.details.location_remote_id</note>
       </trans-unit>
       <trans-unit id="26bd81ee7b010fa5846859eb4c2464764effeb81" resname="tab.details.published_version">
         <source>Published version</source>
