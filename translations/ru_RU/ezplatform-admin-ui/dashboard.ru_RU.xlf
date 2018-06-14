@@ -11,6 +11,41 @@
         <target xml:lang="ru" state="translated">Создать</target>
         <note>key: dashboard.create</note>
       </trans-unit>
+      <trans-unit id="cf10aced822b4dfb2cb519a82ed0adabaa4e480e" resname="dashboard.tab.my_drafts.empty">
+        <source>No content items. Draft items you create will appear here</source>
+        <target xml:lang="ru" state="translated">Нет записей. Ваши черновики появятся здесь</target>
+        <note>key: dashboard.tab.my_drafts.empty</note>
+      </trans-unit>
+      <trans-unit id="749d4759e304735bcec6ef6ec10af43e70f1f289" resname="dashboard.table.all.content.edit">
+        <source>Edit Content</source>
+        <target xml:lang="ru" state="translated">Редактировать</target>
+        <note>key: dashboard.table.all.content.edit</note>
+      </trans-unit>
+      <trans-unit id="d55b4e897f7b7f5748c600e865a61eae6c9fe3da" resname="dashboard.table.all.media.edit">
+        <source>Edit Media</source>
+        <target xml:lang="ru" state="translated">Изменить медиа</target>
+        <note>key: dashboard.table.all.media.edit</note>
+      </trans-unit>
+      <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
+        <source>Content Type</source>
+        <target xml:lang="ru" state="translated">Тип контента</target>
+        <note>key: dashboard.table.content_type</note>
+      </trans-unit>
+      <trans-unit id="841a1c1c491e1adec03ce7e9476879c4bb32edb7" resname="dashboard.table.contributor">
+        <source>Contributor</source>
+        <target xml:lang="ru" state="translated">Владелец</target>
+        <note>key: dashboard.table.contributor</note>
+      </trans-unit>
+      <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
+        <source>Last Saved</source>
+        <target xml:lang="ru" state="translated">Последний раз сохранено</target>
+        <note>key: dashboard.table.last_saved</note>
+      </trans-unit>
+      <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
+        <source>Name</source>
+        <target xml:lang="ru" state="translated">Название</target>
+        <note>key: dashboard.table.name</note>
+      </trans-unit>
       <trans-unit id="a49a78f944bf1f73f3f7ff9672463bb1abd4a402" resname="everyone">
         <source>Everyone</source>
         <target xml:lang="ru" state="translated">Весь контент</target>
@@ -20,6 +55,11 @@
         <source>Me</source>
         <target xml:lang="ru" state="translated">Мой контент</target>
         <note>key: me</note>
+      </trans-unit>
+      <trans-unit id="c4d3f17636317e532c589f3008d82c263ab5c39d" resname="tab.name.everyone_content">
+        <source>Content</source>
+        <target xml:lang="ru" state="translated">Контент</target>
+        <note>key: tab.name.everyone_content</note>
       </trans-unit>
       <trans-unit id="73956c614b0e87aa1d4ae18abb82cdc6e2770bba" resname="tab.name.everyone_media">
         <source>Media</source>
