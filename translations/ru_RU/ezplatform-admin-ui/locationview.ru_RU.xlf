@@ -41,6 +41,11 @@
         <target xml:lang="ru" state="translated">Подробности контента</target>
         <note>key: tab.details.content_details</note>
       </trans-unit>
+      <trans-unit id="6e1488d3bb54efc176d8766d3c22751b06890e2f" resname="tab.details.content_id">
+        <source>Content ID</source>
+        <target xml:lang="ru" state="translated">Идентификатор контента</target>
+        <note>key: tab.details.content_id</note>
+      </trans-unit>
       <trans-unit id="dc195b32e812b751daa7a3321844c9712e1460ba" resname="tab.details.creator">
         <source>Creator</source>
         <target xml:lang="ru" state="translated">Автор</target>
@@ -51,15 +56,140 @@
         <target xml:lang="ru" state="translated">Последний пользователь, который вносил изменения</target>
         <note>key: tab.details.last_contributor</note>
       </trans-unit>
+      <trans-unit id="671c2d4e91244548b29e8f293cd8d4d97a3c23bd" resname="tab.details.location_id">
+        <source>Location ID</source>
+        <target xml:lang="ru" state="translated">ID расположения</target>
+        <note>key: tab.details.location_id</note>
+      </trans-unit>
       <trans-unit id="26bd81ee7b010fa5846859eb4c2464764effeb81" resname="tab.details.published_version">
         <source>Published version</source>
         <target xml:lang="ru" state="translated">Опубликованная версия</target>
         <note>key: tab.details.published_version</note>
       </trans-unit>
+      <trans-unit id="cd8ccac573601690d7e364174cf3fb8a931c805e" resname="tab.details.section_details">
+        <source>Section details</source>
+        <target xml:lang="ru" state="translated">Информация раздела</target>
+        <note>key: tab.details.section_details</note>
+      </trans-unit>
+      <trans-unit id="67ff5cca435b058142e77b820d5d72090fa26346" resname="tab.details.section_id">
+        <source>Section ID</source>
+        <target xml:lang="ru" state="translated">Идентификатор раздела</target>
+        <note>key: tab.details.section_id</note>
+      </trans-unit>
+      <trans-unit id="0ab2029f0a194849d3f90531f03e37780491d1a6" resname="tab.details.section_identifier">
+        <source>Section identifier</source>
+        <target xml:lang="ru" state="translated">Идентификатор раздела</target>
+        <note>key: tab.details.section_identifier</note>
+      </trans-unit>
+      <trans-unit id="30775f4a9e0512f181cf857fb0f0ea23fe79320d" resname="tab.details.section_name">
+        <source>Section name</source>
+        <target xml:lang="ru" state="translated">Название раздела</target>
+        <note>key: tab.details.section_name</note>
+      </trans-unit>
+      <trans-unit id="6ba61ac8194e021eb1515cc2d3d33ff006e2d55d" resname="tab.details.state_details">
+        <source>State details</source>
+        <target xml:lang="ru" state="translated">Информация состояния</target>
+        <note>key: tab.details.state_details</note>
+      </trans-unit>
+      <trans-unit id="bbbd7d6b2d1c59cedd3012f3d4375ade8cc50c15" resname="tab.details.state_group_id">
+        <source>Group ID</source>
+        <target xml:lang="ru" state="translated">Идентификатор группы</target>
+        <note>key: tab.details.state_group_id</note>
+      </trans-unit>
+      <trans-unit id="b4e137dd1267dc4e70e23e289313c9340f065634" resname="tab.details.state_group_identifier">
+        <source>Group identifier</source>
+        <target xml:lang="ru" state="translated">Идентификатор группы</target>
+        <note>key: tab.details.state_group_identifier</note>
+      </trans-unit>
+      <trans-unit id="131730e5ecef276336a53300cdd891e0689023f4" resname="tab.details.state_group_name">
+        <source>Group name</source>
+        <target xml:lang="ru" state="translated">Название группы</target>
+        <note>key: tab.details.state_group_name</note>
+      </trans-unit>
+      <trans-unit id="0ae393a967d866426ebdb62c810ea218c011ea5f" resname="tab.details.state_id">
+        <source>State ID</source>
+        <target xml:lang="ru" state="translated">Идентификатор состояния</target>
+        <note>key: tab.details.state_id</note>
+      </trans-unit>
+      <trans-unit id="e185e68f61ce9867e2cafcf406650e12c3a81d05" resname="tab.details.state_identifier">
+        <source>Identifier</source>
+        <target xml:lang="ru" state="translated">Индификатор</target>
+        <note>key: tab.details.state_identifier</note>
+      </trans-unit>
+      <trans-unit id="69dea878e2926e6a40b3d4e79b1f723d0aa801c7" resname="tab.details.state_name">
+        <source>Name</source>
+        <target xml:lang="ru" state="translated">Название</target>
+        <note>key: tab.details.state_name</note>
+      </trans-unit>
+      <trans-unit id="8ddd1c9e60bd352b4395e1753ede6534db2aac8b" resname="tab.details.sub_items_listing_by.in">
+        <source>in</source>
+        <target xml:lang="ru" state="translated">в</target>
+        <note>key: tab.details.sub_items_listing_by.in</note>
+      </trans-unit>
+      <trans-unit id="c7f8179865bd73db9d2f07c39ae4a364668476c5" resname="tab.details.sub_items_listing_by.order_by">
+        <source>Order by</source>
+        <target xml:lang="ru" state="translated">Сортировать по</target>
+        <note>key: tab.details.sub_items_listing_by.order_by</note>
+      </trans-unit>
+      <trans-unit id="fe4321b1de5be805ed8224c8cf442a89e9fa38b4" resname="tab.details.sub_items_listing_by_set">
+        <source>Set</source>
+        <target xml:lang="ru" state="translated">Прменить</target>
+        <note>key: tab.details.sub_items_listing_by_set</note>
+      </trans-unit>
+      <trans-unit id="03aa9832291905ed83ba60081ebffe5786d92418" resname="tab.details.sub_items_sorting_order">
+        <source>Sub-items sorting order</source>
+        <target xml:lang="ru" state="translated">Порядок сортировки вложенных элементов</target>
+        <note>key: tab.details.sub_items_sorting_order</note>
+      </trans-unit>
+      <trans-unit id="09fcd5ad39b9c2b778be171f88559f6c117ff48b" resname="tab.details.technical_details">
+        <source>Technical details</source>
+        <target xml:lang="ru" state="translated">Техническая информация</target>
+        <note>key: tab.details.technical_details</note>
+      </trans-unit>
       <trans-unit id="69ca343732e6be688ff4606c3a9b15d83d531233" resname="tab.details.translations">
         <source>Translations</source>
         <target xml:lang="ru" state="translated">﻿Переводы</target>
         <note>key: tab.details.translations</note>
+      </trans-unit>
+      <trans-unit id="8eb3feb6461dacdbd425ef30fc4848a94ab3db0d" resname="tab.locations.action.add">
+        <source>Add Location</source>
+        <target xml:lang="ru" state="translated">Добавить расположение</target>
+        <note>key: tab.locations.action.add</note>
+      </trans-unit>
+      <trans-unit id="80808d78f600e925ec3e2dd4b2a0e7570169fd83" resname="tab.locations.action.delete">
+        <source>Delete Location</source>
+        <target xml:lang="ru" state="translated">Удалить расположение</target>
+        <note>key: tab.locations.action.delete</note>
+      </trans-unit>
+      <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
+        <source>Content locations</source>
+        <target xml:lang="ru" state="translated">Расположение контента</target>
+        <note>key: tab.locations.content_locations</note>
+      </trans-unit>
+      <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main">
+        <source>Main</source>
+        <target xml:lang="ru" state="translated">Основное</target>
+        <note>key: tab.locations.main</note>
+      </trans-unit>
+      <trans-unit id="e704444c07d73c053f58f427ebcc0b6b2042c63d" resname="tab.locations.modal.message">
+        <source>Do you want to delete Location?</source>
+        <target xml:lang="ru" state="translated">Вы действительно хотите удалить расположение?</target>
+        <note>key: tab.locations.modal.message</note>
+      </trans-unit>
+      <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path">
+        <source>Path</source>
+        <target xml:lang="ru" state="translated">Путь</target>
+        <note>key: tab.locations.path</note>
+      </trans-unit>
+      <trans-unit id="b5d6fe3a752b0c391bfa751acb7c4c3ac82e2c0c" resname="tab.locations.subitems">
+        <source>Sub-items</source>
+        <target xml:lang="ru" state="translated">Вложенные элементы</target>
+        <note>key: tab.locations.subitems</note>
+      </trans-unit>
+      <trans-unit id="1932d409236634ffbe828e683f35db760ec25323" resname="tab.locations.visibility">
+        <source>Visibility</source>
+        <target xml:lang="ru" state="translated">Видимость</target>
+        <note>key: tab.locations.visibility</note>
       </trans-unit>
       <trans-unit id="5d92b84a6c78bd443010f172c47d01ce0dacacd7" resname="tab.name.details">
         <source>Details</source>
@@ -105,6 +235,36 @@
         <source>View</source>
         <target xml:lang="ru" state="translated">Просмотр</target>
         <note>key: tab.name.view</note>
+      </trans-unit>
+      <trans-unit id="f6c48627db1d026d9f3fbc3b5b1cb1b3c60af4b3" resname="tab.versions.published_version">
+        <source>Published version</source>
+        <target xml:lang="ru" state="translated">Опубликованная версия</target>
+        <note>key: tab.versions.published_version</note>
+      </trans-unit>
+      <trans-unit id="4c27637d649c221e58c6a9629f14a2f75aeed151" resname="tab.versions.table.contributor">
+        <source>Contributor</source>
+        <target xml:lang="ru" state="translated">Редактор</target>
+        <note>key: tab.versions.table.contributor</note>
+      </trans-unit>
+      <trans-unit id="4c6353b63f5bc2031c8380c4007edf9c5f6be456" resname="tab.versions.table.created">
+        <source>Created</source>
+        <target xml:lang="ru" state="translated">Создан</target>
+        <note>key: tab.versions.table.created</note>
+      </trans-unit>
+      <trans-unit id="472157bdf440a9c6636057ac194d53029ac589dd" resname="tab.versions.table.last_saved">
+        <source>Last saved</source>
+        <target xml:lang="ru" state="translated">Последний раз сохранено</target>
+        <note>key: tab.versions.table.last_saved</note>
+      </trans-unit>
+      <trans-unit id="cd780839249906bd141cccd8bc58c8043a50acfb" resname="tab.versions.table.modified_language">
+        <source>Modified language</source>
+        <target xml:lang="ru" state="translated">Измененный язык</target>
+        <note>key: tab.versions.table.modified_language</note>
+      </trans-unit>
+      <trans-unit id="ddc70b29ad8ac6544843566a146ed1ea4ddab817" resname="tab.versions.table.version">
+        <source>Version</source>
+        <target xml:lang="ru" state="translated">Версия</target>
+        <note>key: tab.versions.table.version</note>
       </trans-unit>
     </body>
   </file>
