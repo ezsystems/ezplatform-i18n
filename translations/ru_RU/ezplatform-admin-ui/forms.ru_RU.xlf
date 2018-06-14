@@ -21,6 +21,16 @@
         <target xml:lang="ru" state="translated">Удалить</target>
         <note>key: content_location_remove_form.remove</note>
       </trans-unit>
+      <trans-unit id="170014b0ac524520dfb1336f7a5ff2f50ddceba3" resname="content_translation_add_form.add">
+        <source>Create</source>
+        <target xml:lang="ru" state="translated">Создать</target>
+        <note>key: content_translation_add_form.add</note>
+      </trans-unit>
+      <trans-unit id="0c3800a29144ab27e80a81e100212ccd5fd7e509" resname="content_translation_remove_form.remove">
+        <source>Remove translation</source>
+        <target xml:lang="ru" state="translated">Удалить перевод</target>
+        <note>key: content_translation_remove_form.remove</note>
+      </trans-unit>
       <trans-unit id="4c29e9392116163c51f0e3d4d0c08ff96717f695" resname="content_type_groups_delete_form.delete">
         <source>Delete content type groups</source>
         <target xml:lang="ru" state="translated">Удалить группу типов контента</target>
@@ -45,6 +55,11 @@
         <source>Delete role</source>
         <target xml:lang="ru" state="translated">Удалить роль</target>
         <note>key: roles_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="6880a88558bf821ff5ca3266f2f4f42b6d911283" resname="swap_location_form.swap">
+        <source>Select content item</source>
+        <target xml:lang="ru" state="translated">Выбрать запись</target>
+        <note>key: swap_location_form.swap</note>
       </trans-unit>
     </body>
   </file>
