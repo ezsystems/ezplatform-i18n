@@ -51,6 +51,16 @@
         <target xml:lang="ru" state="translated">Роли пользователей</target>
         <note>key: role.view.list.title</note>
       </trans-unit>
+      <trans-unit id="9e3fbe7cbb68fbe5996471da829e0fab59c3fc8b" resname="tab.roles.no_roles">
+        <source>This content item has no roles.</source>
+        <target xml:lang="ru" state="translated">Данная запись не содержит роли пользователя.</target>
+        <note>key: tab.roles.no_roles</note>
+      </trans-unit>
+      <trans-unit id="cfba356470eba180c21d9a43e9bebbfe5e2d427b" resname="tab.roles.roles">
+        <source>Roles</source>
+        <target xml:lang="ru" state="translated">Роли пользователей</target>
+        <note>key: tab.roles.roles</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
