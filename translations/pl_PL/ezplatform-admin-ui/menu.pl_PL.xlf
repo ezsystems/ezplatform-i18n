@@ -76,6 +76,11 @@
         <target xml:lang="pl" state="translated">Zapisz</target>
         <note>key: content_edit__sidebar_right__save_draft</note>
       </trans-unit>
+      <trans-unit id="750939fc55f9a3143db99bed66680e8646e029a0" resname="content_type_create__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="pl" state="translated">Odrzuć zmiany</target>
+        <note>key: content_type_create__sidebar_right__cancel</note>
+      </trans-unit>
       <trans-unit id="5a66806014c6a6ca1f79270a8dd381ae6c0e0d7b" resname="content_type_create__sidebar_right__save">
         <source>Create</source>
         <target xml:lang="pl" state="translated">Utwórz</target>
