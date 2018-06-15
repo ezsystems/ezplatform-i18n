@@ -46,6 +46,11 @@
         <target xml:lang="pl" state="translated">ID</target>
         <note>key: language.id.label</note>
       </trans-unit>
+      <trans-unit id="463ac52ab0cf571550389494d38d1318acab44c1" resname="language.information.header">
+        <source>Language information</source>
+        <target xml:lang="pl" state="translated">Informacje o języku</target>
+        <note>key: language.information.header</note>
+      </trans-unit>
       <trans-unit id="ec0418b84a04e7ba4b75a65cbd8a395144e8d8e8" resname="language.list">
         <source>Languages</source>
         <target xml:lang="pl" state="translated">Języki</target>
@@ -60,6 +65,21 @@
         <source>Name</source>
         <target xml:lang="pl" state="translated">Nazwa</target>
         <note>key: language.name.label</note>
+      </trans-unit>
+      <trans-unit id="8e4642a0c879921e8bf31752abc577c4bf8d098b" resname="language.new">
+        <source>Create a new Language</source>
+        <target xml:lang="pl" state="translated">Dodaj nowy język</target>
+        <note>key: language.new</note>
+      </trans-unit>
+      <trans-unit id="ed7e6b485737184b494f399ea010f537c9a741f5" resname="language.new.title">
+        <source>Creating a new Language</source>
+        <target xml:lang="pl" state="translated">Dodawanie nowego języka</target>
+        <note>key: language.new.title</note>
+      </trans-unit>
+      <trans-unit id="b19ebb675189cb5361277711104fee1df0d7ee65" resname="language.view.title.identifier">
+        <source>Language "%language%"</source>
+        <target xml:lang="pl" state="translated">Język %language%</target>
+        <note>key: language.view.title.identifier</note>
       </trans-unit>
     </body>
   </file>
