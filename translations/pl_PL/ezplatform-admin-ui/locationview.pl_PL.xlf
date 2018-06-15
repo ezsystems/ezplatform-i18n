@@ -21,6 +21,11 @@
         <target xml:lang="pl" state="translated">ID obiektu</target>
         <note>key: tab.details.content_id</note>
       </trans-unit>
+      <trans-unit id="d5236d13b41dc38ee965599754a05e3283b55ae2" resname="tab.details.content_remote_id">
+        <source>Content remote ID</source>
+        <target xml:lang="pl" state="translated">Zdalne ID obiektu</target>
+        <note>key: tab.details.content_remote_id</note>
+      </trans-unit>
       <trans-unit id="dc195b32e812b751daa7a3321844c9712e1460ba" resname="tab.details.creator">
         <source>Creator</source>
         <target xml:lang="pl" state="translated">Autor</target>
@@ -35,6 +40,11 @@
         <source>Location ID</source>
         <target xml:lang="pl" state="translated">ID lokalizacji</target>
         <note>key: tab.details.location_id</note>
+      </trans-unit>
+      <trans-unit id="c391debe9105c6823145ca6c5ec76a252ba5538c" resname="tab.details.location_remote_id">
+        <source>Location remote ID</source>
+        <target xml:lang="pl" state="translated">Zdalne ID lokalizacji</target>
+        <note>key: tab.details.location_remote_id</note>
       </trans-unit>
       <trans-unit id="26bd81ee7b010fa5846859eb4c2464764effeb81" resname="tab.details.published_version">
         <source>Published version</source>
@@ -60,6 +70,21 @@
         <source>Section name</source>
         <target xml:lang="pl" state="translated">Nazwa sekcji</target>
         <note>key: tab.details.section_name</note>
+      </trans-unit>
+      <trans-unit id="bbbd7d6b2d1c59cedd3012f3d4375ade8cc50c15" resname="tab.details.state_group_id">
+        <source>Group ID</source>
+        <target xml:lang="pl" state="translated">ID grupy</target>
+        <note>key: tab.details.state_group_id</note>
+      </trans-unit>
+      <trans-unit id="b4e137dd1267dc4e70e23e289313c9340f065634" resname="tab.details.state_group_identifier">
+        <source>Group identifier</source>
+        <target xml:lang="pl" state="translated">Identyfikator grupy</target>
+        <note>key: tab.details.state_group_identifier</note>
+      </trans-unit>
+      <trans-unit id="131730e5ecef276336a53300cdd891e0689023f4" resname="tab.details.state_group_name">
+        <source>Group name</source>
+        <target xml:lang="pl" state="translated">Nazwa grupy</target>
+        <note>key: tab.details.state_group_name</note>
       </trans-unit>
       <trans-unit id="e185e68f61ce9867e2cafcf406650e12c3a81d05" resname="tab.details.state_identifier">
         <source>Identifier</source>
@@ -220,6 +245,11 @@
         <source>Last saved</source>
         <target xml:lang="pl" state="translated">Ostatnio zapisano</target>
         <note>key: tab.versions.table.last_saved</note>
+      </trans-unit>
+      <trans-unit id="cd780839249906bd141cccd8bc58c8043a50acfb" resname="tab.versions.table.modified_language">
+        <source>Modified language</source>
+        <target xml:lang="pl" state="translated">Zmodyfikowany język</target>
+        <note>key: tab.versions.table.modified_language</note>
       </trans-unit>
       <trans-unit id="ddc70b29ad8ac6544843566a146ed1ea4ddab817" resname="tab.versions.table.version">
         <source>Version</source>
