@@ -11,6 +11,11 @@
         <target xml:lang="fr" state="translated">Sous-élements</target>
         <note>key: content.view.subitems</note>
       </trans-unit>
+      <trans-unit id="0b2f22acb619fcc5672a7dd0ccf2a39316a07274" resname="location.bookmark.remove">
+        <source>Remove from Bookmarks</source>
+        <target xml:lang="fr" state="translated">Supprimer des favoris</target>
+        <note>key: location.bookmark.remove</note>
+      </trans-unit>
       <trans-unit id="c0b36efcf0ebbe2ac0f9861cae35e12e668cbcc0" resname="tab.details.content_details">
         <source>Content details</source>
         <target xml:lang="fr" state="translated">Détails du contenu</target>
@@ -200,6 +205,11 @@
         <source>Language name</source>
         <target xml:lang="fr" state="translated">Nom de la langue</target>
         <note>key: tab.translations.language_name</note>
+      </trans-unit>
+      <trans-unit id="852ca97b78e55e9b7734ff3e5a6c1b3fde6eca6f" resname="tab.translations.translation_manger">
+        <source>Translation manager</source>
+        <target xml:lang="fr" state="translated">Gestionnaire de traduction</target>
+        <note>key: tab.translations.translation_manger</note>
       </trans-unit>
       <trans-unit id="699b5bf627b908f8d270984ab9a4734a48b28abe" resname="tab.versions.archived_versions">
         <source>Archived versions</source>
