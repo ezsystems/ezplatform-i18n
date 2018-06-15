@@ -11,6 +11,11 @@
         <target xml:lang="pl" state="needs-translation"> </target>
         <note>key: object_state.bulk_delete.delete</note>
       </trans-unit>
+      <trans-unit id="3f83af98ac201931eaf0055972d467c386ab72ef" resname="object_state.button.set">
+        <source>Set</source>
+        <target xml:lang="pl" state="translated">Ustaw</target>
+        <note>key: object_state.button.set</note>
+      </trans-unit>
       <trans-unit id="ba36d98066b4d157d8c91e3d642a2b54442f4846" resname="object_state.create.identifier">
         <source>Identifier</source>
         <target xml:lang="pl" state="translated">Identyfikator</target>
@@ -115,6 +120,11 @@
         <source>Edit</source>
         <target xml:lang="pl" state="translated">Edytuj</target>
         <note>key: object_state_group.view.list.action.edit</note>
+      </trans-unit>
+      <trans-unit id="3c3517b187620f232ad40b3fe46da9e3bb66866a" resname="object_state_group.view.list.title">
+        <source>Object State Groups</source>
+        <target xml:lang="pl" state="translated">Grupy stanów obiektów</target>
+        <note>key: object_state_group.view.list.title</note>
       </trans-unit>
     </body>
   </file>
