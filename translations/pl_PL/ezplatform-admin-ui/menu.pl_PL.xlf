@@ -111,6 +111,11 @@
         <target xml:lang="pl" state="translated">Języki</target>
         <note>key: main__admin__languages</note>
       </trans-unit>
+      <trans-unit id="1d350945e7732f519fd5d2f6a69c926a193d6146" resname="main__admin__object_states">
+        <source>Object States</source>
+        <target xml:lang="pl" state="translated">Stany obiektów</target>
+        <note>key: main__admin__object_states</note>
+      </trans-unit>
       <trans-unit id="8a5845bd0e93b67b2ac54a06f2eae85f2cb3b13d" resname="main__admin__roles">
         <source>Roles</source>
         <target xml:lang="pl" state="translated">Role</target>
@@ -270,6 +275,11 @@
         <source>Update</source>
         <target xml:lang="pl" state="translated">Aktualizuj</target>
         <note>key: user_edit__sidebar_right__update</note>
+      </trans-unit>
+      <trans-unit id="d79a55ddd58ecf56b4edb39c794c858d649481e2" resname="user_password_change__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="pl" state="translated">Odrzuć zmiany</target>
+        <note>key: user_password_change__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="ab8629add84cbd9cebfdf326f7242044ae7650af" resname="user_password_change__sidebar_right__update">
         <source>Update</source>
