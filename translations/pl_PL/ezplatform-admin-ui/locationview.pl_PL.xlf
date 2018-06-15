@@ -11,6 +11,11 @@
         <target xml:lang="pl" state="translated">Elementy podrzędne</target>
         <note>key: content.view.subitems</note>
       </trans-unit>
+      <trans-unit id="0b2f22acb619fcc5672a7dd0ccf2a39316a07274" resname="location.bookmark.remove">
+        <source>Remove from Bookmarks</source>
+        <target xml:lang="pl" state="translated">Usuń z zakładek</target>
+        <note>key: location.bookmark.remove</note>
+      </trans-unit>
       <trans-unit id="c0b36efcf0ebbe2ac0f9861cae35e12e668cbcc0" resname="tab.details.content_details">
         <source>Content details</source>
         <target xml:lang="pl" state="translated">Szczegóły elementu</target>
@@ -71,6 +76,11 @@
         <target xml:lang="pl" state="translated">Nazwa sekcji</target>
         <note>key: tab.details.section_name</note>
       </trans-unit>
+      <trans-unit id="6ba61ac8194e021eb1515cc2d3d33ff006e2d55d" resname="tab.details.state_details">
+        <source>State details</source>
+        <target xml:lang="pl" state="translated">Szczegóły stanu</target>
+        <note>key: tab.details.state_details</note>
+      </trans-unit>
       <trans-unit id="bbbd7d6b2d1c59cedd3012f3d4375ade8cc50c15" resname="tab.details.state_group_id">
         <source>Group ID</source>
         <target xml:lang="pl" state="translated">ID grupy</target>
@@ -86,6 +96,11 @@
         <target xml:lang="pl" state="translated">Nazwa grupy</target>
         <note>key: tab.details.state_group_name</note>
       </trans-unit>
+      <trans-unit id="0ae393a967d866426ebdb62c810ea218c011ea5f" resname="tab.details.state_id">
+        <source>State ID</source>
+        <target xml:lang="pl" state="translated">ID stanu</target>
+        <note>key: tab.details.state_id</note>
+      </trans-unit>
       <trans-unit id="e185e68f61ce9867e2cafcf406650e12c3a81d05" resname="tab.details.state_identifier">
         <source>Identifier</source>
         <target xml:lang="pl" state="translated">Identyfikator</target>
@@ -95,6 +110,29 @@
         <source>Name</source>
         <target xml:lang="pl" state="translated">Nazwa</target>
         <note>key: tab.details.state_name</note>
+      </trans-unit>
+      <trans-unit id="8ddd1c9e60bd352b4395e1753ede6534db2aac8b" resname="tab.details.sub_items_listing_by.in">
+        <source>in</source>
+        <target xml:lang="pl" state="translated">w kolejności:</target>
+        <note>key: tab.details.sub_items_listing_by.in</note>
+        <alt-trans>
+          <target xml:lang="pl">w kolejności</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="c7f8179865bd73db9d2f07c39ae4a364668476c5" resname="tab.details.sub_items_listing_by.order_by">
+        <source>Order by</source>
+        <target xml:lang="pl" state="translated">Sortuj według</target>
+        <note>key: tab.details.sub_items_listing_by.order_by</note>
+      </trans-unit>
+      <trans-unit id="fe4321b1de5be805ed8224c8cf442a89e9fa38b4" resname="tab.details.sub_items_listing_by_set">
+        <source>Set</source>
+        <target xml:lang="pl" state="translated">Ustaw</target>
+        <note>key: tab.details.sub_items_listing_by_set</note>
+      </trans-unit>
+      <trans-unit id="03aa9832291905ed83ba60081ebffe5786d92418" resname="tab.details.sub_items_sorting_order">
+        <source>Sub-items sorting order</source>
+        <target xml:lang="pl" state="translated">Kolejność sortowania podelementów</target>
+        <note>key: tab.details.sub_items_sorting_order</note>
       </trans-unit>
       <trans-unit id="09fcd5ad39b9c2b778be171f88559f6c117ff48b" resname="tab.details.technical_details">
         <source>Technical details</source>
