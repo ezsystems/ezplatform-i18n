@@ -16,6 +16,11 @@
         <target xml:lang="pl" state="translated">Edytuj treść</target>
         <note>key: dashboard.table.all.content.edit</note>
       </trans-unit>
+      <trans-unit id="d55b4e897f7b7f5748c600e865a61eae6c9fe3da" resname="dashboard.table.all.media.edit">
+        <source>Edit Media</source>
+        <target xml:lang="pl" state="translated">Edytuj media</target>
+        <note>key: dashboard.table.all.media.edit</note>
+      </trans-unit>
       <trans-unit id="f0adf5df30310686ce6864bef32325c9a6988b49" resname="dashboard.table.content.edit">
         <source>Edit Content</source>
         <target xml:lang="pl" state="translated">Edytuj treść</target>
@@ -35,6 +40,11 @@
         <source>Last Saved</source>
         <target xml:lang="pl" state="translated">Ostatnio zapisano</target>
         <note>key: dashboard.table.last_saved</note>
+      </trans-unit>
+      <trans-unit id="ec988391649c3e25028a629b4e38dc426f4c4615" resname="dashboard.table.media.edit">
+        <source>Edit Media</source>
+        <target xml:lang="pl" state="translated">Edytuj media</target>
+        <note>key: dashboard.table.media.edit</note>
       </trans-unit>
       <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
         <source>Modified Language</source>
