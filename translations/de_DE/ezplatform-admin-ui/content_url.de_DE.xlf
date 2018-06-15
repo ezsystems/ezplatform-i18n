@@ -81,6 +81,11 @@
         <target xml:lang="de" state="translated">Ausgewählte, benutzerdefinierte URLs löschen?</target>
         <note>key: tab.urls.modal.message</note>
       </trans-unit>
+      <trans-unit id="777d1a83ab6a6c4644dd31409906e48a0a7a4a51" resname="tab.urls.modal_close">
+        <source>Close</source>
+        <target xml:lang="de" state="translated">Schliessen</target>
+        <note>key: tab.urls.modal_close</note>
+      </trans-unit>
       <trans-unit id="0de66a25f1019287cf737f27622ca4d05f582764" resname="tab.urls.type">
         <source>Type</source>
         <target xml:lang="de" state="translated">Typ</target>
