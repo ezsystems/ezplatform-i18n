@@ -26,6 +26,16 @@
         <target xml:lang="pl" state="translated">Potwierdź hasło</target>
         <note>key: ezplatform.change_user_password.confirm_new_password</note>
       </trans-unit>
+      <trans-unit id="43521bfea046f591270e027a69fc52cccc486e23" resname="ezplatform.change_user_password.new_password">
+        <source>New password</source>
+        <target xml:lang="pl" state="translated">Nowe hasło</target>
+        <note>key: ezplatform.change_user_password.new_password</note>
+      </trans-unit>
+      <trans-unit id="7d2421be11a5351c12c952611c7a1a7f00f51cd9" resname="ezplatform.change_user_password.old_password">
+        <source>Old password</source>
+        <target xml:lang="pl" state="translated">Dotychczasowe hasło</target>
+        <note>key: ezplatform.change_user_password.old_password</note>
+      </trans-unit>
       <trans-unit id="0ad9197dcdbe88b1a05f099c564dc2b5634f8aa5" resname="ezplatform.language.create.enabled">
         <source>Enabled</source>
         <target xml:lang="pl" state="translated">Włączony</target>
@@ -140,6 +150,11 @@
         <source>Update</source>
         <target xml:lang="pl" state="translated">Aktualizuj</target>
         <note>key: role_update.save</note>
+      </trans-unit>
+      <trans-unit id="2b8a62034311f415eba9826996495c2ddd076745" resname="roles_delete_form.delete">
+        <source>Delete role</source>
+        <target xml:lang="pl" state="translated">Usuń rolę</target>
+        <note>key: roles_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="4d1b71ebb6b86d78f0902fa5a6ef329c070efdad" resname="section_create_form.create">
         <source>Create</source>
