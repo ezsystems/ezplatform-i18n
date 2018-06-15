@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="c57bed7c172c50ab41d70434d7846bb97375895f" resname="object_state.bulk_delete.delete">
         <source>Delete Object State </source>
-        <target xml:lang="pl" state="needs-translation"> </target>
+        <target xml:lang="pl" state="translated">Usuń stan obiektów </target>
         <note>key: object_state.bulk_delete.delete</note>
       </trans-unit>
       <trans-unit id="3f83af98ac201931eaf0055972d467c386ab72ef" resname="object_state.button.set">
@@ -31,6 +31,14 @@
         <target xml:lang="pl" state="translated">Utwórz</target>
         <note>key: object_state.create.submit</note>
       </trans-unit>
+      <trans-unit id="0480844e257807b48dbf75fa7a374ceb7649ec5c" resname="object_state.delete.bulk_delete.submit">
+        <source>Delete Object State</source>
+        <target xml:lang="pl" state="translated">Usuń stan obiektów</target>
+        <note>key: object_state.delete.bulk_delete.submit</note>
+        <alt-trans>
+          <target xml:lang="pl">Usuń stanu obiektów</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit id="99f5115d5dc13c37f78cfaa37168636912e1a9a6" resname="object_state.id">
         <source>ID</source>
         <target xml:lang="pl" state="translated">ID</target>
@@ -40,6 +48,16 @@
         <source>Identifier</source>
         <target xml:lang="pl" state="translated">Identyfikator</target>
         <note>key: object_state.identifier</note>
+      </trans-unit>
+      <trans-unit id="2331731a1072a77f20ceef81614545768fc1d446" resname="object_state.modal.message">
+        <source>Do you want to delete Object State?</source>
+        <target xml:lang="pl" state="translated">Czy chcesz usunąć stan obiektów?</target>
+        <note>key: object_state.modal.message</note>
+      </trans-unit>
+      <trans-unit id="43f30c3071d6d33cf13e43c9cee1cda16e87200a" resname="object_state.name">
+        <source>Object state name</source>
+        <target xml:lang="pl" state="translated">Nazwa stanu obiektów</target>
+        <note>key: object_state.name</note>
       </trans-unit>
       <trans-unit id="85cbd870cb6255f3d3d481ece6c23e6e2117e91e" resname="object_state.new">
         <source>Create a new Object State </source>
@@ -66,10 +84,30 @@
         <target xml:lang="pl" state="translated">Edytuj</target>
         <note>key: object_state.view.list.action.edit</note>
       </trans-unit>
+      <trans-unit id="9af39e306536772c1d7cd402ab587fee66b0231b" resname="object_state.view.list.title">
+        <source>Object States (%count%)</source>
+        <target xml:lang="pl" state="translated">Stany obiektów (%count%)</target>
+        <note>key: object_state.view.list.title</note>
+      </trans-unit>
       <trans-unit id="07ac5094606572ca7304175bb3af30e0a78662aa" resname="object_state_.delete.submit">
         <source>Delete</source>
         <target xml:lang="pl" state="translated">Usuń</target>
         <note>key: object_state_.delete.submit</note>
+      </trans-unit>
+      <trans-unit id="089afe4fc7c6c1b22bcc1b7cb702282d983133f6" resname="object_state_group.breadcrumb.list">
+        <source>Object States</source>
+        <target xml:lang="pl" state="translated">Stany obiektów</target>
+        <note>key: object_state_group.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="a6579fbae938d0bba558288987b50aa6a6aa8372" resname="object_state_group.breadcrumb.view">
+        <source>Object State Group: %name%</source>
+        <target xml:lang="pl" state="translated">Grupa stanów obiektów: %name%</target>
+        <note>key: object_state_group.breadcrumb.view</note>
+      </trans-unit>
+      <trans-unit id="8e72c01409fbfb837c2a6ddb1a9455baada03057" resname="object_state_group.bulk_delete.delete">
+        <source>Delete Object State Group</source>
+        <target xml:lang="pl" state="translated">Usuń grupę stanów obiektów</target>
+        <note>key: object_state_group.bulk_delete.delete</note>
       </trans-unit>
       <trans-unit id="f87d9f18a93e3ce9f164386ee0255d53d4c5227e" resname="object_state_group.create.identifier">
         <source>Identifier</source>
@@ -86,6 +124,11 @@
         <target xml:lang="pl" state="translated">Utwórz</target>
         <note>key: object_state_group.create.submit</note>
       </trans-unit>
+      <trans-unit id="0f857d4dff9c8232ede300a39010d289d31c2937" resname="object_state_group.delete.bulk_delete.submit">
+        <source>Delete Object State Group</source>
+        <target xml:lang="pl" state="translated">Usuń grupę stanów obiektów</target>
+        <note>key: object_state_group.delete.bulk_delete.submit</note>
+      </trans-unit>
       <trans-unit id="0f40fde6bdaed4741d571b9ffdcc04e3be8ec3c9" resname="object_state_group.delete.submit">
         <source>Delete</source>
         <target xml:lang="pl" state="translated">Usuń</target>
@@ -100,6 +143,21 @@
         <source>Identifier</source>
         <target xml:lang="pl" state="translated">Identyfikator</target>
         <note>key: object_state_group.identifier</note>
+      </trans-unit>
+      <trans-unit id="5696f8cad271e56ef0e2661b314fa31b70a81bb3" resname="object_state_group.modal.message">
+        <source>Do you want to delete Object State Group?</source>
+        <target xml:lang="pl" state="translated">Czy chcesz usunąć grupę stanów obiektów?</target>
+        <note>key: object_state_group.modal.message</note>
+      </trans-unit>
+      <trans-unit id="4964317987d129f6c5beeebca699f8fd62867216" resname="object_state_group.name">
+        <source>Object state group name</source>
+        <target xml:lang="pl" state="translated">Nazwa grupy stanów obiektów</target>
+        <note>key: object_state_group.name</note>
+      </trans-unit>
+      <trans-unit id="1cbfb4528f41be4d8de98fa4f81c26b41f8ffad9" resname="object_state_group.new">
+        <source>Create a new Object State Group</source>
+        <target xml:lang="pl" state="translated">Dodaj nową grupę stanów obiektów</target>
+        <note>key: object_state_group.new</note>
       </trans-unit>
       <trans-unit id="2db8c3e77568f759b118b23aec8cfacaca3d96c0" resname="object_state_group.update.identifier">
         <source>Identifier</source>
@@ -116,6 +174,11 @@
         <target xml:lang="pl" state="translated">Zapisz</target>
         <note>key: object_state_group.update.save</note>
       </trans-unit>
+      <trans-unit id="c6deef75890178093bf878dd71ad8c7f2baff283" resname="object_state_group.view.information.title">
+        <source>Object State Group Information</source>
+        <target xml:lang="pl" state="translated">Informacje o grupie stanów obiektów</target>
+        <note>key: object_state_group.view.information.title</note>
+      </trans-unit>
       <trans-unit id="81633efc089f97dcad3f815855683cb4edb553d4" resname="object_state_group.view.list.action.edit">
         <source>Edit</source>
         <target xml:lang="pl" state="translated">Edytuj</target>
@@ -125,6 +188,11 @@
         <source>Object State Groups</source>
         <target xml:lang="pl" state="translated">Grupy stanów obiektów</target>
         <note>key: object_state_group.view.list.title</note>
+      </trans-unit>
+      <trans-unit id="f242d2aa82647529a4d5c7c314719fb4276a4e51" resname="object_state_group.view.title">
+        <source>Object State Group: %name%</source>
+        <target xml:lang="pl" state="translated">Grupa stanów obiektów: %name%</target>
+        <note>key: object_state_group.view.title</note>
       </trans-unit>
     </body>
   </file>
