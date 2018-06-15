@@ -116,6 +116,11 @@
         <target xml:lang="fr" state="translated">Emplacements</target>
         <note>key: tab.name.locations</note>
       </trans-unit>
+      <trans-unit id="8954433abc5d011c00f81f317c7eebec41fbb1c0" resname="tab.name.relations">
+        <source>Relations</source>
+        <target xml:lang="fr" state="translated">Relations</target>
+        <note>key: tab.name.relations</note>
+      </trans-unit>
       <trans-unit id="c58716ba1092b0208a11137dc226327a3ddf84dc" resname="tab.name.roles">
         <source>Roles</source>
         <target xml:lang="fr" state="translated">Roles</target>
@@ -140,6 +145,16 @@
         <source>View</source>
         <target xml:lang="fr" state="translated">Affichage</target>
         <note>key: tab.name.view</note>
+      </trans-unit>
+      <trans-unit id="853cb6f02ff64af4dc6016318eff1c30bd16cc70" resname="tab.relations.related_content">
+        <source>Related content (content items used by %contentName%)</source>
+        <target xml:lang="fr" state="translated">Contenus associés (éléments de contenu utilisés par %contentName%)</target>
+        <note>key: tab.relations.related_content</note>
+      </trans-unit>
+      <trans-unit id="797eb29381132df5a71378b71b3237cf9a063b5c" resname="tab.relations.reverse_relations">
+        <source>Reverse relations (content items using %contentName%)</source>
+        <target xml:lang="fr" state="translated">Relations inverses (éléments de contenu utilisant %contentName%)</target>
+        <note>key: tab.relations.reverse_relations</note>
       </trans-unit>
       <trans-unit id="d667f9ef2cf04ce8966bc908b8930be596925561" resname="tab.relations.table.content_type">
         <source>Content type</source>
