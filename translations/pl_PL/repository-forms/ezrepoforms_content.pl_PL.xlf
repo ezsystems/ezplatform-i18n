@@ -11,6 +11,11 @@
         <target xml:lang="pl">Anuluj</target>
         <note>key: content.cancel_button</note>
       </trans-unit>
+      <trans-unit id="25850f96dbb0457a35063e29e92a26cbba2de07d" resname="content.field_type.ezurl.link">
+        <source>URL</source>
+        <target xml:lang="pl" state="translated">URL</target>
+        <note>key: content.field_type.ezurl.link</note>
+      </trans-unit>
       <trans-unit id="1120fc646c853c462aa4cdf634f476004846fc1b" resname="content.publish_button" approved="yes">
         <source>Publish</source>
         <target xml:lang="pl">Publikuj</target>
