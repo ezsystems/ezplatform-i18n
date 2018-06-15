@@ -6,9 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-            
-            
-            
-        </body>
+      <trans-unit id="adb107df09623b2e7b5ee2011922ce831dec8de4" resname="url.status.all">
+        <source>All</source>
+        <target xml:lang="pl" state="translated">Wszystkie</target>
+        <note>key: url.status.all</note>
+      </trans-unit>
+    </body>
   </file>
 </xliff>
