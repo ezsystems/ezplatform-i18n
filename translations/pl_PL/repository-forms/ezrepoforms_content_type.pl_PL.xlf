@@ -257,6 +257,11 @@
         <target xml:lang="pl">Wartość minimalna</target>
         <note>key: field_definition.ezfloat.min_value</note>
       </trans-unit>
+      <trans-unit id="784ef2a6786a65136f44158cccc5daa2c16a33bb" resname="field_definition.ezimage.max_file_size">
+        <source>Maximum file size (MB)</source>
+        <target xml:lang="pl" state="translated">Maksymalny rozmiar pliku (MB)</target>
+        <note>key: field_definition.ezimage.max_file_size</note>
+      </trans-unit>
       <trans-unit id="8a95f664895f9c72e5ca52ea43908ad3d54c8966" resname="field_definition.ezinteger.default_value" approved="yes">
         <source>Default value</source>
         <target xml:lang="pl">Wartość domyślna</target>
@@ -332,6 +337,11 @@
         <source>Windows Media Player</source>
         <target xml:lang="pl">Windows Media Player</target>
         <note>key: field_definition.ezmedia.type_windows_media_player</note>
+      </trans-unit>
+      <trans-unit id="fabc9be57b82439dac2f612b9c2a171eb7ce6e04" resname="field_definition.ezobjectrelation.selection_content_types">
+        <source>Allowed content types</source>
+        <target xml:lang="pl" state="translated">Dozwolone typy treści</target>
+        <note>key: field_definition.ezobjectrelation.selection_content_types</note>
       </trans-unit>
       <trans-unit id="440d8fe80bb8a07b62f17d843721285b2cf8a4d5" resname="field_definition.ezobjectrelation.selection_root" approved="yes">
         <source>Default selection item</source>
