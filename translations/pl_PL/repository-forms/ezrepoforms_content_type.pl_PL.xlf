@@ -368,6 +368,11 @@
         <target xml:lang="pl">Lokalizacja domyślna</target>
         <note>key: field_definition.ezobjectrelationlist.selection_default_location</note>
       </trans-unit>
+      <trans-unit id="14274feead6c1e1a98261c8df42d6e2e2210cb6f" resname="field_definition.ezobjectrelationlist.selection_limit">
+        <source>Selection limit</source>
+        <target xml:lang="pl" state="translated">Limit wybranych</target>
+        <note>key: field_definition.ezobjectrelationlist.selection_limit</note>
+      </trans-unit>
       <trans-unit id="1592c36df8d445c3154d1f639027f97a90739856" resname="field_definition.ezobjectrelationlist.selection_root_udw_button" approved="yes">
         <source>Select location</source>
         <target xml:lang="pl">Wybierz lokalizację</target>
