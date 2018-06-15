@@ -21,6 +21,11 @@
         <target xml:lang="pl" state="translated">Utwórz</target>
         <note>key: content_translation_add_form.add</note>
       </trans-unit>
+      <trans-unit id="56281d5c292a4fe95f9b1af5ae0b1deaebab7342" resname="ezplatform.change_user_password.change">
+        <source>Change</source>
+        <target xml:lang="pl" state="translated">Zmień</target>
+        <note>key: ezplatform.change_user_password.change</note>
+      </trans-unit>
       <trans-unit id="390eb98ace269d5909c838416c36248c40895058" resname="ezplatform.change_user_password.confirm_new_password">
         <source>Confirm password</source>
         <target xml:lang="pl" state="translated">Potwierdź hasło</target>
