@@ -56,6 +56,11 @@
         <target xml:lang="pl" state="translated">Zapisz</target>
         <note>key: content_create__sidebar_right__save_draft</note>
       </trans-unit>
+      <trans-unit id="af459eaf05dedc87eb0c462732e59da18bedb340" resname="content_edit__sidebar_right__cancel">
+        <source>Delete draft</source>
+        <target xml:lang="pl" state="translated">Usuń szkic</target>
+        <note>key: content_edit__sidebar_right__cancel</note>
+      </trans-unit>
       <trans-unit id="0698df9938e380422409df827952248fbfcaf02d" resname="content_edit__sidebar_right__preview">
         <source>Preview</source>
         <target xml:lang="pl" state="translated">Podgląd</target>
