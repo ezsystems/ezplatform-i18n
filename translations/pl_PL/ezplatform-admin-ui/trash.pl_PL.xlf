@@ -26,6 +26,11 @@
         <target xml:lang="pl" state="translated">Nazwa</target>
         <note>key: trash.name</note>
       </trans-unit>
+      <trans-unit id="c28510c675be753842996980b0e5d175cec4a8d8" resname="trash.original_location">
+        <source>Original location</source>
+        <target xml:lang="pl" state="translated">Lokalizacja oryginalna</target>
+        <note>key: trash.original_location</note>
+      </trans-unit>
       <trans-unit id="06b530d8c8b3d7af7b3f2df9f5102927e7275de4" resname="trash.table.header">
         <source>Trash</source>
         <target xml:lang="pl" state="translated">Kosz</target>
