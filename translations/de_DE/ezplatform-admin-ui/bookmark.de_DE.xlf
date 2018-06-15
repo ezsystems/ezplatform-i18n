@@ -33,13 +33,21 @@
       </trans-unit>
       <trans-unit id="d84749a19f2864dd1d5d3cee0a127f2435e5cdc5" resname="bookmark.list.name">
         <source>Name</source>
-        <target xml:lang="de" state="translated">Nom</target>
+        <target xml:lang="de" state="translated">Name</target>
         <note>key: bookmark.list.name</note>
+        <alt-trans>
+          <target xml:lang="de">Nom</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="fa0e2c8d987f0282f85003e05398c602de5da17b" resname="bookmark.list.path">
         <source>Path</source>
         <target xml:lang="de" state="translated">Pfad</target>
         <note>key: bookmark.list.path</note>
+      </trans-unit>
+      <trans-unit id="0cf4491e1bb4fde851986596d3adfb4dbe2f5a17" resname="bookmark.table.header">
+        <source>Bookmarks</source>
+        <target xml:lang="de" state="translated">Lesezeichen</target>
+        <note>key: bookmark.table.header</note>
       </trans-unit>
     </body>
   </file>
