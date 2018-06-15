@@ -166,6 +166,11 @@
         <target xml:lang="pl" state="translated">Aktualizuj</target>
         <note>key: section_update_form.update</note>
       </trans-unit>
+      <trans-unit id="6880a88558bf821ff5ca3266f2f4f42b6d911283" resname="swap_location_form.swap">
+        <source>Select content item</source>
+        <target xml:lang="pl" state="translated">Wybierz element</target>
+        <note>key: swap_location_form.swap</note>
+      </trans-unit>
       <trans-unit id="7fb1cbcd94553ff377f8e1e4461246af38e14e85" resname="user_delete_form.delete">
         <source>Delete</source>
         <target xml:lang="pl" state="translated">Usuń</target>
