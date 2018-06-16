@@ -71,6 +71,16 @@
         <target xml:lang="fr" state="translated">Contenu</target>
         <note>key: tab.view.content</note>
       </trans-unit>
+      <trans-unit id="4e7901a215220faba4d546cd3fb63f3e2a64e849" resname="trash.delete.all.confirm">
+        <source>Are you sure you want to permanently delete %trashItemsCount% item(s)?</source>
+        <target xml:lang="fr" state="translated">Êtes-vous sûr de vouloir supprimer définitivement %trashItemsCount% élément(s) ?</target>
+        <note>key: trash.delete.all.confirm</note>
+      </trans-unit>
+      <trans-unit id="48e20c2b09b340ca2e2020edaa30a57c8bc3f26b" resname="trash.delete.all.info">
+        <source>This action cannot be reversed</source>
+        <target xml:lang="fr" state="translated">Cette action est irréversible</target>
+        <note>key: trash.delete.all.info</note>
+      </trans-unit>
       <trans-unit id="e500e3f1d454e2775bbe89b6267cd77c766df3f1" resname="trash.delete.button.cancel">
         <source>Cancel</source>
         <target xml:lang="fr" state="translated">Annuler</target>
