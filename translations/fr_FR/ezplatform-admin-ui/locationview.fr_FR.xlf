@@ -284,6 +284,11 @@
         <target xml:lang="fr" state="translated">Modifié</target>
         <note>key: tab.versions.table.last_saved</note>
       </trans-unit>
+      <trans-unit id="cd780839249906bd141cccd8bc58c8043a50acfb" resname="tab.versions.table.modified_language">
+        <source>Modified language</source>
+        <target xml:lang="fr" state="translated">Langue modifiée</target>
+        <note>key: tab.versions.table.modified_language</note>
+      </trans-unit>
       <trans-unit id="ddc70b29ad8ac6544843566a146ed1ea4ddab817" resname="tab.versions.table.version">
         <source>Version</source>
         <target xml:lang="fr" state="translated">Version</target>
