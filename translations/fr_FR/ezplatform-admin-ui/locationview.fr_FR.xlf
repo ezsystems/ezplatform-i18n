@@ -234,6 +234,11 @@
         <target xml:lang="fr" state="translated">Champ </target>
         <note>key: tab.relations.table.relation_type.field</note>
       </trans-unit>
+      <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
+        <source>Delete Translation</source>
+        <target xml:lang="fr" state="translated">Supprimer la traduction</target>
+        <note>key: tab.translations.action.delete</note>
+      </trans-unit>
       <trans-unit id="5022ce879be6a69956541173bf658dccff5d7280" resname="tab.translations.add.base_language">
         <source>Base this translation on an existing translation</source>
         <target xml:lang="fr" state="translated">Baser cette traduction sur une version existante</target>
@@ -243,6 +248,11 @@
         <source>Cancel</source>
         <target xml:lang="fr" state="translated">Annuler</target>
         <note>key: tab.translations.add.cancel</note>
+      </trans-unit>
+      <trans-unit id="fe6c962e1d0766f59a66d3766c56edffdce6735d" resname="tab.translations.add.language">
+        <source>Select a language for your new translation</source>
+        <target xml:lang="fr" state="translated">Sélectionnez une langue pour votre nouvelle traduction</target>
+        <note>key: tab.translations.add.language</note>
       </trans-unit>
       <trans-unit id="2d1ceec2bfb85db323e21e358b6be6aad547e1d0" resname="tab.translations.add.title">
         <source>Create new translation</source>
