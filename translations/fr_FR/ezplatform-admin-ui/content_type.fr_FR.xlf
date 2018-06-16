@@ -226,6 +226,11 @@
         <target xml:lang="fr" state="translated">Nom</target>
         <note>key: content_type_group.update.name</note>
       </trans-unit>
+      <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
+        <source>Create a Content Type Group</source>
+        <target xml:lang="fr" state="translated">Créer un groupe de type de contenu</target>
+        <note>key: content_type_group.view.list.action.add</note>
+      </trans-unit>
       <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
         <source>Edit</source>
         <target xml:lang="fr" state="translated">Modifier</target>
@@ -240,6 +245,14 @@
         <source>Name</source>
         <target xml:lang="fr" state="translated">Nom</target>
         <note>key: content_type_group.view.list.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="9522e89ad894375dcf878ae282bdd793946fc375" resname="content_type_group.view.list.title">
+        <source>Content Type Groups</source>
+        <target xml:lang="fr" state="translated">Groupe de Type de Contenu</target>
+        <note>key: content_type_group.view.list.title</note>
+        <alt-trans>
+          <target xml:lang="fr">Groupes de type de contenu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
         <source>Cancel</source>
