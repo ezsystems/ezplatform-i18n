@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="44ab49e25d0037a06f7c26582462d2d876e9546c" resname="url.action.edit">
+        <source>Edit URL</source>
+        <target xml:lang="fr" state="translated">Modifier URL</target>
+        <note>key: url.action.edit</note>
+      </trans-unit>
       <trans-unit id="23bfb0e222eeac1bfa481ba09c5b4aea1d0295da" resname="url.edit">
         <source>Edit</source>
         <target xml:lang="fr" state="translated">Modifier</target>
@@ -51,6 +56,11 @@
         <target xml:lang="fr" state="translated">Liens (%count%)</target>
         <note>key: url.list.title</note>
       </trans-unit>
+      <trans-unit id="126d1ac5ef68809c1a2bfdd3872470d7aafaacc3" resname="url.open">
+        <source>Open</source>
+        <target xml:lang="fr" state="translated">Ouvrir</target>
+        <note>key: url.open</note>
+      </trans-unit>
       <trans-unit id="226d3de8d2685074e329b9eca1657c96d9c89ead" resname="url.search">
         <source>Search</source>
         <target xml:lang="fr" state="translated">Rechercher</target>
@@ -60,6 +70,16 @@
         <source>Search for URLs</source>
         <target xml:lang="fr" state="translated">Recherche d’URL</target>
         <note>key: url.search.placeholder</note>
+      </trans-unit>
+      <trans-unit id="3e0d8fcb74e476fcae45da9c4c7b0b261118c7a3" resname="url.status.invalid">
+        <source>Invalid</source>
+        <target xml:lang="fr" state="translated">Invalide</target>
+        <note>key: url.status.invalid</note>
+      </trans-unit>
+      <trans-unit id="8907a4f74219ceff2ee07437ec1657f1ee75a830" resname="url.status.valid">
+        <source>Valid</source>
+        <target xml:lang="fr" state="translated">Valide</target>
+        <note>key: url.status.valid</note>
       </trans-unit>
       <trans-unit id="ab21b5c3a570d491adc4ab793f2ce4f13f0f2ca7" resname="url.tab.information">
         <source>Details</source>
