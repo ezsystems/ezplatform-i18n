@@ -16,6 +16,11 @@
         <target xml:lang="fr" state="translated">Créé par %name%</target>
         <note>key: created_by</note>
       </trans-unit>
+      <trans-unit id="0474be007e2cbb859dcec4d70ced364af71ba119" resname="editing_in_language">
+        <source>Editing - %contentName% in %languageName%</source>
+        <target xml:lang="fr" state="translated">Edition - %contentName% en %languageName%</target>
+        <note>key: editing_in_language</note>
+      </trans-unit>
       <trans-unit id="4e46e160f661315fed793049088d1426ae440b56" resname="editing_in_language_based_on">
         <source>Editing - %contentName% in %languageName% based on %baseLanguageName%</source>
         <target xml:lang="fr" state="translated">Edition - %contentName% en %languageName% à partir de %baseLanguageName%</target>
