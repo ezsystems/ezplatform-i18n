@@ -11,6 +11,11 @@
         <target xml:lang="fr" state="translated">Annuler</target>
         <note>key: modal.cancel</note>
       </trans-unit>
+      <trans-unit id="ef88894d37b21eeb205ece403d77ab05ccea52cf" resname="modal.select">
+        <source>Select</source>
+        <target xml:lang="fr" state="translated">Sélectionner</target>
+        <note>key: modal.select</note>
+      </trans-unit>
       <trans-unit id="3559d7accf00360971961ca18989adc0614089c0" resname="search">
         <source>Search</source>
         <target xml:lang="fr" state="translated">Rechercher</target>
@@ -26,10 +31,45 @@
         <target xml:lang="fr" state="translated">Appliquer</target>
         <note>key: search.apply</note>
       </trans-unit>
+      <trans-unit id="27f2f932e2b2f60b36b3331b45a3e15b421ee86f" resname="search.clear">
+        <source>Clear</source>
+        <target xml:lang="fr" state="translated">Effacer</target>
+        <note>key: search.clear</note>
+      </trans-unit>
       <trans-unit id="52574f2c1d5e0b3ffcd4f105b770e91ae1e519fa" resname="search.content.type">
         <source>Content Type:</source>
         <target xml:lang="fr" state="translated">Type de contenu :</target>
         <note>key: search.content.type</note>
+      </trans-unit>
+      <trans-unit id="738c66eb92535505455b34b383f8089fb1bc0479" resname="search.created">
+        <source>Created:</source>
+        <target xml:lang="fr" state="translated">Crée :</target>
+        <note>key: search.created</note>
+      </trans-unit>
+      <trans-unit id="a32fe0699ebb4545ab1a39bab0311633c3f92fc3" resname="search.creator">
+        <source>Creator:</source>
+        <target xml:lang="fr" state="translated">Créateur :</target>
+        <note>key: search.creator</note>
+      </trans-unit>
+      <trans-unit id="a18d7835f5b4a97ac94331f82e729abcb698be41" resname="search.custom_range">
+        <source>Custom range</source>
+        <target xml:lang="fr" state="translated">Intervalle personnalisé</target>
+        <note>key: search.custom_range</note>
+      </trans-unit>
+      <trans-unit id="9cef4cf2cb67458460a2a01c0adc1b4238320459" resname="search.date.from">
+        <source>From:</source>
+        <target xml:lang="fr" state="translated">De :</target>
+        <note>key: search.date.from</note>
+      </trans-unit>
+      <trans-unit id="f32993c555744e5c203137f3ee0e380d27e9cfef" resname="search.date.range">
+        <source>Select date range</source>
+        <target xml:lang="fr" state="translated">Sélectionner une plage de dates</target>
+        <note>key: search.date.range</note>
+      </trans-unit>
+      <trans-unit id="ec2194ad5a5851c9bb326a091c6985adedcd42b2" resname="search.date.to">
+        <source>To:</source>
+        <target xml:lang="fr" state="translated">À :</target>
+        <note>key: search.date.to</note>
       </trans-unit>
       <trans-unit id="9db82102d1da5efb63380ca328a83d13732a02ee" resname="search.filter">
         <source>Filter</source>
