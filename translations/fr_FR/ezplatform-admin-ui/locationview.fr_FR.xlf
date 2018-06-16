@@ -279,6 +279,11 @@
         <target xml:lang="fr" state="translated">Gestionnaire de traduction</target>
         <note>key: tab.translations.translation_manger</note>
       </trans-unit>
+      <trans-unit id="a4297fe31e8eb3307caa2cf855328056c3b98962" resname="tab.versions.action.delete">
+        <source>Delete Version</source>
+        <target xml:lang="fr" state="translated">Suppression de la version</target>
+        <note>key: tab.versions.action.delete</note>
+      </trans-unit>
       <trans-unit id="699b5bf627b908f8d270984ab9a4734a48b28abe" resname="tab.versions.archived_versions">
         <source>Archived versions</source>
         <target xml:lang="fr" state="translated">Versions archivées</target>
@@ -289,10 +294,20 @@
         <target xml:lang="fr" state="translated">Brouillon en cours d'édition</target>
         <note>key: tab.versions.draft_under_edit</note>
       </trans-unit>
+      <trans-unit id="134ac8f9b086171dcda7931b3bb7acc0042bb1c9" resname="tab.versions.modal.message">
+        <source>Do you want to delete Versions?</source>
+        <target xml:lang="fr" state="translated">Voulez-vous vraiment supprimer la version ?</target>
+        <note>key: tab.versions.modal.message</note>
+      </trans-unit>
       <trans-unit id="f6c48627db1d026d9f3fbc3b5b1cb1b3c60af4b3" resname="tab.versions.published_version">
         <source>Published version</source>
         <target xml:lang="fr" state="translated">Version publiée</target>
         <note>key: tab.versions.published_version</note>
+      </trans-unit>
+      <trans-unit id="97721a4a6c33834bb6421c29ef72e8654f39a4ab" resname="tab.versions.table.action.draft.edit">
+        <source>Edit Draft</source>
+        <target xml:lang="fr" state="translated">Éditer le brouillon</target>
+        <note>key: tab.versions.table.action.draft.edit</note>
       </trans-unit>
       <trans-unit id="4c27637d649c221e58c6a9629f14a2f75aeed151" resname="tab.versions.table.contributor">
         <source>Contributor</source>
