@@ -104,6 +104,11 @@
         <target xml:lang="fr" state="translated">Ajouter un emplacement</target>
         <note>key: tab.locations.action.add</note>
       </trans-unit>
+      <trans-unit id="80808d78f600e925ec3e2dd4b2a0e7570169fd83" resname="tab.locations.action.delete">
+        <source>Delete Location</source>
+        <target xml:lang="fr" state="translated">Supprimer l'emplacement</target>
+        <note>key: tab.locations.action.delete</note>
+      </trans-unit>
       <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
         <source>Content locations</source>
         <target xml:lang="fr" state="translated">Emplacements du contenu</target>
@@ -118,6 +123,11 @@
         <source>Main</source>
         <target xml:lang="fr" state="translated">Principal</target>
         <note>key: tab.locations.main</note>
+      </trans-unit>
+      <trans-unit id="e704444c07d73c053f58f427ebcc0b6b2042c63d" resname="tab.locations.modal.message">
+        <source>Do you want to delete Location?</source>
+        <target xml:lang="fr" state="translated">Voulez-vous supprimer l'emplacement ?</target>
+        <note>key: tab.locations.modal.message</note>
       </trans-unit>
       <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path">
         <source>Path</source>
@@ -173,6 +183,16 @@
         <source>View</source>
         <target xml:lang="fr" state="translated">Affichage</target>
         <note>key: tab.name.view</note>
+      </trans-unit>
+      <trans-unit id="373c6d223e1f346d71cf6cfd85f0fbc3d76ca1d5" resname="tab.relations.no_relations">
+        <source>This content item has no related content.</source>
+        <target xml:lang="fr" state="translated">Ce contenu n'a pas de relations.</target>
+        <note>key: tab.relations.no_relations</note>
+      </trans-unit>
+      <trans-unit id="1c95181a07cb4d7b83aa9b003eb4e8df95c8bfd9" resname="tab.relations.no_reverse_relations">
+        <source>This content item has no reverse relations.</source>
+        <target xml:lang="fr" state="translated">Ce contenu n'a pas de relations inverses.</target>
+        <note>key: tab.relations.no_reverse_relations</note>
       </trans-unit>
       <trans-unit id="853cb6f02ff64af4dc6016318eff1c30bd16cc70" resname="tab.relations.related_content">
         <source>Related content (content items used by %contentName%)</source>
@@ -248,6 +268,11 @@
         <source>Published version</source>
         <target xml:lang="fr" state="translated">Version publiée</target>
         <note>key: tab.versions.published_version</note>
+      </trans-unit>
+      <trans-unit id="4c27637d649c221e58c6a9629f14a2f75aeed151" resname="tab.versions.table.contributor">
+        <source>Contributor</source>
+        <target xml:lang="fr" state="translated">Contributeur</target>
+        <note>key: tab.versions.table.contributor</note>
       </trans-unit>
       <trans-unit id="4c6353b63f5bc2031c8380c4007edf9c5f6be456" resname="tab.versions.table.created">
         <source>Created</source>
