@@ -11,10 +11,25 @@
         <target xml:lang="fr" state="translated">Modifier URL</target>
         <note>key: url.action.edit</note>
       </trans-unit>
+      <trans-unit id="f561064964d324f7697c98336f2e4ef5a247e7db" resname="url.action.item.edit">
+        <source>Edit Item</source>
+        <target xml:lang="fr" state="translated">Editer l'élément</target>
+        <note>key: url.action.item.edit</note>
+      </trans-unit>
+      <trans-unit id="6a23ab14fca2c76fe7ea84f53221ed5caf907f45" resname="url.detail">
+        <source>Link detail</source>
+        <target xml:lang="fr" state="translated">Détail du lien</target>
+        <note>key: url.detail</note>
+      </trans-unit>
       <trans-unit id="23bfb0e222eeac1bfa481ba09c5b4aea1d0295da" resname="url.edit">
         <source>Edit</source>
         <target xml:lang="fr" state="translated">Modifier</target>
         <note>key: url.edit</note>
+      </trans-unit>
+      <trans-unit id="e890168e1ef7753c250affa3fcdfb21074c35c6f" resname="url.editing">
+        <source>Editing URL: %url%</source>
+        <target xml:lang="fr" state="translated">Edition URL : %url%</target>
+        <note>key: url.editing</note>
       </trans-unit>
       <trans-unit id="8c27173bd289fbab90a41c921e3a0d742acd9042" resname="url.label.address">
         <source>Address</source>
@@ -30,6 +45,11 @@
         <source>Last checked</source>
         <target xml:lang="fr" state="translated">Dernière vérification</target>
         <note>key: url.label.last_checked</note>
+      </trans-unit>
+      <trans-unit id="e676ac2f04711e7a31e0f547a57e674f7cad4661" resname="url.label.last_checked.never">
+        <source>This URL has not been checked</source>
+        <target xml:lang="fr" state="translated">Cette URL n’a pas été vérifiée</target>
+        <note>key: url.label.last_checked.never</note>
       </trans-unit>
       <trans-unit id="d23c2f190381df7d8a1ac3c3de0df4631c161818" resname="url.label.modified">
         <source>Modified</source>
@@ -89,15 +109,40 @@
         <target xml:lang="fr" state="translated">Informations</target>
         <note>key: url.tab.information</note>
       </trans-unit>
+      <trans-unit id="af51e21b845c88f95912dd85c6e94559d7038df6" resname="url.tab.usages">
+        <source>Content item(s) using this URL</source>
+        <target xml:lang="fr" state="translated">Élément(s) de contenu utilisant cette URL</target>
+        <note>key: url.tab.usages</note>
+      </trans-unit>
+      <trans-unit id="9ff98d02d294a164470b9491cabfa3526f2f63f6" resname="url.update.success">
+        <source>URL updated</source>
+        <target xml:lang="fr" state="translated">L'URL a été mise à jour</target>
+        <note>key: url.update.success</note>
+      </trans-unit>
       <trans-unit id="8fe54f2938f83a529ad5d7aa94d4e2fc9934bac1" resname="url.usages.column.name">
         <source>Name</source>
         <target xml:lang="fr" state="translated">Nom</target>
         <note>key: url.usages.column.name</note>
       </trans-unit>
+      <trans-unit id="194bc7ae0ad8f96bbd8ad91fe58cc02ce1e465fc" resname="url.usages.column.status">
+        <source>Status</source>
+        <target xml:lang="fr" state="translated">Statut</target>
+        <note>key: url.usages.column.status</note>
+      </trans-unit>
+      <trans-unit id="e7ae589ed6ce535328c6561f41bc0171f8fabeb8" resname="url.usages.content_status.draft">
+        <source>Draft</source>
+        <target xml:lang="fr" state="translated">Brouillon</target>
+        <note>key: url.usages.content_status.draft</note>
+      </trans-unit>
       <trans-unit id="d831a1a74184672a12e3b9ae099692d1b4fd55b1" resname="url.usages.content_status.published">
         <source>Published</source>
         <target xml:lang="fr" state="translated">Publié</target>
         <note>key: url.usages.content_status.published</note>
+      </trans-unit>
+      <trans-unit id="dce98314e5ba27c161d28c789d2b970180ea852c" resname="url.view">
+        <source>Link %url%</source>
+        <target xml:lang="fr" state="translated">Lien %url%</target>
+        <note>key: url.view</note>
       </trans-unit>
     </body>
   </file>
