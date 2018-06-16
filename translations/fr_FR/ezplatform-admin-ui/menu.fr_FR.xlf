@@ -53,8 +53,11 @@
       </trans-unit>
       <trans-unit id="ff56ff65983b48e2ec27b51c9a5a2d34e86b574d" resname="content_create__sidebar_right__publish">
         <source>Publish</source>
-        <target xml:lang="fr" state="translated">content.publish_button</target>
+        <target xml:lang="fr" state="translated">Publier</target>
         <note>key: content_create__sidebar_right__publish</note>
+        <alt-trans>
+          <target xml:lang="fr">content.publish_button</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="bfb33ee23eb46e991693adf1d52d350d0a29e688" resname="content_create__sidebar_right__save_draft">
         <source>Save</source>
