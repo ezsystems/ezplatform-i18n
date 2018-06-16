@@ -26,6 +26,11 @@
         <target xml:lang="fr" state="translated">Nouvelle section</target>
         <note>key: policy.limitation.identifier.newsection</note>
       </trans-unit>
+      <trans-unit id="a9958f1d76f4685bf5fc32eee7514046db942160" resname="policy.limitation.identifier.newstate">
+        <source>New State</source>
+        <target xml:lang="fr" state="translated">Nouvel état</target>
+        <note>key: policy.limitation.identifier.newstate</note>
+      </trans-unit>
       <trans-unit id="be2b0449251f53db814dc4fbbb27e534419add2b" resname="policy.limitation.identifier.node">
         <source>Location</source>
         <target xml:lang="fr" state="translated">Emplacement</target>
@@ -65,6 +70,11 @@
         <source>SiteAccess</source>
         <target xml:lang="fr" state="translated">SiteAccess</target>
         <note>key: policy.limitation.identifier.siteaccess</note>
+      </trans-unit>
+      <trans-unit id="30cc18895dfb23b14d3f9b8249e90baf678c8180" resname="policy.limitation.identifier.state">
+        <source>State</source>
+        <target xml:lang="fr" state="translated">État</target>
+        <note>key: policy.limitation.identifier.state</note>
       </trans-unit>
       <trans-unit id="2291e238752ad3c4d20ef08253f5d5736f6382d2" resname="policy.limitation.identifier.subtree">
         <source>Subtree of Location</source>
