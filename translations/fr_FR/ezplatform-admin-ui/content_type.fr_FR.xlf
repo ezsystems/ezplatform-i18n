@@ -196,6 +196,16 @@
         <target xml:lang="fr" state="translated">Nom</target>
         <note>key: content_type.view.list.column.name</note>
       </trans-unit>
+      <trans-unit id="7c8c43d61131312dbeeeac5dc536a4f95154f33d" resname="content_type.view.list.title">
+        <source>Content Types in %identifier%</source>
+        <target xml:lang="fr" state="translated">Types de contenu dans %identifier%</target>
+        <note>key: content_type.view.list.title</note>
+      </trans-unit>
+      <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title" approved="yes">
+        <source>%name%</source>
+        <target xml:lang="fr">%name%</target>
+        <note>key: content_type.view.view.title</note>
+      </trans-unit>
       <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
         <source>Content Types</source>
         <target xml:lang="fr" state="translated">Types de Contenu</target>
@@ -228,8 +238,11 @@
       </trans-unit>
       <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
         <source>Create a Content Type Group</source>
-        <target xml:lang="fr" state="translated">Créer un groupe de type de contenu</target>
+        <target xml:lang="fr" state="translated">Créer un groupe de Type de Contenu</target>
         <note>key: content_type_group.view.list.action.add</note>
+        <alt-trans>
+          <target xml:lang="fr">Créer un groupe de type de contenu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
         <source>Edit</source>
@@ -253,6 +266,11 @@
         <alt-trans>
           <target xml:lang="fr">Groupes de type de contenu</target>
         </alt-trans>
+      </trans-unit>
+      <trans-unit id="1769b5258d896d9ccb207c09e04534ce9a01c571" resname="content_type_group.view.view.title" approved="yes">
+        <source>%identifier%</source>
+        <target xml:lang="fr">%identifier%</target>
+        <note>key: content_type_group.view.view.title</note>
       </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
         <source>Cancel</source>
