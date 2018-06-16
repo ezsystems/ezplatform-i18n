@@ -56,6 +56,16 @@
         <target xml:lang="fr" state="translated">Section</target>
         <note>key: policy.limitation.identifier.section</note>
       </trans-unit>
+      <trans-unit id="548bc922c693c8259cbfd3354451a3035e2fa6f6" resname="policy.limitation.identifier.siteaccess">
+        <source>SiteAccess</source>
+        <target xml:lang="fr" state="translated">SiteAccess</target>
+        <note>key: policy.limitation.identifier.siteaccess</note>
+      </trans-unit>
+      <trans-unit id="2291e238752ad3c4d20ef08253f5d5736f6382d2" resname="policy.limitation.identifier.subtree">
+        <source>Subtree of Location</source>
+        <target xml:lang="fr" state="translated">Sous-arborescence de l’emplacement</target>
+        <note>key: policy.limitation.identifier.subtree</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
