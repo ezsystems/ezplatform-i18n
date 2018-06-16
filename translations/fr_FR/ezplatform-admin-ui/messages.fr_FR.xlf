@@ -71,6 +71,22 @@
         <target xml:lang="fr" state="translated">Quelque chose c'est mal passé. Désolé !</target>
         <note>key: error.page.404.title</note>
       </trans-unit>
+      <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title">
+        <source>Something went wrong. Sorry!</source>
+        <target xml:lang="fr" state="translated">Quelque chose c'est mal passé. Désolé !</target>
+        <note>key: error.page.default.title</note>
+      </trans-unit>
+      <trans-unit id="36aa6723300a41ba80ee0096c0d2bcf34fd48aca" resname="ezplatform.forgot_user_password.success">
+        <source><![CDATA[<p>We have sent an email to the email address of your account. You should receive the email shortly.</p>
+            <p>If the email is slow to arrive, check your spam folders.</p>
+            <p>If you receive no email, it’s that your username or email is unknown to us, so please double check.</p>
+            <p>If you reset your password multiple times, only the most recent email link will be valid</p>]]></source>
+        <target xml:lang="fr" state="translated"><![CDATA[<p>Nous avons envoyé un courriel à l’adresse e-mail de votre compte. Vous devriez recevoir l’email sous peu.</p>
+            <p>Si l’email est lent à arriver, vérifier vos dossiers indésirables.</p>
+            <p>Si vous ne recevez aucun email, c’est que votre nom d’utilisateur ou votre e-mail nous est inconnu, veuillez vérifier s'il vous plaît.</p>
+            <p>Si vous avez réinitialisé votre mot de passe plusieurs fois, seul le lien dans le courriel le plus récent sera valable</p>]]></target>
+        <note>key: ezplatform.forgot_user_password.success</note>
+      </trans-unit>
       <trans-unit id="5cf420af18fd4a8d856fd30bc13aea5039369f9b" resname="form.cancel">
         <source>Cancel</source>
         <target xml:lang="fr" state="translated">Annuler</target>
