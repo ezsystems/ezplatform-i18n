@@ -64,6 +64,11 @@
         <target xml:lang="fr" state="translated">Sauvegarder</target>
         <note>key: content_create__sidebar_right__save_draft</note>
       </trans-unit>
+      <trans-unit id="af459eaf05dedc87eb0c462732e59da18bedb340" resname="content_edit__sidebar_right__cancel">
+        <source>Delete draft</source>
+        <target xml:lang="fr" state="translated">Supprimer le brouillon</target>
+        <note>key: content_edit__sidebar_right__cancel</note>
+      </trans-unit>
       <trans-unit id="0698df9938e380422409df827952248fbfcaf02d" resname="content_edit__sidebar_right__preview">
         <source>Preview</source>
         <target xml:lang="fr" state="translated">Aperçu</target>
@@ -71,8 +76,11 @@
       </trans-unit>
       <trans-unit id="3ca4deb7a0f072b3613df143969726ea2cf79487" resname="content_edit__sidebar_right__publish">
         <source>Publish</source>
-        <target xml:lang="fr" state="translated">content.publish_button</target>
+        <target xml:lang="fr" state="translated">Publier</target>
         <note>key: content_edit__sidebar_right__publish</note>
+        <alt-trans>
+          <target xml:lang="fr">content.publish_button</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="21ec910650ae078371f26d8e6a7964d13b5a5216" resname="content_edit__sidebar_right__save_draft">
         <source>Save</source>
@@ -148,6 +156,11 @@
         <source>Media</source>
         <target xml:lang="fr" state="translated">Média</target>
         <note>key: main__content__media</note>
+      </trans-unit>
+      <trans-unit id="1f5824f08c1b09cf6511dee2352e6f1681f94893" resname="main_admin">
+        <source>Admin</source>
+        <target xml:lang="fr" state="translated">Administration</target>
+        <note>key: main_admin</note>
       </trans-unit>
       <trans-unit id="1052991c551dfafbaca03084515a930162d9f453" resname="object_state_create__sidebar_right__create">
         <source>Create</source>
@@ -228,6 +241,11 @@
         <source>Bookmarks</source>
         <target xml:lang="fr" state="translated">Favoris</target>
         <note>key: user__bookmark</note>
+      </trans-unit>
+      <trans-unit id="da5c7f4f526c2dd5b1e1f51ab5238ef4ba86d421" resname="user__change_password">
+        <source>Change password</source>
+        <target xml:lang="fr" state="translated">Modifier mot de passe</target>
+        <note>key: user__change_password</note>
       </trans-unit>
       <trans-unit id="06accb26fbb1b72012942af2b3e03f7c138e28c3" resname="user__content">
         <source>Logout</source>
