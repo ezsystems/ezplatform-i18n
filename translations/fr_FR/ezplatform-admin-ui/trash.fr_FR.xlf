@@ -11,6 +11,16 @@
         <target xml:lang="fr" state="translated">Corbeille</target>
         <note>key: trash</note>
       </trans-unit>
+      <trans-unit id="49df4e6f73344ab17f4dfd94818974848f74f53a" resname="trash.button.restore">
+        <source>Restore</source>
+        <target xml:lang="fr" state="translated">Restaurer</target>
+        <note>key: trash.button.restore</note>
+      </trans-unit>
+      <trans-unit id="5424e0925328bb62806b43b2a65cc86fef6ad7d9" resname="trash.button.restore_new_location">
+        <source>Restore under new parent location</source>
+        <target xml:lang="fr" state="translated">Restaurer sous un nouvel emplacement parent</target>
+        <note>key: trash.button.restore_new_location</note>
+      </trans-unit>
       <trans-unit id="7ffaa1444a83e959f8de3c2410bb65acdd3e3ff0" resname="trash.delete">
         <source>Delete</source>
         <target xml:lang="fr" state="translated">Supprimer</target>
@@ -21,6 +31,16 @@
         <target xml:lang="fr" state="translated">Corbeille</target>
         <note>key: trash.headline</note>
       </trans-unit>
+      <trans-unit id="5d4b7350cb3bfc77e9edd02190eb530d866c7565" resname="trash.item.ancesor_in_trash">
+        <source>Ancestor is in the Trash</source>
+        <target xml:lang="fr" state="translated">Ancêtre est dans la corbeille</target>
+        <note>key: trash.item.ancesor_in_trash</note>
+      </trans-unit>
+      <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
+        <source>Do you want to delete selected item(s) from Trash?</source>
+        <target xml:lang="fr" state="translated">Voulez-vous supprimer les éléments sélectionnés de la corbeille ?</target>
+        <note>key: trash.modal.message</note>
+      </trans-unit>
       <trans-unit id="34525fc5da381111c2104d20a55021eb8b698c7c" resname="trash.name">
         <source>Name</source>
         <target xml:lang="fr" state="translated">Nom</target>
@@ -30,6 +50,16 @@
         <source>Original location</source>
         <target xml:lang="fr" state="translated">Emplacement d’origine</target>
         <note>key: trash.original_location</note>
+      </trans-unit>
+      <trans-unit id="a8c2da925faa48def8e407037a6115f1340070c7" resname="trash.restore_new_location.success">
+        <source>Items restored under '%location%' location.</source>
+        <target xml:lang="fr" state="translated">Éléments restaurés sous l'emplacement «%location%».</target>
+        <note>key: trash.restore_new_location.success</note>
+      </trans-unit>
+      <trans-unit id="d4e8ddb6a84d9ca3a3b39485e9b7c5ef2860d879" resname="trash.restore_original_location.success">
+        <source>Items restored under their original location.</source>
+        <target xml:lang="fr" state="translated">Éléments restaurés dans leur emplacement d’origine.</target>
+        <note>key: trash.restore_original_location.success</note>
       </trans-unit>
       <trans-unit id="06b530d8c8b3d7af7b3f2df9f5102927e7275de4" resname="trash.table.header">
         <source>Trash</source>
