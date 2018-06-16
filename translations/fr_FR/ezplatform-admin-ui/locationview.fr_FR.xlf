@@ -8,8 +8,11 @@
     <body>
       <trans-unit id="9c91d85bc7658ec7dc6bbb07b720979177c0846a" resname="content.view.subitems">
         <source>Sub-items</source>
-        <target xml:lang="fr" state="translated">Sous-élements</target>
+        <target xml:lang="fr" state="translated">Sous-éléments</target>
         <note>key: content.view.subitems</note>
+        <alt-trans>
+          <target xml:lang="fr">Sous-élements</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="0b2f22acb619fcc5672a7dd0ccf2a39316a07274" resname="location.bookmark.remove">
         <source>Remove from Bookmarks</source>
@@ -65,6 +68,26 @@
         <source>Name</source>
         <target xml:lang="fr" state="translated">Nom</target>
         <note>key: tab.details.state_name</note>
+      </trans-unit>
+      <trans-unit id="8ddd1c9e60bd352b4395e1753ede6534db2aac8b" resname="tab.details.sub_items_listing_by.in">
+        <source>in</source>
+        <target xml:lang="fr" state="translated">en ordre</target>
+        <note>key: tab.details.sub_items_listing_by.in</note>
+      </trans-unit>
+      <trans-unit id="c7f8179865bd73db9d2f07c39ae4a364668476c5" resname="tab.details.sub_items_listing_by.order_by">
+        <source>Order by</source>
+        <target xml:lang="fr" state="translated">Trié par</target>
+        <note>key: tab.details.sub_items_listing_by.order_by</note>
+      </trans-unit>
+      <trans-unit id="fe4321b1de5be805ed8224c8cf442a89e9fa38b4" resname="tab.details.sub_items_listing_by_set">
+        <source>Set</source>
+        <target xml:lang="fr" state="translated">Configurer</target>
+        <note>key: tab.details.sub_items_listing_by_set</note>
+      </trans-unit>
+      <trans-unit id="03aa9832291905ed83ba60081ebffe5786d92418" resname="tab.details.sub_items_sorting_order">
+        <source>Sub-items sorting order</source>
+        <target xml:lang="fr" state="translated">Ordre de tri des sous-éléments</target>
+        <note>key: tab.details.sub_items_sorting_order</note>
       </trans-unit>
       <trans-unit id="09fcd5ad39b9c2b778be171f88559f6c117ff48b" resname="tab.details.technical_details">
         <source>Technical details</source>
