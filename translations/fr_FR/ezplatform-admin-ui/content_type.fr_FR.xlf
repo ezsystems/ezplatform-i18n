@@ -81,6 +81,11 @@
         <target xml:lang="fr" state="translated">Croissant</target>
         <note>key: content_type.sort_field.ascending</note>
       </trans-unit>
+      <trans-unit id="c699d43b72ab990a33d92d85bc5c773078d8c62d" resname="content_type.sort_field.content_id">
+        <source>Content ID</source>
+        <target xml:lang="fr" state="translated">ID du contenu</target>
+        <note>key: content_type.sort_field.content_id</note>
+      </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth">
         <source>Location depth</source>
         <target xml:lang="fr" state="translated">Profondeur de l'emplacement</target>
@@ -90,6 +95,11 @@
         <source>Descending</source>
         <target xml:lang="fr" state="translated">Décroissant</target>
         <note>key: content_type.sort_field.descending</note>
+      </trans-unit>
+      <trans-unit id="afb48eb0ff69f32e95393be9247ac7ba40d61142" resname="content_type.sort_field.location_id">
+        <source>Location ID</source>
+        <target xml:lang="fr" state="translated">ID de l'emplacement</target>
+        <note>key: content_type.sort_field.location_id</note>
       </trans-unit>
       <trans-unit id="187a5f274b61172d6e478830081210a75b9f916d" resname="content_type.sort_field.location_path">
         <source>Location path</source>
