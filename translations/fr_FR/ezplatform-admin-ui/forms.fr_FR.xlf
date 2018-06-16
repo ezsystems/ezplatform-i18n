@@ -11,6 +11,11 @@
         <target xml:lang="fr" state="translated">Créer</target>
         <note>key: content_draft_create_type.create</note>
       </trans-unit>
+      <trans-unit id="c5edf119facebac72a105963da8db6be47549180" resname="content_location_add_type.add">
+        <source>Add location</source>
+        <target xml:lang="fr" state="translated">Ajouter un emplacement</target>
+        <note>key: content_location_add_type.add</note>
+      </trans-unit>
       <trans-unit id="9e3c743fb052b12d69896a30ee9a6e1bb0c41427" resname="content_location_remove_form.remove">
         <source>Delete</source>
         <target xml:lang="fr" state="translated">Supprimer</target>
