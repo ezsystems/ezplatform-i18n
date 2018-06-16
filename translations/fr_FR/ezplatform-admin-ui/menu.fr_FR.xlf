@@ -132,6 +132,11 @@
         <target xml:lang="fr" state="translated">Sections</target>
         <note>key: main__admin__sections</note>
       </trans-unit>
+      <trans-unit id="2cc622305036d330c00683520df433ef82f60c9a" resname="main__admin__systeminfo">
+        <source>System Information</source>
+        <target xml:lang="fr" state="translated">Informations système</target>
+        <note>key: main__admin__systeminfo</note>
+      </trans-unit>
       <trans-unit id="975e43875a74d509e3e0cedd926de1223d09cdf4" resname="main__admin__users">
         <source>Users</source>
         <target xml:lang="fr" state="translated">Utilisateurs</target>
@@ -231,6 +236,11 @@
         <source>Trash</source>
         <target xml:lang="fr" state="translated">Corbeille</target>
         <note>key: sidebar_left__trash</note>
+      </trans-unit>
+      <trans-unit id="ae876d2c3fdb4f08383aefae6106b69dfe124b38" resname="trash__sidebar_right__empty_trash">
+        <source>Empty Trash</source>
+        <target xml:lang="fr" state="translated">Vider la corbeille</target>
+        <note>key: trash__sidebar_right__empty_trash</note>
       </trans-unit>
       <trans-unit id="9e8d8f6d06a5950f649d63b453d6dab7eba33f11" resname="url_edit__sidebar_right__save">
         <source>Save</source>
