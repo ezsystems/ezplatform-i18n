@@ -236,6 +236,16 @@
         <target xml:lang="fr" state="translated">Nom</target>
         <note>key: content_type_group.update.name</note>
       </trans-unit>
+      <trans-unit id="1bd4c745d76ae79ef7e95baea27281fff04e77f6" resname="content_type_group.view.add.title">
+        <source>Creating a new Content Type Group</source>
+        <target xml:lang="fr" state="translated">Créer un nouveau groupe de type de contenu</target>
+        <note>key: content_type_group.view.add.title</note>
+      </trans-unit>
+      <trans-unit id="1b6ebace1ed08d4e8de6a84a5523e19b53dfd443" resname="content_type_group.view.edit.title">
+        <source>Editing Content Type Group "%identifier%"</source>
+        <target xml:lang="fr" state="translated">Édition du groupe de type de contenu "%identifier%"</target>
+        <note>key: content_type_group.view.edit.title</note>
+      </trans-unit>
       <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
         <source>Create a Content Type Group</source>
         <target xml:lang="fr" state="translated">Créer un groupe de Type de Contenu</target>
