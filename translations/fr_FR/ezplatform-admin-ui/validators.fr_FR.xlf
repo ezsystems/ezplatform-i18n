@@ -11,6 +11,21 @@
         <target xml:lang="fr" state="translated">Mauvais format</target>
         <note>key: ez.section.identifier.format</note>
       </trans-unit>
+      <trans-unit id="0727f822c8bebb99cd8a75ec16d4008c74d30b24" resname="ezplatform.change_user_password.not_match">
+        <source>Old password does not match.</source>
+        <target xml:lang="fr" state="translated">Ancien mot de passe ne correspond pas.</target>
+        <note>key: ezplatform.change_user_password.not_match</note>
+      </trans-unit>
+      <trans-unit id="54d912b0089483cfd533714e50262851b6d1421a" resname="ezplatform.change_user_password.passwords_must_match">
+        <source>The password fields must match.</source>
+        <target xml:lang="fr" state="translated">Les champs mot de passe doivent correspondre.</target>
+        <note>key: ezplatform.change_user_password.passwords_must_match</note>
+      </trans-unit>
+      <trans-unit id="1235bb9d75f7a324d6b06742720ab9c18775ddce" resname="ezplatform.copy_subtree.is_not_container">
+        <source>Selected Location is not container.</source>
+        <target xml:lang="fr" state="translated">L'emplacement sélectionné n’est pas un conteneur.</target>
+        <note>key: ezplatform.copy_subtree.is_not_container</note>
+      </trans-unit>
       <trans-unit id="74dc0c29a623eb80ca8f6460f0176503c7785904" resname="js.error.empty.field">
         <source>{fieldName} field is required</source>
         <target xml:lang="fr" state="translated">Le champ {fieldName} est requis</target>
