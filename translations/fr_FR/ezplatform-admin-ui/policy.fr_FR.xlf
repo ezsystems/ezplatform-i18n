@@ -11,6 +11,11 @@
         <target xml:lang="fr" state="translated">Aucun</target>
         <note>key: policy.limitation.none</note>
       </trans-unit>
+      <trans-unit id="15c7918829705fa0d6e560ba6697675a1fb3642d" resname="tab.policies.assignment">
+        <source>User/Group</source>
+        <target xml:lang="fr" state="translated">Utilisateur/groupe</target>
+        <note>key: tab.policies.assignment</note>
+      </trans-unit>
       <trans-unit id="359681221fc63adcf852c1352342fe531e554503" resname="tab.policies.function">
         <source>Function</source>
         <target xml:lang="fr" state="translated">Fonction</target>
@@ -25,6 +30,11 @@
         <source>Module</source>
         <target xml:lang="fr" state="translated">Module</target>
         <note>key: tab.policies.module</note>
+      </trans-unit>
+      <trans-unit id="1a761d1b544608935dfa6ce9d196cf2c31f7edda" resname="tab.policies.policies">
+        <source>Policies</source>
+        <target xml:lang="fr" state="translated">Politiques de sécurité</target>
+        <note>key: tab.policies.policies</note>
       </trans-unit>
       <trans-unit id="1a1635237bc7c5c0b73865100d03763e9bd71e1f" resname="tab.policies.role">
         <source>Role</source>
