@@ -56,6 +56,11 @@
         <target xml:lang="fr" state="translated">Glissez et déposez vos fichiers sur la fenêtre du navigateur ou téléchargez-les</target>
         <note>key: fieldtype.binary_base.drag_drop</note>
       </trans-unit>
+      <trans-unit id="858c986173f1ef87d7acda017535b86f01bca87d" resname="fieldtype.binary_base.max_file_size">
+        <source>Max file size: %size%</source>
+        <target xml:lang="fr" state="translated">Taille maximale du fichier : %size%</target>
+        <note>key: fieldtype.binary_base.max_file_size</note>
+      </trans-unit>
       <trans-unit id="763e9b64f4f0024e90753727ccc212a3596bfccd" resname="fieldtype.binary_base.upload_file">
         <source>Upload file</source>
         <target xml:lang="fr" state="translated">Télécharger le fichier</target>
