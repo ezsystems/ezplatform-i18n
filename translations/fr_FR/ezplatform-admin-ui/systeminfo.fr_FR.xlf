@@ -141,6 +141,11 @@
         <target xml:lang="fr" state="translated">Version</target>
         <note>key: symfony_kernel.version</note>
       </trans-unit>
+      <trans-unit id="21ef9f0a078dbc4e4c45be12f1cfaf8a3864dfa7" resname="systeminfo">
+        <source>System Information</source>
+        <target xml:lang="fr" state="translated">Informations système</target>
+        <note>key: systeminfo</note>
+      </trans-unit>
       <trans-unit id="a2a92e9d0e41ea4a14c99ab0f702d5df3ea017c3" resname="tab.name.composer">
         <source>Composer</source>
         <target xml:lang="fr" state="translated">Composer</target>
