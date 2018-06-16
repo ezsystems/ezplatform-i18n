@@ -11,6 +11,11 @@
         <target xml:lang="fr" state="translated">Annuler</target>
         <note>key: version.conflict.form.cancel</note>
       </trans-unit>
+      <trans-unit id="0fcf485b042da069359444e8395122974ad929fc" resname="version.conflict.header">
+        <source>Version conflict when editing</source>
+        <target xml:lang="fr" state="translated">Conflit de version lors de l'édition</target>
+        <note>key: version.conflict.header</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
