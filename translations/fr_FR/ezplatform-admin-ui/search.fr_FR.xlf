@@ -16,15 +16,53 @@
         <target xml:lang="fr" state="translated">Rechercher</target>
         <note>key: search</note>
       </trans-unit>
+      <trans-unit id="2c0d71c1688c1f04ff156bb9dff167ca5ae663b6" resname="search.any.content.type">
+        <source>Any content type</source>
+        <target xml:lang="fr" state="translated">Tout type de contenu</target>
+        <note>key: search.any.content.type</note>
+      </trans-unit>
       <trans-unit id="8605c5030193beebc7097a652f6c9dcb648cccec" resname="search.apply">
         <source>Apply</source>
         <target xml:lang="fr" state="translated">Appliquer</target>
         <note>key: search.apply</note>
       </trans-unit>
+      <trans-unit id="52574f2c1d5e0b3ffcd4f105b770e91ae1e519fa" resname="search.content.type">
+        <source>Content Type:</source>
+        <target xml:lang="fr" state="translated">Type de contenu :</target>
+        <note>key: search.content.type</note>
+      </trans-unit>
+      <trans-unit id="9db82102d1da5efb63380ca328a83d13732a02ee" resname="search.filter">
+        <source>Filter</source>
+        <target xml:lang="fr" state="translated">Filtres</target>
+        <note>key: search.filter</note>
+      </trans-unit>
       <trans-unit id="1d83218940b91b2cc81ae9d0a694682f6cb04813" resname="search.headline">
         <source>Search</source>
         <target xml:lang="fr" state="translated">Rechercher</target>
         <note>key: search.headline</note>
+      </trans-unit>
+      <trans-unit id="c2e9df867c114a94918c00f775d3a54d24358dfa" resname="search.last.modified">
+        <source>Last modified:</source>
+        <target xml:lang="fr" state="translated">Modifié :</target>
+        <note>key: search.last.modified</note>
+        <alt-trans>
+          <target xml:lang="fr">Modifié le :</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="2d007a8d9fc080db790dc5c45c12dd369d144fbe" resname="search.last_month">
+        <source>Last month</source>
+        <target xml:lang="fr" state="translated">Le Mois dernier</target>
+        <note>key: search.last_month</note>
+      </trans-unit>
+      <trans-unit id="967e0a47af2b621d7e8fa29b2429a30644f8d6bb" resname="search.last_week">
+        <source>Last week</source>
+        <target xml:lang="fr" state="translated">La semaine dernière</target>
+        <note>key: search.last_week</note>
+      </trans-unit>
+      <trans-unit id="c1244001dc023e80d3e6d8331935c68ac140788b" resname="search.last_year">
+        <source>Last year</source>
+        <target xml:lang="fr" state="translated">L'année dernière</target>
+        <note>key: search.last_year</note>
       </trans-unit>
       <trans-unit id="0ea91510ce49731de30d4d412dc62c83c91b359d" resname="search.modified">
         <source>Modified</source>
@@ -40,6 +78,11 @@
         <source>Search</source>
         <target xml:lang="fr" state="translated">Rechercher</target>
         <note>key: search.perform</note>
+      </trans-unit>
+      <trans-unit id="34cd11448c2016e5c0a098947eb3e2aef01a9ac5" resname="search.section">
+        <source>Section:</source>
+        <target xml:lang="fr" state="translated">Section :</target>
+        <note>key: search.section</note>
       </trans-unit>
       <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type">
         <source>Content Type</source>
