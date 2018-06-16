@@ -136,6 +136,11 @@
         <target xml:lang="fr" state="translated">Nom</target>
         <note>key: role_update.name</note>
       </trans-unit>
+      <trans-unit id="2b8a62034311f415eba9826996495c2ddd076745" resname="roles_delete_form.delete">
+        <source>Delete role</source>
+        <target xml:lang="fr" state="translated">Supprimer le rôle</target>
+        <note>key: roles_delete_form.delete</note>
+      </trans-unit>
       <trans-unit id="4d1b71ebb6b86d78f0902fa5a6ef329c070efdad" resname="section_create_form.create">
         <source>Create</source>
         <target xml:lang="fr" state="translated">Créer</target>
@@ -155,6 +160,11 @@
         <source>Name</source>
         <target xml:lang="fr" state="translated">Nom</target>
         <note>key: section_form.name</note>
+      </trans-unit>
+      <trans-unit id="1076fdadc49ac9198c278970f355457c26075975" resname="sections_delete_form.delete">
+        <source>Delete sections</source>
+        <target xml:lang="fr" state="translated">Supprimer les sections</target>
+        <note>key: sections_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="30b0c3c3e5e096a078005be2cc34bca6227ae381" resname="trash_empty_form.empty">
         <source>Delete permanently</source>
