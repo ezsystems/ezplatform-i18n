@@ -234,6 +234,12 @@
         <note>key: fielddefinition.media-player-type.windows_media_player</note>
         <jms:reference-file line="190">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="ee5c85f0dae011c10d9d2bfb1fcd86e529c55536" resname="fielddefinition.min-length.label">
+        <source>Min string length:</source>
+        <target xml:lang="fr" state="translated">Longueur minimale de la chaîne :</target>
+        <note>key: fielddefinition.min-length.label</note>
+        <jms:reference-file line="18">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="1feb12108139bb4d34877c40ade8362c0872b528" resname="fielddefinition.min-value.label" approved="yes">
         <source>Minimum value:</source>
         <target xml:lang="fr">Valeur minimale :</target>
