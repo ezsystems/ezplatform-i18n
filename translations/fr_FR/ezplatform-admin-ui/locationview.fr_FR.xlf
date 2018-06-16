@@ -14,6 +14,11 @@
           <target xml:lang="fr">Sous-élements</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="eeb49235f0e3b40e651725430b85a2885174bd2b" resname="location.bookmark.add">
+        <source>Add to Bookmarks</source>
+        <target xml:lang="fr" state="translated">Ajouter aux favoris</target>
+        <note>key: location.bookmark.add</note>
+      </trans-unit>
       <trans-unit id="0b2f22acb619fcc5672a7dd0ccf2a39316a07274" resname="location.bookmark.remove">
         <source>Remove from Bookmarks</source>
         <target xml:lang="fr" state="translated">Supprimer des favoris</target>
@@ -249,6 +254,11 @@
         <target xml:lang="fr" state="translated">Nom de la langue</target>
         <note>key: tab.translations.language_name</note>
       </trans-unit>
+      <trans-unit id="e8d52c9e980661178d301e925ac8c74661b4350d" resname="tab.translations.modal.message">
+        <source>Do you want to delete Translation?</source>
+        <target xml:lang="fr" state="translated">Voulez-vous vraiment supprimer la traduction ?</target>
+        <note>key: tab.translations.modal.message</note>
+      </trans-unit>
       <trans-unit id="852ca97b78e55e9b7734ff3e5a6c1b3fde6eca6f" resname="tab.translations.translation_manger">
         <source>Translation manager</source>
         <target xml:lang="fr" state="translated">Gestionnaire de traduction</target>
@@ -293,6 +303,11 @@
         <source>Version</source>
         <target xml:lang="fr" state="translated">Version</target>
         <note>key: tab.versions.table.version</note>
+      </trans-unit>
+      <trans-unit id="cf6a7c9a98608dd58b428ce2187e3229b64b5701" resname="translation.modal_close">
+        <source>Close</source>
+        <target xml:lang="fr" state="translated">Fermer</target>
+        <note>key: translation.modal_close</note>
       </trans-unit>
     </body>
   </file>
