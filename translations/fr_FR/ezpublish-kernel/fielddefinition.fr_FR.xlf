@@ -137,9 +137,12 @@
       </trans-unit>
       <trans-unit id="c8c3fa9b71c848069950539011a09b45abb1c11f" resname="fielddefinition.max-length.undefined" approved="yes">
         <source>No defined maximum string length</source>
-        <target xml:lang="fr">Aucune longueur maximale maximale définie pour la chaîne</target>
+        <target xml:lang="fr">Aucune longueur maximale définie pour la chaîne</target>
         <note>key: fielddefinition.max-length.undefined</note>
         <jms:reference-file line="33">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="fr">Aucune longueur maximale maximale définie pour la chaîne</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="9a3d23487e45edf331407c501ead33d70461f9e3" resname="fielddefinition.max-length.value" approved="yes">
         <source>%max% characters</source>
@@ -239,6 +242,18 @@
         <target xml:lang="fr" state="translated">Longueur minimale de la chaîne :</target>
         <note>key: fielddefinition.min-length.label</note>
         <jms:reference-file line="18">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="09fff8d9a67512b01bb3e58b5d25cf5d042ba195" resname="fielddefinition.min-length.undefined">
+        <source>No defined minimum string length</source>
+        <target xml:lang="fr" state="translated">Aucune longueur minimale définie pour la chaîne</target>
+        <note>key: fielddefinition.min-length.undefined</note>
+        <jms:reference-file line="23">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="904a83f949dd73a0bed006f8e78a211c80b4816a" resname="fielddefinition.min-length.value">
+        <source>%min% characters</source>
+        <target xml:lang="fr" state="translated">%min% caractères</target>
+        <note>key: fielddefinition.min-length.value</note>
+        <jms:reference-file line="21">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="1feb12108139bb4d34877c40ade8362c0872b528" resname="fielddefinition.min-value.label" approved="yes">
         <source>Minimum value:</source>
