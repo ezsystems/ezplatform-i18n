@@ -26,10 +26,50 @@
         <target xml:lang="fr" state="translated">URL</target>
         <note>key: tab.urls.add.path</note>
       </trans-unit>
+      <trans-unit id="89135eef0092aa6e6609d38d013230705894f219" resname="tab.urls.add.redirect">
+        <source>Alias should redirect to its destination</source>
+        <target xml:lang="fr" state="translated">L'alias doit rediriger vers sa destination</target>
+        <note>key: tab.urls.add.redirect</note>
+      </trans-unit>
+      <trans-unit id="e84da49f6798548a0e09f5f7d5095788257f0119" resname="tab.urls.add.redirect.helper.checked">
+        <source>Checked will redirect to the destination using an HTTP 301 response.</source>
+        <target xml:lang="fr" state="translated">Coché redirigera l'utilisateur vers la destination à l’aide d’une réponse HTTP 301.</target>
+        <note>key: tab.urls.add.redirect.helper.checked</note>
+      </trans-unit>
+      <trans-unit id="bccfa7be40c2932ae04a50767aee2184bd5ca4d5" resname="tab.urls.add.redirect.helper.unchecked">
+        <source>Unchecked will not redirect to the destination and the URL will stay the same.</source>
+        <target xml:lang="fr" state="translated">Non coché ne va pas rediriger vers la destination et l’URL resteront les mêmes.</target>
+        <note>key: tab.urls.add.redirect.helper.unchecked</note>
+      </trans-unit>
+      <trans-unit id="9ef990fca45f612ab2d3af7b21968803d76d5d77" resname="tab.urls.add.site_root">
+        <source>Place alias at the site root</source>
+        <target xml:lang="fr" state="translated">Placer l'alias d'URL à la racine du site</target>
+        <note>key: tab.urls.add.site_root</note>
+      </trans-unit>
+      <trans-unit id="9fc6fbd86b58ee883321610dd1726551772edaf1" resname="tab.urls.add.site_root.helper.checked">
+        <source>Checked will create the alias at the site root.</source>
+        <target xml:lang="fr" state="translated">Activé va créer l'alias d'URL à la racine du site.</target>
+        <note>key: tab.urls.add.site_root.helper.checked</note>
+      </trans-unit>
+      <trans-unit id="25badd959ce69714e8eb349ebddbbbe126c14458" resname="tab.urls.add.title">
+        <source>Create new URL alias</source>
+        <target xml:lang="fr" state="translated">Créer un nouvel alias d'URL</target>
+        <note>key: tab.urls.add.title</note>
+      </trans-unit>
+      <trans-unit id="d244966cab8b41f92fd5553d8f33f0e1ca8bf85f" resname="tab.urls.custom_url_aliases">
+        <source>Custom URL aliases for %contentName%</source>
+        <target xml:lang="fr" state="translated">Alias d’URL personnalisés pour %contentName%</target>
+        <note>key: tab.urls.custom_url_aliases</note>
+      </trans-unit>
       <trans-unit id="5a1947624cf55689d80d38b7583bac538da641bb" resname="tab.urls.language">
         <source>Language</source>
         <target xml:lang="fr" state="translated">Langue</target>
         <note>key: tab.urls.language</note>
+      </trans-unit>
+      <trans-unit id="777d1a83ab6a6c4644dd31409906e48a0a7a4a51" resname="tab.urls.modal_close">
+        <source>Close</source>
+        <target xml:lang="fr" state="translated">Fermer</target>
+        <note>key: tab.urls.modal_close</note>
       </trans-unit>
       <trans-unit id="56d218db883ed4cc59dbbca53364dc2e725013e4" resname="tab.urls.no_custom_urls">
         <source>This content item has no custom url aliases.</source>
