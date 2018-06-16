@@ -56,10 +56,20 @@
         <target xml:lang="fr" state="translated">Roles</target>
         <note>key: role.breadcrumb.list</note>
       </trans-unit>
+      <trans-unit id="18990f93cd60432ec47a75934185b7edbd3d17bf" resname="role.view.list.action.assign_to_users_or_groups">
+        <source>Assign to Users/Groups</source>
+        <target xml:lang="fr" state="translated">Assigner aux utilisateurs/groupes</target>
+        <note>key: role.view.list.action.assign_to_users_or_groups</note>
+      </trans-unit>
       <trans-unit id="cb9d9934c021aa5f2b25bfa652279daa88c6086f" resname="role.view.list.action.edit">
         <source>Edit</source>
         <target xml:lang="fr" state="translated">Modifier</target>
         <note>key: role.view.list.action.edit</note>
+      </trans-unit>
+      <trans-unit id="4cb9b2e474c4584dd193e46214b68897ebc6350f" resname="role.view.list.column.id">
+        <source>Role ID</source>
+        <target xml:lang="fr" state="translated">ID du rôle</target>
+        <note>key: role.view.list.column.id</note>
       </trans-unit>
       <trans-unit id="26470561bbbd003c0ad30bf2cb29f7da50e7d690" resname="role.view.list.column.name">
         <source>Name</source>
