@@ -11,6 +11,11 @@
         <target xml:lang="fr" state="translated">Mauvais format</target>
         <note>key: ez.section.identifier.format</note>
       </trans-unit>
+      <trans-unit id="74dc0c29a623eb80ca8f6460f0176503c7785904" resname="js.error.empty.field">
+        <source>{fieldName} field is required</source>
+        <target xml:lang="fr" state="translated">Le champ {fieldName} est requis</target>
+        <note>key: js.error.empty.field</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
