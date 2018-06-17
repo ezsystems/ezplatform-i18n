@@ -171,6 +171,11 @@
         <target xml:lang="fr" state="translated">Supprimer les sections</target>
         <note>key: sections_delete_form.delete</note>
       </trans-unit>
+      <trans-unit id="6880a88558bf821ff5ca3266f2f4f42b6d911283" resname="swap_location_form.swap">
+        <source>Select content item</source>
+        <target xml:lang="fr" state="translated">Sélectionnez un élément de contenu</target>
+        <note>key: swap_location_form.swap</note>
+      </trans-unit>
       <trans-unit id="30b0c3c3e5e096a078005be2cc34bca6227ae381" resname="trash_empty_form.empty">
         <source>Delete permanently</source>
         <target xml:lang="fr" state="translated">Supprimer définitivement</target>
