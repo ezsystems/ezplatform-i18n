@@ -26,6 +26,16 @@
         <target xml:lang="fr" state="translated">Supprimer</target>
         <note>key: trash.delete</note>
       </trans-unit>
+      <trans-unit id="7883128cdfb813826271abe90b3a1f3190833ce6" resname="trash.empty">
+        <source>Trash is empty. Any content item you send to trash will end up here.</source>
+        <target xml:lang="fr" state="translated">La corbeille est vide. Tout élément de contenu que vous envoyez dans la corbeille apparaîtra ici.</target>
+        <note>key: trash.empty</note>
+      </trans-unit>
+      <trans-unit id="17b503b33de4f7e60958b7824dd959dd0144ae13" resname="trash.empty.success">
+        <source>Trash empty.</source>
+        <target xml:lang="fr" state="translated">La corbeille est vide.</target>
+        <note>key: trash.empty.success</note>
+      </trans-unit>
       <trans-unit id="eb7cd78bb919141f66cabfea95a60e0e6b02e9f4" resname="trash.headline">
         <source>Trash</source>
         <target xml:lang="fr" state="translated">Corbeille</target>
