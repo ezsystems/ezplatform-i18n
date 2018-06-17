@@ -16,10 +16,20 @@
         <target xml:lang="fr" state="translated">Sections</target>
         <note>key: limitation_type.section</note>
       </trans-unit>
+      <trans-unit id="196c8d4eec96ca42ccdd3605621d51e2b34b6d85" resname="policy.breadcrumb.add">
+        <source>Adding a new Policy</source>
+        <target xml:lang="fr" state="translated">Ajouter une nouvelle politique de sécurité</target>
+        <note>key: policy.breadcrumb.add</note>
+      </trans-unit>
       <trans-unit id="8a7079c136f19a37dc42a6192fb94a11d19105ad" resname="policy.breadcrumb.edit">
         <source>Edit limitations</source>
         <target xml:lang="fr" state="translated">Éditer les limitations</target>
         <note>key: policy.breadcrumb.edit</note>
+      </trans-unit>
+      <trans-unit id="41bcfef149f877e1abb0ce2cd2aa5afb713ea1de" resname="policy.limitation.identifier_tooltip">
+        <source>"%identifier%" Limitation</source>
+        <target xml:lang="fr" state="translated">Limitation de «%identifier%»</target>
+        <note>key: policy.limitation.identifier_tooltip</note>
       </trans-unit>
       <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none">
         <source>None</source>
@@ -65,6 +75,11 @@
         <source>Roles</source>
         <target xml:lang="fr" state="translated">Roles</target>
         <note>key: role.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="9756b39574125051ae4fcd1916f5ba8b065eceb9" resname="role.breadcrumb.view">
+        <source>%identifier%</source>
+        <target xml:lang="fr" state="translated">%identifier%</target>
+        <note>key: role.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="45788029a46cf9c1bc9a3d38077e86a99a650576" resname="role.breadcrumb.view.identifier">
         <source>Role "%identifier%"</source>
