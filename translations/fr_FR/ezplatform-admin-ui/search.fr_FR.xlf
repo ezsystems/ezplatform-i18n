@@ -159,6 +159,11 @@
         <target xml:lang="fr" state="translated">Type</target>
         <note>key: search.type</note>
       </trans-unit>
+      <trans-unit id="fe647ff0e12d67501403559464217be468dba3d8" resname="search.viewing">
+        <source>Viewing %viewing% out of %total% sub-items</source>
+        <target xml:lang="fr" state="translated">Affichage de %viewing% sous-éléments sur %total%</target>
+        <note>key: search.viewing</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
