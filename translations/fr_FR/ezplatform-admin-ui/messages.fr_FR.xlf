@@ -112,6 +112,16 @@
         <target xml:lang="fr" state="translated">N’importe quelle section</target>
         <note>key: search.section.any</note>
       </trans-unit>
+      <trans-unit id="1152c93462d8bed85642b961f01ed63a6f2525ab" resname="tab.locations.location_content_swap">
+        <source>Location Content Swap</source>
+        <target xml:lang="fr" state="translated">Échange d'emplacement de contenu</target>
+        <note>key: tab.locations.location_content_swap</note>
+      </trans-unit>
+      <trans-unit id="27d429c3dcff70494c4080957b05a9db5255f854" resname="tab.locations.swap_with_another">
+        <source>Swap the content item at this location with another</source>
+        <target xml:lang="fr" state="translated">Échanger le contenu de cet emplacement avec un autre</target>
+        <note>key: tab.locations.swap_with_another</note>
+      </trans-unit>
       <trans-unit id="ebe1352e4bc48c8ec1a4e5f7352c0d20f3d0a18f" resname="tab.view.content">
         <source>Content</source>
         <target xml:lang="fr" state="translated">Contenu</target>
