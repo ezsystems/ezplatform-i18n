@@ -16,6 +16,26 @@
         <target xml:lang="fr" state="translated">Sections</target>
         <note>key: limitation_type.section</note>
       </trans-unit>
+      <trans-unit id="5e91632f7d9ab6e55cf2df01163acebcb1a124d0" resname="limitation_type.subtree">
+        <source>Subtree</source>
+        <target xml:lang="fr" state="translated">Sous-arborescence</target>
+        <note>key: limitation_type.subtree</note>
+      </trans-unit>
+      <trans-unit id="0dbfb3fd5136aa1d54a82ba5e5f399c2908d26f2" resname="locations.select_subtree">
+        <source>Select Subtree</source>
+        <target xml:lang="fr" state="translated">Sélectionnez la sous-arborescence</target>
+        <note>key: locations.select_subtree</note>
+      </trans-unit>
+      <trans-unit id="df3bafbf431f3c222cebeaec45da0a089cf63736" resname="policy.add.set_limitation">
+        <source>Now you can set limitations for the policy.</source>
+        <target xml:lang="fr" state="translated">Maintenant vous pouvez définir des limites à la politique de sécurité.</target>
+        <note>key: policy.add.set_limitation</note>
+      </trans-unit>
+      <trans-unit id="d92993cb4cb3690f06c599b5f500a29fa23421c9" resname="policy.add.success">
+        <source>New policies in role '%role%' created.</source>
+        <target xml:lang="fr" state="translated">Nouvelles politiques pour le rôle «%role%» créées.</target>
+        <note>key: policy.add.success</note>
+      </trans-unit>
       <trans-unit id="196c8d4eec96ca42ccdd3605621d51e2b34b6d85" resname="policy.breadcrumb.add">
         <source>Adding a new Policy</source>
         <target xml:lang="fr" state="translated">Ajouter une nouvelle politique de sécurité</target>
