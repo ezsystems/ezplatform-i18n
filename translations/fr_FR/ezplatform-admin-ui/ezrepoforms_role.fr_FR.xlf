@@ -36,6 +36,11 @@
         <target xml:lang="fr" state="translated">Type</target>
         <note>key: role.policy.type</note>
       </trans-unit>
+      <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
+        <source>Choose a type</source>
+        <target xml:lang="fr" state="translated">Choisissez une politique</target>
+        <note>key: role.policy.type.choose</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
