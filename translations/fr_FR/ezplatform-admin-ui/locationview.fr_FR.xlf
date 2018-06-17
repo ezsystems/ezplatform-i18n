@@ -159,6 +159,11 @@
         <target xml:lang="fr" state="translated">Emplacements</target>
         <note>key: tab.name.locations</note>
       </trans-unit>
+      <trans-unit id="a483f367c17cc75d6c5cf331f80e395b254cbbd6" resname="tab.name.policies">
+        <source>Policies</source>
+        <target xml:lang="fr" state="translated">Politiques de sécurité</target>
+        <note>key: tab.name.policies</note>
+      </trans-unit>
       <trans-unit id="8954433abc5d011c00f81f317c7eebec41fbb1c0" resname="tab.name.relations">
         <source>Relations</source>
         <target xml:lang="fr" state="translated">Relations</target>
@@ -233,6 +238,16 @@
         <source>Field</source>
         <target xml:lang="fr" state="translated">Champ </target>
         <note>key: tab.relations.table.relation_type.field</note>
+      </trans-unit>
+      <trans-unit id="cd43dc791bb87dda363d311d449b68d5876392d1" resname="tab.relations.table.relation_type.link">
+        <source>Link</source>
+        <target xml:lang="fr" state="translated">Lien</target>
+        <note>key: tab.relations.table.relation_type.link</note>
+      </trans-unit>
+      <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
+        <source>Add Translation</source>
+        <target xml:lang="fr" state="translated">Ajouter une traduction</target>
+        <note>key: tab.translations.action.add</note>
       </trans-unit>
       <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
         <source>Delete Translation</source>
