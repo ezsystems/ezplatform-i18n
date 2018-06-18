@@ -11,6 +11,21 @@
         <target xml:lang="nb" state="translated">Rediger</target>
         <note>key: content_type.action.edit</note>
       </trans-unit>
+      <trans-unit id="0aef83746d192c9b507ecabebe250aeb684cc210" resname="content_type.breadcrumb.create">
+        <source>Creating a new Content Type</source>
+        <target xml:lang="nb" state="translated">Oppretter en ny innholdstype</target>
+        <note>key: content_type.breadcrumb.create</note>
+      </trans-unit>
+      <trans-unit id="7dd9e32add81dba08bfbaefaac9442a7e7dbb6ae" resname="content_type.breadcrumb.edit">
+        <source>%identifier%</source>
+        <target xml:lang="nb" state="translated">%identifier%</target>
+        <note>key: content_type.breadcrumb.edit</note>
+      </trans-unit>
+      <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
+        <source>%identifier%</source>
+        <target xml:lang="nb" state="translated">%identifier%</target>
+        <note>key: content_type.breadcrumb.view</note>
+      </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
         <target xml:lang="nb" state="translated">Beholder</target>
@@ -28,8 +43,11 @@
       </trans-unit>
       <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability">
         <source>Default content availability</source>
-        <target xml:lang="nb" state="translated">Standard tilgjengelighet for innhold</target>
+        <target xml:lang="nb" state="translated">Standard språk tilgjengelighet for innhold</target>
         <note>key: content_type.default_availability</note>
+        <alt-trans>
+          <target xml:lang="nb">Standard tilgjengelighet for innhold</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help">
         <source>Default availability in primary language, if translation is absent</source>
@@ -51,10 +69,25 @@
         <target xml:lang="nb" state="translated">Standard sorteringsrekkefølge</target>
         <note>key: content_type.default_sort</note>
       </trans-unit>
+      <trans-unit id="5ecc210ad42274409db7ec4e56ba286b487639c6" resname="content_type.delete.success">
+        <source>Content type '%name%' deleted.</source>
+        <target xml:lang="nb" state="translated">Innholdstypen '%name%' er slettet.</target>
+        <note>key: content_type.delete.success</note>
+      </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
         <source>Description</source>
         <target xml:lang="nb" state="translated">Beskrivelse</target>
         <note>key: content_type.description</note>
+      </trans-unit>
+      <trans-unit id="2f9cb676bb073af7a8e4b52b374384dfc0aa9551" resname="content_type.edit.error.already_exists">
+        <source>Draft of the Content Type '%name%' already exists and is locked by '%userContentName%'</source>
+        <target xml:lang="nb" state="translated">Utkast til innholdstypen '%name%' finnes allerede og er låst av '%userContentName% '</target>
+        <note>key: content_type.edit.error.already_exists</note>
+      </trans-unit>
+      <trans-unit id="9eb89a2f51954babc5ff51f9060cbcda91dcf408" resname="content_type.field_definitions.modal.message">
+        <source>Do you want to delete selected field definitions?</source>
+        <target xml:lang="nb" state="translated">Vil du slette valgte felt definisjon?</target>
+        <note>key: content_type.field_definitions.modal.message</note>
       </trans-unit>
       <trans-unit id="8bf6d91a6b0731a38103e04e03f3f9e8bf4459a1" resname="content_type.global_properties">
         <source>Global properties</source>
@@ -65,6 +98,11 @@
         <source>Identifier</source>
         <target xml:lang="nb" state="translated">Identifikator</target>
         <note>key: content_type.identifier</note>
+      </trans-unit>
+      <trans-unit id="02f6ddfcdd8bbd05cdd1b954503a3801288b74eb" resname="content_type.modal.message">
+        <source>Do you want to delete Content Type?</source>
+        <target xml:lang="nb" state="translated">Vil du slette innholdstypen?</target>
+        <note>key: content_type.modal.message</note>
       </trans-unit>
       <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
         <source>Name</source>
@@ -81,6 +119,11 @@
         <target xml:lang="nb" state="translated">Stigende</target>
         <note>key: content_type.sort_field.ascending</note>
       </trans-unit>
+      <trans-unit id="c699d43b72ab990a33d92d85bc5c773078d8c62d" resname="content_type.sort_field.content_id">
+        <source>Content ID</source>
+        <target xml:lang="nb" state="translated">Innholds-ID</target>
+        <note>key: content_type.sort_field.content_id</note>
+      </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth">
         <source>Location depth</source>
         <target xml:lang="nb" state="translated">Plasseringsdybde</target>
@@ -90,6 +133,11 @@
         <source>Descending</source>
         <target xml:lang="nb" state="translated">Synkende</target>
         <note>key: content_type.sort_field.descending</note>
+      </trans-unit>
+      <trans-unit id="afb48eb0ff69f32e95393be9247ac7ba40d61142" resname="content_type.sort_field.location_id">
+        <source>Location ID</source>
+        <target xml:lang="nb" state="translated">Plasserings-ID</target>
+        <note>key: content_type.sort_field.location_id</note>
       </trans-unit>
       <trans-unit id="187a5f274b61172d6e478830081210a75b9f916d" resname="content_type.sort_field.location_path">
         <source>Location path</source>
@@ -121,10 +169,20 @@
         <target xml:lang="nb" state="translated">Seksjonsidentifikator</target>
         <note>key: content_type.sort_field.section_identifier</note>
       </trans-unit>
+      <trans-unit id="48d3eb66c0f8928777189eab11eae254866852b2" resname="content_type.update.success">
+        <source>Content type '%name%' updated.</source>
+        <target xml:lang="nb" state="translated">Innholdstypen '%name%' er oppdatert.</target>
+        <note>key: content_type.update.success</note>
+      </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
         <source>URL alias name pattern</source>
         <target xml:lang="nb" state="translated">Mønster for navn på URL-alias</target>
         <note>key: content_type.url_alias_schema</note>
+      </trans-unit>
+      <trans-unit id="30f5ddb258e0ab8c31381ec10d9a90f7071bbf6f" resname="content_type.user_name.can_not_be_fetched">
+        <source>another user</source>
+        <target xml:lang="nb" state="translated">en annen bruker</target>
+        <note>key: content_type.user_name.can_not_be_fetched</note>
       </trans-unit>
       <trans-unit id="56a9f26e930ab0493fc9cb9609318ea699cf8b76" resname="content_type.view.create.content_field_definitions">
         <source>Content field definitions</source>
@@ -136,6 +194,16 @@
         <target xml:lang="nb" state="translated">Globale egenskaper</target>
         <note>key: content_type.view.create.global_properties</note>
       </trans-unit>
+      <trans-unit id="4f63ade40ae91a9ad39e4be7b9e4f51003f1f4b3" resname="content_type.view.create.title">
+        <source>Creating a new Content Type</source>
+        <target xml:lang="nb" state="translated">Oppretter en ny innholdstype</target>
+        <note>key: content_type.view.create.title</note>
+      </trans-unit>
+      <trans-unit id="621f64c5f4acef41bca216c9d712860e3438f742" resname="content_type.view.edit.content_field_definition.delete">
+        <source>Delete Content field definition</source>
+        <target xml:lang="nb" state="translated">Slette innholdsfeltdefinisjonen</target>
+        <note>key: content_type.view.edit.content_field_definition.delete</note>
+      </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
         <source>Content field definitions</source>
         <target xml:lang="nb" state="translated">Innholdsfeltdefinisjoner</target>
@@ -145,6 +213,21 @@
         <source>Global properties</source>
         <target xml:lang="nb" state="translated">Globale egenskaper</target>
         <note>key: content_type.view.edit.global_properties</note>
+      </trans-unit>
+      <trans-unit id="7eee653a60490713df6bcf4b847853020b79a1ee" resname="content_type.view.edit.title">
+        <source>Editing Content Type: %name%</source>
+        <target xml:lang="nb" state="translated">Redigerer innholdstype: %name%</target>
+        <note>key: content_type.view.edit.title</note>
+      </trans-unit>
+      <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
+        <source>Create a Content Type</source>
+        <target xml:lang="nb" state="translated">Opprett en innholdstype</target>
+        <note>key: content_type.view.list.action.add</note>
+      </trans-unit>
+      <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
+        <source>Delete Content Type</source>
+        <target xml:lang="nb" state="translated">Slett innholdstype</target>
+        <note>key: content_type.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
         <source>ID</source>
@@ -165,6 +248,16 @@
         <source>Name</source>
         <target xml:lang="nb" state="translated">Navn</target>
         <note>key: content_type.view.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="7c8c43d61131312dbeeeac5dc536a4f95154f33d" resname="content_type.view.list.title">
+        <source>Content Types in %identifier%</source>
+        <target xml:lang="nb" state="translated">Innholdstyper i %identifier%</target>
+        <note>key: content_type.view.list.title</note>
+      </trans-unit>
+      <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
+        <source>%name%</source>
+        <target xml:lang="nb" state="translated">%name%</target>
+        <note>key: content_type.view.view.title</note>
       </trans-unit>
       <trans-unit id="e7cbc2b974608f280aa2b412d4c7836c7a56946d" resname="content_type_group.create.name">
         <source>Name</source>
