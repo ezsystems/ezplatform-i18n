@@ -264,6 +264,21 @@
         <target xml:lang="nb" state="translated">Opprette en ny innholdstypegruppe</target>
         <note>key: content_type_group.breadcrumb.add</note>
       </trans-unit>
+      <trans-unit id="20ee2fba1b6d560dd296bbe696975e92b78ce578" resname="content_type_group.breadcrumb.edit">
+        <source>Editing Content Type Group "%identifier%"</source>
+        <target xml:lang="nb" state="translated">Redigerer Innholdstypegruppe "%identifier%"</target>
+        <note>key: content_type_group.breadcrumb.edit</note>
+      </trans-unit>
+      <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
+        <source>Content Types</source>
+        <target xml:lang="nb" state="translated">Innholdstyper</target>
+        <note>key: content_type_group.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
+        <source>%identifier%</source>
+        <target xml:lang="nb" state="translated">%identifier%</target>
+        <note>key: content_type_group.breadcrumb.view</note>
+      </trans-unit>
       <trans-unit id="e7cbc2b974608f280aa2b412d4c7836c7a56946d" resname="content_type_group.create.name">
         <source>Name</source>
         <target xml:lang="nb" state="translated">Navn</target>
@@ -274,15 +289,35 @@
         <target xml:lang="nb" state="translated">Opprett</target>
         <note>key: content_type_group.create.submit</note>
       </trans-unit>
+      <trans-unit id="00f7021226b49438a6e4b36cfd212b9553deb762" resname="content_type_group.create.success">
+        <source>Content type group '%name%' created.</source>
+        <target xml:lang="nb" state="translated">Innholdstypegruppen '%name%' er opprettet.</target>
+        <note>key: content_type_group.create.success</note>
+      </trans-unit>
       <trans-unit id="eec79e4a9109f28892797768f085eab39eaedc31" resname="content_type_group.delete.submit">
         <source>Delete</source>
         <target xml:lang="nb" state="translated">Slett</target>
         <note>key: content_type_group.delete.submit</note>
       </trans-unit>
+      <trans-unit id="7d3672fcf2f0e1982152c4e6759bd03143f9f028" resname="content_type_group.delete.success">
+        <source>Content type group '%name%' deleted.</source>
+        <target xml:lang="nb" state="translated">Innholdstypegruppen '%name%' slettet.</target>
+        <note>key: content_type_group.delete.success</note>
+      </trans-unit>
+      <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message">
+        <source>Do you want to delete Content Type Group?</source>
+        <target xml:lang="nb" state="translated">Vil du slette innholdstypegruppen?</target>
+        <note>key: content_type_group.modal.message</note>
+      </trans-unit>
       <trans-unit id="4c6dfb0b81f5b9d70fed0dda3840f0677ece9570" resname="content_type_group.update.name">
         <source>Name</source>
         <target xml:lang="nb" state="translated">Navn</target>
         <note>key: content_type_group.update.name</note>
+      </trans-unit>
+      <trans-unit id="d44e2ddf0ee9d2e6fcb0b4f2c49a2b579d629588" resname="content_type_group.update.submit">
+        <source>Update</source>
+        <target xml:lang="nb" state="translated">Oppdater</target>
+        <note>key: content_type_group.update.submit</note>
       </trans-unit>
       <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
         <source>Edit</source>
