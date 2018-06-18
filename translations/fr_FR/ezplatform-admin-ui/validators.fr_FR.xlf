@@ -26,10 +26,25 @@
         <target xml:lang="fr" state="translated">L'emplacement sélectionné n’est pas un conteneur.</target>
         <note>key: ezplatform.copy_subtree.is_not_container</note>
       </trans-unit>
+      <trans-unit id="631da4c4fb5b000ee7f5c0c422e830ca192341a6" resname="ezplatform.copy_subtree.limit_exceeded">
+        <source>Copy subtree limit exceeded. Current limit: %currentLimit%</source>
+        <target xml:lang="fr" state="translated">La limite pour la copie de la sous-arborescence est dépassée. Limite actuelle : %currentLimit%</target>
+        <note>key: ezplatform.copy_subtree.limit_exceeded</note>
+      </trans-unit>
+      <trans-unit id="58f9ad2e8a8df010fb8abb25e39b46f2ccf92294" resname="ezplatform.reset_user_password.passwords_must_match">
+        <source>The password fields must match.</source>
+        <target xml:lang="fr" state="translated">Les champs mot de passe doivent correspondre.</target>
+        <note>key: ezplatform.reset_user_password.passwords_must_match</note>
+      </trans-unit>
       <trans-unit id="74dc0c29a623eb80ca8f6460f0176503c7785904" resname="js.error.empty.field">
         <source>{fieldName} field is required</source>
         <target xml:lang="fr" state="translated">Le champ {fieldName} est requis</target>
         <note>key: js.error.empty.field</note>
+      </trans-unit>
+      <trans-unit id="21c38818d1cb73ff54f0dc0b184d6de25058f24d" resname="js.error.invalid_url">
+        <source>A valid URL is required</source>
+        <target xml:lang="fr" state="translated">Une URL valide est nécessaire</target>
+        <note>key: js.error.invalid_url</note>
       </trans-unit>
     </body>
   </file>
