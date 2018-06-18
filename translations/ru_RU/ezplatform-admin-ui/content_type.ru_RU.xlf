@@ -31,6 +31,11 @@
         <target xml:lang="ru" state="translated">Контейнер</target>
         <note>key: content_type.container</note>
       </trans-unit>
+      <trans-unit id="694d6cbecfee848cf42a300c0b310f45ece6a09b" resname="content_type.content_field_definitions">
+        <source>Content field definitions</source>
+        <target xml:lang="ru" state="translated">Определения содержания полей</target>
+        <note>key: content_type.content_field_definitions</note>
+      </trans-unit>
       <trans-unit id="da59e6ae77cae375a30d7285970b1b2d9690049e" resname="content_type.sort_field.ascending">
         <source>Ascending</source>
         <target xml:lang="ru" state="translated">По возрастанию</target>
