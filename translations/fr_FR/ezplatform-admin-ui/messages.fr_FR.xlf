@@ -81,6 +81,16 @@
         <target xml:lang="fr" state="translated">Quelque chose c'est mal passé. Désolé !</target>
         <note>key: error.page.default.title</note>
       </trans-unit>
+      <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
+        <source>Add author</source>
+        <target xml:lang="fr" state="translated">Ajouter un auteur</target>
+        <note>key: ezauthor.action.add</note>
+      </trans-unit>
+      <trans-unit id="3a0389d073f00ef9a968a5cdc60e2794b434b381" resname="ezauthor.action.delete">
+        <source>Remove author</source>
+        <target xml:lang="fr" state="translated">Supprimer l'auteur</target>
+        <note>key: ezauthor.action.delete</note>
+      </trans-unit>
       <trans-unit id="ffb6990d5e75fe6dc86e94166b77e40a79e4e2a3" resname="ezplatform.forgot_user_password.login">
         <source>This email is connected with several accounts. Please enter your login.</source>
         <target xml:lang="fr" state="translated">Cet e-mail est connecté avec plusieurs comptes. Entrez votre nom d’utilisateur.</target>
