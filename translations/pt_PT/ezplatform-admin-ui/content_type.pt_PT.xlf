@@ -41,8 +41,11 @@
       </trans-unit>
       <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type">
         <source>Content Type</source>
-        <target xml:lang="pt-PT" state="translated">Tipo do conteúdo</target>
+        <target xml:lang="pt-PT" state="translated">Tipo de Conteúdo</target>
         <note>key: content_type.content_type</note>
+        <alt-trans>
+          <target xml:lang="pt-PT">Tipo do conteúdo</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability">
         <source>Default content availability</source>
@@ -369,10 +372,20 @@
         <target xml:lang="pt-PT" state="translated">Criar um Grupo de Tipo de Conteúdo</target>
         <note>key: content_type_group.view.list.action.add</note>
       </trans-unit>
+      <trans-unit id="ceb2e962eccd99d66a600df886fb1ff3253c2f16" resname="content_type_group.view.list.action.delete">
+        <source>Delete Content Type Group</source>
+        <target xml:lang="pt-PT" state="translated">Apagar Grupo de Tipo de Conteúdo</target>
+        <note>key: content_type_group.view.list.action.delete</note>
+      </trans-unit>
       <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
         <source>Edit</source>
         <target xml:lang="pt-PT" state="translated">Editar</target>
         <note>key: content_type_group.view.list.action.edit</note>
+      </trans-unit>
+      <trans-unit id="125bee275441fe2bd28cb9388b790c634d8ae3c6" resname="content_type_group.view.list.column.content_types_count">
+        <source>Content Types count</source>
+        <target xml:lang="pt-PT" state="translated">Número de Tipos de Conteúdo</target>
+        <note>key: content_type_group.view.list.column.content_types_count</note>
       </trans-unit>
       <trans-unit id="cd462ce30cd4d0b21393e24ca2c9e974369c1f57" resname="content_type_group.view.list.column.id">
         <source>ID</source>
@@ -384,6 +397,31 @@
         <target xml:lang="pt-PT" state="translated">Nome</target>
         <note>key: content_type_group.view.list.column.identifier</note>
       </trans-unit>
+      <trans-unit id="9522e89ad894375dcf878ae282bdd793946fc375" resname="content_type_group.view.list.title">
+        <source>Content Type Groups</source>
+        <target xml:lang="pt-PT" state="translated">Grupos de Tipo de Conteúdo</target>
+        <note>key: content_type_group.view.list.title</note>
+      </trans-unit>
+      <trans-unit id="1769b5258d896d9ccb207c09e04534ce9a01c571" resname="content_type_group.view.view.title">
+        <source>%identifier%</source>
+        <target xml:lang="pt-PT" state="translated">%identifier%</target>
+        <note>key: content_type_group.view.view.title</note>
+      </trans-unit>
+      <trans-unit id="62ac918fce5389cd868b988e65b4ab96477a1344" resname="location_update_form.sort_field">
+        <source>Sort field</source>
+        <target xml:lang="pt-PT" state="translated">Ordenar campo</target>
+        <note>key: location_update_form.sort_field</note>
+      </trans-unit>
+      <trans-unit id="7d29fb5b1206bd3313bd2eb6c078ab72c244545a" resname="location_update_form.sort_order">
+        <source>Sort order</source>
+        <target xml:lang="pt-PT" state="translated">Ordenação</target>
+        <note>key: location_update_form.sort_order</note>
+      </trans-unit>
+      <trans-unit id="2bb23a852a2a16458d2dad6931debc447564dff2" resname="location_update_form.update">
+        <source>Update</source>
+        <target xml:lang="pt-PT" state="translated">Actualizar</target>
+        <note>key: location_update_form.update</note>
+      </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
         <source>Cancel</source>
         <target xml:lang="pt-PT" state="translated">Cancelar</target>
@@ -393,6 +431,11 @@
         <source>Delete</source>
         <target xml:lang="pt-PT" state="translated">Remover</target>
         <note>key: modal.delete</note>
+      </trans-unit>
+      <trans-unit id="3e9deeb426f08a404990a6926d70558955272593" resname="yes_no">
+        <source>{0}No|{1}Yes</source>
+        <target xml:lang="pt-PT" state="translated">{0}Não|{1}Sim</target>
+        <note>key: yes_no</note>
       </trans-unit>
     </body>
   </file>
