@@ -71,10 +71,20 @@
         <target xml:lang="fr" state="translated">Quelque chose c'est mal passé. Désolé !</target>
         <note>key: error.page.404.title</note>
       </trans-unit>
+      <trans-unit id="8338c190462d420926edf71e8d4cddcae710d361" resname="error.page.default.message">
+        <source>It's an error 500, an internal server error. The server was unable to complete your request and it's not your fault.</source>
+        <target xml:lang="fr" state="translated">C'est une erreur 500, une erreur de serveur interne. Le serveur n’a pas pu répondre à votre demande, et ce n’est pas votre faute.</target>
+        <note>key: error.page.default.message</note>
+      </trans-unit>
       <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title">
         <source>Something went wrong. Sorry!</source>
         <target xml:lang="fr" state="translated">Quelque chose c'est mal passé. Désolé !</target>
         <note>key: error.page.default.title</note>
+      </trans-unit>
+      <trans-unit id="ffb6990d5e75fe6dc86e94166b77e40a79e4e2a3" resname="ezplatform.forgot_user_password.login">
+        <source>This email is connected with several accounts. Please enter your login.</source>
+        <target xml:lang="fr" state="translated">Cet e-mail est connecté avec plusieurs comptes. Entrez votre nom d’utilisateur.</target>
+        <note>key: ezplatform.forgot_user_password.login</note>
       </trans-unit>
       <trans-unit id="36aa6723300a41ba80ee0096c0d2bcf34fd48aca" resname="ezplatform.forgot_user_password.success">
         <source><![CDATA[<p>We have sent an email to the email address of your account. You should receive the email shortly.</p>
