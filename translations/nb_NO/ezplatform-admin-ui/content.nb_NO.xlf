@@ -13,8 +13,14 @@
       </trans-unit>
       <trans-unit id="5f36fd5bb4e6938a731079f403467900e0396ed2" resname="content.main_location_update.success">
         <source>Main location for '%name%' updated.</source>
-        <target xml:lang="nb" state="translated">Hoved lokasjon for '%name%' oppdatert.</target>
+        <target xml:lang="nb" state="translated">Hovedplasseringen for '%name%' oppdatert.</target>
         <note>key: content.main_location_update.success</note>
+        <alt-trans>
+          <target xml:lang="nb">Hoveplassering for '%name%' oppdatert.</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="nb">Hoved lokasjon for '%name%' oppdatert.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="4492a79e25635e7612f98971e02b4d0e6a408394" resname="user.delete.success">
         <source>User with login '%login%' deleted.</source>
