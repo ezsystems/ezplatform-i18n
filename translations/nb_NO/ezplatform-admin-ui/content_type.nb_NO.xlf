@@ -259,6 +259,11 @@
         <target xml:lang="nb" state="translated">%name%</target>
         <note>key: content_type.view.view.title</note>
       </trans-unit>
+      <trans-unit id="d74d01091280ceabfb457980ddd459dc841ad957" resname="content_type_group.breadcrumb.add">
+        <source>Creating a new Content Type Group</source>
+        <target xml:lang="nb" state="translated">Opprette en ny innholdstypegruppe</target>
+        <note>key: content_type_group.breadcrumb.add</note>
+      </trans-unit>
       <trans-unit id="e7cbc2b974608f280aa2b412d4c7836c7a56946d" resname="content_type_group.create.name">
         <source>Name</source>
         <target xml:lang="nb" state="translated">Navn</target>
