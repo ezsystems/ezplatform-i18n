@@ -6,6 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="5c48ac36c2a46c2dc2a89fd4c91a2a3d684eb5d8" resname="tab.urls.action.add">
+        <source>Add Custom URL</source>
+        <target xml:lang="nb" state="translated">Legge til egendefinert URL</target>
+        <note>key: tab.urls.action.add</note>
+      </trans-unit>
+      <trans-unit id="9b4504fd2e75dffb2c22283be3e9816e8142538a" resname="tab.urls.action.delete">
+        <source>Delete Custom URL</source>
+        <target xml:lang="nb" state="translated">Slette egendefinerte URL</target>
+        <note>key: tab.urls.action.delete</note>
+      </trans-unit>
       <trans-unit id="2398a15c604fd353b25fc8f558e2d099a6afeb33" resname="tab.urls.add.cancel">
         <source>Cancel</source>
         <target xml:lang="nb" state="translated">Avbryt</target>
@@ -20,6 +30,21 @@
         <source>URL</source>
         <target xml:lang="nb" state="translated">URL</target>
         <note>key: tab.urls.add.path</note>
+      </trans-unit>
+      <trans-unit id="89135eef0092aa6e6609d38d013230705894f219" resname="tab.urls.add.redirect">
+        <source>Alias should redirect to its destination</source>
+        <target xml:lang="nb" state="translated">Aliaset skal viderekoble til målet</target>
+        <note>key: tab.urls.add.redirect</note>
+      </trans-unit>
+      <trans-unit id="e84da49f6798548a0e09f5f7d5095788257f0119" resname="tab.urls.add.redirect.helper.checked">
+        <source>Checked will redirect to the destination using an HTTP 301 response.</source>
+        <target xml:lang="nb" state="translated">Om valgt vil viderekoble til målet med en HTTP 301 respons.</target>
+        <note>key: tab.urls.add.redirect.helper.checked</note>
+      </trans-unit>
+      <trans-unit id="bccfa7be40c2932ae04a50767aee2184bd5ca4d5" resname="tab.urls.add.redirect.helper.unchecked">
+        <source>Unchecked will not redirect to the destination and the URL will stay the same.</source>
+        <target xml:lang="nb" state="translated">Ikke valgt vil ikke viderekoble til målet, og URL vil forbli den samme.</target>
+        <note>key: tab.urls.add.redirect.helper.unchecked</note>
       </trans-unit>
       <trans-unit id="5a1947624cf55689d80d38b7583bac538da641bb" resname="tab.urls.language">
         <source>Language</source>
