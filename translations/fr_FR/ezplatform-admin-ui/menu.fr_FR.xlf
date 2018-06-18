@@ -157,6 +157,11 @@
         <target xml:lang="fr" state="translated">Langues</target>
         <note>key: main__admin__languages</note>
       </trans-unit>
+      <trans-unit id="1d350945e7732f519fd5d2f6a69c926a193d6146" resname="main__admin__object_states">
+        <source>Object States</source>
+        <target xml:lang="fr" state="translated">États d'objet</target>
+        <note>key: main__admin__object_states</note>
+      </trans-unit>
       <trans-unit id="8a5845bd0e93b67b2ac54a06f2eae85f2cb3b13d" resname="main__admin__roles">
         <source>Roles</source>
         <target xml:lang="fr" state="translated">Roles</target>
