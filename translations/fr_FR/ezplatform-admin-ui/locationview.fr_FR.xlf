@@ -49,6 +49,11 @@
         <target xml:lang="fr" state="translated">Détails du contenu</target>
         <note>key: tab.details.content_details</note>
       </trans-unit>
+      <trans-unit id="6e1488d3bb54efc176d8766d3c22751b06890e2f" resname="tab.details.content_id">
+        <source>Content ID</source>
+        <target xml:lang="fr" state="translated">ID du contenu</target>
+        <note>key: tab.details.content_id</note>
+      </trans-unit>
       <trans-unit id="dc195b32e812b751daa7a3321844c9712e1460ba" resname="tab.details.creator">
         <source>Creator</source>
         <target xml:lang="fr" state="translated">Créateur</target>
