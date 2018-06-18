@@ -46,6 +46,26 @@
         <target xml:lang="fr" state="translated">Une URL valide est nécessaire</target>
         <note>key: js.error.invalid_url</note>
       </trans-unit>
+      <trans-unit id="615db469cfe0c995622a179cc4e7402299acd607" resname="js.error.is_greater">
+        <source>{fieldName} value should be less than or equal to {maxValue}</source>
+        <target xml:lang="fr" state="translated">La valeur du champ {fieldName} doit être inférieure ou égale à {maxValue}</target>
+        <note>key: js.error.is_greater</note>
+      </trans-unit>
+      <trans-unit id="183ac24611110626431660e39c7b66a408796e22" resname="js.error.is_less">
+        <source>{fieldName} value should be greater than or equal to {minValue}</source>
+        <target xml:lang="fr" state="translated">La valeur du champ {fieldName} doit être supérieur ou égal à {minValue}</target>
+        <note>key: js.error.is_less</note>
+      </trans-unit>
+      <trans-unit id="4fb6689be5f8ff74f3f86c7af72bdeb92c74bd53" resname="js.error.is_not_float">
+        <source>{fieldName} value should be a float number</source>
+        <target xml:lang="fr" state="translated">La valeur du champ {fieldName} doit être un nombre flottant</target>
+        <note>key: js.error.is_not_float</note>
+      </trans-unit>
+      <trans-unit id="f9cf14c56aca4bc1c2bccd9cae839ff0d3f3cd36" resname="js.error.is_not_integer">
+        <source>{fieldName} value should be an integer</source>
+        <target xml:lang="fr" state="translated">La valeur du champ {fieldName} doit être un entier</target>
+        <note>key: js.error.is_not_integer</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
