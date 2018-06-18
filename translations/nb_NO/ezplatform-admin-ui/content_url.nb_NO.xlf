@@ -75,10 +75,30 @@
         <target xml:lang="nb" state="translated">Opprette nye URL alias</target>
         <note>key: tab.urls.add.title</note>
       </trans-unit>
+      <trans-unit id="d244966cab8b41f92fd5553d8f33f0e1ca8bf85f" resname="tab.urls.custom_url_aliases">
+        <source>Custom URL aliases for %contentName%</source>
+        <target xml:lang="nb" state="translated">Egendefinerte URL aliaser for %contentName%</target>
+        <note>key: tab.urls.custom_url_aliases</note>
+      </trans-unit>
       <trans-unit id="5a1947624cf55689d80d38b7583bac538da641bb" resname="tab.urls.language">
         <source>Language</source>
         <target xml:lang="nb" state="translated">Språk</target>
         <note>key: tab.urls.language</note>
+      </trans-unit>
+      <trans-unit id="0d3138c0198569f427ab4568fffa5d9d894db72a" resname="tab.urls.modal.message">
+        <source>Do you want to delete selected Custom URLs?</source>
+        <target xml:lang="nb" state="translated">Vil du fjerne valgte egendefinerte URL'er?</target>
+        <note>key: tab.urls.modal.message</note>
+      </trans-unit>
+      <trans-unit id="777d1a83ab6a6c4644dd31409906e48a0a7a4a51" resname="tab.urls.modal_close">
+        <source>Close</source>
+        <target xml:lang="nb" state="translated">Lukk</target>
+        <note>key: tab.urls.modal_close</note>
+      </trans-unit>
+      <trans-unit id="56d218db883ed4cc59dbbca53364dc2e725013e4" resname="tab.urls.no_custom_urls">
+        <source>This content item has no custom url aliases.</source>
+        <target xml:lang="nb" state="translated">Dette innholdselementet har ingen egendefinerte Url-aliaser.</target>
+        <note>key: tab.urls.no_custom_urls</note>
       </trans-unit>
       <trans-unit id="0de66a25f1019287cf737f27622ca4d05f582764" resname="tab.urls.type">
         <source>Type</source>
