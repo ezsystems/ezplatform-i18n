@@ -31,6 +31,11 @@
         <target xml:lang="fr" state="translated">L'emplacement sélectionné ne peut pas être la racine.</target>
         <note>key: ezplatform.copy_subtree.is_root</note>
       </trans-unit>
+      <trans-unit id="fc7e56b8b26344ec7393604951e1fb2199069e18" resname="ezplatform.copy_subtree.is_sub_location">
+        <source>Target parent location is a sub location of the source subtree</source>
+        <target xml:lang="fr" state="translated">L'emplacement parent sélectionné est un sous emplacement de l'arborescence source</target>
+        <note>key: ezplatform.copy_subtree.is_sub_location</note>
+      </trans-unit>
       <trans-unit id="631da4c4fb5b000ee7f5c0c422e830ca192341a6" resname="ezplatform.copy_subtree.limit_exceeded">
         <source>Copy subtree limit exceeded. Current limit: %currentLimit%</source>
         <target xml:lang="fr" state="translated">La limite pour la copie de la sous-arborescence est dépassée. Limite actuelle : %currentLimit%</target>
