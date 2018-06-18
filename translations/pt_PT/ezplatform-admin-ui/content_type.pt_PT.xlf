@@ -11,6 +11,21 @@
         <target xml:lang="pt-PT" state="translated">Editar</target>
         <note>key: content_type.action.edit</note>
       </trans-unit>
+      <trans-unit id="0aef83746d192c9b507ecabebe250aeb684cc210" resname="content_type.breadcrumb.create">
+        <source>Creating a new Content Type</source>
+        <target xml:lang="pt-PT" state="translated">Criando um novo Content Type</target>
+        <note>key: content_type.breadcrumb.create</note>
+      </trans-unit>
+      <trans-unit id="7dd9e32add81dba08bfbaefaac9442a7e7dbb6ae" resname="content_type.breadcrumb.edit">
+        <source>%identifier%</source>
+        <target xml:lang="pt-PT" state="translated">%identifier%</target>
+        <note>key: content_type.breadcrumb.edit</note>
+      </trans-unit>
+      <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
+        <source>%identifier%</source>
+        <target xml:lang="pt-PT" state="translated">%identifier%</target>
+        <note>key: content_type.breadcrumb.view</note>
+      </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
         <target xml:lang="pt-PT" state="translated">Recipiente</target>
@@ -51,10 +66,23 @@
         <target xml:lang="pt-PT" state="translated">Ordenação por omissão</target>
         <note>key: content_type.default_sort</note>
       </trans-unit>
+      <trans-unit id="5ecc210ad42274409db7ec4e56ba286b487639c6" resname="content_type.delete.success">
+        <source>Content type '%name%' deleted.</source>
+        <target xml:lang="pt-PT" state="translated">Content type '%name%' apagado.</target>
+        <note>key: content_type.delete.success</note>
+      </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
         <source>Description</source>
         <target xml:lang="pt-PT" state="translated">Descrição</target>
         <note>key: content_type.description</note>
+      </trans-unit>
+      <trans-unit id="2f9cb676bb073af7a8e4b52b374384dfc0aa9551" resname="content_type.edit.error.already_exists">
+        <source>Draft of the Content Type '%name%' already exists and is locked by '%userContentName%'</source>
+        <target xml:lang="pt-PT" state="translated">Já existe um rascunho do Content Type '%name%' e está bloqueado por '%userContentName%'</target>
+        <note>key: content_type.edit.error.already_exists</note>
+        <alt-trans>
+          <target xml:lang="pt-PT">Já existe um rascunho do Content Type '%name%' e está bloquado por '%userContentName%'</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="8bf6d91a6b0731a38103e04e03f3f9e8bf4459a1" resname="content_type.global_properties">
         <source>Global properties</source>
