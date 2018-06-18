@@ -84,6 +84,11 @@
           <target xml:lang="pt-PT">Já existe um rascunho do Content Type '%name%' e está bloquado por '%userContentName%'</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="9eb89a2f51954babc5ff51f9060cbcda91dcf408" resname="content_type.field_definitions.modal.message">
+        <source>Do you want to delete selected field definitions?</source>
+        <target xml:lang="pt-PT" state="translated">Deseja apagar as definições dos campos seleccionados?</target>
+        <note>key: content_type.field_definitions.modal.message</note>
+      </trans-unit>
       <trans-unit id="8bf6d91a6b0731a38103e04e03f3f9e8bf4459a1" resname="content_type.global_properties">
         <source>Global properties</source>
         <target xml:lang="pt-PT" state="translated">Propriedades globais</target>
@@ -93,6 +98,11 @@
         <source>Identifier</source>
         <target xml:lang="pt-PT" state="translated">Identificador</target>
         <note>key: content_type.identifier</note>
+      </trans-unit>
+      <trans-unit id="02f6ddfcdd8bbd05cdd1b954503a3801288b74eb" resname="content_type.modal.message">
+        <source>Do you want to delete Content Type?</source>
+        <target xml:lang="pt-PT" state="translated">Deseja apagar Content Type?</target>
+        <note>key: content_type.modal.message</note>
       </trans-unit>
       <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
         <source>Name</source>
@@ -109,6 +119,14 @@
         <target xml:lang="pt-PT" state="translated">Ascendente</target>
         <note>key: content_type.sort_field.ascending</note>
       </trans-unit>
+      <trans-unit id="c699d43b72ab990a33d92d85bc5c773078d8c62d" resname="content_type.sort_field.content_id">
+        <source>Content ID</source>
+        <target xml:lang="pt-PT" state="translated">ID de Conteúdo</target>
+        <note>key: content_type.sort_field.content_id</note>
+        <alt-trans>
+          <target xml:lang="pt-PT">Content ID</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth">
         <source>Location depth</source>
         <target xml:lang="pt-PT" state="translated">Profundidade de localização</target>
@@ -118,6 +136,11 @@
         <source>Descending</source>
         <target xml:lang="pt-PT" state="translated">Descendente</target>
         <note>key: content_type.sort_field.descending</note>
+      </trans-unit>
+      <trans-unit id="afb48eb0ff69f32e95393be9247ac7ba40d61142" resname="content_type.sort_field.location_id">
+        <source>Location ID</source>
+        <target xml:lang="pt-PT" state="translated">Location ID de Localização</target>
+        <note>key: content_type.sort_field.location_id</note>
       </trans-unit>
       <trans-unit id="187a5f274b61172d6e478830081210a75b9f916d" resname="content_type.sort_field.location_path">
         <source>Location path</source>
@@ -149,10 +172,20 @@
         <target xml:lang="pt-PT" state="translated">Identificador da secção</target>
         <note>key: content_type.sort_field.section_identifier</note>
       </trans-unit>
+      <trans-unit id="48d3eb66c0f8928777189eab11eae254866852b2" resname="content_type.update.success">
+        <source>Content type '%name%' updated.</source>
+        <target xml:lang="pt-PT" state="translated">Actualizado Tipo de Conteúdo '%name%'.</target>
+        <note>key: content_type.update.success</note>
+      </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
         <source>URL alias name pattern</source>
         <target xml:lang="pt-PT" state="translated">Padrão de nome de pseudónimo de URL</target>
         <note>key: content_type.url_alias_schema</note>
+      </trans-unit>
+      <trans-unit id="30f5ddb258e0ab8c31381ec10d9a90f7071bbf6f" resname="content_type.user_name.can_not_be_fetched">
+        <source>another user</source>
+        <target xml:lang="pt-PT" state="translated">outro utilizador</target>
+        <note>key: content_type.user_name.can_not_be_fetched</note>
       </trans-unit>
       <trans-unit id="56a9f26e930ab0493fc9cb9609318ea699cf8b76" resname="content_type.view.create.content_field_definitions">
         <source>Content field definitions</source>
@@ -164,6 +197,16 @@
         <target xml:lang="pt-PT" state="translated">Propriedades globais</target>
         <note>key: content_type.view.create.global_properties</note>
       </trans-unit>
+      <trans-unit id="4f63ade40ae91a9ad39e4be7b9e4f51003f1f4b3" resname="content_type.view.create.title">
+        <source>Creating a new Content Type</source>
+        <target xml:lang="pt-PT" state="translated">Criado um novo Tipo de Conteúdo</target>
+        <note>key: content_type.view.create.title</note>
+      </trans-unit>
+      <trans-unit id="621f64c5f4acef41bca216c9d712860e3438f742" resname="content_type.view.edit.content_field_definition.delete">
+        <source>Delete Content field definition</source>
+        <target xml:lang="pt-PT" state="translated">Apagar definição de campo Conteúdo</target>
+        <note>key: content_type.view.edit.content_field_definition.delete</note>
+      </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
         <source>Content field definitions</source>
         <target xml:lang="pt-PT" state="translated">Definições de campo de conteúdo</target>
@@ -173,6 +216,21 @@
         <source>Global properties</source>
         <target xml:lang="pt-PT" state="translated">Propriedades globais</target>
         <note>key: content_type.view.edit.global_properties</note>
+      </trans-unit>
+      <trans-unit id="7eee653a60490713df6bcf4b847853020b79a1ee" resname="content_type.view.edit.title">
+        <source>Editing Content Type: %name%</source>
+        <target xml:lang="pt-PT" state="translated">Editando Tipo de Conteúdo: %name%</target>
+        <note>key: content_type.view.edit.title</note>
+      </trans-unit>
+      <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
+        <source>Create a Content Type</source>
+        <target xml:lang="pt-PT" state="translated">Criar um Tipo de Conteúdo</target>
+        <note>key: content_type.view.list.action.add</note>
+      </trans-unit>
+      <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
+        <source>Delete Content Type</source>
+        <target xml:lang="pt-PT" state="translated">Apagar Tipo de Conteúdo</target>
+        <note>key: content_type.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
         <source>ID</source>
@@ -193,6 +251,36 @@
         <source>Name</source>
         <target xml:lang="pt-PT" state="translated">Nome</target>
         <note>key: content_type.view.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="7c8c43d61131312dbeeeac5dc536a4f95154f33d" resname="content_type.view.list.title">
+        <source>Content Types in %identifier%</source>
+        <target xml:lang="pt-PT" state="translated">Tipos de Conteúdo em %identifier%</target>
+        <note>key: content_type.view.list.title</note>
+      </trans-unit>
+      <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
+        <source>%name%</source>
+        <target xml:lang="pt-PT" state="translated">%name%</target>
+        <note>key: content_type.view.view.title</note>
+      </trans-unit>
+      <trans-unit id="d74d01091280ceabfb457980ddd459dc841ad957" resname="content_type_group.breadcrumb.add">
+        <source>Creating a new Content Type Group</source>
+        <target xml:lang="pt-PT" state="translated">Criando um novo Grupo de Tipo de Conteúdo</target>
+        <note>key: content_type_group.breadcrumb.add</note>
+      </trans-unit>
+      <trans-unit id="20ee2fba1b6d560dd296bbe696975e92b78ce578" resname="content_type_group.breadcrumb.edit">
+        <source>Editing Content Type Group "%identifier%"</source>
+        <target xml:lang="pt-PT" state="translated">Editando Grupo de Tipo de Conteúdo "%identifier%"</target>
+        <note>key: content_type_group.breadcrumb.edit</note>
+      </trans-unit>
+      <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
+        <source>Content Types</source>
+        <target xml:lang="pt-PT" state="translated">Tipos de Conteúdo</target>
+        <note>key: content_type_group.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
+        <source>%identifier%</source>
+        <target xml:lang="pt-PT" state="translated">%identifier%</target>
+        <note>key: content_type_group.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="e7cbc2b974608f280aa2b412d4c7836c7a56946d" resname="content_type_group.create.name">
         <source>Name</source>
