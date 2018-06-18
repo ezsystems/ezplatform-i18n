@@ -41,20 +41,41 @@
         <target xml:lang="ru" state="translated">Владелец</target>
         <note>key: dashboard.table.contributor</note>
       </trans-unit>
+      <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
+        <source>Edit Draft</source>
+        <target xml:lang="ru" state="translated">Редактировать</target>
+        <note>key: dashboard.table.draft.edit</note>
+      </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
         <source>Last Saved</source>
-        <target xml:lang="ru" state="translated">Последний раз сохранено</target>
+        <target xml:lang="ru" state="translated">Изменено</target>
         <note>key: dashboard.table.last_saved</note>
+        <alt-trans>
+          <target xml:lang="ru">Последний раз сохранено</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="ec988391649c3e25028a629b4e38dc426f4c4615" resname="dashboard.table.media.edit">
         <source>Edit Media</source>
         <target xml:lang="ru" state="translated">Изменить медиа</target>
         <note>key: dashboard.table.media.edit</note>
       </trans-unit>
+      <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
+        <source>Modified Language</source>
+        <target xml:lang="ru" state="translated">Язык</target>
+        <note>key: dashboard.table.modified_language</note>
+        <alt-trans>
+          <target xml:lang="ru">Измененный язык</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
         <source>Name</source>
         <target xml:lang="ru" state="translated">Название</target>
         <note>key: dashboard.table.name</note>
+      </trans-unit>
+      <trans-unit id="783d5adc52cea6b0cc80c2083158297f31a8d59d" resname="dashboard.table.version">
+        <source>Version</source>
+        <target xml:lang="ru" state="translated">Версия</target>
+        <note>key: dashboard.table.version</note>
       </trans-unit>
       <trans-unit id="a49a78f944bf1f73f3f7ff9672463bb1abd4a402" resname="everyone">
         <source>Everyone</source>
