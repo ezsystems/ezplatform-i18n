@@ -26,10 +26,40 @@
         <target xml:lang="fr" state="translated">Créer</target>
         <note>key: content_translation_add_form.add</note>
       </trans-unit>
+      <trans-unit id="0c3800a29144ab27e80a81e100212ccd5fd7e509" resname="content_translation_remove_form.remove">
+        <source>Remove translation</source>
+        <target xml:lang="fr" state="translated">Supprimer la traduction</target>
+        <note>key: content_translation_remove_form.remove</note>
+      </trans-unit>
+      <trans-unit id="4c29e9392116163c51f0e3d4d0c08ff96717f695" resname="content_type_groups_delete_form.delete">
+        <source>Delete content type groups</source>
+        <target xml:lang="fr" state="translated">Supprimer les groupes de type de contenu</target>
+        <note>key: content_type_groups_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="5f7545e2c370cd0511521d95d0309d264b5d16e5" resname="content_types_delete_form.delete">
+        <source>Delete content types</source>
+        <target xml:lang="fr" state="translated">Supprimer les types de contenu</target>
+        <note>key: content_types_delete_form.delete</note>
+      </trans-unit>
       <trans-unit id="390eb98ace269d5909c838416c36248c40895058" resname="ezplatform.change_user_password.confirm_new_password">
         <source>Confirm password</source>
         <target xml:lang="fr" state="translated">Confirmer mot de passe</target>
         <note>key: ezplatform.change_user_password.confirm_new_password</note>
+      </trans-unit>
+      <trans-unit id="43521bfea046f591270e027a69fc52cccc486e23" resname="ezplatform.change_user_password.new_password">
+        <source>New password</source>
+        <target xml:lang="fr" state="translated">Nouveau mot de passe</target>
+        <note>key: ezplatform.change_user_password.new_password</note>
+      </trans-unit>
+      <trans-unit id="7d2421be11a5351c12c952611c7a1a7f00f51cd9" resname="ezplatform.change_user_password.old_password">
+        <source>Old password</source>
+        <target xml:lang="fr" state="translated">Ancien mot de passe</target>
+        <note>key: ezplatform.change_user_password.old_password</note>
+      </trans-unit>
+      <trans-unit id="0f7bbe027d2c53c78c7b3ce938af6c0ef6c1c2e2" resname="ezplatform.forgot_user_password.reset">
+        <source>Reset</source>
+        <target xml:lang="fr" state="translated">Réinitialiser</target>
+        <note>key: ezplatform.forgot_user_password.reset</note>
       </trans-unit>
       <trans-unit id="0ad9197dcdbe88b1a05f099c564dc2b5634f8aa5" resname="ezplatform.language.create.enabled">
         <source>Enabled</source>
@@ -76,6 +106,21 @@
         <target xml:lang="fr" state="translated">Confirmer mot de passe</target>
         <note>key: ezplatform.reset_user_password.confirm_new_password</note>
       </trans-unit>
+      <trans-unit id="943fa9c11c71de16802dad7eea78690f53eb9888" resname="ezplatform.reset_user_password.new_password">
+        <source>New password</source>
+        <target xml:lang="fr" state="translated">Nouveau mot de passe</target>
+        <note>key: ezplatform.reset_user_password.new_password</note>
+      </trans-unit>
+      <trans-unit id="7f0836bb06a0030f7595c4c5d5d4079cdcece47f" resname="ezplatform.reset_user_password.update">
+        <source>Update</source>
+        <target xml:lang="fr" state="translated">Mettre à jour</target>
+        <note>key: ezplatform.reset_user_password.update</note>
+      </trans-unit>
+      <trans-unit id="a1e42d4c649f7fbb614729978fea692be51d1485" resname="languages_delete_form.delete">
+        <source>Delete languages</source>
+        <target xml:lang="fr" state="translated">Supprimer les langues</target>
+        <note>key: languages_delete_form.delete</note>
+      </trans-unit>
       <trans-unit id="e1f039c692df803a42d90f2bcd4f763623241bb2" resname="location_copy.copy">
         <source>Copy</source>
         <target xml:lang="fr" state="translated">Copier</target>
@@ -90,6 +135,11 @@
         <source>Send to Trash</source>
         <target xml:lang="fr" state="translated">Envoyer à la corbeille</target>
         <note>key: location_trash_form.trash</note>
+      </trans-unit>
+      <trans-unit id="f86cd366867d370b0706e250355f605e2b783229" resname="policies_delete_form.delete">
+        <source>Delete policies</source>
+        <target xml:lang="fr" state="translated">Supprimer les politiques de sécurité</target>
+        <note>key: policies_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="34ba9078fe178bd49df6ada9d8357455ee8ff7b3" resname="policy_create.save">
         <source>Create</source>
@@ -110,6 +160,16 @@
         <source>Delete</source>
         <target xml:lang="fr" state="translated">Supprimer</target>
         <note>key: role_assignment.delete</note>
+      </trans-unit>
+      <trans-unit id="cd67db3c5e3f56ce0c899e8858502933c1a5ed70" resname="role_assignment.groups">
+        <source>Group</source>
+        <target xml:lang="fr" state="translated">Groupe</target>
+        <note>key: role_assignment.groups</note>
+      </trans-unit>
+      <trans-unit id="90266f1e47b42712e761c7fea00fb8e8c949f37e" resname="role_assignment.save">
+        <source>Assign</source>
+        <target xml:lang="fr" state="translated">Assigner</target>
+        <note>key: role_assignment.save</note>
       </trans-unit>
       <trans-unit id="0bcd4dbd1300e2309dd541f817fef6bf5fc029d8" resname="role_assignment.sections">
         <source>Section</source>
@@ -140,6 +200,11 @@
         <source>Name</source>
         <target xml:lang="fr" state="translated">Nom</target>
         <note>key: role_update.name</note>
+      </trans-unit>
+      <trans-unit id="453d030fbc11c10c842807ff213039adfffbe051" resname="role_update.save">
+        <source>Update</source>
+        <target xml:lang="fr" state="translated">Mettre à jour</target>
+        <note>key: role_update.save</note>
       </trans-unit>
       <trans-unit id="2b8a62034311f415eba9826996495c2ddd076745" resname="roles_delete_form.delete">
         <source>Delete role</source>
