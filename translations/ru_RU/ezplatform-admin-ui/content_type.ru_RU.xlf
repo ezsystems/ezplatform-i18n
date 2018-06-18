@@ -36,6 +36,26 @@
         <target xml:lang="ru" state="translated">Определения содержания полей</target>
         <note>key: content_type.content_field_definitions</note>
       </trans-unit>
+      <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type">
+        <source>Content Type</source>
+        <target xml:lang="ru" state="translated">Тип контента</target>
+        <note>key: content_type.content_type</note>
+      </trans-unit>
+      <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability">
+        <source>Default content availability</source>
+        <target xml:lang="ru" state="translated">Доступность контента по умолчанию</target>
+        <note>key: content_type.default_availability</note>
+      </trans-unit>
+      <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help">
+        <source>Default availability in primary language, if translation is absent</source>
+        <target xml:lang="ru" state="translated">Доступность по умолчанию на основном языке, если перевод отсутствует</target>
+        <note>key: content_type.default_availability.help</note>
+      </trans-unit>
+      <trans-unit id="d14799b2ac8854ab3f0bb9976258c3db39213d09" resname="content_type.default_availability.value">
+        <source>{0} Not available|{1} Available</source>
+        <target xml:lang="ru" state="translated">{0} не доступны |{1} доступны</target>
+        <note>key: content_type.default_availability.value</note>
+      </trans-unit>
       <trans-unit id="da59e6ae77cae375a30d7285970b1b2d9690049e" resname="content_type.sort_field.ascending">
         <source>Ascending</source>
         <target xml:lang="ru" state="translated">По возрастанию</target>
