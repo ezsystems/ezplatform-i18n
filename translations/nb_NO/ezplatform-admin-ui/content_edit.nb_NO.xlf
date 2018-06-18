@@ -31,6 +31,34 @@
         <target xml:lang="nb" state="translated">Opprettet av %name%</target>
         <note>key: created_by</note>
       </trans-unit>
+      <trans-unit id="0474be007e2cbb859dcec4d70ced364af71ba119" resname="editing_in_language">
+        <source>Editing - %contentName% in %languageName%</source>
+        <target xml:lang="nb" state="translated">Redigerer - %contentName% i %languageName%</target>
+        <note>key: editing_in_language</note>
+        <alt-trans>
+          <target xml:lang="nb">Rediger - %contentName% i %languageName%</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="4e46e160f661315fed793049088d1426ae440b56" resname="editing_in_language_based_on">
+        <source>Editing - %contentName% in %languageName% based on %baseLanguageName%</source>
+        <target xml:lang="nb" state="translated">Redigerer - %contentName% i %languageName% basert på %baseLanguageName%</target>
+        <note>key: editing_in_language_based_on</note>
+      </trans-unit>
+      <trans-unit id="009667fab56f0bec66634f009a75ffd9425f2987" resname="fieldtype.translation_is_disabled">
+        <source>Translation for %fieldName% is disabled</source>
+        <target xml:lang="nb" state="translated">Oversettelse av %fieldName% er deaktivert</target>
+        <note>key: fieldtype.translation_is_disabled</note>
+      </trans-unit>
+      <trans-unit id="876d7bdba03c72251ec4c2dc827fc54af7889091" resname="location_id">
+        <source>Location ID: %locationId%</source>
+        <target xml:lang="nb" state="translated">Lokasjons ID: %locationId%</target>
+        <note>key: location_id</note>
+      </trans-unit>
+      <trans-unit id="cce4ced380a283ffdecf364aeb5312ee001e6601" resname="parent_location_id">
+        <source>Parent Location ID: %locationId%</source>
+        <target xml:lang="nb" state="translated">Overordnet plasserings ID: %locationId%</target>
+        <note>key: parent_location_id</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
