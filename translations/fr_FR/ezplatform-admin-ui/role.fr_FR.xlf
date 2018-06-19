@@ -91,6 +91,16 @@
         <target xml:lang="fr" state="translated">Politiques de sécurité (%count%)</target>
         <note>key: policy.view.list.title.count</note>
       </trans-unit>
+      <trans-unit id="43008c999ece1587436507732b3c1166c393f05c" resname="role.breadcrumb.add">
+        <source>Creating a new Role</source>
+        <target xml:lang="fr" state="translated">Création d’un nouveau rôle</target>
+        <note>key: role.breadcrumb.add</note>
+      </trans-unit>
+      <trans-unit id="9cdc3dd417b63308f19cadbe01f74c21565b9947" resname="role.breadcrumb.edit">
+        <source>Editing Role: %identifier%</source>
+        <target xml:lang="fr" state="translated">Édition du rôle: %identifier%</target>
+        <note>key: role.breadcrumb.edit</note>
+      </trans-unit>
       <trans-unit id="03e72944d22126b885a65f885ebf8f1b8e2f8579" resname="role.breadcrumb.list">
         <source>Roles</source>
         <target xml:lang="fr" state="translated">Roles</target>
@@ -105,6 +115,21 @@
         <source>Role "%identifier%"</source>
         <target xml:lang="fr" state="translated">Rôle «%identifier%»</target>
         <note>key: role.breadcrumb.view.identifier</note>
+      </trans-unit>
+      <trans-unit id="59754dcca61db396ef9de8abd3aa63645bd50f65" resname="role.create.success">
+        <source>Role '%role%' created.</source>
+        <target xml:lang="fr" state="translated">Rôle «%role%» a été créé.</target>
+        <note>key: role.create.success</note>
+      </trans-unit>
+      <trans-unit id="20c6318c88508393b9cb8413a6d7e61649f80ab3" resname="role.delete.success">
+        <source>Role '%role%' removed.</source>
+        <target xml:lang="fr" state="translated">Rôle «%role%» a été supprimé.</target>
+        <note>key: role.delete.success</note>
+      </trans-unit>
+      <trans-unit id="b8faa90fed74479d8cdb01dc2c0e1af8a79cf9b1" resname="role.modal.message">
+        <source>Do you want to delete Role?</source>
+        <target xml:lang="fr" state="translated">Voulez-vous vraiment supprimer le rôle ?</target>
+        <note>key: role.modal.message</note>
       </trans-unit>
       <trans-unit id="18990f93cd60432ec47a75934185b7edbd3d17bf" resname="role.view.list.action.assign_to_users_or_groups">
         <source>Assign to Users/Groups</source>
