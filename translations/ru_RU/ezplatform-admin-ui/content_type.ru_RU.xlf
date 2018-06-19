@@ -286,10 +286,50 @@
         <target xml:lang="ru" state="translated">Создать</target>
         <note>key: content_type_group.create.submit</note>
       </trans-unit>
+      <trans-unit id="00f7021226b49438a6e4b36cfd212b9553deb762" resname="content_type_group.create.success">
+        <source>Content type group '%name%' created.</source>
+        <target xml:lang="ru" state="translated">Тип содержимого «%name%» обновлен.</target>
+        <note>key: content_type_group.create.success</note>
+      </trans-unit>
+      <trans-unit id="eec79e4a9109f28892797768f085eab39eaedc31" resname="content_type_group.delete.submit">
+        <source>Delete</source>
+        <target xml:lang="ru" state="translated">Удалить</target>
+        <note>key: content_type_group.delete.submit</note>
+      </trans-unit>
+      <trans-unit id="7d3672fcf2f0e1982152c4e6759bd03143f9f028" resname="content_type_group.delete.success">
+        <source>Content type group '%name%' deleted.</source>
+        <target xml:lang="ru" state="translated">Группа типов содержимого «%name%» удалена.</target>
+        <note>key: content_type_group.delete.success</note>
+      </trans-unit>
       <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message">
         <source>Do you want to delete Content Type Group?</source>
         <target xml:lang="ru" state="translated">Вы хотите удалить группу типа контента?</target>
         <note>key: content_type_group.modal.message</note>
+      </trans-unit>
+      <trans-unit id="4c6dfb0b81f5b9d70fed0dda3840f0677ece9570" resname="content_type_group.update.name">
+        <source>Name</source>
+        <target xml:lang="ru" state="translated">Название</target>
+        <note>key: content_type_group.update.name</note>
+      </trans-unit>
+      <trans-unit id="d44e2ddf0ee9d2e6fcb0b4f2c49a2b579d629588" resname="content_type_group.update.submit">
+        <source>Update</source>
+        <target xml:lang="ru" state="translated">Обновить</target>
+        <note>key: content_type_group.update.submit</note>
+      </trans-unit>
+      <trans-unit id="ff50d4b8d26d81f538b0ebabc392cbb05b6da162" resname="content_type_group.update.success">
+        <source>Content type group '%name%' updated.</source>
+        <target xml:lang="ru" state="translated">Группа типов содержимого «%name%» обновлена.</target>
+        <note>key: content_type_group.update.success</note>
+      </trans-unit>
+      <trans-unit id="1bd4c745d76ae79ef7e95baea27281fff04e77f6" resname="content_type_group.view.add.title">
+        <source>Creating a new Content Type Group</source>
+        <target xml:lang="ru" state="translated">Создание новой группы типа содержимого</target>
+        <note>key: content_type_group.view.add.title</note>
+      </trans-unit>
+      <trans-unit id="1b6ebace1ed08d4e8de6a84a5523e19b53dfd443" resname="content_type_group.view.edit.title">
+        <source>Editing Content Type Group "%identifier%"</source>
+        <target xml:lang="ru" state="translated">Редактирование типа группы содержимого «%identifier%»</target>
+        <note>key: content_type_group.view.edit.title</note>
       </trans-unit>
       <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
         <source>Create a Content Type Group</source>
@@ -325,6 +365,41 @@
         <source>Content Type Groups</source>
         <target xml:lang="ru" state="translated">Группы типов контента</target>
         <note>key: content_type_group.view.list.title</note>
+      </trans-unit>
+      <trans-unit id="1769b5258d896d9ccb207c09e04534ce9a01c571" resname="content_type_group.view.view.title">
+        <source>%identifier%</source>
+        <target xml:lang="ru" state="translated">%identifier%</target>
+        <note>key: content_type_group.view.view.title</note>
+      </trans-unit>
+      <trans-unit id="62ac918fce5389cd868b988e65b4ab96477a1344" resname="location_update_form.sort_field">
+        <source>Sort field</source>
+        <target xml:lang="ru" state="translated">Поле сортировки</target>
+        <note>key: location_update_form.sort_field</note>
+      </trans-unit>
+      <trans-unit id="7d29fb5b1206bd3313bd2eb6c078ab72c244545a" resname="location_update_form.sort_order">
+        <source>Sort order</source>
+        <target xml:lang="ru" state="translated">Порядок Сортировки</target>
+        <note>key: location_update_form.sort_order</note>
+      </trans-unit>
+      <trans-unit id="2bb23a852a2a16458d2dad6931debc447564dff2" resname="location_update_form.update">
+        <source>Update</source>
+        <target xml:lang="ru" state="translated">Обновить</target>
+        <note>key: location_update_form.update</note>
+      </trans-unit>
+      <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
+        <source>Cancel</source>
+        <target xml:lang="ru" state="translated">Отменить</target>
+        <note>key: modal.cancel</note>
+      </trans-unit>
+      <trans-unit id="9eae227b7c27ab230a6d0ce5947d93e7d2e1626f" resname="modal.delete">
+        <source>Delete</source>
+        <target xml:lang="ru" state="translated">Удалить</target>
+        <note>key: modal.delete</note>
+      </trans-unit>
+      <trans-unit id="3e9deeb426f08a404990a6926d70558955272593" resname="yes_no">
+        <source>{0}No|{1}Yes</source>
+        <target xml:lang="ru" state="translated">{0}Нет | {1}Да</target>
+        <note>key: yes_no</note>
       </trans-unit>
     </body>
   </file>
