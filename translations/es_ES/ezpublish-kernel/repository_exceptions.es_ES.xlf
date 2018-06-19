@@ -128,6 +128,77 @@
         <note>key: FieldType '%fieldType%' not found, needs to be implemented or configured to use FieldType\Null\Type (%ezpublish.fieldType.eznull.class%)</note>
         <jms:reference-file line="32">eZ/Publish/Core/Base/Exceptions/NotFound/FieldTypeNotFoundException.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="25f2ccabd8883a36aee5754ce43741c211cf378a" resname="FieldType '%identifier%' is singular and can't be repeated in a ContentType">
+        <source>FieldType '%identifier%' is singular and can't be repeated in a ContentType</source>
+        <target xml:lang="es-ES" state="translated">El identificador de campo '%identifier%' no se puede repetir dentro del mismo Tipo de Contenido</target>
+        <note>key: FieldType '%identifier%' is singular and can't be repeated in a ContentType</note>
+      </trans-unit>
+      <trans-unit id="b592a161a19d303272498874fb27a71626461be7" resname="Limitation '%limitation%' not found, needs to be implemented or configured to use Limitation\BlockingLimitationType (%ezpublish.api.role.limitation_type.blocking.class%">
+        <source>Limitation '%limitation%' not found, needs to be implemented or configured to use Limitation\BlockingLimitationType (%ezpublish.api.role.limitation_type.blocking.class%</source>
+        <target xml:lang="es-ES" state="translated">La limitación '%limitation%' no ha sido encontrada. Necesita ser implementada o configurada para usar Limitation\BlockingLimitationType (%ezpublish.api.role.limitation_type.blocking.class%)</target>
+        <note>key: Limitation '%limitation%' not found, needs to be implemented or configured to use Limitation\BlockingLimitationType (%ezpublish.api.role.limitation_type.blocking.class%</note>
+        <jms:reference-file line="32">eZ/Publish/Core/Base/Exceptions/NotFound/LimitationNotFoundException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="71fd5f8839faaadfe7c61def7e4b42d429959952" resname="Limitations did not validate">
+        <source>Limitations did not validate</source>
+        <target xml:lang="es-ES" state="translated">Las limintaciones no se han podido validar</target>
+        <note>key: Limitations did not validate</note>
+        <jms:reference-file line="40">eZ/Publish/Core/Base/Exceptions/LimitationValidationException.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f915c78ee350c1b4fb3d3adac7584a12fcc0cfdf" resname="Only empty content type groups can be deleted">
+        <source>Only empty content type groups can be deleted</source>
+        <target xml:lang="es-ES" state="translated">Solo los grupos de tipo de contenido vacíos pueden ser eliminados</target>
+        <note>key: Only empty content type groups can be deleted</note>
+        <jms:reference-file line="141">eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="87b49727a4d83168066183cbed772c1bbdfb63f8" resname="Only version in status DRAFT can be published">
+        <source>Only version in status DRAFT can be published</source>
+        <target xml:lang="es-ES" state="translated">Solo versiones en estado DRAFT pueden ser publicadas</target>
+        <note>key: Only version in status DRAFT can be published</note>
+        <jms:reference-file line="513">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d75253ee3a0502ae44236a6556419822252f8849" resname="Only version in status DRAFT can be updated">
+        <source>Only version in status DRAFT can be updated</source>
+        <target xml:lang="es-ES" state="translated">Solo las versiones en estado DRAFT se pueden actualizar</target>
+        <note>key: Only version in status DRAFT can be updated</note>
+        <jms:reference-file line="461">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3467ebb6448f4d8dd9f8a99cbea79415f25fa26d" resname="Path '%path%' already exists for the given language">
+        <source>Path '%path%' already exists for the given language</source>
+        <target xml:lang="es-ES" state="translated">La ruta de acceso '%path%' ya existe para el idioma dado</target>
+        <note>key: Path '%path%' already exists for the given language</note>
+        <jms:reference-file line="397">eZ/Publish/Core/Persistence/Legacy/Content/UrlAlias/Handler.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b2d83ff8d535b64b36eaab04237a3091fc10ee5a" resname="Placeholders are not matching with wildcards.">
+        <source>Placeholders are not matching with wildcards.</source>
+        <target xml:lang="es-ES" state="translated">Los marcadores de posición no se corresponden con caracteres comodín.</target>
+        <note>key: Placeholders are not matching with wildcards.</note>
+        <jms:reference-file line="102">eZ/Publish/Core/Repository/URLWildcardService.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d750946e6e0689d003a701bf1db100b12a742c4f" resname="Provided content type does not contain ezuser field type">
+        <source>Provided content type does not contain ezuser field type</source>
+        <target xml:lang="es-ES" state="translated">El tipo de contenido provisto no contiene un campo de tipo ezuser</target>
+        <note>key: Provided content type does not contain ezuser field type</note>
+        <jms:reference-file line="422">eZ/Publish/Core/Repository/UserService.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c13178e601c4bf79ad9ef57efe468ed438a9b167" resname="Relation is not of type COMMON">
+        <source>Relation is not of type COMMON</source>
+        <target xml:lang="es-ES" state="translated">La relación no esl del tipo COMMON</target>
+        <note>key: Relation is not of type COMMON</note>
+        <jms:reference-file line="645">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8da63ffae0f9707c46ca02d66e9074e7f9f538d6" resname="Relation of type COMMON can only be added to drafts">
+        <source>Relation of type COMMON can only be added to drafts</source>
+        <target xml:lang="es-ES" state="translated">Las relaciones de tipo COMMON solo se pueden añadir a los borradores</target>
+        <note>key: Relation of type COMMON can only be added to drafts</note>
+        <jms:reference-file line="684">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="388dae35f493b4e06e6458455f4837b1691fd72b" resname="Relation of type COMMON can only be removed from drafts">
+        <source>Relation of type COMMON can only be removed from drafts</source>
+        <target xml:lang="es-ES" state="translated">Las relaciones de tipo COMMON solo pueden eliminarse desde los borradores</target>
+        <note>key: Relation of type COMMON can only be removed from drafts</note>
+        <jms:reference-file line="649">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="5f722d4df65d72e23fbf62ea8a5adadaf249413c" resname="expected value to be of type '%expectedType%', got '%actualType%'">
         <source>expected value to be of type '%expectedType%', got '%actualType%'</source>
         <target xml:lang="es-ES" state="translated">se esperaba un valor de tipo '%expectedType%', pero es de tipo ' %actualType%'</target>
