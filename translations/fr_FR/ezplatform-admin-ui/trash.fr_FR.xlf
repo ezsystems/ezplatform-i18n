@@ -28,8 +28,11 @@
       </trans-unit>
       <trans-unit id="7883128cdfb813826271abe90b3a1f3190833ce6" resname="trash.empty">
         <source>Trash is empty. Any content item you send to trash will end up here.</source>
-        <target xml:lang="fr" state="translated">La corbeille est vide. Tout élément de contenu que vous envoyez dans la corbeille apparaîtra ici.</target>
+        <target xml:lang="fr" state="translated">La corbeille est vide. Tout les éléments de contenu que vous envoyez dans la corbeille apparaîtront ici.</target>
         <note>key: trash.empty</note>
+        <alt-trans>
+          <target xml:lang="fr">La corbeille est vide. Tout élément de contenu que vous envoyez dans la corbeille apparaîtra ici.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="17b503b33de4f7e60958b7824dd959dd0144ae13" resname="trash.empty.success">
         <source>Trash empty.</source>
