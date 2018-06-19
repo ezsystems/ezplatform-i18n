@@ -144,6 +144,11 @@
         <target xml:lang="fr" state="translated">Essayez des mots clés différents.</target>
         <note>key: search.tips.different_keywords</note>
       </trans-unit>
+      <trans-unit id="013ced9a3284ecebf5a5356397dc9a79eaf76496" resname="search.tips.fewer_keywords">
+        <source>Try fewer keywords. Reducing keywords result in more matches.</source>
+        <target xml:lang="fr" state="translated">Essayez avec moins de mots clés. Réduire le nombre de mots clés peut générer plus de résultats.</target>
+        <note>key: search.tips.fewer_keywords</note>
+      </trans-unit>
       <trans-unit id="4af1e76946070e5f61320621d12a171f4206e06c" resname="search.tips.headline">
         <source>Some helpful search tips:</source>
         <target xml:lang="fr" state="translated">Quelques conseils utiles de recherche :</target>
