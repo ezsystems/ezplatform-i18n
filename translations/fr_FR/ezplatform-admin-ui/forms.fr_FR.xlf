@@ -41,6 +41,11 @@
         <target xml:lang="fr" state="translated">Supprimer les types de contenu</target>
         <note>key: content_types_delete_form.delete</note>
       </trans-unit>
+      <trans-unit id="56281d5c292a4fe95f9b1af5ae0b1deaebab7342" resname="ezplatform.change_user_password.change">
+        <source>Change</source>
+        <target xml:lang="fr" state="translated">Modifier</target>
+        <note>key: ezplatform.change_user_password.change</note>
+      </trans-unit>
       <trans-unit id="390eb98ace269d5909c838416c36248c40895058" resname="ezplatform.change_user_password.confirm_new_password">
         <source>Confirm password</source>
         <target xml:lang="fr" state="translated">Confirmer mot de passe</target>
@@ -55,6 +60,16 @@
         <source>Old password</source>
         <target xml:lang="fr" state="translated">Ancien mot de passe</target>
         <note>key: ezplatform.change_user_password.old_password</note>
+      </trans-unit>
+      <trans-unit id="859bfc3d21113eecb4a19d4a9305f2519eb4b331" resname="ezplatform.forgot_user_password.email">
+        <source>Enter your email address:</source>
+        <target xml:lang="fr" state="translated">Entrer votre adresse email :</target>
+        <note>key: ezplatform.forgot_user_password.email</note>
+      </trans-unit>
+      <trans-unit id="ffb6990d5e75fe6dc86e94166b77e40a79e4e2a3" resname="ezplatform.forgot_user_password.login">
+        <source>Enter your login:</source>
+        <target xml:lang="fr" state="translated">Entrez votre nom d’utilisateur :</target>
+        <note>key: ezplatform.forgot_user_password.login</note>
       </trans-unit>
       <trans-unit id="0f7bbe027d2c53c78c7b3ce938af6c0ef6c1c2e2" resname="ezplatform.forgot_user_password.reset">
         <source>Reset</source>
@@ -166,6 +181,11 @@
         <target xml:lang="fr" state="translated">Groupe</target>
         <note>key: role_assignment.groups</note>
       </trans-unit>
+      <trans-unit id="710f8e6ab682db07141d71bc6df5246988a0560f" resname="role_assignment.locations">
+        <source>Choose Locations</source>
+        <target xml:lang="fr" state="translated">Choisir les emplacements</target>
+        <note>key: role_assignment.locations</note>
+      </trans-unit>
       <trans-unit id="90266f1e47b42712e761c7fea00fb8e8c949f37e" resname="role_assignment.save">
         <source>Assign</source>
         <target xml:lang="fr" state="translated">Assigner</target>
@@ -180,6 +200,11 @@
         <source>User</source>
         <target xml:lang="fr" state="translated">Utilisateur</target>
         <note>key: role_assignment.users</note>
+      </trans-unit>
+      <trans-unit id="5f9be66217c70fdbd734a1ccb5968aae96bbdcd0" resname="role_assignments_delete_form.delete">
+        <source>Delete role assignments</source>
+        <target xml:lang="fr" state="translated">Supprimer les assignations du rôle</target>
+        <note>key: role_assignments_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="e36e86d3568ccc02a097560444b35c69c469c531" resname="role_create.name">
         <source>Name</source>
