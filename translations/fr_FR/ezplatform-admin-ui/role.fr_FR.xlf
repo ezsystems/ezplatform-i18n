@@ -56,6 +56,11 @@
         <target xml:lang="fr" state="translated">Les politiques de sécurité du rôle «%role%» ont été supprimées.</target>
         <note>key: policy.delete.success</note>
       </trans-unit>
+      <trans-unit id="9c322357fb302e5b708bc1c11c287d8a4e4859ec" resname="policy.edit.no_limitations">
+        <source>Policy type '%policy%' does not contain limitations.</source>
+        <target xml:lang="fr" state="translated">La police de sécurité «%policy%» n'a pas de limitations.</target>
+        <note>key: policy.edit.no_limitations</note>
+      </trans-unit>
       <trans-unit id="41bcfef149f877e1abb0ce2cd2aa5afb713ea1de" resname="policy.limitation.identifier_tooltip">
         <source>"%identifier%" Limitation</source>
         <target xml:lang="fr" state="translated">Limitation de «%identifier%»</target>
@@ -130,6 +135,11 @@
         <source>Assignments on role '%role%' created.</source>
         <target xml:lang="fr" state="translated">Les assignations du rôle '%role%' ont été créées.</target>
         <note>key: role.assignment_create.success</note>
+      </trans-unit>
+      <trans-unit id="f684c343da285bc7273d4671a257d2731ccc83a2" resname="role.assignment_delete.success">
+        <source>Assignment on role '%role%' removed.</source>
+        <target xml:lang="fr" state="translated">Les assignations du rôle '%role%' ont été supprimées.</target>
+        <note>key: role.assignment_delete.success</note>
       </trans-unit>
       <trans-unit id="43008c999ece1587436507732b3c1166c393f05c" resname="role.breadcrumb.add">
         <source>Creating a new Role</source>
