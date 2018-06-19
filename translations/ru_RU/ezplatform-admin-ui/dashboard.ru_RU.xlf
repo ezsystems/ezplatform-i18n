@@ -11,6 +11,11 @@
         <target xml:lang="ru" state="translated">Создать</target>
         <note>key: dashboard.create</note>
       </trans-unit>
+      <trans-unit id="8f2d000c044a9f04c457499e57f6fbbb8360e23f" resname="dashboard.tab.all_content.empty">
+        <source>No content items. Content items you create will appear here</source>
+        <target xml:lang="ru" state="translated">Нет записей. Ваши записи появятся здесь</target>
+        <note>key: dashboard.tab.all_content.empty</note>
+      </trans-unit>
       <trans-unit id="cf10aced822b4dfb2cb519a82ed0adabaa4e480e" resname="dashboard.tab.my_drafts.empty">
         <source>No content items. Draft items you create will appear here</source>
         <target xml:lang="ru" state="translated">Нет записей. Ваши черновики появятся здесь</target>
