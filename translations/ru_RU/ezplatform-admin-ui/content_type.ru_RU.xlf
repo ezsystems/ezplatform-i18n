@@ -56,6 +56,26 @@
         <target xml:lang="ru" state="translated">{0} не доступны |{1} доступны</target>
         <note>key: content_type.default_availability.value</note>
       </trans-unit>
+      <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting">
+        <source>Default field for sorting children</source>
+        <target xml:lang="ru" state="translated">По умолчанию поле для сортировки вложенных элементов</target>
+        <note>key: content_type.default_children_sorting</note>
+      </trans-unit>
+      <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
+        <source>Default sort order</source>
+        <target xml:lang="ru" state="translated">Сортировка по умолчанию</target>
+        <note>key: content_type.default_sort</note>
+      </trans-unit>
+      <trans-unit id="5ecc210ad42274409db7ec4e56ba286b487639c6" resname="content_type.delete.success">
+        <source>Content type '%name%' deleted.</source>
+        <target xml:lang="ru" state="translated">Тип контента «%name%» удален.</target>
+        <note>key: content_type.delete.success</note>
+      </trans-unit>
+      <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
+        <source>Description</source>
+        <target xml:lang="ru" state="translated">Описание</target>
+        <note>key: content_type.description</note>
+      </trans-unit>
       <trans-unit id="da59e6ae77cae375a30d7285970b1b2d9690049e" resname="content_type.sort_field.ascending">
         <source>Ascending</source>
         <target xml:lang="ru" state="translated">По возрастанию</target>
