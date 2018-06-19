@@ -48,6 +48,12 @@
         <note>key: role.identifier</note>
         <jms:reference-file line="44">lib/Form/Type/Role/RoleUpdateType.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="6345474b02b9503fc624bf2e4c781130f58d9d41" resname="role.policy.all_modules">
+        <source>All modules</source>
+        <target xml:lang="es-ES" state="translated">Todos los módulos</target>
+        <note>key: role.policy.all_modules</note>
+        <jms:reference-file line="54">/../../../../.././lib/Form/Type/Role/PolicyType.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="d4690e1d0c7d2cf0468ab5aa04caa891e1b5efbd" resname="role.policy.all_modules_all_functions">
         <source>All modules / All functions</source>
         <target xml:lang="es-ES" state="translated">Todos los módulos / Todas las funciones</target>
@@ -84,11 +90,23 @@
         <note>key: role.policy.limitation.location.udw_title</note>
         <jms:reference-file line="5">bundle/Resources/views/Limitation/udw_limitation_value.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="be8159ab7985797bd281cb0f7f58bb4d2c925159" resname="role.policy.limitation.not_implemented">
+        <source>Limitation edition for '%limitationTypeIdentifier%' is not implemented yet.</source>
+        <target xml:lang="es-ES" state="translated">La limitación de edición para '%limitationTypeIdentifier%' aún no está implementada.</target>
+        <note>key: role.policy.limitation.not_implemented</note>
+        <jms:reference-file line="3">bundle/Resources/views/Limitation/null_limitation_values.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="2651baeac233ce0e4ec974e260d8e0873197f3fc" resname="role.policy.save">
         <source>Save</source>
         <target xml:lang="es-ES" state="translated">Guardar</target>
         <note>key: role.policy.save</note>
         <jms:reference-file line="98">lib/Form/Type/Role/PolicyType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cab53821c4e3d4cc647df19c3c1f1541e86b4a54" resname="role.policy.save_and_add_limitation">
+        <source>Save and add limitations</source>
+        <target xml:lang="es-ES" state="translated">Guardar y añadir limitaciones</target>
+        <note>key: role.policy.save_and_add_limitation</note>
+        <jms:reference-file line="112">lib/Form/Type/Role/PolicyType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
         <source>Policy type</source>
