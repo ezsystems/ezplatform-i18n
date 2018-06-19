@@ -201,6 +201,51 @@
         <target xml:lang="ru" state="translated">Удалить определение содержания полей</target>
         <note>key: content_type.view.edit.content_field_definition.delete</note>
       </trans-unit>
+      <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
+        <source>Content field definitions</source>
+        <target xml:lang="ru" state="translated">Определения содержания полей</target>
+        <note>key: content_type.view.edit.content_field_definitions</note>
+      </trans-unit>
+      <trans-unit id="a32a5e3d2d67da43b4c5f0f5574c90520868b36a" resname="content_type.view.edit.global_properties">
+        <source>Global properties</source>
+        <target xml:lang="ru" state="translated">Глобальные свойства</target>
+        <note>key: content_type.view.edit.global_properties</note>
+      </trans-unit>
+      <trans-unit id="7eee653a60490713df6bcf4b847853020b79a1ee" resname="content_type.view.edit.title">
+        <source>Editing Content Type: %name%</source>
+        <target xml:lang="ru" state="translated">Редактирование типа содержимого: %name%</target>
+        <note>key: content_type.view.edit.title</note>
+      </trans-unit>
+      <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
+        <source>Create a Content Type</source>
+        <target xml:lang="ru" state="translated">Создание нового типа содержимого</target>
+        <note>key: content_type.view.list.action.add</note>
+      </trans-unit>
+      <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
+        <source>Delete Content Type</source>
+        <target xml:lang="ru" state="translated">Удалить тип содержимого</target>
+        <note>key: content_type.view.list.action.delete</note>
+      </trans-unit>
+      <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
+        <source>ID</source>
+        <target xml:lang="ru" state="translated">Идентификатор</target>
+        <note>key: content_type.view.list.column.id</note>
+      </trans-unit>
+      <trans-unit id="5a5fe831f20f47949b0a54d76cfa897898794b77" resname="content_type.view.list.column.identifier">
+        <source>Identifier</source>
+        <target xml:lang="ru" state="translated">Идентификатор</target>
+        <note>key: content_type.view.list.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="234d8921b4886a1d76feed234bec3123db55fed4" resname="content_type.view.list.column.modification_date">
+        <source>Modification date</source>
+        <target xml:lang="ru" state="translated">Дата изменения</target>
+        <note>key: content_type.view.list.column.modification_date</note>
+      </trans-unit>
+      <trans-unit id="288545756241beae1bdb8aa600b829506bb7acaf" resname="content_type.view.list.column.name">
+        <source>Name</source>
+        <target xml:lang="ru" state="translated">Название</target>
+        <note>key: content_type.view.list.column.name</note>
+      </trans-unit>
       <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
         <source>Content Types</source>
         <target xml:lang="ru" state="translated">Типы контента</target>
