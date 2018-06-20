@@ -91,6 +91,11 @@
         <target xml:lang="nb" state="translated">Avbryt</target>
         <note>key: trash.form.cancel</note>
       </trans-unit>
+      <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
+        <source>Are you sure you want to send this content item to trash?</source>
+        <target xml:lang="nb" state="translated">Er du sikker på at du vil sende dette innholdet til papirkurven?</target>
+        <note>key: trash.modal.message</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
