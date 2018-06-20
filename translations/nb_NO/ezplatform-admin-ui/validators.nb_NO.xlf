@@ -11,6 +11,41 @@
         <target xml:lang="nb" state="translated">ez.section.identifier.format</target>
         <note>key: ez.section.identifier.format</note>
       </trans-unit>
+      <trans-unit id="54d912b0089483cfd533714e50262851b6d1421a" resname="ezplatform.change_user_password.passwords_must_match">
+        <source>The password fields must match.</source>
+        <target xml:lang="nb" state="translated">Passordfeltene må samsvare.</target>
+        <note>key: ezplatform.change_user_password.passwords_must_match</note>
+      </trans-unit>
+      <trans-unit id="1235bb9d75f7a324d6b06742720ab9c18775ddce" resname="ezplatform.copy_subtree.is_not_container">
+        <source>Selected Location is not container.</source>
+        <target xml:lang="nb" state="translated">Valgt plassering er ikke en beholder.</target>
+        <note>key: ezplatform.copy_subtree.is_not_container</note>
+      </trans-unit>
+      <trans-unit id="58f9ad2e8a8df010fb8abb25e39b46f2ccf92294" resname="ezplatform.reset_user_password.passwords_must_match">
+        <source>The password fields must match.</source>
+        <target xml:lang="nb" state="translated">Passordfeltene må samsvare.</target>
+        <note>key: ezplatform.reset_user_password.passwords_must_match</note>
+      </trans-unit>
+      <trans-unit id="cf558f546b83d94f1272929f81c64bd33d2997bc" resname="js.error.address_not_found">
+        <source>Provided address does not exist</source>
+        <target xml:lang="nb" state="translated">Oppgitt adresse finnes ikke</target>
+        <note>key: js.error.address_not_found</note>
+      </trans-unit>
+      <trans-unit id="21c38818d1cb73ff54f0dc0b184d6de25058f24d" resname="js.error.invalid_url">
+        <source>A valid URL is required</source>
+        <target xml:lang="nb" state="translated">En gyldig URL er påkrevd</target>
+        <note>key: js.error.invalid_url</note>
+      </trans-unit>
+      <trans-unit id="7baf32f4dc7e29e693c448b770eb34e9a614bbfe" resname="js.error.invalid_value">
+        <source>{fieldName} field has invalid values</source>
+        <target xml:lang="nb" state="translated">{fieldName}-feltet har ugyldige verdier</target>
+        <note>key: js.error.invalid_value</note>
+      </trans-unit>
+      <trans-unit id="3923eef870a213df547b7792f8ae52af887fd165" resname="js.error.not_same_passwords">
+        <source>Passwords do not match</source>
+        <target xml:lang="nb" state="translated">Passordene samsvarer ikke</target>
+        <note>key: js.error.not_same_passwords</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
