@@ -51,6 +51,12 @@
         <note>key: failed.load.parent.location.path</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="e4070d79791c331da86fcb230fec53235b1519ad" resname="items.permanently.deleted">
+        <source>%count% items were permanently deleted.</source>
+        <target xml:lang="pt-PT" state="translated">%count% itens foram apagados permanentemente.</target>
+        <note>key: items.permanently.deleted</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="0c3639c10994d885f997d2403c4fb64b10a118b3" resname="minimize" approved="yes">
         <source>Minimize</source>
         <target xml:lang="pt-PT">Minimizar</target>
