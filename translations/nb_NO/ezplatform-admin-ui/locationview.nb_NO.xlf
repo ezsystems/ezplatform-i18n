@@ -384,10 +384,35 @@
         <target xml:lang="nb" state="translated">Vil du slette versjoner?</target>
         <note>key: tab.versions.modal.message</note>
       </trans-unit>
+      <trans-unit id="8cf65ae83fb935858286b91006ff05b9d6d15c4a" resname="tab.versions.no_permission">
+        <source>You don't have access to view the content item's versions</source>
+        <target xml:lang="nb" state="translated">Du har ikke tilgang til å vise innholdselementets versjoner</target>
+        <note>key: tab.versions.no_permission</note>
+      </trans-unit>
       <trans-unit id="f6c48627db1d026d9f3fbc3b5b1cb1b3c60af4b3" resname="tab.versions.published_version">
         <source>Published version</source>
         <target xml:lang="nb" state="translated">Publisert versjon</target>
         <note>key: tab.versions.published_version</note>
+      </trans-unit>
+      <trans-unit id="d2e707023baa6830915c5d12b915974d627522e4" resname="tab.versions.table.action.archived.edit">
+        <source>Restore Archived Version</source>
+        <target xml:lang="nb" state="translated">Gjenopprette arkiverte versjonen</target>
+        <note>key: tab.versions.table.action.archived.edit</note>
+      </trans-unit>
+      <trans-unit id="97721a4a6c33834bb6421c29ef72e8654f39a4ab" resname="tab.versions.table.action.draft.edit">
+        <source>Edit Draft</source>
+        <target xml:lang="nb" state="translated">Rediger utkast</target>
+        <note>key: tab.versions.table.action.draft.edit</note>
+      </trans-unit>
+      <trans-unit id="a602612589c6e902caaf8acf1fd51fcd215955f1" resname="tab.versions.table.author.not_found">
+        <source>Can’t fetch contributor</source>
+        <target xml:lang="nb" state="translated">Kan ikke hente bidragsyter</target>
+        <note>key: tab.versions.table.author.not_found</note>
+      </trans-unit>
+      <trans-unit id="4c27637d649c221e58c6a9629f14a2f75aeed151" resname="tab.versions.table.contributor">
+        <source>Contributor</source>
+        <target xml:lang="nb" state="translated">Bidragsyter</target>
+        <note>key: tab.versions.table.contributor</note>
       </trans-unit>
       <trans-unit id="4c6353b63f5bc2031c8380c4007edf9c5f6be456" resname="tab.versions.table.created">
         <source>Created</source>
@@ -399,10 +424,20 @@
         <target xml:lang="nb" state="translated">Sist lagret</target>
         <note>key: tab.versions.table.last_saved</note>
       </trans-unit>
+      <trans-unit id="cd780839249906bd141cccd8bc58c8043a50acfb" resname="tab.versions.table.modified_language">
+        <source>Modified language</source>
+        <target xml:lang="nb" state="translated">Endret språk</target>
+        <note>key: tab.versions.table.modified_language</note>
+      </trans-unit>
       <trans-unit id="ddc70b29ad8ac6544843566a146ed1ea4ddab817" resname="tab.versions.table.version">
         <source>Version</source>
         <target xml:lang="nb" state="translated">Versjon</target>
         <note>key: tab.versions.table.version</note>
+      </trans-unit>
+      <trans-unit id="cf6a7c9a98608dd58b428ce2187e3229b64b5701" resname="translation.modal_close">
+        <source>Close</source>
+        <target xml:lang="nb" state="translated">Lukk</target>
+        <note>key: translation.modal_close</note>
       </trans-unit>
     </body>
   </file>
