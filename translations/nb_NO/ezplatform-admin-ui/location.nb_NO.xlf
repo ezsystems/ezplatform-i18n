@@ -57,6 +57,11 @@
         <target xml:lang="nb" state="translated">Plassering '%name%' skjult.</target>
         <note>key: location.update_success.success.hidden</note>
       </trans-unit>
+      <trans-unit id="687bb78ae5d6531f6a5dbaaa91b90db7a0700f6e" resname="location.update_success.success.unhidden">
+        <source>Location '%name%' unhidden.</source>
+        <target xml:lang="nb" state="translated">Plassering '%name%' ikke lengre skjult.</target>
+        <note>key: location.update_success.success.unhidden</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
