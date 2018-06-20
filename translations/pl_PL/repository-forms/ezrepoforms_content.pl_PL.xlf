@@ -31,30 +31,42 @@
         <target xml:lang="pl" state="translated">Tekst</target>
         <note>key: content.field_type.ezurl.text</note>
       </trans-unit>
-      <trans-unit id="7a3eb3ea13db1c9d6a0bd64c7d249a45e7b83b52" resname="content.field_type.ezuser.email">
+      <trans-unit id="7a3eb3ea13db1c9d6a0bd64c7d249a45e7b83b52" resname="content.field_type.ezuser.email" approved="yes">
         <source>E-mail</source>
-        <target xml:lang="pl" state="translated">E-mail</target>
+        <target xml:lang="pl">E-mail:</target>
         <note>key: content.field_type.ezuser.email</note>
+        <alt-trans>
+          <target xml:lang="pl">E-mail</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="8ac4ec40153c80fd39d2051802e30ebffb6f1fe1" resname="content.field_type.ezuser.enabled">
         <source>Enabled</source>
         <target xml:lang="pl" state="translated">Włączony</target>
         <note>key: content.field_type.ezuser.enabled</note>
       </trans-unit>
-      <trans-unit id="4c65e5d17516c19e311161e374bbd39f053b5e6b" resname="content.field_type.ezuser.password">
+      <trans-unit id="4c65e5d17516c19e311161e374bbd39f053b5e6b" resname="content.field_type.ezuser.password" approved="yes">
         <source>Password</source>
-        <target xml:lang="pl" state="translated">Hasło</target>
+        <target xml:lang="pl">Hasło:</target>
         <note>key: content.field_type.ezuser.password</note>
+        <alt-trans>
+          <target xml:lang="pl">Hasło</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="d2fe533f4032896195d524038c3abeb2209adece" resname="content.field_type.ezuser.password_confirm">
+      <trans-unit id="d2fe533f4032896195d524038c3abeb2209adece" resname="content.field_type.ezuser.password_confirm" approved="yes">
         <source>Confirm password</source>
-        <target xml:lang="pl" state="translated">Potwierdź hasło</target>
+        <target xml:lang="pl">Potwierdź hasło:</target>
         <note>key: content.field_type.ezuser.password_confirm</note>
+        <alt-trans>
+          <target xml:lang="pl">Potwierdź hasło</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="d1f5c5fcee7eb206e496dd5073b0f95427431a1c" resname="content.field_type.ezuser.username">
+      <trans-unit id="d1f5c5fcee7eb206e496dd5073b0f95427431a1c" resname="content.field_type.ezuser.username" approved="yes">
         <source>Username</source>
-        <target xml:lang="pl" state="translated">Nazwa użytkownika</target>
+        <target xml:lang="pl">Nazwa użytkownika:</target>
         <note>key: content.field_type.ezuser.username</note>
+        <alt-trans>
+          <target xml:lang="pl">Nazwa użytkownika</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="1120fc646c853c462aa4cdf634f476004846fc1b" resname="content.publish_button" approved="yes">
         <source>Publish</source>
