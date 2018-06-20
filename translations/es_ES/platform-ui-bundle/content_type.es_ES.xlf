@@ -79,6 +79,12 @@
         <note>key: content_type.edit_title</note>
         <jms:reference-file line="154">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="139bc06fcecd7ab2e8e59233d52cae047b22af5b" resname="content_type.group">
+        <source>Content type group</source>
+        <target xml:lang="es-ES" state="translated">Grupo de tipos de contenido</target>
+        <note>key: content_type.group</note>
+        <jms:reference-file line="17">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="fd931f1ea0d601fe877606ec9e42ff7c37d44d4e" resname="content_type.group.cancel">
         <source>Cancel</source>
         <target xml:lang="es-ES" state="translated">Cancelar</target>
@@ -87,6 +93,31 @@
         <alt-trans>
           <target xml:lang="es-ES">Cancel</target>
         </alt-trans>
+      </trans-unit>
+      <trans-unit id="73205aee63e2b76d2104c295ee19449cf248f045" resname="content_type.group.cannot_delete.has_content_types">
+        <source>Cannot delete Content type group "%identifier%" as it still contains Content types.</source>
+        <target xml:lang="es-ES" state="translated">No se puede borrar el grupo "%identifier%" porque todavía contiene algún tipo de contenido.</target>
+        <note>key: content_type.group.cannot_delete.has_content_types</note>
+        <jms:reference-file line="190">Controller/ContentTypeController.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d9af30fb88ca7bed537ebf13fe3aef6c1679ff40" resname="content_type.group.create.title">
+        <source>Creating a new Content type group</source>
+        <target xml:lang="es-ES" state="translated">Creando un nuevo grupo de tipos de contenido</target>
+        <note>key: content_type.group.create.title</note>
+        <jms:reference-file line="5">Resources/views/ContentType/edit_content_type_group.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8023ffcb49893af87bad5805790b91dee17b3acc" resname="content_type.group.deleted">
+        <source>Content type group "%identifier%" was correctly deleted.</source>
+        <target xml:lang="es-ES" state="translated">El grupo de tipos de contenido "%identifier%" se ha creado de forma correcta.</target>
+        <note>key: content_type.group.deleted</note>
+        <jms:reference-file line="188">Controller/ContentTypeController.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ad7e97ad4cf67edf7aadf9010b17c34dc57aa0a6" resname="content_type.group.edit">
+        <source>Edit</source>
+        <target xml:lang="es-ES" state="translated">Editar</target>
+        <note>key: content_type.group.edit</note>
+        <jms:reference-file line="39">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
+        <jms:reference-file line="41">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="e898d2cafb9cf32633ae1324fac8a0f233688885" resname="content_type.group.name">
         <source>Name</source>
