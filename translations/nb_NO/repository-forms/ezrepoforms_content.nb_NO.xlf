@@ -33,8 +33,11 @@
       </trans-unit>
       <trans-unit id="7a3eb3ea13db1c9d6a0bd64c7d249a45e7b83b52" resname="content.field_type.ezuser.email">
         <source>E-mail</source>
-        <target xml:lang="nb" state="translated">E-post</target>
+        <target xml:lang="nb" state="translated">E-post:</target>
         <note>key: content.field_type.ezuser.email</note>
+        <alt-trans>
+          <target xml:lang="nb">E-post</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="8ac4ec40153c80fd39d2051802e30ebffb6f1fe1" resname="content.field_type.ezuser.enabled">
         <source>Enabled</source>
@@ -43,18 +46,27 @@
       </trans-unit>
       <trans-unit id="4c65e5d17516c19e311161e374bbd39f053b5e6b" resname="content.field_type.ezuser.password">
         <source>Password</source>
-        <target xml:lang="nb" state="translated">Passord</target>
+        <target xml:lang="nb" state="translated">Passord:</target>
         <note>key: content.field_type.ezuser.password</note>
+        <alt-trans>
+          <target xml:lang="nb">Passord</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="d2fe533f4032896195d524038c3abeb2209adece" resname="content.field_type.ezuser.password_confirm">
         <source>Confirm password</source>
-        <target xml:lang="nb" state="translated">Bekreft passord</target>
+        <target xml:lang="nb" state="translated">Bekreft passord:</target>
         <note>key: content.field_type.ezuser.password_confirm</note>
+        <alt-trans>
+          <target xml:lang="nb">Bekreft passord</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="d1f5c5fcee7eb206e496dd5073b0f95427431a1c" resname="content.field_type.ezuser.username">
         <source>Username</source>
-        <target xml:lang="nb" state="translated">Brukernavn</target>
+        <target xml:lang="nb" state="translated">Brukernavn:</target>
         <note>key: content.field_type.ezuser.username</note>
+        <alt-trans>
+          <target xml:lang="nb">Brukernavn</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="1120fc646c853c462aa4cdf634f476004846fc1b" resname="content.publish_button">
         <source>Publish</source>
