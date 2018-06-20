@@ -61,6 +61,52 @@
         <target xml:lang="nb" state="translated">Slett</target>
         <note>key: custom_url_alias_add_form.remove</note>
       </trans-unit>
+      <trans-unit id="b1712cfa4c13874debdcc0f1f4a3b9fa4af3c966" resname="error.page.403.title">
+        <source>You don’t have permission for this page. Sorry!</source>
+        <target xml:lang="nb" state="translated">Beklager, men du har ikke tillatelse for denne siden!</target>
+        <note>key: error.page.403.title</note>
+      </trans-unit>
+      <trans-unit id="156b8a7f797412e60bdba432064e2dade6d4a7af" resname="error.page.404.title">
+        <source>Something went wrong. Sorry!</source>
+        <target xml:lang="nb" state="translated">Beklager, men noe gikk galt!</target>
+        <note>key: error.page.404.title</note>
+      </trans-unit>
+      <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title">
+        <source>Something went wrong. Sorry!</source>
+        <target xml:lang="nb" state="translated">Noe gikk galt. Beklager!</target>
+        <note>key: error.page.default.title</note>
+      </trans-unit>
+      <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
+        <source>Add author</source>
+        <target xml:lang="nb" state="translated">Legg til forfatter</target>
+        <note>key: ezauthor.action.add</note>
+      </trans-unit>
+      <trans-unit id="3a0389d073f00ef9a968a5cdc60e2794b434b381" resname="ezauthor.action.delete">
+        <source>Remove author</source>
+        <target xml:lang="nb" state="translated">Fjern forfatter</target>
+        <note>key: ezauthor.action.delete</note>
+      </trans-unit>
+      <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password">
+        <source>Reset your password</source>
+        <target xml:lang="nb" state="translated">Tilbakestill passordet ditt</target>
+        <note>key: ezplatform.forgot_user_password.reset_your_password</note>
+      </trans-unit>
+      <trans-unit id="36aa6723300a41ba80ee0096c0d2bcf34fd48aca" resname="ezplatform.forgot_user_password.success">
+        <source><![CDATA[<p>We have sent an email to the email address of your account. You should receive the email shortly.</p>
+            <p>If the email is slow to arrive, check your spam folders.</p>
+            <p>If you receive no email, it’s that your username or email is unknown to us, so please double check.</p>
+            <p>If you reset your password multiple times, only the most recent email link will be valid</p>]]></source>
+        <target xml:lang="nb" state="translated"><![CDATA[<p>Vi har sendt en e-post til e-postadressen som er knyttet til din konto. Du vil motta e-post innen kort tid.</p>
+            <p>Dersom det drar ut i tid, sjekk spam og rotemapper.</p>
+            <p>Får du ingen e-post, skyldes det at ditt brukernavn eller e-post er ukjent for oss, så vennligst sjekk igjen.</p>
+            <p>Hvis du tilbakestiller passordet flere ganger, vil bare den siste lenken være gyldig</p>]]></target>
+        <note>key: ezplatform.forgot_user_password.success</note>
+      </trans-unit>
+      <trans-unit id="40dd2934190789b016771a0fc3b41dcdfe0bb920" resname="ezplatform.reset_user_password.change_password">
+        <source>Change password</source>
+        <target xml:lang="nb" state="translated">Endre passord</target>
+        <note>key: ezplatform.reset_user_password.change_password</note>
+      </trans-unit>
       <trans-unit id="5cf420af18fd4a8d856fd30bc13aea5039369f9b" resname="form.cancel">
         <source>Cancel</source>
         <target xml:lang="nb" state="translated">Avbryt</target>
