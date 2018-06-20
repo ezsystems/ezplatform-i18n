@@ -31,6 +31,21 @@
         <target xml:lang="nb" state="translated">Oppgitt adresse finnes ikke</target>
         <note>key: js.error.address_not_found</note>
       </trans-unit>
+      <trans-unit id="74dc0c29a623eb80ca8f6460f0176503c7785904" resname="js.error.empty.field">
+        <source>{fieldName} field is required</source>
+        <target xml:lang="nb" state="translated">Feltet {fieldName} er påkrevd</target>
+        <note>key: js.error.empty.field</note>
+      </trans-unit>
+      <trans-unit id="3ff026ea6e244dbbf70509ebf0a71c5f46cef0e0" resname="js.error.invalid_email">
+        <source>A valid email address is required</source>
+        <target xml:lang="nb" state="translated">En gyldig e-postadresse er påkrevd</target>
+        <note>key: js.error.invalid_email</note>
+      </trans-unit>
+      <trans-unit id="5c26acfa4532917d4763c44d5b7ec8dd180b98a4" resname="js.error.invalid_file_size">
+        <source>{fieldName}: Cannot upload. File exceeds file size limit.</source>
+        <target xml:lang="nb" state="translated">{fieldName}: Kan ikke laste opp. Filen overstiger største tillatte størrelse.</target>
+        <note>key: js.error.invalid_file_size</note>
+      </trans-unit>
       <trans-unit id="21c38818d1cb73ff54f0dc0b184d6de25058f24d" resname="js.error.invalid_url">
         <source>A valid URL is required</source>
         <target xml:lang="nb" state="translated">En gyldig URL er påkrevd</target>
