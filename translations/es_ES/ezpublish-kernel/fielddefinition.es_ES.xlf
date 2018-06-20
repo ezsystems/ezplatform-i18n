@@ -246,6 +246,12 @@
         <note>key: fielddefinition.min-length.undefined</note>
         <jms:reference-file line="23">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="904a83f949dd73a0bed006f8e78a211c80b4816a" resname="fielddefinition.min-length.value">
+        <source>%min% characters</source>
+        <target xml:lang="es-ES" state="translated">%min% caracteres</target>
+        <note>key: fielddefinition.min-length.value</note>
+        <jms:reference-file line="21">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="1feb12108139bb4d34877c40ade8362c0872b528" resname="fielddefinition.min-value.label">
         <source>Minimum value:</source>
         <target xml:lang="es-ES" state="translated">Valor mínimo:</target>
