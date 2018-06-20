@@ -137,9 +137,12 @@
       </trans-unit>
       <trans-unit id="c8c3fa9b71c848069950539011a09b45abb1c11f" resname="fielddefinition.max-length.undefined" approved="yes">
         <source>No defined maximum string length</source>
-        <target xml:lang="fr">Aucune longueur maximale maximale définie pour la chaîne</target>
+        <target xml:lang="fr">Aucune longueur maximale définie pour la chaîne</target>
         <note>key: fielddefinition.max-length.undefined</note>
         <jms:reference-file line="20">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="fr">Aucune longueur maximale maximale définie pour la chaîne</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="9a3d23487e45edf331407c501ead33d70461f9e3" resname="fielddefinition.max-length.value" approved="yes">
         <source>%max% characters</source>
