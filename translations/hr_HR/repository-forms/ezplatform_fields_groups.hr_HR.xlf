@@ -8,8 +8,16 @@
     <body>
       <trans-unit id="040f06fd774092478d450774f5ba30c5da78acc8" resname="content">
         <source>Content</source>
-        <target xml:lang="hr" state="translated">Contenuti</target>
+        <target xml:lang="hr" state="translated">Sadržaj</target>
         <note>key: content</note>
+        <alt-trans>
+          <target xml:lang="hr">Contenuti</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="4c24b2612e94e2ae622e54397663f2b7bf0a2e17" resname="metadata">
+        <source>Metadata</source>
+        <target xml:lang="hr" state="translated">Metapodaci</target>
+        <note>key: metadata</note>
       </trans-unit>
     </body>
   </file>
