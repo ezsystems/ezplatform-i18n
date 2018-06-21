@@ -45,17 +45,53 @@
         <note>key: actionbar.minimizeActionBar</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="b282633e9e76dd418412580d9232d28d9404dcb5" resname="actionbar.move">
+        <source>Move</source>
+        <target xml:lang="hi" state="translated">चाल</target>
+        <note>key: actionbar.move</note>
+        <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0c208e52af8963639637f9c9ce2163bd98d1628e" resname="actionbar.sendToTrash">
+        <source>Send to Trash</source>
+        <target xml:lang="hi" state="translated">घास फूस को भेजें</target>
+        <note>key: actionbar.sendToTrash</note>
+        <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="5b0a413f93880e60e8da0cc54c3d2643afef840c" resname="actionbar.translate">
         <source>Translations</source>
         <target xml:lang="hi" state="translated">अनुवाद</target>
         <note>key: actionbar.translate</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="2be07d7fa67c4111b55ff1ae95aa7bb38df17774" resname="content.browser.title">
+        <source>Content browser</source>
+        <target xml:lang="hi" state="translated">सामग्री ब्राउज़र</target>
+        <note>key: content.browser.title</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-discoverybarviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="0bc4676a2e348119912d9a0cb23c8b9c2db54b38" resname="createcontentaction.loading">
         <source>Loading</source>
         <target xml:lang="hi" state="translated">लोड हो रहा है</target>
         <note>key: createcontentaction.loading</note>
         <jms:reference-file>Resources/public/templates/createcontentaction.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8168e6a5b68d175e892512352ec75bdfe1275631" resname="creating.new.location.for">
+        <source>Creating new location for "%name%"</source>
+        <target xml:lang="hi" state="translated">नया स्थान बनाने के लिए "%नाम प्रतिशत है%''</target>
+        <note>key: creating.new.location.for</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bad3f2a8b005e430f9760b9b3c47e37faa3176bd" resname="creating.new.location.for.failed">
+        <source>Creating new location(s) for "%name%" failed</source>
+        <target xml:lang="hi" state="translated">नये स्थान (एस) के लिए "%नाम%" विफल</target>
+        <note>key: creating.new.location.for.failed</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4f1d1e873e2acd3ffa920e7ee8fa339b43ffe384" resname="discoverybar.browse">
+        <source>Content browse</source>
+        <target xml:lang="hi" state="translated">सामग्री ब्राउज़ करें</target>
+        <note>key: discoverybar.browse</note>
+        <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="7eaf9281f3e62d4f3acf5dac5b34060808c363b9" resname="discoverybar.contenttree">
         <source>Content tree</source>
@@ -74,11 +110,66 @@
         <note>key: discoverybar.search</note>
         <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="07eab5f1fb10d5c76c8b190ed9aa24f44b8631b7" resname="discoverybar.trash">
+        <source>Trash</source>
+        <target xml:lang="hi" state="translated">काटना</target>
+        <note>key: discoverybar.trash</note>
+        <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4f05b52ccc249d1a7747839ea78300f80c6011d3" resname="error.hiding.location">
+        <source>Error while hiding location "%id%"</source>
+        <target xml:lang="hi" state="translated">छुपे हुए एक त्रुटि हुई स्थान</target>
+        <note>key: error.hiding.location</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b751b43622c766dad211b5892e401abe17292918" resname="error.occurred.copying">
+        <source>An error occurred while copying your content</source>
+        <target xml:lang="hi" state="translated">आपकी विषय-वस्तु नकल करते समय एक त्रुटि उत्पन्न हुई.</target>
+        <note>key: error.occurred.copying</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e3215cb818603963b4e6b318ed9874ba881ca5bb" resname="error.occurred.loading">
+        <source>An error occurred while loading your content</source>
+        <target xml:lang="hi" state="translated">आपकी विषय-वस्तु को लोड करते समय एक त्रुटि उत्पन्न हुई</target>
+        <note>key: error.occurred.loading</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="310cc7a3978ffe18c9e51dc5038b371f5428f46f" resname="error.revealing.location">
+        <source>Error while revealing location "%id%"</source>
+        <target xml:lang="hi" state="translated">स्थान दर्शाये गयेकुछ त्रुटि</target>
+        <note>key: error.revealing.location</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e650b8f59c13ba2541db9ae6ac90a1857d88cb54" resname="failed.creating.new.location.for">
+        <source>Creating new location for "%name%" under "%parentName%" failed</source>
+        <target xml:lang="hi" state="translated">नया स्थान बनाने के लिए
+</target>
+        <note>key: failed.creating.new.location.for</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="69136005da4d2304538601244f76e7e68a009049" resname="hidden.location">
+        <source>Location "%id" has been hidden</source>
+        <target xml:lang="hi" state="translated">स्थान "%id'' हिडन</target>
+        <note>key: hidden.location</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a08ae71216dacd8a23c388addb647ecab7e3fcc1" resname="hiding.location">
+        <source>Hiding Location "%id%"</source>
+        <target xml:lang="hi" state="translated">छिपा हुआ स्थान "%id%" प्रतिशत है</target>
+        <note>key: hiding.location</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="7fc31d0ca90043a53df1a70b6d9d84c8c4fddf30" resname="select.a.language.for.new.translation">
         <source>Select a language for your new translation:</source>
         <target xml:lang="hi" state="translated">अपने नए अनुवाद के लिए एक भाषा का चयन करें</target>
         <note>key: select.a.language.for.new.translation</note>
         <jms:reference-file>Resources/public/js/views/actions/ez-translateactionview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="801849651d85606aa04da1b4ea58fad208793e3a" resname="select.location.to.copy">
+        <source>Select the location you want to copy your content into</source>
+        <target xml:lang="hi" state="translated">स्थान का चयन करें कि आप अपने सामग्री को कॉपी करना चाहते हैं</target>
+        <note>key: select.location.to.copy</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="303fa8448e329ecb88341279a1a17b044549270a" resname="select.location.to.create.new.location">
         <source>Select the location where you want to create new location</source>
@@ -106,6 +197,12 @@
         <target xml:lang="hi" state="translated">+ नया अनुवाद</target>
         <note>key: translateaction.new.translation</note>
         <jms:reference-file>Resources/public/templates/translateaction.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0141ea1c4b92b9abdd164fdc4a7a824350d856f7" resname="view.content.label">
+        <source>View this content</source>
+        <target xml:lang="hi" state="translated">इस सामग्री देखें</target>
+        <note>key: view.content.label</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-discoverybarviewservice.js</jms:reference-file>
       </trans-unit>
     </body>
   </file>
