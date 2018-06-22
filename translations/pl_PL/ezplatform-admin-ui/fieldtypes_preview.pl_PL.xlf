@@ -26,6 +26,11 @@
         <target xml:lang="pl" state="translated">Szerokość geograficzna</target>
         <note>key: ezgmaplocation.latitude</note>
       </trans-unit>
+      <trans-unit id="38022a4ef42d878eb38c71537fdc4c72b5fbb989" resname="ezgmaplocation.location_properties">
+        <source>Location properties</source>
+        <target xml:lang="pl" state="translated">Włąściwości lokalizacji</target>
+        <note>key: ezgmaplocation.location_properties</note>
+      </trans-unit>
       <trans-unit id="ba4a253dc02df12654dabc50ef81b428ee888bcf" resname="ezgmaplocation.longitude">
         <source>Longitude</source>
         <target xml:lang="pl" state="translated">Długość geograficzna</target>
