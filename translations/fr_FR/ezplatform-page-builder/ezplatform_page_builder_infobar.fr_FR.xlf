@@ -11,6 +11,11 @@
         <target xml:lang="fr" state="translated"><![CDATA[par <span class="ez-content-details__author">%name%</span>]]></target>
         <note>key: infobar.author.name</note>
       </trans-unit>
+      <trans-unit id="8cae04221f80a7be222bfb773c07e5c6394bd7da" resname="infobar.error.message">
+        <source>Switch to the Field view and fill in the required fields</source>
+        <target xml:lang="fr" state="translated">Passez en mode visualisation des champs et remplissez les champs obligatoires</target>
+        <note>key: infobar.error.message</note>
+      </trans-unit>
       <trans-unit id="e1027757af4cedb3577c7b7e63789ebd329fdb1e" resname="infobar.last_edited">
         <source>Last edited:</source>
         <target xml:lang="fr" state="translated">Dernière édition :</target>
@@ -20,6 +25,11 @@
         <source>Viewing</source>
         <target xml:lang="fr" state="translated">Visualisation</target>
         <note>key: infobar.mode.viewing</note>
+      </trans-unit>
+      <trans-unit id="1739daaed5307ca22b5e2f1729a1746c6de8c346" resname="infobar.translation.add">
+        <source>Add new translation</source>
+        <target xml:lang="fr" state="translated">Ajouter une nouvelle traduction</target>
+        <note>key: infobar.translation.add</note>
       </trans-unit>
     </body>
   </file>
