@@ -86,6 +86,11 @@
         <target xml:lang="pl" state="translated">Usuń autora</target>
         <note>key: ezauthor.action.delete</note>
       </trans-unit>
+      <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password">
+        <source>Reset your password</source>
+        <target xml:lang="pl" state="translated">Zresetuj swoje hasło</target>
+        <note>key: ezplatform.forgot_user_password.reset_your_password</note>
+      </trans-unit>
       <trans-unit id="40dd2934190789b016771a0fc3b41dcdfe0bb920" resname="ezplatform.reset_user_password.change_password">
         <source>Change password</source>
         <target xml:lang="pl" state="translated">Zmień hasło</target>
@@ -116,6 +121,11 @@
         <target xml:lang="pl" state="translated">Dowolna sekcja</target>
         <note>key: search.section.any</note>
       </trans-unit>
+      <trans-unit id="6a17e9f4ed416563fc8c3e188509b8eec8a6f7c0" resname="section.modal.message">
+        <source>Do you want to delete section?</source>
+        <target xml:lang="pl" state="translated">Czy chcesz usunąć sekcję?</target>
+        <note>key: section.modal.message</note>
+      </trans-unit>
       <trans-unit id="1152c93462d8bed85642b961f01ed63a6f2525ab" resname="tab.locations.location_content_swap">
         <source>Location Content Swap</source>
         <target xml:lang="pl" state="translated">Zamiana lokalizacji treści</target>
@@ -131,6 +141,11 @@
         <target xml:lang="pl" state="translated">Treści</target>
         <note>key: tab.view.content</note>
       </trans-unit>
+      <trans-unit id="48e20c2b09b340ca2e2020edaa30a57c8bc3f26b" resname="trash.delete.all.info">
+        <source>This action cannot be reversed</source>
+        <target xml:lang="pl" state="translated">Nie można cofnąć tej akcji</target>
+        <note>key: trash.delete.all.info</note>
+      </trans-unit>
       <trans-unit id="e500e3f1d454e2775bbe89b6267cd77c766df3f1" resname="trash.delete.button.cancel">
         <source>Cancel</source>
         <target xml:lang="pl" state="translated">Anuluj</target>
@@ -140,6 +155,11 @@
         <source>Cancel</source>
         <target xml:lang="pl" state="translated">Anuluj</target>
         <note>key: trash.form.cancel</note>
+      </trans-unit>
+      <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
+        <source>Are you sure you want to send this content item to trash?</source>
+        <target xml:lang="pl" state="translated">Czy na pewno chcesz umieścić ten element w koszu?</target>
+        <note>key: trash.modal.message</note>
       </trans-unit>
     </body>
   </file>
