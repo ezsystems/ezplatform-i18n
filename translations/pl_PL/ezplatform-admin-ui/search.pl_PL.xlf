@@ -141,6 +141,21 @@
         <target xml:lang="pl" state="translated">Spróbuj innych słów kluczowych.</target>
         <note>key: search.tips.different_keywords</note>
       </trans-unit>
+      <trans-unit id="013ced9a3284ecebf5a5356397dc9a79eaf76496" resname="search.tips.fewer_keywords">
+        <source>Try fewer keywords. Reducing keywords result in more matches.</source>
+        <target xml:lang="pl" state="translated">Spróbuj mniejszej liczby słów kluczowych, zaowocuje to większą liczbą trafień.</target>
+        <note>key: search.tips.fewer_keywords</note>
+      </trans-unit>
+      <trans-unit id="4af1e76946070e5f61320621d12a171f4206e06c" resname="search.tips.headline">
+        <source>Some helpful search tips:</source>
+        <target xml:lang="pl" state="translated">Klika wskazówek dotyczących wyszukiwania:</target>
+        <note>key: search.tips.headline</note>
+      </trans-unit>
+      <trans-unit id="dd61516edc919235a13e3cfadb5d961b8614b744" resname="search.tips.more_general_keywords">
+        <source>Try more general keywords.</source>
+        <target xml:lang="pl" state="translated">Spróbuj więcej ogólnikowych słów kluczowych.</target>
+        <note>key: search.tips.more_general_keywords</note>
+      </trans-unit>
       <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type">
         <source>Content Type</source>
         <target xml:lang="pl" state="translated">Typ treści</target>
