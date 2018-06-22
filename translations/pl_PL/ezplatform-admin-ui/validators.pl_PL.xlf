@@ -96,6 +96,11 @@
         <target xml:lang="pl" state="translated">Wartość pola {fieldName} powinna zawierać co najwyżej {maxLength} znaków</target>
         <note>key: js.error.too_long</note>
       </trans-unit>
+      <trans-unit id="dc794513d2664b4f9ea5335d347c97a2183f398f" resname="js.error.too_short">
+        <source>{fieldName} value should be greater than or equal to {minLength} characters</source>
+        <target xml:lang="pl" state="translated">Wartość pola {fieldName} powinna zawierać co najmniej {minLength} znaków</target>
+        <note>key: js.error.too_short</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
