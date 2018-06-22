@@ -56,6 +56,11 @@
         <target xml:lang="fr" state="translated">Bonjour %receiver_firstname%,</target>
         <note>key: email.greeting</note>
       </trans-unit>
+      <trans-unit id="bec9c3c6dd19267375283c7e65cdec4b05a52e0c" resname="email.review_button">
+        <source>Review Content</source>
+        <target xml:lang="fr" state="translated">Réviser le contenu</target>
+        <note>key: email.review_button</note>
+      </trans-unit>
       <trans-unit id="4941fb749a78b9f544695dbf68b2df2928ff9508" resname="email.with_message">
         <source>%sender_firstname% %sender_lastname% has requested you to review a draft of %content%. %sender_firstname% says:</source>
         <target xml:lang="fr" state="translated">%sender_firstname% %sender_lastname% a demandé votre révision du brouillon %content%. %sender_firstname% vous a laissé le message suivant :</target>
