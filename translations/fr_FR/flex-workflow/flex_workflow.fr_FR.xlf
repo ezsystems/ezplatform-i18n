@@ -61,6 +61,11 @@
         <target xml:lang="fr" state="translated">Réviser le contenu</target>
         <note>key: email.review_button</note>
       </trans-unit>
+      <trans-unit id="a92726bad87c5ac3957fab36da70813dcf6061be" resname="email.title">
+        <source>Flex Workflow Notification</source>
+        <target xml:lang="fr" state="translated">Notifications du processus de publication</target>
+        <note>key: email.title</note>
+      </trans-unit>
       <trans-unit id="4941fb749a78b9f544695dbf68b2df2928ff9508" resname="email.with_message">
         <source>%sender_firstname% %sender_lastname% has requested you to review a draft of %content%. %sender_firstname% says:</source>
         <target xml:lang="fr" state="translated">%sender_firstname% %sender_lastname% a demandé votre révision du brouillon %content%. %sender_firstname% vous a laissé le message suivant :</target>
