@@ -236,6 +236,16 @@
         <target xml:lang="pl" state="translated">Usuń rolę</target>
         <note>key: roles_delete_form.delete</note>
       </trans-unit>
+      <trans-unit id="f3a2d2ec4f587435900fdec3f0fb973592b57147" resname="section_content_assign_form.assign">
+        <source>Assign content</source>
+        <target xml:lang="pl" state="translated">Przypisz treść</target>
+        <note>key: section_content_assign_form.assign</note>
+      </trans-unit>
+      <trans-unit id="72b286dbf7ede406ec805d27d4ee834b8a159670" resname="section_content_assign_form.locations">
+        <source>Assign content</source>
+        <target xml:lang="pl" state="translated">Przypisz treść</target>
+        <note>key: section_content_assign_form.locations</note>
+      </trans-unit>
       <trans-unit id="4d1b71ebb6b86d78f0902fa5a6ef329c070efdad" resname="section_create_form.create">
         <source>Create</source>
         <target xml:lang="pl" state="translated">Utwórz</target>
