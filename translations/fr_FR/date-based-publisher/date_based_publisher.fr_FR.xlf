@@ -21,10 +21,35 @@
         <target xml:lang="fr" state="translated"><![CDATA[Lire la suite &raquo;]]></target>
         <note>key: content.publish_later.read_more</note>
       </trans-unit>
+      <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published">
+        <source>Content published</source>
+        <target xml:lang="fr" state="translated">Contenu publié</target>
+        <note>key: content.published</note>
+      </trans-unit>
+      <trans-unit id="d3271090e4c7db6a79d168181876891a6577fa19" resname="content.scheduled.canceled">
+        <source>Future publication canceled</source>
+        <target xml:lang="fr" state="translated">Future publication annulée</target>
+        <note>key: content.scheduled.canceled</note>
+      </trans-unit>
+      <trans-unit id="34b402006eccad0bda15c91d1c25af637419d933" resname="content.scheduled.published">
+        <source>Future publication published</source>
+        <target xml:lang="fr" state="translated">Future publication publiée</target>
+        <note>key: content.scheduled.published</note>
+      </trans-unit>
       <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title">
         <source>Title:</source>
         <target xml:lang="fr" state="translated">Titre:</target>
         <note>key: content.scheduled.title</note>
+      </trans-unit>
+      <trans-unit id="d72a29b32751f629c33f6223c5b6477308a0ebb4" resname="content.trashed">
+        <source>Content moved to trash</source>
+        <target xml:lang="fr" state="translated">Contenu déplacé vers la corbeille</target>
+        <note>key: content.trashed</note>
+      </trans-unit>
+      <trans-unit id="242a195e1172964f09692a16fc39ccb8a2b69605" resname="content.updated">
+        <source>Content updated</source>
+        <target xml:lang="fr" state="translated">Contenu mis à jour</target>
+        <note>key: content.updated</note>
       </trans-unit>
       <trans-unit id="382ab608837ac7a3db830601fd7566b42f2e3fa1" resname="dashboard.tab.all_scheduled.empty">
         <source>No content scheduled for publish.</source>
@@ -46,6 +71,11 @@
         <target xml:lang="fr" state="translated">Contributeur</target>
         <note>key: dashboard.table.contributor</note>
       </trans-unit>
+      <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
+        <source>Last Saved</source>
+        <target xml:lang="fr" state="translated">Dernière sauvegarde</target>
+        <note>key: dashboard.table.last_saved</note>
+      </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
         <source>Name</source>
         <target xml:lang="fr" state="translated">Nom</target>
@@ -60,6 +90,11 @@
         <source>Publish later</source>
         <target xml:lang="fr" state="translated">Publier plus tard</target>
         <note>key: menu.date_based_publisher</note>
+      </trans-unit>
+      <trans-unit id="c9d2f1516b204c6e1a54e65850b843f5cc4d7650" resname="menu.date_based_publisher.discard">
+        <source>Discard publish later</source>
+        <target xml:lang="fr" state="translated">Annuler la publication future</target>
+        <note>key: menu.date_based_publisher.discard</note>
       </trans-unit>
       <trans-unit id="4c1883ba5e2eb4e3a70391d122a474304c1d95df" resname="publish_later.confirm">
         <source>Confirm</source>
