@@ -229,6 +229,11 @@
         <target xml:lang="pl" state="translated">Lokalizacje</target>
         <note>key: tab.name.locations</note>
       </trans-unit>
+      <trans-unit id="a483f367c17cc75d6c5cf331f80e395b254cbbd6" resname="tab.name.policies">
+        <source>Policies</source>
+        <target xml:lang="pl" state="translated">Reguły</target>
+        <note>key: tab.name.policies</note>
+      </trans-unit>
       <trans-unit id="c58716ba1092b0208a11137dc226327a3ddf84dc" resname="tab.name.roles">
         <source>Roles</source>
         <target xml:lang="pl" state="translated">Role</target>
@@ -278,6 +283,11 @@
         <source>Field</source>
         <target xml:lang="pl" state="translated">Pole</target>
         <note>key: tab.relations.table.relation_type.field</note>
+      </trans-unit>
+      <trans-unit id="cd43dc791bb87dda363d311d449b68d5876392d1" resname="tab.relations.table.relation_type.link">
+        <source>Link</source>
+        <target xml:lang="pl" state="translated">Łącze</target>
+        <note>key: tab.relations.table.relation_type.link</note>
       </trans-unit>
       <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
         <source>Add Translation</source>
