@@ -68,8 +68,11 @@
       </trans-unit>
       <trans-unit id="a8c2da925faa48def8e407037a6115f1340070c7" resname="trash.restore_new_location.success">
         <source>Items restored under '%location%' location.</source>
-        <target xml:lang="pl" state="translated">Elementy zostały przywrócone do nową lokalizacją '%location%'.</target>
+        <target xml:lang="pl" state="translated">Elementy zostały przywrócone do nowej lokalizacji '%location%'.</target>
         <note>key: trash.restore_new_location.success</note>
+        <alt-trans>
+          <target xml:lang="pl">Elementy zostały przywrócone do nową lokalizacją '%location%'.</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="pl">Elementy zostały przywrócone pod nową lokalizacją '%location%'.</target>
         </alt-trans>
