@@ -86,6 +86,26 @@
         <target xml:lang="fr" state="translated">Date de publication</target>
         <note>key: dashboard.table.publication_date</note>
       </trans-unit>
+      <trans-unit id="d6004e8b261029b934ea4253dd02a83c23288cd4" resname="date_based_publisher.discard.publish_later">
+        <source>Scheduled publication date discarded.</source>
+        <target xml:lang="fr" state="translated">La future publication a été annulée.</target>
+        <note>key: date_based_publisher.discard.publish_later</note>
+      </trans-unit>
+      <trans-unit id="7994323666a7722986c24f7f724e4862f9bbf9a6" resname="date_based_publisher.error.discard.publish_later">
+        <source>Cannot discard scheduled publication date: %reason%</source>
+        <target xml:lang="fr" state="translated">Impossible d'annuler la future date de publication: %reason%</target>
+        <note>key: date_based_publisher.error.discard.publish_later</note>
+      </trans-unit>
+      <trans-unit id="f99f89ba09246220d9b545d89a5c6ba76ff7b977" resname="date_based_publisher.error.publish_later">
+        <source>Cannot schedule content: %reason%</source>
+        <target xml:lang="fr" state="translated">Impossible de planifier le contenu: %reason%</target>
+        <note>key: date_based_publisher.error.publish_later</note>
+      </trans-unit>
+      <trans-unit id="5e2950ca93ce5670c04559781714521d3c64e5ad" resname="date_based_publisher.success.publish_later">
+        <source>Content scheduled for publishing.</source>
+        <target xml:lang="fr" state="translated">Contenu planifié pour future publication.</target>
+        <note>key: date_based_publisher.success.publish_later</note>
+      </trans-unit>
       <trans-unit id="dcb8f016db59563b21714e4ba0688f7650fc6995" resname="menu.date_based_publisher">
         <source>Publish later</source>
         <target xml:lang="fr" state="translated">Publier plus tard</target>
