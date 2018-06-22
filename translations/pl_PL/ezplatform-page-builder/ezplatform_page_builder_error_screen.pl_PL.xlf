@@ -6,9 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
+      <trans-unit id="a89fa23dda796749c6bb7c0290ee22ae4a731c23" resname="you.can.go.back.to.previous.page">
+        <source><![CDATA[You can go back to the previous website or to <a class="ez-error-screen__link">the previous previewed page</a>]]></source>
+        <target xml:lang="pl" state="translated"><![CDATA[Możesz powrócić do poprzedniej witryny lub do <a class="ez-error-screen__link">poprzednio przeglądanej strony</a>]]></target>
+        <note>key: you.can.go.back.to.previous.page</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
