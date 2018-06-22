@@ -11,6 +11,11 @@
         <target xml:lang="pl" state="translated">Czy na pewno chcesz kontynuować i nadpisać poprzednią wersję?</target>
         <note>key: version.conflict.are_you_sure</note>
       </trans-unit>
+      <trans-unit id="f77f809ec953a9ee0a8fe642ab53e2763e5eaed2" resname="version.conflict.choices">
+        <source>To resolve the conflict, click Cancel and delete the draft. Then edit the published Content Item.</source>
+        <target xml:lang="pl" state="translated">Aby rozwiązać konflikt, kliknij przycisk Anuluj i usuń szkic. Następnie edytuj opublikowany typ treści.</target>
+        <note>key: version.conflict.choices</note>
+      </trans-unit>
       <trans-unit id="9fad7ad8b2a4215487f98fc67dd7d793dd0382e8" resname="version.conflict.consequences">
         <source>If you continue, the previous version will be overwritten.</source>
         <target xml:lang="pl" state="translated">Jeśli będziesz kontynuować, poprzednia wersja zostanie nadpisana.</target>
