@@ -6,24 +6,51 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="f695b40d6949dd8fabad86abe87612bf9fe0f31a" resname="content.review.add_reviewer">
+        <source>Add a Reviewer</source>
+        <target xml:lang="pl" state="translated">Dodaj recenzenta</target>
+        <note>key: content.review.add_reviewer</note>
+      </trans-unit>
+      <trans-unit id="eca0d518c25ac61553a436334389d163e15790cb" resname="content.review.from">
+        <source>From:</source>
+        <target xml:lang="pl" state="translated">Od:</target>
+        <note>key: content.review.from</note>
+      </trans-unit>
+      <trans-unit id="a93fbc1f5561a7badc77e20b3050fd13d70ca465" resname="content.review.message_placeholder">
+        <source>Type your message...</source>
+        <target xml:lang="pl" state="translated">Podaj treść wiadomości...</target>
+        <note>key: content.review.message_placeholder</note>
+      </trans-unit>
+      <trans-unit id="48ec0a3b5f9bf96775a010f49c2ca83fa5a6d9d5" resname="content.review.read_more">
+        <source><![CDATA[Read more &raquo;]]></source>
+        <target xml:lang="pl" state="translated"><![CDATA[Czytaj więcej &raquo;]]></target>
+        <note>key: content.review.read_more</note>
+      </trans-unit>
+      <trans-unit id="e476d7b010b290ee024c243ce41a6935c89f1f28" resname="content.review.reviewer_placeholder">
+        <source>Type to search</source>
+        <target xml:lang="pl" state="translated">Wpisz szukaną frazę</target>
+        <note>key: content.review.reviewer_placeholder</note>
+      </trans-unit>
+      <trans-unit id="34a7f0dcca4b17aceb2611a5ee005e38e5130d76" resname="content.review.send_for_review">
+        <source>Send for review</source>
+        <target xml:lang="pl" state="translated">Wyślij do recenzji</target>
+        <note>key: content.review.send_for_review</note>
+      </trans-unit>
+      <trans-unit id="a5d7d2276bbfe70fc88f354d03a89fe4cd92bbd3" resname="email.greeting">
+        <source>Hi %receiver_firstname%,</source>
+        <target xml:lang="pl" state="translated">Cześć %receiver_firstname%,</target>
+        <note>key: email.greeting</note>
+      </trans-unit>
+      <trans-unit id="a92726bad87c5ac3957fab36da70813dcf6061be" resname="email.title">
+        <source>Flex Workflow Notification</source>
+        <target xml:lang="pl" state="translated">Powiadomienie Flex Workflow</target>
+        <note>key: email.title</note>
+      </trans-unit>
+      <trans-unit id="06a48339bcee7f4409c1a1a58e1cbf57927783d3" resname="menu.flex_workflow">
+        <source>Send for review</source>
+        <target xml:lang="pl" state="translated">Wyślij do recenzji</target>
+        <note>key: menu.flex_workflow</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
