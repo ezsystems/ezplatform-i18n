@@ -329,6 +329,11 @@
         <target xml:lang="pl" state="translated">Nazwa języka</target>
         <note>key: tab.translations.language_name</note>
       </trans-unit>
+      <trans-unit id="852ca97b78e55e9b7734ff3e5a6c1b3fde6eca6f" resname="tab.translations.translation_manger">
+        <source>Translation manager</source>
+        <target xml:lang="pl" state="translated">Zarządzaj tłumaczeniami</target>
+        <note>key: tab.translations.translation_manger</note>
+      </trans-unit>
       <trans-unit id="a4297fe31e8eb3307caa2cf855328056c3b98962" resname="tab.versions.action.delete">
         <source>Delete Version</source>
         <target xml:lang="pl" state="translated">Usuń wersję</target>
