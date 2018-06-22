@@ -6,16 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="7f616359fa64ad9a44aba2d7eeebfde7aac7f16f" resname="location.copy.success">
+        <source>Location '%name%' copied to location '%location%'</source>
+        <target xml:lang="ru" state="translated">Расположение «%name%» скопировано в расположение «%location%»</target>
+        <note>key: location.copy.success</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
