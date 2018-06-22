@@ -166,6 +166,11 @@
         <target xml:lang="pl" state="translated">Rodzaj bazy danych</target>
         <note>key: role.policy.type</note>
       </trans-unit>
+      <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
+        <source>Choose a type</source>
+        <target xml:lang="pl" state="translated">Wybierz typ</target>
+        <note>key: role.policy.type.choose</note>
+      </trans-unit>
       <trans-unit id="f11a379ba38d1a4e5fb7de3bc3a2fb76b72fe9dd" resname="role_assignment.delete">
         <source>Delete</source>
         <target xml:lang="pl" state="translated">Usuń</target>
@@ -260,6 +265,11 @@
         <source>Select content item</source>
         <target xml:lang="pl" state="translated">Wybierz element</target>
         <note>key: swap_location_form.swap</note>
+      </trans-unit>
+      <trans-unit id="30b0c3c3e5e096a078005be2cc34bca6227ae381" resname="trash_empty_form.empty">
+        <source>Delete permanently</source>
+        <target xml:lang="pl" state="translated">Usuń trwale</target>
+        <note>key: trash_empty_form.empty</note>
       </trans-unit>
       <trans-unit id="7fb1cbcd94553ff377f8e1e4461246af38e14e85" resname="user_delete_form.delete">
         <source>Delete</source>
