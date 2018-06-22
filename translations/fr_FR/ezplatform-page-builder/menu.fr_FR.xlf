@@ -6,6 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="3bab40b277199437ea55a0d713be6bddd6dc3a55" resname="page_builder__infobar__edit__actions__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="fr" state="translated">Annuler modifications</target>
+        <note>key: page_builder__infobar__edit__actions__cancel</note>
+      </trans-unit>
+      <trans-unit id="3836eeccf7dc822f6c1acb28f25adbe79366d5d2" resname="page_builder__infobar__edit__actions__publish">
+        <source>Publish</source>
+        <target xml:lang="fr" state="translated">Publier</target>
+        <note>key: page_builder__infobar__edit__actions__publish</note>
+      </trans-unit>
       <trans-unit id="327a7fa97c120a7401e0ad51b8750db2b3efdc96" resname="page_builder__infobar__edit__actions__save_draft">
         <source>Save draft</source>
         <target xml:lang="fr" state="translated">Enregistrer le brouillon</target>
