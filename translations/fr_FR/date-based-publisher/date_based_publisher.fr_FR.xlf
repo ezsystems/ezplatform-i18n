@@ -26,6 +26,16 @@
         <target xml:lang="fr" state="translated">Titre:</target>
         <note>key: content.scheduled.title</note>
       </trans-unit>
+      <trans-unit id="382ab608837ac7a3db830601fd7566b42f2e3fa1" resname="dashboard.tab.all_scheduled.empty">
+        <source>No content scheduled for publish.</source>
+        <target xml:lang="fr" state="translated">Aucune future publication n'est prévue.</target>
+        <note>key: dashboard.tab.all_scheduled.empty</note>
+      </trans-unit>
+      <trans-unit id="9264d8cfa846c33592bb9c75fc27d3746b79b069" resname="dashboard.tab.my_scheduled.empty">
+        <source>No content scheduled for publish.</source>
+        <target xml:lang="fr" state="translated">Aucune future publication n'est prévue.</target>
+        <note>key: dashboard.tab.my_scheduled.empty</note>
+      </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content Type</source>
         <target xml:lang="fr" state="translated">Type de Contenu</target>
