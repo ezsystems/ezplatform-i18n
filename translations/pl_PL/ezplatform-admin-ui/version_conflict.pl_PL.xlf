@@ -21,6 +21,11 @@
         <target xml:lang="pl" state="translated">Anuluj</target>
         <note>key: version.conflict.form.cancel</note>
       </trans-unit>
+      <trans-unit id="c70ab0acdd2b67e3043949422191e75e6e09440e" resname="version.conflict.form.continue">
+        <source>Continue</source>
+        <target xml:lang="pl" state="translated">Kontynuuj</target>
+        <note>key: version.conflict.form.continue</note>
+      </trans-unit>
       <trans-unit id="0fcf485b042da069359444e8395122974ad929fc" resname="version.conflict.header">
         <source>Version conflict when editing</source>
         <target xml:lang="pl" state="translated">Konflikt wersji podczas edycji</target>
