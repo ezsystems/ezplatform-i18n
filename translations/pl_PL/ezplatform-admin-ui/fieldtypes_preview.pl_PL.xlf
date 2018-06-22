@@ -11,6 +11,11 @@
         <target xml:lang="pl" state="translated">tak</target>
         <note>key: ezboolean.yes</note>
       </trans-unit>
+      <trans-unit id="bf1525899659fa5ea6c18aa4bf63d596fecbf97e" resname="ezgmaplocation.address">
+        <source>Address</source>
+        <target xml:lang="pl" state="translated">Adres</target>
+        <note>key: ezgmaplocation.address</note>
+      </trans-unit>
       <trans-unit id="504719a5dc2e1c7d5c59a159e3d96e767d6b8ae2" resname="ezimage.alternative_text">
         <source>Alternative text</source>
         <target xml:lang="pl" state="translated">Tekst alternatywny</target>
@@ -45,6 +50,11 @@
         <source>%width%px Width - %height%px Height</source>
         <target xml:lang="pl" state="translated">%width%px szerokości - %height%px wysokości</target>
         <note>key: ezimage.width_and_height</note>
+      </trans-unit>
+      <trans-unit id="e371d4573dda857ef4a58cebd2420f87992b8864" resname="ezmedia.auto_play">
+        <source>Auto play</source>
+        <target xml:lang="pl" state="translated">Autoodtwarzanie</target>
+        <note>key: ezmedia.auto_play</note>
       </trans-unit>
       <trans-unit id="0a8b2fdd1d0a69bd12d066f8f7f8b517df9974bf" resname="ezmedia.file_name">
         <source>File name</source>
@@ -86,20 +96,40 @@
         <target xml:lang="pl" state="translated">Utworzono</target>
         <note>key: ezobjectrelationlist.created</note>
       </trans-unit>
+      <trans-unit id="ac6f4439a9d7e655920f9789346d6c928182127e" resname="ezobjectrelationlist.multiple_relations">
+        <source>Multiple relations</source>
+        <target xml:lang="pl" state="translated">Wiele relacji</target>
+        <note>key: ezobjectrelationlist.multiple_relations</note>
+      </trans-unit>
       <trans-unit id="44d2ac9ae83f6b73fa8f61fad66a77d76d2159f0" resname="ezobjectrelationlist.name">
         <source>Name</source>
         <target xml:lang="pl" state="translated">Nazwa</target>
         <note>key: ezobjectrelationlist.name</note>
+      </trans-unit>
+      <trans-unit id="eb451c657d2bd24b90aaea1619ba0ffb33ba52cc" resname="ezuser.email">
+        <source>E-mail</source>
+        <target xml:lang="pl" state="translated">E-mail</target>
+        <note>key: ezuser.email</note>
       </trans-unit>
       <trans-unit id="09acf9d3220515cf63f284525c54ed3f88b7a396" resname="ezuser.enabled">
         <source>Enabled</source>
         <target xml:lang="pl" state="translated">Włączony</target>
         <note>key: ezuser.enabled</note>
       </trans-unit>
+      <trans-unit id="26b99946e7309fcdd54dd12a959fee7d666b82f9" resname="ezuser.no">
+        <source>No</source>
+        <target xml:lang="pl" state="translated">Nie</target>
+        <note>key: ezuser.no</note>
+      </trans-unit>
       <trans-unit id="fc4b6b718b2cee2f8a91703c070fd69756d5c4cd" resname="ezuser.username">
         <source>Username</source>
         <target xml:lang="pl" state="translated">Nazwa użytkownika</target>
         <note>key: ezuser.username</note>
+      </trans-unit>
+      <trans-unit id="0e86a412baba94a10cf9d1b03332c9f8f1d5e1bb" resname="ezuser.yes">
+        <source>Yes</source>
+        <target xml:lang="pl" state="translated">Tak</target>
+        <note>key: ezuser.yes</note>
       </trans-unit>
     </body>
   </file>
