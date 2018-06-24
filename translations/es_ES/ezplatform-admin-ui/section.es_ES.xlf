@@ -6,6 +6,36 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="128df491a522e7af4916cd002d9e11a3d2bc4078" resname="section.action.delete">
+        <source>Delete Section</source>
+        <target xml:lang="es-ES" state="translated">Eliminar sección</target>
+        <note>key: section.action.delete</note>
+      </trans-unit>
+      <trans-unit id="84413bc1ae3385c0aac1af7ea5665cb0c1eaf3ba" resname="section.assign_content">
+        <source>Assign content</source>
+        <target xml:lang="es-ES" state="translated">Asignar a contenido</target>
+        <note>key: section.assign_content</note>
+      </trans-unit>
+      <trans-unit id="2a6caa13cfd67503e2250af8e36f26a2f835a4a0" resname="section.assign_content.success">
+        <source>%contentItemsCount% content items were assigned to '%name%'</source>
+        <target xml:lang="es-ES" state="translated">%contentItemsCount% contenido(s) fueron asignados a '%name% '</target>
+        <note>key: section.assign_content.success</note>
+      </trans-unit>
+      <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content">
+        <source>Assignments count</source>
+        <target xml:lang="es-ES" state="translated">Número de asignaciones</target>
+        <note>key: section.assigned.content</note>
+      </trans-unit>
+      <trans-unit id="e04ac63bba940de331146dac711b1633407e5ce9" resname="section.assigned_content.empty">
+        <source>No content items.</source>
+        <target xml:lang="es-ES" state="translated">Sin contenidos.</target>
+        <note>key: section.assigned_content.empty</note>
+      </trans-unit>
+      <trans-unit id="d40d7fd957935deb539c21b9b49f34d4016c69d0" resname="section.assigned_content.empty_desc">
+        <source>Content items you assign to this section will appear here.</source>
+        <target xml:lang="es-ES" state="translated">Los contenidos que asigne aparecerán aquí.</target>
+        <note>key: section.assigned_content.empty_desc</note>
+      </trans-unit>
       <trans-unit id="adcc2af264c7ae84e69396a8ff7ea5a259abd01e" resname="section.assigned_content.name">
         <source>Name</source>
         <target xml:lang="es-ES" state="translated">Nombre</target>
