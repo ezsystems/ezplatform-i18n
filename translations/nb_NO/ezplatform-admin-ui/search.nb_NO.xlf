@@ -21,6 +21,11 @@
         <target xml:lang="nb" state="translated">Søk</target>
         <note>key: search</note>
       </trans-unit>
+      <trans-unit id="2c0d71c1688c1f04ff156bb9dff167ca5ae663b6" resname="search.any.content.type">
+        <source>Any content type</source>
+        <target xml:lang="nb" state="translated">Villkårlig innholdstype</target>
+        <note>key: search.any.content.type</note>
+      </trans-unit>
       <trans-unit id="8605c5030193beebc7097a652f6c9dcb648cccec" resname="search.apply">
         <source>Apply</source>
         <target xml:lang="nb" state="translated">Bruk</target>
@@ -46,6 +51,11 @@
         <target xml:lang="nb" state="translated">Laget av:</target>
         <note>key: search.creator</note>
       </trans-unit>
+      <trans-unit id="a18d7835f5b4a97ac94331f82e729abcb698be41" resname="search.custom_range">
+        <source>Custom range</source>
+        <target xml:lang="nb" state="translated">Egendefinert utvalg</target>
+        <note>key: search.custom_range</note>
+      </trans-unit>
       <trans-unit id="9cef4cf2cb67458460a2a01c0adc1b4238320459" resname="search.date.from">
         <source>From:</source>
         <target xml:lang="nb" state="translated">Fra:</target>
@@ -60,6 +70,16 @@
         <source>To:</source>
         <target xml:lang="nb" state="translated">Til:</target>
         <note>key: search.date.to</note>
+      </trans-unit>
+      <trans-unit id="9db82102d1da5efb63380ca328a83d13732a02ee" resname="search.filter">
+        <source>Filter</source>
+        <target xml:lang="nb" state="translated">Filter</target>
+        <note>key: search.filter</note>
+      </trans-unit>
+      <trans-unit id="0ec8148d681b43e87a6d0751fff188517be1ea26" resname="search.header">
+        <source>Search results (%total%)</source>
+        <target xml:lang="nb" state="translated">Søkeresultater (%total%)</target>
+        <note>key: search.header</note>
       </trans-unit>
       <trans-unit id="1d83218940b91b2cc81ae9d0a694682f6cb04813" resname="search.headline">
         <source>Search</source>
