@@ -144,10 +144,30 @@
         <target xml:lang="es-ES" state="translated">Probar diferentes palabras clave.</target>
         <note>key: search.tips.different_keywords</note>
       </trans-unit>
+      <trans-unit id="013ced9a3284ecebf5a5356397dc9a79eaf76496" resname="search.tips.fewer_keywords">
+        <source>Try fewer keywords. Reducing keywords result in more matches.</source>
+        <target xml:lang="es-ES" state="translated">Pruebe con menos palabras clave. Un menor número de palabras clave producirá más coincidencias.</target>
+        <note>key: search.tips.fewer_keywords</note>
+      </trans-unit>
+      <trans-unit id="4af1e76946070e5f61320621d12a171f4206e06c" resname="search.tips.headline">
+        <source>Some helpful search tips:</source>
+        <target xml:lang="es-ES" state="translated">Algunos consejos útiles para la búsqueda:</target>
+        <note>key: search.tips.headline</note>
+      </trans-unit>
+      <trans-unit id="dd61516edc919235a13e3cfadb5d961b8614b744" resname="search.tips.more_general_keywords">
+        <source>Try more general keywords.</source>
+        <target xml:lang="es-ES" state="translated">Pruebe palabras clave más comunes.</target>
+        <note>key: search.tips.more_general_keywords</note>
+      </trans-unit>
       <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type">
         <source>Content Type</source>
         <target xml:lang="es-ES" state="translated">Tipo de Contenido</target>
         <note>key: search.type</note>
+      </trans-unit>
+      <trans-unit id="fe647ff0e12d67501403559464217be468dba3d8" resname="search.viewing">
+        <source>Viewing %viewing% out of %total% sub-items</source>
+        <target xml:lang="es-ES" state="translated">Viendo %viewing% de %total% elementos</target>
+        <note>key: search.viewing</note>
       </trans-unit>
     </body>
   </file>
