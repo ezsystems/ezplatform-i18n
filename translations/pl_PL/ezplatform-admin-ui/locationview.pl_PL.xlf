@@ -301,13 +301,24 @@
       </trans-unit>
       <trans-unit id="06422c0c484b663ec929d1049a228a26b9d48476" resname="tab.relations.table.relation_type">
         <source>Relation type</source>
-        <target xml:lang="pl" state="translated">Typ relacji</target>
+        <target xml:lang="pl" state="translated">Typ powiązania</target>
         <note>key: tab.relations.table.relation_type</note>
+        <alt-trans>
+          <target xml:lang="pl">Typ relacji</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="d8360b13746f836dc7c28998696a69b24ea30b18" resname="tab.relations.table.relation_type.content_level_relation">
+        <source>Content level relation</source>
+        <target xml:lang="pl" state="translated">Powiązanie na poziomie elementu</target>
+        <note>key: tab.relations.table.relation_type.content_level_relation</note>
       </trans-unit>
       <trans-unit id="79779455bd3c932297c6b8cefdcd1251836525c5" resname="tab.relations.table.relation_type.embed">
         <source>Embed</source>
-        <target xml:lang="pl" state="translated">Osadź</target>
+        <target xml:lang="pl" state="translated">Osadzone</target>
         <note>key: tab.relations.table.relation_type.embed</note>
+        <alt-trans>
+          <target xml:lang="pl">Osadź</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="9a9a16a9516cdda3bc3213bbdf77a02ff04b8fc8" resname="tab.relations.table.relation_type.field">
         <source>Field</source>
