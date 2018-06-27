@@ -96,6 +96,31 @@
         <target xml:lang="ru" state="translated"><![CDATA[Пожалуйста свяжитесь с вашим eZ Platform администратором и сообщите что произошла ошибка. Передайте URL в окне браузера и все, что вы думаете, может быть причиной ошибки.<br/>Вы также можете вернуться или попытаться перезагрузить приложение.]]></target>
         <note>key: error.page.default.actions</note>
       </trans-unit>
+      <trans-unit id="8338c190462d420926edf71e8d4cddcae710d361" resname="error.page.default.message">
+        <source>It's an error 500, an internal server error. The server was unable to complete your request and it's not your fault.</source>
+        <target xml:lang="ru" state="translated">Ошибка 500. Внутренняя ошибка сервера. Сервер не смог выполнить ваш запрос, и это не ваша вина.</target>
+        <note>key: error.page.default.message</note>
+      </trans-unit>
+      <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title">
+        <source>Something went wrong. Sorry!</source>
+        <target xml:lang="ru" state="translated">Что-то пошло не так, просим прощения.</target>
+        <note>key: error.page.default.title</note>
+      </trans-unit>
+      <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
+        <source>Add author</source>
+        <target xml:lang="ru" state="translated">Добавить автора</target>
+        <note>key: ezauthor.action.add</note>
+      </trans-unit>
+      <trans-unit id="3a0389d073f00ef9a968a5cdc60e2794b434b381" resname="ezauthor.action.delete">
+        <source>Remove author</source>
+        <target xml:lang="ru" state="translated">Удалить автора</target>
+        <note>key: ezauthor.action.delete</note>
+      </trans-unit>
+      <trans-unit id="f73d03811ba3033d6b44986d55ca728c5a88b168" resname="ezplatform.forgot_user_password.contact_administrator">
+        <source>If you do not remember your login, please contact the site administrator.</source>
+        <target xml:lang="ru" state="translated">Если вы не помните свой логин, пожалуйста, свяжитесь с администрацией сайта.</target>
+        <note>key: ezplatform.forgot_user_password.contact_administrator</note>
+      </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
         <source>Cancel</source>
         <target xml:lang="ru" state="translated">Отменить</target>
