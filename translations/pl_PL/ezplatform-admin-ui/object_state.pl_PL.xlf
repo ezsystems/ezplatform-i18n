@@ -31,6 +31,11 @@
         <target xml:lang="pl" state="translated">Utwórz</target>
         <note>key: object_state.create.submit</note>
       </trans-unit>
+      <trans-unit id="36f59a22258261f543e11a7753e74c1a591a14a8" resname="object_state.create.success">
+        <source>Object state '%name%' created.</source>
+        <target xml:lang="pl" state="translated">Utworzono stan obiektów '%name%'.</target>
+        <note>key: object_state.create.success</note>
+      </trans-unit>
       <trans-unit id="0480844e257807b48dbf75fa7a374ceb7649ec5c" resname="object_state.delete.bulk_delete.submit">
         <source>Delete Object State</source>
         <target xml:lang="pl" state="translated">Usuń stan obiektów</target>
@@ -38,6 +43,11 @@
         <alt-trans>
           <target xml:lang="pl">Usuń stanu obiektów</target>
         </alt-trans>
+      </trans-unit>
+      <trans-unit id="cd20ab0806780f115ec08655d9e44e0c31d0fecd" resname="object_state.delete.success">
+        <source>Object state '%name%' deleted.</source>
+        <target xml:lang="pl" state="translated">Usunięto stan obiektów '%name%'.</target>
+        <note>key: object_state.delete.success</note>
       </trans-unit>
       <trans-unit id="99f5115d5dc13c37f78cfaa37168636912e1a9a6" resname="object_state.id">
         <source>ID</source>
