@@ -161,6 +161,16 @@
         <target xml:lang="ru" state="translated">Попробуйте использовать более общие ключевые слова.</target>
         <note>key: search.tips.more_general_keywords</note>
       </trans-unit>
+      <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type">
+        <source>Content Type</source>
+        <target xml:lang="ru" state="translated">Тип содержания</target>
+        <note>key: search.type</note>
+      </trans-unit>
+      <trans-unit id="fe647ff0e12d67501403559464217be468dba3d8" resname="search.viewing">
+        <source>Viewing %viewing% out of %total% sub-items</source>
+        <target xml:lang="ru" state="translated">Просмотр %viewing% из %total% подпунктов</target>
+        <note>key: search.viewing</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
