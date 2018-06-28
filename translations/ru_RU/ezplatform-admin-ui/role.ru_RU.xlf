@@ -131,6 +131,21 @@
         <target xml:lang="ru" state="translated">Политики (%count%)</target>
         <note>key: policy.view.list.title.count</note>
       </trans-unit>
+      <trans-unit id="9b1c2c53df24e9d0d141037860eb87d2878bdb05" resname="policy.view.policy.title">
+        <source>Editing - Policy type</source>
+        <target xml:lang="ru" state="translated">Редактирование - тип политики</target>
+        <note>key: policy.view.policy.title</note>
+      </trans-unit>
+      <trans-unit id="e2b7ae0acb75f99dc7943574a63b36abbb6c42bf" resname="role.assignment_create.success">
+        <source>Assignments on role '%role%' created.</source>
+        <target xml:lang="ru" state="translated">Назначения для роли «%role%» созданы.</target>
+        <note>key: role.assignment_create.success</note>
+      </trans-unit>
+      <trans-unit id="f684c343da285bc7273d4671a257d2731ccc83a2" resname="role.assignment_delete.success">
+        <source>Assignment on role '%role%' removed.</source>
+        <target xml:lang="ru" state="translated">Назначения для роли «%role%» удалены.</target>
+        <note>key: role.assignment_delete.success</note>
+      </trans-unit>
       <trans-unit id="03e72944d22126b885a65f885ebf8f1b8e2f8579" resname="role.breadcrumb.list">
         <source>Roles</source>
         <target xml:lang="ru" state="translated">Роли пользователей</target>
