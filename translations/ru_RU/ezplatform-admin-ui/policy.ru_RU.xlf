@@ -6,6 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="41bcfef149f877e1abb0ce2cd2aa5afb713ea1de" resname="policy.limitation.identifier_tooltip">
+        <source>"%identifier%" Limitation</source>
+        <target xml:lang="ru" state="translated">«%identifier%» ограничений</target>
+        <note>key: policy.limitation.identifier_tooltip</note>
+      </trans-unit>
+      <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none">
+        <source>None</source>
+        <target xml:lang="ru" state="translated">Нет</target>
+        <note>key: policy.limitation.none</note>
+      </trans-unit>
       <trans-unit id="445e5dce642562c06137fef60c9a7fcf788a9da6" resname="tab.policies.no_policies">
         <source>This content item has no policies.</source>
         <target xml:lang="ru" state="translated">Данная запись не содержит роли пользователя.</target>
