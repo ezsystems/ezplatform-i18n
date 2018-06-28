@@ -261,6 +261,49 @@
         <target xml:lang="ru" state="translated">Назначить для пользователя/группы</target>
         <note>key: role_assignment.view.add.title</note>
       </trans-unit>
+      <trans-unit id="a21a7a13956cadf2256095fbdd062f1b33dd05a8" resname="role_assignment.view.list.action.add">
+        <source>Assign users/groups</source>
+        <target xml:lang="ru" state="translated">Назначить пользователей/группы</target>
+        <note>key: role_assignment.view.list.action.add</note>
+      </trans-unit>
+      <trans-unit id="76361d414c957ff63dcfdaf4490b3e9a2c632750" resname="role_assignment.view.list.action.delete">
+        <source>Delete Assignment</source>
+        <target xml:lang="ru" state="translated">Удалить назначение</target>
+        <note>key: role_assignment.view.list.action.delete</note>
+      </trans-unit>
+      <trans-unit id="5111796ffacfccc152f157c56a6e7219d35c3fd8" resname="role_assignment.view.list.header">
+        <source>Users and Groups</source>
+        <target xml:lang="ru" state="translated">Пользователи и группы</target>
+        <note>key: role_assignment.view.list.header</note>
+      </trans-unit>
+      <trans-unit id="f7b9f2997c5eada07c20a0bde7e89cc0c688e1ea" resname="role_assignment.view.list.panel.assignments.column.limitation">
+        <source>Limitation</source>
+        <target xml:lang="ru" state="translated">Ограничение</target>
+        <note>key: role_assignment.view.list.panel.assignments.column.limitation</note>
+        <alt-trans>
+          <target xml:lang="ru">Ограничения</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="e978e250aa8284fa54c6f2a73cef9d3c8f0535c8" resname="role_assignment.view.list.panel.assignments.column.limitations">
+        <source>Limitations</source>
+        <target xml:lang="ru" state="translated">Ограничения</target>
+        <note>key: role_assignment.view.list.panel.assignments.column.limitations</note>
+      </trans-unit>
+      <trans-unit id="bedf1e132292302ec09e4646d9a348a56e2c1ce8" resname="role_assignment.view.list.panel.assignments.column.user_group">
+        <source>User/Group</source>
+        <target xml:lang="ru" state="translated">Пользователь / Группа</target>
+        <note>key: role_assignment.view.list.panel.assignments.column.user_group</note>
+      </trans-unit>
+      <trans-unit id="4b3ecf13ffafd795bc971bc6292ea7f5a0bbe64c" resname="role_assignment.view.list.title.count">
+        <source>Assignments (%count%)</source>
+        <target xml:lang="ru" state="translated">Назначения (%count%)</target>
+        <note>key: role_assignment.view.list.title.count</note>
+      </trans-unit>
+      <trans-unit id="304836ca19b0d01940431c18b955ae028a6110f9" resname="role_assignments.modal.message">
+        <source>Do you want to delete Role Assignments?</source>
+        <target xml:lang="ru" state="translated">Вы хотите удалить назначения ролей?</target>
+        <note>key: role_assignments.modal.message</note>
+      </trans-unit>
       <trans-unit id="9e3fbe7cbb68fbe5996471da829e0fab59c3fc8b" resname="tab.roles.no_roles">
         <source>This content item has no roles.</source>
         <target xml:lang="ru" state="translated">Данная запись не содержит роли пользователя.</target>
