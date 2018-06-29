@@ -11,6 +11,21 @@
         <target xml:lang="pl" state="translated">Wybierz treść</target>
         <note>key: block.collection.select.content</note>
       </trans-unit>
+      <trans-unit id="8f471b1b27d61346fdea81d93fc467fe08637010" resname="page_builder.block_configuration.class">
+        <source>Class</source>
+        <target xml:lang="pl" state="translated">Klasa</target>
+        <note>key: page_builder.block_configuration.class</note>
+      </trans-unit>
+      <trans-unit id="f25907170d46ba21aa3ab7e5a401a1c38d340168" resname="page_builder.block_configuration.name">
+        <source>Name</source>
+        <target xml:lang="pl" state="translated">Nazwa</target>
+        <note>key: page_builder.block_configuration.name</note>
+      </trans-unit>
+      <trans-unit id="f1269b6fc5483b2a1528e8b2f1938cc37ab537c2" resname="page_builder.block_configuration.style">
+        <source>Style</source>
+        <target xml:lang="pl" state="translated">Styl</target>
+        <note>key: page_builder.block_configuration.style</note>
+      </trans-unit>
       <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content">
         <source>Select content</source>
         <target xml:lang="pl" state="translated">Wybierz treść</target>
