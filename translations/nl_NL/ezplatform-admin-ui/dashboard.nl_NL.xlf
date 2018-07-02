@@ -6,10 +6,20 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="749d4759e304735bcec6ef6ec10af43e70f1f289" resname="dashboard.table.all.content.edit" approved="yes">
+        <source>Edit Content</source>
+        <target xml:lang="nl">Inhoud bewerken</target>
+        <note>key: dashboard.table.all.content.edit</note>
+      </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type" approved="yes">
         <source>Content Type</source>
         <target xml:lang="nl">Inhoudstype</target>
         <note>key: dashboard.table.content_type</note>
+      </trans-unit>
+      <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit" approved="yes">
+        <source>Edit Draft</source>
+        <target xml:lang="nl">Concept bewerken</target>
+        <note>key: dashboard.table.draft.edit</note>
       </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved" approved="yes">
         <source>Last Saved</source>
@@ -26,10 +36,25 @@
         <target xml:lang="nl">Versie</target>
         <note>key: dashboard.table.version</note>
       </trans-unit>
+      <trans-unit id="a49a78f944bf1f73f3f7ff9672463bb1abd4a402" resname="everyone" approved="yes">
+        <source>Everyone</source>
+        <target xml:lang="nl">Alle inhoud</target>
+        <note>key: everyone</note>
+      </trans-unit>
       <trans-unit id="b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8" resname="me" approved="yes">
         <source>Me</source>
         <target xml:lang="nl">Mijn inhoud</target>
         <note>key: me</note>
+      </trans-unit>
+      <trans-unit id="c4d3f17636317e532c589f3008d82c263ab5c39d" resname="tab.name.everyone_content" approved="yes">
+        <source>Content</source>
+        <target xml:lang="nl">Inhoud</target>
+        <note>key: tab.name.everyone_content</note>
+      </trans-unit>
+      <trans-unit id="73956c614b0e87aa1d4ae18abb82cdc6e2770bba" resname="tab.name.everyone_media" approved="yes">
+        <source>Media</source>
+        <target xml:lang="nl">Media</target>
+        <note>key: tab.name.everyone_media</note>
       </trans-unit>
       <trans-unit id="fdd56e68fb3a108fce6f8ee4c5a191c0aa8f2996" resname="tab.name.my_content" approved="yes">
         <source>Content</source>
