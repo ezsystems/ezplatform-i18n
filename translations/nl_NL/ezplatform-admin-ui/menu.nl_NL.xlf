@@ -11,6 +11,11 @@
         <target xml:lang="nl" state="translated">Inhoud</target>
         <note>key: main__content</note>
       </trans-unit>
+      <trans-unit id="1f5824f08c1b09cf6511dee2352e6f1681f94893" resname="main_admin">
+        <source>Admin</source>
+        <target xml:lang="nl" state="translated">Beheer</target>
+        <note>key: main_admin</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
