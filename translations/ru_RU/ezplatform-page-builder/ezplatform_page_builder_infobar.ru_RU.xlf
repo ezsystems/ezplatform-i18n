@@ -6,17 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="9f897e0a8684c5fcf61d4d121bd7122a12f99c32" resname="infobar.author.name">
+        <source><![CDATA[by <span class="ez-content-details__author">%name%</span>]]></source>
+        <target xml:lang="ru" state="translated"><![CDATA[by <span class="ez-content-details__author">%name%</span>]]></target>
+        <note>key: infobar.author.name</note>
+      </trans-unit>
+      <trans-unit id="8cae04221f80a7be222bfb773c07e5c6394bd7da" resname="infobar.error.message">
+        <source>Switch to the Field view and fill in the required fields</source>
+        <target xml:lang="ru" state="translated">Переключитесь в режим редактирования полей и заполните обязательные поля</target>
+        <note>key: infobar.error.message</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
