@@ -330,6 +330,56 @@
         <note>key: fielddefinition.selection-method.multi_template</note>
         <jms:reference-file line="244">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="1095b3a335cbfeed0e396f081895affe81e7b7fd" resname="fielddefinition.selection-method.multiple_list">
+        <source>Multiple selection list</source>
+        <target xml:lang="ru" state="translated">Список со множественным выбором</target>
+        <note>key: fielddefinition.selection-method.multiple_list</note>
+        <jms:reference-file line="242">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="60f06115f038572328285e2ca1fc5ad811105c49" resname="fielddefinition.selection-method.radio">
+        <source>List with radio buttons</source>
+        <target xml:lang="ru" state="translated">Список с переключателями</target>
+        <note>key: fielddefinition.selection-method.radio</note>
+        <jms:reference-file line="238">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="37121f3c9e8054432510a9f85fd3235e5f549734" resname="fielddefinition.selection-method.single_template">
+        <source>Template based, single</source>
+        <target xml:lang="ru" state="translated">Основанный на шаблоне, единичный</target>
+        <note>key: fielddefinition.selection-method.single_template</note>
+        <jms:reference-file line="246">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e0b6bc6950269d05c7318553912abe4042d6a423" resname="fielddefinition.selection-method.tree">
+        <source>Drop-down tree</source>
+        <target xml:lang="ru" state="translated">Раскрывающееся дерево</target>
+        <note>key: fielddefinition.selection-method.tree</note>
+        <jms:reference-file line="219">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ccf4d68283a388e6a965caf9e507c6a39fffc46f" resname="fielddefinition.selection-root.label">
+        <source>Selection root:</source>
+        <target xml:lang="ru" state="translated">Корневой элемент:</target>
+        <note>key: fielddefinition.selection-root.label</note>
+        <jms:reference-file line="334">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c7b711d3eb6c197d83e064f309bd2e9791a0950d" resname="fielddefinition.selection-root.undefined">
+        <source>No defined root</source>
+        <target xml:lang="ru" state="translated">Корневой элемент не определен</target>
+        <note>key: fielddefinition.selection-root.undefined</note>
+        <jms:reference-file line="339">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4c9eb21a084528340d7944eeb0ffe525fc5e5e75" resname="fielddefinition.use-seconds.label">
+        <source>Use seconds:</source>
+        <target xml:lang="ru" state="translated">Используйте секунды:</target>
+        <note>key: fielddefinition.use-seconds.label</note>
+        <jms:reference-file line="122">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="96">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f875a84fc9f3c1e0610a90197722f04b9442fa01" resname="fielddefinition.use-seconds.yes_no">
+        <source>{0} No|{1} Yes</source>
+        <target xml:lang="ru" state="translated">{0} Нет |{1} Да</target>
+        <note>key: fielddefinition.use-seconds.yes_no</note>
+        <jms:reference-file line="123">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="97">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
