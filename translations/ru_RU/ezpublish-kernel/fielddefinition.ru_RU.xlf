@@ -237,6 +237,99 @@
         <note>key: fielddefinition.min-length.label</note>
         <jms:reference-file line="18">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="09fff8d9a67512b01bb3e58b5d25cf5d042ba195" resname="fielddefinition.min-length.undefined">
+        <source>No defined minimum string length</source>
+        <target xml:lang="ru" state="translated">Не определена минимальная длина строки</target>
+        <note>key: fielddefinition.min-length.undefined</note>
+        <jms:reference-file line="23">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="904a83f949dd73a0bed006f8e78a211c80b4816a" resname="fielddefinition.min-length.value">
+        <source>%min% characters</source>
+        <target xml:lang="ru" state="translated">%min% символов</target>
+        <note>key: fielddefinition.min-length.value</note>
+        <jms:reference-file line="21">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1feb12108139bb4d34877c40ade8362c0872b528" resname="fielddefinition.min-value.label">
+        <source>Minimum value:</source>
+        <target xml:lang="ru" state="translated">Минимальное значение:</target>
+        <note>key: fielddefinition.min-value.label</note>
+        <jms:reference-file line="360">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="625d3f00da19e0e839ad54eb5cc6b3504033b882" resname="fielddefinition.min-value.undefined">
+        <source>No defined minimum value</source>
+        <target xml:lang="ru" state="translated">Минимальное значение не определено</target>
+        <note>key: fielddefinition.min-value.undefined</note>
+        <jms:reference-file line="365">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="694dc611591facca075a581721e399e272b758fe" resname="fielddefinition.multiple.label">
+        <source>Allow multiple choices:</source>
+        <target xml:lang="ru" state="translated">Разрешить выбор нескольких вариантов:</target>
+        <note>key: fielddefinition.multiple.label</note>
+        <jms:reference-file line="386">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="77c3603526e153eea2b11a851601dabd3bfdbd9a" resname="fielddefinition.multiple.yes_no">
+        <source>{0} No|{1} Yes</source>
+        <target xml:lang="ru" state="translated">{0} Нет |{1} Да</target>
+        <note>key: fielddefinition.multiple.yes_no</note>
+        <jms:reference-file line="387">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4d59776118124c81734aacab8a71198ee555479c" resname="fielddefinition.options.label">
+        <source>Defined options</source>
+        <target xml:lang="ru" state="translated">Определенные параметры</target>
+        <note>key: fielddefinition.options.label</note>
+        <jms:reference-file line="153">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="030aa959f56ae9ba0e1d84a99606995a02c5bd97" resname="fielddefinition.preferred-rows-number.label">
+        <source>Preferred number of rows:</source>
+        <target xml:lang="ru" state="translated">Предпочитаемое число строк:</target>
+        <note>key: fielddefinition.preferred-rows-number.label</note>
+        <jms:reference-file line="321">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f552c76a800b38e41d8b16afa53d3d22d3b37692" resname="fielddefinition.preferred-rows-number.undefined">
+        <source>No preferred number of rows</source>
+        <target xml:lang="ru" state="translated">Нет предпочтительного количества строк</target>
+        <note>key: fielddefinition.preferred-rows-number.undefined</note>
+        <jms:reference-file line="326">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ac0aff5c558fb078621da0f46b2ae5b0e04afcaa" resname="fielddefinition.preferred-rows-number.value">
+        <source>%rows% rows</source>
+        <target xml:lang="ru" state="translated">%rows% строк</target>
+        <note>key: fielddefinition.preferred-rows-number.value</note>
+        <jms:reference-file line="324">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b21527196a76acac750d478bfe8137cae7aff914" resname="fielddefinition.selection-method.browse">
+        <source>Browse</source>
+        <target xml:lang="ru" state="translated">Обзор</target>
+        <note>key: fielddefinition.selection-method.browse</note>
+        <jms:reference-file line="215">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="234">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="02c78e1886bdf844e359ddd54b190eb718286557" resname="fielddefinition.selection-method.checkbox">
+        <source>List with checkboxes</source>
+        <target xml:lang="ru" state="translated">Список с флажками</target>
+        <note>key: fielddefinition.selection-method.checkbox</note>
+        <jms:reference-file line="240">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a60c81e556aa14c00b3b44ffb6e49f90b882c286" resname="fielddefinition.selection-method.label">
+        <source>Selection method:</source>
+        <target xml:lang="ru" state="translated">Метод выбора:</target>
+        <note>key: fielddefinition.selection-method.label</note>
+        <jms:reference-file line="212">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="231">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cd94d6146477b427bdc6dbbe19be20bd6db31542" resname="fielddefinition.selection-method.list">
+        <source>Drop-down list</source>
+        <target xml:lang="ru" state="translated">Раскрывающийся список</target>
+        <note>key: fielddefinition.selection-method.list</note>
+        <jms:reference-file line="217">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="236">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7d8f219b8fc1dab2be8b6a82898b0e7a8920c928" resname="fielddefinition.selection-method.multi_template">
+        <source>Template based, multi</source>
+        <target xml:lang="ru" state="translated">Шаблон, мульти</target>
+        <note>key: fielddefinition.selection-method.multi_template</note>
+        <jms:reference-file line="244">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
