@@ -117,6 +117,30 @@
         <note>key: fielddefinition.interval.second</note>
         <jms:reference-file line="92">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="c88fa282a777c6f3a778f513fc9e46800ffe0198" resname="fielddefinition.interval.year">
+        <source>%default% %year% year(s)</source>
+        <target xml:lang="ru" state="translated">%default% %year% год(а)</target>
+        <note>key: fielddefinition.interval.year</note>
+        <jms:reference-file line="87">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fa2595f063cfd4284226372dc99eb3dfbbc36498" resname="fielddefinition.isbn.label">
+        <source>Selected ISBN format:</source>
+        <target xml:lang="ru" state="translated">Выбранный формат ISBN:</target>
+        <note>key: fielddefinition.isbn.label</note>
+        <jms:reference-file line="393">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c963dbac20e5526d70d08b17ebffdaaf44e1c2c3" resname="fielddefinition.max-length.label">
+        <source>Max string length:</source>
+        <target xml:lang="ru" state="translated">Максимальная длина строки:</target>
+        <note>key: fielddefinition.max-length.label</note>
+        <jms:reference-file line="28">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c8c3fa9b71c848069950539011a09b45abb1c11f" resname="fielddefinition.max-length.undefined">
+        <source>No defined maximum string length</source>
+        <target xml:lang="ru" state="translated">Не определена максимальная длина строки</target>
+        <note>key: fielddefinition.max-length.undefined</note>
+        <jms:reference-file line="33">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
