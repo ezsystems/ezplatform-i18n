@@ -141,6 +141,24 @@
         <note>key: fielddefinition.max-length.undefined</note>
         <jms:reference-file line="33">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="9a3d23487e45edf331407c501ead33d70461f9e3" resname="fielddefinition.max-length.value">
+        <source>%max% characters</source>
+        <target xml:lang="ru" state="translated">%max% символов</target>
+        <note>key: fielddefinition.max-length.value</note>
+        <jms:reference-file line="31">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="11e7b0a01edea69919ea6191acdbd5ad7c2bf279" resname="fielddefinition.max-value.label">
+        <source>Maximum value:</source>
+        <target xml:lang="ru" state="translated">Максимальное значение:</target>
+        <note>key: fielddefinition.max-value.label</note>
+        <jms:reference-file line="373">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="444423d6eff78ccc1c92077813a212b4e5a002c8" resname="fielddefinition.max-value.undefined">
+        <source>No defined maximum value</source>
+        <target xml:lang="ru" state="translated">Максимальное значение не определено</target>
+        <note>key: fielddefinition.max-value.undefined</note>
+        <jms:reference-file line="378">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
