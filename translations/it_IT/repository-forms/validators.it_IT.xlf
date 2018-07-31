@@ -36,6 +36,16 @@
         <target xml:lang="it" state="translated">L'identificatore di sezione può contenere solo lettere da "a" alla "z", numeri e trattini di sottolineatura.</target>
         <note>key: ez.section.identifier.format</note>
       </trans-unit>
+      <trans-unit id="963a415cd08151ecf8726e651a7a36140e05f4b5" resname="ez.role.identifier.unique">
+        <source>The role identifier "%identifier%" is used by another role. You must enter a unique identifier.</source>
+        <target xml:lang="it" state="translated">L'identificatore di ruolo "%identifier%" è utilizzato da un altro ruolo. È necessario immettere un identificatore univoco.</target>
+        <note>key: ez.role.identifier.unique</note>
+      </trans-unit>
+      <trans-unit id="e7e08263e46325665a4d7f85d5f3465c37d49bb7" resname="ez.language.code.unique">
+        <source>The language code "%language_code%" is used by another language. You must enter a unique language code.</source>
+        <target xml:lang="it" state="translated">Il codice della lingua "%language_code%" è utilizzato da un'altra lingua. È necessario immettere un codice di lingua univoco.</target>
+        <note>key: ez.language.code.unique</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
