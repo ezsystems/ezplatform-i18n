@@ -8,9 +8,12 @@
     <body>
       <trans-unit id="f32918f2df2d2ecd3aa263a188187635d45c3d49" resname="navigationhub.zone.platform">
         <source>Content</source>
-        <target xml:lang="hr" state="translated">Contenuti</target>
+        <target xml:lang="hr" state="translated">Sadržaj</target>
         <note>key: navigationhub.zone.platform</note>
         <jms:reference-file>Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="hr">Contenuti</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
