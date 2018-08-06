@@ -169,6 +169,31 @@
         <target xml:lang="ru" state="translated">Параграф</target>
         <note>key: paragraph_btn.label</note>
       </trans-unit>
+      <trans-unit id="289fdecb2d66f81c13dc96c04253ab84f14c0561" resname="remove_block_btn.title">
+        <source>Remove block</source>
+        <target xml:lang="ru" state="translated">Удалить блок</target>
+        <note>key: remove_block_btn.title</note>
+      </trans-unit>
+      <trans-unit id="e51c80180acbd8d90c95344dbdfb0f6a3ada456e" resname="table_btn.label">
+        <source>Table</source>
+        <target xml:lang="ru" state="translated">Таблица</target>
+        <note>key: table_btn.label</note>
+      </trans-unit>
+      <trans-unit id="1b32cb64237c5fe23f10ffe217a76c9d33487c4e" resname="toolbar_config_base.heading_label">
+        <source>Heading</source>
+        <target xml:lang="ru" state="translated">Заголовок</target>
+        <note>key: toolbar_config_base.heading_label</note>
+      </trans-unit>
+      <trans-unit id="5261ce3329c2fa8448f25a0ea609a8d57ebf9953" resname="toolbar_config_base.paragraph_label">
+        <source>Paragraph</source>
+        <target xml:lang="ru" state="translated">Параграф</target>
+        <note>key: toolbar_config_base.paragraph_label</note>
+      </trans-unit>
+      <trans-unit id="f5aa82a917683c8bcd6a800a75a086822a209f77" resname="unordered_list_btn.label">
+        <source>List</source>
+        <target xml:lang="ru" state="translated">Список</target>
+        <note>key: unordered_list_btn.label</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
