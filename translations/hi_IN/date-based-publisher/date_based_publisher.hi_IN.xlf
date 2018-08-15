@@ -6,36 +6,26 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="83d2e0cd1746c268c5117d780a245b996c3964ba" resname="content.deleted">
+        <source>Content deleted</source>
+        <target xml:lang="hi" state="translated">मिटाई गया कांटेंट</target>
+        <note>key: content.deleted</note>
+      </trans-unit>
+      <trans-unit id="e7818e3c5b5f9b8bda55a4ced6b8934d8f82607e" resname="content.in_review">
+        <source>Content sent to review</source>
+        <target xml:lang="hi" state="translated">समीक्षा के लिए भेजा गया कांटेंट</target>
+        <note>key: content.in_review</note>
+      </trans-unit>
+      <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published">
+        <source>Content published</source>
+        <target xml:lang="hi" state="translated">प्रकाशित कांटेंट</target>
+        <note>key: content.published</note>
+      </trans-unit>
+      <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
+        <source>Content Type</source>
+        <target xml:lang="hi" state="translated">कांटेंट टाइप</target>
+        <note>key: dashboard.table.content_type</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
