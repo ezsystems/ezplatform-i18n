@@ -6,34 +6,34 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="afee1c14dce2b30b230a0de49867c19712c3685f" resname="language.code">
+      <trans-unit id="afee1c14dce2b30b230a0de49867c19712c3685f" resname="language.code" approved="yes">
         <source>Code</source>
-        <target xml:lang="hu" state="translated">Kód</target>
+        <target xml:lang="hu">Kód</target>
         <note>key: language.code</note>
       </trans-unit>
-      <trans-unit id="670884ed109bd22b18847ccb016a0faf72470640" resname="language.code.label">
+      <trans-unit id="670884ed109bd22b18847ccb016a0faf72470640" resname="language.code.label" approved="yes">
         <source>Language code</source>
-        <target xml:lang="hu" state="translated">Nyelv kódja</target>
+        <target xml:lang="hu">Nyelv kódja</target>
         <note>key: language.code.label</note>
       </trans-unit>
-      <trans-unit id="4f04e19e68e7ce4a6948c0b95bee0e28900b274a" resname="language.create.success">
+      <trans-unit id="4f04e19e68e7ce4a6948c0b95bee0e28900b274a" resname="language.create.success" approved="yes">
         <source>Language '%name%' created.</source>
-        <target xml:lang="hu" state="translated">%name% nyelv létrehozva</target>
+        <target xml:lang="hu">%name% nyelv létrehozva</target>
         <note>key: language.create.success</note>
       </trans-unit>
-      <trans-unit id="8390c7c1adbff8a264583f6f060256c993023787" resname="language.delete">
+      <trans-unit id="8390c7c1adbff8a264583f6f060256c993023787" resname="language.delete" approved="yes">
         <source>Delete Language</source>
-        <target xml:lang="hu" state="translated">Nyelv törlése</target>
+        <target xml:lang="hu">Nyelv törlése</target>
         <note>key: language.delete</note>
       </trans-unit>
-      <trans-unit id="7c8fcdc1c11d3c1cf2a4380f440ef3d157b68c12" resname="language.delete.success">
+      <trans-unit id="7c8fcdc1c11d3c1cf2a4380f440ef3d157b68c12" resname="language.delete.success" approved="yes">
         <source>Language '%name%' removed.</source>
-        <target xml:lang="hu" state="translated">%name% nyelv eltávolítva.</target>
+        <target xml:lang="hu">%name% nyelv eltávolítva.</target>
         <note>key: language.delete.success</note>
       </trans-unit>
-      <trans-unit id="0c028c20c9b353fbd7b71bfef8b4ae3dcbd0d7e4" resname="language.disabled">
+      <trans-unit id="0c028c20c9b353fbd7b71bfef8b4ae3dcbd0d7e4" resname="language.disabled" approved="yes">
         <source>Disabled</source>
-        <target xml:lang="hu" state="translated">Letiltva</target>
+        <target xml:lang="hu">Letiltva</target>
         <note>key: language.disabled</note>
       </trans-unit>
       <trans-unit id="67f5b766ec64104c9936dc826adf45bdf55f38f9" resname="language.edit">
