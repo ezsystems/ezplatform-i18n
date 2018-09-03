@@ -256,139 +256,139 @@
         <target xml:lang="hu">Változtatások elvetése</target>
         <note>key: policy_edit__sidebar_right__cancel</note>
       </trans-unit>
-      <trans-unit id="cb47e2c35d152c762cc9923eed5ca55bad4a1d8f" resname="policy_edit__sidebar_right__save">
+      <trans-unit id="cb47e2c35d152c762cc9923eed5ca55bad4a1d8f" resname="policy_edit__sidebar_right__save" approved="yes">
         <source>Update</source>
-        <target xml:lang="hu" state="translated">Frissítés</target>
+        <target xml:lang="hu">Frissítés</target>
         <note>key: policy_edit__sidebar_right__save</note>
       </trans-unit>
-      <trans-unit id="540d43aee8ab9ad7c36096274135992fbf77ae41" resname="role_assignment_create__sidebar_right__cancel">
+      <trans-unit id="540d43aee8ab9ad7c36096274135992fbf77ae41" resname="role_assignment_create__sidebar_right__cancel" approved="yes">
         <source>Discard changes</source>
-        <target xml:lang="hu" state="translated">Változtatások elvetése</target>
+        <target xml:lang="hu">Változtatások elvetése</target>
         <note>key: role_assignment_create__sidebar_right__cancel</note>
       </trans-unit>
-      <trans-unit id="63bb349c122da33ab95d2e395ca9a62f8050bf66" resname="role_assignment_create__sidebar_right__save">
+      <trans-unit id="63bb349c122da33ab95d2e395ca9a62f8050bf66" resname="role_assignment_create__sidebar_right__save" approved="yes">
         <source>Save</source>
-        <target xml:lang="hu" state="translated">Mentés</target>
+        <target xml:lang="hu">Mentés</target>
         <note>key: role_assignment_create__sidebar_right__save</note>
       </trans-unit>
-      <trans-unit id="ec3a03215b15b79b7db72bac312b5e59734ac99c" resname="role_create__sidebar_right__cancel">
+      <trans-unit id="ec3a03215b15b79b7db72bac312b5e59734ac99c" resname="role_create__sidebar_right__cancel" approved="yes">
         <source>Discard changes</source>
-        <target xml:lang="hu" state="translated">Változtatások elvetése</target>
+        <target xml:lang="hu">Változtatások elvetése</target>
         <note>key: role_create__sidebar_right__cancel</note>
       </trans-unit>
-      <trans-unit id="33799ab1dc31d85544fafe36e9d0c3a75093b50f" resname="role_create__sidebar_right__create">
+      <trans-unit id="33799ab1dc31d85544fafe36e9d0c3a75093b50f" resname="role_create__sidebar_right__create" approved="yes">
         <source>Create</source>
-        <target xml:lang="hu" state="translated">Létrehozás</target>
+        <target xml:lang="hu">Létrehozás</target>
         <note>key: role_create__sidebar_right__create</note>
       </trans-unit>
-      <trans-unit id="036fc934f3d8e04e278ec68b3e8045b212ec1a8f" resname="role_edit__sidebar_right__cancel">
+      <trans-unit id="036fc934f3d8e04e278ec68b3e8045b212ec1a8f" resname="role_edit__sidebar_right__cancel" approved="yes">
         <source>Discard changes</source>
-        <target xml:lang="hu" state="translated">Változtatások elvetése</target>
+        <target xml:lang="hu">Változtatások elvetése</target>
         <note>key: role_edit__sidebar_right__cancel</note>
       </trans-unit>
-      <trans-unit id="feda90199751e252928f5cba2e56f0a0a85a2248" resname="role_edit__sidebar_right__save">
+      <trans-unit id="feda90199751e252928f5cba2e56f0a0a85a2248" resname="role_edit__sidebar_right__save" approved="yes">
         <source>Save</source>
-        <target xml:lang="hu" state="translated">Mentés</target>
+        <target xml:lang="hu">Mentés</target>
         <note>key: role_edit__sidebar_right__save</note>
       </trans-unit>
-      <trans-unit id="118456f08e78dac2945c59eb317427f1abb88c3b" resname="section_create__sidebar_right__cancel">
+      <trans-unit id="118456f08e78dac2945c59eb317427f1abb88c3b" resname="section_create__sidebar_right__cancel" approved="yes">
         <source>Discard changes</source>
-        <target xml:lang="hu" state="translated">Változtatások elvetése</target>
+        <target xml:lang="hu">Változtatások elvetése</target>
         <note>key: section_create__sidebar_right__cancel</note>
       </trans-unit>
-      <trans-unit id="4d26537b666dbf7a810b8742ea50f5bc51f83a3e" resname="section_create__sidebar_right__create">
+      <trans-unit id="4d26537b666dbf7a810b8742ea50f5bc51f83a3e" resname="section_create__sidebar_right__create" approved="yes">
         <source>Create</source>
-        <target xml:lang="hu" state="translated">Létrehozás</target>
+        <target xml:lang="hu">Létrehozás</target>
         <note>key: section_create__sidebar_right__create</note>
       </trans-unit>
-      <trans-unit id="61044b3382030ab6a876b6d4270e8af4e5f04dc1" resname="section_edit__sidebar_right__cancel">
+      <trans-unit id="61044b3382030ab6a876b6d4270e8af4e5f04dc1" resname="section_edit__sidebar_right__cancel" approved="yes">
         <source>Discard changes</source>
-        <target xml:lang="hu" state="translated">Változtatások elvetése</target>
+        <target xml:lang="hu">Változtatások elvetése</target>
         <note>key: section_edit__sidebar_right__cancel</note>
       </trans-unit>
-      <trans-unit id="e33deebc2c2c317aa44b31e5d8c4148fdfb1dc34" resname="section_edit__sidebar_right__save">
+      <trans-unit id="e33deebc2c2c317aa44b31e5d8c4148fdfb1dc34" resname="section_edit__sidebar_right__save" approved="yes">
         <source>Save</source>
-        <target xml:lang="hu" state="translated">Mentés</target>
+        <target xml:lang="hu">Mentés</target>
         <note>key: section_edit__sidebar_right__save</note>
       </trans-unit>
-      <trans-unit id="d69b54667fe89acac2f0e05bf84c606aff91d52b" resname="sidebar_left__bookmark">
+      <trans-unit id="d69b54667fe89acac2f0e05bf84c606aff91d52b" resname="sidebar_left__bookmark" approved="yes">
         <source>Bookmarks</source>
-        <target xml:lang="hu" state="translated">Könyvjelzők</target>
+        <target xml:lang="hu">Könyvjelzők</target>
         <note>key: sidebar_left__bookmark</note>
       </trans-unit>
-      <trans-unit id="951ac18ce3ab253f9de7fd9caef6636b18edd1c3" resname="sidebar_left__browse">
+      <trans-unit id="951ac18ce3ab253f9de7fd9caef6636b18edd1c3" resname="sidebar_left__browse" approved="yes">
         <source>Browse</source>
-        <target xml:lang="hu" state="translated">Tallózás</target>
+        <target xml:lang="hu">Tallózás</target>
         <note>key: sidebar_left__browse</note>
       </trans-unit>
-      <trans-unit id="e3401271f3c6a0f8c88b0fa500d2c97eb5e33ff0" resname="sidebar_left__search">
+      <trans-unit id="e3401271f3c6a0f8c88b0fa500d2c97eb5e33ff0" resname="sidebar_left__search" approved="yes">
         <source>Search</source>
-        <target xml:lang="hu" state="translated">Keresés</target>
+        <target xml:lang="hu">Keresés</target>
         <note>key: sidebar_left__search</note>
       </trans-unit>
-      <trans-unit id="2f6558500ca2bb4d364fe81cf32f5c5f1b81746a" resname="sidebar_left__trash">
+      <trans-unit id="2f6558500ca2bb4d364fe81cf32f5c5f1b81746a" resname="sidebar_left__trash" approved="yes">
         <source>Trash</source>
-        <target xml:lang="hu" state="translated">Lomtár</target>
+        <target xml:lang="hu">Lomtár</target>
         <note>key: sidebar_left__trash</note>
       </trans-unit>
-      <trans-unit id="ae876d2c3fdb4f08383aefae6106b69dfe124b38" resname="trash__sidebar_right__empty_trash">
+      <trans-unit id="ae876d2c3fdb4f08383aefae6106b69dfe124b38" resname="trash__sidebar_right__empty_trash" approved="yes">
         <source>Empty Trash</source>
-        <target xml:lang="hu" state="translated">Lomtár ürítése</target>
+        <target xml:lang="hu">Lomtár ürítése</target>
         <note>key: trash__sidebar_right__empty_trash</note>
       </trans-unit>
-      <trans-unit id="5ded8d45683caa8bb19649d5cc39bd76ebabfa63" resname="url_edit__sidebar_right__cancel">
+      <trans-unit id="5ded8d45683caa8bb19649d5cc39bd76ebabfa63" resname="url_edit__sidebar_right__cancel" approved="yes">
         <source>Discard changes</source>
-        <target xml:lang="hu" state="translated">Változtatások elvetése</target>
+        <target xml:lang="hu">Változtatások elvetése</target>
         <note>key: url_edit__sidebar_right__cancel</note>
       </trans-unit>
-      <trans-unit id="9e8d8f6d06a5950f649d63b453d6dab7eba33f11" resname="url_edit__sidebar_right__save">
+      <trans-unit id="9e8d8f6d06a5950f649d63b453d6dab7eba33f11" resname="url_edit__sidebar_right__save" approved="yes">
         <source>Save</source>
-        <target xml:lang="hu" state="translated">Mentés</target>
+        <target xml:lang="hu">Mentés</target>
         <note>key: url_edit__sidebar_right__save</note>
       </trans-unit>
-      <trans-unit id="8acab9e005da20efe4001fac5f84ff2c835bb7c8" resname="user__bookmark">
+      <trans-unit id="8acab9e005da20efe4001fac5f84ff2c835bb7c8" resname="user__bookmark" approved="yes">
         <source>Bookmarks</source>
-        <target xml:lang="hu" state="translated">Könyvjelzők</target>
+        <target xml:lang="hu">Könyvjelzők</target>
         <note>key: user__bookmark</note>
       </trans-unit>
-      <trans-unit id="da5c7f4f526c2dd5b1e1f51ab5238ef4ba86d421" resname="user__change_password">
+      <trans-unit id="da5c7f4f526c2dd5b1e1f51ab5238ef4ba86d421" resname="user__change_password" approved="yes">
         <source>Change password</source>
-        <target xml:lang="hu" state="translated">Jelszó módosítása</target>
+        <target xml:lang="hu">Jelszó módosítása</target>
         <note>key: user__change_password</note>
       </trans-unit>
-      <trans-unit id="06accb26fbb1b72012942af2b3e03f7c138e28c3" resname="user__content">
+      <trans-unit id="06accb26fbb1b72012942af2b3e03f7c138e28c3" resname="user__content" approved="yes">
         <source>Logout</source>
-        <target xml:lang="hu" state="translated">Kijelentkezés</target>
+        <target xml:lang="hu">Kijelentkezés</target>
         <note>key: user__content</note>
       </trans-unit>
-      <trans-unit id="40679174821cfa2ce3d3a4dc046f0ef65df6f483" resname="user_create__sidebar_right__cancel">
+      <trans-unit id="40679174821cfa2ce3d3a4dc046f0ef65df6f483" resname="user_create__sidebar_right__cancel" approved="yes">
         <source>Cancel</source>
-        <target xml:lang="hu" state="translated">Mégse</target>
+        <target xml:lang="hu">Mégse</target>
         <note>key: user_create__sidebar_right__cancel</note>
       </trans-unit>
-      <trans-unit id="e2f3f27b94662872c5f39dbf8b26b489deb14f8c" resname="user_create__sidebar_right__create">
+      <trans-unit id="e2f3f27b94662872c5f39dbf8b26b489deb14f8c" resname="user_create__sidebar_right__create" approved="yes">
         <source>Create</source>
-        <target xml:lang="hu" state="translated">Létrehozás</target>
+        <target xml:lang="hu">Létrehozás</target>
         <note>key: user_create__sidebar_right__create</note>
       </trans-unit>
-      <trans-unit id="5eac585c3d7a63e58780b7939ee2a8e70e290436" resname="user_edit__sidebar_right__cancel">
+      <trans-unit id="5eac585c3d7a63e58780b7939ee2a8e70e290436" resname="user_edit__sidebar_right__cancel" approved="yes">
         <source>Cancel</source>
-        <target xml:lang="hu" state="translated">Mégse</target>
+        <target xml:lang="hu">Mégse</target>
         <note>key: user_edit__sidebar_right__cancel</note>
       </trans-unit>
-      <trans-unit id="5a09908619e3d8e6b30af8af8c14abd416b485fa" resname="user_edit__sidebar_right__update">
+      <trans-unit id="5a09908619e3d8e6b30af8af8c14abd416b485fa" resname="user_edit__sidebar_right__update" approved="yes">
         <source>Update</source>
-        <target xml:lang="hu" state="translated">Frissítés</target>
+        <target xml:lang="hu">Frissítés</target>
         <note>key: user_edit__sidebar_right__update</note>
       </trans-unit>
-      <trans-unit id="d79a55ddd58ecf56b4edb39c794c858d649481e2" resname="user_password_change__sidebar_right__cancel">
+      <trans-unit id="d79a55ddd58ecf56b4edb39c794c858d649481e2" resname="user_password_change__sidebar_right__cancel" approved="yes">
         <source>Discard changes</source>
-        <target xml:lang="hu" state="translated">Változtatások elvetése</target>
+        <target xml:lang="hu">Változtatások elvetése</target>
         <note>key: user_password_change__sidebar_right__cancel</note>
       </trans-unit>
-      <trans-unit id="ab8629add84cbd9cebfdf326f7242044ae7650af" resname="user_password_change__sidebar_right__update">
+      <trans-unit id="ab8629add84cbd9cebfdf326f7242044ae7650af" resname="user_password_change__sidebar_right__update" approved="yes">
         <source>Update</source>
-        <target xml:lang="hu" state="translated">Frissítés</target>
+        <target xml:lang="hu">Frissítés</target>
         <note>key: user_password_change__sidebar_right__update</note>
       </trans-unit>
     </body>
