@@ -251,159 +251,159 @@
         <target xml:lang="hu">Név</target>
         <note>key: content_type.view.list.column.name</note>
       </trans-unit>
-      <trans-unit id="7c8c43d61131312dbeeeac5dc536a4f95154f33d" resname="content_type.view.list.title">
+      <trans-unit id="7c8c43d61131312dbeeeac5dc536a4f95154f33d" resname="content_type.view.list.title" approved="yes">
         <source>Content Types in %identifier%</source>
-        <target xml:lang="hu" state="translated">Tartalomtípusok itt: %identifier%</target>
+        <target xml:lang="hu">Tartalomtípusok itt: %identifier%</target>
         <note>key: content_type.view.list.title</note>
       </trans-unit>
-      <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
+      <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title" approved="yes">
         <source>%name%</source>
-        <target xml:lang="hu" state="translated">%name%</target>
+        <target xml:lang="hu">%name%</target>
         <note>key: content_type.view.view.title</note>
       </trans-unit>
-      <trans-unit id="d74d01091280ceabfb457980ddd459dc841ad957" resname="content_type_group.breadcrumb.add">
+      <trans-unit id="d74d01091280ceabfb457980ddd459dc841ad957" resname="content_type_group.breadcrumb.add" approved="yes">
         <source>Creating a new Content Type Group</source>
-        <target xml:lang="hu" state="translated">Új tartalomtípus-csoport létrehozása</target>
+        <target xml:lang="hu">Új tartalomtípus-csoport létrehozása</target>
         <note>key: content_type_group.breadcrumb.add</note>
       </trans-unit>
-      <trans-unit id="20ee2fba1b6d560dd296bbe696975e92b78ce578" resname="content_type_group.breadcrumb.edit">
+      <trans-unit id="20ee2fba1b6d560dd296bbe696975e92b78ce578" resname="content_type_group.breadcrumb.edit" approved="yes">
         <source>Editing Content Type Group "%identifier%"</source>
-        <target xml:lang="hu" state="translated">"%identifier%" tartalomtípus-csoport szerkesztése</target>
+        <target xml:lang="hu">"%identifier%" tartalomtípus-csoport szerkesztése</target>
         <note>key: content_type_group.breadcrumb.edit</note>
       </trans-unit>
-      <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
+      <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list" approved="yes">
         <source>Content Types</source>
-        <target xml:lang="hu" state="translated">Tartalomtípusok</target>
+        <target xml:lang="hu">Tartalomtípusok</target>
         <note>key: content_type_group.breadcrumb.list</note>
       </trans-unit>
-      <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
+      <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view" approved="yes">
         <source>%identifier%</source>
-        <target xml:lang="hu" state="translated">%identifier%</target>
+        <target xml:lang="hu">%identifier%</target>
         <note>key: content_type_group.breadcrumb.view</note>
       </trans-unit>
-      <trans-unit id="e7cbc2b974608f280aa2b412d4c7836c7a56946d" resname="content_type_group.create.name">
+      <trans-unit id="e7cbc2b974608f280aa2b412d4c7836c7a56946d" resname="content_type_group.create.name" approved="yes">
         <source>Name</source>
-        <target xml:lang="hu" state="translated">Név</target>
+        <target xml:lang="hu">Név</target>
         <note>key: content_type_group.create.name</note>
       </trans-unit>
-      <trans-unit id="b04a9c80f0219d1a12813a8aa4bc532e97653b28" resname="content_type_group.create.submit">
+      <trans-unit id="b04a9c80f0219d1a12813a8aa4bc532e97653b28" resname="content_type_group.create.submit" approved="yes">
         <source>Create</source>
-        <target xml:lang="hu" state="translated">Létrehozás</target>
+        <target xml:lang="hu">Létrehozás</target>
         <note>key: content_type_group.create.submit</note>
       </trans-unit>
-      <trans-unit id="00f7021226b49438a6e4b36cfd212b9553deb762" resname="content_type_group.create.success">
+      <trans-unit id="00f7021226b49438a6e4b36cfd212b9553deb762" resname="content_type_group.create.success" approved="yes">
         <source>Content type group '%name%' created.</source>
-        <target xml:lang="hu" state="translated">%name% tartalomtípus-csoport létrehozva.</target>
+        <target xml:lang="hu">%name% tartalomtípus-csoport létrehozva.</target>
         <note>key: content_type_group.create.success</note>
       </trans-unit>
-      <trans-unit id="eec79e4a9109f28892797768f085eab39eaedc31" resname="content_type_group.delete.submit">
+      <trans-unit id="eec79e4a9109f28892797768f085eab39eaedc31" resname="content_type_group.delete.submit" approved="yes">
         <source>Delete</source>
-        <target xml:lang="hu" state="translated">Törlés</target>
+        <target xml:lang="hu">Törlés</target>
         <note>key: content_type_group.delete.submit</note>
       </trans-unit>
-      <trans-unit id="7d3672fcf2f0e1982152c4e6759bd03143f9f028" resname="content_type_group.delete.success">
+      <trans-unit id="7d3672fcf2f0e1982152c4e6759bd03143f9f028" resname="content_type_group.delete.success" approved="yes">
         <source>Content type group '%name%' deleted.</source>
-        <target xml:lang="hu" state="translated">%name% tartalomtípus-csoport törölve.</target>
+        <target xml:lang="hu">%name% tartalomtípus-csoport törölve.</target>
         <note>key: content_type_group.delete.success</note>
       </trans-unit>
-      <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message">
+      <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message" approved="yes">
         <source>Do you want to delete Content Type Group?</source>
-        <target xml:lang="hu" state="translated">Szeretnéd törölni a tartalomtípus-csoportot?</target>
+        <target xml:lang="hu">Szeretnéd törölni a tartalomtípus-csoportot?</target>
         <note>key: content_type_group.modal.message</note>
       </trans-unit>
-      <trans-unit id="4c6dfb0b81f5b9d70fed0dda3840f0677ece9570" resname="content_type_group.update.name">
+      <trans-unit id="4c6dfb0b81f5b9d70fed0dda3840f0677ece9570" resname="content_type_group.update.name" approved="yes">
         <source>Name</source>
-        <target xml:lang="hu" state="translated">Név</target>
+        <target xml:lang="hu">Név</target>
         <note>key: content_type_group.update.name</note>
       </trans-unit>
-      <trans-unit id="d44e2ddf0ee9d2e6fcb0b4f2c49a2b579d629588" resname="content_type_group.update.submit">
+      <trans-unit id="d44e2ddf0ee9d2e6fcb0b4f2c49a2b579d629588" resname="content_type_group.update.submit" approved="yes">
         <source>Update</source>
-        <target xml:lang="hu" state="translated">Frissítés</target>
+        <target xml:lang="hu">Frissítés</target>
         <note>key: content_type_group.update.submit</note>
       </trans-unit>
-      <trans-unit id="ff50d4b8d26d81f538b0ebabc392cbb05b6da162" resname="content_type_group.update.success">
+      <trans-unit id="ff50d4b8d26d81f538b0ebabc392cbb05b6da162" resname="content_type_group.update.success" approved="yes">
         <source>Content type group '%name%' updated.</source>
-        <target xml:lang="hu" state="translated">%name% tartalomtípus-csoport frissítve.</target>
+        <target xml:lang="hu">%name% tartalomtípus-csoport frissítve.</target>
         <note>key: content_type_group.update.success</note>
       </trans-unit>
-      <trans-unit id="1bd4c745d76ae79ef7e95baea27281fff04e77f6" resname="content_type_group.view.add.title">
+      <trans-unit id="1bd4c745d76ae79ef7e95baea27281fff04e77f6" resname="content_type_group.view.add.title" approved="yes">
         <source>Creating a new Content Type Group</source>
-        <target xml:lang="hu" state="translated">Új tartalomtípus-csoport létrehozása</target>
+        <target xml:lang="hu">Új tartalomtípus-csoport létrehozása</target>
         <note>key: content_type_group.view.add.title</note>
       </trans-unit>
-      <trans-unit id="1b6ebace1ed08d4e8de6a84a5523e19b53dfd443" resname="content_type_group.view.edit.title">
+      <trans-unit id="1b6ebace1ed08d4e8de6a84a5523e19b53dfd443" resname="content_type_group.view.edit.title" approved="yes">
         <source>Editing Content Type Group "%identifier%"</source>
-        <target xml:lang="hu" state="translated">"%identifier%" tartalomtípus-csoport szerkesztése</target>
+        <target xml:lang="hu">"%identifier%" tartalomtípus-csoport szerkesztése</target>
         <note>key: content_type_group.view.edit.title</note>
       </trans-unit>
-      <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
+      <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add" approved="yes">
         <source>Create a Content Type Group</source>
-        <target xml:lang="hu" state="translated">Új tartalomtípus-csoport létrehozása</target>
+        <target xml:lang="hu">Új tartalomtípus-csoport létrehozása</target>
         <note>key: content_type_group.view.list.action.add</note>
       </trans-unit>
-      <trans-unit id="ceb2e962eccd99d66a600df886fb1ff3253c2f16" resname="content_type_group.view.list.action.delete">
+      <trans-unit id="ceb2e962eccd99d66a600df886fb1ff3253c2f16" resname="content_type_group.view.list.action.delete" approved="yes">
         <source>Delete Content Type Group</source>
-        <target xml:lang="hu" state="translated">Tartalomtípus-csoport törlése</target>
+        <target xml:lang="hu">Tartalomtípus-csoport törlése</target>
         <note>key: content_type_group.view.list.action.delete</note>
       </trans-unit>
-      <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
+      <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit" approved="yes">
         <source>Edit</source>
-        <target xml:lang="hu" state="translated">Szerkesztés</target>
+        <target xml:lang="hu">Szerkesztés</target>
         <note>key: content_type_group.view.list.action.edit</note>
       </trans-unit>
-      <trans-unit id="125bee275441fe2bd28cb9388b790c634d8ae3c6" resname="content_type_group.view.list.column.content_types_count">
+      <trans-unit id="125bee275441fe2bd28cb9388b790c634d8ae3c6" resname="content_type_group.view.list.column.content_types_count" approved="yes">
         <source>Content Types count</source>
-        <target xml:lang="hu" state="translated">Tartalomtípusok</target>
+        <target xml:lang="hu">Tartalomtípusok</target>
         <note>key: content_type_group.view.list.column.content_types_count</note>
       </trans-unit>
-      <trans-unit id="cd462ce30cd4d0b21393e24ca2c9e974369c1f57" resname="content_type_group.view.list.column.id">
+      <trans-unit id="cd462ce30cd4d0b21393e24ca2c9e974369c1f57" resname="content_type_group.view.list.column.id" approved="yes">
         <source>ID</source>
-        <target xml:lang="hu" state="translated">ID / azonosító</target>
+        <target xml:lang="hu">ID / azonosító</target>
         <note>key: content_type_group.view.list.column.id</note>
       </trans-unit>
-      <trans-unit id="37d17dd014cd573541f83d4b5b0c4909b66ac7be" resname="content_type_group.view.list.column.identifier">
+      <trans-unit id="37d17dd014cd573541f83d4b5b0c4909b66ac7be" resname="content_type_group.view.list.column.identifier" approved="yes">
         <source>Name</source>
-        <target xml:lang="hu" state="translated">Név</target>
+        <target xml:lang="hu">Név</target>
         <note>key: content_type_group.view.list.column.identifier</note>
       </trans-unit>
-      <trans-unit id="9522e89ad894375dcf878ae282bdd793946fc375" resname="content_type_group.view.list.title">
+      <trans-unit id="9522e89ad894375dcf878ae282bdd793946fc375" resname="content_type_group.view.list.title" approved="yes">
         <source>Content Type Groups</source>
-        <target xml:lang="hu" state="translated">Tartalomtípus-csoportok</target>
+        <target xml:lang="hu">Tartalomtípus-csoportok</target>
         <note>key: content_type_group.view.list.title</note>
       </trans-unit>
-      <trans-unit id="1769b5258d896d9ccb207c09e04534ce9a01c571" resname="content_type_group.view.view.title">
+      <trans-unit id="1769b5258d896d9ccb207c09e04534ce9a01c571" resname="content_type_group.view.view.title" approved="yes">
         <source>%identifier%</source>
-        <target xml:lang="hu" state="translated">%identifier%</target>
+        <target xml:lang="hu">%identifier%</target>
         <note>key: content_type_group.view.view.title</note>
       </trans-unit>
-      <trans-unit id="62ac918fce5389cd868b988e65b4ab96477a1344" resname="location_update_form.sort_field">
+      <trans-unit id="62ac918fce5389cd868b988e65b4ab96477a1344" resname="location_update_form.sort_field" approved="yes">
         <source>Sort field</source>
-        <target xml:lang="hu" state="translated">Rendezési mező</target>
+        <target xml:lang="hu">Rendezési mező</target>
         <note>key: location_update_form.sort_field</note>
       </trans-unit>
-      <trans-unit id="7d29fb5b1206bd3313bd2eb6c078ab72c244545a" resname="location_update_form.sort_order">
+      <trans-unit id="7d29fb5b1206bd3313bd2eb6c078ab72c244545a" resname="location_update_form.sort_order" approved="yes">
         <source>Sort order</source>
-        <target xml:lang="hu" state="translated">Rendezési sorrend</target>
+        <target xml:lang="hu">Rendezési sorrend</target>
         <note>key: location_update_form.sort_order</note>
       </trans-unit>
-      <trans-unit id="2bb23a852a2a16458d2dad6931debc447564dff2" resname="location_update_form.update">
+      <trans-unit id="2bb23a852a2a16458d2dad6931debc447564dff2" resname="location_update_form.update" approved="yes">
         <source>Update</source>
-        <target xml:lang="hu" state="translated">Frissítés</target>
+        <target xml:lang="hu">Frissítés</target>
         <note>key: location_update_form.update</note>
       </trans-unit>
-      <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
+      <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel" approved="yes">
         <source>Cancel</source>
-        <target xml:lang="hu" state="translated">Mégse</target>
+        <target xml:lang="hu">Mégse</target>
         <note>key: modal.cancel</note>
       </trans-unit>
-      <trans-unit id="9eae227b7c27ab230a6d0ce5947d93e7d2e1626f" resname="modal.delete">
+      <trans-unit id="9eae227b7c27ab230a6d0ce5947d93e7d2e1626f" resname="modal.delete" approved="yes">
         <source>Delete</source>
-        <target xml:lang="hu" state="translated">Törlés</target>
+        <target xml:lang="hu">Törlés</target>
         <note>key: modal.delete</note>
       </trans-unit>
-      <trans-unit id="3e9deeb426f08a404990a6926d70558955272593" resname="yes_no">
+      <trans-unit id="3e9deeb426f08a404990a6926d70558955272593" resname="yes_no" approved="yes">
         <source>{0}No|{1}Yes</source>
-        <target xml:lang="hu" state="translated">{0} Nem |{1} Igen</target>
+        <target xml:lang="hu">{0} Nem |{1} Igen</target>
         <note>key: yes_no</note>
       </trans-unit>
     </body>
