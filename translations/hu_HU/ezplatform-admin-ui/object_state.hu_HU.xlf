@@ -265,39 +265,39 @@
         <target xml:lang="hu">Mentés</target>
         <note>key: object_state_group.update.save</note>
       </trans-unit>
-      <trans-unit id="36efba078c092e0aa3fb7c44fcd55b1ee292cc35" resname="object_state_group.update.success">
+      <trans-unit id="36efba078c092e0aa3fb7c44fcd55b1ee292cc35" resname="object_state_group.update.success" approved="yes">
         <source>Object state group '%name%' updated.</source>
-        <target xml:lang="hu" state="translated">Object state group '%name%' updated.</target>
+        <target xml:lang="hu">Object state group '%name%' updated.</target>
         <note>key: object_state_group.update.success</note>
       </trans-unit>
-      <trans-unit id="440027deff8a9e2b55c3813b104fed4345d8c246" resname="object_state_group.view.add.title">
+      <trans-unit id="440027deff8a9e2b55c3813b104fed4345d8c246" resname="object_state_group.view.add.title" approved="yes">
         <source>Creating a new Object State Group</source>
-        <target xml:lang="hu" state="translated">Creating a new Object State Group</target>
+        <target xml:lang="hu">Creating a new Object State Group</target>
         <note>key: object_state_group.view.add.title</note>
       </trans-unit>
-      <trans-unit id="9f653b0046e2ba91b0b23afdf440596d2d99bbc3" resname="object_state_group.view.edit.title">
+      <trans-unit id="9f653b0046e2ba91b0b23afdf440596d2d99bbc3" resname="object_state_group.view.edit.title" approved="yes">
         <source>Editing Object State Group: %name%</source>
-        <target xml:lang="hu" state="translated">Editing Object State Group: %name%</target>
+        <target xml:lang="hu">Editing Object State Group: %name%</target>
         <note>key: object_state_group.view.edit.title</note>
       </trans-unit>
-      <trans-unit id="c6deef75890178093bf878dd71ad8c7f2baff283" resname="object_state_group.view.information.title">
+      <trans-unit id="c6deef75890178093bf878dd71ad8c7f2baff283" resname="object_state_group.view.information.title" approved="yes">
         <source>Object State Group Information</source>
-        <target xml:lang="hu" state="translated">Object State Group Information</target>
+        <target xml:lang="hu">Object State Group Information</target>
         <note>key: object_state_group.view.information.title</note>
       </trans-unit>
-      <trans-unit id="81633efc089f97dcad3f815855683cb4edb553d4" resname="object_state_group.view.list.action.edit">
+      <trans-unit id="81633efc089f97dcad3f815855683cb4edb553d4" resname="object_state_group.view.list.action.edit" approved="yes">
         <source>Edit</source>
-        <target xml:lang="hu" state="translated">Szerkesztés</target>
+        <target xml:lang="hu">Szerkesztés</target>
         <note>key: object_state_group.view.list.action.edit</note>
       </trans-unit>
-      <trans-unit id="3c3517b187620f232ad40b3fe46da9e3bb66866a" resname="object_state_group.view.list.title">
+      <trans-unit id="3c3517b187620f232ad40b3fe46da9e3bb66866a" resname="object_state_group.view.list.title" approved="yes">
         <source>Object State Groups</source>
-        <target xml:lang="hu" state="translated">Object State Groups</target>
+        <target xml:lang="hu">Object State Groups</target>
         <note>key: object_state_group.view.list.title</note>
       </trans-unit>
-      <trans-unit id="f242d2aa82647529a4d5c7c314719fb4276a4e51" resname="object_state_group.view.title">
+      <trans-unit id="f242d2aa82647529a4d5c7c314719fb4276a4e51" resname="object_state_group.view.title" approved="yes">
         <source>Object State Group: %name%</source>
-        <target xml:lang="hu" state="translated">Object State Group: %name%</target>
+        <target xml:lang="hu">Object State Group: %name%</target>
         <note>key: object_state_group.view.title</note>
       </trans-unit>
     </body>
