@@ -11,6 +11,26 @@
         <target xml:lang="hu" state="translated">Szerkesztés</target>
         <note>key: content_type.action.edit</note>
       </trans-unit>
+      <trans-unit id="0a08ba6425acc6e52b75ebbe0b77d90df5cb81a1" resname="content_type.add.missing_language">
+        <source>Cannot create Content Type. Could not find 'Language' with identifier '%languageCode%'</source>
+        <target xml:lang="hu" state="translated">Nem tudtuk létrehozni a tartalomtípust. Nem elérhető a %languageCode% nyelv</target>
+        <note>key: content_type.add.missing_language</note>
+      </trans-unit>
+      <trans-unit id="0aef83746d192c9b507ecabebe250aeb684cc210" resname="content_type.breadcrumb.create">
+        <source>Creating a new Content Type</source>
+        <target xml:lang="hu" state="translated">Új tartalomtípus létrehozása</target>
+        <note>key: content_type.breadcrumb.create</note>
+      </trans-unit>
+      <trans-unit id="7dd9e32add81dba08bfbaefaac9442a7e7dbb6ae" resname="content_type.breadcrumb.edit">
+        <source>%identifier%</source>
+        <target xml:lang="hu" state="translated">%identifier%</target>
+        <note>key: content_type.breadcrumb.edit</note>
+      </trans-unit>
+      <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
+        <source>%identifier%</source>
+        <target xml:lang="hu" state="translated">%identifier%</target>
+        <note>key: content_type.breadcrumb.view</note>
+      </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
         <target xml:lang="hu" state="translated">Tároló</target>
@@ -51,10 +71,25 @@
         <target xml:lang="hu" state="translated">Alapértelmezett rendezés</target>
         <note>key: content_type.default_sort</note>
       </trans-unit>
+      <trans-unit id="5ecc210ad42274409db7ec4e56ba286b487639c6" resname="content_type.delete.success">
+        <source>Content type '%name%' deleted.</source>
+        <target xml:lang="hu" state="translated">%name% tartalomtípus törölve.</target>
+        <note>key: content_type.delete.success</note>
+      </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
         <source>Description</source>
         <target xml:lang="hu" state="translated">Leírás</target>
         <note>key: content_type.description</note>
+      </trans-unit>
+      <trans-unit id="2f9cb676bb073af7a8e4b52b374384dfc0aa9551" resname="content_type.edit.error.already_exists">
+        <source>Draft of the Content Type '%name%' already exists and is locked by '%userContentName%'</source>
+        <target xml:lang="hu" state="translated">A %name% tartalomtípus vázlata már létezik és %userContentName% zárolta.</target>
+        <note>key: content_type.edit.error.already_exists</note>
+      </trans-unit>
+      <trans-unit id="9eb89a2f51954babc5ff51f9060cbcda91dcf408" resname="content_type.field_definitions.modal.message">
+        <source>Do you want to delete selected field definitions?</source>
+        <target xml:lang="hu" state="translated">Szeretnéd törölni a kiválasztott meződefiníciókat?</target>
+        <note>key: content_type.field_definitions.modal.message</note>
       </trans-unit>
       <trans-unit id="8bf6d91a6b0731a38103e04e03f3f9e8bf4459a1" resname="content_type.global_properties">
         <source>Global properties</source>
@@ -65,6 +100,11 @@
         <source>Identifier</source>
         <target xml:lang="hu" state="translated">Azonosító</target>
         <note>key: content_type.identifier</note>
+      </trans-unit>
+      <trans-unit id="02f6ddfcdd8bbd05cdd1b954503a3801288b74eb" resname="content_type.modal.message">
+        <source>Do you want to delete Content Type?</source>
+        <target xml:lang="hu" state="translated">Szeretnéd törölni a tartalomtípust?</target>
+        <note>key: content_type.modal.message</note>
       </trans-unit>
       <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
         <source>Name</source>
@@ -81,6 +121,11 @@
         <target xml:lang="hu" state="translated">Növekvő</target>
         <note>key: content_type.sort_field.ascending</note>
       </trans-unit>
+      <trans-unit id="c699d43b72ab990a33d92d85bc5c773078d8c62d" resname="content_type.sort_field.content_id">
+        <source>Content ID</source>
+        <target xml:lang="hu" state="translated">Tartalom azonosító</target>
+        <note>key: content_type.sort_field.content_id</note>
+      </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth">
         <source>Location depth</source>
         <target xml:lang="hu" state="translated">Lokáció mélysége</target>
@@ -90,6 +135,11 @@
         <source>Descending</source>
         <target xml:lang="hu" state="translated">Csökkenő</target>
         <note>key: content_type.sort_field.descending</note>
+      </trans-unit>
+      <trans-unit id="afb48eb0ff69f32e95393be9247ac7ba40d61142" resname="content_type.sort_field.location_id">
+        <source>Location ID</source>
+        <target xml:lang="hu" state="translated">Lokáció ID</target>
+        <note>key: content_type.sort_field.location_id</note>
       </trans-unit>
       <trans-unit id="187a5f274b61172d6e478830081210a75b9f916d" resname="content_type.sort_field.location_path">
         <source>Location path</source>
@@ -121,10 +171,20 @@
         <target xml:lang="hu" state="translated">Szekció azonosító</target>
         <note>key: content_type.sort_field.section_identifier</note>
       </trans-unit>
+      <trans-unit id="48d3eb66c0f8928777189eab11eae254866852b2" resname="content_type.update.success">
+        <source>Content type '%name%' updated.</source>
+        <target xml:lang="hu" state="translated">%name% tartalomtípus frissítve.</target>
+        <note>key: content_type.update.success</note>
+      </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
         <source>URL alias name pattern</source>
         <target xml:lang="hu" state="translated">URL alias név minta</target>
         <note>key: content_type.url_alias_schema</note>
+      </trans-unit>
+      <trans-unit id="30f5ddb258e0ab8c31381ec10d9a90f7071bbf6f" resname="content_type.user_name.can_not_be_fetched">
+        <source>another user</source>
+        <target xml:lang="hu" state="translated">másik felhasználó</target>
+        <note>key: content_type.user_name.can_not_be_fetched</note>
       </trans-unit>
       <trans-unit id="56a9f26e930ab0493fc9cb9609318ea699cf8b76" resname="content_type.view.create.content_field_definitions">
         <source>Content field definitions</source>
@@ -136,6 +196,16 @@
         <target xml:lang="hu" state="translated">Általános beállítások</target>
         <note>key: content_type.view.create.global_properties</note>
       </trans-unit>
+      <trans-unit id="4f63ade40ae91a9ad39e4be7b9e4f51003f1f4b3" resname="content_type.view.create.title">
+        <source>Creating a new Content Type</source>
+        <target xml:lang="hu" state="translated">Új tartalomtípus létrehozása</target>
+        <note>key: content_type.view.create.title</note>
+      </trans-unit>
+      <trans-unit id="621f64c5f4acef41bca216c9d712860e3438f742" resname="content_type.view.edit.content_field_definition.delete">
+        <source>Delete Content field definition</source>
+        <target xml:lang="hu" state="translated">Tartalom meződefiníciójának törlése</target>
+        <note>key: content_type.view.edit.content_field_definition.delete</note>
+      </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
         <source>Content field definitions</source>
         <target xml:lang="hu" state="translated">Tartalom meződefiníciók</target>
@@ -145,6 +215,21 @@
         <source>Global properties</source>
         <target xml:lang="hu" state="translated">Általános beállítások</target>
         <note>key: content_type.view.edit.global_properties</note>
+      </trans-unit>
+      <trans-unit id="7eee653a60490713df6bcf4b847853020b79a1ee" resname="content_type.view.edit.title">
+        <source>Editing Content Type: %name%</source>
+        <target xml:lang="hu" state="translated">%name% tartalomtípus szerkesztése</target>
+        <note>key: content_type.view.edit.title</note>
+      </trans-unit>
+      <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
+        <source>Create a Content Type</source>
+        <target xml:lang="hu" state="translated">Tartalomtípus létrehozása</target>
+        <note>key: content_type.view.list.action.add</note>
+      </trans-unit>
+      <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
+        <source>Delete Content Type</source>
+        <target xml:lang="hu" state="translated">Tartalomtípus törlése</target>
+        <note>key: content_type.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
         <source>ID</source>
@@ -166,6 +251,36 @@
         <target xml:lang="hu" state="translated">Név</target>
         <note>key: content_type.view.list.column.name</note>
       </trans-unit>
+      <trans-unit id="7c8c43d61131312dbeeeac5dc536a4f95154f33d" resname="content_type.view.list.title">
+        <source>Content Types in %identifier%</source>
+        <target xml:lang="hu" state="translated">Tartalomtípusok itt: %identifier%</target>
+        <note>key: content_type.view.list.title</note>
+      </trans-unit>
+      <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
+        <source>%name%</source>
+        <target xml:lang="hu" state="translated">%name%</target>
+        <note>key: content_type.view.view.title</note>
+      </trans-unit>
+      <trans-unit id="d74d01091280ceabfb457980ddd459dc841ad957" resname="content_type_group.breadcrumb.add">
+        <source>Creating a new Content Type Group</source>
+        <target xml:lang="hu" state="translated">Új tartalomtípus-csoport létrehozása</target>
+        <note>key: content_type_group.breadcrumb.add</note>
+      </trans-unit>
+      <trans-unit id="20ee2fba1b6d560dd296bbe696975e92b78ce578" resname="content_type_group.breadcrumb.edit">
+        <source>Editing Content Type Group "%identifier%"</source>
+        <target xml:lang="hu" state="translated">"%identifier%" tartalomtípus-csoport szerkesztése</target>
+        <note>key: content_type_group.breadcrumb.edit</note>
+      </trans-unit>
+      <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
+        <source>Content Types</source>
+        <target xml:lang="hu" state="translated">Tartalomtípusok</target>
+        <note>key: content_type_group.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
+        <source>%identifier%</source>
+        <target xml:lang="hu" state="translated">%identifier%</target>
+        <note>key: content_type_group.breadcrumb.view</note>
+      </trans-unit>
       <trans-unit id="e7cbc2b974608f280aa2b412d4c7836c7a56946d" resname="content_type_group.create.name">
         <source>Name</source>
         <target xml:lang="hu" state="translated">Név</target>
@@ -176,15 +291,40 @@
         <target xml:lang="hu" state="translated">Létrehozás</target>
         <note>key: content_type_group.create.submit</note>
       </trans-unit>
+      <trans-unit id="00f7021226b49438a6e4b36cfd212b9553deb762" resname="content_type_group.create.success">
+        <source>Content type group '%name%' created.</source>
+        <target xml:lang="hu" state="translated">%name% tartalomtípus-csoport létrehozva.</target>
+        <note>key: content_type_group.create.success</note>
+      </trans-unit>
       <trans-unit id="eec79e4a9109f28892797768f085eab39eaedc31" resname="content_type_group.delete.submit">
         <source>Delete</source>
         <target xml:lang="hu" state="translated">Törlés</target>
         <note>key: content_type_group.delete.submit</note>
       </trans-unit>
+      <trans-unit id="7d3672fcf2f0e1982152c4e6759bd03143f9f028" resname="content_type_group.delete.success">
+        <source>Content type group '%name%' deleted.</source>
+        <target xml:lang="hu" state="translated">%name% tartalomtípus-csoport törölve.</target>
+        <note>key: content_type_group.delete.success</note>
+      </trans-unit>
+      <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message">
+        <source>Do you want to delete Content Type Group?</source>
+        <target xml:lang="hu" state="translated">Szeretnéd törölni a tartalomtípus-csoportot?</target>
+        <note>key: content_type_group.modal.message</note>
+      </trans-unit>
       <trans-unit id="4c6dfb0b81f5b9d70fed0dda3840f0677ece9570" resname="content_type_group.update.name">
         <source>Name</source>
         <target xml:lang="hu" state="translated">Név</target>
         <note>key: content_type_group.update.name</note>
+      </trans-unit>
+      <trans-unit id="d44e2ddf0ee9d2e6fcb0b4f2c49a2b579d629588" resname="content_type_group.update.submit">
+        <source>Update</source>
+        <target xml:lang="hu" state="translated">Frissítés</target>
+        <note>key: content_type_group.update.submit</note>
+      </trans-unit>
+      <trans-unit id="ff50d4b8d26d81f538b0ebabc392cbb05b6da162" resname="content_type_group.update.success">
+        <source>Content type group '%name%' updated.</source>
+        <target xml:lang="hu" state="translated">%name% tartalomtípus-csoport frissítve.</target>
+        <note>key: content_type_group.update.success</note>
       </trans-unit>
       <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
         <source>Edit</source>
