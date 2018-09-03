@@ -11,6 +11,16 @@
         <target xml:lang="hu" state="translated">ez.section.identifier.format</target>
         <note>key: ez.section.identifier.format</note>
       </trans-unit>
+      <trans-unit id="0727f822c8bebb99cd8a75ec16d4008c74d30b24" resname="ezplatform.change_user_password.not_match">
+        <source>Old password does not match.</source>
+        <target xml:lang="hu" state="translated">A jelszavak nem egyeznek.</target>
+        <note>key: ezplatform.change_user_password.not_match</note>
+      </trans-unit>
+      <trans-unit id="54d912b0089483cfd533714e50262851b6d1421a" resname="ezplatform.change_user_password.passwords_must_match">
+        <source>The password fields must match.</source>
+        <target xml:lang="hu" state="translated">A jelszavaknak egyezniük kell.</target>
+        <note>key: ezplatform.change_user_password.passwords_must_match</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
