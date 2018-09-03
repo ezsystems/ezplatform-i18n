@@ -124,6 +124,11 @@
         <target xml:lang="hu" state="translated">Tartalom</target>
         <note>key: tab.name.my_content</note>
       </trans-unit>
+      <trans-unit id="30243b16511a7800e3b72f9cd60854548a2cfe1b" resname="tab.name.my_drafts">
+        <source>Drafts</source>
+        <target xml:lang="hu" state="translated">Vázlatok</target>
+        <note>key: tab.name.my_drafts</note>
+      </trans-unit>
       <trans-unit id="3cd97096c4d5ea83d5591467ab43021b86c65f27" resname="tab.name.my_media">
         <source>Media</source>
         <target xml:lang="hu" state="translated">Média</target>
