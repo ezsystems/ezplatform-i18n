@@ -6,69 +6,69 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="128df491a522e7af4916cd002d9e11a3d2bc4078" resname="section.action.delete">
+      <trans-unit id="128df491a522e7af4916cd002d9e11a3d2bc4078" resname="section.action.delete" approved="yes">
         <source>Delete Section</source>
-        <target xml:lang="hu" state="translated">Szekció törlése</target>
+        <target xml:lang="hu">Szekció törlése</target>
         <note>key: section.action.delete</note>
       </trans-unit>
-      <trans-unit id="84413bc1ae3385c0aac1af7ea5665cb0c1eaf3ba" resname="section.assign_content">
+      <trans-unit id="84413bc1ae3385c0aac1af7ea5665cb0c1eaf3ba" resname="section.assign_content" approved="yes">
         <source>Assign content</source>
-        <target xml:lang="hu" state="translated">Tartalom hozzárendelése</target>
+        <target xml:lang="hu">Tartalom hozzárendelése</target>
         <note>key: section.assign_content</note>
       </trans-unit>
-      <trans-unit id="2a6caa13cfd67503e2250af8e36f26a2f835a4a0" resname="section.assign_content.success">
+      <trans-unit id="2a6caa13cfd67503e2250af8e36f26a2f835a4a0" resname="section.assign_content.success" approved="yes">
         <source>%contentItemsCount% content items were assigned to '%name%'</source>
-        <target xml:lang="hu" state="translated">%contentItemsCount% tartalmat hozzárendeltük ehhez: %name%</target>
+        <target xml:lang="hu">%contentItemsCount% tartalmat hozzárendeltük ehhez: %name%</target>
         <note>key: section.assign_content.success</note>
       </trans-unit>
-      <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content">
+      <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content" approved="yes">
         <source>Assignments count</source>
-        <target xml:lang="hu" state="translated">Hozzárendelések száma</target>
+        <target xml:lang="hu">Hozzárendelések száma</target>
         <note>key: section.assigned.content</note>
       </trans-unit>
-      <trans-unit id="e04ac63bba940de331146dac711b1633407e5ce9" resname="section.assigned_content.empty">
+      <trans-unit id="e04ac63bba940de331146dac711b1633407e5ce9" resname="section.assigned_content.empty" approved="yes">
         <source>No content items.</source>
-        <target xml:lang="hu" state="translated">Nincsenek tartalmak.</target>
+        <target xml:lang="hu">Nincsenek tartalmak.</target>
         <note>key: section.assigned_content.empty</note>
       </trans-unit>
-      <trans-unit id="d40d7fd957935deb539c21b9b49f34d4016c69d0" resname="section.assigned_content.empty_desc">
+      <trans-unit id="d40d7fd957935deb539c21b9b49f34d4016c69d0" resname="section.assigned_content.empty_desc" approved="yes">
         <source>Content items you assign to this section will appear here.</source>
-        <target xml:lang="hu" state="translated">A szekcióhoz rendelt tartalmak jelennek meg itt.</target>
+        <target xml:lang="hu">A szekcióhoz rendelt tartalmak jelennek meg itt.</target>
         <note>key: section.assigned_content.empty_desc</note>
       </trans-unit>
-      <trans-unit id="60771f4109f17ae27080b34e9322fd7cb02f45b3" resname="section.assigned_content.header">
+      <trans-unit id="60771f4109f17ae27080b34e9322fd7cb02f45b3" resname="section.assigned_content.header" approved="yes">
         <source>Content items in %name% (%count%)</source>
-        <target xml:lang="hu" state="translated">%name% tartalmainak száma %count%</target>
+        <target xml:lang="hu">%name% tartalmainak száma %count%</target>
         <note>key: section.assigned_content.header</note>
       </trans-unit>
-      <trans-unit id="adcc2af264c7ae84e69396a8ff7ea5a259abd01e" resname="section.assigned_content.name">
+      <trans-unit id="adcc2af264c7ae84e69396a8ff7ea5a259abd01e" resname="section.assigned_content.name" approved="yes">
         <source>Name</source>
-        <target xml:lang="hu" state="translated">Név</target>
+        <target xml:lang="hu">Név</target>
         <note>key: section.assigned_content.name</note>
       </trans-unit>
-      <trans-unit id="2fe0fba3bd48001b4d8129930deec8cf683a5039" resname="section.assigned_content.path">
+      <trans-unit id="2fe0fba3bd48001b4d8129930deec8cf683a5039" resname="section.assigned_content.path" approved="yes">
         <source>Path</source>
-        <target xml:lang="hu" state="translated">Elérési út</target>
+        <target xml:lang="hu">Elérési út</target>
         <note>key: section.assigned_content.path</note>
       </trans-unit>
-      <trans-unit id="741d668d8a98bbaa2195e996de4402f24ef7d60e" resname="section.assigned_content.type">
+      <trans-unit id="741d668d8a98bbaa2195e996de4402f24ef7d60e" resname="section.assigned_content.type" approved="yes">
         <source>Content Type</source>
-        <target xml:lang="hu" state="translated">Tartalomtípus</target>
+        <target xml:lang="hu">Tartalomtípus</target>
         <note>key: section.assigned_content.type</note>
       </trans-unit>
-      <trans-unit id="0a6c7f3919b09caa9eee957a4949d3c9b6dce16e" resname="section.create.success">
+      <trans-unit id="0a6c7f3919b09caa9eee957a4949d3c9b6dce16e" resname="section.create.success" approved="yes">
         <source>Section '%name%' created.</source>
-        <target xml:lang="hu" state="translated">%name% szekció létrehozva</target>
+        <target xml:lang="hu">%name% szekció létrehozva</target>
         <note>key: section.create.success</note>
       </trans-unit>
-      <trans-unit id="48a0071d3b889cbfef3ff4ee5af8cf83b1e8b7f6" resname="section.delete">
+      <trans-unit id="48a0071d3b889cbfef3ff4ee5af8cf83b1e8b7f6" resname="section.delete" approved="yes">
         <source>Delete Section</source>
-        <target xml:lang="hu" state="translated">Szekció törlése</target>
+        <target xml:lang="hu">Szekció törlése</target>
         <note>key: section.delete</note>
       </trans-unit>
-      <trans-unit id="663e1bfb8478f95028221190755c01441b2a8fde" resname="section.delete.success">
+      <trans-unit id="663e1bfb8478f95028221190755c01441b2a8fde" resname="section.delete.success" approved="yes">
         <source>Section '%name%' removed.</source>
-        <target xml:lang="hu" state="translated">%name% szekció eltávolítva.</target>
+        <target xml:lang="hu">%name% szekció eltávolítva.</target>
         <note>key: section.delete.success</note>
       </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit">
