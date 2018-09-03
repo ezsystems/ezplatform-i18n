@@ -6,24 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="5bfb4eb8f01f11447cc3c85b28096f96549b34d7" resname="approval.timeline">
+        <source>Approval Timeline</source>
+        <target xml:lang="hu" state="translated">Jóváhagyási Idővonal</target>
+        <note>key: approval.timeline</note>
+      </trans-unit>
+      <trans-unit id="a7a51410cb1c298c47638de5b509d09dd2f33fa0" resname="content.review.add_message">
+        <source>Message (Optional):</source>
+        <target xml:lang="hu" state="translated">Üzenet (opcionális):</target>
+        <note>key: content.review.add_message</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
