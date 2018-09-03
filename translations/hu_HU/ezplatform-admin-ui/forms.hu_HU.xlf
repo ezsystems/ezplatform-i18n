@@ -11,6 +11,11 @@
         <target xml:lang="hu" state="translated">Létrehozás</target>
         <note>key: content_draft_create_type.create</note>
       </trans-unit>
+      <trans-unit id="c5edf119facebac72a105963da8db6be47549180" resname="content_location_add_type.add">
+        <source>Add location</source>
+        <target xml:lang="hu" state="translated">Lokáció hozzáadása</target>
+        <note>key: content_location_add_type.add</note>
+      </trans-unit>
       <trans-unit id="9e3c743fb052b12d69896a30ee9a6e1bb0c41427" resname="content_location_remove_form.remove">
         <source>Delete</source>
         <target xml:lang="hu" state="translated">Törlés</target>
@@ -21,10 +26,45 @@
         <target xml:lang="hu" state="translated">Létrehozás</target>
         <note>key: content_translation_add_form.add</note>
       </trans-unit>
+      <trans-unit id="0c3800a29144ab27e80a81e100212ccd5fd7e509" resname="content_translation_remove_form.remove">
+        <source>Remove translation</source>
+        <target xml:lang="hu" state="translated">Fordítás eltávolítása</target>
+        <note>key: content_translation_remove_form.remove</note>
+      </trans-unit>
+      <trans-unit id="4c29e9392116163c51f0e3d4d0c08ff96717f695" resname="content_type_groups_delete_form.delete">
+        <source>Delete content type groups</source>
+        <target xml:lang="hu" state="translated">Tartalomtípus-csoportok törlése</target>
+        <note>key: content_type_groups_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="5f7545e2c370cd0511521d95d0309d264b5d16e5" resname="content_types_delete_form.delete">
+        <source>Delete content types</source>
+        <target xml:lang="hu" state="translated">Tartalomtípusok törlése</target>
+        <note>key: content_types_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="56281d5c292a4fe95f9b1af5ae0b1deaebab7342" resname="ezplatform.change_user_password.change">
+        <source>Change</source>
+        <target xml:lang="hu" state="translated">Változtatás</target>
+        <note>key: ezplatform.change_user_password.change</note>
+      </trans-unit>
       <trans-unit id="390eb98ace269d5909c838416c36248c40895058" resname="ezplatform.change_user_password.confirm_new_password">
         <source>Confirm password</source>
         <target xml:lang="hu" state="translated">Jelszó megerősítése</target>
         <note>key: ezplatform.change_user_password.confirm_new_password</note>
+      </trans-unit>
+      <trans-unit id="43521bfea046f591270e027a69fc52cccc486e23" resname="ezplatform.change_user_password.new_password">
+        <source>New password</source>
+        <target xml:lang="hu" state="translated">Új jelszó</target>
+        <note>key: ezplatform.change_user_password.new_password</note>
+      </trans-unit>
+      <trans-unit id="7d2421be11a5351c12c952611c7a1a7f00f51cd9" resname="ezplatform.change_user_password.old_password">
+        <source>Old password</source>
+        <target xml:lang="hu" state="translated">Régi jelszó</target>
+        <note>key: ezplatform.change_user_password.old_password</note>
+      </trans-unit>
+      <trans-unit id="859bfc3d21113eecb4a19d4a9305f2519eb4b331" resname="ezplatform.forgot_user_password.email">
+        <source>Enter your email address:</source>
+        <target xml:lang="hu" state="translated">Add meg az e-mail címed:</target>
+        <note>key: ezplatform.forgot_user_password.email</note>
       </trans-unit>
       <trans-unit id="0ad9197dcdbe88b1a05f099c564dc2b5634f8aa5" resname="ezplatform.language.create.enabled">
         <source>Enabled</source>
