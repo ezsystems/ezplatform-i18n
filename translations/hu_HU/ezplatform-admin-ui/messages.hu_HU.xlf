@@ -94,6 +94,86 @@
         <target xml:lang="hu" state="translated">Valami hiba történhetett, sajnáljuk.</target>
         <note>key: error.page.404.title</note>
       </trans-unit>
+      <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
+        <source><![CDATA[Please contact your eZ Platform Administrator and inform her/him about the time the error occurred, the URL in your browser window and anything related you think may have caused the error.<br/>You can also go back or try to reload the application.]]></source>
+        <target xml:lang="hu" state="translated"><![CDATA[Kérlek, lépj kapcsolatba az eZ Platform Adminnal és jelezd felé, hogy mikor történt a hiba, milyen URL-en tapasztaltad, illetve bármi mást, ami segíthet a hiba okának felkutatásában. De megpróbálhatod újra, hátha már rendben van.]]></target>
+        <note>key: error.page.default.actions</note>
+      </trans-unit>
+      <trans-unit id="8338c190462d420926edf71e8d4cddcae710d361" resname="error.page.default.message">
+        <source>It's an error 500, an internal server error. The server was unable to complete your request and it's not your fault.</source>
+        <target xml:lang="hu" state="translated">Ez egy 500-as hiba. A szerver nem tudta valamiért kiszolgálni a kérésed, de ez még véletlenül sem a te hibád.</target>
+        <note>key: error.page.default.message</note>
+      </trans-unit>
+      <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title">
+        <source>Something went wrong. Sorry!</source>
+        <target xml:lang="hu" state="translated">Valami hiba történhetett, sajnáljuk.</target>
+        <note>key: error.page.default.title</note>
+      </trans-unit>
+      <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
+        <source>Add author</source>
+        <target xml:lang="hu" state="translated">Szerző hozzáadása</target>
+        <note>key: ezauthor.action.add</note>
+      </trans-unit>
+      <trans-unit id="3a0389d073f00ef9a968a5cdc60e2794b434b381" resname="ezauthor.action.delete">
+        <source>Remove author</source>
+        <target xml:lang="hu" state="translated">Szerző eltávolítása</target>
+        <note>key: ezauthor.action.delete</note>
+      </trans-unit>
+      <trans-unit id="f73d03811ba3033d6b44986d55ca728c5a88b168" resname="ezplatform.forgot_user_password.contact_administrator">
+        <source>If you do not remember your login, please contact the site administrator.</source>
+        <target xml:lang="hu" state="translated">Ha nem emlékszel a belépési adataidra, lépj kapcsolatba az oldal adminjával.</target>
+        <note>key: ezplatform.forgot_user_password.contact_administrator</note>
+      </trans-unit>
+      <trans-unit id="ffb6990d5e75fe6dc86e94166b77e40a79e4e2a3" resname="ezplatform.forgot_user_password.login">
+        <source>This email is connected with several accounts. Please enter your login.</source>
+        <target xml:lang="hu" state="translated">Ehhez az e-mail címhez több felhasználói fiók is tartozik. Add meg bejelentkezési adataidat.</target>
+        <note>key: ezplatform.forgot_user_password.login</note>
+      </trans-unit>
+      <trans-unit id="db6dd97ed4776bb0e9843554c48e3962327e8f50" resname="ezplatform.forgot_user_password.message">
+        <source><![CDATA[Hi,
+        <br /><br />
+        We have received a request to reset the password for your account on site. Click “reset password” below to choose a new password:
+        <br /><br />
+        <a href="%reset_password%">Reset password<a/>
+        <br /><br />
+        If you did not request a password reset, please ignore this email, and your password will remain the same.]]></source>
+        <target xml:lang="hu" state="translated"><![CDATA[Hello, 
+        <br /><br />
+        Érkezett hozzánk egy kérés, hogy módosítsuk az oldalhoz tartozó jelszavad. Kattints a “jelszó módosítása” linkre, hogy megadhasd új jelszavad:
+        <br /><br />
+        <a href="%reset_password%">Jelszó módosítása<a/>
+        <br /><br />
+        Ha nem kérted jelszavad módosítását, hagyd figyelmen kívül ezt a levelet, jelszavad változatlan marad.
+ 
+]]></target>
+        <note>key: ezplatform.forgot_user_password.message</note>
+      </trans-unit>
+      <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password">
+        <source>Reset your password</source>
+        <target xml:lang="hu" state="translated">Jelszó módosítása</target>
+        <note>key: ezplatform.forgot_user_password.reset_your_password</note>
+      </trans-unit>
+      <trans-unit id="36aa6723300a41ba80ee0096c0d2bcf34fd48aca" resname="ezplatform.forgot_user_password.success">
+        <source><![CDATA[<p>We have sent an email to the email address of your account. You should receive the email shortly.</p>
+            <p>If the email is slow to arrive, check your spam folders.</p>
+            <p>If you receive no email, it’s that your username or email is unknown to us, so please double check.</p>
+            <p>If you reset your password multiple times, only the most recent email link will be valid</p>]]></source>
+        <target xml:lang="hu" state="translated"><![CDATA[<p>Küldtünk egy e-mailt a fiókodhoz megadott e-mail címre. Hamarosan megérkezik.</p>
+            <p>Ha nem találod a postafiókodban, ellenőrizd a SPAM mappá(ka)t is!</p>
+            <p>Ha nem kaptál levelet, valószínűleg vagy a felhasználóneved, vagy a jelszavad ismeretlen számunkra, kérlek ellenőrizd.</p>
+            <p>Ha többször próbáltad módosítani jelszavadat, a legfrissebb e-mailben küldött link lesz csak érvényes.</p>]]></target>
+        <note>key: ezplatform.forgot_user_password.success</note>
+      </trans-unit>
+      <trans-unit id="40dd2934190789b016771a0fc3b41dcdfe0bb920" resname="ezplatform.reset_user_password.change_password">
+        <source>Change password</source>
+        <target xml:lang="hu" state="translated">Jelszó módosítása</target>
+        <note>key: ezplatform.reset_user_password.change_password</note>
+      </trans-unit>
+      <trans-unit id="8359e9b6409139537d0eaeeacaedbc4d0912a105" resname="ezplatform.reset_user_password.link_is_not_valid">
+        <source><![CDATA[This link is not valid anymore, you can <a href="%forgot_user_password%">generate a new link</a> to reset your password.]]></source>
+        <target xml:lang="hu" state="translated"><![CDATA[Ez a link már nem érvényes. <a href="%forgot_user_password%">Új link igénylése</a> a jelszó módosításához.]]></target>
+        <note>key: ezplatform.reset_user_password.link_is_not_valid</note>
+      </trans-unit>
       <trans-unit id="5cf420af18fd4a8d856fd30bc13aea5039369f9b" resname="form.cancel">
         <source>Cancel</source>
         <target xml:lang="hu" state="translated">Mégse</target>
