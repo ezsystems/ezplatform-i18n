@@ -174,6 +174,11 @@
         <target xml:lang="hu" state="translated"><![CDATA[Ez a link már nem érvényes. <a href="%forgot_user_password%">Új link igénylése</a> a jelszó módosításához.]]></target>
         <note>key: ezplatform.reset_user_password.link_is_not_valid</note>
       </trans-unit>
+      <trans-unit id="5149c594d64197e519d38a1a2e7368140716bb81" resname="ezplatform.reset_user_password.success">
+        <source><![CDATA[Congrats, your password has been changed, you can now <a href="%login%">login</a> to eZ Platform.]]></source>
+        <target xml:lang="hu" state="translated"><![CDATA[Gratulálunk, a jelszavad megváltozott. <a href="%login%">Bejelentkezhetsz</a> az oldalra.]]></target>
+        <note>key: ezplatform.reset_user_password.success</note>
+      </trans-unit>
       <trans-unit id="5cf420af18fd4a8d856fd30bc13aea5039369f9b" resname="form.cancel">
         <source>Cancel</source>
         <target xml:lang="hu" state="translated">Mégse</target>
@@ -189,10 +194,50 @@
         <target xml:lang="hu" state="translated">Törlés</target>
         <note>key: modal.delete</note>
       </trans-unit>
+      <trans-unit id="08232f4c5c3ca88a7f2fd8e29eda7e20ec346aae" resname="search.any_time">
+        <source>Any time</source>
+        <target xml:lang="hu" state="translated">Bármikor</target>
+        <note>key: search.any_time</note>
+      </trans-unit>
+      <trans-unit id="03d6d5922fd2012e155e50306eaf98e2dfeb21c6" resname="search.section.any">
+        <source>Any section</source>
+        <target xml:lang="hu" state="translated">Bármelyik szekció</target>
+        <note>key: search.section.any</note>
+      </trans-unit>
+      <trans-unit id="9567771350aff93580f743089937b0c8fe31058e" resname="section.assign,content">
+        <source>Assign Content</source>
+        <target xml:lang="hu" state="translated">Tartalom hozzárendelése</target>
+        <note>key: section.assign,content</note>
+      </trans-unit>
+      <trans-unit id="6a17e9f4ed416563fc8c3e188509b8eec8a6f7c0" resname="section.modal.message">
+        <source>Do you want to delete section?</source>
+        <target xml:lang="hu" state="translated">Szeretnéd törölni a szekciót?</target>
+        <note>key: section.modal.message</note>
+      </trans-unit>
+      <trans-unit id="1152c93462d8bed85642b961f01ed63a6f2525ab" resname="tab.locations.location_content_swap">
+        <source>Location Content Swap</source>
+        <target xml:lang="hu" state="translated">Lokáció tartalom cseréje</target>
+        <note>key: tab.locations.location_content_swap</note>
+      </trans-unit>
+      <trans-unit id="27d429c3dcff70494c4080957b05a9db5255f854" resname="tab.locations.swap_with_another">
+        <source>Swap the content item at this location with another</source>
+        <target xml:lang="hu" state="translated">Tartalom elem cseréje az adott lokációban</target>
+        <note>key: tab.locations.swap_with_another</note>
+      </trans-unit>
       <trans-unit id="ebe1352e4bc48c8ec1a4e5f7352c0d20f3d0a18f" resname="tab.view.content">
         <source>Content</source>
         <target xml:lang="hu" state="translated">Tartalom</target>
         <note>key: tab.view.content</note>
+      </trans-unit>
+      <trans-unit id="4e7901a215220faba4d546cd3fb63f3e2a64e849" resname="trash.delete.all.confirm">
+        <source>Are you sure you want to permanently delete %trashItemsCount% item(s)?</source>
+        <target xml:lang="hu" state="translated">Biztos vagy benne, hogy véglegesen törölni szeretnéd ezeket az elemeket? %trashItemsCount%</target>
+        <note>key: trash.delete.all.confirm</note>
+      </trans-unit>
+      <trans-unit id="48e20c2b09b340ca2e2020edaa30a57c8bc3f26b" resname="trash.delete.all.info">
+        <source>This action cannot be reversed</source>
+        <target xml:lang="hu" state="translated">Ez a művelet nem vonható vissza.</target>
+        <note>key: trash.delete.all.info</note>
       </trans-unit>
       <trans-unit id="e500e3f1d454e2775bbe89b6267cd77c766df3f1" resname="trash.delete.button.cancel">
         <source>Cancel</source>
@@ -203,6 +248,11 @@
         <source>Cancel</source>
         <target xml:lang="hu" state="translated">Mégse</target>
         <note>key: trash.form.cancel</note>
+      </trans-unit>
+      <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
+        <source>Are you sure you want to send this content item to trash?</source>
+        <target xml:lang="hu" state="translated">Biztosan lomtárba szeretnéd helyezni ezt a tartalmat?</target>
+        <note>key: trash.modal.message</note>
       </trans-unit>
     </body>
   </file>
