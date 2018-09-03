@@ -241,10 +241,40 @@
         <target xml:lang="hu" state="translated">%identifier% szerepkör</target>
         <note>key: role.view.view.title</note>
       </trans-unit>
+      <trans-unit id="84f19e53b432c72daaf803a5cbb9bf10d763b5e4" resname="role.viewing">
+        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
+        <target xml:lang="hu" state="translated"><![CDATA[<strong>%viewing%</strong> megjelenítése ennyiből: <strong>%total%</strong>]]></target>
+        <note>key: role.viewing</note>
+      </trans-unit>
       <trans-unit id="e7ff6be9f5a7368f2493f29eacfa1ee321d9c383" resname="role_assignment.view.add.panel.limitations.title">
         <source>Limitations</source>
         <target xml:lang="hu" state="translated">Korlátozások</target>
         <note>key: role_assignment.view.add.panel.limitations.title</note>
+      </trans-unit>
+      <trans-unit id="f9465b09774c22747e887ffe9e6300fd02420546" resname="role_assignment.view.add.panel.users_and_groups.title">
+        <source>Users and Groups</source>
+        <target xml:lang="hu" state="translated">Felhasználók és Csoportok</target>
+        <note>key: role_assignment.view.add.panel.users_and_groups.title</note>
+      </trans-unit>
+      <trans-unit id="61a5ec154d3f0620ec619d196611b011996128ff" resname="role_assignment.view.add.title">
+        <source>Assigning to Users/Groups</source>
+        <target xml:lang="hu" state="translated">Hozzárendelés felhasználókhoz / csoportokhoz </target>
+        <note>key: role_assignment.view.add.title</note>
+      </trans-unit>
+      <trans-unit id="a21a7a13956cadf2256095fbdd062f1b33dd05a8" resname="role_assignment.view.list.action.add">
+        <source>Assign users/groups</source>
+        <target xml:lang="hu" state="translated">Felhasználók / csoportok hozzárendelése</target>
+        <note>key: role_assignment.view.list.action.add</note>
+      </trans-unit>
+      <trans-unit id="76361d414c957ff63dcfdaf4490b3e9a2c632750" resname="role_assignment.view.list.action.delete">
+        <source>Delete Assignment</source>
+        <target xml:lang="hu" state="translated">Hozzárendelés törlése</target>
+        <note>key: role_assignment.view.list.action.delete</note>
+      </trans-unit>
+      <trans-unit id="5111796ffacfccc152f157c56a6e7219d35c3fd8" resname="role_assignment.view.list.header">
+        <source>Users and Groups</source>
+        <target xml:lang="hu" state="translated">Felhasználók és Csoportok</target>
+        <note>key: role_assignment.view.list.header</note>
       </trans-unit>
       <trans-unit id="f7b9f2997c5eada07c20a0bde7e89cc0c688e1ea" resname="role_assignment.view.list.panel.assignments.column.limitation">
         <source>Limitation</source>
@@ -256,6 +286,21 @@
         <target xml:lang="hu" state="translated">Korlátozások</target>
         <note>key: role_assignment.view.list.panel.assignments.column.limitations</note>
       </trans-unit>
+      <trans-unit id="bedf1e132292302ec09e4646d9a348a56e2c1ce8" resname="role_assignment.view.list.panel.assignments.column.user_group">
+        <source>User/Group</source>
+        <target xml:lang="hu" state="translated">Felhasználó / csoport</target>
+        <note>key: role_assignment.view.list.panel.assignments.column.user_group</note>
+      </trans-unit>
+      <trans-unit id="4b3ecf13ffafd795bc971bc6292ea7f5a0bbe64c" resname="role_assignment.view.list.title.count">
+        <source>Assignments (%count%)</source>
+        <target xml:lang="hu" state="translated">Hozzárendelések (%count%)</target>
+        <note>key: role_assignment.view.list.title.count</note>
+      </trans-unit>
+      <trans-unit id="304836ca19b0d01940431c18b955ae028a6110f9" resname="role_assignments.modal.message">
+        <source>Do you want to delete Role Assignments?</source>
+        <target xml:lang="hu" state="translated">Szeretnéd törölni a szerepkör hozzárendeléseit?</target>
+        <note>key: role_assignments.modal.message</note>
+      </trans-unit>
       <trans-unit id="e9f659f5717d317c994c7950c14bcb4be644062c" resname="tab.roles.limitation">
         <source>Limitation</source>
         <target xml:lang="hu" state="translated">Korlátozás</target>
@@ -266,10 +311,20 @@
         <target xml:lang="hu" state="translated">Név</target>
         <note>key: tab.roles.name</note>
       </trans-unit>
+      <trans-unit id="9e3fbe7cbb68fbe5996471da829e0fab59c3fc8b" resname="tab.roles.no_roles">
+        <source>This content item has no roles.</source>
+        <target xml:lang="hu" state="translated">A tartalom nem rendelkezik szerepkörökkel.</target>
+        <note>key: tab.roles.no_roles</note>
+      </trans-unit>
       <trans-unit id="cfba356470eba180c21d9a43e9bebbfe5e2d427b" resname="tab.roles.roles">
         <source>Roles</source>
         <target xml:lang="hu" state="translated">Szerepkörök</target>
         <note>key: tab.roles.roles</note>
+      </trans-unit>
+      <trans-unit id="5abe6179f254b9bdd5e8680eec4456118980932e" resname="validator.assign_users_or_groups">
+        <source>Assign User(s) and/or Group(s) to the Role</source>
+        <target xml:lang="hu" state="translated">Felhasználó(k) és/vagy csoport(ok) hozzárendelése a szerepkörhöz</target>
+        <note>key: validator.assign_users_or_groups</note>
       </trans-unit>
     </body>
   </file>
