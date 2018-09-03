@@ -6,254 +6,254 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="a4b9e9b4898dd285237fc60130970ce7ed988871" resname="content.create.choose_content_type">
+      <trans-unit id="a4b9e9b4898dd285237fc60130970ce7ed988871" resname="content.create.choose_content_type" approved="yes">
         <source>Create your content</source>
-        <target xml:lang="hu" state="translated">Tartalom létrehozása</target>
+        <target xml:lang="hu">Tartalom létrehozása</target>
         <note>key: content.create.choose_content_type</note>
       </trans-unit>
-      <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type">
+      <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type" approved="yes">
         <source>Select Content Type</source>
-        <target xml:lang="hu" state="translated">Tartalomtípus kiválasztása</target>
+        <target xml:lang="hu">Tartalomtípus kiválasztása</target>
         <note>key: content.create.select_content_type</note>
       </trans-unit>
-      <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
+      <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language" approved="yes">
         <source>Select language</source>
-        <target xml:lang="hu" state="translated">Nyelv kiválasztása</target>
+        <target xml:lang="hu">Nyelv kiválasztása</target>
         <note>key: content.create.select_language</note>
       </trans-unit>
-      <trans-unit id="5e8851497aae3ba774d163d5fd191fd69ac871c0" resname="content.edit.select_language">
+      <trans-unit id="5e8851497aae3ba774d163d5fd191fd69ac871c0" resname="content.edit.select_language" approved="yes">
         <source>Select language</source>
-        <target xml:lang="hu" state="translated">Nyelv kiválasztása</target>
+        <target xml:lang="hu">Nyelv kiválasztása</target>
         <note>key: content.edit.select_language</note>
       </trans-unit>
-      <trans-unit id="9c91d85bc7658ec7dc6bbb07b720979177c0846a" resname="content.view.subitems">
+      <trans-unit id="9c91d85bc7658ec7dc6bbb07b720979177c0846a" resname="content.view.subitems" approved="yes">
         <source>Sub-items</source>
-        <target xml:lang="hu" state="translated">Alsóbb elemek</target>
+        <target xml:lang="hu">Alsóbb elemek</target>
         <note>key: content.view.subitems</note>
       </trans-unit>
-      <trans-unit id="eeb49235f0e3b40e651725430b85a2885174bd2b" resname="location.bookmark.add">
+      <trans-unit id="eeb49235f0e3b40e651725430b85a2885174bd2b" resname="location.bookmark.add" approved="yes">
         <source>Add to Bookmarks</source>
-        <target xml:lang="hu" state="translated">Hozzáadás a könyvjelzőkhöz</target>
+        <target xml:lang="hu">Hozzáadás a könyvjelzőkhöz</target>
         <note>key: location.bookmark.add</note>
       </trans-unit>
-      <trans-unit id="0b2f22acb619fcc5672a7dd0ccf2a39316a07274" resname="location.bookmark.remove">
+      <trans-unit id="0b2f22acb619fcc5672a7dd0ccf2a39316a07274" resname="location.bookmark.remove" approved="yes">
         <source>Remove from Bookmarks</source>
-        <target xml:lang="hu" state="translated">Eltávolítás a könyvjelzőkből</target>
+        <target xml:lang="hu">Eltávolítás a könyvjelzőkből</target>
         <note>key: location.bookmark.remove</note>
       </trans-unit>
-      <trans-unit id="c0b36efcf0ebbe2ac0f9861cae35e12e668cbcc0" resname="tab.details.content_details">
+      <trans-unit id="c0b36efcf0ebbe2ac0f9861cae35e12e668cbcc0" resname="tab.details.content_details" approved="yes">
         <source>Content details</source>
-        <target xml:lang="hu" state="translated">Tartalom részletek</target>
+        <target xml:lang="hu">Tartalom részletek</target>
         <note>key: tab.details.content_details</note>
       </trans-unit>
-      <trans-unit id="6e1488d3bb54efc176d8766d3c22751b06890e2f" resname="tab.details.content_id">
+      <trans-unit id="6e1488d3bb54efc176d8766d3c22751b06890e2f" resname="tab.details.content_id" approved="yes">
         <source>Content ID</source>
-        <target xml:lang="hu" state="translated">Tartalom azonosító</target>
+        <target xml:lang="hu">Tartalom azonosító</target>
         <note>key: tab.details.content_id</note>
       </trans-unit>
-      <trans-unit id="d5236d13b41dc38ee965599754a05e3283b55ae2" resname="tab.details.content_remote_id">
+      <trans-unit id="d5236d13b41dc38ee965599754a05e3283b55ae2" resname="tab.details.content_remote_id" approved="yes">
         <source>Content remote ID</source>
-        <target xml:lang="hu" state="translated">Tartalom külső ID</target>
+        <target xml:lang="hu">Tartalom külső ID</target>
         <note>key: tab.details.content_remote_id</note>
       </trans-unit>
-      <trans-unit id="dc195b32e812b751daa7a3321844c9712e1460ba" resname="tab.details.creator">
+      <trans-unit id="dc195b32e812b751daa7a3321844c9712e1460ba" resname="tab.details.creator" approved="yes">
         <source>Creator</source>
-        <target xml:lang="hu" state="translated">Szerző</target>
+        <target xml:lang="hu">Szerző</target>
         <note>key: tab.details.creator</note>
       </trans-unit>
-      <trans-unit id="91b45af4dd219651dc8b1a7d050822b71f03fad3" resname="tab.details.creator.not_found">
+      <trans-unit id="91b45af4dd219651dc8b1a7d050822b71f03fad3" resname="tab.details.creator.not_found" approved="yes">
         <source>Can’t fetch creator</source>
-        <target xml:lang="hu" state="translated">Nem lehet lekérdezni a létrehozót</target>
+        <target xml:lang="hu">Nem lehet lekérdezni a létrehozót</target>
         <note>key: tab.details.creator.not_found</note>
       </trans-unit>
-      <trans-unit id="acc17a8db8d00036233faa9948ad9a496cd621b3" resname="tab.details.last_contributor">
+      <trans-unit id="acc17a8db8d00036233faa9948ad9a496cd621b3" resname="tab.details.last_contributor" approved="yes">
         <source>Last contributor</source>
-        <target xml:lang="hu" state="translated">Utolsó közreműködő</target>
+        <target xml:lang="hu">Utolsó közreműködő</target>
         <note>key: tab.details.last_contributor</note>
       </trans-unit>
-      <trans-unit id="ba5ca8a7f923f6ee3a0e6bf9aca428403d0158fd" resname="tab.details.last_contributor.not_found">
+      <trans-unit id="ba5ca8a7f923f6ee3a0e6bf9aca428403d0158fd" resname="tab.details.last_contributor.not_found" approved="yes">
         <source>Can’t fetch last contributor</source>
-        <target xml:lang="hu" state="translated">Nem lehet lekérdezni az utolsó közreműködőket</target>
+        <target xml:lang="hu">Nem lehet lekérdezni az utolsó közreműködőket</target>
         <note>key: tab.details.last_contributor.not_found</note>
       </trans-unit>
-      <trans-unit id="671c2d4e91244548b29e8f293cd8d4d97a3c23bd" resname="tab.details.location_id">
+      <trans-unit id="671c2d4e91244548b29e8f293cd8d4d97a3c23bd" resname="tab.details.location_id" approved="yes">
         <source>Location ID</source>
-        <target xml:lang="hu" state="translated">Lokáció ID</target>
+        <target xml:lang="hu">Lokáció ID</target>
         <note>key: tab.details.location_id</note>
       </trans-unit>
-      <trans-unit id="c391debe9105c6823145ca6c5ec76a252ba5538c" resname="tab.details.location_remote_id">
+      <trans-unit id="c391debe9105c6823145ca6c5ec76a252ba5538c" resname="tab.details.location_remote_id" approved="yes">
         <source>Location remote ID</source>
-        <target xml:lang="hu" state="translated">Lokáció külső Id</target>
+        <target xml:lang="hu">Lokáció külső Id</target>
         <note>key: tab.details.location_remote_id</note>
       </trans-unit>
-      <trans-unit id="26bd81ee7b010fa5846859eb4c2464764effeb81" resname="tab.details.published_version">
+      <trans-unit id="26bd81ee7b010fa5846859eb4c2464764effeb81" resname="tab.details.published_version" approved="yes">
         <source>Published version</source>
-        <target xml:lang="hu" state="translated">Publikált verzió</target>
+        <target xml:lang="hu">Publikált verzió</target>
         <note>key: tab.details.published_version</note>
       </trans-unit>
-      <trans-unit id="cd8ccac573601690d7e364174cf3fb8a931c805e" resname="tab.details.section_details">
+      <trans-unit id="cd8ccac573601690d7e364174cf3fb8a931c805e" resname="tab.details.section_details" approved="yes">
         <source>Section details</source>
-        <target xml:lang="hu" state="translated">Szekció részletei</target>
+        <target xml:lang="hu">Szekció részletei</target>
         <note>key: tab.details.section_details</note>
       </trans-unit>
-      <trans-unit id="67ff5cca435b058142e77b820d5d72090fa26346" resname="tab.details.section_id">
+      <trans-unit id="67ff5cca435b058142e77b820d5d72090fa26346" resname="tab.details.section_id" approved="yes">
         <source>Section ID</source>
-        <target xml:lang="hu" state="translated">Szekció ID</target>
+        <target xml:lang="hu">Szekció ID</target>
         <note>key: tab.details.section_id</note>
       </trans-unit>
-      <trans-unit id="0ab2029f0a194849d3f90531f03e37780491d1a6" resname="tab.details.section_identifier">
+      <trans-unit id="0ab2029f0a194849d3f90531f03e37780491d1a6" resname="tab.details.section_identifier" approved="yes">
         <source>Section identifier</source>
-        <target xml:lang="hu" state="translated">Szekció azonosító</target>
+        <target xml:lang="hu">Szekció azonosító</target>
         <note>key: tab.details.section_identifier</note>
       </trans-unit>
-      <trans-unit id="30775f4a9e0512f181cf857fb0f0ea23fe79320d" resname="tab.details.section_name">
+      <trans-unit id="30775f4a9e0512f181cf857fb0f0ea23fe79320d" resname="tab.details.section_name" approved="yes">
         <source>Section name</source>
-        <target xml:lang="hu" state="translated">Szekció neve</target>
+        <target xml:lang="hu">Szekció neve</target>
         <note>key: tab.details.section_name</note>
       </trans-unit>
-      <trans-unit id="6ba61ac8194e021eb1515cc2d3d33ff006e2d55d" resname="tab.details.state_details">
+      <trans-unit id="6ba61ac8194e021eb1515cc2d3d33ff006e2d55d" resname="tab.details.state_details" approved="yes">
         <source>State details</source>
-        <target xml:lang="hu" state="translated">Állapot részletek</target>
+        <target xml:lang="hu">Állapot részletek</target>
         <note>key: tab.details.state_details</note>
       </trans-unit>
-      <trans-unit id="bbbd7d6b2d1c59cedd3012f3d4375ade8cc50c15" resname="tab.details.state_group_id">
+      <trans-unit id="bbbd7d6b2d1c59cedd3012f3d4375ade8cc50c15" resname="tab.details.state_group_id" approved="yes">
         <source>Group ID</source>
-        <target xml:lang="hu" state="translated">Csoport ID</target>
+        <target xml:lang="hu">Csoport ID</target>
         <note>key: tab.details.state_group_id</note>
       </trans-unit>
-      <trans-unit id="b4e137dd1267dc4e70e23e289313c9340f065634" resname="tab.details.state_group_identifier">
+      <trans-unit id="b4e137dd1267dc4e70e23e289313c9340f065634" resname="tab.details.state_group_identifier" approved="yes">
         <source>Group identifier</source>
-        <target xml:lang="hu" state="translated">Csoport azonosító</target>
+        <target xml:lang="hu">Csoport azonosító</target>
         <note>key: tab.details.state_group_identifier</note>
       </trans-unit>
-      <trans-unit id="131730e5ecef276336a53300cdd891e0689023f4" resname="tab.details.state_group_name">
+      <trans-unit id="131730e5ecef276336a53300cdd891e0689023f4" resname="tab.details.state_group_name" approved="yes">
         <source>Group name</source>
-        <target xml:lang="hu" state="translated">Csoport neve</target>
+        <target xml:lang="hu">Csoport neve</target>
         <note>key: tab.details.state_group_name</note>
       </trans-unit>
-      <trans-unit id="0ae393a967d866426ebdb62c810ea218c011ea5f" resname="tab.details.state_id">
+      <trans-unit id="0ae393a967d866426ebdb62c810ea218c011ea5f" resname="tab.details.state_id" approved="yes">
         <source>State ID</source>
-        <target xml:lang="hu" state="translated">Állapot ID</target>
+        <target xml:lang="hu">Állapot ID</target>
         <note>key: tab.details.state_id</note>
       </trans-unit>
-      <trans-unit id="e185e68f61ce9867e2cafcf406650e12c3a81d05" resname="tab.details.state_identifier">
+      <trans-unit id="e185e68f61ce9867e2cafcf406650e12c3a81d05" resname="tab.details.state_identifier" approved="yes">
         <source>Identifier</source>
-        <target xml:lang="hu" state="translated">Azonosító</target>
+        <target xml:lang="hu">Azonosító</target>
         <note>key: tab.details.state_identifier</note>
       </trans-unit>
-      <trans-unit id="69dea878e2926e6a40b3d4e79b1f723d0aa801c7" resname="tab.details.state_name">
+      <trans-unit id="69dea878e2926e6a40b3d4e79b1f723d0aa801c7" resname="tab.details.state_name" approved="yes">
         <source>Name</source>
-        <target xml:lang="hu" state="translated">Név</target>
+        <target xml:lang="hu">Név</target>
         <note>key: tab.details.state_name</note>
       </trans-unit>
-      <trans-unit id="8ddd1c9e60bd352b4395e1753ede6534db2aac8b" resname="tab.details.sub_items_listing_by.in">
+      <trans-unit id="8ddd1c9e60bd352b4395e1753ede6534db2aac8b" resname="tab.details.sub_items_listing_by.in" approved="yes">
         <source>in</source>
-        <target xml:lang="hu" state="translated">ebben</target>
+        <target xml:lang="hu">ebben</target>
         <note>key: tab.details.sub_items_listing_by.in</note>
       </trans-unit>
-      <trans-unit id="c7f8179865bd73db9d2f07c39ae4a364668476c5" resname="tab.details.sub_items_listing_by.order_by">
+      <trans-unit id="c7f8179865bd73db9d2f07c39ae4a364668476c5" resname="tab.details.sub_items_listing_by.order_by" approved="yes">
         <source>Order by</source>
-        <target xml:lang="hu" state="translated">Rendezés alapja</target>
+        <target xml:lang="hu">Rendezés alapja</target>
         <note>key: tab.details.sub_items_listing_by.order_by</note>
       </trans-unit>
-      <trans-unit id="fe4321b1de5be805ed8224c8cf442a89e9fa38b4" resname="tab.details.sub_items_listing_by_set">
+      <trans-unit id="fe4321b1de5be805ed8224c8cf442a89e9fa38b4" resname="tab.details.sub_items_listing_by_set" approved="yes">
         <source>Set</source>
-        <target xml:lang="hu" state="translated">Beállítás</target>
+        <target xml:lang="hu">Beállítás</target>
         <note>key: tab.details.sub_items_listing_by_set</note>
       </trans-unit>
-      <trans-unit id="03aa9832291905ed83ba60081ebffe5786d92418" resname="tab.details.sub_items_sorting_order">
+      <trans-unit id="03aa9832291905ed83ba60081ebffe5786d92418" resname="tab.details.sub_items_sorting_order" approved="yes">
         <source>Sub-items sorting order</source>
-        <target xml:lang="hu" state="translated">Al-elemek sorrendezése</target>
+        <target xml:lang="hu">Al-elemek sorrendezése</target>
         <note>key: tab.details.sub_items_sorting_order</note>
       </trans-unit>
-      <trans-unit id="09fcd5ad39b9c2b778be171f88559f6c117ff48b" resname="tab.details.technical_details">
+      <trans-unit id="09fcd5ad39b9c2b778be171f88559f6c117ff48b" resname="tab.details.technical_details" approved="yes">
         <source>Technical details</source>
-        <target xml:lang="hu" state="translated">Technikai részletek</target>
+        <target xml:lang="hu">Technikai részletek</target>
         <note>key: tab.details.technical_details</note>
       </trans-unit>
-      <trans-unit id="69ca343732e6be688ff4606c3a9b15d83d531233" resname="tab.details.translations">
+      <trans-unit id="69ca343732e6be688ff4606c3a9b15d83d531233" resname="tab.details.translations" approved="yes">
         <source>Translations</source>
-        <target xml:lang="hu" state="translated">Fordítások</target>
+        <target xml:lang="hu">Fordítások</target>
         <note>key: tab.details.translations</note>
       </trans-unit>
-      <trans-unit id="8eb3feb6461dacdbd425ef30fc4848a94ab3db0d" resname="tab.locations.action.add">
+      <trans-unit id="8eb3feb6461dacdbd425ef30fc4848a94ab3db0d" resname="tab.locations.action.add" approved="yes">
         <source>Add Location</source>
-        <target xml:lang="hu" state="translated">Lokáció hozzáadása</target>
+        <target xml:lang="hu">Lokáció hozzáadása</target>
         <note>key: tab.locations.action.add</note>
       </trans-unit>
-      <trans-unit id="80808d78f600e925ec3e2dd4b2a0e7570169fd83" resname="tab.locations.action.delete">
+      <trans-unit id="80808d78f600e925ec3e2dd4b2a0e7570169fd83" resname="tab.locations.action.delete" approved="yes">
         <source>Delete Location</source>
-        <target xml:lang="hu" state="translated">Lokáció törlése</target>
+        <target xml:lang="hu">Lokáció törlése</target>
         <note>key: tab.locations.action.delete</note>
       </trans-unit>
-      <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
+      <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations" approved="yes">
         <source>Content locations</source>
-        <target xml:lang="hu" state="translated">Tartalom lokációk</target>
+        <target xml:lang="hu">Tartalom lokációk</target>
         <note>key: tab.locations.content_locations</note>
       </trans-unit>
-      <trans-unit id="2f3aa22262d10e0dcbc4ccfacbf060f9e98fcb05" resname="tab.locations.hidden">
+      <trans-unit id="2f3aa22262d10e0dcbc4ccfacbf060f9e98fcb05" resname="tab.locations.hidden" approved="yes">
         <source>Hidden</source>
-        <target xml:lang="hu" state="translated">Rejtett</target>
+        <target xml:lang="hu">Rejtett</target>
         <note>key: tab.locations.hidden</note>
       </trans-unit>
-      <trans-unit id="cd57f6ee339fa6c35e2a75cc760f391676fca490" resname="tab.locations.hidden_by_superior">
+      <trans-unit id="cd57f6ee339fa6c35e2a75cc760f391676fca490" resname="tab.locations.hidden_by_superior" approved="yes">
         <source>Hidden by superior</source>
-        <target xml:lang="hu" state="translated">Felettes által elrejtve</target>
+        <target xml:lang="hu">Felettes által elrejtve</target>
         <note>key: tab.locations.hidden_by_superior</note>
       </trans-unit>
-      <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main">
+      <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main" approved="yes">
         <source>Main</source>
-        <target xml:lang="hu" state="translated">Főmenü</target>
+        <target xml:lang="hu">Főmenü</target>
         <note>key: tab.locations.main</note>
       </trans-unit>
-      <trans-unit id="e704444c07d73c053f58f427ebcc0b6b2042c63d" resname="tab.locations.modal.message">
+      <trans-unit id="e704444c07d73c053f58f427ebcc0b6b2042c63d" resname="tab.locations.modal.message" approved="yes">
         <source>Do you want to delete Location?</source>
-        <target xml:lang="hu" state="translated">Szeretnéd törölni a lokációt?</target>
+        <target xml:lang="hu">Szeretnéd törölni a lokációt?</target>
         <note>key: tab.locations.modal.message</note>
       </trans-unit>
-      <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path">
+      <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path" approved="yes">
         <source>Path</source>
-        <target xml:lang="hu" state="translated">Elérési út</target>
+        <target xml:lang="hu">Elérési út</target>
         <note>key: tab.locations.path</note>
       </trans-unit>
-      <trans-unit id="b5d6fe3a752b0c391bfa751acb7c4c3ac82e2c0c" resname="tab.locations.subitems">
+      <trans-unit id="b5d6fe3a752b0c391bfa751acb7c4c3ac82e2c0c" resname="tab.locations.subitems" approved="yes">
         <source>Sub-items</source>
-        <target xml:lang="hu" state="translated">Alsóbb elemek</target>
+        <target xml:lang="hu">Alsóbb elemek</target>
         <note>key: tab.locations.subitems</note>
       </trans-unit>
-      <trans-unit id="1932d409236634ffbe828e683f35db760ec25323" resname="tab.locations.visibility">
+      <trans-unit id="1932d409236634ffbe828e683f35db760ec25323" resname="tab.locations.visibility" approved="yes">
         <source>Visibility</source>
-        <target xml:lang="hu" state="translated">Láthatóság</target>
+        <target xml:lang="hu">Láthatóság</target>
         <note>key: tab.locations.visibility</note>
       </trans-unit>
-      <trans-unit id="775b3ea314e2c1d999a586f85fab657c30deaac3" resname="tab.locations.visible">
+      <trans-unit id="775b3ea314e2c1d999a586f85fab657c30deaac3" resname="tab.locations.visible" approved="yes">
         <source>Visible</source>
-        <target xml:lang="hu" state="translated">Látható</target>
+        <target xml:lang="hu">Látható</target>
         <note>key: tab.locations.visible</note>
       </trans-unit>
-      <trans-unit id="5d92b84a6c78bd443010f172c47d01ce0dacacd7" resname="tab.name.details">
+      <trans-unit id="5d92b84a6c78bd443010f172c47d01ce0dacacd7" resname="tab.name.details" approved="yes">
         <source>Details</source>
-        <target xml:lang="hu" state="translated">Részletek</target>
+        <target xml:lang="hu">Részletek</target>
         <note>key: tab.name.details</note>
       </trans-unit>
-      <trans-unit id="bc992b410ec56cce18c994806d7518fd47da2caa" resname="tab.name.locations">
+      <trans-unit id="bc992b410ec56cce18c994806d7518fd47da2caa" resname="tab.name.locations" approved="yes">
         <source>Locations</source>
-        <target xml:lang="hu" state="translated">Lokációk</target>
+        <target xml:lang="hu">Lokációk</target>
         <note>key: tab.name.locations</note>
       </trans-unit>
-      <trans-unit id="a483f367c17cc75d6c5cf331f80e395b254cbbd6" resname="tab.name.policies">
+      <trans-unit id="a483f367c17cc75d6c5cf331f80e395b254cbbd6" resname="tab.name.policies" approved="yes">
         <source>Policies</source>
-        <target xml:lang="hu" state="translated">Szabályzatok</target>
+        <target xml:lang="hu">Szabályzatok</target>
         <note>key: tab.name.policies</note>
       </trans-unit>
-      <trans-unit id="8954433abc5d011c00f81f317c7eebec41fbb1c0" resname="tab.name.relations">
+      <trans-unit id="8954433abc5d011c00f81f317c7eebec41fbb1c0" resname="tab.name.relations" approved="yes">
         <source>Relations</source>
-        <target xml:lang="hu" state="translated">Kapcsolatok</target>
+        <target xml:lang="hu">Kapcsolatok</target>
         <note>key: tab.name.relations</note>
       </trans-unit>
-      <trans-unit id="c58716ba1092b0208a11137dc226327a3ddf84dc" resname="tab.name.roles">
+      <trans-unit id="c58716ba1092b0208a11137dc226327a3ddf84dc" resname="tab.name.roles" approved="yes">
         <source>Roles</source>
-        <target xml:lang="hu" state="translated">Szerepkörök</target>
+        <target xml:lang="hu">Szerepkörök</target>
         <note>key: tab.name.roles</note>
       </trans-unit>
       <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
