@@ -256,44 +256,44 @@
         <target xml:lang="hu">Törlés</target>
         <note>key: section_delete_form.delete</note>
       </trans-unit>
-      <trans-unit id="54b875a849e645c86904a2c3663c02b2aab86bb4" resname="section_form.identifier">
+      <trans-unit id="54b875a849e645c86904a2c3663c02b2aab86bb4" resname="section_form.identifier" approved="yes">
         <source>Identifier</source>
-        <target xml:lang="hu" state="translated">Azonosító</target>
+        <target xml:lang="hu">Azonosító</target>
         <note>key: section_form.identifier</note>
       </trans-unit>
-      <trans-unit id="a8e6cb63af5cccaf0b468435ce04fd304aa77e5c" resname="section_form.name">
+      <trans-unit id="a8e6cb63af5cccaf0b468435ce04fd304aa77e5c" resname="section_form.name" approved="yes">
         <source>Name</source>
-        <target xml:lang="hu" state="translated">Név</target>
+        <target xml:lang="hu">Név</target>
         <note>key: section_form.name</note>
       </trans-unit>
-      <trans-unit id="ecaa9ee7b46159c99796726b8e14693d821e5500" resname="section_update_form.update">
+      <trans-unit id="ecaa9ee7b46159c99796726b8e14693d821e5500" resname="section_update_form.update" approved="yes">
         <source>Update</source>
-        <target xml:lang="hu" state="translated">Frissítés</target>
+        <target xml:lang="hu">Frissítés</target>
         <note>key: section_update_form.update</note>
       </trans-unit>
-      <trans-unit id="1076fdadc49ac9198c278970f355457c26075975" resname="sections_delete_form.delete">
+      <trans-unit id="1076fdadc49ac9198c278970f355457c26075975" resname="sections_delete_form.delete" approved="yes">
         <source>Delete sections</source>
-        <target xml:lang="hu" state="translated">Szakasz törlése</target>
+        <target xml:lang="hu">Szakasz törlése</target>
         <note>key: sections_delete_form.delete</note>
       </trans-unit>
-      <trans-unit id="6880a88558bf821ff5ca3266f2f4f42b6d911283" resname="swap_location_form.swap">
+      <trans-unit id="6880a88558bf821ff5ca3266f2f4f42b6d911283" resname="swap_location_form.swap" approved="yes">
         <source>Select content item</source>
-        <target xml:lang="hu" state="translated">Tartalom kiválasztása</target>
+        <target xml:lang="hu">Tartalom kiválasztása</target>
         <note>key: swap_location_form.swap</note>
       </trans-unit>
-      <trans-unit id="30b0c3c3e5e096a078005be2cc34bca6227ae381" resname="trash_empty_form.empty">
+      <trans-unit id="30b0c3c3e5e096a078005be2cc34bca6227ae381" resname="trash_empty_form.empty" approved="yes">
         <source>Delete permanently</source>
-        <target xml:lang="hu" state="translated">Végleges törlés</target>
+        <target xml:lang="hu">Végleges törlés</target>
         <note>key: trash_empty_form.empty</note>
       </trans-unit>
-      <trans-unit id="7fb1cbcd94553ff377f8e1e4461246af38e14e85" resname="user_delete_form.delete">
+      <trans-unit id="7fb1cbcd94553ff377f8e1e4461246af38e14e85" resname="user_delete_form.delete" approved="yes">
         <source>Delete</source>
-        <target xml:lang="hu" state="translated">Törlés</target>
+        <target xml:lang="hu">Törlés</target>
         <note>key: user_delete_form.delete</note>
       </trans-unit>
-      <trans-unit id="3b2ae7aa286887e2fbd2b6e77ca237f9f9109e9b" resname="version_remove_form.remove">
+      <trans-unit id="3b2ae7aa286887e2fbd2b6e77ca237f9f9109e9b" resname="version_remove_form.remove" approved="yes">
         <source>Remove version</source>
-        <target xml:lang="hu" state="translated">Verzió eltávolítva</target>
+        <target xml:lang="hu">Verzió eltávolítva</target>
         <note>key: version_remove_form.remove</note>
       </trans-unit>
     </body>
