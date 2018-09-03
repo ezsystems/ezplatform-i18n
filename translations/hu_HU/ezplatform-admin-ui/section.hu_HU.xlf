@@ -6,6 +6,26 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="128df491a522e7af4916cd002d9e11a3d2bc4078" resname="section.action.delete">
+        <source>Delete Section</source>
+        <target xml:lang="hu" state="translated">Szekció törlése</target>
+        <note>key: section.action.delete</note>
+      </trans-unit>
+      <trans-unit id="84413bc1ae3385c0aac1af7ea5665cb0c1eaf3ba" resname="section.assign_content">
+        <source>Assign content</source>
+        <target xml:lang="hu" state="translated">Tartalom hozzárendelése</target>
+        <note>key: section.assign_content</note>
+      </trans-unit>
+      <trans-unit id="2a6caa13cfd67503e2250af8e36f26a2f835a4a0" resname="section.assign_content.success">
+        <source>%contentItemsCount% content items were assigned to '%name%'</source>
+        <target xml:lang="hu" state="translated">%contentItemsCount% tartalmat hozzárendeltük ehhez: %name%</target>
+        <note>key: section.assign_content.success</note>
+      </trans-unit>
+      <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content">
+        <source>Assignments count</source>
+        <target xml:lang="hu" state="translated">Hozzárendelések száma</target>
+        <note>key: section.assigned.content</note>
+      </trans-unit>
       <trans-unit id="adcc2af264c7ae84e69396a8ff7ea5a259abd01e" resname="section.assigned_content.name">
         <source>Name</source>
         <target xml:lang="hu" state="translated">Név</target>
