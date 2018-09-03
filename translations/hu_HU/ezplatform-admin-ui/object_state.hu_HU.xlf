@@ -102,7 +102,7 @@
       </trans-unit>
       <trans-unit id="85cbd870cb6255f3d3d481ece6c23e6e2117e91e" resname="object_state.new">
         <source>Create a new Object State </source>
-        <target xml:lang="hu" state="needs-translation"> </target>
+        <target xml:lang="hu" state="translated">Create a new Object State </target>
         <note>key: object_state.new</note>
       </trans-unit>
       <trans-unit id="fabfbcda1358cae555b0b005a386cf6b20ade908" resname="object_state.update.identifier">
@@ -120,15 +120,55 @@
         <target xml:lang="hu" state="translated">Mentés</target>
         <note>key: object_state.update.submit</note>
       </trans-unit>
+      <trans-unit id="d21ddef10954199297aeb0a318e9f627dda69ec9" resname="object_state.update.success">
+        <source>Object state '%name%' updated.</source>
+        <target xml:lang="hu" state="translated">Object state '%name%' updated.</target>
+        <note>key: object_state.update.success</note>
+      </trans-unit>
+      <trans-unit id="7172cbdbf92234b6ce26b14d79080f0fdaf87b76" resname="object_state.view.add.title">
+        <source>Creating a new Object State</source>
+        <target xml:lang="hu" state="translated">Creating a new Object State</target>
+        <note>key: object_state.view.add.title</note>
+      </trans-unit>
+      <trans-unit id="be3b8c4b5129a345fc2aafb9ff970dbe7669fa45" resname="object_state.view.edit.title">
+        <source>Editing Object State: %name%</source>
+        <target xml:lang="hu" state="translated">Editing Object State: %name%</target>
+        <note>key: object_state.view.edit.title</note>
+      </trans-unit>
+      <trans-unit id="58983da8ad1a5982e81ddd1bb0ab9cc3e50d6a73" resname="object_state.view.information.title">
+        <source>Object State Information</source>
+        <target xml:lang="hu" state="translated">Object State Information</target>
+        <note>key: object_state.view.information.title</note>
+      </trans-unit>
       <trans-unit id="8cf30d6244f713b936c76e01f5bf70b1f5d62332" resname="object_state.view.list.action.edit">
         <source>Edit</source>
         <target xml:lang="hu" state="translated">Szerkesztés</target>
         <note>key: object_state.view.list.action.edit</note>
       </trans-unit>
+      <trans-unit id="9af39e306536772c1d7cd402ab587fee66b0231b" resname="object_state.view.list.title">
+        <source>Object States (%count%)</source>
+        <target xml:lang="hu" state="translated">Object States (%count%)</target>
+        <note>key: object_state.view.list.title</note>
+      </trans-unit>
+      <trans-unit id="dc3b85ca7a255f5f7b961727623f0fc11a3678f0" resname="object_state.view.title">
+        <source>Object State: %name%</source>
+        <target xml:lang="hu" state="translated">Object State: %name%</target>
+        <note>key: object_state.view.title</note>
+      </trans-unit>
       <trans-unit id="07ac5094606572ca7304175bb3af30e0a78662aa" resname="object_state_.delete.submit">
         <source>Delete</source>
         <target xml:lang="hu" state="translated">Törlés</target>
         <note>key: object_state_.delete.submit</note>
+      </trans-unit>
+      <trans-unit id="d4fdfff8e5488615f97f63a01c811b80d346be2e" resname="object_state_group.breadcrumb.add">
+        <source>Creating a new Object State Group</source>
+        <target xml:lang="hu" state="translated">Creating a new Object State Group</target>
+        <note>key: object_state_group.breadcrumb.add</note>
+      </trans-unit>
+      <trans-unit id="e0710939fade4e106062c2ea356338ab305e3f35" resname="object_state_group.breadcrumb.edit">
+        <source>Editing Object State Group: %name%</source>
+        <target xml:lang="hu" state="translated">Editing Object State Group: %name%</target>
+        <note>key: object_state_group.breadcrumb.edit</note>
       </trans-unit>
       <trans-unit id="f87d9f18a93e3ce9f164386ee0255d53d4c5227e" resname="object_state_group.create.identifier">
         <source>Identifier</source>
