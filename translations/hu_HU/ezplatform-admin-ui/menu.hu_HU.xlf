@@ -11,6 +11,11 @@
         <target xml:lang="hu" state="translated">Másolás</target>
         <note>key: content__sidebar_right__copy</note>
       </trans-unit>
+      <trans-unit id="0d5f60093de3b822740abad95d1f8cb2195869c9" resname="content__sidebar_right__copy_subtree">
+        <source>Copy Subtree</source>
+        <target xml:lang="hu" state="translated">Részfa másolása</target>
+        <note>key: content__sidebar_right__copy_subtree</note>
+      </trans-unit>
       <trans-unit id="a2fafde1538959ee924436a6d4bbd8269c1ac412" resname="content__sidebar_right__create">
         <source>Create</source>
         <target xml:lang="hu" state="translated">Létrehozás</target>
@@ -56,6 +61,11 @@
         <target xml:lang="hu" state="translated">Mentés</target>
         <note>key: content_create__sidebar_right__save_draft</note>
       </trans-unit>
+      <trans-unit id="af459eaf05dedc87eb0c462732e59da18bedb340" resname="content_edit__sidebar_right__cancel">
+        <source>Delete draft</source>
+        <target xml:lang="hu" state="translated">Vázlat törlése</target>
+        <note>key: content_edit__sidebar_right__cancel</note>
+      </trans-unit>
       <trans-unit id="0698df9938e380422409df827952248fbfcaf02d" resname="content_edit__sidebar_right__preview">
         <source>Preview</source>
         <target xml:lang="hu" state="translated">Előnézet</target>
@@ -71,35 +81,70 @@
         <target xml:lang="hu" state="translated">Mentés</target>
         <note>key: content_edit__sidebar_right__save_draft</note>
       </trans-unit>
+      <trans-unit id="750939fc55f9a3143db99bed66680e8646e029a0" resname="content_type_create__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="hu" state="translated">Változtatások elvetése</target>
+        <note>key: content_type_create__sidebar_right__cancel</note>
+      </trans-unit>
       <trans-unit id="5a66806014c6a6ca1f79270a8dd381ae6c0e0d7b" resname="content_type_create__sidebar_right__save">
         <source>Create</source>
         <target xml:lang="hu" state="translated">Létrehozás</target>
         <note>key: content_type_create__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="17d86a1011976758251b804acfbe8092d2860946" resname="content_type_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="hu" state="translated">Változtatások elvetése</target>
+        <note>key: content_type_edit__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="f1ac6aebd0e5474137a997b41677e5ae6c78670b" resname="content_type_edit__sidebar_right__save">
         <source>Save</source>
         <target xml:lang="hu" state="translated">Mentés</target>
         <note>key: content_type_edit__sidebar_right__save</note>
       </trans-unit>
+      <trans-unit id="ccdcdc5c7e006c865c33b29eee9c6b9e232a9308" resname="content_type_group_create__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="hu" state="translated">Változtatások elvetése</target>
+        <note>key: content_type_group_create__sidebar_right__cancel</note>
+      </trans-unit>
       <trans-unit id="71e6fb2e4bbbcaaf043cdca260f6ba38f8ce2911" resname="content_type_group_create__sidebar_right__create">
         <source>Create</source>
         <target xml:lang="hu" state="translated">Létrehozás</target>
         <note>key: content_type_group_create__sidebar_right__create</note>
+      </trans-unit>
+      <trans-unit id="0fa3cd41a8153814006c36b35a949d64576eaeea" resname="content_type_group_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="hu" state="translated">Változtatások elvetése</target>
+        <note>key: content_type_group_edit__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="3951c5df8bf1c00b0dd99dc06acc76d1908ec825" resname="content_type_group_edit__sidebar_right__save">
         <source>Save</source>
         <target xml:lang="hu" state="translated">Mentés</target>
         <note>key: content_type_group_edit__sidebar_right__save</note>
       </trans-unit>
+      <trans-unit id="65804c068820b5fa679357bc65c5862d0fc90701" resname="language_create__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="hu" state="translated">Változtatások elvetése</target>
+        <note>key: language_create__sidebar_right__cancel</note>
+      </trans-unit>
       <trans-unit id="43db6515a6b373d14e37f88c19c7663a9fa3ae8f" resname="language_create__sidebar_right__create">
         <source>Create</source>
         <target xml:lang="hu" state="translated">Létrehozás</target>
         <note>key: language_create__sidebar_right__create</note>
       </trans-unit>
+      <trans-unit id="09a41e6afdef6eda2c027b7e742777f3a9bd1749" resname="language_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="hu" state="translated">Változtatások elvetése</target>
+        <note>key: language_edit__sidebar_right__cancel</note>
+      </trans-unit>
       <trans-unit id="31bae088f62a5a502882b1e2cee04e14fe6617ab" resname="language_edit__sidebar_right__save">
         <source>Save</source>
         <target xml:lang="hu" state="translated">Mentés</target>
         <note>key: language_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="f85206498106b1536c36c3231d870daa0d2805e2" resname="main__admin__content_types">
+        <source>Content Types</source>
+        <target xml:lang="hu" state="translated">Tartalomtípusok</target>
+        <note>key: main__admin__content_types</note>
       </trans-unit>
       <trans-unit id="fd9a2e689e82242d49f0313d78aca7e30bf9f24f" resname="main__admin__languages">
         <source>Languages</source>
