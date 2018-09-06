@@ -8,17 +8,45 @@
     <body>
       <trans-unit id="babf94a4044ba933a0ebe008c0f027745402c989" resname="block_text_align_center_btn.label">
         <source>Center</source>
-        <target xml:lang="fr" state="translated">Centrer</target>
+        <target xml:lang="fr" state="translated">Centré</target>
         <note>key: block_text_align_center_btn.label</note>
+      </trans-unit>
+      <trans-unit id="e9151d069b51a054185d5a9183626cb6995e3607" resname="blocktext_align_justify_btn.label">
+        <source>Justify</source>
+        <target xml:lang="fr" state="translated">Justifié</target>
+        <note>key: blocktext_align_justify_btn.label</note>
+      </trans-unit>
+      <trans-unit id="fb43488f3117923887d60b470389b92564d1224e" resname="blocktext_align_left_btn.label">
+        <source>Left</source>
+        <target xml:lang="fr" state="translated">Aligné à gauche</target>
+        <note>key: blocktext_align_left_btn.label</note>
+      </trans-unit>
+      <trans-unit id="03d653b8403e0a65fd6176a50f953a7f5ca746bd" resname="blocktext_align_right_btn.label">
+        <source>Right</source>
+        <target xml:lang="fr" state="translated">Aligné à droite</target>
+        <note>key: blocktext_align_right_btn.label</note>
+      </trans-unit>
+      <trans-unit id="3b4cdbba9b4d4209e8c826b072589dab7497fa46" resname="custom_tag_update_btn.save_btn.label">
+        <source>Save</source>
+        <target xml:lang="fr" state="translated">Sauver</target>
+        <note>key: custom_tag_update_btn.save_btn.label</note>
+        <alt-trans>
+          <target xml:lang="fr">Sauvegarder</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="ac0f20994b177772319ac51d8f9b3389ea74de7c" resname="embed_align_center_btn.label">
+        <source>Center</source>
+        <target xml:lang="fr" state="translated">Centré</target>
+        <note>key: embed_align_center_btn.label</note>
       </trans-unit>
       <trans-unit id="2e4fbbc64e1aefa2a2911851e4e2f66052ee281a" resname="embed_align_left_btn.label">
         <source>Left</source>
-        <target xml:lang="fr" state="translated">Gauche</target>
+        <target xml:lang="fr" state="translated">Aligné à gauche</target>
         <note>key: embed_align_left_btn.label</note>
       </trans-unit>
       <trans-unit id="bb1fdd3591cc23c8878d97905e064107b3f833f2" resname="embed_align_right_btn.label">
         <source>Right</source>
-        <target xml:lang="fr" state="translated">Droite</target>
+        <target xml:lang="fr" state="translated">Aligné à droite</target>
         <note>key: embed_align_right_btn.label</note>
       </trans-unit>
       <trans-unit id="841a18570b88796e700e0d0cd2f8d4e99f9e13bd" resname="heading_btn.label">
