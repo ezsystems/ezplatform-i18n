@@ -44,6 +44,21 @@
           <target xml:lang="fr">Sélectionner l'emplacement pour restaurer vos contenus</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="987330c357d2475b80942e5c449e4215b623a459" resname="subtree.title">
+        <source>Select location</source>
+        <target xml:lang="fr" state="translated">Sélectionner l'emplacement</target>
+        <note>key: subtree.title</note>
+      </trans-unit>
+      <trans-unit id="5a3a6e5c6a88da5a26a9638e8a796974bd3c8dd7" resname="subtree_limitation.title">
+        <source>Choose locations</source>
+        <target xml:lang="fr" state="translated">Choisir les emplacements</target>
+        <note>key: subtree_limitation.title</note>
+      </trans-unit>
+      <trans-unit id="7dad0dfeafd90e145f0e9efff5313d2a6040ba4c" resname="swap.title">
+        <source>Select location to be swapped with</source>
+        <target xml:lang="fr" state="translated">Sélectionner un emplacement à intervertir</target>
+        <note>key: swap.title</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
