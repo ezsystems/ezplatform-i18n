@@ -31,6 +31,31 @@
         <target xml:lang="fr" state="translated">Le contenu n'est plus disponible</target>
         <note>key: notification.no_longer_available</note>
       </trans-unit>
+      <trans-unit id="d7fd0c0dc2a4267ebb5bca828e42812fded59ebb" resname="notification.permanently_deleted">
+        <source>Publication permanently deleted</source>
+        <target xml:lang="fr" state="translated">La publication a été définitivement supprimée</target>
+        <note>key: notification.permanently_deleted</note>
+      </trans-unit>
+      <trans-unit id="1c91fe849525c315015b2e765f6600fd199e78a0" resname="notification.title">
+        <source>Title:</source>
+        <target xml:lang="fr" state="translated">Titre:</target>
+        <note>key: notification.title</note>
+      </trans-unit>
+      <trans-unit id="dda5c8f76779648fe17e298aaae2ea426df3f85e" resname="notification.trashed">
+        <source>Publication sent to trash</source>
+        <target xml:lang="fr" state="translated">La publication a été envoyé à la corbeille</target>
+        <note>key: notification.trashed</note>
+      </trans-unit>
+      <trans-unit id="38a0272fc22c3faac611a3124a25589424ae2b11" resname="notification.type">
+        <source>Type</source>
+        <target xml:lang="fr" state="translated">Type</target>
+        <note>key: notification.type</note>
+      </trans-unit>
+      <trans-unit id="1b60d2ed7158736cbc1353d72a6dc44a6772147f" resname="notifications">
+        <source>Notifications</source>
+        <target xml:lang="fr" state="translated">Notifications</target>
+        <note>key: notifications</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
