@@ -6,19 +6,31 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="dfbc84f747379ac08358ac78f5756d91dc9dd715" resname="config_form.block_config.embed_field_base.udw.title">
+        <source>Browse content</source>
+        <target xml:lang="ru" state="translated">Обзор содержимого</target>
+        <note>key: config_form.block_config.embed_field_base.udw.title</note>
+      </trans-unit>
+      <trans-unit id="1cea3c1fab7233ec7948b0aa22fb3e45643b7a9a" resname="config_form.widgets.collection.udw.title">
+        <source>Select content</source>
+        <target xml:lang="ru" state="translated">Выбрать содержимое</target>
+        <note>key: config_form.widgets.collection.udw.title</note>
+      </trans-unit>
+      <trans-unit id="5a88a93c8b1cd819dc183fcd3b252b24acbe487b" resname="config_popup.close.label">
+        <source>Close</source>
+        <target xml:lang="ru" state="translated">Закрыть</target>
+        <note>key: config_popup.close.label</note>
+      </trans-unit>
+      <trans-unit id="79bf5a9df7f033c0b853263adb274a8045791ab0" resname="empty_block.info.text">
+        <source>Empty block: %type%. Click here to show action menu.</source>
+        <target xml:lang="ru" state="translated">Пустой блок: %type%. Нажмите здесь, чтобы показать меню действий.</target>
+        <note>key: empty_block.info.text</note>
+      </trans-unit>
+      <trans-unit id="36cdc651708919d9a830acb2c742b325fd23aeb5" resname="error.message">
+        <source>Something went wrong</source>
+        <target xml:lang="ru" state="translated">Упс... что-то пошло не так</target>
+        <note>key: error.message</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
