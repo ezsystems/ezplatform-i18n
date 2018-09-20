@@ -166,6 +166,11 @@
         <target xml:lang="de" state="translated">Erstellen</target>
         <note>key: policy_create__sidebar_right__create</note>
       </trans-unit>
+      <trans-unit id="6a2ed71b1ade1376874c2dffd3f5c85f6449a4af" resname="policy_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="de" state="translated">Verwerfen</target>
+        <note>key: policy_edit__sidebar_right__cancel</note>
+      </trans-unit>
       <trans-unit id="63bb349c122da33ab95d2e395ca9a62f8050bf66" resname="role_assignment_create__sidebar_right__save">
         <source>Save</source>
         <target xml:lang="de" state="translated">Entwurf speichern</target>
