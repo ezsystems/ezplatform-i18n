@@ -51,10 +51,25 @@
         <target xml:lang="de" state="translated">Inhalt aktualisiert</target>
         <note>key: content.updated</note>
       </trans-unit>
+      <trans-unit id="382ab608837ac7a3db830601fd7566b42f2e3fa1" resname="dashboard.tab.all_scheduled.empty">
+        <source>No content scheduled for publish.</source>
+        <target xml:lang="de" state="translated">Keine Inhalte zur Veröffentlichung geplant.</target>
+        <note>key: dashboard.tab.all_scheduled.empty</note>
+      </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content Type</source>
         <target xml:lang="de" state="translated">Content Type</target>
         <note>key: dashboard.table.content_type</note>
+      </trans-unit>
+      <trans-unit id="e5a66fd1e539dbf81f810d2022a3d8ee67a7a17c" resname="tab.name.all_scheduled">
+        <source>All scheduled</source>
+        <target xml:lang="de" state="translated">Alle geplanten</target>
+        <note>key: tab.name.all_scheduled</note>
+      </trans-unit>
+      <trans-unit id="20a2c0c41c7091973e1490a65b2268e1f7794eda" resname="tab.name.my_scheduled">
+        <source>My scheduled</source>
+        <target xml:lang="de" state="translated">Meine geplanten</target>
+        <note>key: tab.name.my_scheduled</note>
       </trans-unit>
     </body>
   </file>
