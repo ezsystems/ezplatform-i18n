@@ -10,9 +10,6 @@
         <source>Center</source>
         <target xml:lang="de" state="translated">Zentriert</target>
         <note>key: block_text_align_center_btn.label</note>
-        <alt-trans>
-          <target xml:lang="de">Zentrieren</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e9151d069b51a054185d5a9183626cb6995e3607" resname="blocktext_align_justify_btn.label">
         <source>Justify</source>
@@ -23,9 +20,6 @@
         <source>Left</source>
         <target xml:lang="de" state="translated">Linksbündig</target>
         <note>key: blocktext_align_left_btn.label</note>
-        <alt-trans>
-          <target xml:lang="de">Links</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="03d653b8403e0a65fd6176a50f953a7f5ca746bd" resname="blocktext_align_right_btn.label">
         <source>Right</source>
@@ -61,9 +55,6 @@
         <source>Select a content to embed</source>
         <target xml:lang="de" state="translated">Wählen Sie einen Inhalt zum Einbetten</target>
         <note>key: embed_btn.udw.title</note>
-        <alt-trans>
-          <target xml:lang="de">Wählen Sie einen Inhalt zum einbetten</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f646efa9564da382019a8267461d76231bb688e2" resname="embed_update_btn.label">
         <source>Select another content item</source>
@@ -74,9 +65,6 @@
         <source>Select a content to embed</source>
         <target xml:lang="de" state="translated">Wählen Sie einen Inhalt zum Einbetten</target>
         <note>key: embed_update_btn.udw.title</note>
-        <alt-trans>
-          <target xml:lang="de">Wählen Sie einen Inhalt zum einbetten</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="841a18570b88796e700e0d0cd2f8d4e99f9e13bd" resname="heading_btn.label">
         <source>Heading</source>
