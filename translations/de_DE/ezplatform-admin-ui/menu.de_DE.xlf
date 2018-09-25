@@ -11,6 +11,11 @@
         <target xml:lang="de" state="translated">Kopieren</target>
         <note>key: content__sidebar_right__copy</note>
       </trans-unit>
+      <trans-unit id="0d5f60093de3b822740abad95d1f8cb2195869c9" resname="content__sidebar_right__copy_subtree">
+        <source>Copy Subtree</source>
+        <target xml:lang="de" state="translated">Teilbaum kopieren</target>
+        <note>key: content__sidebar_right__copy_subtree</note>
+      </trans-unit>
       <trans-unit id="a2fafde1538959ee924436a6d4bbd8269c1ac412" resname="content__sidebar_right__create">
         <source>Create</source>
         <target xml:lang="de" state="translated">Erstellen</target>
@@ -216,6 +221,11 @@
         <target xml:lang="de" state="translated">Entwurf speichern</target>
         <note>key: section_edit__sidebar_right__save</note>
       </trans-unit>
+      <trans-unit id="d69b54667fe89acac2f0e05bf84c606aff91d52b" resname="sidebar_left__bookmark">
+        <source>Bookmarks</source>
+        <target xml:lang="de" state="translated">Lesezeichen</target>
+        <note>key: sidebar_left__bookmark</note>
+      </trans-unit>
       <trans-unit id="951ac18ce3ab253f9de7fd9caef6636b18edd1c3" resname="sidebar_left__browse">
         <source>Browse</source>
         <target xml:lang="de" state="translated">Durchsuchen</target>
@@ -228,8 +238,11 @@
       </trans-unit>
       <trans-unit id="2f6558500ca2bb4d364fe81cf32f5c5f1b81746a" resname="sidebar_left__trash">
         <source>Trash</source>
-        <target xml:lang="de" state="translated">Mülleimer</target>
+        <target xml:lang="de" state="translated">Papierkorb</target>
         <note>key: sidebar_left__trash</note>
+        <alt-trans>
+          <target xml:lang="de">Mülleimer</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="9e8d8f6d06a5950f649d63b453d6dab7eba33f11" resname="url_edit__sidebar_right__save">
         <source>Save</source>
