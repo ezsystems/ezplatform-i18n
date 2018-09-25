@@ -23,8 +23,11 @@
       </trans-unit>
       <trans-unit id="093c498e82bd382a4732e4bb8356c7d88b671f25" resname="content.field_type.ezmedia.player_settings">
         <source>Player settings</source>
-        <target xml:lang="de" state="translated">Player-Einstellungen</target>
+        <target xml:lang="de" state="translated">Player Einstellungen</target>
         <note>key: content.field_type.ezmedia.player_settings</note>
+        <alt-trans>
+          <target xml:lang="de">Player-Einstellungen</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="b244ed2b3b30d53cd73ea9d25c21c7d938e97973" resname="ezbinaryfile.action.preview">
         <source>Preview</source>
@@ -63,8 +66,11 @@
       </trans-unit>
       <trans-unit id="97e94752cba8892136d56b07057f0cac9344cb56" resname="ezobjectrelationlist.table.row.content_type">
         <source>Content Type</source>
-        <target xml:lang="de" state="translated">Content-Typ</target>
+        <target xml:lang="de" state="translated">Inhaltstyp</target>
         <note>key: ezobjectrelationlist.table.row.content_type</note>
+        <alt-trans>
+          <target xml:lang="de">Content-Typ</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="13034b18b2f4c315e7fbfe4b4735259f6db82bb8" resname="ezobjectrelationlist.table.row.created">
         <source>Created</source>
@@ -73,8 +79,11 @@
       </trans-unit>
       <trans-unit id="2099e51f91926408c9e9514a5d05eaca332f371a" resname="ezobjectrelationlist.table.row.name">
         <source>Name</source>
-        <target xml:lang="de" state="translated">Nom</target>
+        <target xml:lang="de" state="translated">Name</target>
         <note>key: ezobjectrelationlist.table.row.name</note>
+        <alt-trans>
+          <target xml:lang="de">Nom</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="0254a0c716b5d598484130bb3431d278a7be11d8" resname="ezobjectrelationlist.table.row.order">
         <source>Order</source>
@@ -90,6 +99,11 @@
         <source>Max file size: %size%</source>
         <target xml:lang="de" state="translated">Maximale Dateigröße: %size%</target>
         <note>key: fieldtype.binary_base.max_file_size</note>
+      </trans-unit>
+      <trans-unit id="763e9b64f4f0024e90753727ccc212a3596bfccd" resname="fieldtype.binary_base.upload_file">
+        <source>Upload file</source>
+        <target xml:lang="de" state="translated">Datei hochladen</target>
+        <note>key: fieldtype.binary_base.upload_file</note>
       </trans-unit>
     </body>
   </file>
