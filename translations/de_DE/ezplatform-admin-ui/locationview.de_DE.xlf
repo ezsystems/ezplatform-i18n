@@ -29,6 +29,16 @@
         <target xml:lang="de" state="translated">Inhaltsdetails</target>
         <note>key: tab.details.content_details</note>
       </trans-unit>
+      <trans-unit id="6e1488d3bb54efc176d8766d3c22751b06890e2f" resname="tab.details.content_id">
+        <source>Content ID</source>
+        <target xml:lang="de" state="translated">Content ID</target>
+        <note>key: tab.details.content_id</note>
+      </trans-unit>
+      <trans-unit id="d5236d13b41dc38ee965599754a05e3283b55ae2" resname="tab.details.content_remote_id">
+        <source>Content remote ID</source>
+        <target xml:lang="de" state="translated">Content Remote ID</target>
+        <note>key: tab.details.content_remote_id</note>
+      </trans-unit>
       <trans-unit id="dc195b32e812b751daa7a3321844c9712e1460ba" resname="tab.details.creator">
         <source>Creator</source>
         <target xml:lang="de" state="translated">Ersteller</target>
@@ -38,6 +48,16 @@
         <source>Last contributor</source>
         <target xml:lang="de" state="translated">Letzter Autor</target>
         <note>key: tab.details.last_contributor</note>
+      </trans-unit>
+      <trans-unit id="671c2d4e91244548b29e8f293cd8d4d97a3c23bd" resname="tab.details.location_id">
+        <source>Location ID</source>
+        <target xml:lang="de" state="translated">Location ID</target>
+        <note>key: tab.details.location_id</note>
+      </trans-unit>
+      <trans-unit id="c391debe9105c6823145ca6c5ec76a252ba5538c" resname="tab.details.location_remote_id">
+        <source>Location remote ID</source>
+        <target xml:lang="de" state="translated">Location Remote ID</target>
+        <note>key: tab.details.location_remote_id</note>
       </trans-unit>
       <trans-unit id="26bd81ee7b010fa5846859eb4c2464764effeb81" resname="tab.details.published_version">
         <source>Published version</source>
@@ -64,6 +84,31 @@
         <target xml:lang="de" state="translated">Sektionsname</target>
         <note>key: tab.details.section_name</note>
       </trans-unit>
+      <trans-unit id="6ba61ac8194e021eb1515cc2d3d33ff006e2d55d" resname="tab.details.state_details">
+        <source>State details</source>
+        <target xml:lang="de" state="translated">Zustände Details</target>
+        <note>key: tab.details.state_details</note>
+      </trans-unit>
+      <trans-unit id="bbbd7d6b2d1c59cedd3012f3d4375ade8cc50c15" resname="tab.details.state_group_id">
+        <source>Group ID</source>
+        <target xml:lang="de" state="translated">Gruppen ID</target>
+        <note>key: tab.details.state_group_id</note>
+      </trans-unit>
+      <trans-unit id="b4e137dd1267dc4e70e23e289313c9340f065634" resname="tab.details.state_group_identifier">
+        <source>Group identifier</source>
+        <target xml:lang="de" state="translated">Gruppen Identifikator</target>
+        <note>key: tab.details.state_group_identifier</note>
+      </trans-unit>
+      <trans-unit id="131730e5ecef276336a53300cdd891e0689023f4" resname="tab.details.state_group_name">
+        <source>Group name</source>
+        <target xml:lang="de" state="translated">Gruppenname</target>
+        <note>key: tab.details.state_group_name</note>
+      </trans-unit>
+      <trans-unit id="0ae393a967d866426ebdb62c810ea218c011ea5f" resname="tab.details.state_id">
+        <source>State ID</source>
+        <target xml:lang="de" state="translated">Zustands ID</target>
+        <note>key: tab.details.state_id</note>
+      </trans-unit>
       <trans-unit id="e185e68f61ce9867e2cafcf406650e12c3a81d05" resname="tab.details.state_identifier">
         <source>Identifier</source>
         <target xml:lang="de" state="translated">Bezeichner</target>
@@ -71,8 +116,29 @@
       </trans-unit>
       <trans-unit id="69dea878e2926e6a40b3d4e79b1f723d0aa801c7" resname="tab.details.state_name">
         <source>Name</source>
-        <target xml:lang="de" state="translated">Nom</target>
+        <target xml:lang="de" state="translated">Name</target>
         <note>key: tab.details.state_name</note>
+        <alt-trans>
+          <target xml:lang="de">Nom</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="8ddd1c9e60bd352b4395e1753ede6534db2aac8b" resname="tab.details.sub_items_listing_by.in">
+        <source>in</source>
+        <target xml:lang="de" state="translated">Reihenfolge</target>
+        <note>key: tab.details.sub_items_listing_by.in</note>
+        <alt-trans>
+          <target xml:lang="de">nach</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="c7f8179865bd73db9d2f07c39ae4a364668476c5" resname="tab.details.sub_items_listing_by.order_by">
+        <source>Order by</source>
+        <target xml:lang="de" state="translated">Sortierung</target>
+        <note>key: tab.details.sub_items_listing_by.order_by</note>
+      </trans-unit>
+      <trans-unit id="03aa9832291905ed83ba60081ebffe5786d92418" resname="tab.details.sub_items_sorting_order">
+        <source>Sub-items sorting order</source>
+        <target xml:lang="de" state="translated">Sortierung der Unterelemente</target>
+        <note>key: tab.details.sub_items_sorting_order</note>
       </trans-unit>
       <trans-unit id="09fcd5ad39b9c2b778be171f88559f6c117ff48b" resname="tab.details.technical_details">
         <source>Technical details</source>
@@ -219,15 +285,28 @@
         <target xml:lang="de" state="translated">Veröffentlichte Version</target>
         <note>key: tab.versions.published_version</note>
       </trans-unit>
+      <trans-unit id="4c27637d649c221e58c6a9629f14a2f75aeed151" resname="tab.versions.table.contributor">
+        <source>Contributor</source>
+        <target xml:lang="de" state="translated">Beitragender</target>
+        <note>key: tab.versions.table.contributor</note>
+      </trans-unit>
       <trans-unit id="4c6353b63f5bc2031c8380c4007edf9c5f6be456" resname="tab.versions.table.created">
         <source>Created</source>
-        <target xml:lang="de" state="translated">Erzeugt</target>
+        <target xml:lang="de" state="translated">Erstellt</target>
         <note>key: tab.versions.table.created</note>
+        <alt-trans>
+          <target xml:lang="de">Erzeugt</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="472157bdf440a9c6636057ac194d53029ac589dd" resname="tab.versions.table.last_saved">
         <source>Last saved</source>
         <target xml:lang="de" state="translated">Letzte Speicherung</target>
         <note>key: tab.versions.table.last_saved</note>
+      </trans-unit>
+      <trans-unit id="cd780839249906bd141cccd8bc58c8043a50acfb" resname="tab.versions.table.modified_language">
+        <source>Modified language</source>
+        <target xml:lang="de" state="translated">Bearbeitete Sprache</target>
+        <note>key: tab.versions.table.modified_language</note>
       </trans-unit>
       <trans-unit id="ddc70b29ad8ac6544843566a146ed1ea4ddab817" resname="tab.versions.table.version">
         <source>Version</source>
