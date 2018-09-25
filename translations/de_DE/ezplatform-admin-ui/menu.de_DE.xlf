@@ -111,6 +111,11 @@
         <target xml:lang="de" state="translated">Sprachen</target>
         <note>key: main__admin__languages</note>
       </trans-unit>
+      <trans-unit id="1d350945e7732f519fd5d2f6a69c926a193d6146" resname="main__admin__object_states">
+        <source>Object States</source>
+        <target xml:lang="de" state="translated">Objektzustände</target>
+        <note>key: main__admin__object_states</note>
+      </trans-unit>
       <trans-unit id="8a5845bd0e93b67b2ac54a06f2eae85f2cb3b13d" resname="main__admin__roles">
         <source>Roles</source>
         <target xml:lang="de" state="translated">Rollen</target>
@@ -120,6 +125,11 @@
         <source>Sections</source>
         <target xml:lang="de" state="translated">Sektionen</target>
         <note>key: main__admin__sections</note>
+      </trans-unit>
+      <trans-unit id="2cc622305036d330c00683520df433ef82f60c9a" resname="main__admin__systeminfo">
+        <source>System Information</source>
+        <target xml:lang="de" state="translated">Systeminformationen</target>
+        <note>key: main__admin__systeminfo</note>
       </trans-unit>
       <trans-unit id="975e43875a74d509e3e0cedd926de1223d09cdf4" resname="main__admin__users">
         <source>Users</source>
@@ -136,10 +146,20 @@
         <target xml:lang="de" state="translated">Inhaltstruktur</target>
         <note>key: main__content__content_structure</note>
       </trans-unit>
+      <trans-unit id="2887dd09dcb0f287e947da3e735133c540991df1" resname="main__content__linkmanager">
+        <source>Link Manager</source>
+        <target xml:lang="de" state="translated">Link Verwaltung</target>
+        <note>key: main__content__linkmanager</note>
+      </trans-unit>
       <trans-unit id="e8c5aefc86b31ee2bed9359787ddf0a2b1cad4a6" resname="main__content__media">
         <source>Media</source>
         <target xml:lang="de" state="translated">Medien</target>
         <note>key: main__content__media</note>
+      </trans-unit>
+      <trans-unit id="1f5824f08c1b09cf6511dee2352e6f1681f94893" resname="main_admin">
+        <source>Admin</source>
+        <target xml:lang="de" state="translated">Admin</target>
+        <note>key: main_admin</note>
       </trans-unit>
       <trans-unit id="1052991c551dfafbaca03084515a930162d9f453" resname="object_state_create__sidebar_right__create">
         <source>Create</source>
