@@ -157,8 +157,11 @@
       </trans-unit>
       <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
         <source>Content locations</source>
-        <target xml:lang="de" state="translated">Content locations</target>
+        <target xml:lang="de" state="translated">Orte</target>
         <note>key: tab.locations.content_locations</note>
+        <alt-trans>
+          <target xml:lang="de">Content locations</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="cd57f6ee339fa6c35e2a75cc760f391676fca490" resname="tab.locations.hidden_by_superior">
         <source>Hidden by superior</source>
@@ -177,8 +180,11 @@
       </trans-unit>
       <trans-unit id="b5d6fe3a752b0c391bfa751acb7c4c3ac82e2c0c" resname="tab.locations.subitems">
         <source>Sub-items</source>
-        <target xml:lang="de" state="translated">Sub-items</target>
+        <target xml:lang="de" state="translated">Unterelemente</target>
         <note>key: tab.locations.subitems</note>
+        <alt-trans>
+          <target xml:lang="de">Sub-items</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="1932d409236634ffbe828e683f35db760ec25323" resname="tab.locations.visibility">
         <source>Visibility</source>
@@ -225,6 +231,21 @@
         <target xml:lang="de" state="translated">Ansicht</target>
         <note>key: tab.name.view</note>
       </trans-unit>
+      <trans-unit id="1c95181a07cb4d7b83aa9b003eb4e8df95c8bfd9" resname="tab.relations.no_reverse_relations">
+        <source>This content item has no reverse relations.</source>
+        <target xml:lang="de" state="translated">Dieses Inhaltselement hat keine umgedrehten Vernüpfungen.</target>
+        <note>key: tab.relations.no_reverse_relations</note>
+      </trans-unit>
+      <trans-unit id="853cb6f02ff64af4dc6016318eff1c30bd16cc70" resname="tab.relations.related_content">
+        <source>Related content (content items used by %contentName%)</source>
+        <target xml:lang="de" state="translated">Verknüpfte Inhalte (Inhaltselemente verwendet von %contentName%)</target>
+        <note>key: tab.relations.related_content</note>
+      </trans-unit>
+      <trans-unit id="797eb29381132df5a71378b71b3237cf9a063b5c" resname="tab.relations.reverse_relations">
+        <source>Reverse relations (content items using %contentName%)</source>
+        <target xml:lang="de" state="translated">Umgedrehte Verknüpfungen (Inhaltselemente die %contentName% verwenden)</target>
+        <note>key: tab.relations.reverse_relations</note>
+      </trans-unit>
       <trans-unit id="d667f9ef2cf04ce8966bc908b8930be596925561" resname="tab.relations.table.content_type">
         <source>Content type</source>
         <target xml:lang="de" state="translated">Content-Typ</target>
@@ -270,6 +291,11 @@
         <target xml:lang="de" state="translated">Sprache</target>
         <note>key: tab.translations.language_name</note>
       </trans-unit>
+      <trans-unit id="852ca97b78e55e9b7734ff3e5a6c1b3fde6eca6f" resname="tab.translations.translation_manger">
+        <source>Translation manager</source>
+        <target xml:lang="de" state="translated">Übersetzungs Verwaltung</target>
+        <note>key: tab.translations.translation_manger</note>
+      </trans-unit>
       <trans-unit id="699b5bf627b908f8d270984ab9a4734a48b28abe" resname="tab.versions.archived_versions">
         <source>Archived versions</source>
         <target xml:lang="de" state="translated">Archivierte Versionen</target>
@@ -300,8 +326,11 @@
       </trans-unit>
       <trans-unit id="472157bdf440a9c6636057ac194d53029ac589dd" resname="tab.versions.table.last_saved">
         <source>Last saved</source>
-        <target xml:lang="de" state="translated">Letzte Speicherung</target>
+        <target xml:lang="de" state="translated">Zuletzt gespeichert</target>
         <note>key: tab.versions.table.last_saved</note>
+        <alt-trans>
+          <target xml:lang="de">Letzte Speicherung</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="cd780839249906bd141cccd8bc58c8043a50acfb" resname="tab.versions.table.modified_language">
         <source>Modified language</source>
