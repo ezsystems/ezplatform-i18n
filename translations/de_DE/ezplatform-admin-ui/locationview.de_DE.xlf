@@ -146,9 +146,6 @@
         <source>in</source>
         <target xml:lang="de" state="translated">Reihenfolge</target>
         <note>key: tab.details.sub_items_listing_by.in</note>
-        <alt-trans>
-          <target xml:lang="de">nach</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c7f8179865bd73db9d2f07c39ae4a364668476c5" resname="tab.details.sub_items_listing_by.order_by">
         <source>Order by</source>
