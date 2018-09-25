@@ -16,6 +16,17 @@
         <target xml:lang="de" state="translated">Entwurfskonflikt beim Bearbeiten</target>
         <note>key: draft.conflict.header</note>
       </trans-unit>
+      <trans-unit id="d5fdbb680e6950e955c933e05f15f861c2020517" resname="draft.conflict.number">
+        <source>{1}There are %number% draft for this content item.|]1,Inf[ There are %number% drafts for this content item</source>
+        <target xml:lang="de" state="translated">{1}Es existiert %number% Entwurf für dieses Inhaltselement.|]1,Inf[ Es existieren %number% Entwürfe für dieses Inhaltselement.
+</target>
+        <note>key: draft.conflict.number</note>
+      </trans-unit>
+      <trans-unit id="a4297fe31e8eb3307caa2cf855328056c3b98962" resname="tab.versions.action.delete">
+        <source>Add draft</source>
+        <target xml:lang="de" state="translated">Entwurf hinzufügen</target>
+        <note>key: tab.versions.action.delete</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
