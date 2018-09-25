@@ -108,8 +108,11 @@
       </trans-unit>
       <trans-unit id="f85206498106b1536c36c3231d870daa0d2805e2" resname="main__admin__content_types">
         <source>Content Types</source>
-        <target xml:lang="de" state="translated">Content-Typen</target>
+        <target xml:lang="de" state="translated">Inhaltstypen</target>
         <note>key: main__admin__content_types</note>
+        <alt-trans>
+          <target xml:lang="de">Content-Typen</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="fd9a2e689e82242d49f0313d78aca7e30bf9f24f" resname="main__admin__languages">
         <source>Languages</source>
