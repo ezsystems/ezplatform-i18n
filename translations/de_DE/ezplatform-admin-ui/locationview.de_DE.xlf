@@ -6,6 +6,26 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="a4b9e9b4898dd285237fc60130970ce7ed988871" resname="content.create.choose_content_type">
+        <source>Create your content</source>
+        <target xml:lang="de" state="translated">Inhalt erstellen</target>
+        <note>key: content.create.choose_content_type</note>
+      </trans-unit>
+      <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type">
+        <source>Select Content Type</source>
+        <target xml:lang="de" state="translated">Inhaltstyp wählen</target>
+        <note>key: content.create.select_content_type</note>
+      </trans-unit>
+      <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
+        <source>Select language</source>
+        <target xml:lang="de" state="translated">Sprache wählen</target>
+        <note>key: content.create.select_language</note>
+      </trans-unit>
+      <trans-unit id="5e8851497aae3ba774d163d5fd191fd69ac871c0" resname="content.edit.select_language">
+        <source>Select language</source>
+        <target xml:lang="de" state="translated">Sprache wählen</target>
+        <note>key: content.edit.select_language</note>
+      </trans-unit>
       <trans-unit id="9c91d85bc7658ec7dc6bbb07b720979177c0846a" resname="content.view.subitems">
         <source>Sub-items</source>
         <target xml:lang="de" state="translated">Unterelemente</target>
@@ -135,6 +155,11 @@
         <target xml:lang="de" state="translated">Sortierung</target>
         <note>key: tab.details.sub_items_listing_by.order_by</note>
       </trans-unit>
+      <trans-unit id="fe4321b1de5be805ed8224c8cf442a89e9fa38b4" resname="tab.details.sub_items_listing_by_set">
+        <source>Set</source>
+        <target xml:lang="de" state="translated">Setzen</target>
+        <note>key: tab.details.sub_items_listing_by_set</note>
+      </trans-unit>
       <trans-unit id="03aa9832291905ed83ba60081ebffe5786d92418" resname="tab.details.sub_items_sorting_order">
         <source>Sub-items sorting order</source>
         <target xml:lang="de" state="translated">Sortierung der Unterelemente</target>
@@ -155,6 +180,11 @@
         <target xml:lang="de" state="translated">Location hinzufügen</target>
         <note>key: tab.locations.action.add</note>
       </trans-unit>
+      <trans-unit id="80808d78f600e925ec3e2dd4b2a0e7570169fd83" resname="tab.locations.action.delete">
+        <source>Delete Location</source>
+        <target xml:lang="de" state="translated">Ort entfernen</target>
+        <note>key: tab.locations.action.delete</note>
+      </trans-unit>
       <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
         <source>Content locations</source>
         <target xml:lang="de" state="translated">Orte</target>
@@ -172,6 +202,11 @@
         <source>Main</source>
         <target xml:lang="de" state="translated">Haupt</target>
         <note>key: tab.locations.main</note>
+      </trans-unit>
+      <trans-unit id="e704444c07d73c053f58f427ebcc0b6b2042c63d" resname="tab.locations.modal.message">
+        <source>Do you want to delete Location?</source>
+        <target xml:lang="de" state="translated">Möchten Sie den Ort entfernen?</target>
+        <note>key: tab.locations.modal.message</note>
       </trans-unit>
       <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path">
         <source>Path</source>
@@ -271,6 +306,16 @@
         <target xml:lang="de" state="translated">Feld</target>
         <note>key: tab.relations.table.relation_type.field</note>
       </trans-unit>
+      <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
+        <source>Add Translation</source>
+        <target xml:lang="de" state="translated">Übersetzung hinzufügen</target>
+        <note>key: tab.translations.action.add</note>
+      </trans-unit>
+      <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
+        <source>Delete Translation</source>
+        <target xml:lang="de" state="translated">Übersetzung entfernen</target>
+        <note>key: tab.translations.action.delete</note>
+      </trans-unit>
       <trans-unit id="5022ce879be6a69956541173bf658dccff5d7280" resname="tab.translations.add.base_language">
         <source>Base this translation on an existing translation</source>
         <target xml:lang="de" state="translated">Diese Übersetzung auf eine bestehende Übersetzung stützen</target>
@@ -280,6 +325,16 @@
         <source>Cancel</source>
         <target xml:lang="de" state="translated">Abbrechen</target>
         <note>key: tab.translations.add.cancel</note>
+      </trans-unit>
+      <trans-unit id="fe6c962e1d0766f59a66d3766c56edffdce6735d" resname="tab.translations.add.language">
+        <source>Select a language for your new translation</source>
+        <target xml:lang="de" state="translated">Wählen Sie eine Sprache für Ihre neue Übersetzung</target>
+        <note>key: tab.translations.add.language</note>
+      </trans-unit>
+      <trans-unit id="2d1ceec2bfb85db323e21e358b6be6aad547e1d0" resname="tab.translations.add.title">
+        <source>Create new translation</source>
+        <target xml:lang="de" state="translated">Neue Übersetzung erstellen</target>
+        <note>key: tab.translations.add.title</note>
       </trans-unit>
       <trans-unit id="d494d753de03a08f7a10792b727ec88ca74d4913" resname="tab.translations.language_code">
         <source>Language code</source>
@@ -291,10 +346,20 @@
         <target xml:lang="de" state="translated">Sprache</target>
         <note>key: tab.translations.language_name</note>
       </trans-unit>
+      <trans-unit id="e8d52c9e980661178d301e925ac8c74661b4350d" resname="tab.translations.modal.message">
+        <source>Do you want to delete Translation?</source>
+        <target xml:lang="de" state="translated">Möchten Sie die Übersetzung entfernen?</target>
+        <note>key: tab.translations.modal.message</note>
+      </trans-unit>
       <trans-unit id="852ca97b78e55e9b7734ff3e5a6c1b3fde6eca6f" resname="tab.translations.translation_manger">
         <source>Translation manager</source>
         <target xml:lang="de" state="translated">Übersetzungs Verwaltung</target>
         <note>key: tab.translations.translation_manger</note>
+      </trans-unit>
+      <trans-unit id="a4297fe31e8eb3307caa2cf855328056c3b98962" resname="tab.versions.action.delete">
+        <source>Delete Version</source>
+        <target xml:lang="de" state="translated">Version entfernen</target>
+        <note>key: tab.versions.action.delete</note>
       </trans-unit>
       <trans-unit id="699b5bf627b908f8d270984ab9a4734a48b28abe" resname="tab.versions.archived_versions">
         <source>Archived versions</source>
@@ -306,10 +371,20 @@
         <target xml:lang="de" state="translated">Draft wird bearbeitet</target>
         <note>key: tab.versions.draft_under_edit</note>
       </trans-unit>
+      <trans-unit id="134ac8f9b086171dcda7931b3bb7acc0042bb1c9" resname="tab.versions.modal.message">
+        <source>Do you want to delete Versions?</source>
+        <target xml:lang="de" state="translated">Möchten Sie die Versionen entfernen?</target>
+        <note>key: tab.versions.modal.message</note>
+      </trans-unit>
       <trans-unit id="f6c48627db1d026d9f3fbc3b5b1cb1b3c60af4b3" resname="tab.versions.published_version">
         <source>Published version</source>
         <target xml:lang="de" state="translated">Veröffentlichte Version</target>
         <note>key: tab.versions.published_version</note>
+      </trans-unit>
+      <trans-unit id="d2e707023baa6830915c5d12b915974d627522e4" resname="tab.versions.table.action.archived.edit">
+        <source>Restore Archived Version</source>
+        <target xml:lang="de" state="translated">Archivierte Version wiederherstellen</target>
+        <note>key: tab.versions.table.action.archived.edit</note>
       </trans-unit>
       <trans-unit id="4c27637d649c221e58c6a9629f14a2f75aeed151" resname="tab.versions.table.contributor">
         <source>Contributor</source>
@@ -341,6 +416,11 @@
         <source>Version</source>
         <target xml:lang="de" state="translated">Version</target>
         <note>key: tab.versions.table.version</note>
+      </trans-unit>
+      <trans-unit id="cf6a7c9a98608dd58b428ce2187e3229b64b5701" resname="translation.modal_close">
+        <source>Close</source>
+        <target xml:lang="de" state="translated">Schließen</target>
+        <note>key: translation.modal_close</note>
       </trans-unit>
     </body>
   </file>
