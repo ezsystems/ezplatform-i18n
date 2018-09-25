@@ -19,6 +19,11 @@
         <target xml:lang="de" state="translated">Lesezeichen hinzufügen</target>
         <note>key: location.bookmark.add</note>
       </trans-unit>
+      <trans-unit id="0b2f22acb619fcc5672a7dd0ccf2a39316a07274" resname="location.bookmark.remove">
+        <source>Remove from Bookmarks</source>
+        <target xml:lang="de" state="translated">Lesezeichen entfernen</target>
+        <note>key: location.bookmark.remove</note>
+      </trans-unit>
       <trans-unit id="c0b36efcf0ebbe2ac0f9861cae35e12e668cbcc0" resname="tab.details.content_details">
         <source>Content details</source>
         <target xml:lang="de" state="translated">Inhaltsdetails</target>
