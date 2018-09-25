@@ -11,6 +11,11 @@
         <target xml:lang="de" state="translated">Erstellen</target>
         <note>key: content_draft_create_type.create</note>
       </trans-unit>
+      <trans-unit id="c5edf119facebac72a105963da8db6be47549180" resname="content_location_add_type.add">
+        <source>Add location</source>
+        <target xml:lang="de" state="translated">Ort hinzufügen</target>
+        <note>key: content_location_add_type.add</note>
+      </trans-unit>
       <trans-unit id="9e3c743fb052b12d69896a30ee9a6e1bb0c41427" resname="content_location_remove_form.remove">
         <source>Delete</source>
         <target xml:lang="de" state="translated">Löschen</target>
@@ -20,6 +25,11 @@
         <source>Create</source>
         <target xml:lang="de" state="translated">Erstellen</target>
         <note>key: content_translation_add_form.add</note>
+      </trans-unit>
+      <trans-unit id="0c3800a29144ab27e80a81e100212ccd5fd7e509" resname="content_translation_remove_form.remove">
+        <source>Remove translation</source>
+        <target xml:lang="de" state="translated">Übersetzung entfernen</target>
+        <note>key: content_translation_remove_form.remove</note>
       </trans-unit>
       <trans-unit id="390eb98ace269d5909c838416c36248c40895058" resname="ezplatform.change_user_password.confirm_new_password">
         <source>Confirm password</source>
@@ -163,6 +173,11 @@
         <source>Delete</source>
         <target xml:lang="de" state="translated">Löschen</target>
         <note>key: user_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="3b2ae7aa286887e2fbd2b6e77ca237f9f9109e9b" resname="version_remove_form.remove">
+        <source>Remove version</source>
+        <target xml:lang="de" state="translated">Version entfernen</target>
+        <note>key: version_remove_form.remove</note>
       </trans-unit>
     </body>
   </file>
