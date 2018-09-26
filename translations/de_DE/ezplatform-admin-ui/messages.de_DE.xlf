@@ -148,6 +148,32 @@
         <target xml:lang="de" state="translated">Passwort zurücksetzen</target>
         <note>key: ezplatform.forgot_user_password.reset_your_password</note>
       </trans-unit>
+      <trans-unit id="36aa6723300a41ba80ee0096c0d2bcf34fd48aca" resname="ezplatform.forgot_user_password.success">
+        <source><![CDATA[<p>We have sent an email to the email address of your account. You should receive the email shortly.</p>
+            <p>If the email is slow to arrive, check your spam folders.</p>
+            <p>If you receive no email, it’s that your username or email is unknown to us, so please double check.</p>
+            <p>If you reset your password multiple times, only the most recent email link will be valid</p>]]></source>
+        <target xml:lang="de" state="translated"><![CDATA[<p>Wir haben Ihnen eine E-Mail an die E-Mail Adresse Ihres Benutzerskontos geschickt. Sie sollten die E-Mail in Kürze erhalten.</p>
+            <p>Sollte Sie die E-Mail nicht in kurzer Zeit erreichen, überprüfen Sie Ihren Spam-Ordner.</p>
+            <p>Wenn Sie keine E-Mail erhalten haben, kann es sein, dass uns der eingegebene Benutzername oder die eingegebene E-Mail Adresse unbekannt ist. Bitte prüfen Sie Ihre Eingabe.</p>
+            <p>Wenn Sie mehrfach ein Zurücksetzen Ihres Passworts angefragt haben, ist nur der Link aus der letzten E-Mail gültig.</p>]]></target>
+        <note>key: ezplatform.forgot_user_password.success</note>
+      </trans-unit>
+      <trans-unit id="40dd2934190789b016771a0fc3b41dcdfe0bb920" resname="ezplatform.reset_user_password.change_password">
+        <source>Change password</source>
+        <target xml:lang="de" state="translated">Passwort ändern</target>
+        <note>key: ezplatform.reset_user_password.change_password</note>
+      </trans-unit>
+      <trans-unit id="8359e9b6409139537d0eaeeacaedbc4d0912a105" resname="ezplatform.reset_user_password.link_is_not_valid">
+        <source><![CDATA[This link is not valid anymore, you can <a href="%forgot_user_password%">generate a new link</a> to reset your password.]]></source>
+        <target xml:lang="de" state="translated"><![CDATA[Dieser Link ist nicht mehr gültig. Sie können <a href="%forgot_user_password%">einen neuen Link generieren</a>, um Ihr Passwort zurückzusetzen.]]></target>
+        <note>key: ezplatform.reset_user_password.link_is_not_valid</note>
+      </trans-unit>
+      <trans-unit id="5149c594d64197e519d38a1a2e7368140716bb81" resname="ezplatform.reset_user_password.success">
+        <source><![CDATA[Congrats, your password has been changed, you can now <a href="%login%">login</a> to eZ Platform.]]></source>
+        <target xml:lang="de" state="translated"><![CDATA[Glückwunsch, Ihr Passwort wurde geändert. Sie können sich jetzt in eZ Platform <a href="%login%">anmelden</a>.]]></target>
+        <note>key: ezplatform.reset_user_password.success</note>
+      </trans-unit>
       <trans-unit id="5cf420af18fd4a8d856fd30bc13aea5039369f9b" resname="form.cancel">
         <source>Cancel</source>
         <target xml:lang="de" state="translated">Abbrechen</target>
@@ -163,6 +189,26 @@
         <target xml:lang="de" state="translated">Löschen</target>
         <note>key: modal.delete</note>
       </trans-unit>
+      <trans-unit id="08232f4c5c3ca88a7f2fd8e29eda7e20ec346aae" resname="search.any_time">
+        <source>Any time</source>
+        <target xml:lang="de" state="translated">Jeder Zeitpunkt</target>
+        <note>key: search.any_time</note>
+      </trans-unit>
+      <trans-unit id="03d6d5922fd2012e155e50306eaf98e2dfeb21c6" resname="search.section.any">
+        <source>Any section</source>
+        <target xml:lang="de" state="translated">Jede Sektion</target>
+        <note>key: search.section.any</note>
+      </trans-unit>
+      <trans-unit id="9567771350aff93580f743089937b0c8fe31058e" resname="section.assign,content">
+        <source>Assign Content</source>
+        <target xml:lang="de" state="translated">Inhalt zuweisen</target>
+        <note>key: section.assign,content</note>
+      </trans-unit>
+      <trans-unit id="6a17e9f4ed416563fc8c3e188509b8eec8a6f7c0" resname="section.modal.message">
+        <source>Do you want to delete section?</source>
+        <target xml:lang="de" state="translated">Möchten Sie die Sektion löschen?</target>
+        <note>key: section.modal.message</note>
+      </trans-unit>
       <trans-unit id="1152c93462d8bed85642b961f01ed63a6f2525ab" resname="tab.locations.location_content_swap">
         <source>Location Content Swap</source>
         <target xml:lang="de" state="translated">Inhalt mit Ort tauschen</target>
@@ -177,6 +223,16 @@
         <source>Content</source>
         <target xml:lang="de" state="translated">Inhalt</target>
         <note>key: tab.view.content</note>
+      </trans-unit>
+      <trans-unit id="4e7901a215220faba4d546cd3fb63f3e2a64e849" resname="trash.delete.all.confirm">
+        <source>Are you sure you want to permanently delete %trashItemsCount% item(s)?</source>
+        <target xml:lang="de" state="translated">Sind Sie sicher, dass Sie %trashItemsCount% Element(e) dauerhaft löschen möchten?</target>
+        <note>key: trash.delete.all.confirm</note>
+      </trans-unit>
+      <trans-unit id="48e20c2b09b340ca2e2020edaa30a57c8bc3f26b" resname="trash.delete.all.info">
+        <source>This action cannot be reversed</source>
+        <target xml:lang="de" state="translated">Diese Aktion kann nicht rückgängig gemacht werden</target>
+        <note>key: trash.delete.all.info</note>
       </trans-unit>
       <trans-unit id="e500e3f1d454e2775bbe89b6267cd77c766df3f1" resname="trash.delete.button.cancel">
         <source>Cancel</source>
