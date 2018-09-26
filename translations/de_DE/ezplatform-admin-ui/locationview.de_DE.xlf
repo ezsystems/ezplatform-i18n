@@ -74,6 +74,11 @@
         <target xml:lang="de" state="translated">Letzter Autor</target>
         <note>key: tab.details.last_contributor</note>
       </trans-unit>
+      <trans-unit id="ba5ca8a7f923f6ee3a0e6bf9aca428403d0158fd" resname="tab.details.last_contributor.not_found">
+        <source>Can’t fetch last contributor</source>
+        <target xml:lang="de" state="translated">Letzter Beitragender kann nicht angezeigt werden</target>
+        <note>key: tab.details.last_contributor.not_found</note>
+      </trans-unit>
       <trans-unit id="671c2d4e91244548b29e8f293cd8d4d97a3c23bd" resname="tab.details.location_id">
         <source>Location ID</source>
         <target xml:lang="de" state="translated">Location ID</target>
@@ -195,6 +200,11 @@
           <target xml:lang="de">Content locations</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="2f3aa22262d10e0dcbc4ccfacbf060f9e98fcb05" resname="tab.locations.hidden">
+        <source>Hidden</source>
+        <target xml:lang="de" state="translated">Versteckt</target>
+        <note>key: tab.locations.hidden</note>
+      </trans-unit>
       <trans-unit id="cd57f6ee339fa6c35e2a75cc760f391676fca490" resname="tab.locations.hidden_by_superior">
         <source>Hidden by superior</source>
         <target xml:lang="de" state="translated">Versteckt vom Vorgesetzten</target>
@@ -228,6 +238,11 @@
         <target xml:lang="de" state="translated">Sichtbarkeit</target>
         <note>key: tab.locations.visibility</note>
       </trans-unit>
+      <trans-unit id="775b3ea314e2c1d999a586f85fab657c30deaac3" resname="tab.locations.visible">
+        <source>Visible</source>
+        <target xml:lang="de" state="translated">Sichtbar</target>
+        <note>key: tab.locations.visible</note>
+      </trans-unit>
       <trans-unit id="5d92b84a6c78bd443010f172c47d01ce0dacacd7" resname="tab.name.details">
         <source>Details</source>
         <target xml:lang="de" state="translated">Details</target>
@@ -237,6 +252,11 @@
         <source>Locations</source>
         <target xml:lang="de" state="translated">Orte</target>
         <note>key: tab.name.locations</note>
+      </trans-unit>
+      <trans-unit id="a483f367c17cc75d6c5cf331f80e395b254cbbd6" resname="tab.name.policies">
+        <source>Policies</source>
+        <target xml:lang="de" state="translated">Richtlinien</target>
+        <note>key: tab.name.policies</note>
       </trans-unit>
       <trans-unit id="8954433abc5d011c00f81f317c7eebec41fbb1c0" resname="tab.name.relations">
         <source>Relations</source>
@@ -268,6 +288,11 @@
         <target xml:lang="de" state="translated">Ansicht</target>
         <note>key: tab.name.view</note>
       </trans-unit>
+      <trans-unit id="373c6d223e1f346d71cf6cfd85f0fbc3d76ca1d5" resname="tab.relations.no_relations">
+        <source>This content item has no related content.</source>
+        <target xml:lang="de" state="translated">Dieses Inhaltselement hat keine verknüpften Inhalte.</target>
+        <note>key: tab.relations.no_relations</note>
+      </trans-unit>
       <trans-unit id="1c95181a07cb4d7b83aa9b003eb4e8df95c8bfd9" resname="tab.relations.no_reverse_relations">
         <source>This content item has no reverse relations.</source>
         <target xml:lang="de" state="translated">Dieses Inhaltselement hat keine umgedrehten Vernüpfungen.</target>
@@ -290,13 +315,21 @@
       </trans-unit>
       <trans-unit id="e649f067bcea898ef987cd5ebce6a9a6fca570f2" resname="tab.relations.table.name">
         <source>Name</source>
-        <target xml:lang="de" state="translated">Nom</target>
+        <target xml:lang="de" state="translated">Name</target>
         <note>key: tab.relations.table.name</note>
+        <alt-trans>
+          <target xml:lang="de">Nom</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="06422c0c484b663ec929d1049a228a26b9d48476" resname="tab.relations.table.relation_type">
         <source>Relation type</source>
         <target xml:lang="de" state="translated">Relation Typ</target>
         <note>key: tab.relations.table.relation_type</note>
+      </trans-unit>
+      <trans-unit id="d8360b13746f836dc7c28998696a69b24ea30b18" resname="tab.relations.table.relation_type.content_level_relation">
+        <source>Content level relation</source>
+        <target xml:lang="de" state="translated">Inhaltsebene Verknüpfung</target>
+        <note>key: tab.relations.table.relation_type.content_level_relation</note>
       </trans-unit>
       <trans-unit id="79779455bd3c932297c6b8cefdcd1251836525c5" resname="tab.relations.table.relation_type.embed">
         <source>Embed</source>
@@ -307,6 +340,11 @@
         <source>Field</source>
         <target xml:lang="de" state="translated">Feld</target>
         <note>key: tab.relations.table.relation_type.field</note>
+      </trans-unit>
+      <trans-unit id="cd43dc791bb87dda363d311d449b68d5876392d1" resname="tab.relations.table.relation_type.link">
+        <source>Link</source>
+        <target xml:lang="de" state="translated">Link</target>
+        <note>key: tab.relations.table.relation_type.link</note>
       </trans-unit>
       <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
         <source>Add Translation</source>
@@ -378,6 +416,11 @@
         <target xml:lang="de" state="translated">Möchten Sie die Versionen entfernen?</target>
         <note>key: tab.versions.modal.message</note>
       </trans-unit>
+      <trans-unit id="8cf65ae83fb935858286b91006ff05b9d6d15c4a" resname="tab.versions.no_permission">
+        <source>You don't have access to view the content item's versions</source>
+        <target xml:lang="de" state="translated">Sie haben keine Rechte die Versionen des Inhaltselements zu sehen</target>
+        <note>key: tab.versions.no_permission</note>
+      </trans-unit>
       <trans-unit id="f6c48627db1d026d9f3fbc3b5b1cb1b3c60af4b3" resname="tab.versions.published_version">
         <source>Published version</source>
         <target xml:lang="de" state="translated">Veröffentlichte Version</target>
@@ -387,6 +430,16 @@
         <source>Restore Archived Version</source>
         <target xml:lang="de" state="translated">Archivierte Version wiederherstellen</target>
         <note>key: tab.versions.table.action.archived.edit</note>
+      </trans-unit>
+      <trans-unit id="97721a4a6c33834bb6421c29ef72e8654f39a4ab" resname="tab.versions.table.action.draft.edit">
+        <source>Edit Draft</source>
+        <target xml:lang="de" state="translated">Entwurf bearbeiten</target>
+        <note>key: tab.versions.table.action.draft.edit</note>
+      </trans-unit>
+      <trans-unit id="a602612589c6e902caaf8acf1fd51fcd215955f1" resname="tab.versions.table.author.not_found">
+        <source>Can’t fetch contributor</source>
+        <target xml:lang="de" state="translated">Beitragender kann nicht angezeigt werden</target>
+        <note>key: tab.versions.table.author.not_found</note>
       </trans-unit>
       <trans-unit id="4c27637d649c221e58c6a9629f14a2f75aeed151" resname="tab.versions.table.contributor">
         <source>Contributor</source>
