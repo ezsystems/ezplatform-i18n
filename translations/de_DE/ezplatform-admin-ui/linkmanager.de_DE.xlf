@@ -38,8 +38,11 @@
       </trans-unit>
       <trans-unit id="ed6ebb919604a265c372578f297370881bfe4220" resname="url.label.created">
         <source>Created</source>
-        <target xml:lang="de" state="translated">Erzeugt</target>
+        <target xml:lang="de" state="translated">Erstellt</target>
         <note>key: url.label.created</note>
+        <alt-trans>
+          <target xml:lang="de">Erzeugt</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="9f504bd4b4d9667acd04b788b3b0dbb4d7d9500f" resname="url.label.last_checked">
         <source>Last checked</source>
@@ -106,15 +109,43 @@
         <target xml:lang="de" state="translated">Details</target>
         <note>key: url.tab.information</note>
       </trans-unit>
+      <trans-unit id="af51e21b845c88f95912dd85c6e94559d7038df6" resname="url.tab.usages">
+        <source>Content item(s) using this URL</source>
+        <target xml:lang="de" state="translated">Inhaltselemente mit dieser URL</target>
+        <note>key: url.tab.usages</note>
+      </trans-unit>
+      <trans-unit id="9ff98d02d294a164470b9491cabfa3526f2f63f6" resname="url.update.success">
+        <source>URL updated</source>
+        <target xml:lang="de" state="translated">URL aktualisiert</target>
+        <note>key: url.update.success</note>
+      </trans-unit>
       <trans-unit id="8fe54f2938f83a529ad5d7aa94d4e2fc9934bac1" resname="url.usages.column.name">
         <source>Name</source>
-        <target xml:lang="de" state="translated">Nom</target>
+        <target xml:lang="de" state="translated">Name</target>
         <note>key: url.usages.column.name</note>
+        <alt-trans>
+          <target xml:lang="de">Nom</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="194bc7ae0ad8f96bbd8ad91fe58cc02ce1e465fc" resname="url.usages.column.status">
+        <source>Status</source>
+        <target xml:lang="de" state="translated">Status</target>
+        <note>key: url.usages.column.status</note>
+      </trans-unit>
+      <trans-unit id="e7ae589ed6ce535328c6561f41bc0171f8fabeb8" resname="url.usages.content_status.draft">
+        <source>Draft</source>
+        <target xml:lang="de" state="translated">Entwurf</target>
+        <note>key: url.usages.content_status.draft</note>
       </trans-unit>
       <trans-unit id="d831a1a74184672a12e3b9ae099692d1b4fd55b1" resname="url.usages.content_status.published">
         <source>Published</source>
         <target xml:lang="de" state="translated">Veröffentlicht</target>
         <note>key: url.usages.content_status.published</note>
+      </trans-unit>
+      <trans-unit id="dce98314e5ba27c161d28c789d2b970180ea852c" resname="url.view">
+        <source>Link %url%</source>
+        <target xml:lang="de" state="translated">Link %url%</target>
+        <note>key: url.view</note>
       </trans-unit>
     </body>
   </file>
