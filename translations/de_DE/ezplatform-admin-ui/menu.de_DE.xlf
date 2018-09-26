@@ -98,8 +98,11 @@
       </trans-unit>
       <trans-unit id="f1ac6aebd0e5474137a997b41677e5ae6c78670b" resname="content_type_edit__sidebar_right__save">
         <source>Save</source>
-        <target xml:lang="de" state="translated">Entwurf speichern</target>
+        <target xml:lang="de" state="translated">Speichern</target>
         <note>key: content_type_edit__sidebar_right__save</note>
+        <alt-trans>
+          <target xml:lang="de">Entwurf speichern</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="ccdcdc5c7e006c865c33b29eee9c6b9e232a9308" resname="content_type_group_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -118,8 +121,11 @@
       </trans-unit>
       <trans-unit id="3951c5df8bf1c00b0dd99dc06acc76d1908ec825" resname="content_type_group_edit__sidebar_right__save">
         <source>Save</source>
-        <target xml:lang="de" state="translated">Entwurf speichern</target>
+        <target xml:lang="de" state="translated">Speichern</target>
         <note>key: content_type_group_edit__sidebar_right__save</note>
+        <alt-trans>
+          <target xml:lang="de">Entwurf speichern</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="65804c068820b5fa679357bc65c5862d0fc90701" resname="language_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -138,8 +144,11 @@
       </trans-unit>
       <trans-unit id="31bae088f62a5a502882b1e2cee04e14fe6617ab" resname="language_edit__sidebar_right__save">
         <source>Save</source>
-        <target xml:lang="de" state="translated">Entwurf speichern</target>
+        <target xml:lang="de" state="translated">Speichern</target>
         <note>key: language_edit__sidebar_right__save</note>
+        <alt-trans>
+          <target xml:lang="de">Entwurf speichern</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="f85206498106b1536c36c3231d870daa0d2805e2" resname="main__admin__content_types">
         <source>Content Types</source>
@@ -221,8 +230,11 @@
       </trans-unit>
       <trans-unit id="063a560058e7b40ddfc281c414fa7bb7056cb18d" resname="object_state_edit__sidebar_right__save">
         <source>Save</source>
-        <target xml:lang="de" state="translated">Entwurf speichern</target>
+        <target xml:lang="de" state="translated">Speichern</target>
         <note>key: object_state_edit__sidebar_right__save</note>
+        <alt-trans>
+          <target xml:lang="de">Entwurf speichern</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="6d0d5ef21648f88e82cdd49203e02eb897d55290" resname="object_state_group_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -241,8 +253,11 @@
       </trans-unit>
       <trans-unit id="c0dc534365fb45019db9b586ca8a71db6edda39d" resname="object_state_group_edit__sidebar_right__save">
         <source>Save</source>
-        <target xml:lang="de" state="translated">Entwurf speichern</target>
+        <target xml:lang="de" state="translated">Speichern</target>
         <note>key: object_state_group_edit__sidebar_right__save</note>
+        <alt-trans>
+          <target xml:lang="de">Entwurf speichern</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="bd668569e3e19db4ee8d34e4008f9bfceaad437b" resname="policy_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -271,8 +286,11 @@
       </trans-unit>
       <trans-unit id="63bb349c122da33ab95d2e395ca9a62f8050bf66" resname="role_assignment_create__sidebar_right__save">
         <source>Save</source>
-        <target xml:lang="de" state="translated">Entwurf speichern</target>
+        <target xml:lang="de" state="translated">Speichern</target>
         <note>key: role_assignment_create__sidebar_right__save</note>
+        <alt-trans>
+          <target xml:lang="de">Entwurf speichern</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="ec3a03215b15b79b7db72bac312b5e59734ac99c" resname="role_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -291,8 +309,11 @@
       </trans-unit>
       <trans-unit id="feda90199751e252928f5cba2e56f0a0a85a2248" resname="role_edit__sidebar_right__save">
         <source>Save</source>
-        <target xml:lang="de" state="translated">Entwurf speichern</target>
+        <target xml:lang="de" state="translated">Speichern</target>
         <note>key: role_edit__sidebar_right__save</note>
+        <alt-trans>
+          <target xml:lang="de">Entwurf speichern</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="118456f08e78dac2945c59eb317427f1abb88c3b" resname="section_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -311,8 +332,11 @@
       </trans-unit>
       <trans-unit id="e33deebc2c2c317aa44b31e5d8c4148fdfb1dc34" resname="section_edit__sidebar_right__save">
         <source>Save</source>
-        <target xml:lang="de" state="translated">Entwurf speichern</target>
+        <target xml:lang="de" state="translated">Speichern</target>
         <note>key: section_edit__sidebar_right__save</note>
+        <alt-trans>
+          <target xml:lang="de">Entwurf speichern</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="d69b54667fe89acac2f0e05bf84c606aff91d52b" resname="sidebar_left__bookmark">
         <source>Bookmarks</source>
@@ -349,8 +373,11 @@
       </trans-unit>
       <trans-unit id="9e8d8f6d06a5950f649d63b453d6dab7eba33f11" resname="url_edit__sidebar_right__save">
         <source>Save</source>
-        <target xml:lang="de" state="translated">Entwurf speichern</target>
+        <target xml:lang="de" state="translated">Speichern</target>
         <note>key: url_edit__sidebar_right__save</note>
+        <alt-trans>
+          <target xml:lang="de">Entwurf speichern</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="8acab9e005da20efe4001fac5f84ff2c835bb7c8" resname="user__bookmark">
         <source>Bookmarks</source>
