@@ -61,6 +61,26 @@
         <target xml:lang="de" state="translated">Besitzer des Elternelements</target>
         <note>key: policy.limitation.identifier.parentowner</note>
       </trans-unit>
+      <trans-unit id="bb77b27363dad566197a200290f0f0b18baa4705" resname="policy.limitation.identifier.section">
+        <source>Section</source>
+        <target xml:lang="de" state="translated">Sektion</target>
+        <note>key: policy.limitation.identifier.section</note>
+      </trans-unit>
+      <trans-unit id="548bc922c693c8259cbfd3354451a3035e2fa6f6" resname="policy.limitation.identifier.siteaccess">
+        <source>SiteAccess</source>
+        <target xml:lang="de" state="translated">Seitenzugang</target>
+        <note>key: policy.limitation.identifier.siteaccess</note>
+      </trans-unit>
+      <trans-unit id="30cc18895dfb23b14d3f9b8249e90baf678c8180" resname="policy.limitation.identifier.state">
+        <source>State</source>
+        <target xml:lang="de" state="translated">Zustand</target>
+        <note>key: policy.limitation.identifier.state</note>
+      </trans-unit>
+      <trans-unit id="2291e238752ad3c4d20ef08253f5d5736f6382d2" resname="policy.limitation.identifier.subtree">
+        <source>Subtree of Location</source>
+        <target xml:lang="de" state="translated">Teilbaum des Ortes</target>
+        <note>key: policy.limitation.identifier.subtree</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
