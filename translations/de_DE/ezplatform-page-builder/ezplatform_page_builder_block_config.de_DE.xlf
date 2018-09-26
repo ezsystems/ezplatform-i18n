@@ -41,6 +41,16 @@
         <target xml:lang="de" state="translated">Bis</target>
         <note>key: page_builder.block_configuration.till</note>
       </trans-unit>
+      <trans-unit id="02ba70eaa60e10264ec65a0da1ac96d9b110759f" resname="page_builder.block_configuration.view">
+        <source>View</source>
+        <target xml:lang="de" state="translated">Ansicht</target>
+        <note>key: page_builder.block_configuration.view</note>
+      </trans-unit>
+      <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content">
+        <source>Select content</source>
+        <target xml:lang="de" state="translated">Inhalt auswählen</target>
+        <note>key: select.content</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
