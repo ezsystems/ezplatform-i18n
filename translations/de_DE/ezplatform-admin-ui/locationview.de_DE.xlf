@@ -64,6 +64,11 @@
         <target xml:lang="de" state="translated">Ersteller</target>
         <note>key: tab.details.creator</note>
       </trans-unit>
+      <trans-unit id="91b45af4dd219651dc8b1a7d050822b71f03fad3" resname="tab.details.creator.not_found">
+        <source>Can’t fetch creator</source>
+        <target xml:lang="de" state="translated">Ersteller kann nicht angezeigt werden</target>
+        <note>key: tab.details.creator.not_found</note>
+      </trans-unit>
       <trans-unit id="acc17a8db8d00036233faa9948ad9a496cd621b3" resname="tab.details.last_contributor">
         <source>Last contributor</source>
         <target xml:lang="de" state="translated">Letzter Autor</target>
