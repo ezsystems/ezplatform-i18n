@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="a6cf9ca3d83b39f13cb571316b79b4b95200a631" resname="content_object_state.update.success">
+        <source>Content object state '%name%' updated.</source>
+        <target xml:lang="de" state="translated">Inhaltselement Zustand '%name%' aktualisiert.</target>
+        <note>key: content_object_state.update.success</note>
+      </trans-unit>
       <trans-unit id="c57bed7c172c50ab41d70434d7846bb97375895f" resname="object_state.bulk_delete.delete">
         <source>Delete Object State </source>
         <target xml:lang="de" state="needs-translation"> </target>
