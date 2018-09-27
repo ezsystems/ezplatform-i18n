@@ -136,8 +136,11 @@
       </trans-unit>
       <trans-unit id="556b388819e694acae15637989c32827c445faed" resname="publish_later.settings">
         <source>Future publication settings</source>
-        <target xml:lang="pl" state="translated">Ustawienia publikacji w przyszłości</target>
+        <target xml:lang="pl" state="translated">Ustaw datę i czas publikacji</target>
         <note>key: publish_later.settings</note>
+        <alt-trans>
+          <target xml:lang="pl">Ustawienia publikacji w przyszłości</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="b618f3dd85270257ed32cca10210efa9f5faa9f5" resname="schedule_publish">
         <source>schedule_publish</source>
