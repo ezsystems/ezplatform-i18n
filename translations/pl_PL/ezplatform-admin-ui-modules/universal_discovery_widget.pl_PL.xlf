@@ -6,49 +6,56 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="0b27a32b6a1d59164f8f3f899f5bb1e1632ea13c" resname="bookmarks.tab.label">
+        <source>Bookmarks</source>
+        <target xml:lang="pl" state="translated">Zakładki</target>
+        <note>key: bookmarks.tab.label</note>
+      </trans-unit>
+      <trans-unit id="d60a9f5151198e2d342a7706a87cc94c6b99df0b" resname="bookmarks_table.no_bookmarks.message">
+        <source>No content items. Content items you bookmark will appear here.</source>
+        <target xml:lang="pl" state="translated">Brak elementów. Utworzone przez Ciebie zakładki pojawią się tutaj.</target>
+        <note>key: bookmarks_table.no_bookmarks.message</note>
+      </trans-unit>
+      <trans-unit id="ff5d293e5499e24b93cc23c8c41eb68c3762479c" resname="bookmarks_table.title">
+        <source>Bookmarks</source>
+        <target xml:lang="pl" state="translated">Zakładki</target>
+        <note>key: bookmarks_table.title</note>
+      </trans-unit>
+      <trans-unit id="2921f779fd4005262284393eba6ddc0a458c2f7b" resname="browse.tab.label">
+        <source>Browse</source>
+        <target xml:lang="pl" state="translated">Przeglądaj</target>
+        <note>key: browse.tab.label</note>
+      </trans-unit>
+      <trans-unit id="ba10e05f0dd0a4ddd591d79b498616594637a854" resname="cancel.label">
+        <source>Cancel</source>
+        <target xml:lang="pl" state="translated">Anuluj</target>
+        <note>key: cancel.label</note>
+      </trans-unit>
+      <trans-unit id="7a0ef5e28c76e86c44ddc4be01796aeb86a0b69d" resname="confirm.label">
+        <source>Confirm</source>
+        <target xml:lang="pl" state="translated">Zatwierdź</target>
+        <note>key: confirm.label</note>
+      </trans-unit>
+      <trans-unit id="e9a888525e3ce94bba2f9338397737bf1fb22b09" resname="content_meta_preview.creation_date.label">
+        <source>Creation date</source>
+        <target xml:lang="pl" state="translated">Data utworzenia</target>
+        <note>key: content_meta_preview.creation_date.label</note>
+      </trans-unit>
+      <trans-unit id="85001327f4bcfe4aeeef01b6a2a30dddbc7b8bf5" resname="content_meta_preview.image_preview_not_available.info">
+        <source>Content preview is not available</source>
+        <target xml:lang="pl" state="translated">Podgląd elementu niedostępny</target>
+        <note>key: content_meta_preview.image_preview_not_available.info</note>
+      </trans-unit>
+      <trans-unit id="cccd1a21d1f34d69f0e43773a7a67552996bf858" resname="content_meta_preview.last_modified.label">
+        <source>Last modified</source>
+        <target xml:lang="pl" state="translated">Data modyfikacji</target>
+        <note>key: content_meta_preview.last_modified.label</note>
+      </trans-unit>
+      <trans-unit id="ccc953c91a624710a9811bb6d02cffadf22125ae" resname="content_meta_preview.select.label">
+        <source>Select content</source>
+        <target xml:lang="pl" state="translated">Wybierz element</target>
+        <note>key: content_meta_preview.select.label</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
