@@ -183,8 +183,11 @@
       </trans-unit>
       <trans-unit id="1dd8b693879304af831a7adaf4ca59c7d8cb31b9" resname="main__content__content_structure">
         <source>Content structure</source>
-        <target xml:lang="pl" state="translated">Struktura treści</target>
+        <target xml:lang="pl" state="translated">Struktura</target>
         <note>key: main__content__content_structure</note>
+        <alt-trans>
+          <target xml:lang="pl">Struktura treści</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="2887dd09dcb0f287e947da3e735133c540991df1" resname="main__content__linkmanager">
         <source>Link Manager</source>
