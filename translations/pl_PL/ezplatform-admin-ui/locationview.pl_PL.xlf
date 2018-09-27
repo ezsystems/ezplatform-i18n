@@ -307,8 +307,11 @@
       </trans-unit>
       <trans-unit id="1c95181a07cb4d7b83aa9b003eb4e8df95c8bfd9" resname="tab.relations.no_reverse_relations">
         <source>This content item has no reverse relations.</source>
-        <target xml:lang="pl" state="translated">Ten element nie ma powiązań odwrotnych.</target>
+        <target xml:lang="pl" state="translated">Ten element nie ma powiązań zwrotnych.</target>
         <note>key: tab.relations.no_reverse_relations</note>
+        <alt-trans>
+          <target xml:lang="pl">Ten element nie ma powiązań odwrotnych.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="853cb6f02ff64af4dc6016318eff1c30bd16cc70" resname="tab.relations.related_content">
         <source>Related content (content items used by %contentName%)</source>
@@ -317,8 +320,11 @@
       </trans-unit>
       <trans-unit id="797eb29381132df5a71378b71b3237cf9a063b5c" resname="tab.relations.reverse_relations">
         <source>Reverse relations (content items using %contentName%)</source>
-        <target xml:lang="pl" state="translated">Powiązania odwrotne (elementy używające %contentName%)</target>
+        <target xml:lang="pl" state="translated">Powiązania zwrotne (elementy używające %contentName%)</target>
         <note>key: tab.relations.reverse_relations</note>
+        <alt-trans>
+          <target xml:lang="pl">Powiązania odwrotne (elementy używające %contentName%)</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="d667f9ef2cf04ce8966bc908b8930be596925561" resname="tab.relations.table.content_type">
         <source>Content type</source>
