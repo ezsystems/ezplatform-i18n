@@ -379,8 +379,14 @@
       </trans-unit>
       <trans-unit id="5022ce879be6a69956541173bf658dccff5d7280" resname="tab.translations.add.base_language">
         <source>Base this translation on an existing translation</source>
-        <target xml:lang="pl" state="translated">Bazuj to tłumaczenie na już istniejącym</target>
+        <target xml:lang="pl" state="translated">Bazuj na istniejącym tłumaczeniu</target>
         <note>key: tab.translations.add.base_language</note>
+        <alt-trans>
+          <target xml:lang="pl">Oprzyj to tłumaczenie na już istniejącym</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="pl">Bazuj to tłumaczenie na już istniejącym</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel">
         <source>Cancel</source>
@@ -389,8 +395,11 @@
       </trans-unit>
       <trans-unit id="fe6c962e1d0766f59a66d3766c56edffdce6735d" resname="tab.translations.add.language">
         <source>Select a language for your new translation</source>
-        <target xml:lang="pl" state="translated">Wybierz język dla nowego tłumaczenia</target>
+        <target xml:lang="pl" state="translated">Wybierz język nowego tłumaczenia</target>
         <note>key: tab.translations.add.language</note>
+        <alt-trans>
+          <target xml:lang="pl">Wybierz język dla nowego tłumaczenia</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="2d1ceec2bfb85db323e21e358b6be6aad547e1d0" resname="tab.translations.add.title">
         <source>Create new translation</source>
@@ -404,8 +413,11 @@
       </trans-unit>
       <trans-unit id="0becdca42cbaa039a6166b8aa778a86657bb362f" resname="tab.translations.language_name">
         <source>Language name</source>
-        <target xml:lang="pl" state="translated">Nazwa języka</target>
+        <target xml:lang="pl" state="translated">Język</target>
         <note>key: tab.translations.language_name</note>
+        <alt-trans>
+          <target xml:lang="pl">Nazwa języka</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="e8d52c9e980661178d301e925ac8c74661b4350d" resname="tab.translations.modal.message">
         <source>Do you want to delete Translation?</source>
@@ -414,8 +426,11 @@
       </trans-unit>
       <trans-unit id="852ca97b78e55e9b7734ff3e5a6c1b3fde6eca6f" resname="tab.translations.translation_manger">
         <source>Translation manager</source>
-        <target xml:lang="pl" state="translated">Zarządzaj tłumaczeniami</target>
+        <target xml:lang="pl" state="translated">Zarządzanie tłumaczeniami</target>
         <note>key: tab.translations.translation_manger</note>
+        <alt-trans>
+          <target xml:lang="pl">Zarządzaj tłumaczeniami</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="a4297fe31e8eb3307caa2cf855328056c3b98962" resname="tab.versions.action.delete">
         <source>Delete Version</source>
