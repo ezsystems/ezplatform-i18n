@@ -86,8 +86,14 @@
       </trans-unit>
       <trans-unit id="1a3bc0622c5d839ed1a8ef9f32bd5dd9e5cfb479" resname="fieldtype.binary_base.drag_drop">
         <source>Drag and drop your files on browser window or upload them</source>
-        <target xml:lang="pl" state="translated">Przeciągnij pliki na okno przeglądarki lub wgraj je</target>
+        <target xml:lang="pl" state="translated">Przeciągnij pliki do okna przeglądarki lub prześlij je</target>
         <note>key: fieldtype.binary_base.drag_drop</note>
+        <alt-trans>
+          <target xml:lang="pl">Przeciągnij pliki do okna przeglądarki lub wybierz je</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="pl">Przeciągnij pliki na okno przeglądarki lub wgraj je</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="858c986173f1ef87d7acda017535b86f01bca87d" resname="fieldtype.binary_base.max_file_size">
         <source>Max file size: %size%</source>
