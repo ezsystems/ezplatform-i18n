@@ -44,28 +44,49 @@
       </trans-unit>
       <trans-unit id="e84da49f6798548a0e09f5f7d5095788257f0119" resname="tab.urls.add.redirect.helper.checked">
         <source>Checked will redirect to the destination using an HTTP 301 response.</source>
-        <target xml:lang="pl" state="translated">Zaznaczenie spowoduje przekierowanie przy użyciu odpowiedzi HTTP 301</target>
+        <target xml:lang="pl" state="translated">Zaznaczony przekierowuje przy użyciu odpowiedzi HTTP 301.</target>
         <note>key: tab.urls.add.redirect.helper.checked</note>
+        <alt-trans>
+          <target xml:lang="pl">Zaznaczenie spowoduje przekierowanie przy użyciu odpowiedzi HTTP 301</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="bccfa7be40c2932ae04a50767aee2184bd5ca4d5" resname="tab.urls.add.redirect.helper.unchecked">
         <source>Unchecked will not redirect to the destination and the URL will stay the same.</source>
-        <target xml:lang="pl" state="translated">Odznaczenie  nie spowoduje przekierowania pod docelowy adres, a URL pozostanie ten sam.</target>
+        <target xml:lang="pl" state="translated">Odznaczony nie przekieruje pod docelowy adres, a URL pozostanie ten sam.</target>
         <note>key: tab.urls.add.redirect.helper.unchecked</note>
+        <alt-trans>
+          <target xml:lang="pl">Odznaczenie  nie spowoduje przekierowania pod docelowy adres, a URL pozostanie ten sam.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="9ef990fca45f612ab2d3af7b21968803d76d5d77" resname="tab.urls.add.site_root">
         <source>Place alias at the site root</source>
-        <target xml:lang="pl" state="translated">Umieść alias w katalogu głównym serwisu</target>
+        <target xml:lang="pl" state="translated">Utwórz alias w katalogu głównym strony</target>
         <note>key: tab.urls.add.site_root</note>
+        <alt-trans>
+          <target xml:lang="pl">Umieść alias w katalogu głównym strony</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="pl">Umieść alias w katalogu głównym serwisu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="9fc6fbd86b58ee883321610dd1726551772edaf1" resname="tab.urls.add.site_root.helper.checked">
         <source>Checked will create the alias at the site root.</source>
-        <target xml:lang="pl" state="translated">Zaznaczenie spowoduje utworzenie aliasu w katalogu głównym serwisu.</target>
+        <target xml:lang="pl" state="translated">Zaznaczony utworzy alias w katalogu głównym strony.</target>
         <note>key: tab.urls.add.site_root.helper.checked</note>
+        <alt-trans>
+          <target xml:lang="pl">Zaznaczenie spowoduje utworzenie aliasu w katalogu głównym serwisu.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="db531fb5f993263b5ea57393101781b9d731a738" resname="tab.urls.add.site_root.helper.unchecked">
         <source>Unchecked will create the new alias under %parent_name%</source>
-        <target xml:lang="pl" state="translated">Odznaczenie utworzy nowy alias pod %parent_name%</target>
+        <target xml:lang="pl" state="translated">Odznaczony utworzy nowy alias pod %parent_name%.</target>
         <note>key: tab.urls.add.site_root.helper.unchecked</note>
+        <alt-trans>
+          <target xml:lang="pl">Odznaczony utworzy nowy alias pod %parent_name%</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="pl">Odznaczenie utworzy nowy alias pod %parent_name%</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="25badd959ce69714e8eb349ebddbbbe126c14458" resname="tab.urls.add.title">
         <source>Create new URL alias</source>
