@@ -211,8 +211,11 @@
       </trans-unit>
       <trans-unit id="1152c93462d8bed85642b961f01ed63a6f2525ab" resname="tab.locations.location_content_swap">
         <source>Location Content Swap</source>
-        <target xml:lang="pl" state="translated">Zamiana lokalizacji treści</target>
+        <target xml:lang="pl" state="translated">Zamiana lokalizacji</target>
         <note>key: tab.locations.location_content_swap</note>
+        <alt-trans>
+          <target xml:lang="pl">Zamiana lokalizacji treści</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="27d429c3dcff70494c4080957b05a9db5255f854" resname="tab.locations.swap_with_another">
         <source>Swap the content item at this location with another</source>
