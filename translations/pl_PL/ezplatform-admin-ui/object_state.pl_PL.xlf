@@ -6,12 +6,12 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="a6cf9ca3d83b39f13cb571316b79b4b95200a631" resname="content_object_state.update.success">
+      <trans-unit id="a6cf9ca3d83b39f13cb571316b79b4b95200a631" resname="content_object_state.update.success" approved="yes">
         <source>Content object state '%name%' updated.</source>
         <target xml:lang="pl" state="translated">Zaktualizowano stan obiektów '%name%'.</target>
         <note>key: content_object_state.update.success</note>
       </trans-unit>
-      <trans-unit id="bd73283563c378ed123d629e000e2f45dc85811f" resname="object_state.breadcrumb.add">
+      <trans-unit id="bd73283563c378ed123d629e000e2f45dc85811f" resname="object_state.breadcrumb.add" approved="yes">
         <source>Creating a new Object State</source>
         <target xml:lang="pl" state="translated">Tworzenie nowego stanu obiektów</target>
         <note>key: object_state.breadcrumb.add</note>
