@@ -85,6 +85,9 @@
         <source>Content name pattern</source>
         <target xml:lang="pl">Schemat budowania nazw dla tego typu treści</target>
         <note>key: content_type.name_schema</note>
+        <alt-trans>
+          <target xml:lang="pl">Schemat tworzenia nazwy</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="49e5f320e6e37cbd53a5d290e3ffd48788226852" resname="content_type.publish" approved="yes">
         <source>OK</source>
