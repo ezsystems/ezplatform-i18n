@@ -321,8 +321,11 @@
       </trans-unit>
       <trans-unit id="951ac18ce3ab253f9de7fd9caef6636b18edd1c3" resname="sidebar_left__browse">
         <source>Browse</source>
-        <target xml:lang="pl" state="translated">Przeglądanie</target>
+        <target xml:lang="pl" state="translated">Przeglądaj</target>
         <note>key: sidebar_left__browse</note>
+        <alt-trans>
+          <target xml:lang="pl">Przeglądanie</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="e3401271f3c6a0f8c88b0fa500d2c97eb5e33ff0" resname="sidebar_left__search">
         <source>Search</source>
