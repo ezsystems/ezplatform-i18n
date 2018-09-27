@@ -106,8 +106,11 @@
       </trans-unit>
       <trans-unit id="8812f90c2fc0831af508c0971285dc125a68efc7" resname="ezplatform.language.update.enabled">
         <source>Enabled</source>
-        <target xml:lang="pl" state="translated">Włączony</target>
+        <target xml:lang="pl" state="translated">Aktywny</target>
         <note>key: ezplatform.language.update.enabled</note>
+        <alt-trans>
+          <target xml:lang="pl">Włączony</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="2ec293c62175282c5a3ff7a75a56093446485dad" resname="ezplatform.language.update.name">
         <source>Name</source>
