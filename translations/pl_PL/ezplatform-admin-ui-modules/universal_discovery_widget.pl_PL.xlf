@@ -206,6 +206,11 @@
         <target xml:lang="pl" state="translated">Wybrane elementy</target>
         <note>key: select_content.confirmed_items.title</note>
       </trans-unit>
+      <trans-unit id="86535815d7e1e8cfb646988cd6049bbf3f2ab4e9" resname="select_content.limit.label">
+        <source>Limit %items% max</source>
+        <target xml:lang="pl" state="translated">Maksymalny limit %items%</target>
+        <note>key: select_content.limit.label</note>
+      </trans-unit>
       <trans-unit id="7f49fb26a42bf2c8f67a41c45c1871edf5f75ec7" resname="select_content.no_confirmed_content.title">
         <source>No confirmed content yet</source>
         <target xml:lang="pl" state="translated">Brak wybranych elementów</target>
