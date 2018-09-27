@@ -118,8 +118,11 @@
       </trans-unit>
       <trans-unit id="8bce9f0cf5c9c698c1907808aa20cfa0b1ec9ecb" resname="symfony_kernel.cacheDir">
         <source>Cache directory</source>
-        <target xml:lang="pl" state="translated">Ścieżka cache</target>
+        <target xml:lang="pl" state="translated">Katalog cache</target>
         <note>key: symfony_kernel.cacheDir</note>
+        <alt-trans>
+          <target xml:lang="pl">Ścieżka cache</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="74d0f849585c3bfe67e3477d0773fd8f097bd54d" resname="symfony_kernel.charset">
         <source>Character set</source>
