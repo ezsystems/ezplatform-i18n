@@ -146,27 +146,30 @@
         <target xml:lang="pl" state="translated">Spróbuj innych słów kluczowych.</target>
         <note>key: search.tips.different_keywords</note>
       </trans-unit>
-      <trans-unit id="013ced9a3284ecebf5a5356397dc9a79eaf76496" resname="search.tips.fewer_keywords">
+      <trans-unit id="013ced9a3284ecebf5a5356397dc9a79eaf76496" resname="search.tips.fewer_keywords" approved="yes">
         <source>Try fewer keywords. Reducing keywords result in more matches.</source>
         <target xml:lang="pl" state="translated">Spróbuj mniejszej liczby słów kluczowych, zaowocuje to większą liczbą trafień.</target>
         <note>key: search.tips.fewer_keywords</note>
       </trans-unit>
-      <trans-unit id="4af1e76946070e5f61320621d12a171f4206e06c" resname="search.tips.headline">
+      <trans-unit id="4af1e76946070e5f61320621d12a171f4206e06c" resname="search.tips.headline" approved="yes">
         <source>Some helpful search tips:</source>
         <target xml:lang="pl" state="translated">Klika wskazówek dotyczących wyszukiwania:</target>
         <note>key: search.tips.headline</note>
       </trans-unit>
-      <trans-unit id="dd61516edc919235a13e3cfadb5d961b8614b744" resname="search.tips.more_general_keywords">
+      <trans-unit id="dd61516edc919235a13e3cfadb5d961b8614b744" resname="search.tips.more_general_keywords" approved="yes">
         <source>Try more general keywords.</source>
-        <target xml:lang="pl" state="translated">Spróbuj więcej ogólnikowych słów kluczowych.</target>
+        <target xml:lang="pl" state="translated">Spróbuj użyć bardziej ogólnych słów kluczowych.</target>
         <note>key: search.tips.more_general_keywords</note>
+        <alt-trans>
+          <target xml:lang="pl">Spróbuj więcej ogólnikowych słów kluczowych.</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type">
+      <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type" approved="yes">
         <source>Content Type</source>
         <target xml:lang="pl" state="translated">Typ treści</target>
         <note>key: search.type</note>
       </trans-unit>
-      <trans-unit id="fe647ff0e12d67501403559464217be468dba3d8" resname="search.viewing">
+      <trans-unit id="fe647ff0e12d67501403559464217be468dba3d8" resname="search.viewing" approved="yes">
         <source>Viewing %viewing% out of %total% sub-items</source>
         <target xml:lang="pl" state="translated">Wyświetlane %viewing% z %total% podelementów</target>
         <note>key: search.viewing</note>
