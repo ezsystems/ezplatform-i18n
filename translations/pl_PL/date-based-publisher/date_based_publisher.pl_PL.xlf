@@ -6,17 +6,23 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="83d2e0cd1746c268c5117d780a245b996c3964ba" resname="content.deleted">
+      <trans-unit id="83d2e0cd1746c268c5117d780a245b996c3964ba" resname="content.deleted" approved="yes">
         <source>Content deleted</source>
-        <target xml:lang="pl" state="translated">Treść usunięta</target>
+        <target xml:lang="pl" state="translated">Element usunięty</target>
         <note>key: content.deleted</note>
+        <alt-trans>
+          <target xml:lang="pl">Treść usunięta</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="e7818e3c5b5f9b8bda55a4ced6b8934d8f82607e" resname="content.in_review">
+      <trans-unit id="e7818e3c5b5f9b8bda55a4ced6b8934d8f82607e" resname="content.in_review" approved="yes">
         <source>Content sent to review</source>
-        <target xml:lang="pl" state="translated">Treść przesłana do sprawdzenia</target>
+        <target xml:lang="pl" state="translated">Przesłano do recenzji</target>
         <note>key: content.in_review</note>
+        <alt-trans>
+          <target xml:lang="pl">Treść przesłana do sprawdzenia</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="efeb6a6207370ab249436a8d9e0eaff02a5efb79" resname="content.publish_later.read_more">
+      <trans-unit id="efeb6a6207370ab249436a8d9e0eaff02a5efb79" resname="content.publish_later.read_more" approved="yes">
         <source><![CDATA[Read more &raquo;]]></source>
         <target xml:lang="pl" state="translated"><![CDATA[Czytaj więcej &raquo;]]></target>
         <note>key: content.publish_later.read_more</note>
