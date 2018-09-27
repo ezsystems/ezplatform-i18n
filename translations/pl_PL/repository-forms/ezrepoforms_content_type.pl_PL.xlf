@@ -482,8 +482,11 @@
       </trans-unit>
       <trans-unit id="83aba8c0c4c654d481c4520feb76e789fbc64c22" resname="field_definition.is_translatable" approved="yes">
         <source>Translatable</source>
-        <target xml:lang="pl">Można przetłumaczyć</target>
+        <target xml:lang="pl">Można tłumaczyć</target>
         <note>key: field_definition.is_translatable</note>
+        <alt-trans>
+          <target xml:lang="pl">Można przetłumaczyć</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="9a02e329edf4c1e41c97c8be922137c284c249c4" resname="field_definition.name" approved="yes">
         <source>Name</source>
