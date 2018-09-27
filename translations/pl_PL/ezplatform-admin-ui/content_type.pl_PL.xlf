@@ -33,8 +33,11 @@
       </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
-        <target xml:lang="pl" state="translated">Może posiadać elementy podrzędne</target>
+        <target xml:lang="pl" state="translated">Może zawierać podelementy</target>
         <note>key: content_type.container</note>
+        <alt-trans>
+          <target xml:lang="pl">Może posiadać elementy podrzędne</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="694d6cbecfee848cf42a300c0b310f45ece6a09b" resname="content_type.content_field_definitions">
         <source>Content field definitions</source>
@@ -63,8 +66,11 @@
       </trans-unit>
       <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting">
         <source>Default field for sorting children</source>
-        <target xml:lang="pl" state="translated">Domyślne pole używane do sortowania elementów podrzędnych</target>
+        <target xml:lang="pl" state="translated">Domyślne pole do sortowania podelementów</target>
         <note>key: content_type.default_children_sorting</note>
+        <alt-trans>
+          <target xml:lang="pl">Domyślne pole używane do sortowania elementów podrzędnych</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
         <source>Default sort order</source>
@@ -113,8 +119,11 @@
       </trans-unit>
       <trans-unit id="9e9628fc59643f3167ebe81dfed3e40eecd281c9" resname="content_type.name_schema">
         <source>Content name pattern</source>
-        <target xml:lang="pl" state="translated">Schemat budowania nazw dla tego typu treści</target>
+        <target xml:lang="pl" state="translated">Schemat tworzenia nazwy</target>
         <note>key: content_type.name_schema</note>
+        <alt-trans>
+          <target xml:lang="pl">Schemat budowania nazw dla tego typu treści</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="da59e6ae77cae375a30d7285970b1b2d9690049e" resname="content_type.sort_field.ascending">
         <source>Ascending</source>
@@ -178,8 +187,11 @@
       </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
         <source>URL alias name pattern</source>
-        <target xml:lang="pl" state="translated">Szablon aliasu URL</target>
+        <target xml:lang="pl" state="translated">Schemat tworzenia nazwy aliasu URL</target>
         <note>key: content_type.url_alias_schema</note>
+        <alt-trans>
+          <target xml:lang="pl">Szablon aliasu URL</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="30f5ddb258e0ab8c31381ec10d9a90f7071bbf6f" resname="content_type.user_name.can_not_be_fetched">
         <source>another user</source>
