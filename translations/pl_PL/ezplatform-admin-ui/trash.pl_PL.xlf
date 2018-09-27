@@ -89,8 +89,11 @@
       </trans-unit>
       <trans-unit id="04098b87c58e41ab39820db75eee1d13856f9616" resname="trash.type">
         <source>Type</source>
-        <target xml:lang="pl" state="translated">Rodzaj bazy danych</target>
+        <target xml:lang="pl" state="translated">Typ</target>
         <note>key: trash.type</note>
+        <alt-trans>
+          <target xml:lang="pl">Rodzaj bazy danych</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
