@@ -6,6 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="dfbc84f747379ac08358ac78f5756d91dc9dd715" resname="config_form.block_config.embed_field_base.udw.title">
+        <source>Browse content</source>
+        <target xml:lang="pl" state="translated">Przeglądaj treści</target>
+        <note>key: config_form.block_config.embed_field_base.udw.title</note>
+      </trans-unit>
+      <trans-unit id="1cea3c1fab7233ec7948b0aa22fb3e45643b7a9a" resname="config_form.widgets.collection.udw.title">
+        <source>Select content</source>
+        <target xml:lang="pl" state="translated">Wybierz element</target>
+        <note>key: config_form.widgets.collection.udw.title</note>
+      </trans-unit>
       <trans-unit id="5a88a93c8b1cd819dc183fcd3b252b24acbe487b" resname="config_popup.close.label">
         <source>Close</source>
         <target xml:lang="pl" state="translated">Zamknij</target>
@@ -15,6 +25,11 @@
         <source>Empty block: %type%. Click here to show action menu.</source>
         <target xml:lang="pl" state="translated">Pusty blok: %type%. Kliknij aby wyświetlić menu.</target>
         <note>key: empty_block.info.text</note>
+      </trans-unit>
+      <trans-unit id="36cdc651708919d9a830acb2c742b325fd23aeb5" resname="error.message">
+        <source>Something went wrong</source>
+        <target xml:lang="pl" state="translated">Coś poszło nie tak</target>
+        <note>key: error.message</note>
       </trans-unit>
       <trans-unit id="4a59666b61e8dc389b7390ad051bb8ef705ae1e4" resname="fieldtype.landing_page.missing_proper_configuration.error.message">
         <source>Some blocks are missing proper configuration</source>
