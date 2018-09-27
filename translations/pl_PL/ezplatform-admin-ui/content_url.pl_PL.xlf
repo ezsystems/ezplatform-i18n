@@ -33,8 +33,14 @@
       </trans-unit>
       <trans-unit id="89135eef0092aa6e6609d38d013230705894f219" resname="tab.urls.add.redirect">
         <source>Alias should redirect to its destination</source>
-        <target xml:lang="pl" state="translated">Alias powinien przekierowywać do przeznaczonego miejsca</target>
+        <target xml:lang="pl" state="translated">Alias powinien przekierowywać do adresu docelowego</target>
         <note>key: tab.urls.add.redirect</note>
+        <alt-trans>
+          <target xml:lang="pl">Alias powinien przekierowywać do adresu docelowego:</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="pl">Alias powinien przekierowywać do przeznaczonego miejsca</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="e84da49f6798548a0e09f5f7d5095788257f0119" resname="tab.urls.add.redirect.helper.checked">
         <source>Checked will redirect to the destination using an HTTP 301 response.</source>
@@ -68,8 +74,11 @@
       </trans-unit>
       <trans-unit id="d244966cab8b41f92fd5553d8f33f0e1ca8bf85f" resname="tab.urls.custom_url_aliases">
         <source>Custom URL aliases for %contentName%</source>
-        <target xml:lang="pl" state="translated">Własne aliasy URL dla %contentName%</target>
+        <target xml:lang="pl" state="translated">Dodatkowe aliasy URL dla %contentName%</target>
         <note>key: tab.urls.custom_url_aliases</note>
+        <alt-trans>
+          <target xml:lang="pl">Własne aliasy URL dla %contentName%</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="5a1947624cf55689d80d38b7583bac538da641bb" resname="tab.urls.language">
         <source>Language</source>
@@ -88,8 +97,14 @@
       </trans-unit>
       <trans-unit id="56d218db883ed4cc59dbbca53364dc2e725013e4" resname="tab.urls.no_custom_urls">
         <source>This content item has no custom url aliases.</source>
-        <target xml:lang="pl" state="translated">Ten obiekt nie posiada dodatkowych własnych aliasów URL.</target>
+        <target xml:lang="pl" state="translated">Ten element nie posiada dodatkowych aliasów URL.</target>
         <note>key: tab.urls.no_custom_urls</note>
+        <alt-trans>
+          <target xml:lang="pl">Ten obiekt nie posiada dodatkowych aliasów URL.</target>
+        </alt-trans>
+        <alt-trans>
+          <target xml:lang="pl">Ten obiekt nie posiada dodatkowych własnych aliasów URL.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="c9fdd1434b44a4592626e8fe493c19141aab24d5" resname="tab.urls.no_system_urls">
         <source>This content item has no system urls.</source>
