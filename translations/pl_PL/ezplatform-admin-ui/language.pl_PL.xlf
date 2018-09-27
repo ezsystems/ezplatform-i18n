@@ -54,13 +54,19 @@
       </trans-unit>
       <trans-unit id="065fdff561c25266ec49bbdaf8c5d0bdd6e9dd7f" resname="language.enabled">
         <source>Enabled</source>
-        <target xml:lang="pl" state="translated">Włączony</target>
+        <target xml:lang="pl" state="translated">Aktywny</target>
         <note>key: language.enabled</note>
+        <alt-trans>
+          <target xml:lang="pl">Włączony</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="11f29ad3c27254c1fea1d685b1961546d4949553" resname="language.enabled.label">
         <source>Enabled</source>
-        <target xml:lang="pl" state="translated">Włączony</target>
+        <target xml:lang="pl" state="translated">Aktywny</target>
         <note>key: language.enabled.label</note>
+        <alt-trans>
+          <target xml:lang="pl">Włączony</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="0367aa925124b3d8db3ea8b85ae45ffecdafbf7c" resname="language.form.cancel">
         <source>Cancel</source>
