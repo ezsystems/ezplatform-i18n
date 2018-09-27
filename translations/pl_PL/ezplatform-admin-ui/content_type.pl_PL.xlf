@@ -193,8 +193,11 @@
       </trans-unit>
       <trans-unit id="2ce3314c2ca5e24215b0935148a3693ba4fda221" resname="content_type.view.create.global_properties">
         <source>Global properties</source>
-        <target xml:lang="pl" state="translated">Globalne właściwości</target>
+        <target xml:lang="pl" state="translated">Właściwości ogólne</target>
         <note>key: content_type.view.create.global_properties</note>
+        <alt-trans>
+          <target xml:lang="pl">Globalne właściwości</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="4f63ade40ae91a9ad39e4be7b9e4f51003f1f4b3" resname="content_type.view.create.title">
         <source>Creating a new Content Type</source>
@@ -353,8 +356,11 @@
       </trans-unit>
       <trans-unit id="125bee275441fe2bd28cb9388b790c634d8ae3c6" resname="content_type_group.view.list.column.content_types_count">
         <source>Content Types count</source>
-        <target xml:lang="pl" state="translated">Ilość typów treści</target>
+        <target xml:lang="pl" state="translated">Liczba typów treści</target>
         <note>key: content_type_group.view.list.column.content_types_count</note>
+        <alt-trans>
+          <target xml:lang="pl">Ilość typów treści</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="cd462ce30cd4d0b21393e24ca2c9e974369c1f57" resname="content_type_group.view.list.column.id">
         <source>ID</source>
