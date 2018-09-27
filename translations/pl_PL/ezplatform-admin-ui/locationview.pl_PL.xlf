@@ -28,8 +28,11 @@
       </trans-unit>
       <trans-unit id="9c91d85bc7658ec7dc6bbb07b720979177c0846a" resname="content.view.subitems">
         <source>Sub-items</source>
-        <target xml:lang="pl" state="translated">Elementy podrzędne</target>
+        <target xml:lang="pl" state="translated">Podelementy</target>
         <note>key: content.view.subitems</note>
+        <alt-trans>
+          <target xml:lang="pl">Elementy podrzędne</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="eeb49235f0e3b40e651725430b85a2885174bd2b" resname="location.bookmark.add">
         <source>Add to Bookmarks</source>
@@ -43,8 +46,11 @@
       </trans-unit>
       <trans-unit id="c0b36efcf0ebbe2ac0f9861cae35e12e668cbcc0" resname="tab.details.content_details">
         <source>Content details</source>
-        <target xml:lang="pl" state="translated">Szczegóły elementu</target>
+        <target xml:lang="pl" state="translated">Dane szczegółowe</target>
         <note>key: tab.details.content_details</note>
+        <alt-trans>
+          <target xml:lang="pl">Szczegóły elementu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="6e1488d3bb54efc176d8766d3c22751b06890e2f" resname="tab.details.content_id">
         <source>Content ID</source>
@@ -88,13 +94,19 @@
       </trans-unit>
       <trans-unit id="26bd81ee7b010fa5846859eb4c2464764effeb81" resname="tab.details.published_version">
         <source>Published version</source>
-        <target xml:lang="pl" state="translated">Wersja opublikowana</target>
+        <target xml:lang="pl" state="translated">Opublikowana wersja</target>
         <note>key: tab.details.published_version</note>
+        <alt-trans>
+          <target xml:lang="pl">Wersja opublikowana</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="cd8ccac573601690d7e364174cf3fb8a931c805e" resname="tab.details.section_details">
         <source>Section details</source>
-        <target xml:lang="pl" state="translated">Szczegóły sekcji</target>
+        <target xml:lang="pl" state="translated">Dane sekcji</target>
         <note>key: tab.details.section_details</note>
+        <alt-trans>
+          <target xml:lang="pl">Szczegóły sekcji</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="67ff5cca435b058142e77b820d5d72090fa26346" resname="tab.details.section_id">
         <source>Section ID</source>
@@ -113,8 +125,11 @@
       </trans-unit>
       <trans-unit id="6ba61ac8194e021eb1515cc2d3d33ff006e2d55d" resname="tab.details.state_details">
         <source>State details</source>
-        <target xml:lang="pl" state="translated">Szczegóły stanu</target>
+        <target xml:lang="pl" state="translated">Dane stanu</target>
         <note>key: tab.details.state_details</note>
+        <alt-trans>
+          <target xml:lang="pl">Szczegóły stanu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="bbbd7d6b2d1c59cedd3012f3d4375ade8cc50c15" resname="tab.details.state_group_id">
         <source>Group ID</source>
@@ -171,8 +186,11 @@
       </trans-unit>
       <trans-unit id="09fcd5ad39b9c2b778be171f88559f6c117ff48b" resname="tab.details.technical_details">
         <source>Technical details</source>
-        <target xml:lang="pl" state="translated">Szczegóły techniczne</target>
+        <target xml:lang="pl" state="translated">Dane techniczne</target>
         <note>key: tab.details.technical_details</note>
+        <alt-trans>
+          <target xml:lang="pl">Szczegóły techniczne</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="69ca343732e6be688ff4606c3a9b15d83d531233" resname="tab.details.translations">
         <source>Translations</source>
@@ -221,8 +239,11 @@
       </trans-unit>
       <trans-unit id="b5d6fe3a752b0c391bfa751acb7c4c3ac82e2c0c" resname="tab.locations.subitems">
         <source>Sub-items</source>
-        <target xml:lang="pl" state="translated">Elementy podrzędne</target>
+        <target xml:lang="pl" state="translated">Podelementy</target>
         <note>key: tab.locations.subitems</note>
+        <alt-trans>
+          <target xml:lang="pl">Elementy podrzędne</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="1932d409236634ffbe828e683f35db760ec25323" resname="tab.locations.visibility">
         <source>Visibility</source>
@@ -417,8 +438,11 @@
       </trans-unit>
       <trans-unit id="f6c48627db1d026d9f3fbc3b5b1cb1b3c60af4b3" resname="tab.versions.published_version">
         <source>Published version</source>
-        <target xml:lang="pl" state="translated">Wersja opublikowana</target>
+        <target xml:lang="pl" state="translated">Opublikowana wersja</target>
         <note>key: tab.versions.published_version</note>
+        <alt-trans>
+          <target xml:lang="pl">Wersja opublikowana</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="d2e707023baa6830915c5d12b915974d627522e4" resname="tab.versions.table.action.archived.edit">
         <source>Restore Archived Version</source>
@@ -437,8 +461,11 @@
       </trans-unit>
       <trans-unit id="4c27637d649c221e58c6a9629f14a2f75aeed151" resname="tab.versions.table.contributor">
         <source>Contributor</source>
-        <target xml:lang="pl" state="translated">Współtwórca</target>
+        <target xml:lang="pl" state="translated">Twórca</target>
         <note>key: tab.versions.table.contributor</note>
+        <alt-trans>
+          <target xml:lang="pl">Współtwórca</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="4c6353b63f5bc2031c8380c4007edf9c5f6be456" resname="tab.versions.table.created">
         <source>Created</source>
