@@ -206,6 +206,16 @@
         <target xml:lang="pl" state="translated">Wybrane elementy</target>
         <note>key: select_content.confirmed_items.title</note>
       </trans-unit>
+      <trans-unit id="7f49fb26a42bf2c8f67a41c45c1871edf5f75ec7" resname="select_content.no_confirmed_content.title">
+        <source>No confirmed content yet</source>
+        <target xml:lang="pl" state="translated">Brak wybranych elementów</target>
+        <note>key: select_content.no_confirmed_content.title</note>
+      </trans-unit>
+      <trans-unit id="1ca7c6075ce2a6c2a9f9657526bde3d21e4e51a3" resname="select_content.not_available.label">
+        <source>N/A</source>
+        <target xml:lang="pl" state="translated">N/A</target>
+        <note>key: select_content.not_available.label</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
