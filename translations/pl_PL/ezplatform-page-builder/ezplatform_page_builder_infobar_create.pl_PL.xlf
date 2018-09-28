@@ -11,7 +11,7 @@
         <target xml:lang="pl" state="translated">Tworzenie nowej Landing Page</target>
         <note>key: context.creating_new_landing_page</note>
       </trans-unit>
-      <trans-unit id="b8a74ee93a78609c69343a3667b60bac64dc1d04" resname="infobar.mode.preview_language">
+      <trans-unit id="b8a74ee93a78609c69343a3667b60bac64dc1d04" resname="infobar.mode.preview_language" approved="yes">
         <source>Language</source>
         <target xml:lang="pl" state="translated">Język</target>
         <note>key: infobar.mode.preview_language</note>
