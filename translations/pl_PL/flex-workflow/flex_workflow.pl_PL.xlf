@@ -34,10 +34,13 @@
           <target xml:lang="pl">Podaj treść wiadomości...</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="48ec0a3b5f9bf96775a010f49c2ca83fa5a6d9d5" resname="content.review.read_more">
+      <trans-unit id="48ec0a3b5f9bf96775a010f49c2ca83fa5a6d9d5" resname="content.review.read_more" approved="yes">
         <source><![CDATA[Read more &raquo;]]></source>
-        <target xml:lang="pl" state="translated"><![CDATA[Czytaj więcej &raquo;]]></target>
+        <target xml:lang="pl" state="translated"><![CDATA[Czytaj dalej &raquo;]]></target>
         <note>key: content.review.read_more</note>
+        <alt-trans>
+          <target xml:lang="pl"><![CDATA[Czytaj więcej &raquo;]]></target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="b19cf3651ea59d72545d9e67ccdcd5c4241a0681" resname="content.review.request" approved="yes">
         <source>Content review request</source>
