@@ -93,17 +93,20 @@
           <target xml:lang="pl">Nie można wysłać treście do zatwierdzenia: %reason%</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="dc6d3555eccf09627c710b91bee7a2115ff26e78" resname="flex_workflow.success.send_to_review">
+      <trans-unit id="dc6d3555eccf09627c710b91bee7a2115ff26e78" resname="flex_workflow.success.send_to_review" approved="yes">
         <source>Content sent for review.</source>
-        <target xml:lang="pl" state="translated">Treść wysłana do zatwierdzenia.</target>
+        <target xml:lang="pl" state="translated">Element wysłany do zatwierdzenia.</target>
         <note>key: flex_workflow.success.send_to_review</note>
+        <alt-trans>
+          <target xml:lang="pl">Treść wysłana do zatwierdzenia.</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit id="06a48339bcee7f4409c1a1a58e1cbf57927783d3" resname="menu.flex_workflow">
+      <trans-unit id="06a48339bcee7f4409c1a1a58e1cbf57927783d3" resname="menu.flex_workflow" approved="yes">
         <source>Send for review</source>
         <target xml:lang="pl" state="translated">Wyślij do recenzji</target>
         <note>key: menu.flex_workflow</note>
       </trans-unit>
-      <trans-unit id="52301360c45fd1f17f0c98140c4dc5296ed08eb6" resname="send_for_review">
+      <trans-unit id="52301360c45fd1f17f0c98140c4dc5296ed08eb6" resname="send_for_review" approved="yes">
         <source>send_for_review</source>
         <target xml:lang="pl" state="translated">Wyślij do recenzji</target>
         <note>key: send_for_review</note>
