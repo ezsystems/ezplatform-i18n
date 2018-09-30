@@ -58,9 +58,12 @@
       </trans-unit>
       <trans-unit id="0b518af9d0e5e0471ad7c9aefbcda068ff71d0ab" resname="load_more.info.text" approved="yes">
         <source><![CDATA[Viewing <strong>%loaded%</strong> out of <strong>%total%</strong> sub-items]]></source>
-        <target xml:lang="hu" state="translated"><![CDATA[<strong>%loaded%</strong> megjelenítése ennyiből: <strong>%total%</strong> 
-]]></target>
+        <target xml:lang="hu" state="translated"><![CDATA[<strong>%loaded%</strong> megjelenítése ennyiből: <strong>%total%</strong>]]></target>
         <note>key: load_more.info.text</note>
+        <alt-trans>
+          <target xml:lang="hu"><![CDATA[<strong>%loaded%</strong> megjelenítése ennyiből: <strong>%total%</strong> 
+]]></target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="276a7024903672cd0476c82ba8845453e13db95e" resname="no_items.message" approved="yes">
         <source>This location has no sub-items</source>
