@@ -121,7 +121,7 @@
       </trans-unit>
       <trans-unit id="1f9b6e37416ff607de9d4fa280dce2f734ea622c" resname="section.list" approved="yes">
         <source>Sections</source>
-        <target xml:lang="it">Sezioni</target>
+        <target xml:lang="it" state="translated">Sezioni</target>
         <note>key: section.list</note>
         <jms:reference-file line="14">Resources/views/Dashboard/dashboard.html.twig</jms:reference-file>
         <jms:reference-file line="10">Resources/views/Section/create.html.twig</jms:reference-file>
@@ -145,7 +145,7 @@
       </trans-unit>
       <trans-unit id="12023a25e9c04ceef708820416f14a5a1e188688" resname="section.new" approved="yes">
         <source>Create a new section</source>
-        <target xml:lang="it">Crea una nuova Sezione</target>
+        <target xml:lang="it" state="translated">Crea una nuova Sezione</target>
         <note>key: section.new</note>
         <jms:reference-file line="105">Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="107">Resources/views/Section/list.html.twig</jms:reference-file>
