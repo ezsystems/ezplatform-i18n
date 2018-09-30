@@ -115,11 +115,73 @@
         <jms:reference-file>Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="86b1150b591a089eab73f5cb58fc11964ccb5f78" resname="date.not.valid.time.missing">
+        <source>Date do not have a valid input and time is missing</source>
+        <target xml:lang="es-ES" state="translated">La fecha no tiene un valor válido y falta la hora</target>
+        <note>key: date.not.valid.time.missing</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b262de6dff7418fd4c316ac5946911aff50c5df1" resname="date.not.valid.time.required">
+        <source>Date do not have a valid input and time is required</source>
+        <target xml:lang="es-ES" state="translated">La fecha no tiene un valor válido y es obligatorio incluir la hora</target>
+        <note>key: date.not.valid.time.required</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5ea84ba9d0dd61b9b47b2104f086c4770daf2c74" resname="date.placeholder">
+        <source>YYYY-MM-DD</source>
+        <target xml:lang="es-ES" state="translated">YYYY-MM-DD</target>
+        <note>key: date.placeholder</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/date.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="ac8b6151c30254609f6e9f2a7ab5c5570ea94dcd" resname="date.required">
         <source>Date is required</source>
         <target xml:lang="es-ES" state="translated">La Fecha es requerida</target>
         <note>key: date.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c1eee799ee7368e2089f1eb18e2431108253dc07" resname="date.time.required">
+        <source>Date and time are required</source>
+        <target xml:lang="es-ES" state="translated">La fecha y la hora son obligatorias</target>
+        <note>key: date.time.required</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a26a9e8cceea9e78f5ed30052cd1e0aa592498ca" resname="dateandtime.placeholder.date">
+        <source>YYYY-MM-DD</source>
+        <target xml:lang="es-ES" state="translated">YYYY-MM-DD</target>
+        <note>key: dateandtime.placeholder.date</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/dateandtime.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2cff2d354168b10a19b46934f9a205dfc13a0901" resname="dateandtime.placeholder.time.noseconds">
+        <source>hh:mm</source>
+        <target xml:lang="es-ES" state="translated">hh:mm</target>
+        <note>key: dateandtime.placeholder.time.noseconds</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/dateandtime.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="27990ecc05314691973682a4715a2db9893c0063" resname="dateandtime.placeholder.time.seconds">
+        <source>hh:mm:ss</source>
+        <target xml:lang="es-ES" state="translated">hh:mm:ss</target>
+        <note>key: dateandtime.placeholder.time.seconds</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/dateandtime.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3512b5e328b32d7ad9f98fa9fdc35df7f2207526" resname="dropped.several.files">
+        <source>You dropped several files while only one can be stored in this field. Please choose one file.</source>
+        <target xml:lang="es-ES" state="translated">Está intentando grabar varios archivos en un campo que solo permite uno. Por favor, seleccione un único archivo.</target>
+        <note>key: dropped.several.files</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="77e9dcf7fa3a6196173e1ef8d749321c078a61fb" resname="dropped.text.selection">
+        <source>You dropped a text selection while this field can only store a file. Please drop a file instead.</source>
+        <target xml:lang="es-ES" state="translated">Está intentando guardar una selección de texto pero este campo sólo puede guardar un archivo. Por favor, seleccione un archivo en su lugar.</target>
+        <note>key: dropped.text.selection</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7e57a01ae6b4b0385ec149a170df478fa2868f25" resname="email.not.valid">
+        <source>The email address should be valid</source>
+        <target xml:lang="es-ES" state="translated">La dirección de email debe ser válida</target>
+        <note>key: email.not.valid</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-emailaddress-editview.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="9c96ffba7a783d0786368dbf8b2b23dfc4188e66" resname="email.required">
         <source>The email address is required</source>
@@ -128,10 +190,115 @@
         <jms:reference-file>Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3baff585bf1b4c49f13ffa7f27f2afb737498a8c" resname="email.required.if.name.filled">
+        <source>The email address is required if the name is filled.</source>
+        <target xml:lang="es-ES" state="translated">La dirección de correo electrónico es necesaria si el nombre ha sido dado.</target>
+        <note>key: email.required.if.name.filled</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4681faa8e9e01a7b94ecbbc5f581b4d44a5e935d" resname="embed.content.not.loaded">
+        <source>Embedded Content item could not be loaded</source>
+        <target xml:lang="es-ES" state="translated">El contenido embebido no se ha podido cargar</target>
+        <note>key: embed.content.not.loaded</note>
+        <jms:reference-file>Resources/public/js/views/fields/richtext/ez-richtext-resolveembed.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0a60003c1459ed6556b63b64c050fd4d070d94e4" resname="error.during.geolocation.request">
+        <source>An error occurred during geolocation request of your current position</source>
+        <target xml:lang="es-ES" state="translated">Ocurrió un error durante la solicitud de geolocalización de su posición actual</target>
+        <note>key: error.during.geolocation.request</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9c74a8f5f67dd8e07a2912177bc6de9c9cde6d75" resname="failed.retrieve.google.maps.api">
+        <source>Failed to retrieve Google Maps API</source>
+        <target xml:lang="es-ES" state="translated">Error al recuperar el API de Google Maps</target>
+        <note>key: failed.retrieve.google.maps.api</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="48c7ad76114f57866321089105b2e7c0f2ea7806" resname="fieldedit.notTranslatable">
+        <source>This is not a translatable field and cannot be modified.</source>
+        <target xml:lang="es-ES" state="translated">Esto no es un campo traducible y no puede ser modificado.</target>
+        <note>key: fieldedit.notTranslatable</note>
+        <jms:reference-file>./Resources/public/templates/fields/edit/checkbox.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a64621b5af174b18350e8774d65ac227c79f0077" resname="file.size">
+        <source>(%size% bytes)</source>
+        <target xml:lang="es-ES" state="translated">(%size% bytes)</target>
+        <note>key: file.size</note>
+        <jms:reference-file>Resources/public/templates/fields/view/binaryfile.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c02ec1f84b17c734661c3a5935960b7392a3af2a" resname="float.value.should.be.less.than">
+        <source>The value should be less than or equal to %maxFloatValue%</source>
+        <target xml:lang="es-ES" state="translated">El valor debe ser menor o igual a %maxFloatValue%</target>
+        <note>key: float.value.should.be.less.than</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f29cb6461d72c2fe892e65d4dd7dd296ed5db961" resname="float.value.should.be.more.than">
+        <source>The value should be more than or equal to %minFloatValue%</source>
+        <target xml:lang="es-ES" state="translated">El valor debe ser más que o igual a %minFloatValue%</target>
+        <note>key: float.value.should.be.more.than</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0e560377b2f3909ebf37cd10977860242a93f694" resname="geocoding.error">
+        <source>An error occurred during the geocoding request for this address</source>
+        <target xml:lang="es-ES" state="translated">Se ha producido un error durante la solicitud de geocoding para esta dirección</target>
+        <note>key: geocoding.error</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="683f0d47319d2d3671eb34b0aab6bcc549b0ac5e" resname="google.map.not.loaded.correctly">
+        <source>Google maps are not loaded correctly, try reloading the page</source>
+        <target xml:lang="es-ES" state="translated">Los mapas de Google no se cargan correctamente, intente volver a cargar la página</target>
+        <note>key: google.map.not.loaded.correctly</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="5c973cf4cef4fd2936dbd1d7879ccdcd8b9e6ffe" resname="image.alternativetext">
         <source>Alternative text:</source>
         <target xml:lang="es-ES" state="translated">Texto alternativo:</target>
         <note>key: image.alternativetext</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b93ecd00f44abdce9d25bb437706b04329a172aa" resname="image.content.not.loaded">
+        <source>Image could not be loaded</source>
+        <target xml:lang="es-ES" state="translated">La imagen no pudo cargarse</target>
+        <note>key: image.content.not.loaded</note>
+        <jms:reference-file>Resources/public/js/views/fields/richtext/ez-richtext-resolveimage.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c21c1e24ffd073c7213022cf4d0cde8e94be62b8" resname="image.fullwidth">
+        <source>View the full width image</source>
+        <target xml:lang="es-ES" state="translated">Ver la imagen con el ancho original</target>
+        <note>key: image.fullwidth</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="es-ES">Ver la imagen con el ancho completo</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="421768b6fafc8049fe02c600c5bc6ecb8a5590c2" resname="image.help">
+        <source>Drag and drop your image here or simply click on the buttons and select your image manually.</source>
+        <target xml:lang="es-ES" state="translated">Arrastrar y soltar el archivo aquí o simplemente haga clic en los botones y seleccione el archivo manualmente.</target>
+        <note>key: image.help</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="623d52cead77075eabf73bd844f1870264264f8e" resname="image.name">
+        <source>File name</source>
+        <target xml:lang="es-ES" state="translated">Nombre de fichero</target>
+        <note>key: image.name</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4869b50f2d217dadd224261042666bd2a3fd0e9e" resname="image.noimage">
+        <source>No image yet.</source>
+        <target xml:lang="es-ES" state="translated">No se ha utilizado imagen todavía.</target>
+        <note>key: image.noimage</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ddb2b77067d29961704d011d303b42d5fcc00e5c" resname="image.or">
+        <source>or</source>
+        <target xml:lang="es-ES" state="translated">o</target>
+        <note>key: image.or</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7deddf51ab844e5621b291039176191f8bbdef95" resname="image.preview">
+        <source>Image preview</source>
+        <target xml:lang="es-ES" state="translated">Vista previa de la imagen</target>
+        <note>key: image.preview</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="a291c895782db79ab2693d1e91090f491402f32d" resname="image.properties">
@@ -158,6 +325,18 @@
         <note>key: image.size</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="16a6d4b19907cd8be6b2be041fca055ad70a3447" resname="image.thumbnail.error">
+        <source>An error occurred while loading the thumbnail.</source>
+        <target xml:lang="es-ES" state="translated">Se ha producido un error al cargar la miniatura de la imagen.</target>
+        <note>key: image.thumbnail.error</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b17eed3677a5d65192b549375f533751091f25f" resname="image.thumbnail.loading">
+        <source>Loading a thumbnail of the image...</source>
+        <target xml:lang="es-ES" state="translated">Carga una de las miniatura de la imagen...</target>
+        <note>key: image.thumbnail.loading</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="689cae8350541efc2cad64f32e6d1a9512845b05" resname="image.thumbnail.retry">
         <source>Retry</source>
         <target xml:lang="es-ES" state="translated">Volver a intentarlo</target>
@@ -169,6 +348,90 @@
         <target xml:lang="es-ES" state="translated">Tipo:</target>
         <note>key: image.type</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3cb3d1ded419f0923f0b00e65e3c9b6c112e450c" resname="image.upload">
+        <source>Upload an image</source>
+        <target xml:lang="es-ES" state="translated">Subir una imagen</target>
+        <note>key: image.upload</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f0edbc370c196d4d5a74049ed4382bbd16aa4b82" resname="input.not.valid">
+        <source>This is not a valid input</source>
+        <target xml:lang="es-ES" state="translated">Esto no es un valor correcto</target>
+        <note>key: input.not.valid</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8e49b578596402bf9f38b7a53ee4e6838f31c1a9" resname="invalid.float.value">
+        <source>The value should be a valid float number</source>
+        <target xml:lang="es-ES" state="translated">Este valor debe ser un número flotante válido</target>
+        <note>key: invalid.float.value</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d5afda02a70b4e08a45743098c217ce1cb424278" resname="invalid.input">
+        <source>This is not a valid input</source>
+        <target xml:lang="es-ES" state="translated">Esto no es un valor correcto</target>
+        <note>key: invalid.input</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="624975ced077be4e434e9ddc7aceb12cdd06a2f7" resname="invalid.isbn10">
+        <source>invalid ISBN 10</source>
+        <target xml:lang="es-ES" state="translated">iSBN 10 no válido</target>
+        <note>key: invalid.isbn10</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a10ccd621b14ed09703e07e31cbfed166450b722" resname="invalid.isbn10.sum.not.multiple.of.11">
+        <source>invalid ISBN 10 (sum is not a multiple of 11)</source>
+        <target xml:lang="es-ES" state="translated">iSBN 10 no válido (la suma no es múltiplo de 11)</target>
+        <note>key: invalid.isbn10.sum.not.multiple.of.11</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="65c4aaaab5989949a929cc5f7e96eb7017c2d9f4" resname="loading...">
+        <source>Loading...</source>
+        <target xml:lang="es-ES" state="translated">Cargando...</target>
+        <note>key: loading...</note>
+        <jms:reference-file>Resources/public/js/views/fields/richtext/ez-richtext-resolveembed.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0d7b8b93e93ce650d31862d74cdc2566058742d3" resname="login.required">
+        <source>'The login is required</source>
+        <target xml:lang="es-ES" state="translated">El login es necesario</target>
+        <note>key: login.required</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3ebb2a2e0355aff0d63b0a1c644aff0efa6b52c6" resname="maplocation.address">
+        <source>Address:</source>
+        <target xml:lang="es-ES" state="translated">Dirección:</target>
+        <note>key: maplocation.address</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e21151edf210d6968aa67c35235066389865f136" resname="maplocation.latitude">
+        <source>Latitude:</source>
+        <target xml:lang="es-ES" state="translated">Latitud:</target>
+        <note>key: maplocation.latitude</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="04e7fa05923b84dde058e7a8b349de8a019962f8" resname="maplocation.locateaddress">
+        <source>Locate Address</source>
+        <target xml:lang="es-ES" state="translated">Localizar la dirección</target>
+        <note>key: maplocation.locateaddress</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="748db692b3faa75edc78fe780f125dacc597fdd2" resname="maplocation.locateme">
+        <source>Locate Me</source>
+        <target xml:lang="es-ES" state="translated">Localizarme</target>
+        <note>key: maplocation.locateme</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="60f60bbfc3c9cd30603670eb6b91fa5a1619f73b" resname="maplocation.longitude">
+        <source>Longitude:</source>
+        <target xml:lang="es-ES" state="translated">Longitud:</target>
+        <note>key: maplocation.longitude</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="de4d15e55b8a04ee1b6f188b3cf6dac4aca30d5a" resname="media.audio.empty">
+        <source>No audio file yet.</source>
+        <target xml:lang="es-ES" state="translated">No hay archivos de audio todavía.</target>
+        <note>key: media.audio.empty</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
       </trans-unit>
     </body>
   </file>
