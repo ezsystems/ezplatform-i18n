@@ -8,13 +8,13 @@
     <body>
       <trans-unit id="c241f37eb4b93d08f53db508ae407cea0c0e64f9" resname="languageselectionbox.base.existing.translation" approved="yes">
         <source>Base this translation on an existing translation</source>
-        <target xml:lang="fr">Baser cette traduction sur une version existante</target>
+        <target xml:lang="fr" state="translated">Baser cette traduction sur une version existante</target>
         <note>key: languageselectionbox.base.existing.translation</note>
         <jms:reference-file>Resources/public/templates/languageselectionbox.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="1a2b94f629a46ab9741347bb3d889365d5430b52" resname="languageselectionbox.cancel" approved="yes">
         <source>Cancel</source>
-        <target xml:lang="fr">Annuler la sélection</target>
+        <target xml:lang="fr" state="translated">Annuler la sélection</target>
         <note>key: languageselectionbox.cancel</note>
         <jms:reference-file>Resources/public/templates/languageselectionbox.hbt</jms:reference-file>
         <alt-trans>
@@ -23,13 +23,13 @@
       </trans-unit>
       <trans-unit id="0dd5d97803b49206317f765692becb52e212c55e" resname="languageselectionbox.confirm" approved="yes">
         <source>Confirm</source>
-        <target xml:lang="fr">Confirmer</target>
+        <target xml:lang="fr" state="translated">Confirmer</target>
         <note>key: languageselectionbox.confirm</note>
         <jms:reference-file>Resources/public/templates/languageselectionbox.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="f12577db02f302b72857787edaf2db262b509e01" resname="languageselectionbox.select.base.language" approved="yes">
         <source>Select a base language:</source>
-        <target xml:lang="fr">Sélectionner une langue de base :</target>
+        <target xml:lang="fr" state="translated">Sélectionner une langue de base :</target>
         <note>key: languageselectionbox.select.base.language</note>
         <jms:reference-file>Resources/public/templates/languageselectionbox.hbt</jms:reference-file>
       </trans-unit>
