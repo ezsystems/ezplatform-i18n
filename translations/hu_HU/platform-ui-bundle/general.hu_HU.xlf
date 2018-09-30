@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="473791d4ee73c0b1401f37519728414c339edc21" resname="javascript.disabled.required" approved="yes">
         <source>JavaScript is disabled in your browser but it is required to run the eZ Platform User Interface.</source>
-        <target xml:lang="hu">A JavaScript nincs engedélyezve a böngésződben, azonban enélkül nem tudod használni az eZ Platform User Interfészt.</target>
+        <target xml:lang="hu" state="translated">A JavaScript nincs engedélyezve a böngésződben, azonban enélkül nem tudod használni az eZ Platform User Interfészt.</target>
         <note>key: javascript.disabled.required</note>
         <jms:reference-file line="53">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
         <alt-trans>
@@ -17,7 +17,7 @@
       </trans-unit>
       <trans-unit id="1ac530659b5b57d48cf6d95bc51ead90f1a2ac6d" resname="javascript.enable" approved="yes">
         <source>Please enable JavaScript to use the eZ Platform User Interface.</source>
-        <target xml:lang="hu">Kérjük, engedélyezd a JavaScriptet az eZ Platform User Interface használatához.</target>
+        <target xml:lang="hu" state="translated">Kérjük, engedélyezd a JavaScriptet az eZ Platform User Interface használatához.</target>
         <note>key: javascript.enable</note>
         <jms:reference-file line="54">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
         <alt-trans>
@@ -26,7 +26,7 @@
       </trans-unit>
       <trans-unit id="40797c87a424e73c1893096db97ec0147bd261bf" resname="loading.application" approved="yes">
         <source>Loading the application...</source>
-        <target xml:lang="hu">Alkalmazás betöltése...</target>
+        <target xml:lang="hu" state="translated">Alkalmazás betöltése...</target>
         <note>key: loading.application</note>
         <jms:reference-file line="38">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
       </trans-unit>
