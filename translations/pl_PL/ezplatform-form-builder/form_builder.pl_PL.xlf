@@ -89,6 +89,26 @@
         <target xml:lang="pl" state="translated">Przekieruj na URL</target>
         <note>key: form_builder.attribute.button.action.url</note>
       </trans-unit>
+      <trans-unit id="f476b2afcc5cefebd29d6d0136ad8c1f0d721194" resname="form_builder.submission.boolean.false">
+        <source>False</source>
+        <target xml:lang="pl" state="translated">Fałsz</target>
+        <note>key: form_builder.submission.boolean.false</note>
+      </trans-unit>
+      <trans-unit id="a99073f43bf62086e850220f5cb59f030dafd4b7" resname="form_builder.submission.boolean.true">
+        <source>True</source>
+        <target xml:lang="pl" state="translated">Prawda</target>
+        <note>key: form_builder.submission.boolean.true</note>
+      </trans-unit>
+      <trans-unit id="fcd82220602951cb309c6b53d8a1a5c85f241a21" resname="invalid.fields">
+        <source>Not all the fields were configured correctly. Please, provide a proper configuration.</source>
+        <target xml:lang="pl" state="translated">Nie skonfigurowano wszystkich pól. Popraw konfigurację.</target>
+        <note>key: invalid.fields</note>
+      </trans-unit>
+      <trans-unit id="6ae999552a0d2dca14d62e2bc8b764d377b1dd6c" resname="name">
+        <source>Name</source>
+        <target xml:lang="pl" state="translated">Nazwa</target>
+        <note>key: name</note>
+      </trans-unit>
       <trans-unit id="4ca91a461622421947258e5e7e305704088e4b7b" resname="no.fields.in.form">
         <source>There are no fields in this form. Create your form.</source>
         <target xml:lang="pl" state="translated">Ten formularz nie zawiera pól. Utwórz formularz.</target>
@@ -98,6 +118,16 @@
         <source>Redirecting ...</source>
         <target xml:lang="pl" state="translated">Przekierowywanie ...</target>
         <note>key: redirecting</note>
+      </trans-unit>
+      <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content">
+        <source>Select content</source>
+        <target xml:lang="pl" state="translated">Wybierz element</target>
+        <note>key: select.content</note>
+      </trans-unit>
+      <trans-unit id="fea3ad9d846ad8a0a3d3ff18e1882df57ef4ea73" resname="select.content.item">
+        <source>Select content item</source>
+        <target xml:lang="pl" state="translated">Wybierz element</target>
+        <note>key: select.content.item</note>
       </trans-unit>
     </body>
   </file>
