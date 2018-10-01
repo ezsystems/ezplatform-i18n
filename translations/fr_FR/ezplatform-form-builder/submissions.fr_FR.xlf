@@ -36,6 +36,21 @@
         <target xml:lang="fr" state="translated">Cet élément de contenu n’a aucune soumission.</target>
         <note>key: tab.submissions.no_submissions</note>
       </trans-unit>
+      <trans-unit id="6039d73f32eecd317821da4068d559bedf487549" resname="tab.submissions.submissions">
+        <source>Submissions (%count%)</source>
+        <target xml:lang="fr" state="translated">Soumissions (%count%)</target>
+        <note>key: tab.submissions.submissions</note>
+      </trans-unit>
+      <trans-unit id="d2178a01fdad0041ecfa1f20b2ac6fa2f75a06c2" resname="tab.submissions.time">
+        <source>Time</source>
+        <target xml:lang="fr" state="translated">Heure</target>
+        <note>key: tab.submissions.time</note>
+      </trans-unit>
+      <trans-unit id="97721a4a6c33834bb6421c29ef72e8654f39a4ab" resname="tab.versions.table.action.draft.edit">
+        <source>View Submission</source>
+        <target xml:lang="fr" state="translated">Voir la soumission</target>
+        <note>key: tab.versions.table.action.draft.edit</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
