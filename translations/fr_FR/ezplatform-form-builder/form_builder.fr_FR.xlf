@@ -56,7 +56,7 @@
         <target xml:lang="fr" state="translated">Rediriger vers une URL</target>
         <note>key: form.submit.redirect.url</note>
       </trans-unit>
-      <trans-unit id="ad3eefd76947df269b9a9c6e0874ffe2c02bc5d2" resname="form.submit.select.action">
+      <trans-unit id="ad3eefd76947df269b9a9c6e0874ffe2c02bc5d2" resname="form.submit.select.action" approved="yes">
         <source>Select an action after form submission</source>
         <target xml:lang="fr" state="translated">Sélectionner une action après l’envoi du formulaire</target>
         <note>key: form.submit.select.action</note>
