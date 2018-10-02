@@ -6,33 +6,26 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="c4c3e3c536a09969467c7c9bb584459b47317fed" resname="ezcountry.name">
+        <source>Country</source>
+        <target xml:lang="zh-HK" state="translated">國家</target>
+        <note>key: ezcountry.name</note>
+      </trans-unit>
+      <trans-unit id="3bd547a05c5a7b5ee111cc5ca608df9199f04c51" resname="ezdate.name">
+        <source>Date</source>
+        <target xml:lang="zh-HK" state="translated">日期</target>
+        <note>key: ezdate.name</note>
+      </trans-unit>
+      <trans-unit id="42d9e26b6e8e65856f709461b589cb7925a9f43e" resname="ezdatetime.name">
+        <source>Date and time</source>
+        <target xml:lang="zh-HK" state="translated">日期和時間</target>
+        <note>key: ezdatetime.name</note>
+      </trans-unit>
+      <trans-unit id="d772ac8909929964906cbefd41c468c9a5d2be26" resname="ezemail.name">
+        <source>E-mail address</source>
+        <target xml:lang="zh-HK" state="translated">電郵地址</target>
+        <note>key: ezemail.name</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
