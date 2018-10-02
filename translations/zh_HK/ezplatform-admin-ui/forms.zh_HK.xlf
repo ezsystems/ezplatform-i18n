@@ -6,64 +6,26 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="157171a054bf3089d55c971b318b95a26a1cbb92" resname="section_delete_form.delete">
+        <source>Delete</source>
+        <target xml:lang="zh-HK" state="translated">刪除</target>
+        <note>key: section_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="54b875a849e645c86904a2c3663c02b2aab86bb4" resname="section_form.identifier">
+        <source>Identifier</source>
+        <target xml:lang="zh-HK" state="translated">識別符</target>
+        <note>key: section_form.identifier</note>
+      </trans-unit>
+      <trans-unit id="a8e6cb63af5cccaf0b468435ce04fd304aa77e5c" resname="section_form.name">
+        <source>Name</source>
+        <target xml:lang="zh-HK" state="translated">名稱</target>
+        <note>key: section_form.name</note>
+      </trans-unit>
+      <trans-unit id="ecaa9ee7b46159c99796726b8e14693d821e5500" resname="section_update_form.update">
+        <source>Update</source>
+        <target xml:lang="zh-HK" state="translated">更新</target>
+        <note>key: section_update_form.update</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
