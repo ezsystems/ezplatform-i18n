@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="7a67ffefca1339a9e4c5224d773378c2e5f6f378" resname="content_type.default_sort_order">
+        <source>Default sort order</source>
+        <target xml:lang="zh-HK" state="translated">默认排序</target>
+        <note>key: content_type.default_sort_order</note>
+      </trans-unit>
       <trans-unit id="be2f64eb4557a3af16a2f32f5e0185c591d3ca8f" resname="content_type.delete">
         <source>Delete</source>
         <target xml:lang="zh-HK" state="translated">刪除</target>
@@ -16,10 +21,20 @@
         <target xml:lang="zh-HK" state="translated">描述</target>
         <note>key: content_type.description</note>
       </trans-unit>
+      <trans-unit id="368a6ffa173a2e9605371392e99e565d9b247382" resname="content_type.group.delete">
+        <source>Delete</source>
+        <target xml:lang="zh-HK" state="translated">刪除</target>
+        <note>key: content_type.group.delete</note>
+      </trans-unit>
       <trans-unit id="c657344d0bf6b6203b1b9eaf4e44f7a6261dfe1d" resname="content_type.group.save">
         <source>Save</source>
         <target xml:lang="zh-HK" state="translated">儲存</target>
         <note>key: content_type.group.save</note>
+      </trans-unit>
+      <trans-unit id="238db0c5dee8ec13199b073f7cc78728f53ffa36" resname="content_type.identifier">
+        <source>Identifier</source>
+        <target xml:lang="zh-HK" state="translated">識別符</target>
+        <note>key: content_type.identifier</note>
       </trans-unit>
       <trans-unit id="338e462a91906d03e5e6b8c00528a38d482a3c9e" resname="content_type.is_container">
         <source>Container</source>
@@ -56,6 +71,16 @@
         <target xml:lang="zh-HK" state="translated">修改日期</target>
         <note>key: content_type.sort_field.3</note>
       </trans-unit>
+      <trans-unit id="18f4f0dcdd6a1f1a9f7a5c301cc378167f403836" resname="content_type.sort_order.0">
+        <source>Descending</source>
+        <target xml:lang="zh-HK" state="translated">降序</target>
+        <note>key: content_type.sort_order.0</note>
+      </trans-unit>
+      <trans-unit id="b411f25ded028ccb2ef56a55d69bd2e3f1da4cd5" resname="content_type.sort_order.1">
+        <source>Ascending</source>
+        <target xml:lang="zh-HK" state="translated">升序</target>
+        <note>key: content_type.sort_order.1</note>
+      </trans-unit>
       <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description">
         <source>Description</source>
         <target xml:lang="zh-HK" state="translated">描述</target>
@@ -85,6 +110,11 @@
         <source>Empty</source>
         <target xml:lang="zh-HK" state="translated">空</target>
         <note>key: field_definition.ezdate.default_type_empty</note>
+      </trans-unit>
+      <trans-unit id="7b4f4729ec64de6f20356ad40f768c98c27590fb" resname="field_definition.ezdatetime.default_type">
+        <source>Default value</source>
+        <target xml:lang="zh-HK" state="translated">預設值</target>
+        <note>key: field_definition.ezdatetime.default_type</note>
       </trans-unit>
       <trans-unit id="24ac7fa5478172475d86a2d16829ece8a5e5f59f" resname="field_definition.ezdatetime.default_type_current">
         <source>Current datetime</source>
@@ -155,6 +185,74 @@
         <source>Media type</source>
         <target xml:lang="zh-HK" state="translated">媒體類型</target>
         <note>key: field_definition.ezmedia.media_type</note>
+      </trans-unit>
+      <trans-unit id="8c89d231e7f1b33a8e0b84ad81fc964785a59cbd" resname="field_definition.ezpage.default_layout">
+        <source>Default layout</source>
+        <target xml:lang="zh-HK" state="translated">默认布局</target>
+        <note>key: field_definition.ezpage.default_layout</note>
+      </trans-unit>
+      <trans-unit id="e9e5a43d734719bf6ca42940c1cf5bc78b234e2b" resname="field_definition.ezselection.is_multiple">
+        <source>Multiple choice</source>
+        <target xml:lang="zh-HK" state="translated">多種選擇</target>
+        <note>key: field_definition.ezselection.is_multiple</note>
+      </trans-unit>
+      <trans-unit id="ac85420bb89c319433f4d0e8e988b6fa8363e8b9" resname="field_definition.ezselection.options">
+        <source>Options</source>
+        <target xml:lang="zh-HK" state="translated">選項</target>
+        <note>key: field_definition.ezselection.options</note>
+      </trans-unit>
+      <trans-unit id="e8ede1605bfed09023397f8662ca28c40e7c460a" resname="field_definition.ezstring.default_value">
+        <source>Default value</source>
+        <target xml:lang="zh-HK" state="translated">預設值</target>
+        <note>key: field_definition.ezstring.default_value</note>
+      </trans-unit>
+      <trans-unit id="aeb5a467102cac589770bb08efe1ae15c2845cca" resname="field_definition.ezstring.max_length">
+        <source>Maximum length</source>
+        <target xml:lang="zh-HK" state="translated">最大長度</target>
+        <note>key: field_definition.ezstring.max_length</note>
+        <alt-trans>
+          <target xml:lang="zh-HK">最大长度</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="b3ccbbb1d949cd2ce5971857c15d8c972ee82691" resname="field_definition.ezstring.min_length">
+        <source>Minimum length</source>
+        <target xml:lang="zh-HK" state="translated">最小長度</target>
+        <note>key: field_definition.ezstring.min_length</note>
+      </trans-unit>
+      <trans-unit id="0a5ed21a62aec2cda555012922b97975d97bc95c" resname="field_definition.eztext.text_rows">
+        <source>Number of text rows</source>
+        <target xml:lang="zh-HK" state="translated">行數</target>
+        <note>key: field_definition.eztext.text_rows</note>
+      </trans-unit>
+      <trans-unit id="0f8aa615d0ec1b242535348fecb702d9b75ca2eb" resname="field_definition.eztime.default_type">
+        <source>Default value</source>
+        <target xml:lang="zh-HK" state="translated">預設值</target>
+        <note>key: field_definition.eztime.default_type</note>
+      </trans-unit>
+      <trans-unit id="95dc4af57dce875f9140238d276ed77f0236746f" resname="field_definition.eztime.default_type_current">
+        <source>Current time</source>
+        <target xml:lang="zh-HK" state="translated">當前時間</target>
+        <note>key: field_definition.eztime.default_type_current</note>
+      </trans-unit>
+      <trans-unit id="0a0e3e8eb5d13b0e9e8ca8348615a5c00e2e51c1" resname="field_definition.eztime.default_type_empty">
+        <source>Empty</source>
+        <target xml:lang="zh-HK" state="translated">空</target>
+        <note>key: field_definition.eztime.default_type_empty</note>
+      </trans-unit>
+      <trans-unit id="3095005d6d92b499602347e3692b69346a35a845" resname="field_definition.eztime.use_seconds">
+        <source>Use seconds</source>
+        <target xml:lang="zh-HK" state="translated">耗時</target>
+        <note>key: field_definition.eztime.use_seconds</note>
+      </trans-unit>
+      <trans-unit id="92d9243bb9fac540233dc376b41a3bcd41615ccc" resname="field_definition.field_group">
+        <source>Category</source>
+        <target xml:lang="zh-HK" state="translated">類別</target>
+        <note>key: field_definition.field_group</note>
+      </trans-unit>
+      <trans-unit id="8b863a9c7cd91565182ad0a3a5e30ca8090f84c7" resname="field_definition.identifier">
+        <source>Identifier</source>
+        <target xml:lang="zh-HK" state="translated">識別符</target>
+        <note>key: field_definition.identifier</note>
       </trans-unit>
       <trans-unit id="6e91f443eb0cd4ab99331950f20cdbcc03f0b88c" resname="field_definition.is_required">
         <source>Required</source>
