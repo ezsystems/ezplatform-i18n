@@ -6,83 +6,41 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="3951c5df8bf1c00b0dd99dc06acc76d1908ec825" resname="content_type_group_edit__sidebar_right__save">
+        <source>Save</source>
+        <target xml:lang="zh-HK" state="translated">儲存</target>
+        <note>key: content_type_group_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="65804c068820b5fa679357bc65c5862d0fc90701" resname="language_create__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="zh-HK" state="translated">放棄更改</target>
+        <note>key: language_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="43db6515a6b373d14e37f88c19c7663a9fa3ae8f" resname="language_create__sidebar_right__create">
+        <source>Create</source>
+        <target xml:lang="zh-HK" state="translated">創建</target>
+        <note>key: language_create__sidebar_right__create</note>
+      </trans-unit>
+      <trans-unit id="09a41e6afdef6eda2c027b7e742777f3a9bd1749" resname="language_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="zh-HK" state="translated">放棄更改</target>
+        <note>key: language_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="31bae088f62a5a502882b1e2cee04e14fe6617ab" resname="language_edit__sidebar_right__save">
+        <source>Save</source>
+        <target xml:lang="zh-HK" state="translated">儲存</target>
+        <note>key: language_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="fd9a2e689e82242d49f0313d78aca7e30bf9f24f" resname="main__admin__languages">
+        <source>Languages</source>
+        <target xml:lang="zh-HK" state="translated">語言</target>
+        <note>key: main__admin__languages</note>
+      </trans-unit>
+      <trans-unit id="8a5845bd0e93b67b2ac54a06f2eae85f2cb3b13d" resname="main__admin__roles">
+        <source>Roles</source>
+        <target xml:lang="zh-HK" state="translated">角色</target>
+        <note>key: main__admin__roles</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
