@@ -6,99 +6,26 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="49e5f320e6e37cbd53a5d290e3ffd48788226852" resname="content_type.publish">
+        <source>OK</source>
+        <target xml:lang="zh-HK" state="translated">確定</target>
+        <note>key: content_type.publish</note>
+      </trans-unit>
+      <trans-unit id="701cbaa7ea48016d7b0eb5940e810cacd16c19b3" resname="content_type.remove_draft">
+        <source>Cancel</source>
+        <target xml:lang="zh-HK" state="translated">取消</target>
+        <note>key: content_type.remove_draft</note>
+      </trans-unit>
+      <trans-unit id="946ba9e49beabdacd143e10e343f852736c081d8" resname="content_type.save">
+        <source>Apply</source>
+        <target xml:lang="zh-HK" state="translated">應用</target>
+        <note>key: content_type.save</note>
+      </trans-unit>
+      <trans-unit id="3b367aa1610d6332d66b2113a1b1ed287e0310a6" resname="content_type.sort_field.3">
+        <source>Modification date</source>
+        <target xml:lang="zh-HK" state="translated">修改日期</target>
+        <note>key: content_type.sort_field.3</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
