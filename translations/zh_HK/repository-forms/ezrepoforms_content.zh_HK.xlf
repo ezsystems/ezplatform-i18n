@@ -6,19 +6,31 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="db5d6f82fe5ba6f40d1d159dca89c659c76aad06" resname="content.field_type.ezauthor.email">
+        <source>E-mail</source>
+        <target xml:lang="zh-HK" state="translated">電子郵件</target>
+        <note>key: content.field_type.ezauthor.email</note>
+      </trans-unit>
+      <trans-unit id="05fe48833d61c38f4c532c34c4b6fdad323e1fe1" resname="content.field_type.ezauthor.name">
+        <source>Name</source>
+        <target xml:lang="zh-HK" state="translated">名稱</target>
+        <note>key: content.field_type.ezauthor.name</note>
+      </trans-unit>
+      <trans-unit id="25850f96dbb0457a35063e29e92a26cbba2de07d" resname="content.field_type.ezurl.link">
+        <source>URL</source>
+        <target xml:lang="zh-HK" state="translated">網址</target>
+        <note>key: content.field_type.ezurl.link</note>
+      </trans-unit>
+      <trans-unit id="1120fc646c853c462aa4cdf634f476004846fc1b" resname="content.publish_button">
+        <source>Publish</source>
+        <target xml:lang="zh-HK" state="translated">發佈</target>
+        <note>key: content.publish_button</note>
+      </trans-unit>
+      <trans-unit id="49c0762cf87e038e38a06090625eadb4fbbc99ed" resname="content.save_button">
+        <source>Save draft</source>
+        <target xml:lang="zh-HK" state="translated">儲存草稿</target>
+        <note>key: content.save_button</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
