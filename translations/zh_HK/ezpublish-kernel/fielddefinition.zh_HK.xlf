@@ -6,67 +6,18 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="403c5c915c461ee1ee00f5c2e193266067672e3a" resname="fielddefinition.default-layout.label">
+        <source>Default layout:</source>
+        <target xml:lang="zh-HK" state="translated">默认布局</target>
+        <note>key: fielddefinition.default-layout.label</note>
+        <jms:reference-file line="273">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="becaad6a0d63182875b2bc7d21b0c6a801ba764f" resname="fielddefinition.default-layout.none">
+        <source>None</source>
+        <target xml:lang="zh-HK" state="translated">無</target>
+        <note>key: fielddefinition.default-layout.none</note>
+        <jms:reference-file line="274">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
