@@ -11,6 +11,21 @@
         <target xml:lang="zh-HK" state="needs-translation"> </target>
         <note>key: form_builder.attribute.button.action.empty</note>
       </trans-unit>
+      <trans-unit id="f476b2afcc5cefebd29d6d0136ad8c1f0d721194" resname="form_builder.submission.boolean.false">
+        <source>False</source>
+        <target xml:lang="zh-HK" state="translated">False</target>
+        <note>key: form_builder.submission.boolean.false</note>
+      </trans-unit>
+      <trans-unit id="a99073f43bf62086e850220f5cb59f030dafd4b7" resname="form_builder.submission.boolean.true">
+        <source>True</source>
+        <target xml:lang="zh-HK" state="translated">True</target>
+        <note>key: form_builder.submission.boolean.true</note>
+      </trans-unit>
+      <trans-unit id="6ae999552a0d2dca14d62e2bc8b764d377b1dd6c" resname="name">
+        <source>Name</source>
+        <target xml:lang="zh-HK" state="translated">名稱</target>
+        <note>key: name</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
