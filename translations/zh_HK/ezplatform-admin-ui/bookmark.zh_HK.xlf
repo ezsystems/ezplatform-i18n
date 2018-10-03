@@ -6,14 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="d84749a19f2864dd1d5d3cee0a127f2435e5cdc5" resname="bookmark.list.name">
+        <source>Name</source>
+        <target xml:lang="zh-HK" state="translated">名稱</target>
+        <note>key: bookmark.list.name</note>
+      </trans-unit>
+      <trans-unit id="fa0e2c8d987f0282f85003e05398c602de5da17b" resname="bookmark.list.path">
+        <source>Path</source>
+        <target xml:lang="zh-HK" state="translated">路徑</target>
+        <note>key: bookmark.list.path</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
