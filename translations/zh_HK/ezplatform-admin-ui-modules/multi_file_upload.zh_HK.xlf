@@ -36,6 +36,11 @@
         <target xml:lang="zh-HK" state="translated">編輯</target>
         <note>key: edit.label</note>
       </trans-unit>
+      <trans-unit id="0cd9663c2a0626f9d1556efe30c151196af02e8e" resname="max_file_size.message">
+        <source>Max file size:</source>
+        <target xml:lang="zh-HK" state="translated">最大檔案大小:</target>
+        <note>key: max_file_size.message</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
