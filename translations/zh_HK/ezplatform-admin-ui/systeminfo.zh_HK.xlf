@@ -71,6 +71,91 @@
         <target xml:lang="zh-HK" state="translated">PHP Info</target>
         <note>key: php.info</note>
       </trans-unit>
+      <trans-unit id="98c89e1daa8c0a7c472af26752752299ff44ee23" resname="symfony_kernel">
+        <source>Symfony Kernel</source>
+        <target xml:lang="zh-HK" state="translated">Symfony Kernel</target>
+        <note>key: symfony_kernel</note>
+      </trans-unit>
+      <trans-unit id="dbc3d622a5e78844eeb75f3e9477b90357984ad7" resname="symfony_kernel.bundles.empty">
+        <source>No bundles installed.</source>
+        <target xml:lang="zh-HK" state="translated">沒有已安裝的bundles。</target>
+        <note>key: symfony_kernel.bundles.empty</note>
+      </trans-unit>
+      <trans-unit id="8bce9f0cf5c9c698c1907808aa20cfa0b1ec9ecb" resname="symfony_kernel.cacheDir">
+        <source>Cache directory</source>
+        <target xml:lang="zh-HK" state="translated">緩存目錄</target>
+        <note>key: symfony_kernel.cacheDir</note>
+      </trans-unit>
+      <trans-unit id="74d0f849585c3bfe67e3477d0773fd8f097bd54d" resname="symfony_kernel.charset">
+        <source>Character set</source>
+        <target xml:lang="zh-HK" state="translated">字符集</target>
+        <note>key: symfony_kernel.charset</note>
+      </trans-unit>
+      <trans-unit id="b279d615747857a87b80e268ef4a8eefc631cd3c" resname="symfony_kernel.debugMode.disabled">
+        <source>Disabled</source>
+        <target xml:lang="zh-HK" state="translated">已停用</target>
+        <note>key: symfony_kernel.debugMode.disabled</note>
+      </trans-unit>
+      <trans-unit id="edea137ff68106045aa74351ae612e2160700503" resname="symfony_kernel.debugMode.enabled">
+        <source>Enabled</source>
+        <target xml:lang="zh-HK" state="translated">已啟用</target>
+        <note>key: symfony_kernel.debugMode.enabled</note>
+      </trans-unit>
+      <trans-unit id="b04c158895f34062a8748223da67059fe45b3a60" resname="symfony_kernel.logDir">
+        <source>Log directory</source>
+        <target xml:lang="zh-HK" state="translated">日誌目錄</target>
+        <note>key: symfony_kernel.logDir</note>
+      </trans-unit>
+      <trans-unit id="ea20258358e7a0d4e8bc037d4e352ac2ad06b7fa" resname="symfony_kernel.name">
+        <source>Name</source>
+        <target xml:lang="zh-HK" state="translated">名稱</target>
+        <note>key: symfony_kernel.name</note>
+      </trans-unit>
+      <trans-unit id="7fb801946f46cdeab6bf08f53b72cc48c8c80720" resname="symfony_kernel.path">
+        <source>Path</source>
+        <target xml:lang="zh-HK" state="translated">路徑</target>
+        <note>key: symfony_kernel.path</note>
+      </trans-unit>
+      <trans-unit id="56014c7eba59799c182934e3a0eb97eff6fd8a97" resname="symfony_kernel.rootDir">
+        <source>Root directory</source>
+        <target xml:lang="zh-HK" state="translated">根目錄</target>
+        <note>key: symfony_kernel.rootDir</note>
+      </trans-unit>
+      <trans-unit id="74fd4792096e74360c7508e16bbe7c1e121d393e" resname="symfony_kernel.version">
+        <source>Version</source>
+        <target xml:lang="zh-HK" state="translated">版本</target>
+        <note>key: symfony_kernel.version</note>
+      </trans-unit>
+      <trans-unit id="21ef9f0a078dbc4e4c45be12f1cfaf8a3864dfa7" resname="systeminfo">
+        <source>System Information</source>
+        <target xml:lang="zh-HK" state="translated">系統資訊</target>
+        <note>key: systeminfo</note>
+      </trans-unit>
+      <trans-unit id="a2a92e9d0e41ea4a14c99ab0f702d5df3ea017c3" resname="tab.name.composer">
+        <source>Composer</source>
+        <target xml:lang="zh-HK" state="translated">Composer</target>
+        <note>key: tab.name.composer</note>
+      </trans-unit>
+      <trans-unit id="7a874a3b12fa965b16ed628878c5f6ce9c53b59f" resname="tab.name.database">
+        <source>Database</source>
+        <target xml:lang="zh-HK" state="translated">Database</target>
+        <note>key: tab.name.database</note>
+      </trans-unit>
+      <trans-unit id="951e3ad18b17f0b2aa96fcb84f6eb25f208e1127" resname="tab.name.hardware">
+        <source>Hardware</source>
+        <target xml:lang="zh-HK" state="translated">硬體</target>
+        <note>key: tab.name.hardware</note>
+      </trans-unit>
+      <trans-unit id="b71f0d567a424182b8c83a6b90a262b29819241b" resname="tab.name.php">
+        <source>PHP</source>
+        <target xml:lang="zh-HK" state="translated">PHP</target>
+        <note>key: tab.name.php</note>
+      </trans-unit>
+      <trans-unit id="b7989598c01fcae061f7917e563a9c0d66790a84" resname="tab.name.symfony_kernel">
+        <source>Symfony Kernel</source>
+        <target xml:lang="zh-HK" state="translated">Symfony Kernel</target>
+        <note>key: tab.name.symfony_kernel</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
