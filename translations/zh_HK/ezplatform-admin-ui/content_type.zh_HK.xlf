@@ -106,6 +106,56 @@
         <target xml:lang="zh-HK" state="translated">內容類型'％name％'已創建。</target>
         <note>key: content_type_group.create.success</note>
       </trans-unit>
+      <trans-unit id="eec79e4a9109f28892797768f085eab39eaedc31" resname="content_type_group.delete.submit">
+        <source>Delete</source>
+        <target xml:lang="zh-HK" state="translated">刪除</target>
+        <note>key: content_type_group.delete.submit</note>
+      </trans-unit>
+      <trans-unit id="7d3672fcf2f0e1982152c4e6759bd03143f9f028" resname="content_type_group.delete.success">
+        <source>Content type group '%name%' deleted.</source>
+        <target xml:lang="zh-HK" state="translated">內容類型組'％name％'已刪除。</target>
+        <note>key: content_type_group.delete.success</note>
+      </trans-unit>
+      <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message">
+        <source>Do you want to delete Content Type Group?</source>
+        <target xml:lang="zh-HK" state="translated">您確定要刪除內容類型組？</target>
+        <note>key: content_type_group.modal.message</note>
+      </trans-unit>
+      <trans-unit id="4c6dfb0b81f5b9d70fed0dda3840f0677ece9570" resname="content_type_group.update.name">
+        <source>Name</source>
+        <target xml:lang="zh-HK" state="translated">名稱</target>
+        <note>key: content_type_group.update.name</note>
+      </trans-unit>
+      <trans-unit id="d44e2ddf0ee9d2e6fcb0b4f2c49a2b579d629588" resname="content_type_group.update.submit">
+        <source>Update</source>
+        <target xml:lang="zh-HK" state="translated">更新</target>
+        <note>key: content_type_group.update.submit</note>
+      </trans-unit>
+      <trans-unit id="ff50d4b8d26d81f538b0ebabc392cbb05b6da162" resname="content_type_group.update.success">
+        <source>Content type group '%name%' updated.</source>
+        <target xml:lang="zh-HK" state="translated">內容類型組'％name％'已更新。</target>
+        <note>key: content_type_group.update.success</note>
+      </trans-unit>
+      <trans-unit id="1bd4c745d76ae79ef7e95baea27281fff04e77f6" resname="content_type_group.view.add.title">
+        <source>Creating a new Content Type Group</source>
+        <target xml:lang="zh-HK" state="translated">創建新的內容類型組</target>
+        <note>key: content_type_group.view.add.title</note>
+      </trans-unit>
+      <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
+        <source>Create a Content Type Group</source>
+        <target xml:lang="zh-HK" state="translated">創建內容類型組</target>
+        <note>key: content_type_group.view.list.action.add</note>
+      </trans-unit>
+      <trans-unit id="ceb2e962eccd99d66a600df886fb1ff3253c2f16" resname="content_type_group.view.list.action.delete">
+        <source>Delete Content Type Group</source>
+        <target xml:lang="zh-HK" state="translated">刪除內容類型組</target>
+        <note>key: content_type_group.view.list.action.delete</note>
+      </trans-unit>
+      <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
+        <source>Edit</source>
+        <target xml:lang="zh-HK" state="translated">編輯</target>
+        <note>key: content_type_group.view.list.action.edit</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
