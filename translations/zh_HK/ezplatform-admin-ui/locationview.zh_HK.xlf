@@ -6,96 +6,26 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="acc17a8db8d00036233faa9948ad9a496cd621b3" resname="tab.details.last_contributor">
+        <source>Last contributor</source>
+        <target xml:lang="zh-HK" state="translated">最後貢獻者</target>
+        <note>key: tab.details.last_contributor</note>
+      </trans-unit>
+      <trans-unit id="67ff5cca435b058142e77b820d5d72090fa26346" resname="tab.details.section_id">
+        <source>Section ID</source>
+        <target xml:lang="zh-HK" state="translated">區段ID</target>
+        <note>key: tab.details.section_id</note>
+      </trans-unit>
+      <trans-unit id="0ab2029f0a194849d3f90531f03e37780491d1a6" resname="tab.details.section_identifier">
+        <source>Section identifier</source>
+        <target xml:lang="zh-HK" state="translated">區段識別符</target>
+        <note>key: tab.details.section_identifier</note>
+      </trans-unit>
+      <trans-unit id="30775f4a9e0512f181cf857fb0f0ea23fe79320d" resname="tab.details.section_name">
+        <source>Section name</source>
+        <target xml:lang="zh-HK" state="translated">區段名稱</target>
+        <note>key: tab.details.section_name</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
