@@ -6,44 +6,12 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="2b84fad03f5a98d0fa25c78b1d3717ba108835e6" resname="Could not find class '%className%'">
+        <source>Could not find class '%className%'</source>
+        <target xml:lang="zh-HK" state="translated">找不到類 "%className%"</target>
+        <note>key: Could not find class '%className%'</note>
+        <jms:reference-file line="39">eZ/Publish/Core/Base/Exceptions/MissingClass.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
