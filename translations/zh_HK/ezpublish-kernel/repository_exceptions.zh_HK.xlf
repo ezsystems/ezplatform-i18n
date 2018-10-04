@@ -36,6 +36,12 @@
         <note>key: Only empty content type groups can be deleted</note>
         <jms:reference-file line="141">eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="dfb77818edfca3ee72ed24e16c643a84203ecfa7" resname="Version in status PUBLISHED cannot be deleted">
+        <source>Version in status PUBLISHED cannot be deleted</source>
+        <target xml:lang="zh-HK" state="translated">處於已發布狀態的版本無法刪除</target>
+        <note>key: Version in status PUBLISHED cannot be deleted</note>
+        <jms:reference-file line="354">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
