@@ -30,11 +30,35 @@
         <note>key: Empty content type draft cannot be published</note>
         <jms:reference-file line="708">eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="71fd5f8839faaadfe7c61def7e4b42d429959952" resname="Limitations did not validate">
+        <source>Limitations did not validate</source>
+        <target xml:lang="zh-HK" state="translated">限制未驗證</target>
+        <note>key: Limitations did not validate</note>
+        <jms:reference-file line="40">eZ/Publish/Core/Base/Exceptions/LimitationValidationException.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="f915c78ee350c1b4fb3d3adac7584a12fcc0cfdf" resname="Only empty content type groups can be deleted">
         <source>Only empty content type groups can be deleted</source>
         <target xml:lang="zh-HK" state="translated">只能刪除空內容類型組</target>
         <note>key: Only empty content type groups can be deleted</note>
         <jms:reference-file line="141">eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="87b49727a4d83168066183cbed772c1bbdfb63f8" resname="Only version in status DRAFT can be published">
+        <source>Only version in status DRAFT can be published</source>
+        <target xml:lang="zh-HK" state="translated">只能發佈處於草稿狀態的版本</target>
+        <note>key: Only version in status DRAFT can be published</note>
+        <jms:reference-file line="513">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d75253ee3a0502ae44236a6556419822252f8849" resname="Only version in status DRAFT can be updated">
+        <source>Only version in status DRAFT can be updated</source>
+        <target xml:lang="zh-HK" state="translated">只能更新處於草稿狀態的版本</target>
+        <note>key: Only version in status DRAFT can be updated</note>
+        <jms:reference-file line="461">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3467ebb6448f4d8dd9f8a99cbea79415f25fa26d" resname="Path '%path%' already exists for the given language">
+        <source>Path '%path%' already exists for the given language</source>
+        <target xml:lang="zh-HK" state="translated">給定語言的路徑 "%path%" 已存在</target>
+        <note>key: Path '%path%' already exists for the given language</note>
+        <jms:reference-file line="397">eZ/Publish/Core/Persistence/Legacy/Content/UrlAlias/Handler.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="dfb77818edfca3ee72ed24e16c643a84203ecfa7" resname="Version in status PUBLISHED cannot be deleted">
         <source>Version in status PUBLISHED cannot be deleted</source>
