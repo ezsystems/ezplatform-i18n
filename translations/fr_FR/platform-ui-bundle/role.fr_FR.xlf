@@ -62,11 +62,11 @@
       </trans-unit>
       <trans-unit id="ca65309bef9a375c91388358cc8304dae5032ca1" resname="failed.assigned.role">
         <source>Role has not been assigned to "%name%": %message%</source>
-        <target xml:lang="fr" state="translated">Le rôle n'a pas été assigné à "%name%": %message%</target>
+        <target xml:lang="fr" state="translated">Le rôle n'a pas été assigné à "%name%" : %message%</target>
         <note>key: failed.assigned.role</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
         <alt-trans>
-          <target xml:lang="fr">Le rôle n'a pas été assigné à "%name%" : %message%</target>
+          <target xml:lang="fr">Le rôle n'a pas été assigné à "%name%": %message%</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="7f17d5ce98c94b79ee8708703b552c2c101714ff" resname="failed.assigned.role.user">
@@ -168,9 +168,12 @@
       </trans-unit>
       <trans-unit id="fb7171e412fc18e77fe5c7c5e20e85a37c0b126a" resname="role.assign_limit_subtree.universaldiscovery.title">
         <source>Pick the location to use as subtree limitation when assigning the role "%roleIdentifier%"</source>
-        <target xml:lang="fr" state="translated">Choisir l’emplacement pour servir de limitation de la sous-arborescence lorsque vous affectez le rôle de « %roleIdentifier% »</target>
+        <target xml:lang="fr" state="translated">Choisir l’emplacement pour servir de limitation de la sous-arborescence lorsque vous affectez le rôle « %roleIdentifier% »</target>
         <note>key: role.assign_limit_subtree.universaldiscovery.title</note>
         <jms:reference-file line="203">Resources/views/Role/view_role.html.twig</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="fr">Choisir l’emplacement pour servir de limitation de la sous-arborescence lorsque vous affectez le rôle de « %roleIdentifier% »</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="fr">Choisissez l’emplacement pour servir de limitation de la sous-arborescence lorsque vous affectez le rôle de « %roleIdentifier% »</target>
         </alt-trans>
@@ -201,9 +204,12 @@
       </trans-unit>
       <trans-unit id="c8259f57183169ec1b3106c34cda7cc61aaf7386" resname="role.assigned.to.user.section.limited">
         <source>"%name%" role has been assigned to %count% users/groups limited to "%sectionName%" section</source>
-        <target xml:lang="fr" state="translated">Le rôle de la « %name% » a été attribué à %count% utilisateurs/groupes avec limitation à la section « %sectionName% »</target>
+        <target xml:lang="fr" state="translated">Le rôle « %name% » a été attribué à %count% utilisateurs/groupes avec limitation à la section « %sectionName% »</target>
         <note>key: role.assigned.to.user.section.limited</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="fr">Le rôle de la « %name% » a été attribué à %count% utilisateurs/groupes avec limitation à la section « %sectionName% »</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="fr">Le rôle de la « %name% » a été attribué à %count% utilisateurs/groupes limités à la section « %sectionName% »</target>
         </alt-trans>
