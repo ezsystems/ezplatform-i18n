@@ -6,6 +6,61 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="d678f06484db09b324fcc056117c6f2d8b6637a5" resname="action.redirect.udw.title">
+        <source>Select content</source>
+        <target xml:lang="de" state="translated">Inhalt auswählen</target>
+        <note>key: action.redirect.udw.title</note>
+      </trans-unit>
+      <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
+        <source>Create a form</source>
+        <target xml:lang="de" state="translated">Formular erstellen</target>
+        <note>key: create.form</note>
+      </trans-unit>
+      <trans-unit id="3f906d4d0bd35a175f501ab96fc7d4c2b2c3ec71" resname="drag.drop.call.to.action">
+        <source>Create a form by dragging and dropping elements here</source>
+        <target xml:lang="de" state="translated">Formular erstellen, indem Element hier via Drag &amp; Drop eingefügt werden</target>
+        <note>key: drag.drop.call.to.action</note>
+      </trans-unit>
+      <trans-unit id="81feac9c1754220f9ea3354d88cf49d263c09941" resname="field.remove">
+        <source>Remove</source>
+        <target xml:lang="de" state="translated">Entfernen</target>
+        <note>key: field.remove</note>
+      </trans-unit>
+      <trans-unit id="b2df64a559c6f9166c782a24eee835d78f4f402b" resname="field.settings">
+        <source>Settings</source>
+        <target xml:lang="de" state="translated">Einstellungen</target>
+        <note>key: field.settings</note>
+      </trans-unit>
+      <trans-unit id="d00b39815c187d832cef3239eb7a77580728dc47" resname="form">
+        <source>Form</source>
+        <target xml:lang="de" state="translated">Formular</target>
+        <note>key: form</note>
+      </trans-unit>
+      <trans-unit id="2b24e8a77a5856e68018ff59e13bd319e400c546" resname="form.name">
+        <source>Name of a form</source>
+        <target xml:lang="de" state="translated">Name des Formulars</target>
+        <note>key: form.name</note>
+      </trans-unit>
+      <trans-unit id="99c07fbdbe0c40a68138652eb91532d9737ed7b2" resname="form.no_preview">
+        <source>Preview is not available.</source>
+        <target xml:lang="de" state="translated">Die Vorschau ist nicht verfügbar.</target>
+        <note>key: form.no_preview</note>
+      </trans-unit>
+      <trans-unit id="c88a64c6517d43ccbc9538c60be5b376dd8d1c2f" resname="form.submit.redirect.to.location">
+        <source>Redirect to a content item</source>
+        <target xml:lang="de" state="translated">Weiterleitung zu einem Inhaltselement</target>
+        <note>key: form.submit.redirect.to.location</note>
+      </trans-unit>
+      <trans-unit id="65fd44ca95e6b01a674925b4634f939c0c280066" resname="form.submit.redirect.url">
+        <source>Redirect to URL</source>
+        <target xml:lang="de" state="translated">Weiterleitung zu einer URL</target>
+        <note>key: form.submit.redirect.url</note>
+      </trans-unit>
+      <trans-unit id="ad3eefd76947df269b9a9c6e0874ffe2c02bc5d2" resname="form.submit.select.action">
+        <source>Select an action after form submission</source>
+        <target xml:lang="de" state="translated">Aktion nach Formular-Einsendung wählen</target>
+        <note>key: form.submit.select.action</note>
+      </trans-unit>
       <trans-unit id="e59a9bc08909c5317a5bbb26eafd46ed15948021" resname="form_builder.attribute.button.action.empty">
         <source>Select an action after form submission </source>
         <target xml:lang="de" state="needs-translation"> </target>
