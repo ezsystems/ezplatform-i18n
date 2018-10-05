@@ -11,6 +11,16 @@
         <target xml:lang="zh-HK" state="translated">內容類型</target>
         <note>key: policy.limitation.identifier.class</note>
       </trans-unit>
+      <trans-unit id="76adf2a27f1ae0ab14b623729cd3f281a6e2c285" resname="policy.limitation.identifier.group">
+        <source>Content Type Group</source>
+        <target xml:lang="zh-HK" state="translated">內容類型組</target>
+        <note>key: policy.limitation.identifier.group</note>
+      </trans-unit>
+      <trans-unit id="cee78b25ec2de77cf09109e6a2ac175a515a8350" resname="policy.limitation.identifier.language">
+        <source>Language</source>
+        <target xml:lang="zh-HK" state="translated">語言</target>
+        <note>key: policy.limitation.identifier.language</note>
+      </trans-unit>
       <trans-unit id="be2b0449251f53db814dc4fbbb27e534419add2b" resname="policy.limitation.identifier.node">
         <source>Location</source>
         <target xml:lang="zh-HK" state="translated">位置</target>
