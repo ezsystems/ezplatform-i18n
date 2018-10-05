@@ -34,6 +34,11 @@
         <target xml:lang="zh-HK" state="translated">最後貢獻者</target>
         <note>key: tab.details.last_contributor</note>
       </trans-unit>
+      <trans-unit id="26bd81ee7b010fa5846859eb4c2464764effeb81" resname="tab.details.published_version">
+        <source>Published version</source>
+        <target xml:lang="zh-HK" state="translated">已發佈版本</target>
+        <note>key: tab.details.published_version</note>
+      </trans-unit>
       <trans-unit id="67ff5cca435b058142e77b820d5d72090fa26346" resname="tab.details.section_id">
         <source>Section ID</source>
         <target xml:lang="zh-HK" state="translated">區段ID</target>
