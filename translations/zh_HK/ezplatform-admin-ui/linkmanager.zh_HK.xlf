@@ -16,6 +16,11 @@
         <target xml:lang="zh-HK" state="translated">無 URLs</target>
         <note>key: url.list.no_urls</note>
       </trans-unit>
+      <trans-unit id="226d3de8d2685074e329b9eca1657c96d9c89ead" resname="url.search">
+        <source>Search</source>
+        <target xml:lang="zh-HK" state="translated">搜尋</target>
+        <note>key: url.search</note>
+      </trans-unit>
       <trans-unit id="3e0d8fcb74e476fcae45da9c4c7b0b261118c7a3" resname="url.status.invalid">
         <source>Invalid</source>
         <target xml:lang="zh-HK" state="translated">無效</target>
@@ -35,6 +40,11 @@
         <source>Name</source>
         <target xml:lang="zh-HK" state="translated">名稱</target>
         <note>key: url.usages.column.name</note>
+      </trans-unit>
+      <trans-unit id="d831a1a74184672a12e3b9ae099692d1b4fd55b1" resname="url.usages.content_status.published">
+        <source>Published</source>
+        <target xml:lang="zh-HK" state="translated">已發佈</target>
+        <note>key: url.usages.content_status.published</note>
       </trans-unit>
     </body>
   </file>
