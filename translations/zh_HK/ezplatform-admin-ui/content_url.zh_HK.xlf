@@ -68,8 +68,11 @@
       </trans-unit>
       <trans-unit id="d244966cab8b41f92fd5553d8f33f0e1ca8bf85f" resname="tab.urls.custom_url_aliases">
         <source>Custom URL aliases for %contentName%</source>
-        <target xml:lang="zh-HK" state="translated"> 自定義%contentName%的URL aliases</target>
+        <target xml:lang="zh-HK" state="translated">自定義%contentName%的URL aliases</target>
         <note>key: tab.urls.custom_url_aliases</note>
+        <alt-trans>
+          <target xml:lang="zh-HK"> 自定義%contentName%的URL aliases</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="zh-HK">  定制%contentName%的URL aliases</target>
         </alt-trans>
