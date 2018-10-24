@@ -56,6 +56,11 @@
         <target xml:lang="ach">crwdns215842:0crwdne215842:0</target>
         <note>key: notifications</note>
       </trans-unit>
+      <trans-unit id="79036b8a9fecbed5d0c14a94c5639d611c6ab6d1" resname="notifications.modal.message.error">
+        <source>Cannot update notifications count</source>
+        <target xml:lang="ach">crwdns216392:0crwdne216392:0</target>
+        <note>key: notifications.modal.message.error</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
