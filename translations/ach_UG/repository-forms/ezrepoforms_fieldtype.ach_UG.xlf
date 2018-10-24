@@ -61,6 +61,11 @@
         <target xml:lang="ach">crwdns215609:0crwdne215609:0</target>
         <note>key: content.field_type.ezmedia.width</note>
       </trans-unit>
+      <trans-unit id="56f2bad53d241371a48f88accc3ef08a9bc643b6" resname="content.field_type.ezimageasset.alternative_text">
+        <source>Alternative text</source>
+        <target xml:lang="ach">crwdns216494:0crwdne216494:0</target>
+        <note>key: content.field_type.ezimageasset.alternative_text</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
