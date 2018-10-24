@@ -63,11 +63,23 @@
         <note>key: actionbar.translate</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="36ec797c4394265124b47a9ef9d8981ab3cb80c1" resname="content.being.copied.under">
+        <source>"%contentName%" is being copied under "%parentContentName%"</source>
+        <target xml:lang="hi" state="translated">"%contentName%" की नकल "%parentContentName%" में कि जा रही हे।</target>
+        <note>key: content.being.copied.under</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="2be07d7fa67c4111b55ff1ae95aa7bb38df17774" resname="content.browser.title">
         <source>Content browser</source>
         <target xml:lang="hi" state="translated">सामग्री ब्राउज़र</target>
         <note>key: content.browser.title</note>
         <jms:reference-file>Resources/public/js/views/services/ez-discoverybarviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a45dde06d9f58df76767d6fdaa8da714979b737d" resname="content.copied.under">
+        <source>'%contentName%' has been successfully copied under '%parentContentName%'</source>
+        <target xml:lang="hi" state="translated">'%contentName%' की नकल '%parentContentName%' में सफलतापूर्वक की गई हे।</target>
+        <note>key: content.copied.under</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="0bc4676a2e348119912d9a0cb23c8b9c2db54b38" resname="createcontentaction.loading">
         <source>Loading</source>
