@@ -6,10 +6,70 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="ff5d293e5499e24b93cc23c8c41eb68c3762479c" resname="bookmarks_table.title">
+        <source>Bookmarks</source>
+        <target xml:lang="he" state="translated">מועדפים</target>
+        <note>key: bookmarks_table.title</note>
+      </trans-unit>
+      <trans-unit id="2921f779fd4005262284393eba6ddc0a458c2f7b" resname="browse.tab.label">
+        <source>Browse</source>
+        <target xml:lang="he" state="translated">לחפש</target>
+        <note>key: browse.tab.label</note>
+      </trans-unit>
+      <trans-unit id="ba10e05f0dd0a4ddd591d79b498616594637a854" resname="cancel.label">
+        <source>Cancel</source>
+        <target xml:lang="he" state="translated">ביטול</target>
+        <note>key: cancel.label</note>
+      </trans-unit>
+      <trans-unit id="7a0ef5e28c76e86c44ddc4be01796aeb86a0b69d" resname="confirm.label">
+        <source>Confirm</source>
+        <target xml:lang="he" state="translated">אישור</target>
+        <note>key: confirm.label</note>
+      </trans-unit>
+      <trans-unit id="e9a888525e3ce94bba2f9338397737bf1fb22b09" resname="content_meta_preview.creation_date.label">
+        <source>Creation date</source>
+        <target xml:lang="he" state="translated">תאריך יצירה</target>
+        <note>key: content_meta_preview.creation_date.label</note>
+      </trans-unit>
+      <trans-unit id="85001327f4bcfe4aeeef01b6a2a30dddbc7b8bf5" resname="content_meta_preview.image_preview_not_available.info">
+        <source>Content preview is not available</source>
+        <target xml:lang="he" state="translated">תצוגה מקדימה של תוכן לא זמין</target>
+        <note>key: content_meta_preview.image_preview_not_available.info</note>
+      </trans-unit>
+      <trans-unit id="cccd1a21d1f34d69f0e43773a7a67552996bf858" resname="content_meta_preview.last_modified.label">
+        <source>Last modified</source>
+        <target xml:lang="he" state="translated">עודכן לאחרונה</target>
+        <note>key: content_meta_preview.last_modified.label</note>
+      </trans-unit>
+      <trans-unit id="9d3c056b12ea03758e481bff87db4abd3f631938" resname="content_meta_preview.translations.label">
+        <source>Translations</source>
+        <target xml:lang="he" state="translated">תרגומים</target>
+        <note>key: content_meta_preview.translations.label</note>
+      </trans-unit>
+      <trans-unit id="b8f784350c5bed6122168889767a2fb6595b76f3" resname="content_on_the_fly.create_content.label">
+        <source>Create content</source>
+        <target xml:lang="he" state="translated">ליצור תוכן</target>
+        <note>key: content_on_the_fly.create_content.label</note>
+      </trans-unit>
+      <trans-unit id="b540f7e368b0536dff94f8ae6a003fbccc16ebc0" resname="content_on_the_fly.location_not_allowed.message">
+        <source>Sorry, but this location is not selectable.</source>
+        <target xml:lang="he" state="translated">מצטער, אבל המיקום הזה אינו ניתן לבחירה.</target>
+        <note>key: content_on_the_fly.location_not_allowed.message</note>
+      </trans-unit>
+      <trans-unit id="326dd4779000122d000366eff63ad02a71d11e6e" resname="content_on_the_fly.no_permission.message">
+        <source>Sorry, but you don't have permission for this action. Please contact your site Admin.</source>
+        <target xml:lang="he" state="translated">מצטער, אבל אין לך הרשאה עבור פעולה זו. אנא צרו קשר עם האתר שלך admin.</target>
+        <note>key: content_on_the_fly.no_permission.message</note>
+      </trans-unit>
       <trans-unit id="e697d887ff644fe0e7dab46d7af3e319fd452988" resname="content_on_the_fly.publish.label">
         <source>Publish</source>
         <target xml:lang="he" state="translated">פרסם</target>
         <note>key: content_on_the_fly.publish.label</note>
+      </trans-unit>
+      <trans-unit id="05dae994ac8cfc7ad1c0753d03d9549fc81d7431" resname="content_on_the_fly.select_a_content_type.title">
+        <source>Select a Content Type</source>
+        <target xml:lang="he" state="translated">בחר סוג תוכן</target>
+        <note>key: content_on_the_fly.select_a_content_type.title</note>
       </trans-unit>
       <trans-unit id="f695b36207b8d98ee23a94851a6f12104c96cb79" resname="content_on_the_fly.select_language.title">
         <source>Select a language</source>
@@ -21,6 +81,11 @@
         <target xml:lang="he" state="translated">תבחר מיקום</target>
         <note>key: content_on_the_fly.select_location.title</note>
       </trans-unit>
+      <trans-unit id="f6781adbd133acf94a3f18f91af23dcdd987c956" resname="content_on_the_fly.type_to_refine.placeholder">
+        <source>Type to refine</source>
+        <target xml:lang="he" state="translated">סוג כדי ללטש</target>
+        <note>key: content_on_the_fly.type_to_refine.placeholder</note>
+      </trans-unit>
       <trans-unit id="253d33be3e05fdfc7eccdf76261790437394e4d2" resname="content_table.header.name">
         <source>Name</source>
         <target xml:lang="he" state="translated">שם</target>
@@ -30,6 +95,11 @@
         <source>Content Type</source>
         <target xml:lang="he" state="translated">סוג תוכן</target>
         <note>key: content_table.header.type</note>
+      </trans-unit>
+      <trans-unit id="02d2ca49d119841871e55720557c6f9440415954" resname="content_table.not_available.label">
+        <source>N/A</source>
+        <target xml:lang="he" state="translated">לא רלבנטי</target>
+        <note>key: content_table.not_available.label</note>
       </trans-unit>
       <trans-unit id="6ea767d3b737c5c2c231b63217de8435910e937e" resname="create.tab.label">
         <source>Create</source>
@@ -71,10 +141,25 @@
         <target xml:lang="he" state="translated">שם</target>
         <note>key: search.results_table.header.name</note>
       </trans-unit>
+      <trans-unit id="880e62f62269d6895b0dbe6dd86107d19e8ec43e" resname="search.results_table.header.type">
+        <source>Content Type</source>
+        <target xml:lang="he" state="translated">סוג תוכן</target>
+        <note>key: search.results_table.header.type</note>
+      </trans-unit>
+      <trans-unit id="245e73fb98e828b4dfc5a5bdcac80c54c4a2e35e" resname="search.results_table.not_available.label">
+        <source>N/A</source>
+        <target xml:lang="he" state="translated">לא רלבנטי</target>
+        <note>key: search.results_table.not_available.label</note>
+      </trans-unit>
       <trans-unit id="ea7ef9ac99f5da0f28a3bfdefba263c2d835c3b8" resname="search.results_table.title">
         <source>Search results</source>
         <target xml:lang="he" state="translated">תוצאות חיפוש</target>
         <note>key: search.results_table.title</note>
+      </trans-unit>
+      <trans-unit id="01a91a8c8a743958bf64a1c53868927062725a76" resname="search.submit.label">
+        <source>Search</source>
+        <target xml:lang="he" state="translated">חיפוש</target>
+        <note>key: search.submit.label</note>
       </trans-unit>
       <trans-unit id="608c50a43afa7c8772d6be56a7c523264159e00d" resname="search.tab.label">
         <source>Search</source>
