@@ -11,6 +11,11 @@
         <target xml:lang="he" state="translated">סנטר</target>
         <note>key: block_text_align_center_btn.label</note>
       </trans-unit>
+      <trans-unit id="e9151d069b51a054185d5a9183626cb6995e3607" resname="blocktext_align_justify_btn.label">
+        <source>Justify</source>
+        <target xml:lang="he" state="translated">יישר</target>
+        <note>key: blocktext_align_justify_btn.label</note>
+      </trans-unit>
       <trans-unit id="fb43488f3117923887d60b470389b92564d1224e" resname="blocktext_align_left_btn.label">
         <source>Left</source>
         <target xml:lang="he" state="translated">שמאל</target>
@@ -95,6 +100,11 @@
         <source>Save</source>
         <target xml:lang="he" state="translated">שמור</target>
         <note>key: link_edit_btn.action_row.save</note>
+      </trans-unit>
+      <trans-unit id="a09126ebd2c27b8a83c1e9a5377ef7db6045b4d8" resname="link_edit_btn.button_row.block.placeholder.text">
+        <source>Type or paste link here</source>
+        <target xml:lang="he" state="translated">הקלד או הדבק קישור כאן</target>
+        <note>key: link_edit_btn.button_row.block.placeholder.text</note>
       </trans-unit>
       <trans-unit id="d9139bdb7978ed01bb6a7fd7f2ba31bfee633de2" resname="link_edit_btn.button_row.link_to">
         <source>Link to</source>
