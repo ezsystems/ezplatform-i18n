@@ -94,6 +94,21 @@
         <target xml:lang="he" state="translated">מותאם</target>
         <note>key: form_builder.validator.regex.pattern.custom</note>
       </trans-unit>
+      <trans-unit id="a794978c8a73ee98bb2b7499d370b4c057dd6da8" resname="remove.item">
+        <source>Remove item</source>
+        <target xml:lang="he" state="translated">הסרת פריט</target>
+        <note>key: remove.item</note>
+      </trans-unit>
+      <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content">
+        <source>Select content</source>
+        <target xml:lang="he" state="translated">בחר תוכן</target>
+        <note>key: select.content</note>
+      </trans-unit>
+      <trans-unit id="fea3ad9d846ad8a0a3d3ff18e1882df57ef4ea73" resname="select.content.item">
+        <source>Select content item</source>
+        <target xml:lang="he" state="translated">בחר תוכן הפריטים</target>
+        <note>key: select.content.item</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
