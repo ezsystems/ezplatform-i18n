@@ -6,6 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="0b27a32b6a1d59164f8f3f899f5bb1e1632ea13c" resname="bookmarks.tab.label">
+        <source>Bookmarks</source>
+        <target xml:lang="he" state="translated">מועדפים</target>
+        <note>key: bookmarks.tab.label</note>
+      </trans-unit>
+      <trans-unit id="d60a9f5151198e2d342a7706a87cc94c6b99df0b" resname="bookmarks_table.no_bookmarks.message">
+        <source>No content items. Content items you bookmark will appear here.</source>
+        <target xml:lang="he" state="translated">אין פריטים תוכן. פריטי תוכן של מועדפים תופיע כאן.</target>
+        <note>key: bookmarks_table.no_bookmarks.message</note>
+      </trans-unit>
       <trans-unit id="ff5d293e5499e24b93cc23c8c41eb68c3762479c" resname="bookmarks_table.title">
         <source>Bookmarks</source>
         <target xml:lang="he" state="translated">מועדפים</target>
@@ -41,15 +51,30 @@
         <target xml:lang="he" state="translated">עודכן לאחרונה</target>
         <note>key: content_meta_preview.last_modified.label</note>
       </trans-unit>
+      <trans-unit id="2faa37c3b3ca4cb7dff16ef157fd9a4ca4858f5b" resname="content_meta_preview.title">
+        <source>Content Meta Preview</source>
+        <target xml:lang="he" state="translated">תצוגה מקדימה של תוכן מטא</target>
+        <note>key: content_meta_preview.title</note>
+      </trans-unit>
       <trans-unit id="9d3c056b12ea03758e481bff87db4abd3f631938" resname="content_meta_preview.translations.label">
         <source>Translations</source>
         <target xml:lang="he" state="translated">תרגומים</target>
         <note>key: content_meta_preview.translations.label</note>
       </trans-unit>
+      <trans-unit id="c6b0a2b3a3cefe1deff4a144c540b0189f7b536a" resname="content_on_the_fly.choose_language_and_content_type.title">
+        <source>Choose Language and Content Type</source>
+        <target xml:lang="he" state="translated">לבחור שפה, סוג תוכן</target>
+        <note>key: content_on_the_fly.choose_language_and_content_type.title</note>
+      </trans-unit>
       <trans-unit id="b8f784350c5bed6122168889767a2fb6595b76f3" resname="content_on_the_fly.create_content.label">
         <source>Create content</source>
         <target xml:lang="he" state="translated">ליצור תוכן</target>
         <note>key: content_on_the_fly.create_content.label</note>
+      </trans-unit>
+      <trans-unit id="3175cbfd789bf52f1924443c64ed542f2965f410" resname="content_on_the_fly.creating_content.title">
+        <source>Creating - %contentType% in %language%</source>
+        <target xml:lang="he" state="translated">יצירת - %סוג תוכן% %שפה%</target>
+        <note>key: content_on_the_fly.creating_content.title</note>
       </trans-unit>
       <trans-unit id="b540f7e368b0536dff94f8ae6a003fbccc16ebc0" resname="content_on_the_fly.location_not_allowed.message">
         <source>Sorry, but this location is not selectable.</source>
@@ -175,6 +200,21 @@
         <source>Confirmed items</source>
         <target xml:lang="he" state="translated">פריטים מאושרים</target>
         <note>key: select_content.confirmed_items.title</note>
+      </trans-unit>
+      <trans-unit id="86535815d7e1e8cfb646988cd6049bbf3f2ab4e9" resname="select_content.limit.label">
+        <source>Limit %items% max</source>
+        <target xml:lang="he" state="translated">מגבלת %פריטים% מקסימום</target>
+        <note>key: select_content.limit.label</note>
+      </trans-unit>
+      <trans-unit id="7f49fb26a42bf2c8f67a41c45c1871edf5f75ec7" resname="select_content.no_confirmed_content.title">
+        <source>No confirmed content yet</source>
+        <target xml:lang="he" state="translated">אין תוכן מאושר עדיין</target>
+        <note>key: select_content.no_confirmed_content.title</note>
+      </trans-unit>
+      <trans-unit id="1ca7c6075ce2a6c2a9f9657526bde3d21e4e51a3" resname="select_content.not_available.label">
+        <source>N/A</source>
+        <target xml:lang="he" state="translated">לא רלבנטי</target>
+        <note>key: select_content.not_available.label</note>
       </trans-unit>
     </body>
   </file>
