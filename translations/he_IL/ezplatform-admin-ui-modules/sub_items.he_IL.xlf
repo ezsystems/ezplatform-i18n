@@ -51,6 +51,31 @@
         <target xml:lang="he" state="translated">תבנית התגובה לא חוקי</target>
         <note>key: load_content_items.invalid_response_format.error.message</note>
       </trans-unit>
+      <trans-unit id="3b84946bc3cacc7c087ccdf3546c3e1d32718075" resname="load_more.action.text">
+        <source>Show %limit% more results</source>
+        <target xml:lang="he" state="translated">הצג %limit% תוצאות נוספות</target>
+        <note>key: load_more.action.text</note>
+      </trans-unit>
+      <trans-unit id="0b518af9d0e5e0471ad7c9aefbcda068ff71d0ab" resname="load_more.info.text">
+        <source><![CDATA[Viewing <strong>%loaded%</strong> out of <strong>%total%</strong> sub-items]]></source>
+        <target xml:lang="he" state="translated"><![CDATA[לצפות <strong>%loaded%</strong> מתוך <strong>%total%</strong> פריטי משנה]]></target>
+        <note>key: load_more.info.text</note>
+      </trans-unit>
+      <trans-unit id="276a7024903672cd0476c82ba8845453e13db95e" resname="no_items.message">
+        <source>This location has no sub-items</source>
+        <target xml:lang="he" state="translated">אין במיקום זה  פריטי תת-משנה</target>
+        <note>key: no_items.message</note>
+      </trans-unit>
+      <trans-unit id="af207d1e719904a39524b34212a1ea6116cb3d46" resname="switch_to_grid_view.btn.label">
+        <source>View as grid</source>
+        <target xml:lang="he" state="translated">הצג כרשת</target>
+        <note>key: switch_to_grid_view.btn.label</note>
+      </trans-unit>
+      <trans-unit id="b5bfcc24141601264b6c03972d8e45bbb7c49a09" resname="switch_to_list_view.btn.label">
+        <source>View as list</source>
+        <target xml:lang="he" state="translated">הצג כרשימה</target>
+        <note>key: switch_to_list_view.btn.label</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
