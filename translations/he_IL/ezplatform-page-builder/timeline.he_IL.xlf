@@ -26,6 +26,11 @@
         <target xml:lang="he" state="translated">אירוע</target>
         <note>key: events_table.event.header</note>
       </trans-unit>
+      <trans-unit id="ee97caad08c2e3308f12b9eb54f8e5e3464df2ab" resname="events_table.title">
+        <source>Upcoming scheduled events</source>
+        <target xml:lang="he" state="translated">אירועים מתוכננים בקרוב</target>
+        <note>key: events_table.title</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
