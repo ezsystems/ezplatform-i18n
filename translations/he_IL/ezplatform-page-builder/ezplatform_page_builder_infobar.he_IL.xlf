@@ -21,6 +21,11 @@
         <target xml:lang="he" state="translated">לא כל הבלוקים היו מוגדר כראוי. . בבקשה, לעדכן את נתונים חסרים. החלפה לתצוגה השדה ולמלא את השדות הדרושים אחרים</target>
         <note>key: infobar.form.and.page.field.type.error.message</note>
       </trans-unit>
+      <trans-unit id="6d037e40791b42019dc9de45a770945c4ec905cb" resname="infobar.form.error.message">
+        <source>Switch to the Field view and fill in the required fields</source>
+        <target xml:lang="he" state="translated">החלפה לתצוגה השדה ולמלא את השדות הדרושים</target>
+        <note>key: infobar.form.error.message</note>
+      </trans-unit>
       <trans-unit id="e1027757af4cedb3577c7b7e63789ebd329fdb1e" resname="infobar.last_edited">
         <source>Last edited:</source>
         <target xml:lang="he" state="translated">נערך לאחרונה:</target>
@@ -36,10 +41,25 @@
         <target xml:lang="he" state="translated">תצוגה</target>
         <note>key: infobar.mode.viewing</note>
       </trans-unit>
+      <trans-unit id="e6010c4a8967391fc3c84fae454468a4eb5f9a72" resname="infobar.page.field.type.error.message">
+        <source>Not all blocks were properly configured. Please, update missing data</source>
+        <target xml:lang="he" state="translated">לא כל הבלוקים היו מוגדרים כראוי. . בבקשה, לעדכן את נתונים חסרים</target>
+        <note>key: infobar.page.field.type.error.message</note>
+      </trans-unit>
       <trans-unit id="1739daaed5307ca22b5e2f1729a1746c6de8c346" resname="infobar.translation.add">
         <source>Add new translation</source>
         <target xml:lang="he" state="translated">הוסף תרגום</target>
         <note>key: infobar.translation.add</note>
+      </trans-unit>
+      <trans-unit id="60ccc34e85fea1e10d1340926cd10d2d692e75b3" resname="infobar.translation.no_fallback_language">
+        <source>You do not have a fallback language</source>
+        <target xml:lang="he" state="translated">אין לך שפה בסיס מוגדרת</target>
+        <note>key: infobar.translation.no_fallback_language</note>
+      </trans-unit>
+      <trans-unit id="2cc4e79efc4101503a381a2440fd864e2cac93a1" resname="infobar.translation.using_fallback_language">
+        <source>You are on the fallback language</source>
+        <target xml:lang="he" state="translated">אתה אל שפה בסיס מובחרת</target>
+        <note>key: infobar.translation.using_fallback_language</note>
       </trans-unit>
     </body>
   </file>
