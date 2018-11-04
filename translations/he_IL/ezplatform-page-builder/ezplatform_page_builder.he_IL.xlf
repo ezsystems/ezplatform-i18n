@@ -11,6 +11,11 @@
         <target xml:lang="he" state="translated">javascript.disabled.required</target>
         <note>key: javascript.disabled.required</note>
       </trans-unit>
+      <trans-unit id="1ac530659b5b57d48cf6d95bc51ead90f1a2ac6d" resname="javascript.enable">
+        <source>javascript.enable</source>
+        <target xml:lang="he" state="translated">javascript.enable</target>
+        <note>key: javascript.enable</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
