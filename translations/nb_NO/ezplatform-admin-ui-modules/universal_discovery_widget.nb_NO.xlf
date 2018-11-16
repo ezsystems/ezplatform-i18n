@@ -61,6 +61,11 @@
         <target xml:lang="nb" state="translated">Oversettelser</target>
         <note>key: content_meta_preview.translations.label</note>
       </trans-unit>
+      <trans-unit id="c6b0a2b3a3cefe1deff4a144c540b0189f7b536a" resname="content_on_the_fly.choose_language_and_content_type.title">
+        <source>Choose Language and Content Type</source>
+        <target xml:lang="nb" state="translated">Velge språk og innholdstype</target>
+        <note>key: content_on_the_fly.choose_language_and_content_type.title</note>
+      </trans-unit>
       <trans-unit id="b8f784350c5bed6122168889767a2fb6595b76f3" resname="content_on_the_fly.create_content.label">
         <source>Create content</source>
         <target xml:lang="nb" state="translated">Opprette innhold</target>
