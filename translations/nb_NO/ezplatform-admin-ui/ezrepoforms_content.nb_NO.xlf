@@ -101,6 +101,11 @@
         <target xml:lang="nb" state="translated">Last opp fil</target>
         <note>key: fieldtype.binary_base.upload_file</note>
       </trans-unit>
+      <trans-unit id="dcf8a820f28bd6b955d76c6d3b95a2661d2b7540" resname="fieldtype.ezimageasset.select.label">
+        <source>Select from your repository</source>
+        <target xml:lang="nb" state="translated">Velg fra ditt register</target>
+        <note>key: fieldtype.ezimageasset.select.label</note>
+      </trans-unit>
       <trans-unit id="bf1b649ad290a62f1192ee5b4fb58f7bdfc8e50d" resname="fieldtype.ezimageasset.upload.label">
         <source>Upload image</source>
         <target xml:lang="nb" state="translated">Last opp bilde</target>
