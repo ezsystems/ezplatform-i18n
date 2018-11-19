@@ -111,6 +111,11 @@
         <target xml:lang="nb" state="translated">Seksjonsnavn</target>
         <note>key: tab.details.section_name</note>
       </trans-unit>
+      <trans-unit id="6ba61ac8194e021eb1515cc2d3d33ff006e2d55d" resname="tab.details.state_details">
+        <source>State details</source>
+        <target xml:lang="nb" state="translated">Status detaljer</target>
+        <note>key: tab.details.state_details</note>
+      </trans-unit>
       <trans-unit id="bbbd7d6b2d1c59cedd3012f3d4375ade8cc50c15" resname="tab.details.state_group_id">
         <source>Group ID</source>
         <target xml:lang="nb" state="translated">Gruppe-ID</target>
@@ -125,6 +130,11 @@
         <source>Group name</source>
         <target xml:lang="nb" state="translated">Gruppenavn</target>
         <note>key: tab.details.state_group_name</note>
+      </trans-unit>
+      <trans-unit id="0ae393a967d866426ebdb62c810ea218c011ea5f" resname="tab.details.state_id">
+        <source>State ID</source>
+        <target xml:lang="nb" state="translated">Status ID</target>
+        <note>key: tab.details.state_id</note>
       </trans-unit>
       <trans-unit id="e185e68f61ce9867e2cafcf406650e12c3a81d05" resname="tab.details.state_identifier">
         <source>Identifier</source>
