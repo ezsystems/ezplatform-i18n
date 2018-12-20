@@ -156,6 +156,11 @@
         <target xml:lang="ach">crwdns215987:0crwdne215987:0</target>
         <note>key: pagination.prev</note>
       </trans-unit>
+      <trans-unit id="fde645e6790429ce2f904099b7aa2712224be9aa" resname="popup.close.label">
+        <source>Close</source>
+        <target xml:lang="ach">crwdns216568:0crwdne216568:0</target>
+        <note>key: popup.close.label</note>
+      </trans-unit>
       <trans-unit id="446c59c15f6d865a1d0ddd1c86711a7fc276cbb8" resname="search.content_table.title">
         <source>Search results</source>
         <target xml:lang="ach">crwdns215988:0crwdne215988:0</target>
