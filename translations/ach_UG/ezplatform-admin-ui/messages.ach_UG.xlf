@@ -265,6 +265,16 @@
         <target xml:lang="ach">crwdns216390:0crwdne216390:0</target>
         <note>key: trash_asset_single.modal.message_main</note>
       </trans-unit>
+      <trans-unit id="a70d984d62d43229009fefdbfdc740199ede75ca" resname="trash_container.modal.header">
+        <source>Deleting content</source>
+        <target xml:lang="ach">crwdns216722:0crwdne216722:0</target>
+        <note>key: trash_container.modal.header</note>
+      </trans-unit>
+      <trans-unit id="1e6a1d97cca01a288e47d2d14479274b90e6c6c1" resname="trash_container.modal.message_main">
+        <source>Deleting %content_name% will also delete its sub-items, under its location(s). To confirm, please check below</source>
+        <target xml:lang="ach">crwdns216724:0%content_name%crwdne216724:0</target>
+        <note>key: trash_container.modal.message_main</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
