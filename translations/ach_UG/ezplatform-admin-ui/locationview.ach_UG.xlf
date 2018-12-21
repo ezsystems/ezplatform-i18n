@@ -416,11 +416,6 @@
         <target xml:lang="ach">crwdns215146:0crwdne215146:0</target>
         <note>key: tab.versions.modal.message</note>
       </trans-unit>
-      <trans-unit id="8cf65ae83fb935858286b91006ff05b9d6d15c4a" resname="tab.versions.no_permission">
-        <source>You don't have access to view the content item's versions</source>
-        <target xml:lang="ach">crwdns215147:0crwdne215147:0</target>
-        <note>key: tab.versions.no_permission</note>
-      </trans-unit>
       <trans-unit id="f6c48627db1d026d9f3fbc3b5b1cb1b3c60af4b3" resname="tab.versions.published_version">
         <source>Published version</source>
         <target xml:lang="ach">crwdns215148:0crwdne215148:0</target>
