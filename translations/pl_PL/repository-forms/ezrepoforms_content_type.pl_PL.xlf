@@ -272,11 +272,6 @@
         <target xml:lang="pl" state="translated">Wartość minimalna</target>
         <note>key: field_definition.ezfloat.min_value</note>
       </trans-unit>
-      <trans-unit id="784ef2a6786a65136f44158cccc5daa2c16a33bb" resname="field_definition.ezimage.max_file_size" approved="yes">
-        <source>Maximum file size (MB)</source>
-        <target xml:lang="pl" state="translated">Maksymalny rozmiar pliku (MB)</target>
-        <note>key: field_definition.ezimage.max_file_size</note>
-      </trans-unit>
       <trans-unit id="8a95f664895f9c72e5ca52ea43908ad3d54c8966" resname="field_definition.ezinteger.default_value" approved="yes">
         <source>Default value</source>
         <target xml:lang="pl" state="translated">Wartość domyślna</target>
