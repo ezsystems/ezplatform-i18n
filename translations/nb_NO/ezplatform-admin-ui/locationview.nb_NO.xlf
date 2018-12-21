@@ -404,11 +404,6 @@
         <target xml:lang="nb" state="translated">Vil du slette versjoner?</target>
         <note>key: tab.versions.modal.message</note>
       </trans-unit>
-      <trans-unit id="8cf65ae83fb935858286b91006ff05b9d6d15c4a" resname="tab.versions.no_permission">
-        <source>You don't have access to view the content item's versions</source>
-        <target xml:lang="nb" state="translated">Du har ikke tilgang til å vise innholdselementets versjoner</target>
-        <note>key: tab.versions.no_permission</note>
-      </trans-unit>
       <trans-unit id="f6c48627db1d026d9f3fbc3b5b1cb1b3c60af4b3" resname="tab.versions.published_version">
         <source>Published version</source>
         <target xml:lang="nb" state="translated">Publisert versjon</target>
