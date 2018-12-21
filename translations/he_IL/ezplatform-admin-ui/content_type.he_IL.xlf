@@ -26,11 +26,6 @@
         <target xml:lang="he" state="translated">%identifier%</target>
         <note>key: content_type.breadcrumb.edit</note>
       </trans-unit>
-      <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
-        <source>%identifier%</source>
-        <target xml:lang="he" state="translated">%identifier%</target>
-        <note>key: content_type.breadcrumb.view</note>
-      </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
         <target xml:lang="he" state="translated">קונטיינר</target>
