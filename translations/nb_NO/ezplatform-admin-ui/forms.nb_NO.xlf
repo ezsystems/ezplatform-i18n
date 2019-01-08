@@ -161,6 +161,11 @@
         <target xml:lang="nb" state="translated">%children_count% innholds elementer under plasseringen %content_name%</target>
         <note>key: location_trash_form.trash_container</note>
       </trans-unit>
+      <trans-unit id="2598fe0050f38f3c02014a404ed14aee248e27d1" resname="location_trash_form.trash_with_asset">
+        <source>Delete %content_name% (%content_type%) and its related image assets</source>
+        <target xml:lang="nb" state="translated">Slette %content_name% (%content_type%) og dens relaterte bilder</target>
+        <note>key: location_trash_form.trash_with_asset</note>
+      </trans-unit>
       <trans-unit id="f86cd366867d370b0706e250355f605e2b783229" resname="policies_delete_form.delete">
         <source>Delete policies</source>
         <target xml:lang="nb" state="translated">Slett vilkår</target>
@@ -170,6 +175,171 @@
         <source>Create</source>
         <target xml:lang="nb" state="translated">Opprett</target>
         <note>key: policy_create.save</note>
+      </trans-unit>
+      <trans-unit id="d29c07272fff793138cbb6f7dbb41b08a16ff815" resname="role.policy.all_modules">
+        <source>All modules</source>
+        <target xml:lang="nb" state="translated">Alle moduler</target>
+        <note>key: role.policy.all_modules</note>
+      </trans-unit>
+      <trans-unit id="d4690e1d0c7d2cf0468ab5aa04caa891e1b5efbd" resname="role.policy.all_modules_all_functions">
+        <source>All modules / All functions</source>
+        <target xml:lang="nb" state="translated">Alle moduler / alle funksjoner</target>
+        <note>key: role.policy.all_modules_all_functions</note>
+      </trans-unit>
+      <trans-unit id="f52e45b25ff70b3d1d07c57911ceda58dcdf7431" resname="role.policy.class">
+        <source>Content Type</source>
+        <target xml:lang="nb" state="translated">Innholdstype</target>
+        <note>key: role.policy.class</note>
+      </trans-unit>
+      <trans-unit id="2f746c35c587bdc84cacf38d0e63e08855e831ab" resname="role.policy.class.all_functions">
+        <source>Content Type / All functions</source>
+        <target xml:lang="nb" state="translated">Innholdstype / Alle funksjoner</target>
+        <note>key: role.policy.class.all_functions</note>
+        <alt-trans>
+          <target xml:lang="nb">Innholdstype / alle funksjoner</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="02049080d0f8dea3f723bbd1a280900b0657914e" resname="role.policy.class.create">
+        <source>Content Type / Create</source>
+        <target xml:lang="nb" state="translated">Innholdstype / Opprett</target>
+        <note>key: role.policy.class.create</note>
+      </trans-unit>
+      <trans-unit id="17ee6a3320ad9ac02c376bdcb875b266c28e34db" resname="role.policy.class.delete">
+        <source>Content Type / Delete</source>
+        <target xml:lang="nb" state="translated">Innholdstype / Slett</target>
+        <note>key: role.policy.class.delete</note>
+      </trans-unit>
+      <trans-unit id="f47b14b0adc8b08abd44c37e801d6b2c3180a2ee" resname="role.policy.class.update">
+        <source>Content Type / Update</source>
+        <target xml:lang="nb" state="translated">Innholdstype / Oppdater</target>
+        <note>key: role.policy.class.update</note>
+      </trans-unit>
+      <trans-unit id="ffe83a713e8b33558df040efa1eeadd0b1cc18e0" resname="role.policy.content">
+        <source>Content</source>
+        <target xml:lang="nb" state="translated">Innhold</target>
+        <note>key: role.policy.content</note>
+      </trans-unit>
+      <trans-unit id="ea72f76a43bc0ec3eff965e68279dab5597b19c0" resname="role.policy.content.all_functions">
+        <source>Content / All functions</source>
+        <target xml:lang="nb" state="translated">Innhold / Alle funksjoner</target>
+        <note>key: role.policy.content.all_functions</note>
+      </trans-unit>
+      <trans-unit id="e050709df5ae56b1e9168038182f4c52221ffab9" resname="role.policy.content.cleantrash">
+        <source>Content / Cleantrash</source>
+        <target xml:lang="nb" state="translated">Innhold / Cleantrash</target>
+        <note>key: role.policy.content.cleantrash</note>
+      </trans-unit>
+      <trans-unit id="597c25abf1e2d91e50b82d2699f8b85f68c9f305" resname="role.policy.content.create">
+        <source>Content / Create</source>
+        <target xml:lang="nb" state="translated">Innhold / Opprett</target>
+        <note>key: role.policy.content.create</note>
+        <alt-trans>
+          <target xml:lang="nb">Innholdstype / Opprett</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="019bae55ae37c03117c05eb25cc208e9b2396827" resname="role.policy.content.diff">
+        <source>Content / Diff</source>
+        <target xml:lang="nb" state="translated">Innhold / Diff</target>
+        <note>key: role.policy.content.diff</note>
+      </trans-unit>
+      <trans-unit id="bdb3e6e10d770d20ffa7966acb58d3e9cf9805e2" resname="role.policy.content.edit">
+        <source>Content / Edit</source>
+        <target xml:lang="nb" state="translated">Innhold / Redigere</target>
+        <note>key: role.policy.content.edit</note>
+      </trans-unit>
+      <trans-unit id="1049e14eb7fec2dc053571f607e0eb044a06e455" resname="role.policy.content.hide">
+        <source>Content / Hide</source>
+        <target xml:lang="nb" state="translated">Innhold / Skjul</target>
+        <note>key: role.policy.content.hide</note>
+      </trans-unit>
+      <trans-unit id="d05f0b35c91f7d444c466871ff02886d74dc8f55" resname="role.policy.content.manage_locations">
+        <source>Content / Manage locations</source>
+        <target xml:lang="nb" state="translated">Innhold / Administrer plasseringer</target>
+        <note>key: role.policy.content.manage_locations</note>
+      </trans-unit>
+      <trans-unit id="6f595f392af03d8b2e46449d527530e3e1f8eb94" resname="role.policy.content.publish">
+        <source>Content / Publish</source>
+        <target xml:lang="nb" state="translated">Innhold / Publiser</target>
+        <note>key: role.policy.content.publish</note>
+      </trans-unit>
+      <trans-unit id="2b5e52d4783100540d791657f21d9dc1a9fbbb30" resname="role.policy.content.read">
+        <source>Content / Read</source>
+        <target xml:lang="nb" state="translated">Innhold / Lese</target>
+        <note>key: role.policy.content.read</note>
+      </trans-unit>
+      <trans-unit id="967c7d2238b619a63fd0fe00bc0ccd4589e9de4f" resname="role.policy.content.remove">
+        <source>Content / Remove</source>
+        <target xml:lang="nb" state="translated">Innhold / Fjern</target>
+        <note>key: role.policy.content.remove</note>
+      </trans-unit>
+      <trans-unit id="4ce8821efab15ebdd683e28f0dcffaa352d1ef0f" resname="role.policy.content.restore">
+        <source>Content / Restore</source>
+        <target xml:lang="nb" state="translated">Innhold / Gjenopprett</target>
+        <note>key: role.policy.content.restore</note>
+      </trans-unit>
+      <trans-unit id="c9a69e432793ed3480c2252f3ca1b4e6564e853e" resname="role.policy.content.translate">
+        <source>Content / Translate</source>
+        <target xml:lang="nb" state="translated">Innhold / Oversett</target>
+        <note>key: role.policy.content.translate</note>
+      </trans-unit>
+      <trans-unit id="3f9650d96394bc9e6d53360117d2dd3d6842735f" resname="role.policy.content.translations">
+        <source>Content / Translations</source>
+        <target xml:lang="nb" state="translated">Innhold / Oversettelser</target>
+        <note>key: role.policy.content.translations</note>
+      </trans-unit>
+      <trans-unit id="0a641d7ab31b48b6b87a9d2cd4763afae237219d" resname="role.policy.content.versionread">
+        <source>Content / Versionread</source>
+        <target xml:lang="nb" state="translated">Innhold / Lese versjon</target>
+        <note>key: role.policy.content.versionread</note>
+        <alt-trans>
+          <target xml:lang="nb">Innhold / Versjonlesning</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="4e615fcc14a6f5b70fb3e7957518c27bc508d92f" resname="role.policy.content.versionremove">
+        <source>Content / Versionremove</source>
+        <target xml:lang="nb" state="translated">Innhold / Fjerne versjon</target>
+        <note>key: role.policy.content.versionremove</note>
+        <alt-trans>
+          <target xml:lang="nb">Innhold / Versjonfjerning</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="6ff0bcc1b70d0dbde113af7649393f667612cace" resname="role.policy.role">
+        <source>Role</source>
+        <target xml:lang="nb" state="translated">Rolle</target>
+        <note>key: role.policy.role</note>
+      </trans-unit>
+      <trans-unit id="17f55c17c76ccfcf636ce429b867f89069609bcd" resname="role.policy.role.all_functions">
+        <source>Role / All functions</source>
+        <target xml:lang="nb" state="translated">Rolle / Alle funksjoner</target>
+        <note>key: role.policy.role.all_functions</note>
+      </trans-unit>
+      <trans-unit id="cf922ebcfc51ae098cb57a938984916e03c0481c" resname="role.policy.role.assign">
+        <source>Role / Assign</source>
+        <target xml:lang="nb" state="translated">Rolle / Tilordne</target>
+        <note>key: role.policy.role.assign</note>
+      </trans-unit>
+      <trans-unit id="f12cc8bc381274c232a90deae7ce981dbc3634cb" resname="role.policy.role.create">
+        <source>Role / Create</source>
+        <target xml:lang="nb" state="translated">Rolle / Opprette</target>
+        <note>key: role.policy.role.create</note>
+        <alt-trans>
+          <target xml:lang="nb">Rolle / Opprett</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="d17c0339a48c6e273c56673c31037427fd95ecee" resname="role.policy.role.delete">
+        <source>Role / Delete</source>
+        <target xml:lang="nb" state="translated">Rolle / Slette</target>
+        <note>key: role.policy.role.delete</note>
+      </trans-unit>
+      <trans-unit id="1e809cc5ab4e914e5dc51fa2dc0a6b62a90bc2f1" resname="role.policy.role.read">
+        <source>Role / Read</source>
+        <target xml:lang="nb" state="translated">Rolle / Lese</target>
+        <note>key: role.policy.role.read</note>
+      </trans-unit>
+      <trans-unit id="2f8dccfd705bd25a633826ff76f595e118a71dcf" resname="role.policy.role.update">
+        <source>Role / Update</source>
+        <target xml:lang="nb" state="translated">Rolle / Oppdatere</target>
+        <note>key: role.policy.role.update</note>
       </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
         <source>Type</source>
