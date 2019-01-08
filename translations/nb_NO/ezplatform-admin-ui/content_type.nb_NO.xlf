@@ -84,6 +84,11 @@
         <target xml:lang="nb" state="translated">Utkast til innholdstypen '%name%' finnes allerede og er låst av '%userContentName% '</target>
         <note>key: content_type.edit.error.already_exists</note>
       </trans-unit>
+      <trans-unit id="f0338ef34826caa021c41ff85413e48601af30b7" resname="content_type.edit.select_language">
+        <source>Select language</source>
+        <target xml:lang="nb" state="translated">Velg språk</target>
+        <note>key: content_type.edit.select_language</note>
+      </trans-unit>
       <trans-unit id="9eb89a2f51954babc5ff51f9060cbcda91dcf408" resname="content_type.field_definitions.modal.message">
         <source>Do you want to delete selected field definitions?</source>
         <target xml:lang="nb" state="translated">Vil du slette valgte felt definisjon?</target>
@@ -213,6 +218,11 @@
         <source>Global properties</source>
         <target xml:lang="nb" state="translated">Globale egenskaper</target>
         <note>key: content_type.view.edit.global_properties</note>
+      </trans-unit>
+      <trans-unit id="36fb0205d165f72c996205435b5a06ba42695bb6" resname="content_type.view.edit.notranslatable_fields_disabled">
+        <source>Some of the fields are disabled when translating a Content Type. To modify them, please edit the Content Type in the main language</source>
+        <target xml:lang="nb" state="translated">Noen av feltene er deaktivert når man oversetter en innholdstype. Hvis du vil endre dem, kan du redigere innholdstypen i hovedspråket</target>
+        <note>key: content_type.view.edit.notranslatable_fields_disabled</note>
       </trans-unit>
       <trans-unit id="7eee653a60490713df6bcf4b847853020b79a1ee" resname="content_type.view.edit.title">
         <source>Editing Content Type: %name%</source>
@@ -393,6 +403,16 @@
         <source>Delete</source>
         <target xml:lang="nb" state="translated">Slett</target>
         <note>key: modal.delete</note>
+      </trans-unit>
+      <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
+        <source>Translations</source>
+        <target xml:lang="nb" state="translated">Oversettelser</target>
+        <note>key: tab.name.translations</note>
+      </trans-unit>
+      <trans-unit id="eb3b504a0281951f15692e888226579aa99bb512" resname="tab.name.view">
+        <source>View</source>
+        <target xml:lang="nb" state="translated">Visning</target>
+        <note>key: tab.name.view</note>
       </trans-unit>
       <trans-unit id="3e9deeb426f08a404990a6926d70558955272593" resname="yes_no">
         <source>{0}No|{1}Yes</source>
