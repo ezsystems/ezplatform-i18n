@@ -18,6 +18,18 @@
         <note>key: changed.main.location.of</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="c44059e516685b63857e6db9c22a11ed0d990519" resname="deleted.content">
+        <source>'%name%' was deleted</source>
+        <target xml:lang="it" state="translated">'%name%' è stato soppresso</target>
+        <note>key: deleted.content</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d427c063172fceb30447a5a485474536ffcc8c91" resname="failed.to.load.content">
+        <source>Failed to load the content %id%</source>
+        <target xml:lang="it" state="translated">Impossibile caricare il contenuto %id%</target>
+        <note>key: failed.to.load.content</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e0be1422e1af400879a6716220eabc9ad4fca29e" resname="locationview.details.ascending">
         <source>Ascending</source>
         <target xml:lang="it" state="translated">Ascendente</target>
