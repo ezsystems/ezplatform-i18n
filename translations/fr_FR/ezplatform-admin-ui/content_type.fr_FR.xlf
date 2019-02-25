@@ -15,6 +15,9 @@
         <source>Cannot create Content Type. Could not find 'Language' with identifier '%languageCode%'</source>
         <target xml:lang="fr" state="translated">Impossible de créer le type de contenu. Le système n’a pas trouvé de langue avec l'identifiant «%languageCode%»</target>
         <note>key: content_type.add.missing_language</note>
+        <alt-trans>
+          <target xml:lang="fr">Impossible de créer le Type de Contenu. Le système n’a pas trouvé de langue avec l'identifiant «%languageCode%»</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="0aef83746d192c9b507ecabebe250aeb684cc210" resname="content_type.breadcrumb.create">
         <source>Creating a new Content Type</source>
@@ -28,18 +31,27 @@
       </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
-        <target xml:lang="fr" state="translated">Peut contenir des sous éléments</target>
+        <target xml:lang="fr" state="translated">Conteneur</target>
         <note>key: content_type.container</note>
+        <alt-trans>
+          <target xml:lang="fr">Peut contenir des sous éléments</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="694d6cbecfee848cf42a300c0b310f45ece6a09b" resname="content_type.content_field_definitions">
         <source>Content field definitions</source>
-        <target xml:lang="fr" state="translated">Définitions de champ de contenu</target>
+        <target xml:lang="fr" state="translated">Définitions de champs de contenu</target>
         <note>key: content_type.content_field_definitions</note>
+        <alt-trans>
+          <target xml:lang="fr">Définitions de champ de contenu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type">
         <source>Content Type</source>
-        <target xml:lang="fr" state="translated">Type</target>
+        <target xml:lang="fr" state="translated">Type de Contenu</target>
         <note>key: content_type.content_type</note>
+        <alt-trans>
+          <target xml:lang="fr">Type</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability">
         <source>Default content availability</source>
@@ -48,8 +60,11 @@
       </trans-unit>
       <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help">
         <source>Default availability in primary language, if translation is absent</source>
-        <target xml:lang="fr" state="translated">Disponible dans la langue par défaut même, si la traduction n'existe pas</target>
+        <target xml:lang="fr" state="translated">Disponible dans la langue par défaut, si la traduction n'existe pas</target>
         <note>key: content_type.default_availability.help</note>
+        <alt-trans>
+          <target xml:lang="fr">Disponible dans la langue par défaut même, si la traduction n'existe pas</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="d14799b2ac8854ab3f0bb9976258c3db39213d09" resname="content_type.default_availability.value">
         <source>{0} Not available|{1} Available</source>
@@ -68,8 +83,11 @@
       </trans-unit>
       <trans-unit id="5ecc210ad42274409db7ec4e56ba286b487639c6" resname="content_type.delete.success">
         <source>Content type '%name%' deleted.</source>
-        <target xml:lang="fr" state="translated">Le type de contenu «%name%» a été supprimé.</target>
+        <target xml:lang="fr" state="translated">Le Type de Contenu «%name%» a été supprimé.</target>
         <note>key: content_type.delete.success</note>
+        <alt-trans>
+          <target xml:lang="fr">Le type de contenu «%name%» a été supprimé.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
         <source>Description</source>
@@ -78,8 +96,11 @@
       </trans-unit>
       <trans-unit id="2f9cb676bb073af7a8e4b52b374384dfc0aa9551" resname="content_type.edit.error.already_exists">
         <source>Draft of the Content Type '%name%' already exists and is locked by '%userContentName%'</source>
-        <target xml:lang="fr" state="translated">Un brouillon du type de contenu «%name%» existe déjà et est vérrouillé par l'utilisateur «%userContentName%»</target>
+        <target xml:lang="fr" state="translated">Un brouillon du Type de Contenu '%name%' existe déjà et est verrouillé par l'utilisateur '%userContentName%'</target>
         <note>key: content_type.edit.error.already_exists</note>
+        <alt-trans>
+          <target xml:lang="fr">Un brouillon du type de contenu «%name%» existe déjà et est vérrouillé par l'utilisateur «%userContentName%»</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="f0338ef34826caa021c41ff85413e48601af30b7" resname="content_type.edit.select_language">
         <source>Select language</source>
@@ -88,8 +109,11 @@
       </trans-unit>
       <trans-unit id="9eb89a2f51954babc5ff51f9060cbcda91dcf408" resname="content_type.field_definitions.modal.message">
         <source>Do you want to delete selected field definitions?</source>
-        <target xml:lang="fr" state="translated">Voulez-vous supprimer les définitions de champ de contenu ?</target>
+        <target xml:lang="fr" state="translated">Voulez-vous supprimer les définitions de champ de contenu sélectionnées ?</target>
         <note>key: content_type.field_definitions.modal.message</note>
+        <alt-trans>
+          <target xml:lang="fr">Voulez-vous supprimer les définitions de champ de contenu ?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="8bf6d91a6b0731a38103e04e03f3f9e8bf4459a1" resname="content_type.global_properties">
         <source>Global properties</source>
@@ -103,8 +127,11 @@
       </trans-unit>
       <trans-unit id="02f6ddfcdd8bbd05cdd1b954503a3801288b74eb" resname="content_type.modal.message">
         <source>Do you want to delete Content Type?</source>
-        <target xml:lang="fr" state="translated">Voulez-vous vraiment supprimer le type de contenu ?</target>
+        <target xml:lang="fr" state="translated">Voulez-vous vraiment supprimer le Type de Contenu ?</target>
         <note>key: content_type.modal.message</note>
+        <alt-trans>
+          <target xml:lang="fr">Voulez-vous vraiment supprimer le type de contenu ?</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
         <source>Name</source>
@@ -113,8 +140,11 @@
       </trans-unit>
       <trans-unit id="9e9628fc59643f3167ebe81dfed3e40eecd281c9" resname="content_type.name_schema">
         <source>Content name pattern</source>
-        <target xml:lang="fr" state="translated">Gabarit de nom de contenu</target>
+        <target xml:lang="fr" state="translated">Modèle de nom de contenu</target>
         <note>key: content_type.name_schema</note>
+        <alt-trans>
+          <target xml:lang="fr">Gabarit de nom de contenu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="da59e6ae77cae375a30d7285970b1b2d9690049e" resname="content_type.sort_field.ascending">
         <source>Ascending</source>
@@ -411,6 +441,11 @@
         <source>Translations</source>
         <target xml:lang="fr" state="translated">Traductions</target>
         <note>key: tab.name.translations</note>
+      </trans-unit>
+      <trans-unit id="eb3b504a0281951f15692e888226579aa99bb512" resname="tab.name.view">
+        <source>View</source>
+        <target xml:lang="fr" state="translated">Afficher</target>
+        <note>key: tab.name.view</note>
       </trans-unit>
       <trans-unit id="3e9deeb426f08a404990a6926d70558955272593" resname="yes_no">
         <source>{0}No|{1}Yes</source>
