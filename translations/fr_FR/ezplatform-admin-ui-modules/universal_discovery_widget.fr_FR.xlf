@@ -126,8 +126,11 @@
       </trans-unit>
       <trans-unit id="f6781adbd133acf94a3f18f91af23dcdd987c956" resname="content_on_the_fly.type_to_refine.placeholder">
         <source>Type to refine</source>
-        <target xml:lang="fr" state="translated">Ecrire pour affiner</target>
+        <target xml:lang="fr" state="translated">Taper pour affiner</target>
         <note>key: content_on_the_fly.type_to_refine.placeholder</note>
+        <alt-trans>
+          <target xml:lang="fr">Ecrire pour affiner</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="253d33be3e05fdfc7eccdf76261790437394e4d2" resname="content_table.header.name">
         <source>Name</source>
@@ -136,8 +139,11 @@
       </trans-unit>
       <trans-unit id="784e9e0e0671803d9d58b430f0e9ffa9c721740d" resname="content_table.header.type">
         <source>Content Type</source>
-        <target xml:lang="fr" state="translated">Type</target>
+        <target xml:lang="fr" state="translated">Type de Contenu</target>
         <note>key: content_table.header.type</note>
+        <alt-trans>
+          <target xml:lang="fr">Type</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="02d2ca49d119841871e55720557c6f9440415954" resname="content_table.not_available.label">
         <source>N/A</source>
