@@ -63,8 +63,11 @@
       </trans-unit>
       <trans-unit id="c6b0a2b3a3cefe1deff4a144c540b0189f7b536a" resname="content_on_the_fly.choose_language_and_content_type.title">
         <source>Choose Language and Content Type</source>
-        <target xml:lang="fr" state="translated">Choisissez la langue et le Type de contenu</target>
+        <target xml:lang="fr" state="translated">Choisissez la langue et le Type de Contenu</target>
         <note>key: content_on_the_fly.choose_language_and_content_type.title</note>
+        <alt-trans>
+          <target xml:lang="fr">Choisissez la langue et le Type de contenu</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="b8f784350c5bed6122168889767a2fb6595b76f3" resname="content_on_the_fly.create_content.label">
         <source>Create content</source>
@@ -83,8 +86,11 @@
       </trans-unit>
       <trans-unit id="326dd4779000122d000366eff63ad02a71d11e6e" resname="content_on_the_fly.no_permission.message">
         <source>Sorry, but you don't have permission for this action. Please contact your site Admin.</source>
-        <target xml:lang="fr" state="translated">Désolé, mais vous n’avez pas l’autorisation pour cette action. Veuillez communiquer avec l'administrateur de votre site.</target>
+        <target xml:lang="fr" state="translated">Désolé, mais vous n’avez pas l’autorisation pour cette action. Veuillez contacter l'administrateur de votre site.</target>
         <note>key: content_on_the_fly.no_permission.message</note>
+        <alt-trans>
+          <target xml:lang="fr">Désolé, mais vous n’avez pas l’autorisation pour cette action. Veuillez communiquer avec l'administrateur de votre site.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="e697d887ff644fe0e7dab46d7af3e319fd452988" resname="content_on_the_fly.publish.label">
         <source>Publish</source>
@@ -93,8 +99,11 @@
       </trans-unit>
       <trans-unit id="05dae994ac8cfc7ad1c0753d03d9549fc81d7431" resname="content_on_the_fly.select_a_content_type.title">
         <source>Select a Content Type</source>
-        <target xml:lang="fr" state="translated">Sélectionner le type de contenu</target>
+        <target xml:lang="fr" state="translated">Sélectionner un Type de Contenu</target>
         <note>key: content_on_the_fly.select_a_content_type.title</note>
+        <alt-trans>
+          <target xml:lang="fr">Sélectionner le type de contenu</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="fr">Sélectionner le Type de Contenu</target>
         </alt-trans>
@@ -109,8 +118,11 @@
       </trans-unit>
       <trans-unit id="29b3651d232c9e47eb5d2e2fd6a2e8979599d6c9" resname="content_on_the_fly.select_location.title">
         <source>Select Location</source>
-        <target xml:lang="fr" state="translated">Choisir l'emplacement</target>
+        <target xml:lang="fr" state="translated">Sélectionnez l'emplacement</target>
         <note>key: content_on_the_fly.select_location.title</note>
+        <alt-trans>
+          <target xml:lang="fr">Choisir l'emplacement</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="f6781adbd133acf94a3f18f91af23dcdd987c956" resname="content_on_the_fly.type_to_refine.placeholder">
         <source>Type to refine</source>
