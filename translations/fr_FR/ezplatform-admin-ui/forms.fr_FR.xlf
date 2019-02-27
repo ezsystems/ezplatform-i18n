@@ -146,10 +146,20 @@
         <target xml:lang="fr" state="translated">Déplacer</target>
         <note>key: location_move.move</note>
       </trans-unit>
+      <trans-unit id="4b7b2b4de853db0d1fb1851e07f3ccc51e5713fc" resname="location_trash_form.default_trash">
+        <source>Delete only %content_name% (%content_type%)</source>
+        <target xml:lang="fr" state="translated">Supprimer seulement %content_name% (%content_type%)</target>
+        <note>key: location_trash_form.default_trash</note>
+      </trans-unit>
       <trans-unit id="796f8196b2bc086fe788e6689a6189c79b8e047e" resname="location_trash_form.trash">
         <source>Send to Trash</source>
         <target xml:lang="fr" state="translated">Envoyer à la corbeille</target>
         <note>key: location_trash_form.trash</note>
+      </trans-unit>
+      <trans-unit id="f9887d04de58202b07207b1521880373c00c8201" resname="location_trash_form.trash_container">
+        <source>%children_count% content items under location %content_name%</source>
+        <target xml:lang="fr" state="translated">%children_count% éléments de contenu sous l'emplacement %content_name%</target>
+        <note>key: location_trash_form.trash_container</note>
       </trans-unit>
       <trans-unit id="f86cd366867d370b0706e250355f605e2b783229" resname="policies_delete_form.delete">
         <source>Delete policies</source>
