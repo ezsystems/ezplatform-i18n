@@ -38,13 +38,19 @@
       </trans-unit>
       <trans-unit id="52574f2c1d5e0b3ffcd4f105b770e91ae1e519fa" resname="search.content.type">
         <source>Content Type:</source>
-        <target xml:lang="fr" state="translated">Type de contenu :</target>
+        <target xml:lang="fr" state="translated">Type de Contenu :</target>
         <note>key: search.content.type</note>
+        <alt-trans>
+          <target xml:lang="fr">Type de contenu :</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="738c66eb92535505455b34b383f8089fb1bc0479" resname="search.created">
         <source>Created:</source>
-        <target xml:lang="fr" state="translated">Crée :</target>
+        <target xml:lang="fr" state="translated">Créé :</target>
         <note>key: search.created</note>
+        <alt-trans>
+          <target xml:lang="fr">Crée :</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="a32fe0699ebb4545ab1a39bab0311633c3f92fc3" resname="search.creator">
         <source>Creator:</source>
@@ -151,13 +157,16 @@
       </trans-unit>
       <trans-unit id="b484be9d33f5cd9961f4ddd89c628f2cbca2a6a1" resname="search.subtree">
         <source>Subtree:</source>
-        <target xml:lang="fr" state="translated">Sous-arbre :</target>
+        <target xml:lang="fr" state="translated">Sous-arborescence :</target>
         <note>key: search.subtree</note>
       </trans-unit>
       <trans-unit id="777cc1ef279096d5a978aa3553e9434d828f8248" resname="search.tips.check_spelling">
         <source>Check spelling of keywords.</source>
-        <target xml:lang="fr" state="translated">Vérifier l’orthographe des mots clés.</target>
+        <target xml:lang="fr" state="translated">Vérifiez l’orthographe des mots clés.</target>
         <note>key: search.tips.check_spelling</note>
+        <alt-trans>
+          <target xml:lang="fr">Vérifier l’orthographe des mots clés.</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="d89a8ff5c4b03f1dd7bd1ce3e3306862e1855751" resname="search.tips.different_keywords">
         <source>Try different keywords.</source>
@@ -181,12 +190,15 @@
       </trans-unit>
       <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type">
         <source>Content Type</source>
-        <target xml:lang="fr" state="translated">Type</target>
+        <target xml:lang="fr" state="translated">Type de Contenu</target>
         <note>key: search.type</note>
+        <alt-trans>
+          <target xml:lang="fr">Type</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="c33e03cc28d02c59ac241dba3a1bb3ea0ab1f358" resname="search.udw.select_content">
         <source>Select Content</source>
-        <target xml:lang="fr" state="translated">Sélectionner un contenu</target>
+        <target xml:lang="fr" state="translated">Sélectionnez un contenu</target>
         <note>key: search.udw.select_content</note>
       </trans-unit>
       <trans-unit id="fe647ff0e12d67501403559464217be468dba3d8" resname="search.viewing">
