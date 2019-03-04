@@ -191,6 +191,56 @@
         <target xml:lang="ach"><![CDATA[crwdns216826:0%viewing%crwdnd216826:0%total%crwdne216826:0]]></target>
         <note>key: workflow.list.viewing</note>
       </trans-unit>
+      <trans-unit id="434e7197d8ef9a80bded55e3eeec99ed5d1b28eb" resname="workflow.view.content_list.table.content_type">
+        <source>Content Type</source>
+        <target xml:lang="ach">crwdns217130:0crwdne217130:0</target>
+        <note>key: workflow.view.content_list.table.content_type</note>
+      </trans-unit>
+      <trans-unit id="0ce5b99c4ebf3a06b4291b9cc7587a01c0c54a73" resname="workflow.view.content_list.table.empty">
+        <source>No content item(s) under review. Any content item under review in the %stageName% stage will appear here.</source>
+        <target xml:lang="ach">crwdns217132:0%stageName%crwdne217132:0</target>
+        <note>key: workflow.view.content_list.table.empty</note>
+      </trans-unit>
+      <trans-unit id="a460d78b8223b8833763f45da7e70b6f7cc250cc" resname="workflow.view.content_list.table.modified_language">
+        <source>Modified langauge</source>
+        <target xml:lang="ach">crwdns217134:0crwdne217134:0</target>
+        <note>key: workflow.view.content_list.table.modified_language</note>
+      </trans-unit>
+      <trans-unit id="0c07def57bc5366e4b014b5634deeea824648a15" resname="workflow.view.content_list.table.name">
+        <source>Name</source>
+        <target xml:lang="ach">crwdns217136:0crwdne217136:0</target>
+        <note>key: workflow.view.content_list.table.name</note>
+      </trans-unit>
+      <trans-unit id="7fd29e64293f361faa1f436ccb8f03064058d790" resname="workflow.view.content_list.table.title">
+        <source>Content item(s) in %stageName% stage (%count%)</source>
+        <target xml:lang="ach">crwdns217138:0%stageName%crwdnd217138:0%count%crwdne217138:0</target>
+        <note>key: workflow.view.content_list.table.title</note>
+      </trans-unit>
+      <trans-unit id="20ad53e76ebb459ccc386fcc1e142f9a3cffcbcc" resname="workflow.view.content_list.table.viewing_page">
+        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
+        <target xml:lang="ach"><![CDATA[crwdns217140:0%viewing%crwdnd217140:0%total%crwdne217140:0]]></target>
+        <note>key: workflow.view.content_list.table.viewing_page</note>
+      </trans-unit>
+      <trans-unit id="f47c31349e59ab533fb5d0cab02364c7405470f4" resname="workflow.view.diagram">
+        <source>Workflow Diagram</source>
+        <target xml:lang="ach">crwdns217142:0crwdne217142:0</target>
+        <note>key: workflow.view.diagram</note>
+      </trans-unit>
+      <trans-unit id="2852fd5a9fd7bc497fa5fe26d6f0f0ad3cb0cdf4" resname="workflow.view.tab.content_list">
+        <source>Content item(s) under review</source>
+        <target xml:lang="ach">crwdns217144:0crwdne217144:0</target>
+        <note>key: workflow.view.tab.content_list</note>
+      </trans-unit>
+      <trans-unit id="1c7c17941fd081fc0d090a50133fcef9b5ea163e" resname="workflow.view.tab.details">
+        <source>Details</source>
+        <target xml:lang="ach">crwdns217146:0crwdne217146:0</target>
+        <note>key: workflow.view.tab.details</note>
+      </trans-unit>
+      <trans-unit id="d383f9c102d01c10e71c120aa1b08f80dcd20fe9" resname="workflow.view.title">
+        <source>Workflow Information</source>
+        <target xml:lang="ach">crwdns217148:0crwdne217148:0</target>
+        <note>key: workflow.view.title</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
