@@ -16,13 +16,8 @@
         <target xml:lang="hi" state="translated">निर्माता</target>
         <note>key: tab.details.creator</note>
       </trans-unit>
-      <trans-unit id="e185e68f61ce9867e2cafcf406650e12c3a81d05" resname="tab.details.state_identifier">
-        <source>Identifier</source>
-        <target xml:lang="hi" state="translated">पहचानकर्ता</target>
-        <note>key: tab.details.state_identifier</note>
-      </trans-unit>
       <trans-unit id="69dea878e2926e6a40b3d4e79b1f723d0aa801c7" resname="tab.details.state_name">
-        <source>Name</source>
+        <source>Current object state</source>
         <target xml:lang="hi" state="translated">नाम</target>
         <note>key: tab.details.state_name</note>
       </trans-unit>
