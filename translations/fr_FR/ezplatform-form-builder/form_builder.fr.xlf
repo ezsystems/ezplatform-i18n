@@ -61,6 +61,11 @@
         <target xml:lang="fr" state="translated">Vrai</target>
         <note>key: form_builder.submission.boolean.true</note>
       </trans-unit>
+      <trans-unit id="777511800f0e95bf9e666213cc65f4cd414f0488" resname="form_builder.validator.regex.pattern.none">
+        <source>None</source>
+        <target xml:lang="fr" state="translated">Aucun</target>
+        <note>key: form_builder.validator.regex.pattern.none</note>
+      </trans-unit>
       <trans-unit id="fcd82220602951cb309c6b53d8a1a5c85f241a21" resname="invalid.fields">
         <source>Not all the fields were configured correctly. Please, provide a proper configuration.</source>
         <target xml:lang="fr" state="translated">Tous les champs n'ont pa été configurés correctement. S'il vous plait, fournir une configuration correcte.</target>
