@@ -38,6 +38,18 @@
                     <a target="_blank" href="%gpl_faq_url%">partageant votre code</a> est de ce qu'il s'agit.]]></target>
         <note>key: dashboard.ez_version.end_of_life</note>
       </trans-unit>
+      <trans-unit id="9bad0b8d1efd71dca8071e736f332b3b4218d557" resname="dashboard.ez_version.end_of_life_upgrade">
+        <source><![CDATA[Unfortunately %release% has reached <a target="_blank" href="%service_life_url%">end of life</a>,
+                please plan to upgrade. If you need assistance, don't hesitate to <a target="_blank" href="%contact_url%">contact eZ</a>.]]></source>
+        <target xml:lang="fr" state="translated"><![CDATA[Malheureusement, %release% a atteint la <a target="_blank" href="%service_life_url%">fin de vie</a>,
+                veuillez planifier une mise à jour. Si vous avez besoin d’aide, n’hésitez pas à <a target="_blank" href="%contact_url%">contacter eZ</a>.]]></target>
+        <note>key: dashboard.ez_version.end_of_life_upgrade</note>
+      </trans-unit>
+      <trans-unit id="d620cc5d1f36ef74cbf6c042e07c0ad89bf47d9f" resname="dashboard.ez_version.end_of_maintenance">
+        <source>Your trial period is coming to an end.</source>
+        <target xml:lang="fr" state="translated">Votre période d’essai touche à sa fin.</target>
+        <note>key: dashboard.ez_version.end_of_maintenance</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
