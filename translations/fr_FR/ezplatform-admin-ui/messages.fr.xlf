@@ -36,6 +36,11 @@
         <target xml:lang="fr" state="translated">Nom d'utilisateur</target>
         <note>key: authentication.username</note>
       </trans-unit>
+      <trans-unit id="b1b04388859d233f757e4f6376af3fc317d4baa6" resname="base.footer_copyright">
+        <source>eZ Platform ©1999-%current_year% %ez_link_open%eZ Systems AS%ez_link_close% and others.</source>
+        <target xml:lang="fr" state="translated">eZ Platform ©1999-%current_year% %ez_link_open%eZ Systems AS%ez_link_close% et autres.</target>
+        <note>key: base.footer_copyright</note>
+      </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
         <target xml:lang="fr" state="translated">Administration</target>
@@ -85,6 +90,26 @@
         <source>In Trash</source>
         <target xml:lang="fr" state="translated">Dans la corbeille</target>
         <note>key: content.in_trash</note>
+      </trans-unit>
+      <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
+        <source>%identifier%</source>
+        <target xml:lang="fr" state="translated">%identifier%</target>
+        <note>key: content_type.breadcrumb.view</note>
+      </trans-unit>
+      <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
+        <source>%name%</source>
+        <target xml:lang="fr" state="translated">%name%</target>
+        <note>key: content_type.view.view.title</note>
+      </trans-unit>
+      <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
+        <source>Content Types</source>
+        <target xml:lang="fr" state="translated">Types de Contenu</target>
+        <note>key: content_type_group.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
+        <source>%identifier%</source>
+        <target xml:lang="fr" state="translated">%identifier%</target>
+        <note>key: content_type_group.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="fe1c876b1a9bcde155f03227bce4ae4fbd54c24f" resname="custom_url_alias_add_form.add">
         <source>Create</source>
@@ -283,6 +308,21 @@
         <source>Are you sure you want to send this content item to trash?</source>
         <target xml:lang="fr" state="translated">Etes-vous sûr de vouloir envoyer cet élément de contenu à la corbeille ?</target>
         <note>key: trash.modal.message</note>
+      </trans-unit>
+      <trans-unit id="0d57f9b91203aa4d9920e63d793b8e62c0bb242c" resname="trash_asset_single.modal.header">
+        <source>Deleting content</source>
+        <target xml:lang="fr" state="translated">Suppression du contenu</target>
+        <note>key: trash_asset_single.modal.header</note>
+      </trans-unit>
+      <trans-unit id="a70d984d62d43229009fefdbfdc740199ede75ca" resname="trash_container.modal.header">
+        <source>Deleting content</source>
+        <target xml:lang="fr" state="translated">Suppression du contenu</target>
+        <note>key: trash_container.modal.header</note>
+      </trans-unit>
+      <trans-unit id="1e6a1d97cca01a288e47d2d14479274b90e6c6c1" resname="trash_container.modal.message_main">
+        <source>Deleting %content_name% will also delete its sub-items, under its location(s). To confirm, please check below</source>
+        <target xml:lang="fr" state="translated">La suppression de %content_name% supprimera également ses sous-éléments, sous ses emplacements. Pour confirmer, veuillez cocher la case ci-dessous</target>
+        <note>key: trash_container.modal.message_main</note>
       </trans-unit>
     </body>
   </file>
