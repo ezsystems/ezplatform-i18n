@@ -26,6 +26,36 @@
         <target xml:lang="fr" state="translated">Nom</target>
         <note>key: workflow.view.content_list.table.name</note>
       </trans-unit>
+      <trans-unit id="7fd29e64293f361faa1f436ccb8f03064058d790" resname="workflow.view.content_list.table.title">
+        <source>Content item(s) in %stageName% stage (%count%)</source>
+        <target xml:lang="fr" state="translated">Élément(s) de contenu à l'étape %stageName% (%count%)</target>
+        <note>key: workflow.view.content_list.table.title</note>
+      </trans-unit>
+      <trans-unit id="20ad53e76ebb459ccc386fcc1e142f9a3cffcbcc" resname="workflow.view.content_list.table.viewing_page">
+        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
+        <target xml:lang="fr" state="translated"><![CDATA[Affichage de <strong>%viewing%</strong> éléments sur <strong>%total%</strong>]]></target>
+        <note>key: workflow.view.content_list.table.viewing_page</note>
+      </trans-unit>
+      <trans-unit id="f47c31349e59ab533fb5d0cab02364c7405470f4" resname="workflow.view.diagram">
+        <source>Workflow Diagram</source>
+        <target xml:lang="fr" state="translated">Diagramme de workflow</target>
+        <note>key: workflow.view.diagram</note>
+      </trans-unit>
+      <trans-unit id="2852fd5a9fd7bc497fa5fe26d6f0f0ad3cb0cdf4" resname="workflow.view.tab.content_list">
+        <source>Content item(s) under review</source>
+        <target xml:lang="fr" state="translated">Élément(s) de contenu en cours de révision</target>
+        <note>key: workflow.view.tab.content_list</note>
+      </trans-unit>
+      <trans-unit id="1c7c17941fd081fc0d090a50133fcef9b5ea163e" resname="workflow.view.tab.details">
+        <source>Details</source>
+        <target xml:lang="fr" state="translated">Détails</target>
+        <note>key: workflow.view.tab.details</note>
+      </trans-unit>
+      <trans-unit id="d383f9c102d01c10e71c120aa1b08f80dcd20fe9" resname="workflow.view.title">
+        <source>Workflow Information</source>
+        <target xml:lang="fr" state="translated">Définition du workflow</target>
+        <note>key: workflow.view.title</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
