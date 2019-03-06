@@ -421,6 +421,16 @@
         <target xml:lang="fr" state="translated">Choisissez une politique</target>
         <note>key: role.policy.type.choose</note>
       </trans-unit>
+      <trans-unit id="78b9d0d52e636ef2d0d1f919de16154404c2be0f" resname="role.policy.user">
+        <source>User</source>
+        <target xml:lang="fr" state="translated">Utilisateur</target>
+        <note>key: role.policy.user</note>
+      </trans-unit>
+      <trans-unit id="d44ce8c33cbc780cff9ca6f05ad2f70002550cd0" resname="role.policy.user.all_functions">
+        <source>User / All functions</source>
+        <target xml:lang="fr" state="translated">User / Toutes les fonctions</target>
+        <note>key: role.policy.user.all_functions</note>
+      </trans-unit>
       <trans-unit id="f11a379ba38d1a4e5fb7de3bc3a2fb76b72fe9dd" resname="role_assignment.delete">
         <source>Delete</source>
         <target xml:lang="fr" state="translated">Supprimer</target>
