@@ -6,53 +6,26 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="434e7197d8ef9a80bded55e3eeec99ed5d1b28eb" resname="workflow.view.content_list.table.content_type">
+        <source>Content Type</source>
+        <target xml:lang="fr" state="translated">Type de Contenu</target>
+        <note>key: workflow.view.content_list.table.content_type</note>
+      </trans-unit>
+      <trans-unit id="0ce5b99c4ebf3a06b4291b9cc7587a01c0c54a73" resname="workflow.view.content_list.table.empty">
+        <source>No content item(s) under review. Any content item under review in the %stageName% stage will appear here.</source>
+        <target xml:lang="fr" state="translated">Aucun élément de contenu en cours de révision. Tout élément de contenu en cours de révision à l'étape %stageName% apparaîtra ici.</target>
+        <note>key: workflow.view.content_list.table.empty</note>
+      </trans-unit>
+      <trans-unit id="a460d78b8223b8833763f45da7e70b6f7cc250cc" resname="workflow.view.content_list.table.modified_language">
+        <source>Modified langauge</source>
+        <target xml:lang="fr" state="translated">Langue modifiée</target>
+        <note>key: workflow.view.content_list.table.modified_language</note>
+      </trans-unit>
+      <trans-unit id="0c07def57bc5366e4b014b5634deeea824648a15" resname="workflow.view.content_list.table.name">
+        <source>Name</source>
+        <target xml:lang="fr" state="translated">Nom</target>
+        <note>key: workflow.view.content_list.table.name</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
