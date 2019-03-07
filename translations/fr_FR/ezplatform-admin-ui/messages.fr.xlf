@@ -309,6 +309,16 @@
         <target xml:lang="fr" state="translated">Etes-vous sûr de vouloir envoyer cet élément de contenu à la corbeille ?</target>
         <note>key: trash.modal.message</note>
       </trans-unit>
+      <trans-unit id="bd97a738137e75de44544db1104bab3a46222791" resname="trash_asset.modal.message_body">
+        <source>If you wish to delete this(/these) asset(s) too, first make sure they are not used by other content. You can check these content going to the asset(s) and looking at their content relations in the Relation tab.</source>
+        <target xml:lang="fr" state="translated">Si vous souhaitez aussi supprimer ce(s) contenu(s) image, assurez-vous d'abord qu'ils ne soient pas utilisés par d'autres contenus. Vous pouvez vérifier ces contenus image et regarder les relations dans l'onglet Relation.</target>
+        <note>key: trash_asset.modal.message_body</note>
+      </trans-unit>
+      <trans-unit id="17c7abad79d72d771a25b064e0de38b72fc6c926" resname="trash_asset.modal.message_header">
+        <source>You are about to delete a content that has one or several asset(s) field(s) used by other content items. These assets will remain available in system.</source>
+        <target xml:lang="fr" state="translated">Vous êtes sur le point de supprimer un contenu qui possède un ou plusieurs contenu(s) image utilisé(s) par d'autres éléments de contenu. Ces actifs resteront disponibles dans le système.</target>
+        <note>key: trash_asset.modal.message_header</note>
+      </trans-unit>
       <trans-unit id="0d57f9b91203aa4d9920e63d793b8e62c0bb242c" resname="trash_asset_single.modal.header">
         <source>Deleting content</source>
         <target xml:lang="fr" state="translated">Suppression du contenu</target>
