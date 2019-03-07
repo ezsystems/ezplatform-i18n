@@ -159,6 +159,12 @@
         <note>key: locationview.locations.remove.selected</note>
         <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="1f6fe54dbf1b1db82393f87d469612c5b307ea81" resname="locationview.locations.reveal">
+        <source>Reveal</source>
+        <target xml:lang="it" state="translated">Rivela</target>
+        <note>key: locationview.locations.reveal</note>
+        <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="30412ae8741b6ad892f8e7121c1df1c98690fe69" resname="locationview.locations.select.content.item">
         <source>Select Content item</source>
         <target xml:lang="it" state="translated">Seleziona l'elemento</target>
@@ -192,6 +198,12 @@
         <note>key: locationview.locations.visible</note>
         <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="5f9c385b31ca9a7d5e7ac7f4bec58bcca1418aa9" resname="locationview.relations.content">
+        <source>Content</source>
+        <target xml:lang="it" state="translated">Contenuto</target>
+        <note>key: locationview.relations.content</note>
+        <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="d6b8b44043ab3a73bd6a8a1e1e9079e55a816623" resname="locationview.relations.no.related.content">
         <source>This content has no related content.</source>
         <target xml:lang="it" state="translated">Questo elementi non ha relazioni.</target>
@@ -220,6 +232,12 @@
         <source>Created</source>
         <target xml:lang="it" state="translated">Creato il</target>
         <note>key: locationview.versions.created</note>
+        <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a7bf4de2ddd469229edee5cf992afa5b2099cd92" resname="locationview.versions.draft.under.edit">
+        <source>Draft under edit</source>
+        <target xml:lang="it" state="translated">Bozza in modifiche</target>
+        <note>key: locationview.versions.draft.under.edit</note>
         <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="06c5892ec7611863b644cdbd638e57d83f88a303" resname="locationview.versions.language">
