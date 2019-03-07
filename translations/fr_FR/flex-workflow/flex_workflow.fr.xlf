@@ -72,8 +72,11 @@
       </trans-unit>
       <trans-unit id="a92726bad87c5ac3957fab36da70813dcf6061be" resname="email.title">
         <source>Flex Workflow Notification</source>
-        <target xml:lang="fr" state="translated">Notifications du Workflow de révision</target>
+        <target xml:lang="fr" state="translated">Notifications de révisions</target>
         <note>key: email.title</note>
+        <alt-trans>
+          <target xml:lang="fr">Notifications du Workflow de révision</target>
+        </alt-trans>
         <alt-trans>
           <target xml:lang="fr">Notifications du processus de publication</target>
         </alt-trans>
