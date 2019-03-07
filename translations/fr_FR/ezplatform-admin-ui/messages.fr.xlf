@@ -314,6 +314,16 @@
         <target xml:lang="fr" state="translated">Suppression du contenu</target>
         <note>key: trash_asset_single.modal.header</note>
       </trans-unit>
+      <trans-unit id="e81a14f38ebe272cb11ef90e2948a8c6602307ca" resname="trash_asset_single.modal.message">
+        <source>You have the option to delete %content_name% (%content_type%) only or to also delete the assets it is using. Make your choice:</source>
+        <target xml:lang="fr" state="translated">Vous avez la possibilité de supprimer %content_name% (%content_type%) uniquement ou également supprimer les contenus associés qu’il utilise. Faites votre choix :</target>
+        <note>key: trash_asset_single.modal.message</note>
+      </trans-unit>
+      <trans-unit id="ff537a1e092270edf7497dc13ce051cdb458958b" resname="trash_asset_single.modal.message_main">
+        <source>You are about to delete a content with one or several asset(s) field(s).</source>
+        <target xml:lang="fr" state="translated">Vous êtes sur le point de supprimer un contenu ayant un ou plusieurs champ(s) connecté à d'autres contenus.</target>
+        <note>key: trash_asset_single.modal.message_main</note>
+      </trans-unit>
       <trans-unit id="a70d984d62d43229009fefdbfdc740199ede75ca" resname="trash_container.modal.header">
         <source>Deleting content</source>
         <target xml:lang="fr" state="translated">Suppression du contenu</target>
