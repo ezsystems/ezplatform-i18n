@@ -96,16 +96,6 @@
         <target xml:lang="es-ES" state="translated">Detalles de la sección</target>
         <note>key: tab.details.section_details</note>
       </trans-unit>
-      <trans-unit id="67ff5cca435b058142e77b820d5d72090fa26346" resname="tab.details.section_id">
-        <source>Section ID</source>
-        <target xml:lang="es-ES" state="translated">ID de sección</target>
-        <note>key: tab.details.section_id</note>
-      </trans-unit>
-      <trans-unit id="0ab2029f0a194849d3f90531f03e37780491d1a6" resname="tab.details.section_identifier">
-        <source>Section identifier</source>
-        <target xml:lang="es-ES" state="translated">Identificador de la sección</target>
-        <note>key: tab.details.section_identifier</note>
-      </trans-unit>
       <trans-unit id="30775f4a9e0512f181cf857fb0f0ea23fe79320d" resname="tab.details.section_name">
         <source>Section name</source>
         <target xml:lang="es-ES" state="translated">Nombre de la sección</target>
@@ -116,33 +106,13 @@
         <target xml:lang="es-ES" state="translated">Detalles del estado</target>
         <note>key: tab.details.state_details</note>
       </trans-unit>
-      <trans-unit id="bbbd7d6b2d1c59cedd3012f3d4375ade8cc50c15" resname="tab.details.state_group_id">
-        <source>Group ID</source>
-        <target xml:lang="es-ES" state="translated">ID de Grupo</target>
-        <note>key: tab.details.state_group_id</note>
-      </trans-unit>
-      <trans-unit id="b4e137dd1267dc4e70e23e289313c9340f065634" resname="tab.details.state_group_identifier">
-        <source>Group identifier</source>
-        <target xml:lang="es-ES" state="translated">Identificador de grupocontribuidor</target>
-        <note>key: tab.details.state_group_identifier</note>
-      </trans-unit>
       <trans-unit id="131730e5ecef276336a53300cdd891e0689023f4" resname="tab.details.state_group_name">
         <source>Group name</source>
         <target xml:lang="es-ES" state="translated">Nombre del grupo</target>
         <note>key: tab.details.state_group_name</note>
       </trans-unit>
-      <trans-unit id="0ae393a967d866426ebdb62c810ea218c011ea5f" resname="tab.details.state_id">
-        <source>State ID</source>
-        <target xml:lang="es-ES" state="translated">ID del estado</target>
-        <note>key: tab.details.state_id</note>
-      </trans-unit>
-      <trans-unit id="e185e68f61ce9867e2cafcf406650e12c3a81d05" resname="tab.details.state_identifier">
-        <source>Identifier</source>
-        <target xml:lang="es-ES" state="translated">Identificador</target>
-        <note>key: tab.details.state_identifier</note>
-      </trans-unit>
       <trans-unit id="69dea878e2926e6a40b3d4e79b1f723d0aa801c7" resname="tab.details.state_name">
-        <source>Name</source>
+        <source>Current object state</source>
         <target xml:lang="es-ES" state="translated">Nombre</target>
         <note>key: tab.details.state_name</note>
       </trans-unit>
@@ -155,11 +125,6 @@
         <source>Order by</source>
         <target xml:lang="es-ES" state="translated">Ordenar por</target>
         <note>key: tab.details.sub_items_listing_by.order_by</note>
-      </trans-unit>
-      <trans-unit id="fe4321b1de5be805ed8224c8cf442a89e9fa38b4" resname="tab.details.sub_items_listing_by_set">
-        <source>Set</source>
-        <target xml:lang="es-ES" state="translated">Establecer</target>
-        <note>key: tab.details.sub_items_listing_by_set</note>
       </trans-unit>
       <trans-unit id="03aa9832291905ed83ba60081ebffe5786d92418" resname="tab.details.sub_items_sorting_order">
         <source>Sub-items sorting order</source>
