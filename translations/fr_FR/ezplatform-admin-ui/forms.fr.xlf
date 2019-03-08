@@ -411,6 +411,16 @@
         <target xml:lang="fr" state="translated">État / Administrer</target>
         <note>key: role.policy.state.administrate</note>
       </trans-unit>
+      <trans-unit id="5a57c4086c786d6c767dfca68486d64c60ec58bf" resname="role.policy.state.all_functions">
+        <source>State / All functions</source>
+        <target xml:lang="fr" state="translated">État / Toutes les fonctions</target>
+        <note>key: role.policy.state.all_functions</note>
+      </trans-unit>
+      <trans-unit id="8c144b2e58f6ba9388517a5929bfd12a0773ddd2" resname="role.policy.state.assign">
+        <source>State / Assign</source>
+        <target xml:lang="fr" state="translated">État / Assigner</target>
+        <note>key: role.policy.state.assign</note>
+      </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
         <source>Type</source>
         <target xml:lang="fr" state="translated">Type</target>
@@ -421,10 +431,35 @@
         <target xml:lang="fr" state="translated">Choisissez une politique</target>
         <note>key: role.policy.type.choose</note>
       </trans-unit>
+      <trans-unit id="73c3d3a21c7264a991abf4e6ffe68751a1dbdb58" resname="role.policy.url">
+        <source>Url</source>
+        <target xml:lang="fr" state="translated">Url</target>
+        <note>key: role.policy.url</note>
+      </trans-unit>
+      <trans-unit id="4b00222e7c5b268480fe9db2de1744d0f25b677f" resname="role.policy.url.all_functions">
+        <source>Url / All functions</source>
+        <target xml:lang="fr" state="translated">Url / Toutes les fonctions</target>
+        <note>key: role.policy.url.all_functions</note>
+      </trans-unit>
+      <trans-unit id="4bf7f289b67892bf61f10b4f9a1db7b6dc09e69a" resname="role.policy.url.update">
+        <source>Url / Update</source>
+        <target xml:lang="fr" state="translated">Url / Mettre à jour</target>
+        <note>key: role.policy.url.update</note>
+      </trans-unit>
+      <trans-unit id="a9e0e8261157424542b507b9ae39b4e1193d24cd" resname="role.policy.url.view">
+        <source>Url / View</source>
+        <target xml:lang="fr" state="translated">Url / Vue</target>
+        <note>key: role.policy.url.view</note>
+      </trans-unit>
       <trans-unit id="78b9d0d52e636ef2d0d1f919de16154404c2be0f" resname="role.policy.user">
         <source>User</source>
         <target xml:lang="fr" state="translated">Utilisateur</target>
         <note>key: role.policy.user</note>
+      </trans-unit>
+      <trans-unit id="647dfa7992026277b6d73295b2ffaefe4cfa12d0" resname="role.policy.user.activation">
+        <source>User / Activation</source>
+        <target xml:lang="fr" state="translated">Utilisateur / Activation</target>
+        <note>key: role.policy.user.activation</note>
       </trans-unit>
       <trans-unit id="d44ce8c33cbc780cff9ca6f05ad2f70002550cd0" resname="role.policy.user.all_functions">
         <source>User / All functions</source>
