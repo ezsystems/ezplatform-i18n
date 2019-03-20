@@ -6,6 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="83d2e0cd1746c268c5117d780a245b996c3964ba" resname="content.deleted">
+        <source>Content deleted</source>
+        <target xml:lang="zh-HK" state="translated">已刪除的內容</target>
+        <note>key: content.deleted</note>
+      </trans-unit>
+      <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title">
+        <source>Title:</source>
+        <target xml:lang="zh-HK" state="translated">標題:</target>
+        <note>key: content.scheduled.title</note>
+      </trans-unit>
       <trans-unit id="dcb8f016db59563b21714e4ba0688f7650fc6995" resname="menu.date_based_publisher">
         <source>Publish later</source>
         <target xml:lang="zh-HK" state="translated">稍後發布</target>
@@ -20,6 +30,11 @@
         <source>Confirm</source>
         <target xml:lang="zh-HK" state="translated">確認</target>
         <note>key: publish_later.confirm</note>
+      </trans-unit>
+      <trans-unit id="c369cb0b16138f3c7906590f6ee5cb7cb21ecd42" resname="publish_later.date_and_time">
+        <source><![CDATA[Date & Time]]></source>
+        <target xml:lang="zh-HK" state="translated"><![CDATA[日期和時間]]></target>
+        <note>key: publish_later.date_and_time</note>
       </trans-unit>
       <trans-unit id="49e01918c7a89ab888e3fea20cf0a9f7953b4908" resname="version.deleted">
         <source>Version deleted</source>
