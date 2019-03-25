@@ -11,6 +11,31 @@
         <target xml:lang="zh-HK" state="translated">更新</target>
         <note>key: policy_create.save</note>
       </trans-unit>
+      <trans-unit id="c418f83922f6a4ea7412120a3b731a3e8665eead" resname="policy_create.update">
+        <source>Update</source>
+        <target xml:lang="zh-HK" state="translated">更新</target>
+        <note>key: policy_create.update</note>
+      </trans-unit>
+      <trans-unit id="05cc1fd4658faa760de6e98cb71e1054157e63a0" resname="policy_delete.delete">
+        <source>Delete</source>
+        <target xml:lang="zh-HK" state="translated">刪除</target>
+        <note>key: policy_delete.delete</note>
+      </trans-unit>
+      <trans-unit id="0eda0d605bd42eb8989a82e546d09ace8bc1b4d9" resname="role.policy.limitation.location.udw_button">
+        <source>Select locations</source>
+        <target xml:lang="zh-HK" state="translated">選取位置</target>
+        <note>key: role.policy.limitation.location.udw_button</note>
+      </trans-unit>
+      <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title">
+        <source>Select locations to use as policy limitation</source>
+        <target xml:lang="zh-HK" state="translated">選擇要用作策略限制的位置</target>
+        <note>key: role.policy.limitation.location.udw_title</note>
+      </trans-unit>
+      <trans-unit id="be8159ab7985797bd281cb0f7f58bb4d2c925159" resname="role.policy.limitation.not_implemented">
+        <source>Editing limitations for '%limitationTypeIdentifier%' is not implemented yet.</source>
+        <target xml:lang="zh-HK" state="translated">"%limitationTypeIdentifier%" 的編輯限制尚未實現。</target>
+        <note>key: role.policy.limitation.not_implemented</note>
+      </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
         <source>Type</source>
         <target xml:lang="zh-HK" state="translated">類型</target>
