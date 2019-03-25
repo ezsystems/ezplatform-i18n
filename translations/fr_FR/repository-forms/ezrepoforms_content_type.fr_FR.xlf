@@ -339,6 +339,9 @@
         <note>key: field_definition.ezimage.max_file_size</note>
         <jms:reference-file line="25">lib/FieldType/Mapper/ImageFormMapper.php</jms:reference-file>
         <alt-trans>
+          <target xml:lang="fr">Taille de fichier maximale (octets)</target>
+        </alt-trans>
+        <alt-trans>
           <target xml:lang="fr">Taille de fichier maximale (octet)</target>
         </alt-trans>
       </trans-unit>
