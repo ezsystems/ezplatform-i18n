@@ -21,6 +21,11 @@
         <target xml:lang="zh-HK" state="translated">搜尋</target>
         <note>key: search</note>
       </trans-unit>
+      <trans-unit id="2c0d71c1688c1f04ff156bb9dff167ca5ae663b6" resname="search.any.content.type">
+        <source>Any content type</source>
+        <target xml:lang="zh-HK" state="translated">任何內容類型</target>
+        <note>key: search.any.content.type</note>
+      </trans-unit>
       <trans-unit id="8605c5030193beebc7097a652f6c9dcb648cccec" resname="search.apply">
         <source>Apply</source>
         <target xml:lang="zh-HK" state="translated">應用</target>
@@ -35,6 +40,61 @@
         <source>Content Type:</source>
         <target xml:lang="zh-HK" state="translated">內容類型:</target>
         <note>key: search.content.type</note>
+      </trans-unit>
+      <trans-unit id="738c66eb92535505455b34b383f8089fb1bc0479" resname="search.created">
+        <source>Created:</source>
+        <target xml:lang="zh-HK" state="translated">已創建</target>
+        <note>key: search.created</note>
+      </trans-unit>
+      <trans-unit id="a32fe0699ebb4545ab1a39bab0311633c3f92fc3" resname="search.creator">
+        <source>Creator:</source>
+        <target xml:lang="zh-HK" state="translated">建立者</target>
+        <note>key: search.creator</note>
+      </trans-unit>
+      <trans-unit id="3d9f547776de4846ff54fcd1cd173ac5937e5a46" resname="search.creator_input.placeholder">
+        <source>Type creator</source>
+        <target xml:lang="zh-HK" state="translated">類型建立者</target>
+        <note>key: search.creator_input.placeholder</note>
+      </trans-unit>
+      <trans-unit id="a18d7835f5b4a97ac94331f82e729abcb698be41" resname="search.custom_range">
+        <source>Custom range</source>
+        <target xml:lang="zh-HK" state="translated">自訂範圍</target>
+        <note>key: search.custom_range</note>
+      </trans-unit>
+      <trans-unit id="9cef4cf2cb67458460a2a01c0adc1b4238320459" resname="search.date.from">
+        <source>From:</source>
+        <target xml:lang="zh-HK" state="translated">從：</target>
+        <note>key: search.date.from</note>
+      </trans-unit>
+      <trans-unit id="f32993c555744e5c203137f3ee0e380d27e9cfef" resname="search.date.range">
+        <source>Select date range</source>
+        <target xml:lang="zh-HK" state="translated">選擇日期範圍</target>
+        <note>key: search.date.range</note>
+      </trans-unit>
+      <trans-unit id="ec2194ad5a5851c9bb326a091c6985adedcd42b2" resname="search.date.to">
+        <source>To:</source>
+        <target xml:lang="zh-HK" state="translated">自：</target>
+        <note>key: search.date.to</note>
+      </trans-unit>
+      <trans-unit id="bf24ae2c9083c948931ad1b4d4405b6261eb9bc6" resname="search.filters">
+        <source>Filters</source>
+        <target xml:lang="zh-HK" state="translated">過濾</target>
+        <note>key: search.filters</note>
+      </trans-unit>
+      <trans-unit id="0ec8148d681b43e87a6d0751fff188517be1ea26" resname="search.header">
+        <source>Search results (%total%)</source>
+        <target xml:lang="zh-HK" state="translated">搜尋結果 (%total%)</target>
+        <note>key: search.header</note>
+      </trans-unit>
+      <trans-unit id="1d83218940b91b2cc81ae9d0a694682f6cb04813" resname="search.headline">
+        <source>Search</source>
+        <target xml:lang="zh-HK" state="translated">搜尋</target>
+        <note>key: search.headline</note>
+      </trans-unit>
+      <trans-unit id="c2e9df867c114a94918c00f775d3a54d24358dfa" resname="search.last.modified">
+        <source>Last modified:</source>
+        <target xml:lang="zh-HK" state="translated">上次修改:</target>
+        <note>key: search.last.modified</note>
       </trans-unit>
       <trans-unit id="2d007a8d9fc080db790dc5c45c12dd369d144fbe" resname="search.last_month">
         <source>Last month</source>
@@ -51,10 +111,25 @@
         <target xml:lang="zh-HK" state="translated">去年</target>
         <note>key: search.last_year</note>
       </trans-unit>
+      <trans-unit id="6ceaf9887c3974130781c3dadfcb129926496770" resname="search.list">
+        <source>search.list</source>
+        <target xml:lang="zh-HK" state="translated">search.list</target>
+        <note>key: search.list</note>
+      </trans-unit>
+      <trans-unit id="0ea91510ce49731de30d4d412dc62c83c91b359d" resname="search.modified">
+        <source>Modified</source>
+        <target xml:lang="zh-HK" state="translated">已修改</target>
+        <note>key: search.modified</note>
+      </trans-unit>
       <trans-unit id="6fc6d2e87716ae8feb2ff4536efa8c9db0904509" resname="search.name">
         <source>Name</source>
         <target xml:lang="zh-HK" state="translated">名稱</target>
         <note>key: search.name</note>
+      </trans-unit>
+      <trans-unit id="8c11cc36acf58db9ff898f3a4cf02fd0fc293f67" resname="search.no_result">
+        <source>Sorry, no results were found for "%query%".</source>
+        <target xml:lang="zh-HK" state="translated">對不起, 未找到 "%query%" 的結果。</target>
+        <note>key: search.no_result</note>
       </trans-unit>
       <trans-unit id="6fa93ef4dfbce97076a254427bb30bf7c5819c5d" resname="search.perform">
         <source>Search</source>
@@ -65,6 +140,56 @@
         <source>Section:</source>
         <target xml:lang="zh-HK" state="translated">區段:</target>
         <note>key: search.section</note>
+      </trans-unit>
+      <trans-unit id="1ac4d5da88d06451590cade73ec7e2c4a8b98c2e" resname="search.select_content">
+        <source>Select Content</source>
+        <target xml:lang="zh-HK" state="translated">選擇內容</target>
+        <note>key: search.select_content</note>
+      </trans-unit>
+      <trans-unit id="b484be9d33f5cd9961f4ddd89c628f2cbca2a6a1" resname="search.subtree">
+        <source>Subtree:</source>
+        <target xml:lang="zh-HK" state="translated">子樹:</target>
+        <note>key: search.subtree</note>
+      </trans-unit>
+      <trans-unit id="777cc1ef279096d5a978aa3553e9434d828f8248" resname="search.tips.check_spelling">
+        <source>Check spelling of keywords.</source>
+        <target xml:lang="zh-HK" state="translated">檢查關鍵字的拼寫。</target>
+        <note>key: search.tips.check_spelling</note>
+      </trans-unit>
+      <trans-unit id="d89a8ff5c4b03f1dd7bd1ce3e3306862e1855751" resname="search.tips.different_keywords">
+        <source>Try different keywords.</source>
+        <target xml:lang="zh-HK" state="translated">嘗試不同的關鍵字。</target>
+        <note>key: search.tips.different_keywords</note>
+      </trans-unit>
+      <trans-unit id="013ced9a3284ecebf5a5356397dc9a79eaf76496" resname="search.tips.fewer_keywords">
+        <source>Try fewer keywords. Reducing keywords result in more matches.</source>
+        <target xml:lang="zh-HK" state="translated">嘗試較少的關鍵字。減少關鍵字會帶來更多匹配。</target>
+        <note>key: search.tips.fewer_keywords</note>
+      </trans-unit>
+      <trans-unit id="4af1e76946070e5f61320621d12a171f4206e06c" resname="search.tips.headline">
+        <source>Some helpful search tips:</source>
+        <target xml:lang="zh-HK" state="translated">一些有用的搜索提示:</target>
+        <note>key: search.tips.headline</note>
+      </trans-unit>
+      <trans-unit id="dd61516edc919235a13e3cfadb5d961b8614b744" resname="search.tips.more_general_keywords">
+        <source>Try more general keywords.</source>
+        <target xml:lang="zh-HK" state="translated">嘗試更通用的關鍵字。</target>
+        <note>key: search.tips.more_general_keywords</note>
+      </trans-unit>
+      <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type">
+        <source>Content Type</source>
+        <target xml:lang="zh-HK" state="translated">內容類型</target>
+        <note>key: search.type</note>
+      </trans-unit>
+      <trans-unit id="c33e03cc28d02c59ac241dba3a1bb3ea0ab1f358" resname="search.udw.select_content">
+        <source>Select Content</source>
+        <target xml:lang="zh-HK" state="translated">選擇內容</target>
+        <note>key: search.udw.select_content</note>
+      </trans-unit>
+      <trans-unit id="fe647ff0e12d67501403559464217be468dba3d8" resname="search.viewing">
+        <source>Viewing %viewing% out of %total% sub-items</source>
+        <target xml:lang="zh-HK" state="translated">在 %total% 子項中, 查看 %viewing%</target>
+        <note>key: search.viewing</note>
       </trans-unit>
     </body>
   </file>
