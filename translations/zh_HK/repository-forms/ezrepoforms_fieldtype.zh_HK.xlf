@@ -16,6 +16,14 @@
         <target xml:lang="zh-HK" state="translated">移除</target>
         <note>key: content.field_type.binary_base.remove</note>
       </trans-unit>
+      <trans-unit id="79843ce578133501bb420c52cd410a113dcfaefb" resname="content.field_type.ezgmaplocation.address">
+        <source>Address</source>
+        <target xml:lang="zh-HK" state="translated">地址</target>
+        <note>key: content.field_type.ezgmaplocation.address</note>
+        <alt-trans>
+          <target xml:lang="zh-HK">地址:</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit id="2fcb1cae76dae0c5ddda6446822bf2d656e84601" resname="content.field_type.ezgmaplocation.latitude">
         <source>Latitude</source>
         <target xml:lang="zh-HK" state="translated">緯度</target>
@@ -25,6 +33,16 @@
         <source>Longitude</source>
         <target xml:lang="zh-HK" state="translated">經度</target>
         <note>key: content.field_type.ezgmaplocation.longitude</note>
+      </trans-unit>
+      <trans-unit id="aa904d94a0f6df2084d669e82dac178189509aab" resname="content.field_type.ezimage.alternative_text">
+        <source>Alternative text</source>
+        <target xml:lang="zh-HK" state="translated">Alternative text:</target>
+        <note>key: content.field_type.ezimage.alternative_text</note>
+      </trans-unit>
+      <trans-unit id="5da12c12b4df6790c55fb4d0b11f72fa621b0d1f" resname="content.field_type.ezimageasset.alternative_text">
+        <source>Alternative text</source>
+        <target xml:lang="zh-HK" state="translated">Alternative text</target>
+        <note>key: content.field_type.ezimageasset.alternative_text</note>
       </trans-unit>
       <trans-unit id="7162d22b1be8aaa634e57fa94cc2664026be4390" resname="content.field_type.ezmedia.autoplay">
         <source>Auto play</source>
