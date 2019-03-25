@@ -12,6 +12,12 @@
         <note>key: confirm.permanent.delete.items</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="175a957e55daa96d77e4354c9a79e80401cb8b3c" resname="content.items.restored">
+        <source>%count%  Content item(s) have been restored</source>
+        <target xml:lang="zh-HK" state="translated">％count％項已恢復</target>
+        <note>key: content.items.restored</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="5ed184c9ace808c1f22a8dba32474b2d8c307b90" resname="empty.trash">
         <source>Empty the Trash</source>
         <target xml:lang="zh-HK" state="translated">清空回收站</target>
@@ -22,6 +28,12 @@
         <source>An error occurred while emptying the Trash</source>
         <target xml:lang="zh-HK" state="translated">清空回收站時發生錯誤</target>
         <note>key: error.emptying.trash</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c7d0ace34e28047e04285d5d1ca7dbd8a4757432" resname="error.restoring.item">
+        <source>An error occurred while restoring trash item with id: %id%. For the moment item's whose original location has been deleted can not be restored</source>
+        <target xml:lang="zh-HK" state="translated">還原垃圾回收項id：％id％時出錯。當前無法還原其原始位置</target>
+        <note>key: error.restoring.item</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="034c33d9dc24f606046bc88959214744dcb84993" resname="failed.load.content.type">
