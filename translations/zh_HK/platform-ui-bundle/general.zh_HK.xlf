@@ -18,6 +18,12 @@
         <note>key: javascript.enable</note>
         <jms:reference-file line="54">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="40797c87a424e73c1893096db97ec0147bd261bf" resname="loading.application">
+        <source>Loading the application...</source>
+        <target xml:lang="zh-HK" state="translated">正在載入應用程式..。</target>
+        <note>key: loading.application</note>
+        <jms:reference-file line="38">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
