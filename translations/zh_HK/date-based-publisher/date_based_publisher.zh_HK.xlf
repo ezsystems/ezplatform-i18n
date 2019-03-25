@@ -31,6 +31,11 @@
         <target xml:lang="zh-HK" state="translated">已取消計劃發佈</target>
         <note>key: content.scheduled.canceled</note>
       </trans-unit>
+      <trans-unit id="34b402006eccad0bda15c91d1c25af637419d933" resname="content.scheduled.published">
+        <source>Future publication published</source>
+        <target xml:lang="zh-HK" state="translated">未來的發佈設置</target>
+        <note>key: content.scheduled.published</note>
+      </trans-unit>
       <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title">
         <source>Title:</source>
         <target xml:lang="zh-HK" state="translated">標題:</target>
@@ -81,10 +86,20 @@
         <target xml:lang="zh-HK" state="translated">發布日期</target>
         <note>key: dashboard.table.publication_date</note>
       </trans-unit>
+      <trans-unit id="d6004e8b261029b934ea4253dd02a83c23288cd4" resname="date_based_publisher.discard.publish_later">
+        <source>Scheduled publication date discarded.</source>
+        <target xml:lang="zh-HK" state="translated">計畫發佈日期已放棄。</target>
+        <note>key: date_based_publisher.discard.publish_later</note>
+      </trans-unit>
       <trans-unit id="7994323666a7722986c24f7f724e4862f9bbf9a6" resname="date_based_publisher.error.discard.publish_later">
         <source>Cannot discard scheduled publication date: %reason%</source>
         <target xml:lang="zh-HK" state="translated">無法放棄計畫發佈日期: %reason%</target>
         <note>key: date_based_publisher.error.discard.publish_later</note>
+      </trans-unit>
+      <trans-unit id="f99f89ba09246220d9b545d89a5c6ba76ff7b977" resname="date_based_publisher.error.publish_later">
+        <source>Cannot schedule content: %reason%</source>
+        <target xml:lang="zh-HK" state="translated">無法計畫發佈內容：％reason％</target>
+        <note>key: date_based_publisher.error.publish_later</note>
       </trans-unit>
       <trans-unit id="5e2950ca93ce5670c04559781714521d3c64e5ad" resname="date_based_publisher.success.publish_later">
         <source>Content scheduled for publishing.</source>
