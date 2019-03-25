@@ -6,6 +6,13 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="305047e96ec089021660ee5965f893ac80268731" resname="center">
+        <source>Center</source>
+        <target xml:lang="zh-HK" state="translated">置中</target>
+        <note>key: center</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextaligncenter.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/embedcenter.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="cfff27c96089b93150f3553b6ffdd39d0d5d8e78" resname="embed">
         <source>Embed</source>
         <target xml:lang="zh-HK" state="translated">內嵌</target>
@@ -66,11 +73,51 @@
         <note>key: image</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/image.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3d7a034a83cbfb625391d2e897c5163400413b6b" resname="justify">
+        <source>Justify</source>
+        <target xml:lang="zh-HK" state="translated">Justify</target>
+        <note>key: justify</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextalignjustify.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="12c0f1fbadc4046b5f2bb9e063b227ef8750d9d6" resname="left">
+        <source>Left</source>
+        <target xml:lang="zh-HK" state="translated">左</target>
+        <note>key: left</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextalignleft.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/embedleft.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="f1b97751d7808745ad7eb7c9edcae87482aa9852" resname="link.remove">
         <source>Remove</source>
         <target xml:lang="zh-HK" state="translated">移除</target>
         <note>key: link.remove</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="df924f3511438d4ef5588e1680b084b2a665da56" resname="link.save">
+        <source>Save</source>
+        <target xml:lang="zh-HK" state="translated">儲存</target>
+        <note>key: link.save</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9dda4a5c146e73bc34c431f92055186a9e5a45c9" resname="link.to">
+        <source>Link to:</source>
+        <target xml:lang="zh-HK" state="translated">Link to:</target>
+        <note>key: link.to</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="zh-HK">連結到:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="38b62be4bddaa5661c7d6b8e36e28159314df5c7" resname="list">
+        <source>List</source>
+        <target xml:lang="zh-HK" state="translated">列表</target>
+        <note>key: list</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/list.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="568ae6cf926fffd4ef996af48a51dee3830bd96b" resname="move.down">
+        <source>Move downward</source>
+        <target xml:lang="zh-HK" state="translated">向下移動</target>
+        <note>key: move.down</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/movedown.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="68dec644b0986ba6a27e8e7e8ffcd5e1f22cd3fc" resname="move.up">
         <source>Move upward</source>
@@ -83,6 +130,23 @@
         <target xml:lang="zh-HK" state="translated">新建選項卡</target>
         <note>key: new.tab</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d4fcd0ab161cf2389caeb1b3318ac72eb1437810" resname="open.in">
+        <source>Open in:</source>
+        <target xml:lang="zh-HK" state="translated">Open in:</target>
+        <note>key: open.in</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="zh-HK">開啟在:</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="f416747c2f302b11d2360559f101e49353e88038" resname="paragraph">
+        <source>Paragraph</source>
+        <target xml:lang="zh-HK" state="translated">Paragraph</target>
+        <note>key: paragraph</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/paragraph.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="c5ef10db9a6a48b85cd15ce1050f42933a4305ae" resname="remove.this.block">
         <source>Remove this block</source>
