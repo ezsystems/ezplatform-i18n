@@ -30,6 +30,12 @@
         <note>key: navigationhub.content_type.dashboard_title</note>
         <jms:reference-file>Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="7937b453cfa9e72eadf1e64ca4cfbee7ba443014" resname="navigationhub.dashboard.title">
+        <source>Admin dashboard</source>
+        <target xml:lang="zh-HK" state="translated">管理面板</target>
+        <note>key: navigationhub.dashboard.title</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="6a7e8372aebbd558cab8c19c5caecc1deee66024" resname="navigationhub.language.list">
         <source>Languages</source>
         <target xml:lang="zh-HK" state="translated">語言</target>
@@ -88,6 +94,12 @@
         <source>Content</source>
         <target xml:lang="zh-HK" state="translated">內容</target>
         <note>key: navigationhub.zone.platform</note>
+        <jms:reference-file>Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e296e7a38799c79dee11c3e18ac42150c9f02673" resname="navigationhub.zone.studio">
+        <source>Page</source>
+        <target xml:lang="zh-HK" state="translated">頁</target>
+        <note>key: navigationhub.zone.studio</note>
         <jms:reference-file>Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="6ab1d96fc11727d94958674d980864844202f89a" resname="navigationhub.zone.studioplus">
