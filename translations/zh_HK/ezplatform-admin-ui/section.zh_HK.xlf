@@ -11,10 +11,65 @@
         <target xml:lang="zh-HK" state="translated">刪除區段</target>
         <note>key: section.action.delete</note>
       </trans-unit>
+      <trans-unit id="84413bc1ae3385c0aac1af7ea5665cb0c1eaf3ba" resname="section.assign_content">
+        <source>Assign content</source>
+        <target xml:lang="zh-HK" state="translated">指派內容</target>
+        <note>key: section.assign_content</note>
+      </trans-unit>
+      <trans-unit id="2a6caa13cfd67503e2250af8e36f26a2f835a4a0" resname="section.assign_content.success">
+        <source>%contentItemsCount% content items were assigned to '%name%'</source>
+        <target xml:lang="zh-HK" state="translated">%contentItemsCount% 內容專案被指派到 "%name%"</target>
+        <note>key: section.assign_content.success</note>
+      </trans-unit>
+      <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content">
+        <source>Assignments count</source>
+        <target xml:lang="zh-HK" state="translated">指派數</target>
+        <note>key: section.assigned.content</note>
+      </trans-unit>
+      <trans-unit id="e04ac63bba940de331146dac711b1633407e5ce9" resname="section.assigned_content.empty">
+        <source>No content items.</source>
+        <target xml:lang="zh-HK" state="translated">沒有內容項。</target>
+        <note>key: section.assigned_content.empty</note>
+      </trans-unit>
+      <trans-unit id="d40d7fd957935deb539c21b9b49f34d4016c69d0" resname="section.assigned_content.empty_desc">
+        <source>Content items you assign to this section will appear here.</source>
+        <target xml:lang="zh-HK" state="translated">您指派給此區段的內容將顯示在此。</target>
+        <note>key: section.assigned_content.empty_desc</note>
+      </trans-unit>
+      <trans-unit id="60771f4109f17ae27080b34e9322fd7cb02f45b3" resname="section.assigned_content.header">
+        <source>Content items in %name% (%count%)</source>
+        <target xml:lang="zh-HK" state="translated">%name% (%count%) 中的內容項</target>
+        <note>key: section.assigned_content.header</note>
+      </trans-unit>
       <trans-unit id="adcc2af264c7ae84e69396a8ff7ea5a259abd01e" resname="section.assigned_content.name">
         <source>Name</source>
         <target xml:lang="zh-HK" state="translated">名稱</target>
         <note>key: section.assigned_content.name</note>
+      </trans-unit>
+      <trans-unit id="2fe0fba3bd48001b4d8129930deec8cf683a5039" resname="section.assigned_content.path">
+        <source>Path</source>
+        <target xml:lang="zh-HK" state="translated">路徑</target>
+        <note>key: section.assigned_content.path</note>
+      </trans-unit>
+      <trans-unit id="741d668d8a98bbaa2195e996de4402f24ef7d60e" resname="section.assigned_content.type">
+        <source>Content Type</source>
+        <target xml:lang="zh-HK" state="translated">內容類型</target>
+        <note>key: section.assigned_content.type</note>
+      </trans-unit>
+      <trans-unit id="0a6c7f3919b09caa9eee957a4949d3c9b6dce16e" resname="section.create.success">
+        <source>Section '%name%' created.</source>
+        <target xml:lang="zh-HK" state="translated">區段'％name％'已創建。</target>
+        <note>key: section.create.success</note>
+      </trans-unit>
+      <trans-unit id="48a0071d3b889cbfef3ff4ee5af8cf83b1e8b7f6" resname="section.delete">
+        <source>Delete Section</source>
+        <target xml:lang="zh-HK" state="translated">刪除區段</target>
+        <note>key: section.delete</note>
+      </trans-unit>
+      <trans-unit id="663e1bfb8478f95028221190755c01441b2a8fde" resname="section.delete.success">
+        <source>Section '%name%' removed.</source>
+        <target xml:lang="zh-HK" state="translated">區段％name％'已删除。</target>
+        <note>key: section.delete.success</note>
       </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit">
         <source>Edit</source>
@@ -25,6 +80,16 @@
         <source>ID</source>
         <target xml:lang="zh-HK" state="translated">ID</target>
         <note>key: section.id</note>
+      </trans-unit>
+      <trans-unit id="54e249fceb2f506942f7f0ae30107a734b9b3fe5" resname="section.identifier">
+        <source>Identifier</source>
+        <target xml:lang="zh-HK" state="translated">識別符</target>
+        <note>key: section.identifier</note>
+      </trans-unit>
+      <trans-unit id="105a971e4f7e75ad6066301cedc90bd4acf0ae12" resname="section.information.header">
+        <source>Section information</source>
+        <target xml:lang="zh-HK" state="translated">區段資訊</target>
+        <note>key: section.information.header</note>
       </trans-unit>
       <trans-unit id="1f9b6e37416ff607de9d4fa280dce2f734ea622c" resname="section.list">
         <source>Sections</source>
@@ -73,6 +138,11 @@
         <source>Section: %identifier%</source>
         <target xml:lang="zh-HK" state="translated">區段：%identifier%</target>
         <note>key: section.view.title.identifier</note>
+      </trans-unit>
+      <trans-unit id="71f8af5e83f31ae3c618ff2b0d55b63ac131cfa3" resname="section.viewing">
+        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
+        <target xml:lang="zh-HK" state="translated"><![CDATA[查看 <strong>%viewing%</strong> 除<strong>%total%</strong>之外的内容项]]></target>
+        <note>key: section.viewing</note>
       </trans-unit>
     </body>
   </file>
