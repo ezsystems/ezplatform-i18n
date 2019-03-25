@@ -12,6 +12,12 @@
         <note>key: cannot.load.root.location</note>
         <jms:reference-file>Resources/public/js/views/services/ez-dashboardblocksviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="ff6664ae5d5b882ee85a683861bf2d39369f3992" resname="dashboard.all.content">
+        <source>All Content</source>
+        <target xml:lang="zh-HK" state="translated">所有內容</target>
+        <note>key: dashboard.all.content</note>
+        <jms:reference-file>Resources/public/templates/dashboard/allcontent.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="bb736c34f0a6f3cf53ad082d8e7cba37aa31606a" resname="dashboard.content.type">
         <source>Content Type</source>
         <target xml:lang="zh-HK" state="translated">內容類型</target>
@@ -41,11 +47,26 @@
         <jms:reference-file>Resources/public/templates/dashboard/allcontent.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="dc6421eab8286e0adb87544214a132d5c31d8fd8" resname="dashboard.my.content">
+        <source>My Content</source>
+        <target xml:lang="zh-HK" state="translated">我的內容</target>
+        <note>key: dashboard.my.content</note>
+        <jms:reference-file>Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
+        <alt-trans>
+          <target xml:lang="zh-HK">我的資料</target>
+        </alt-trans>
+      </trans-unit>
       <trans-unit id="deee7b8356005d3419c3907048b4c62f6c947a3c" resname="dashboard.my.drafts">
         <source>My Drafts</source>
         <target xml:lang="zh-HK" state="translated">我的草稿箱</target>
         <note>key: dashboard.my.drafts</note>
         <jms:reference-file>Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="328b897775fad72927fcdd34b26e6c67d77ac6bc" resname="dashboard.mycontent.no.modified.content">
+        <source>You haven't modified any content item yet.</source>
+        <target xml:lang="zh-HK" state="translated">您尚未修改任何內容項。</target>
+        <note>key: dashboard.mycontent.no.modified.content</note>
+        <jms:reference-file>Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="77c0cd3f3cae226e66b157a227ba1c48480c03c9" resname="dashboard.mydrafts.no.draft">
         <source>You don't have any drafts.</source>
@@ -76,6 +97,12 @@
         <jms:reference-file>Resources/public/templates/dashboard/allcontent.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ad15e855aad7c14d65c0890d9d1e5c3e2aa5c5d0" resname="dashboardblocks.my.dashboard">
+        <source>My Dashboard</source>
+        <target xml:lang="zh-HK" state="translated">我的面板</target>
+        <note>key: dashboardblocks.my.dashboard</note>
+        <jms:reference-file>Resources/public/templates/dashboard-blocks.hbt</jms:reference-file>
       </trans-unit>
     </body>
   </file>
