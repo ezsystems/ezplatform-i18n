@@ -14,6 +14,16 @@
           <target xml:lang="zh-HK"> 否</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="dfb5fd4a5dec38539847d92bb5e8417c5b82b96a" resname="ezboolean.yes">
+        <source>yes</source>
+        <target xml:lang="zh-HK" state="translated">yes</target>
+        <note>key: ezboolean.yes</note>
+      </trans-unit>
+      <trans-unit id="bf1525899659fa5ea6c18aa4bf63d596fecbf97e" resname="ezgmaplocation.address">
+        <source>Address</source>
+        <target xml:lang="zh-HK" state="translated">地址</target>
+        <note>key: ezgmaplocation.address</note>
+      </trans-unit>
       <trans-unit id="706821bf7c10bf965680842f9e0b0bad3ab737ed" resname="ezgmaplocation.latitude">
         <source>Latitude</source>
         <target xml:lang="zh-HK" state="translated">緯度</target>
@@ -32,6 +42,11 @@
         <target xml:lang="zh-HK" state="translated">經度</target>
         <note>key: ezgmaplocation.longitude</note>
       </trans-unit>
+      <trans-unit id="504719a5dc2e1c7d5c59a159e3d96e767d6b8ae2" resname="ezimage.alternative_text">
+        <source>Alternative text</source>
+        <target xml:lang="zh-HK" state="translated">Alternative text</target>
+        <note>key: ezimage.alternative_text</note>
+      </trans-unit>
       <trans-unit id="80978f6269fb07d09667395cd32f6ebd6281ff25" resname="ezimage.file_name">
         <source>File name</source>
         <target xml:lang="zh-HK" state="translated">檔案名稱</target>
@@ -41,6 +56,11 @@
         <source>Image file properties</source>
         <target xml:lang="zh-HK" state="translated">圖片檔案屬性</target>
         <note>key: ezimage.image_file_properties</note>
+      </trans-unit>
+      <trans-unit id="504042c3fda41a357db1614358fd3c8dc94e301f" resname="ezimage.master_dimensions">
+        <source>Master dimensions</source>
+        <target xml:lang="zh-HK" state="translated">主尺寸</target>
+        <note>key: ezimage.master_dimensions</note>
       </trans-unit>
       <trans-unit id="55cfda30a4255cffac54e4c644dc6033720c28f6" resname="ezimage.ratio">
         <source>Ratio</source>
@@ -56,6 +76,46 @@
         <source>%width%px Width - %height%px Height</source>
         <target xml:lang="zh-HK" state="translated">寬％width％px - 高%height%px</target>
         <note>key: ezimage.width_and_height</note>
+      </trans-unit>
+      <trans-unit id="85038ddf9e38bbf3da26c38adff609012d65a53a" resname="ezimageasset.alternative_text">
+        <source>Alternative text</source>
+        <target xml:lang="zh-HK" state="translated">Alternative text</target>
+        <note>key: ezimageasset.alternative_text</note>
+      </trans-unit>
+      <trans-unit id="6ccdfa3f93ea5a6c0c17a7a9f6fe8fac4d5b6926" resname="ezimageasset.file_name">
+        <source>File name</source>
+        <target xml:lang="zh-HK" state="translated">文件名稱</target>
+        <note>key: ezimageasset.file_name</note>
+      </trans-unit>
+      <trans-unit id="776e01f9a87ec54ddd743494a906d859643aca68" resname="ezimageasset.image_file_properties">
+        <source>Image file properties</source>
+        <target xml:lang="zh-HK" state="translated">圖片文件屬性</target>
+        <note>key: ezimageasset.image_file_properties</note>
+      </trans-unit>
+      <trans-unit id="dd0de6b207b703b96d015f309ffa8d53d32f64bf" resname="ezimageasset.master_dimensions">
+        <source>Master dimensions</source>
+        <target xml:lang="zh-HK" state="translated">主尺寸</target>
+        <note>key: ezimageasset.master_dimensions</note>
+      </trans-unit>
+      <trans-unit id="c63a925d645b5365654bfaa2e5ac129280388bc0" resname="ezimageasset.not_available">
+        <source>Image asset is not available (related content has been deleted or insufficient permissions)</source>
+        <target xml:lang="zh-HK" state="translated">圖像資源不可用 (相關內容已被刪除或權限不足)</target>
+        <note>key: ezimageasset.not_available</note>
+      </trans-unit>
+      <trans-unit id="9d8611731543740ff64e9e1a69f9c18812301879" resname="ezimageasset.ratio">
+        <source>Ratio</source>
+        <target xml:lang="zh-HK" state="translated">比率</target>
+        <note>key: ezimageasset.ratio</note>
+      </trans-unit>
+      <trans-unit id="b79e2f923b29d82c28e5eaff5475d2edee6d7826" resname="ezimageasset.size">
+        <source>Size</source>
+        <target xml:lang="zh-HK" state="translated">尺寸</target>
+        <note>key: ezimageasset.size</note>
+      </trans-unit>
+      <trans-unit id="06c54d9e5476af34defb52323b7b1ebacce6a38c" resname="ezimageasset.width_and_height">
+        <source>%width%px Width - %height%px Height</source>
+        <target xml:lang="zh-HK" state="translated">寬％width％px - 高%height%px</target>
+        <note>key: ezimageasset.width_and_height</note>
       </trans-unit>
       <trans-unit id="e371d4573dda857ef4a58cebd2420f87992b8864" resname="ezmedia.auto_play">
         <source>Auto play</source>
@@ -82,6 +142,11 @@
         <target xml:lang="zh-HK" state="translated">循環</target>
         <note>key: ezmedia.loop</note>
       </trans-unit>
+      <trans-unit id="c351fa9d7e7c134199f7f49e0cd010dedafb4e13" resname="ezmedia.no">
+        <source>No</source>
+        <target xml:lang="zh-HK" state="translated">No</target>
+        <note>key: ezmedia.no</note>
+      </trans-unit>
       <trans-unit id="099406392256d6e1816e54f4898f09b9ae005ffa" resname="ezmedia.size">
         <source>Size</source>
         <target xml:lang="zh-HK" state="translated">大小</target>
@@ -97,10 +162,25 @@
         <target xml:lang="zh-HK" state="translated">視頻文件屬性</target>
         <note>key: ezmedia.video_file_properties</note>
       </trans-unit>
+      <trans-unit id="2f9f973623d548ff2cac08afcd1de234bd2493c8" resname="ezmedia.yes">
+        <source>Yes</source>
+        <target xml:lang="zh-HK" state="translated">Yes</target>
+        <note>key: ezmedia.yes</note>
+      </trans-unit>
       <trans-unit id="df17c526bb1674b64ac8a4cd4eda1af9e0c5e7e5" resname="ezobjectrelation.content_type">
         <source>Content Type</source>
         <target xml:lang="zh-HK" state="translated">內容類型</target>
         <note>key: ezobjectrelation.content_type</note>
+      </trans-unit>
+      <trans-unit id="79f0c6856a30e0436b61aa28cfc859df8289edfb" resname="ezobjectrelation.created">
+        <source>Created</source>
+        <target xml:lang="zh-HK" state="translated">創建</target>
+        <note>key: ezobjectrelation.created</note>
+      </trans-unit>
+      <trans-unit id="feb25b24199466f077038c5e6e38209deae21471" resname="ezobjectrelation.name">
+        <source>Name</source>
+        <target xml:lang="zh-HK" state="translated">名稱</target>
+        <note>key: ezobjectrelation.name</note>
       </trans-unit>
       <trans-unit id="bd321e94e97034129cf78323f54e93c782250971" resname="ezobjectrelation.single_relation">
         <source>Single relation</source>
@@ -112,15 +192,45 @@
         <target xml:lang="zh-HK" state="translated">內容類型</target>
         <note>key: ezobjectrelationlist.content_type</note>
       </trans-unit>
+      <trans-unit id="07ffe77032c4f0b4f8c64f7c40218274e805491f" resname="ezobjectrelationlist.created">
+        <source>Created</source>
+        <target xml:lang="zh-HK" state="translated">創建</target>
+        <note>key: ezobjectrelationlist.created</note>
+      </trans-unit>
       <trans-unit id="ac6f4439a9d7e655920f9789346d6c928182127e" resname="ezobjectrelationlist.multiple_relations">
         <source>Multiple relations</source>
         <target xml:lang="zh-HK" state="translated">多重關係</target>
         <note>key: ezobjectrelationlist.multiple_relations</note>
       </trans-unit>
+      <trans-unit id="44d2ac9ae83f6b73fa8f61fad66a77d76d2159f0" resname="ezobjectrelationlist.name">
+        <source>Name</source>
+        <target xml:lang="zh-HK" state="translated">名稱</target>
+        <note>key: ezobjectrelationlist.name</note>
+      </trans-unit>
+      <trans-unit id="eb451c657d2bd24b90aaea1619ba0ffb33ba52cc" resname="ezuser.email">
+        <source>Email</source>
+        <target xml:lang="zh-HK" state="translated">電子郵件</target>
+        <note>key: ezuser.email</note>
+      </trans-unit>
+      <trans-unit id="09acf9d3220515cf63f284525c54ed3f88b7a396" resname="ezuser.enabled">
+        <source>Enabled</source>
+        <target xml:lang="zh-HK" state="translated">已啟用</target>
+        <note>key: ezuser.enabled</note>
+      </trans-unit>
+      <trans-unit id="26b99946e7309fcdd54dd12a959fee7d666b82f9" resname="ezuser.no">
+        <source>No</source>
+        <target xml:lang="zh-HK" state="translated">No</target>
+        <note>key: ezuser.no</note>
+      </trans-unit>
       <trans-unit id="fc4b6b718b2cee2f8a91703c070fd69756d5c4cd" resname="ezuser.username">
         <source>Username</source>
         <target xml:lang="zh-HK" state="translated">用戶名</target>
         <note>key: ezuser.username</note>
+      </trans-unit>
+      <trans-unit id="0e86a412baba94a10cf9d1b03332c9f8f1d5e1bb" resname="ezuser.yes">
+        <source>Yes</source>
+        <target xml:lang="zh-HK" state="translated">Yes</target>
+        <note>key: ezuser.yes</note>
       </trans-unit>
     </body>
   </file>
