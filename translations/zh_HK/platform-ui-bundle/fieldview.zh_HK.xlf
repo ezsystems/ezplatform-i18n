@@ -39,6 +39,12 @@
         <jms:reference-file>Resources/public/templates/fields/view/user.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/fields/view/xmltext.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="81448b0d61f500e4292f65544a15c667721d061a" resname="fieldview.no">
+        <source>no</source>
+        <target xml:lang="zh-HK" state="translated">no</target>
+        <note>key: fieldview.no</note>
+        <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="b6c23de67df46c0c13d509f9132dc9dc1477c4cf" resname="fieldview.retry">
         <source>Retry</source>
         <target xml:lang="zh-HK" state="translated">重試</target>
@@ -46,6 +52,18 @@
         <jms:reference-file>Resources/public/templates/fields/view/image.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/fields/view/relation.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/fields/view/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9b682841001f88b881dff78dc5f0d7dff0b71330" resname="fieldview.yes">
+        <source>yes</source>
+        <target xml:lang="zh-HK" state="translated">yes</target>
+        <note>key: fieldview.yes</note>
+        <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a64621b5af174b18350e8774d65ac227c79f0077" resname="file.size">
+        <source><![CDATA[<span class="ez-binaryfile-properties-size">%size%</span>&nbsp;bytes]]></source>
+        <target xml:lang="zh-HK" state="translated"><![CDATA[<span class="ez-binaryfile-properties-size">%size%</span>&nbsp;bytes]]></target>
+        <note>key: file.size</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="dbaaba623cb1c7f8c1c65c4be03b3838a8e80908" resname="image.error.loading">
         <source>An error occurred while loading the image.</source>
@@ -130,6 +148,12 @@
         <alt-trans>
           <target xml:lang="zh-HK">循環</target>
         </alt-trans>
+      </trans-unit>
+      <trans-unit id="135cbb609fe487f5b9df8fdd756028516d582195" resname="media.size">
+        <source>%size% bytes</source>
+        <target xml:lang="zh-HK" state="translated">%size% bytes</target>
+        <note>key: media.size</note>
+        <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="f627fe6c0a96d227ca48a741cf697410a965414d" resname="media.unsupported.audio">
         <source>Unsupported audio format</source>
