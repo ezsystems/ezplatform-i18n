@@ -6,11 +6,46 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="2fde2228bf4d0451dce51640519824f39dca0ad9" resname="assigned.section">
+        <source>Section "%sectionName%" assigned to %count% contents</source>
+        <target xml:lang="zh-HK" state="translated">區段"%sectionName%" 分配給 %count% 內容</target>
+        <note>key: assigned.section</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-sectionserversideviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f7e3a4c368276a309c136f36ba4b0fde89f8258f" resname="assigning.section">
+        <source>Assigning the section "%sectionName%" to %count% contents</source>
+        <target xml:lang="zh-HK" state="translated">將區段 "%sectionName%" 指派給 %count% 內容</target>
+        <note>key: assigning.section</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-sectionserversideviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5752d1a75675e5cd0fde02a23eb424313e42e4c9" resname="section.assign.contents">
+        <source>Assign to content</source>
+        <target xml:lang="zh-HK" state="translated">指派內容</target>
+        <note>key: section.assign.contents</note>
+        <jms:reference-file line="23">Resources/views/Section/list.html.twig</jms:reference-file>
+        <jms:reference-file line="75">Resources/views/Section/list.html.twig</jms:reference-file>
+        <jms:reference-file line="79">Resources/views/Section/view.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6e9972f315911664e7e596892c4cce1c3319a6ba" resname="section.assign.universaldiscovery.title">
+        <source>Pick the Content items to assign to section "%sectionName%"</source>
+        <target xml:lang="zh-HK" state="translated">選擇要指派給區段 "%sectionName%"的內容</target>
+        <note>key: section.assign.universaldiscovery.title</note>
+        <jms:reference-file line="19">Resources/views/Section/list.html.twig</jms:reference-file>
+        <jms:reference-file line="71">Resources/views/Section/list.html.twig</jms:reference-file>
+        <jms:reference-file line="74">Resources/views/Section/view.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content">
+        <source>Assigned Content items</source>
+        <target xml:lang="zh-HK" state="translated">指派內容項</target>
+        <note>key: section.assigned.content</note>
+        <jms:reference-file line="58">Resources/views/Section/list.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="b3a79602ff55ce138d41cd00a9d93ff6a6324604" resname="section.assigned.contentcount">
         <source xml:space="preserve">{0} This section is assigned to %contentCount% content items.|{1} This section is assigned to
                     %contentCount% content item.|]1,Inf[ This section is assigned to %contentCount% content items
                 </source>
-        <target xml:space="preserve" xml:lang="zh-HK" state="needs-translation">
+        <target xml:space="preserve" xml:lang="zh-HK" state="translated">{0}此區段指派給 %contentCount% 內容項.|{1} 此區段指派給
+                    %contentCount% 內容項.|]1,Inf[ 此區段指派給 %contentCount% 內容項
                 </target>
         <note>key: section.assigned.contentcount</note>
         <jms:reference-file line="41">Resources/views/Section/view.html.twig</jms:reference-file>
@@ -21,6 +56,12 @@
         <note>key: section.cancel</note>
         <jms:reference-file line="52">Resources/views/Section/edit.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="8ca211181d27cce804802165a8831f0b6c06214a" resname="section.content.translate">
+        <source>Content items in this section (%contentCount%)</source>
+        <target xml:lang="zh-HK" state="translated">在此區段的內容項 (%contentCount%)</target>
+        <note>key: section.content.translate</note>
+        <jms:reference-file line="23">Resources/views/Section/view.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="3fae3294ca2968e5ba3890490c9dbee999176d96" resname="section.create.title">
         <source>Creating a new section</source>
         <target xml:lang="zh-HK" state="translated">創建一個新區段</target>
@@ -29,6 +70,12 @@
         <jms:reference-file line="18">Resources/views/Section/create.html.twig</jms:reference-file>
         <jms:reference-file line="5">Resources/views/Section/create.html.twig</jms:reference-file>
         <jms:reference-file line="5">Resources/views/Section/edit.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="21bb6cc5af5d7f7dafbb30cc73cfba180dc68803" resname="section.deleted">
+        <source>The Section "%sectionName%" was correctly deleted.</source>
+        <target xml:lang="zh-HK" state="translated">區段 "%sectionName%" 已刪除。</target>
+        <note>key: section.deleted</note>
+        <jms:reference-file line="110">Controller/SectionController.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit">
         <source>Edit</source>
@@ -100,6 +147,27 @@
         <note>key: section.new</note>
         <jms:reference-file line="105">Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="107">Resources/views/Section/list.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="73477cdb03483ff68ff67d6a840516b4bcf6e64e" resname="section.notification.created">
+        <source>The section "%sectionName%" was correctly created.</source>
+        <target xml:lang="zh-HK" state="translated">區段"%sectionName%" 已創建。</target>
+        <note>key: section.notification.created</note>
+        <jms:reference-file line="46">Form/Processor/SectionFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a032c9aa18da02d8892f1cc17d13efbcef32417b" resname="section.notification.updated">
+        <source>The section "%sectionName%" was correctly saved.</source>
+        <target xml:lang="zh-HK" state="translated">區段"%sectionName%" 已保存。</target>
+        <note>key: section.notification.updated</note>
+        <jms:reference-file line="48">Form/Processor/SectionFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7ca9da842cdea433f0a9e05a8c6b135def0bc6e3" resname="section.view.title">
+        <source>Section: %sectionName%</source>
+        <target xml:lang="zh-HK" state="translated">區段: %sectionName%</target>
+        <note>key: section.view.title</note>
+        <jms:reference-file line="17">Resources/views/Section/edit.html.twig</jms:reference-file>
+        <jms:reference-file line="16">Resources/views/Section/view.html.twig</jms:reference-file>
+        <jms:reference-file line="86">Resources/views/Section/view.html.twig</jms:reference-file>
+        <jms:reference-file line="9">Resources/views/Section/view.html.twig</jms:reference-file>
       </trans-unit>
     </body>
   </file>
