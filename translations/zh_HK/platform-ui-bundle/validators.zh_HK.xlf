@@ -16,6 +16,11 @@
         <target xml:lang="zh-HK" state="translated">區段識別碼不能為空。</target>
         <note>key: section.validator.identifier.not_blank</note>
       </trans-unit>
+      <trans-unit id="bc1b2c67bc416368f449869bb57b50b1d62a4c04" resname="section.validator.name.not_blank">
+        <source>The section name can not be empty.</source>
+        <target xml:lang="zh-HK" state="translated">區段名稱不能為空。</target>
+        <note>key: section.validator.name.not_blank</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
