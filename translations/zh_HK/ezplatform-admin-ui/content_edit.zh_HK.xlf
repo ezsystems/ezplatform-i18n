@@ -11,10 +11,55 @@
         <target xml:lang="zh-HK" state="translated">內容草稿已保存。</target>
         <note>key: content.draft_saved.success</note>
       </trans-unit>
+      <trans-unit id="e735240930546ee4e9ae782ffa95ee09d846665a" resname="content.field.non_editable">
+        <source>Field type is not editable</source>
+        <target xml:lang="zh-HK" state="translated">字段類型不可編輯</target>
+        <note>key: content.field.non_editable</note>
+      </trans-unit>
       <trans-unit id="07d6fb7c02b8730592a3bb68a315caa63031d44e" resname="content.published.success">
         <source>Content published.</source>
         <target xml:lang="zh-HK" state="translated">內容已發布。</target>
         <note>key: content.published.success</note>
+      </trans-unit>
+      <trans-unit id="6a2083913f3647b44f205204e369f764e83233b1" resname="content_id">
+        <source>Content ID: %contentId%</source>
+        <target xml:lang="zh-HK" state="translated">Content ID: %contentId%</target>
+        <note>key: content_id</note>
+      </trans-unit>
+      <trans-unit id="71a8aeb31196db647608ffe1789be9400d61451d" resname="created_by">
+        <source>Created by %name%</source>
+        <target xml:lang="zh-HK" state="translated">建立者: %name%</target>
+        <note>key: created_by</note>
+      </trans-unit>
+      <trans-unit id="0474be007e2cbb859dcec4d70ced364af71ba119" resname="editing_in_language">
+        <source>Editing - %contentName% in %languageName%</source>
+        <target xml:lang="zh-HK" state="translated">編輯 - ％languageName％中的％contentName％</target>
+        <note>key: editing_in_language</note>
+      </trans-unit>
+      <trans-unit id="4e46e160f661315fed793049088d1426ae440b56" resname="editing_in_language_based_on">
+        <source>Editing - %contentName% in %languageName% based on %baseLanguageName%</source>
+        <target xml:lang="zh-HK" state="translated">編輯 - 基於％baseLanguageName％的％languageName％中的％contentName％</target>
+        <note>key: editing_in_language_based_on</note>
+      </trans-unit>
+      <trans-unit id="669edeb37bec7cf4ec99288b90b02ba65e84b4cf" resname="errors.in.the.form">
+        <source>Looks like something went wrong. Please check for required fields or errors and correct them</source>
+        <target xml:lang="zh-HK" state="translated">出错了。 請檢查必填字段或錯誤並進行更正</target>
+        <note>key: errors.in.the.form</note>
+      </trans-unit>
+      <trans-unit id="009667fab56f0bec66634f009a75ffd9425f2987" resname="fieldtype.translation_is_disabled">
+        <source>Translation for %fieldName% is disabled</source>
+        <target xml:lang="zh-HK" state="translated">％fieldName％的翻譯被禁用</target>
+        <note>key: fieldtype.translation_is_disabled</note>
+      </trans-unit>
+      <trans-unit id="876d7bdba03c72251ec4c2dc827fc54af7889091" resname="location_id">
+        <source>Location ID: %locationId%</source>
+        <target xml:lang="zh-HK" state="translated">Location ID: %locationId%</target>
+        <note>key: location_id</note>
+      </trans-unit>
+      <trans-unit id="cce4ced380a283ffdecf364aeb5312ee001e6601" resname="parent_location_id">
+        <source>Parent Location ID: %locationId%</source>
+        <target xml:lang="zh-HK" state="translated">父Location ID: %locationId%</target>
+        <note>key: parent_location_id</note>
       </trans-unit>
     </body>
   </file>
