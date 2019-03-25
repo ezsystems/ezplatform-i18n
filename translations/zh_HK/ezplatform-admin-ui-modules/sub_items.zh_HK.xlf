@@ -146,6 +146,11 @@
         <target xml:lang="zh-HK" state="translated">選取位置</target>
         <note>key: udw.choose_location.title</note>
       </trans-unit>
+      <trans-unit id="5ae5a511a5c344781ad0caa53efe7b33429c6132" resname="viewing_message">
+        <source><![CDATA[Viewing <strong>%viewingCount%</strong> out of <strong>%totalCount%</strong> sub-items]]></source>
+        <target xml:lang="zh-HK" state="translated"><![CDATA[查看 <strong>%viewing%</strong> 除<strong>%total%</strong>之外的内容项]]></target>
+        <note>key: viewing_message</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
