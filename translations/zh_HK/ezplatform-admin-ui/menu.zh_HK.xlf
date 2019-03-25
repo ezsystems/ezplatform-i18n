@@ -11,6 +11,11 @@
         <target xml:lang="zh-HK" state="translated">複製</target>
         <note>key: content__sidebar_right__copy</note>
       </trans-unit>
+      <trans-unit id="0d5f60093de3b822740abad95d1f8cb2195869c9" resname="content__sidebar_right__copy_subtree">
+        <source>Copy Subtree</source>
+        <target xml:lang="zh-HK" state="translated">複製子樹</target>
+        <note>key: content__sidebar_right__copy_subtree</note>
+      </trans-unit>
       <trans-unit id="a2fafde1538959ee924436a6d4bbd8269c1ac412" resname="content__sidebar_right__create">
         <source>Create</source>
         <target xml:lang="zh-HK" state="translated">創建</target>
@@ -26,10 +31,20 @@
         <target xml:lang="zh-HK" state="translated">編輯</target>
         <note>key: content__sidebar_right__edit</note>
       </trans-unit>
+      <trans-unit id="4edbd819e96b4bea94ad02f9ce655c2f81f1b4d0" resname="content__sidebar_right__hide">
+        <source>Hide</source>
+        <target xml:lang="zh-HK" state="translated">隱藏</target>
+        <note>key: content__sidebar_right__hide</note>
+      </trans-unit>
       <trans-unit id="522a7eb05659ac849a762954effc22db818b8323" resname="content__sidebar_right__move">
         <source>Move</source>
         <target xml:lang="zh-HK" state="translated">移動</target>
         <note>key: content__sidebar_right__move</note>
+      </trans-unit>
+      <trans-unit id="bbf7b43821e5ac0ce57d977a3ce156baf9a9d7b7" resname="content__sidebar_right__reveal">
+        <source>Reveal</source>
+        <target xml:lang="zh-HK" state="translated">展示</target>
+        <note>key: content__sidebar_right__reveal</note>
       </trans-unit>
       <trans-unit id="9445b360492505d3a8d7be4c316e2cc62f381e03" resname="content__sidebar_right__send_to_trash">
         <source>Send to Trash</source>
@@ -75,6 +90,11 @@
         <source>Save</source>
         <target xml:lang="zh-HK" state="translated">儲存</target>
         <note>key: content_edit__sidebar_right__save_draft</note>
+      </trans-unit>
+      <trans-unit id="3b59d1cdd9c85ff781a3a442345bb648cc49dd31" resname="content_type__sidebar_right__edit">
+        <source>Edit</source>
+        <target xml:lang="zh-HK" state="translated">編輯</target>
+        <note>key: content_type__sidebar_right__edit</note>
       </trans-unit>
       <trans-unit id="750939fc55f9a3143db99bed66680e8646e029a0" resname="content_type_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -146,10 +166,20 @@
         <target xml:lang="zh-HK" state="translated">語言</target>
         <note>key: main__admin__languages</note>
       </trans-unit>
+      <trans-unit id="1d350945e7732f519fd5d2f6a69c926a193d6146" resname="main__admin__object_states">
+        <source>Object States</source>
+        <target xml:lang="zh-HK" state="translated">物件狀態</target>
+        <note>key: main__admin__object_states</note>
+      </trans-unit>
       <trans-unit id="8a5845bd0e93b67b2ac54a06f2eae85f2cb3b13d" resname="main__admin__roles">
         <source>Roles</source>
         <target xml:lang="zh-HK" state="translated">角色</target>
         <note>key: main__admin__roles</note>
+      </trans-unit>
+      <trans-unit id="e636e8e95f62409b29348795eef55b4450f65673" resname="main__admin__sections">
+        <source>Sections</source>
+        <target xml:lang="zh-HK" state="translated">區段</target>
+        <note>key: main__admin__sections</note>
       </trans-unit>
       <trans-unit id="2cc622305036d330c00683520df433ef82f60c9a" resname="main__admin__systeminfo">
         <source>System Information</source>
@@ -175,6 +205,16 @@
         <source>Link Manager</source>
         <target xml:lang="zh-HK" state="translated">Link管理</target>
         <note>key: main__content__linkmanager</note>
+      </trans-unit>
+      <trans-unit id="e8c5aefc86b31ee2bed9359787ddf0a2b1cad4a6" resname="main__content__media">
+        <source>Media</source>
+        <target xml:lang="zh-HK" state="translated">Media</target>
+        <note>key: main__content__media</note>
+      </trans-unit>
+      <trans-unit id="1f5824f08c1b09cf6511dee2352e6f1681f94893" resname="main_admin">
+        <source>Admin</source>
+        <target xml:lang="zh-HK" state="translated">管理</target>
+        <note>key: main_admin</note>
       </trans-unit>
       <trans-unit id="f3561dffc3e7e63e03f3f5d1a4e2b4eda80e051a" resname="object_state_create__sidebar_right__cancel">
         <source>Discard changes</source>
@@ -291,10 +331,35 @@
         <target xml:lang="zh-HK" state="translated">書籤</target>
         <note>key: sidebar_left__bookmark</note>
       </trans-unit>
+      <trans-unit id="951ac18ce3ab253f9de7fd9caef6636b18edd1c3" resname="sidebar_left__browse">
+        <source>Browse</source>
+        <target xml:lang="zh-HK" state="translated">瀏覽</target>
+        <note>key: sidebar_left__browse</note>
+      </trans-unit>
       <trans-unit id="e3401271f3c6a0f8c88b0fa500d2c97eb5e33ff0" resname="sidebar_left__search">
         <source>Search</source>
         <target xml:lang="zh-HK" state="translated">搜尋</target>
         <note>key: sidebar_left__search</note>
+      </trans-unit>
+      <trans-unit id="2f6558500ca2bb4d364fe81cf32f5c5f1b81746a" resname="sidebar_left__trash">
+        <source>Trash</source>
+        <target xml:lang="zh-HK" state="translated">回收站</target>
+        <note>key: sidebar_left__trash</note>
+      </trans-unit>
+      <trans-unit id="af4736ff799291d6658545d0afb52240d7250cf3" resname="sidebar_left__tree">
+        <source>Content Tree</source>
+        <target xml:lang="zh-HK" state="translated">內容樹</target>
+        <note>key: sidebar_left__tree</note>
+      </trans-unit>
+      <trans-unit id="ae876d2c3fdb4f08383aefae6106b69dfe124b38" resname="trash__sidebar_right__empty_trash">
+        <source>Empty Trash</source>
+        <target xml:lang="zh-HK" state="translated">清空回收站</target>
+        <note>key: trash__sidebar_right__empty_trash</note>
+      </trans-unit>
+      <trans-unit id="5ded8d45683caa8bb19649d5cc39bd76ebabfa63" resname="url_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="zh-HK" state="translated">放棄更改</target>
+        <note>key: url_edit__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="9e8d8f6d06a5950f649d63b453d6dab7eba33f11" resname="url_edit__sidebar_right__save">
         <source>Save</source>
@@ -315,6 +380,41 @@
         <source>Logout</source>
         <target xml:lang="zh-HK" state="translated">登出</target>
         <note>key: user__content</note>
+      </trans-unit>
+      <trans-unit id="22a2aa3863b8f6a0ab24403998badeb4bb196254" resname="user__drafts">
+        <source>Drafts</source>
+        <target xml:lang="zh-HK" state="translated">草稿</target>
+        <note>key: user__drafts</note>
+      </trans-unit>
+      <trans-unit id="d4a0cfb90774164e94f11e2a4f019a2538faebcf" resname="user__settings">
+        <source>User Settings</source>
+        <target xml:lang="zh-HK" state="translated">用戶設定</target>
+        <note>key: user__settings</note>
+      </trans-unit>
+      <trans-unit id="40679174821cfa2ce3d3a4dc046f0ef65df6f483" resname="user_create__sidebar_right__cancel">
+        <source>Cancel</source>
+        <target xml:lang="zh-HK" state="translated">取消</target>
+        <note>key: user_create__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="e2f3f27b94662872c5f39dbf8b26b489deb14f8c" resname="user_create__sidebar_right__create">
+        <source>Create</source>
+        <target xml:lang="zh-HK" state="translated">創建</target>
+        <note>key: user_create__sidebar_right__create</note>
+      </trans-unit>
+      <trans-unit id="5eac585c3d7a63e58780b7939ee2a8e70e290436" resname="user_edit__sidebar_right__cancel">
+        <source>Cancel</source>
+        <target xml:lang="zh-HK" state="translated">取消</target>
+        <note>key: user_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="5a09908619e3d8e6b30af8af8c14abd416b485fa" resname="user_edit__sidebar_right__update">
+        <source>Update</source>
+        <target xml:lang="zh-HK" state="translated">更新</target>
+        <note>key: user_edit__sidebar_right__update</note>
+      </trans-unit>
+      <trans-unit id="d79a55ddd58ecf56b4edb39c794c858d649481e2" resname="user_password_change__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target xml:lang="zh-HK" state="translated">放棄更改</target>
+        <note>key: user_password_change__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="ab8629add84cbd9cebfdf326f7242044ae7650af" resname="user_password_change__sidebar_right__update">
         <source>Update</source>
