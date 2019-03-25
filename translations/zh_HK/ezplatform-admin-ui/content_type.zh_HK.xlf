@@ -11,6 +11,11 @@
         <target xml:lang="zh-HK" state="translated">編輯</target>
         <note>key: content_type.action.edit</note>
       </trans-unit>
+      <trans-unit id="0a08ba6425acc6e52b75ebbe0b77d90df5cb81a1" resname="content_type.add.missing_language">
+        <source>Cannot create Content Type. Could not find 'Language' with identifier '%languageCode%'</source>
+        <target xml:lang="zh-HK" state="translated">無法創建內容類型。找不到標識符為 "%languageCode%" 的 "語言"</target>
+        <note>key: content_type.add.missing_language</note>
+      </trans-unit>
       <trans-unit id="0aef83746d192c9b507ecabebe250aeb684cc210" resname="content_type.breadcrumb.create">
         <source>Creating a new Content Type</source>
         <target xml:lang="zh-HK" state="translated">創建新的內容類型</target>
@@ -21,10 +26,40 @@
         <target xml:lang="zh-HK" state="translated">%identifier%</target>
         <note>key: content_type.breadcrumb.edit</note>
       </trans-unit>
+      <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
+        <source>Container</source>
+        <target xml:lang="zh-HK" state="translated">容器</target>
+        <note>key: content_type.container</note>
+      </trans-unit>
+      <trans-unit id="694d6cbecfee848cf42a300c0b310f45ece6a09b" resname="content_type.content_field_definitions">
+        <source>Content field definitions</source>
+        <target xml:lang="zh-HK" state="translated">內容欄位定義</target>
+        <note>key: content_type.content_field_definitions</note>
+      </trans-unit>
       <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type">
         <source>Content Type</source>
         <target xml:lang="zh-HK" state="translated">內容類型</target>
         <note>key: content_type.content_type</note>
+      </trans-unit>
+      <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability">
+        <source>Default content availability</source>
+        <target xml:lang="zh-HK" state="translated">預設內容可用性</target>
+        <note>key: content_type.default_availability</note>
+      </trans-unit>
+      <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help">
+        <source>Default availability in primary language, if translation is absent</source>
+        <target xml:lang="zh-HK" state="translated">主語言預設可用, 如果不存在翻譯</target>
+        <note>key: content_type.default_availability.help</note>
+      </trans-unit>
+      <trans-unit id="d14799b2ac8854ab3f0bb9976258c3db39213d09" resname="content_type.default_availability.value">
+        <source>{0} Not available|{1} Available</source>
+        <target xml:lang="zh-HK" state="translated">{0} 不可用|{1} 可用</target>
+        <note>key: content_type.default_availability.value</note>
+      </trans-unit>
+      <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting">
+        <source>Default field for sorting children</source>
+        <target xml:lang="zh-HK" state="translated">用於對子級進行排序的預設欄位</target>
+        <note>key: content_type.default_children_sorting</note>
       </trans-unit>
       <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
         <source>Default sort order</source>
@@ -41,6 +76,26 @@
         <target xml:lang="zh-HK" state="translated">描述</target>
         <note>key: content_type.description</note>
       </trans-unit>
+      <trans-unit id="2f9cb676bb073af7a8e4b52b374384dfc0aa9551" resname="content_type.edit.error.already_exists">
+        <source>Draft of the Content Type '%name%' already exists and is locked by '%userContentName%'</source>
+        <target xml:lang="zh-HK" state="translated">內容類型 "%name%" 的草稿已存在, 並被 "%userContentName%" 鎖定</target>
+        <note>key: content_type.edit.error.already_exists</note>
+      </trans-unit>
+      <trans-unit id="f0338ef34826caa021c41ff85413e48601af30b7" resname="content_type.edit.select_language">
+        <source>Select language</source>
+        <target xml:lang="zh-HK" state="translated">選擇語言</target>
+        <note>key: content_type.edit.select_language</note>
+      </trans-unit>
+      <trans-unit id="9eb89a2f51954babc5ff51f9060cbcda91dcf408" resname="content_type.field_definitions.modal.message">
+        <source>Do you want to delete selected field definitions?</source>
+        <target xml:lang="zh-HK" state="translated">是否要刪除選定的欄位定義？</target>
+        <note>key: content_type.field_definitions.modal.message</note>
+      </trans-unit>
+      <trans-unit id="8bf6d91a6b0731a38103e04e03f3f9e8bf4459a1" resname="content_type.global_properties">
+        <source>Global properties</source>
+        <target xml:lang="zh-HK" state="translated">全域屬性</target>
+        <note>key: content_type.global_properties</note>
+      </trans-unit>
       <trans-unit id="238db0c5dee8ec13199b073f7cc78728f53ffa36" resname="content_type.identifier">
         <source>Identifier</source>
         <target xml:lang="zh-HK" state="translated">識別符</target>
@@ -56,10 +111,23 @@
         <target xml:lang="zh-HK" state="translated">名稱</target>
         <note>key: content_type.name</note>
       </trans-unit>
+      <trans-unit id="9e9628fc59643f3167ebe81dfed3e40eecd281c9" resname="content_type.name_schema">
+        <source>Content name pattern</source>
+        <target xml:lang="zh-HK" state="translated">內容名稱模式</target>
+        <note>key: content_type.name_schema</note>
+      </trans-unit>
       <trans-unit id="da59e6ae77cae375a30d7285970b1b2d9690049e" resname="content_type.sort_field.ascending">
         <source>Ascending</source>
         <target xml:lang="zh-HK" state="translated">升序</target>
         <note>key: content_type.sort_field.ascending</note>
+      </trans-unit>
+      <trans-unit id="c699d43b72ab990a33d92d85bc5c773078d8c62d" resname="content_type.sort_field.content_id">
+        <source>Content ID</source>
+        <target xml:lang="zh-HK" state="translated">Content ID</target>
+        <note>key: content_type.sort_field.content_id</note>
+        <alt-trans>
+          <target xml:lang="zh-HK">Content Id</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth">
         <source>Location depth</source>
@@ -150,6 +218,11 @@
         <source>Global properties</source>
         <target xml:lang="zh-HK" state="translated">全域屬性</target>
         <note>key: content_type.view.edit.global_properties</note>
+      </trans-unit>
+      <trans-unit id="36fb0205d165f72c996205435b5a06ba42695bb6" resname="content_type.view.edit.notranslatable_fields_disabled">
+        <source>Some of the fields are disabled when translating a Content Type. To modify them, please edit the Content Type in the main language</source>
+        <target xml:lang="zh-HK" state="translated">在翻譯內容類型時, 某些欄位將被禁用。若要修改它們, 請編輯主語言中的 "內容類型"</target>
+        <note>key: content_type.view.edit.notranslatable_fields_disabled</note>
       </trans-unit>
       <trans-unit id="7eee653a60490713df6bcf4b847853020b79a1ee" resname="content_type.view.edit.title">
         <source>Editing Content Type: %name%</source>
@@ -281,6 +354,11 @@
         <target xml:lang="zh-HK" state="translated">編輯</target>
         <note>key: content_type_group.view.list.action.edit</note>
       </trans-unit>
+      <trans-unit id="125bee275441fe2bd28cb9388b790c634d8ae3c6" resname="content_type_group.view.list.column.content_types_count">
+        <source>Content Types count</source>
+        <target xml:lang="zh-HK" state="translated">內容類型數</target>
+        <note>key: content_type_group.view.list.column.content_types_count</note>
+      </trans-unit>
       <trans-unit id="cd462ce30cd4d0b21393e24ca2c9e974369c1f57" resname="content_type_group.view.list.column.id">
         <source>ID</source>
         <target xml:lang="zh-HK" state="translated">ID</target>
@@ -325,6 +403,16 @@
         <source>Delete</source>
         <target xml:lang="zh-HK" state="translated">刪除</target>
         <note>key: modal.delete</note>
+      </trans-unit>
+      <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
+        <source>Translations</source>
+        <target xml:lang="zh-HK" state="translated">翻譯</target>
+        <note>key: tab.name.translations</note>
+      </trans-unit>
+      <trans-unit id="eb3b504a0281951f15692e888226579aa99bb512" resname="tab.name.view">
+        <source>View</source>
+        <target xml:lang="zh-HK" state="translated">檢視</target>
+        <note>key: tab.name.view</note>
       </trans-unit>
       <trans-unit id="3e9deeb426f08a404990a6926d70558955272593" resname="yes_no">
         <source>{0}No|{1}Yes</source>
