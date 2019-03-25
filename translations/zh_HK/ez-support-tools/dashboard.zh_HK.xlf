@@ -24,6 +24,20 @@
                         <a target="_blank" href="%service_life_url%">更長的維護週期</a>。]]></target>
         <note>key: dashboard.ez_version.community_end_of_maintenance_upgrade</note>
       </trans-unit>
+      <trans-unit id="7eb6ab2973439efa8ff820310952e02bc81209cb" resname="dashboard.ez_version.community_severity_non">
+        <source><![CDATA[Welcome to the open source %release% release. Using the community friendly <a target="_blank" href="%license_url%">GPL license</a>,
+                    <a target="_blank" href="%gpl_faq_url%">sharing your code</a> is what it's all about.]]></source>
+        <target xml:lang="zh-HK" state="translated"><![CDATA[歡迎使用開源％release％發布。 使用社區友好的<a target="_blank" href="%license_url%"> GPL許可</a>，
+                     <a target="_blank" href="%gpl_faq_url%">分享您的代碼</a>。]]></target>
+        <note>key: dashboard.ez_version.community_severity_non</note>
+      </trans-unit>
+      <trans-unit id="bbddea87dd6b56fc0b4d21c28d1cbc2cfd92b754" resname="dashboard.ez_version.end_of_life">
+        <source><![CDATA[Welcome to the open source %release% release. Using the community friendly <a target="_blank" href="%license_url%">GPL license</a>,
+                    <a target="_blank" href="%gpl_faq_url%">sharing your code</a> is what it's all about.]]></source>
+        <target xml:lang="zh-HK" state="translated"><![CDATA[歡迎使用開源％release％發布。 使用社區友好的<a target="_blank" href="%license_url%"> GPL許可</a>，
+                     <a target="_blank" href="%gpl_faq_url%">分享您的代碼</a>。]]></target>
+        <note>key: dashboard.ez_version.end_of_life</note>
+      </trans-unit>
       <trans-unit id="9bad0b8d1efd71dca8071e736f332b3b4218d557" resname="dashboard.ez_version.end_of_life_upgrade">
         <source><![CDATA[Unfortunately %release% has reached <a target="_blank" href="%service_life_url%">end of life</a>,
                 please plan to upgrade. If you need assistance, don't hesitate to <a target="_blank" href="%contact_url%">contact eZ</a>.]]></source>
