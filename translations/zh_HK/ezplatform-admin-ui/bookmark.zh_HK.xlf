@@ -16,10 +16,20 @@
         <target xml:lang="zh-HK" state="translated">書籤</target>
         <note>key: bookmark.headline</note>
       </trans-unit>
+      <trans-unit id="5001931b6bf98acefb5138b1cdba97d97fed4844" resname="bookmark.list.content.edit">
+        <source>Edit Content</source>
+        <target xml:lang="zh-HK" state="translated">編輯內容</target>
+        <note>key: bookmark.list.content.edit</note>
+      </trans-unit>
       <trans-unit id="cf687b0218c513d53ad3f52b2547c23500242c48" resname="bookmark.list.content_type">
         <source>Content Type</source>
         <target xml:lang="zh-HK" state="translated">內容類型</target>
         <note>key: bookmark.list.content_type</note>
+      </trans-unit>
+      <trans-unit id="e55cc61e6e0bcd97f329c00790704a381212f55b" resname="bookmark.list.empty">
+        <source>The bookmark list is empty. Any Content item you bookmark will end up here.</source>
+        <target xml:lang="zh-HK" state="translated">書簽清單為空。您書簽的任何內容專案將在這裡結束。</target>
+        <note>key: bookmark.list.empty</note>
       </trans-unit>
       <trans-unit id="d84749a19f2864dd1d5d3cee0a127f2435e5cdc5" resname="bookmark.list.name">
         <source>Name</source>
