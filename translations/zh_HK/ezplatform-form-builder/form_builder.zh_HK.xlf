@@ -101,13 +101,41 @@
       </trans-unit>
       <trans-unit id="c5df2f428976997cfd702d1795b54e6967b5dab3" resname="form_builder.validator.regex.pattern.alnum">
         <source>Alphanumeric</source>
-        <target xml:lang="zh-HK" state="translated">字母</target>
+        <target xml:lang="zh-HK" state="translated">字母數字</target>
         <note>key: form_builder.validator.regex.pattern.alnum</note>
+        <alt-trans>
+          <target xml:lang="zh-HK">字母</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="0afed63453cf94e289b83788d8051a84c0477de0" resname="form_builder.validator.regex.pattern.alpha">
+        <source>Alphabets</source>
+        <target xml:lang="zh-HK" state="translated">字母</target>
+        <note>key: form_builder.validator.regex.pattern.alpha</note>
+      </trans-unit>
+      <trans-unit id="71c3e1f8784415b29443d47570d96485d35675cd" resname="form_builder.validator.regex.pattern.custom">
+        <source>Custom</source>
+        <target xml:lang="zh-HK" state="translated">自定義</target>
+        <note>key: form_builder.validator.regex.pattern.custom</note>
       </trans-unit>
       <trans-unit id="777511800f0e95bf9e666213cc65f4cd414f0488" resname="form_builder.validator.regex.pattern.none">
         <source>None</source>
         <target xml:lang="zh-HK" state="translated">None</target>
         <note>key: form_builder.validator.regex.pattern.none</note>
+      </trans-unit>
+      <trans-unit id="fcd82220602951cb309c6b53d8a1a5c85f241a21" resname="invalid.fields">
+        <source>Not all the fields were configured correctly. Please, provide a proper configuration.</source>
+        <target xml:lang="zh-HK" state="translated">並非所有欄位配置都正確。請提供正確的配置。</target>
+        <note>key: invalid.fields</note>
+      </trans-unit>
+      <trans-unit id="0a01e36bbd3d88beacae4e0c3b9f79d8523c2daa" resname="moved.field.data.not.exists">
+        <source>Moved field data does not exist!</source>
+        <target xml:lang="zh-HK" state="translated">移動的欄位資料不存在!</target>
+        <note>key: moved.field.data.not.exists</note>
+      </trans-unit>
+      <trans-unit id="4ca91a461622421947258e5e7e305704088e4b7b" resname="no.fields.in.form">
+        <source>There are no fields in this form. Create your form.</source>
+        <target xml:lang="zh-HK" state="translated">此表單中沒有欄位。創建表單。</target>
+        <note>key: no.fields.in.form</note>
       </trans-unit>
       <trans-unit id="e2ec5b398adced7f94883c30e3e73e58026ea12e" resname="redirecting">
         <source>Redirecting ...</source>
