@@ -21,6 +21,11 @@
         <target xml:lang="zh-HK" state="translated">刪除</target>
         <note>key: delete.label</note>
       </trans-unit>
+      <trans-unit id="2b1c547a8eeb8b7c83a9580901c66193cbcb0eb9" resname="disallowed_content_type.message">
+        <source>You do not have permission to create this content item</source>
+        <target xml:lang="zh-HK" state="translated">您無權創建此內容項</target>
+        <note>key: disallowed_content_type.message</note>
+      </trans-unit>
       <trans-unit id="f2a2dab7435a694af5f4e9d2393e3cfb9c9c79f0" resname="disallowed_size.message">
         <source>File size is not allowed</source>
         <target xml:lang="zh-HK" state="translated">不允許檔案大小</target>
@@ -31,6 +36,11 @@
         <target xml:lang="zh-HK" state="translated">不允許檔案類型</target>
         <note>key: disallowed_type.message</note>
       </trans-unit>
+      <trans-unit id="694f61c4eb35d09307bcf40e14159061c6ba1f35" resname="drop_action.message">
+        <source>Drag and drop your files on browser window or upload them</source>
+        <target xml:lang="zh-HK" state="translated">在瀏覽器視窗中拖放或上傳文件</target>
+        <note>key: drop_action.message</note>
+      </trans-unit>
       <trans-unit id="ec408ab37730af3a79d49ee278f3b215ce89057c" resname="edit.label">
         <source>Edit</source>
         <target xml:lang="zh-HK" state="translated">編輯</target>
@@ -40,6 +50,26 @@
         <source>Max file size:</source>
         <target xml:lang="zh-HK" state="translated">最大檔案大小:</target>
         <note>key: max_file_size.message</note>
+      </trans-unit>
+      <trans-unit id="412c9936722fbbcd34664fdbfe33880fad7ef998" resname="multi_file_upload_open_btn.label">
+        <source>Upload sub-items</source>
+        <target xml:lang="zh-HK" state="translated">上傳子項目</target>
+        <note>key: multi_file_upload_open_btn.label</note>
+      </trans-unit>
+      <trans-unit id="76d7ffabd7e8c5d27a9b732dd5f15d1da68ff00c" resname="upload.success.message">
+        <source>Uploaded</source>
+        <target xml:lang="zh-HK" state="translated">已上傳</target>
+        <note>key: upload.success.message</note>
+      </trans-unit>
+      <trans-unit id="13ad49603f42b4ec5f9328d94f90e4f6d7ba6203" resname="upload_btn.label">
+        <source>Upload sub-items</source>
+        <target xml:lang="zh-HK" state="translated">上傳子項目</target>
+        <note>key: upload_btn.label</note>
+      </trans-unit>
+      <trans-unit id="f0af4c073e35f18370b9eb10fe995a6f5de9ac9d" resname="upload_popup.title">
+        <source>Multi-file upload</source>
+        <target xml:lang="zh-HK" state="translated">多文件上傳</target>
+        <note>key: upload_popup.title</note>
       </trans-unit>
     </body>
   </file>
