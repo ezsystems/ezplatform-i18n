@@ -21,6 +21,11 @@
         <target xml:lang="zh-HK" state="translated">角色識別碼 "%identifier%" 被另一個角色使用。必須輸入唯一識別碼。</target>
         <note>key: ez.role.identifier.unique</note>
       </trans-unit>
+      <trans-unit id="e7e08263e46325665a4d7f85d5f3465c37d49bb7" resname="ez.language.code.unique">
+        <source>The language code "%language_code%" is used by another language. You must enter a unique language code.</source>
+        <target xml:lang="zh-HK" state="translated">語言代碼 "%language_code%" 被另一種語言使用。必須輸入唯一的語言代碼。</target>
+        <note>key: ez.language.code.unique</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
