@@ -16,6 +16,11 @@
         <target xml:lang="zh-HK" state="translated">現在</target>
         <note>key: Now</note>
       </trans-unit>
+      <trans-unit id="46aef6fc467bbe065bc8a91cab998a0bffd48ec1" resname="Set date">
+        <source>Set date</source>
+        <target xml:lang="zh-HK" state="translated">設置日期</target>
+        <note>key: Set date</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
