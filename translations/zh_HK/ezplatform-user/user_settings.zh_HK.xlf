@@ -11,11 +11,6 @@
         <target xml:lang="zh-HK" state="translated">顯示日期的格式</target>
         <note>key: ezplatform.date_time_format.date_format.label</note>
       </trans-unit>
-      <trans-unit id="5de657d6ce5bc796abc83abde3a6e79503953b17" resname="ezplatform.date_time_format.time_format.label">
-        <source>Format for displaying Date</source>
-        <target xml:lang="zh-HK" state="translated">顯示日期的格式</target>
-        <note>key: ezplatform.date_time_format.time_format.label</note>
-      </trans-unit>
       <trans-unit id="fb1d64fdeabb5f2fe1671d4f3fb72ccca7722ed3" resname="list.action.edit">
         <source>Edit</source>
         <target xml:lang="zh-HK" state="translated">編輯</target>
