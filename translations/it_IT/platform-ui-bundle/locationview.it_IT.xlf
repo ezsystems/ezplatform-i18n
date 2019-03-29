@@ -18,6 +18,12 @@
         <note>key: changed.main.location.of</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="b87552f132d6e0ff4afe5f2f0b12e36dce35c1cb" resname="changing.main.location.of">
+        <source>Changing the main location of "%name%"</source>
+        <target xml:lang="it" state="translated">Cambiando la posizione principale di "%name%"</target>
+        <note>key: changing.main.location.of</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="c44059e516685b63857e6db9c22a11ed0d990519" resname="deleted.content">
         <source>'%name%' was deleted</source>
         <target xml:lang="it" state="translated">'%name%' è stato soppresso</target>
