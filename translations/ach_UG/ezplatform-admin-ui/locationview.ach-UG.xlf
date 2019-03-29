@@ -37,8 +37,8 @@
         <note>key: content.edit.select_language</note>
       </trans-unit>
       <trans-unit id="e136be672df8eb27dc4eb2f1ce0650096090bf81" resname="content.hidden.message">
-        <source>This content item is hidden and is not publicly available</source>
-        <target xml:lang="ach">crwdns216998:0crwdne216998:0</target>
+        <source>The content item or its location is hidden. It will no longer be publicly available.</source>
+        <target xml:lang="ach">crwdns217236:0crwdne217236:0</target>
         <note>key: content.hidden.message</note>
       </trans-unit>
       <trans-unit id="9c91d85bc7658ec7dc6bbb07b720979177c0846a" resname="content.view.subitems">
@@ -186,10 +186,10 @@
         <target xml:lang="ach">crwdns215108:0crwdne215108:0</target>
         <note>key: tab.locations.content_locations</note>
       </trans-unit>
-      <trans-unit id="cd57f6ee339fa6c35e2a75cc760f391676fca490" resname="tab.locations.hidden_by_superior">
-        <source>Hidden by superior</source>
-        <target xml:lang="ach">crwdns215109:0crwdne215109:0</target>
-        <note>key: tab.locations.hidden_by_superior</note>
+      <trans-unit id="c663ca1446263b6964290f8df3c409d33601d21b" resname="tab.locations.hidden_content_or_superior">
+        <source>Content or superior is hidden</source>
+        <target xml:lang="ach">crwdns217238:0crwdne217238:0</target>
+        <note>key: tab.locations.hidden_content_or_superior</note>
       </trans-unit>
       <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main">
         <source>Main</source>
