@@ -8,7 +8,7 @@ This repository contains eZ Platform Chinese (Hong Kong) translations.
 
 ## Installation
 
-    composer require ezplatform-i18n/chinese-hong-kong
+    composer require ezplatform-i18n/ezplatform-i18n-zh_HK
     
 ## Contribute
 
