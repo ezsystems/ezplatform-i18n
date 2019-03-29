@@ -197,11 +197,6 @@
         <target xml:lang="pl" state="translated">Utwórz</target>
         <note>key: object_state_group.create.submit</note>
       </trans-unit>
-      <trans-unit id="0b3303ec319a0c482f87d38b1a422288d9f1712b" resname="object_state_group.create.success" approved="yes">
-        <source>Object state type group '%name%' created.</source>
-        <target xml:lang="pl" state="translated">Utworzono grupę stanów obiektów '%name%'.</target>
-        <note>key: object_state_group.create.success</note>
-      </trans-unit>
       <trans-unit id="0f857d4dff9c8232ede300a39010d289d31c2937" resname="object_state_group.delete.bulk_delete.submit" approved="yes">
         <source>Delete Object State Group</source>
         <target xml:lang="pl" state="translated">Usuń grupę stanów obiektów</target>
@@ -211,11 +206,6 @@
         <source>Delete</source>
         <target xml:lang="pl" state="translated">Usuń</target>
         <note>key: object_state_group.delete.submit</note>
-      </trans-unit>
-      <trans-unit id="f33647d41b6e4ddd150317c9ef8cf2b3bd8d8b4b" resname="object_state_group.delete.success" approved="yes">
-        <source>Object state type group '%name%' deleted.</source>
-        <target xml:lang="pl" state="translated">Usunięto grupę stanów obiektów '%name%'.</target>
-        <note>key: object_state_group.delete.success</note>
       </trans-unit>
       <trans-unit id="940f19a907923467a0fc0084f21dc689a18ab804" resname="object_state_group.id" approved="yes">
         <source>ID</source>
