@@ -7,14 +7,19 @@
     </header>
     <body>
       <trans-unit id="35e03083bfdfafc073cf343c74385bec3945b4ac" resname="bulk_delete.error.message">
-        <source><![CDATA[%notDeletedCount% of the %totalCount% selected item(s) could not be deleted because you do not have proper user permissions. <u><a class='ez-notification-btn ez-notification-btn--show-modal'>Click here for more information.</a></u><br>Please contact your Administrator to obtain permissions.]]></source>
-        <target xml:lang="ach"><![CDATA[crwdns216534:0%notDeletedCount%crwdnd216534:0%totalCount%crwdne216534:0]]></target>
+        <source>%notDeletedCount% of the %totalCount% selected item(s) could not be deleted because you do not have proper user permissions. {{ moreInformationLink }} Please contact your Administrator to obtain permissions.</source>
+        <target xml:lang="ach">crwdns217220:0%notDeletedCount%crwdnd217220:0%totalCount%crwdnd217220:0{{ moreInformationLink }}crwdne217220:0</target>
         <note>key: bulk_delete.error.message</note>
       </trans-unit>
       <trans-unit id="23c9d6861623cc0b2f5f454afa841f1e368123cc" resname="bulk_delete.error.modal.table_title">
         <source>Content item(s) cannot be sent to trash (%itemsCount%)</source>
         <target xml:lang="ach">crwdns216536:0%itemsCount%crwdne216536:0</target>
         <note>key: bulk_delete.error.modal.table_title</note>
+      </trans-unit>
+      <trans-unit id="c1ffafa700d4b0ba80a626363f9dfe853571e080" resname="bulk_delete.error.more_info">
+        <source><![CDATA[<u><a class='ez-notification-btn ez-notification-btn--show-modal'>Click here for more information.</a></u><br>]]></source>
+        <target xml:lang="ach"><![CDATA[crwdns217222:0crwdne217222:0<br>]]></target>
+        <note>key: bulk_delete.error.more_info</note>
       </trans-unit>
       <trans-unit id="410f2ebb276d839b6606da042d0327a32e949093" resname="bulk_delete.popup.cancel">
         <source>Cancel</source>
@@ -37,8 +42,8 @@
         <note>key: bulk_delete.success.message</note>
       </trans-unit>
       <trans-unit id="364a3498e021163497d9110380736b876beb326f" resname="bulk_move.error.message">
-        <source><![CDATA[%notMovedCount% of the %totalCount% selected item(s) could not be moved because you do not have proper user permissions. <u><a class='ez-notification-btn ez-notification-btn--show-modal'>Click here for more information.</a></u><br>Please contact your Administrator to obtain permissions.]]></source>
-        <target xml:lang="ach"><![CDATA[crwdns216546:0%notMovedCount%crwdnd216546:0%totalCount%crwdne216546:0]]></target>
+        <source>%notMovedCount% of the %totalCount% selected item(s) could not be moved because you do not have proper user permissions. {{ moreInformationLink }} Please contact your Administrator to obtain permissions.</source>
+        <target xml:lang="ach">crwdns217224:0%notMovedCount%crwdnd217224:0%totalCount%crwdnd217224:0{{ moreInformationLink }}crwdne217224:0</target>
         <note>key: bulk_move.error.message</note>
       </trans-unit>
       <trans-unit id="44a971e3ea91b95b9fbbd596f54ca632ef0865d4" resname="bulk_move.error.modal.table_title">
@@ -46,9 +51,19 @@
         <target xml:lang="ach">crwdns216548:0%itemsCount%crwdne216548:0</target>
         <note>key: bulk_move.error.modal.table_title</note>
       </trans-unit>
+      <trans-unit id="704ee7a643332c4112613751caaf764496b8c5ac" resname="bulk_move.error.more_info">
+        <source><![CDATA[<u><a class='ez-notification-btn ez-notification-btn--show-modal'>Click here for more information.</a></u><br>]]></source>
+        <target xml:lang="ach"><![CDATA[crwdns217226:0crwdne217226:0<br>]]></target>
+        <note>key: bulk_move.error.more_info</note>
+      </trans-unit>
+      <trans-unit id="a1944f6944ef07fd9c744119c970b32ad6085954" resname="bulk_move.success.link_to_location">
+        <source><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></source>
+        <target xml:lang="ach"><![CDATA[crwdns217228:0%locationHref%crwdnd217228:0%locationName%crwdne217228:0]]></target>
+        <note>key: bulk_move.success.link_to_location</note>
+      </trans-unit>
       <trans-unit id="ac326404ff958f8e3fa903df5750024602b812de" resname="bulk_move.success.message">
-        <source><![CDATA[The selected content item(s) have been sent to <u><a href='%locationHref%'>%locationName%</a></u>]]></source>
-        <target xml:lang="ach"><![CDATA[crwdns216550:0%locationHref%crwdnd216550:0%locationName%crwdne216550:0]]></target>
+        <source>The selected content item(s) have been sent to {{ locationLink }}</source>
+        <target xml:lang="ach">crwdns217230:0{{ locationLink }}crwdne217230:0</target>
         <note>key: bulk_move.success.message</note>
       </trans-unit>
       <trans-unit id="93850319ec8e493cc4d0b8bb1ae2a87cdf26d3d6" resname="bulk_request.error.message">
