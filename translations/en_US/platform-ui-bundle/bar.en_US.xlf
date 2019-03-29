@@ -209,6 +209,12 @@
         <note>key: translateaction.new.translation</note>
         <jms:reference-file>Resources/public/templates/translateaction.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="0141ea1c4b92b9abdd164fdc4a7a824350d856f7" resname="view.content.label">
+        <source>View this content</source>
+        <target xml:lang="en-US" state="translated">View this content</target>
+        <note>key: view.content.label</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-discoverybarviewservice.js</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
