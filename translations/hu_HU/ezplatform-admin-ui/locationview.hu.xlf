@@ -156,11 +156,6 @@
         <target xml:lang="hu" state="translated">Tartalom lokációk</target>
         <note>key: tab.locations.content_locations</note>
       </trans-unit>
-      <trans-unit id="cd57f6ee339fa6c35e2a75cc760f391676fca490" resname="tab.locations.hidden_by_superior" approved="yes">
-        <source>Hidden by superior</source>
-        <target xml:lang="hu" state="translated">Felettes által elrejtve</target>
-        <note>key: tab.locations.hidden_by_superior</note>
-      </trans-unit>
       <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main" approved="yes">
         <source>Main</source>
         <target xml:lang="hu" state="translated">Főmenü</target>
