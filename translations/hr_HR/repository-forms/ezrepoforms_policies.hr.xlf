@@ -6,21 +6,21 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="3742f2cc514848bd4a5eb03430e412d44f5d9ec2" resname="policy.limitation.identifier.class">
+        <source>Content Type</source>
+        <target xml:lang="hr" state="translated">Vrsta sadržaja</target>
+        <note>key: policy.limitation.identifier.class</note>
+      </trans-unit>
+      <trans-unit id="76adf2a27f1ae0ab14b623729cd3f281a6e2c285" resname="policy.limitation.identifier.group">
+        <source>Content Type Group</source>
+        <target xml:lang="hr" state="translated">Grupa vrste sadržaja</target>
+        <note>key: policy.limitation.identifier.group</note>
+      </trans-unit>
+      <trans-unit id="9daf8e1a94a6409f9b9b102e042c2858e4307ea8" resname="policy.limitation.identifier.owner">
+        <source>Owner</source>
+        <target xml:lang="hr" state="translated">Vlasnik</target>
+        <note>key: policy.limitation.identifier.owner</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
