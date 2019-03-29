@@ -18,8 +18,11 @@
       </trans-unit>
       <trans-unit id="a871dec7f18c06b9061bc2aae9af1aafe1ad1600" resname="ezdatetime.useseconds.enabled">
         <source>`The date format is based on your user preferences and does not include seconds even if the field allows it`</source>
-        <target xml:lang="fr" state="translated">Le format de date est basé sur vos préférences utilisateur et n'inclut pas les secondes même si les attributs le permettent</target>
+        <target xml:lang="fr" state="translated">`Le format de date est basé sur vos préférences utilisateur et ne contient pas de secondes même si le champ le permet`</target>
         <note>key: ezdatetime.useseconds.enabled</note>
+        <alt-trans>
+          <target xml:lang="fr">Le format de date est basé sur vos préférences utilisateur et n'inclut pas les secondes même si les attributs le permettent</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="bf1525899659fa5ea6c18aa4bf63d596fecbf97e" resname="ezgmaplocation.address">
         <source>Address</source>
