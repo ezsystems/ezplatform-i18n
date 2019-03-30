@@ -6,33 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="d772ac8909929964906cbefd41c468c9a5d2be26" resname="ezemail.name">
+        <source>E-mail address</source>
+        <target xml:lang="hr" state="translated">E-mail adresa</target>
+        <note>key: ezemail.name</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
