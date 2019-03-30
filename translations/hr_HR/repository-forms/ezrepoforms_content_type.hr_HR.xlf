@@ -48,6 +48,12 @@
         <note>key: field_definition.ezfloat.min_value</note>
         <jms:reference-file line="26">lib/FieldType/Mapper/FloatFormMapper.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="5b275c762831def3c6ea393e3e0c25762e0844b3" resname="field_definition.ezimage.max_file_size">
+        <source>Maximum file size (byte)</source>
+        <target xml:lang="hr" state="translated">Maksimalna veličina datoteke (u bajtima)</target>
+        <note>key: field_definition.ezimage.max_file_size</note>
+        <jms:reference-file line="25">lib/FieldType/Mapper/ImageFormMapper.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e03e262fad0802fdee49aac136644b35450e1eab" resname="field_definition.ezobjectrelation.selection_root_udw_button">
         <source>Select item</source>
         <target xml:lang="hr" state="translated">Odaberite stavku</target>
