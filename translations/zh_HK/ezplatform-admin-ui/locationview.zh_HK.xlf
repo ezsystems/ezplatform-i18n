@@ -39,6 +39,11 @@
         <target xml:lang="zh-HK" state="translated">選擇語言</target>
         <note>key: content.edit.select_language</note>
       </trans-unit>
+      <trans-unit id="e136be672df8eb27dc4eb2f1ce0650096090bf81" resname="content.hidden.message">
+        <source>The content item or its location is hidden. It will no longer be publicly available.</source>
+        <target xml:lang="zh-HK" state="translated">內容項或其位置被隱藏。它將不再公開。</target>
+        <note>key: content.hidden.message</note>
+      </trans-unit>
       <trans-unit id="9c91d85bc7658ec7dc6bbb07b720979177c0846a" resname="content.view.subitems">
         <source>Sub-items</source>
         <target xml:lang="zh-HK" state="translated">子項</target>
@@ -189,6 +194,11 @@
         <source>Content locations</source>
         <target xml:lang="zh-HK" state="translated">內容位置</target>
         <note>key: tab.locations.content_locations</note>
+      </trans-unit>
+      <trans-unit id="c663ca1446263b6964290f8df3c409d33601d21b" resname="tab.locations.hidden_content_or_superior">
+        <source>Content or superior is hidden</source>
+        <target xml:lang="zh-HK" state="translated">內容或上級是隱藏的</target>
+        <note>key: tab.locations.hidden_content_or_superior</note>
       </trans-unit>
       <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main">
         <source>Main</source>
