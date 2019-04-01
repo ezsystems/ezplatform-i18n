@@ -43,8 +43,18 @@
       </trans-unit>
       <trans-unit id="704ee7a643332c4112613751caaf764496b8c5ac" resname="bulk_move.error.more_info">
         <source><![CDATA[<u><a class='ez-notification-btn ez-notification-btn--show-modal'>Click here for more information.</a></u><br>]]></source>
-        <target xml:lang="zh-HK" state="needs-translation"><![CDATA[<br>]]></target>
+        <target xml:lang="zh-HK" state="translated"><![CDATA[<u><a class='ez-notification-btn ez-notification-btn--show-modal'>點擊這裡瞭解更多資訊。</a></u><br>]]></target>
         <note>key: bulk_move.error.more_info</note>
+      </trans-unit>
+      <trans-unit id="a1944f6944ef07fd9c744119c970b32ad6085954" resname="bulk_move.success.link_to_location">
+        <source><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></source>
+        <target xml:lang="zh-HK" state="translated"><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></target>
+        <note>key: bulk_move.success.link_to_location</note>
+      </trans-unit>
+      <trans-unit id="ac326404ff958f8e3fa903df5750024602b812de" resname="bulk_move.success.message">
+        <source>The selected content item(s) have been sent to {{ locationLink }}</source>
+        <target xml:lang="zh-HK" state="translated">所選內容項已發送到{{ locationLink }}</target>
+        <note>key: bulk_move.success.message</note>
       </trans-unit>
       <trans-unit id="93850319ec8e493cc4d0b8bb1ae2a87cdf26d3d6" resname="bulk_request.error.message">
         <source>An unexpected error occurred while deleting the content item(s). Please try again later.</source>
