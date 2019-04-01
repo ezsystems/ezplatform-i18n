@@ -19,6 +19,11 @@
         <target xml:lang="zh-HK" state="translated">yes</target>
         <note>key: ezboolean.yes</note>
       </trans-unit>
+      <trans-unit id="a871dec7f18c06b9061bc2aae9af1aafe1ad1600" resname="ezdatetime.useseconds.enabled">
+        <source>`The date format is based on your user preferences and does not include seconds even if the field allows it`</source>
+        <target xml:lang="zh-HK" state="translated">"日期格式基於您的使用者首選項, 即使欄位允許, 也不包括秒"</target>
+        <note>key: ezdatetime.useseconds.enabled</note>
+      </trans-unit>
       <trans-unit id="bf1525899659fa5ea6c18aa4bf63d596fecbf97e" resname="ezgmaplocation.address">
         <source>Address</source>
         <target xml:lang="zh-HK" state="translated">地址</target>
