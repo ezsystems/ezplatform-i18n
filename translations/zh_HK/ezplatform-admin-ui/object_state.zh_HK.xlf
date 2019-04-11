@@ -131,8 +131,11 @@
       </trans-unit>
       <trans-unit id="d21ddef10954199297aeb0a318e9f627dda69ec9" resname="object_state.update.success">
         <source>Object state '%name%' updated.</source>
-        <target state="translated">對象狀態'％name％'已更新。</target>
+        <target state="translated">對象狀態'%name%'已更新。</target>
         <note>key: object_state.update.success</note>
+        <alt-trans>
+          <target>對象狀態'％name％'已更新。</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="7172cbdbf92234b6ce26b14d79080f0fdaf87b76" resname="object_state.view.add.title">
         <source>Creating a new Object State</source>
@@ -141,8 +144,11 @@
       </trans-unit>
       <trans-unit id="be3b8c4b5129a345fc2aafb9ff970dbe7669fa45" resname="object_state.view.edit.title">
         <source>Editing Object State: %name%</source>
-        <target state="translated">編輯對象狀態：％name％</target>
+        <target state="translated">編輯對象狀態：%name%</target>
         <note>key: object_state.view.edit.title</note>
+        <alt-trans>
+          <target>編輯對象狀態：％name％</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="58983da8ad1a5982e81ddd1bb0ab9cc3e50d6a73" resname="object_state.view.information.title">
         <source>Object State Information</source>
@@ -161,8 +167,11 @@
       </trans-unit>
       <trans-unit id="dc3b85ca7a255f5f7b961727623f0fc11a3678f0" resname="object_state.view.title">
         <source>Object State: %name%</source>
-        <target state="translated">對象狀態：％name％</target>
+        <target state="translated">對象狀態：%name%</target>
         <note>key: object_state.view.title</note>
+        <alt-trans>
+          <target>對象狀態：％name％</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="07ac5094606572ca7304175bb3af30e0a78662aa" resname="object_state_.delete.submit">
         <source>Delete</source>
@@ -176,8 +185,11 @@
       </trans-unit>
       <trans-unit id="e0710939fade4e106062c2ea356338ab305e3f35" resname="object_state_group.breadcrumb.edit">
         <source>Editing Object State Group: %name%</source>
-        <target state="translated">編輯對象狀態組：％name％</target>
+        <target state="translated">編輯對象狀態組：%name%</target>
         <note>key: object_state_group.breadcrumb.edit</note>
+        <alt-trans>
+          <target>編輯對象狀態組：％name％</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="089afe4fc7c6c1b22bcc1b7cb702282d983133f6" resname="object_state_group.breadcrumb.list">
         <source>Object States</source>
@@ -186,8 +198,11 @@
       </trans-unit>
       <trans-unit id="a6579fbae938d0bba558288987b50aa6a6aa8372" resname="object_state_group.breadcrumb.view">
         <source>Object State Group: %name%</source>
-        <target state="translated">對象狀態組：％name％</target>
+        <target state="translated">對象狀態組：%name%</target>
         <note>key: object_state_group.breadcrumb.view</note>
+        <alt-trans>
+          <target>對象狀態組：％name％</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="8e72c01409fbfb837c2a6ddb1a9455baada03057" resname="object_state_group.bulk_delete.delete">
         <source>Delete Object State Group</source>
@@ -211,8 +226,11 @@
       </trans-unit>
       <trans-unit id="0b3303ec319a0c482f87d38b1a422288d9f1712b" resname="object_state_group.create.success">
         <source>Object state group '%name%' created.</source>
-        <target state="translated">對象狀態組'％name％'已創建。</target>
+        <target state="translated">對象狀態組'%name%'已創建。</target>
         <note>key: object_state_group.create.success</note>
+        <alt-trans>
+          <target>對象狀態組'％name％'已創建。</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="0f857d4dff9c8232ede300a39010d289d31c2937" resname="object_state_group.delete.bulk_delete.submit">
         <source>Delete Object State Group</source>
@@ -226,8 +244,11 @@
       </trans-unit>
       <trans-unit id="f33647d41b6e4ddd150317c9ef8cf2b3bd8d8b4b" resname="object_state_group.delete.success">
         <source>Object state group '%name%' deleted.</source>
-        <target state="translated">對象狀態類型組'％name％'已刪除。</target>
+        <target state="translated">對象狀態類型組'%name%'已刪除。</target>
         <note>key: object_state_group.delete.success</note>
+        <alt-trans>
+          <target>對象狀態類型組'％name％'已刪除。</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="940f19a907923467a0fc0084f21dc689a18ab804" resname="object_state_group.id">
         <source>ID</source>
@@ -276,8 +297,11 @@
       </trans-unit>
       <trans-unit id="36efba078c092e0aa3fb7c44fcd55b1ee292cc35" resname="object_state_group.update.success">
         <source>Object state group '%name%' updated.</source>
-        <target state="translated">對象狀態組'％name％'已更新。</target>
+        <target state="translated">對象狀態組'%name%'已更新。</target>
         <note>key: object_state_group.update.success</note>
+        <alt-trans>
+          <target>對象狀態組'％name％'已更新。</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="440027deff8a9e2b55c3813b104fed4345d8c246" resname="object_state_group.view.add.title">
         <source>Creating a new Object State Group</source>
@@ -286,8 +310,11 @@
       </trans-unit>
       <trans-unit id="9f653b0046e2ba91b0b23afdf440596d2d99bbc3" resname="object_state_group.view.edit.title">
         <source>Editing Object State Group: %name%</source>
-        <target state="translated">編輯對象狀態組：％name％</target>
+        <target state="translated">編輯對象狀態組：%name%</target>
         <note>key: object_state_group.view.edit.title</note>
+        <alt-trans>
+          <target>編輯對象狀態組：％name％</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="c6deef75890178093bf878dd71ad8c7f2baff283" resname="object_state_group.view.information.title">
         <source>Object State Group Information</source>
@@ -306,8 +333,11 @@
       </trans-unit>
       <trans-unit id="f242d2aa82647529a4d5c7c314719fb4276a4e51" resname="object_state_group.view.title">
         <source>Object State Group: %name%</source>
-        <target state="translated">對象狀態組：％name％</target>
+        <target state="translated">對象狀態組：%name%</target>
         <note>key: object_state_group.view.title</note>
+        <alt-trans>
+          <target>對象狀態組：％name％</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>
