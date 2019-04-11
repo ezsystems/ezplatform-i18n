@@ -51,8 +51,11 @@
       </trans-unit>
       <trans-unit id="009667fab56f0bec66634f009a75ffd9425f2987" resname="fieldtype.translation_is_disabled">
         <source>Translation for %fieldName% is disabled</source>
-        <target state="translated">％fieldName％的翻譯被禁用</target>
+        <target state="translated">%fieldName%的翻譯被禁用</target>
         <note>key: fieldtype.translation_is_disabled</note>
+        <alt-trans>
+          <target>％fieldName％的翻譯被禁用</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="876d7bdba03c72251ec4c2dc827fc54af7889091" resname="location_id">
         <source>Location ID: %locationId%</source>
