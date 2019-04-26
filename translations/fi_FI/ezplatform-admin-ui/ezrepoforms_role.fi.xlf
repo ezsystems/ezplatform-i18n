@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="05cc1fd4658faa760de6e98cb71e1054157e63a0" resname="policy_delete.delete">
         <source>Delete</source>
-        <target xml:lang="fi" state="translated">Poista</target>
+        <target state="translated">Poista</target>
         <note>key: policy_delete.delete</note>
       </trans-unit>
     </body>
