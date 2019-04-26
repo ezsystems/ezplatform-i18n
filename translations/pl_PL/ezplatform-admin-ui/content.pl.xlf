@@ -8,31 +8,31 @@
     <body>
       <trans-unit id="8343cec7024fb459d738278aca82b39710b89c50" resname="content.create_draft.success" approved="yes">
         <source>New Version Draft for '%name%' created.</source>
-        <target xml:lang="pl" state="translated">Utworzono nowy szkic wersji dla "%name%".</target>
+        <target state="translated">Utworzono nowy szkic wersji dla "%name%".</target>
         <note>key: content.create_draft.success</note>
         <alt-trans>
-          <target xml:lang="pl">Nowy szkic wersji dla "%name%" został utworzony.</target>
+          <target>Nowy szkic wersji dla "%name%" został utworzony.</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="1ea2690f8ebd8fc99115a6f94ac56b8b93e46afe" resname="content.draft.conflict.error">
         <source>Cannot check if the draft has no conflict with other drafts. %error%. </source>
-        <target xml:lang="pl" state="needs-translation"> </target>
+        <target state="needs-translation"> </target>
         <note>key: content.draft.conflict.error</note>
       </trans-unit>
       <trans-unit id="5f36fd5bb4e6938a731079f403467900e0396ed2" resname="content.main_location_update.success" approved="yes">
         <source>Main location for '%name%' updated.</source>
-        <target xml:lang="pl" state="translated">Zaktualizowano główną lokalizację dla "%name%".</target>
+        <target state="translated">Zaktualizowano główną lokalizację dla "%name%".</target>
         <note>key: content.main_location_update.success</note>
         <alt-trans>
-          <target xml:lang="pl">Główna lokalizacja dla "%name%" została uaktualniona.</target>
+          <target>Główna lokalizacja dla "%name%" została uaktualniona.</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="4492a79e25635e7612f98971e02b4d0e6a408394" resname="user.delete.success" approved="yes">
         <source>User with login '%login%' deleted.</source>
-        <target xml:lang="pl" state="translated">Usunięto użytkownika o loginie "%login%".</target>
+        <target state="translated">Usunięto użytkownika o loginie "%login%".</target>
         <note>key: user.delete.success</note>
         <alt-trans>
-          <target xml:lang="pl">Użytkownik o loginie "%login%" został usunięty.</target>
+          <target>Użytkownik o loginie "%login%" został usunięty.</target>
         </alt-trans>
       </trans-unit>
     </body>
