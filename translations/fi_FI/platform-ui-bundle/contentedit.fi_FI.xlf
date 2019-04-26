@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="55bfafdd36ab25c84547ddc2ecfc0fb802565885" resname="created.by">
         <source>Created by %name%</source>
-        <target xml:lang="fi" state="translated">Sisällön luoja %name%</target>
+        <target state="translated">Sisällön luoja %name%</target>
         <note>key: created.by</note>
         <jms:reference-file>Resources/public/templates/contentedit.hbt</jms:reference-file>
       </trans-unit>
