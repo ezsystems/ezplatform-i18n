@@ -10,20 +10,20 @@
         <source xml:space="preserve">{0} This section is assigned to %contentCount% content items.|{1} This section is assigned to
                     %contentCount% content item.|]1,Inf[ This section is assigned to %contentCount% content items
                 </source>
-        <target xml:space="preserve" xml:lang="hi" state="needs-translation">
+        <target xml:space="preserve" state="needs-translation">
                 </target>
         <note>key: section.assigned.contentcount</note>
         <jms:reference-file line="41">Resources/views/Section/view.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="0a8c9188f868f7dfd2f523d0d1eabeb846d39d03" resname="section.cancel">
         <source>Cancel</source>
-        <target xml:lang="hi" state="translated">रद्द करें</target>
+        <target state="translated">रद्द करें</target>
         <note>key: section.cancel</note>
         <jms:reference-file line="52">Resources/views/Section/edit.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit">
         <source>Edit</source>
-        <target xml:lang="hi" state="translated">संपादन करें</target>
+        <target state="translated">संपादन करें</target>
         <note>key: section.edit</note>
         <jms:reference-file line="26">Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="79">Resources/views/Section/list.html.twig</jms:reference-file>
