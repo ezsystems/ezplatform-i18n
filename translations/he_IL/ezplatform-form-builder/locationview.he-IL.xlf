@@ -8,10 +8,10 @@
     <body>
       <trans-unit id="c0d915b4d6c0c0a37ea56a81c91f1b8e4ab0f6bb" resname="tab.name.submissions">
         <source>Submissions</source>
-        <target xml:lang="he" state="translated">טפסים מוגשים</target>
+        <target state="translated">טפסים מוגשים</target>
         <note>key: tab.name.submissions</note>
         <alt-trans>
-          <target xml:lang="he">מסירות</target>
+          <target>מסירות</target>
         </alt-trans>
       </trans-unit>
     </body>
