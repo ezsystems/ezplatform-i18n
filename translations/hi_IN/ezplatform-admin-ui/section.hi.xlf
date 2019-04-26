@@ -8,27 +8,27 @@
     <body>
       <trans-unit id="adcc2af264c7ae84e69396a8ff7ea5a259abd01e" resname="section.assigned_content.name">
         <source>Name</source>
-        <target xml:lang="hi" state="translated">नाम</target>
+        <target state="translated">नाम</target>
         <note>key: section.assigned_content.name</note>
       </trans-unit>
       <trans-unit id="741d668d8a98bbaa2195e996de4402f24ef7d60e" resname="section.assigned_content.type">
         <source>Content Type</source>
-        <target xml:lang="hi" state="translated">कांटेंट प्रकार</target>
+        <target state="translated">कांटेंट प्रकार</target>
         <note>key: section.assigned_content.type</note>
       </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit">
         <source>Edit</source>
-        <target xml:lang="hi" state="translated">संपादन करें</target>
+        <target state="translated">संपादन करें</target>
         <note>key: section.edit</note>
       </trans-unit>
       <trans-unit id="54e249fceb2f506942f7f0ae30107a734b9b3fe5" resname="section.identifier">
         <source>Identifier</source>
-        <target xml:lang="hi" state="translated">पहचानकर्ता</target>
+        <target state="translated">पहचानकर्ता</target>
         <note>key: section.identifier</note>
       </trans-unit>
       <trans-unit id="376986256605f27a204911de172c7bca4bd8e3b6" resname="section.name">
         <source>Name</source>
-        <target xml:lang="hi" state="translated">नाम</target>
+        <target state="translated">नाम</target>
         <note>key: section.name</note>
       </trans-unit>
     </body>
