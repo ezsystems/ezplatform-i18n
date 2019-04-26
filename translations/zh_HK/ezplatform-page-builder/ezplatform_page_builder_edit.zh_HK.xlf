@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="8343cec7024fb459d738278aca82b39710b89c50" resname="content.create_draft.success">
         <source>New Version Draft for '%name%' created.</source>
-        <target xml:lang="zh-HK" state="translated">"%name%" 的新版本草稿已創建。</target>
+        <target state="translated">"%name%" 的新版本草稿已創建。</target>
         <note>key: content.create_draft.success</note>
       </trans-unit>
     </body>

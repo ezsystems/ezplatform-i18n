@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="80c3052d33ccdee15ffaaa110c5c39072495fe63" resname="Never">
         <source>Never</source>
-        <target xml:lang="zh-HK" state="translated">永不</target>
+        <target state="translated">永不</target>
         <note>key: Never</note>
       </trans-unit>
       <trans-unit id="e3b82040565bb4be6b11f778a2e3df327ed20a3b" resname="Now">
         <source>Now</source>
-        <target xml:lang="zh-HK" state="translated">現在</target>
+        <target state="translated">現在</target>
         <note>key: Now</note>
       </trans-unit>
       <trans-unit id="46aef6fc467bbe065bc8a91cab998a0bffd48ec1" resname="Set date">
         <source>Set date</source>
-        <target xml:lang="zh-HK" state="translated">設置日期</target>
+        <target state="translated">設置日期</target>
         <note>key: Set date</note>
       </trans-unit>
     </body>
