@@ -8,61 +8,61 @@
     <body>
       <trans-unit id="c10b0c448f6442d0a67d6787f458e09c823d79f7" resname="The user login '%login%' is used by another user. You must enter a unique login.">
         <source>The user login '%login%' is used by another user. You must enter a unique login.</source>
-        <target xml:lang="zh-HK" state="translated">登錄用戶名 "%login%" 已被佔用。必須輸入唯一的登錄用戶名。</target>
+        <target state="translated">登錄用戶名 "%login%" 已被佔用。必須輸入唯一的登錄用戶名。</target>
         <note>key: The user login '%login%' is used by another user. You must enter a unique login.</note>
         <alt-trans>
-          <target xml:lang="zh-HK">登錄用戶名 "%login%" 由其他使用者使用。必須輸入唯一的登錄用戶名。</target>
+          <target>登錄用戶名 "%login%" 由其他使用者使用。必須輸入唯一的登錄用戶名。</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="facbff93edf91393ba1bb60212f504d35beae555" resname="ez.content_type.descriptions">
         <source>Content type description cannot exceed 255 characters.</source>
-        <target xml:lang="zh-HK" state="translated">內容類型描述不能超過255個字。</target>
+        <target state="translated">內容類型描述不能超過255個字。</target>
         <note>key: ez.content_type.descriptions</note>
         <alt-trans>
-          <target xml:lang="zh-HK">內容類型說明不能超過255個字元。</target>
+          <target>內容類型說明不能超過255個字元。</target>
         </alt-trans>
       </trans-unit>
       <trans-unit id="73aad2fb9c8f9a2103bf60d6e9221a619f261f9c" resname="ez.content_type.identifier.pattern">
         <source>Content type identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target xml:lang="zh-HK" state="translated">區段標識符只能包含“a”到“z”的字母，數字及下劃線。</target>
+        <target state="translated">區段標識符只能包含“a”到“z”的字母，數字及下劃線。</target>
         <note>key: ez.content_type.identifier.pattern</note>
       </trans-unit>
       <trans-unit id="7ecfa6bd2c1993d18d067f3abe3acebeb9c2458c" resname="ez.content_type.names">
         <source>Content type name cannot be blank and cannot exceed 255 characters.</source>
-        <target xml:lang="zh-HK" state="translated">欄位定義名稱不能為空, 也不能超過255個字。</target>
+        <target state="translated">欄位定義名稱不能為空, 也不能超過255個字。</target>
         <note>key: ez.content_type.names</note>
       </trans-unit>
       <trans-unit id="95f7490a739fd599a8d1d8f2ddec862744a71faa" resname="ez.field_definition.descriptions">
         <source>Field definition description cannot exceed 255 characters.</source>
-        <target xml:lang="zh-HK" state="translated">欄位定義描述不能超過255個字。</target>
+        <target state="translated">欄位定義描述不能超過255個字。</target>
         <note>key: ez.field_definition.descriptions</note>
       </trans-unit>
       <trans-unit id="0f7d936836760a506042c4d25cd38c5a30c3d9de" resname="ez.field_definition.names">
         <source>Field definition name cannot be blank cannot exceed 255 characters.</source>
-        <target xml:lang="zh-HK" state="translated">欄位定義名稱不能為空, 也不能超過255個字。</target>
+        <target state="translated">欄位定義名稱不能為空, 也不能超過255個字。</target>
         <note>key: ez.field_definition.names</note>
       </trans-unit>
       <trans-unit id="8666b9bac694063a73e477fed0531653db9577cf" resname="ez.language.code.unique">
         <source>The language code "%language_code%" is used by another language. You must enter a unique language code.</source>
-        <target xml:lang="zh-HK" state="translated">語言代碼 "%language_code%" 被另一種語言使用。必須輸入唯一的語言代碼。</target>
+        <target state="translated">語言代碼 "%language_code%" 被另一種語言使用。必須輸入唯一的語言代碼。</target>
         <note>key: ez.language.code.unique</note>
       </trans-unit>
       <trans-unit id="79c4015f3cf2d5b6312d5ca07a0ab2e5682cc720" resname="ez.role.identifier.unique">
         <source>The role identifier "%identifier%" is used by another role. You must enter a unique identifier.</source>
-        <target xml:lang="zh-HK" state="translated">角色識別碼 "%identifier%" 被另一個角色使用。必須輸入唯一識別碼。</target>
+        <target state="translated">角色識別碼 "%identifier%" 被另一個角色使用。必須輸入唯一識別碼。</target>
         <note>key: ez.role.identifier.unique</note>
       </trans-unit>
       <trans-unit id="924826be1015d20c1f4524754c690e10935abaac" resname="ez.section.identifier.format">
         <source>Section identifier may only contain letters from "a" to "z", numbers and underscores.</source>
-        <target xml:lang="zh-HK" state="translated">區段標識符只能包含“a”到“z”的字母，數字及下劃線。</target>
+        <target state="translated">區段標識符只能包含“a”到“z”的字母，數字及下劃線。</target>
         <note>key: ez.section.identifier.format</note>
       </trans-unit>
       <trans-unit id="958acf87f2f977fdf8334af608a11fade8b79509" resname="ez.url.unique">
         <source>URL must be unique</source>
-        <target xml:lang="zh-HK" state="translated">URL必須是唯一</target>
+        <target state="translated">URL必須是唯一</target>
         <note>key: ez.url.unique</note>
         <alt-trans>
-          <target xml:lang="zh-HK">URL必須是唯一的</target>
+          <target>URL必須是唯一的</target>
         </alt-trans>
       </trans-unit>
     </body>
