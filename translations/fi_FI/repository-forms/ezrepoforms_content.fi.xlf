@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="2fc1a78f3fa390c99fd859e73280919ae0fc76fc" resname="content.cancel_button">
         <source>Cancel</source>
-        <target xml:lang="fi" state="translated">Peruuta</target>
+        <target state="translated">Peruuta</target>
         <note>key: content.cancel_button</note>
       </trans-unit>
     </body>

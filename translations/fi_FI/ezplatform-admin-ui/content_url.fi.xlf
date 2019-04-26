@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="2398a15c604fd353b25fc8f558e2d099a6afeb33" resname="tab.urls.add.cancel">
         <source>Cancel</source>
-        <target xml:lang="fi" state="translated">Peruuta</target>
+        <target state="translated">Peruuta</target>
         <note>key: tab.urls.add.cancel</note>
       </trans-unit>
     </body>
