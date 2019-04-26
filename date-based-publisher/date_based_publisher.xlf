@@ -17,8 +17,8 @@
         <note>key: content.in_review</note>
       </trans-unit>
       <trans-unit id="efeb6a6207370ab249436a8d9e0eaff02a5efb79" resname="content.publish_later.read_more">
-        <source><![CDATA[Read more &raquo;]]></source>
-        <target state="new"><![CDATA[Read more &raquo;]]></target>
+        <source>Read more</source>
+        <target state="new">Read more</target>
         <note>key: content.publish_later.read_more</note>
       </trans-unit>
       <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published">
