@@ -8,62 +8,62 @@
     <body>
       <trans-unit id="2055432dd7586fdb260245c2eee60e3869bc5b23" resname="role.cancel">
         <source>Cancel</source>
-        <target xml:lang="hr" state="translated">Odustani</target>
+        <target state="translated">Odustani</target>
         <note>key: role.cancel</note>
       </trans-unit>
       <trans-unit id="d0f7a460463941ed043e46909f5b73e7062db88a" resname="role.create">
         <source>Create a role</source>
-        <target xml:lang="hr" state="translated">Kreiraj rolu</target>
+        <target state="translated">Kreiraj rolu</target>
         <note>key: role.create</note>
       </trans-unit>
       <trans-unit id="05d874e26afd33df312d129e8db6392b5a8d1767" resname="role.form.delete">
         <source>Delete</source>
-        <target xml:lang="hr" state="translated">Obriši</target>
+        <target state="translated">Obriši</target>
         <note>key: role.form.delete</note>
       </trans-unit>
       <trans-unit id="2899eca602b4735e6d40c6602fe539474fcbe76d" resname="role.identifier">
         <source>Name</source>
-        <target xml:lang="hr" state="translated">Naziv</target>
+        <target state="translated">Naziv</target>
         <note>key: role.identifier</note>
       </trans-unit>
       <trans-unit id="deab5c91a76488732d0405e72c36702ed2aea3d6" resname="role.policy.all_functions">
         <source>All functions</source>
-        <target xml:lang="hr" state="translated">Sve funkcije</target>
+        <target state="translated">Sve funkcije</target>
         <note>key: role.policy.all_functions</note>
       </trans-unit>
       <trans-unit id="d29c07272fff793138cbb6f7dbb41b08a16ff815" resname="role.policy.all_modules">
         <source>All modules</source>
-        <target xml:lang="hr" state="translated">Svi moduli</target>
+        <target state="translated">Svi moduli</target>
         <note>key: role.policy.all_modules</note>
       </trans-unit>
       <trans-unit id="d4690e1d0c7d2cf0468ab5aa04caa891e1b5efbd" resname="role.policy.all_modules_all_functions">
         <source>All modules / All functions</source>
-        <target xml:lang="hr" state="translated">Svi moduli / sve funkcije</target>
+        <target state="translated">Svi moduli / sve funkcije</target>
         <note>key: role.policy.all_modules_all_functions</note>
       </trans-unit>
       <trans-unit id="2a8bdc606cd0c96a53e2f661f0585029840af4b9" resname="role.policy.available_limitations">
         <source>Limitations</source>
-        <target xml:lang="hr" state="translated">Ograničenja</target>
+        <target state="translated">Ograničenja</target>
         <note>key: role.policy.available_limitations</note>
       </trans-unit>
       <trans-unit id="45237c152148c31c2b8c58cd43466caf30c7ea6a" resname="role.policy.form.delete">
         <source>Delete policy</source>
-        <target xml:lang="hr" state="translated">Izbriši rolu</target>
+        <target state="translated">Izbriši rolu</target>
         <note>key: role.policy.form.delete</note>
       </trans-unit>
       <trans-unit id="2651baeac233ce0e4ec974e260d8e0873197f3fc" resname="role.policy.save">
         <source>Save</source>
-        <target xml:lang="hr" state="translated">Spremi</target>
+        <target state="translated">Spremi</target>
         <note>key: role.policy.save</note>
       </trans-unit>
       <trans-unit id="f807a08e0f2e4780d2d54ed57e5c88bb5c937f49" resname="role.remove_draft">
         <source>Cancel</source>
-        <target xml:lang="hr" state="translated">Odustani</target>
+        <target state="translated">Odustani</target>
         <note>key: role.remove_draft</note>
       </trans-unit>
       <trans-unit id="34d67d064254dcb98ca473136e4688c47b5c7a86" resname="role.save">
         <source>Save</source>
-        <target xml:lang="hr" state="translated">Spremi</target>
+        <target state="translated">Spremi</target>
         <note>key: role.save</note>
       </trans-unit>
     </body>
