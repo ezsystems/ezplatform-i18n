@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="34ba9078fe178bd49df6ada9d8357455ee8ff7b3" resname="policy_create.save">
         <source>Update</source>
-        <target xml:lang="es-ES" state="translated">Actualizar</target>
+        <target state="translated">Actualizar</target>
         <note>key: policy_create.save</note>
       </trans-unit>
       <trans-unit id="05cc1fd4658faa760de6e98cb71e1054157e63a0" resname="policy_delete.delete">
         <source>Delete</source>
-        <target xml:lang="es-ES" state="translated">Eliminar</target>
+        <target state="translated">Eliminar</target>
         <note>key: policy_delete.delete</note>
       </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
         <source>Type</source>
-        <target xml:lang="es-ES" state="translated">Tipo</target>
+        <target state="translated">Tipo</target>
         <note>key: role.policy.type</note>
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
         <source>Choose a type</source>
-        <target xml:lang="es-ES" state="translated">Elegir un tipo</target>
+        <target state="translated">Elegir un tipo</target>
         <note>key: role.policy.type.choose</note>
       </trans-unit>
     </body>
