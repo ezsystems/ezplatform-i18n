@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="5b6635730e66eb50ae26455406ca774eac8fd8e1" resname="version.conflict.form.cancel">
         <source>Cancel</source>
-        <target xml:lang="it" state="translated">Annulla</target>
+        <target state="translated">Annulla</target>
         <note>key: version.conflict.form.cancel</note>
       </trans-unit>
     </body>
