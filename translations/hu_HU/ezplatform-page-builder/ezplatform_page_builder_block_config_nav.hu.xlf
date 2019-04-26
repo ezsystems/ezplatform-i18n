@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="dcb7d5c604f93fdc65aa4b1ff853e8ed27237f45" resname="tab.label.basic" approved="yes">
         <source>Basic</source>
-        <target xml:lang="hu" state="translated">Alap</target>
+        <target state="translated">Alap</target>
         <note>key: tab.label.basic</note>
       </trans-unit>
       <trans-unit id="2d40f74124be77d408be57368842ef5e7bd64d98" resname="tab.label.design" approved="yes">
         <source>Design</source>
-        <target xml:lang="hu" state="translated">Design</target>
+        <target state="translated">Design</target>
         <note>key: tab.label.design</note>
       </trans-unit>
     </body>
