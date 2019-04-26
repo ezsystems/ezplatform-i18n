@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="d18532f1bb8aa358608acf628ad825d439f40f1d" resname="main__content__form_builder" approved="yes">
         <source>Forms</source>
-        <target xml:lang="pl" state="translated">Formularze</target>
+        <target state="translated">Formularze</target>
         <note>key: main__content__form_builder</note>
       </trans-unit>
     </body>

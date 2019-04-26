@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="473791d4ee73c0b1401f37519728414c339edc21" resname="javascript.disabled.required" approved="yes">
         <source>javascript.disabled.required</source>
-        <target xml:lang="pl" state="translated">JavaScript jest wyłączony w Twojej przeglądarce, ale jest konieczny do uruchomienia eZ Platform.</target>
+        <target state="translated">JavaScript jest wyłączony w Twojej przeglądarce, ale jest konieczny do uruchomienia eZ Platform.</target>
         <note>key: javascript.disabled.required</note>
       </trans-unit>
       <trans-unit id="1ac530659b5b57d48cf6d95bc51ead90f1a2ac6d" resname="javascript.enable" approved="yes">
         <source>javascript.enable</source>
-        <target xml:lang="pl" state="translated">Uruchom JavaScript, aby używać interfejsu eZ Platform.</target>
+        <target state="translated">Uruchom JavaScript, aby używać interfejsu eZ Platform.</target>
         <note>key: javascript.enable</note>
       </trans-unit>
     </body>

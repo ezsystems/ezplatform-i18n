@@ -8,10 +8,10 @@
     <body>
       <trans-unit id="885ec7aab950e05f729031321cddbb6d7f9c3246" resname="version.delete.success" approved="yes">
         <source>Versions removed from '%name%' content.</source>
-        <target xml:lang="pl" state="translated">Wersje usunięte z elementu '%name%'.</target>
+        <target state="translated">Wersje usunięte z elementu '%name%'.</target>
         <note>key: version.delete.success</note>
         <alt-trans>
-          <target xml:lang="pl">Wersje usunięte z treści '%name%'.</target>
+          <target>Wersje usunięte z treści '%name%'.</target>
         </alt-trans>
       </trans-unit>
     </body>
