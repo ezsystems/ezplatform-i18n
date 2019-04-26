@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="50833698162171103793dc9cb6367839a8e063a4" resname="preview_unavailable">
         <source>You cannot preview this translation: there is no site available for this language. Please contact the website administrator.</source>
-        <target xml:lang="ru" state="translated">Вы не можете активировать предпросмотр перевода: нет доступного сайта для этого языка. Свяжитесь с администратором для решения проблемы.</target>
+        <target state="translated">Вы не можете активировать предпросмотр перевода: нет доступного сайта для этого языка. Свяжитесь с администратором для решения проблемы.</target>
         <note>key: preview_unavailable</note>
       </trans-unit>
     </body>
