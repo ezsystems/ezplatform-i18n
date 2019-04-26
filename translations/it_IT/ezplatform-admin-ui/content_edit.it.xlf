@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="71a8aeb31196db647608ffe1789be9400d61451d" resname="created_by">
         <source>Created by %name%</source>
-        <target xml:lang="it" state="translated">Creato da %name%</target>
+        <target state="translated">Creato da %name%</target>
         <note>key: created_by</note>
       </trans-unit>
     </body>
