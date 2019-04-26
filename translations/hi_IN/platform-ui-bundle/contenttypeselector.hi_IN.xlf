@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="18580d499d23b1effb39341a73927da90b41fea3" resname="contenttypeselector.available.content.type">
         <source>Available content types</source>
-        <target xml:lang="hi" state="translated">उपलब्ध कांटेंट प्रकार</target>
+        <target state="translated">उपलब्ध कांटेंट प्रकार</target>
         <note>key: contenttypeselector.available.content.type</note>
         <jms:reference-file>Resources/public/templates/contenttypeselector.hbt</jms:reference-file>
       </trans-unit>
