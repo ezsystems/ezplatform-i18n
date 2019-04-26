@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="f57e38069445fdec820e61935325ba944c1c8fe4" resname="discard" approved="yes">
         <source>Discard</source>
-        <target xml:lang="pl" state="translated">Odrzuć</target>
+        <target state="translated">Odrzuć</target>
         <note>key: discard</note>
       </trans-unit>
       <trans-unit id="3fa4054f214f0f8063d8fb4453be65d460e3e30c" resname="submit" approved="yes">
         <source>Submit</source>
-        <target xml:lang="pl" state="translated">Zatwierdź</target>
+        <target state="translated">Zatwierdź</target>
         <note>key: submit</note>
       </trans-unit>
     </body>
