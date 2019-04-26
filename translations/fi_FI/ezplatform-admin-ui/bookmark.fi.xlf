@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="cf687b0218c513d53ad3f52b2547c23500242c48" resname="bookmark.list.content_type">
         <source>Content Type</source>
-        <target xml:lang="fi" state="translated">Sisältötyyppi</target>
+        <target state="translated">Sisältötyyppi</target>
         <note>key: bookmark.list.content_type</note>
       </trans-unit>
       <trans-unit id="d84749a19f2864dd1d5d3cee0a127f2435e5cdc5" resname="bookmark.list.name">
         <source>Name</source>
-        <target xml:lang="fi" state="translated">Nimi</target>
+        <target state="translated">Nimi</target>
         <note>key: bookmark.list.name</note>
       </trans-unit>
     </body>
