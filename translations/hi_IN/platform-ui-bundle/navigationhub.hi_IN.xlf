@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="404d24ec036d0f0f7590d7d63fa9ba64d19116e7" resname="navigationhub.content_type.dashboard_title">
         <source>Content types</source>
-        <target xml:lang="hi" state="translated">कांटेंट प्रकार</target>
+        <target state="translated">कांटेंट प्रकार</target>
         <note>key: navigationhub.content_type.dashboard_title</note>
         <jms:reference-file>Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
       </trans-unit>
