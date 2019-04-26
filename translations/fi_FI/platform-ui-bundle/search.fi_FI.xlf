@@ -8,13 +8,13 @@
     <body>
       <trans-unit id="6ffbb9b14f98e94b8dda5418ef3910942b42c44e" resname="search.search">
         <source>Search</source>
-        <target xml:lang="fi" state="translated">Hae</target>
+        <target state="translated">Hae</target>
         <note>key: search.search</note>
         <jms:reference-file>Resources/public/templates/searchview.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="25cda398863dd104cebf8932e6ba226d0f4f1641" resname="search.search.content">
         <source>Search content:</source>
-        <target xml:lang="fi" state="translated">Etsi sisältöä:</target>
+        <target state="translated">Etsi sisältöä:</target>
         <note>key: search.search.content</note>
         <jms:reference-file>Resources/public/templates/searchview.hbt</jms:reference-file>
       </trans-unit>
