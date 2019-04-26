@@ -8,25 +8,25 @@
     <body>
       <trans-unit id="558c96f6cc252f0dbe70418123dd8bbb13234a2b" resname="confirmbox.cancel">
         <source>Cancel</source>
-        <target xml:lang="ja" state="translated">キャンセル</target>
+        <target state="translated">キャンセル</target>
         <note>key: confirmbox.cancel</note>
         <jms:reference-file>Resources/public/templates/confirmbox.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="333383790307ace20d9c43e23fa613daf0e4492c" resname="confirmbox.confirm">
         <source>Confirm</source>
-        <target xml:lang="ja" state="translated">確定</target>
+        <target state="translated">確定</target>
         <note>key: confirmbox.confirm</note>
         <jms:reference-file>Resources/public/templates/confirmbox.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="c478b39ac9ceac6e2a91a937bb1d9fd310cb607d" resname="draftconflict.language">
         <source>Language</source>
-        <target xml:lang="ja" state="translated">言語</target>
+        <target state="translated">言語</target>
         <note>key: draftconflict.language</note>
         <jms:reference-file>Resources/public/templates/confirmbox/draftconflict.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="0061cab899c3a8d9b9f601491b0474f9d85d92a7" resname="draftconflict.lastmodified">
         <source>Last Modified</source>
-        <target xml:lang="ja" state="translated">最終更新日時</target>
+        <target state="translated">最終更新日時</target>
         <note>key: draftconflict.lastmodified</note>
         <jms:reference-file>Resources/public/templates/confirmbox/draftconflict.hbt</jms:reference-file>
       </trans-unit>
