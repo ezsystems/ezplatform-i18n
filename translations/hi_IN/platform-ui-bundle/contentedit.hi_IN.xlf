@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="431acee9716b1c0e01f44d5c29066c88805baa76" resname="draft.saved">
         <source>The draft was stored successfully</source>
-        <target xml:lang="hi" state="translated">आपका ड्राफ़्ट सफलतापूर्वक स्टोर होगाया है</target>
+        <target state="translated">आपका ड्राफ़्ट सफलतापूर्वक स्टोर होगाया है</target>
         <note>key: draft.saved</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-savedraftplugin.js</jms:reference-file>
       </trans-unit>
