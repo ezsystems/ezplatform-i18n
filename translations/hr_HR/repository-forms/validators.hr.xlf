@@ -6,16 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="8666b9bac694063a73e477fed0531653db9577cf" resname="ez.language.code.unique">
+        <source>The language code "%language_code%" is used by another language. You must enter a unique language code.</source>
+        <target state="translated">Drugi jezik već koristi kod jezika "%language_code%". Morate unijeti jedinstveni kod jezika.</target>
+        <note>key: ez.language.code.unique</note>
+      </trans-unit>
+      <trans-unit id="79c4015f3cf2d5b6312d5ca07a0ab2e5682cc720" resname="ez.role.identifier.unique">
+        <source>The role identifier "%identifier%" is used by another role. You must enter a unique identifier.</source>
+        <target state="translated">Druga uloga već koristi identifikator "%identifier%". Morate unijeti jedinstveni identifikator uloge.</target>
+        <note>key: ez.role.identifier.unique</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
