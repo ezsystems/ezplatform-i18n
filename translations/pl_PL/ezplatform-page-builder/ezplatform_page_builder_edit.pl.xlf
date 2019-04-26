@@ -8,10 +8,10 @@
     <body>
       <trans-unit id="8343cec7024fb459d738278aca82b39710b89c50" resname="content.create_draft.success" approved="yes">
         <source>New Version Draft for '%name%' created.</source>
-        <target xml:lang="pl" state="translated">Utworzono nowy szkic wersji dla "%name%".</target>
+        <target state="translated">Utworzono nowy szkic wersji dla "%name%".</target>
         <note>key: content.create_draft.success</note>
         <alt-trans>
-          <target xml:lang="pl">Utworzono nową wersję szkicu dla '%name%'.</target>
+          <target>Utworzono nową wersję szkicu dla '%name%'.</target>
         </alt-trans>
       </trans-unit>
     </body>
