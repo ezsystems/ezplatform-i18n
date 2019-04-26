@@ -8,32 +8,32 @@
     <body>
       <trans-unit id="2055432dd7586fdb260245c2eee60e3869bc5b23" resname="role.cancel">
         <source>Cancel</source>
-        <target xml:lang="hi" state="translated">रद्द करें</target>
+        <target state="translated">रद्द करें</target>
         <note>key: role.cancel</note>
       </trans-unit>
       <trans-unit id="05d874e26afd33df312d129e8db6392b5a8d1767" resname="role.form.delete">
         <source>Delete</source>
-        <target xml:lang="hi" state="translated">मिटाए</target>
+        <target state="translated">मिटाए</target>
         <note>key: role.form.delete</note>
       </trans-unit>
       <trans-unit id="2899eca602b4735e6d40c6602fe539474fcbe76d" resname="role.identifier">
         <source>Name</source>
-        <target xml:lang="hi" state="translated">नाम</target>
+        <target state="translated">नाम</target>
         <note>key: role.identifier</note>
       </trans-unit>
       <trans-unit id="2651baeac233ce0e4ec974e260d8e0873197f3fc" resname="role.policy.save">
         <source>Save</source>
-        <target xml:lang="hi" state="translated">सहेजे</target>
+        <target state="translated">सहेजे</target>
         <note>key: role.policy.save</note>
       </trans-unit>
       <trans-unit id="f807a08e0f2e4780d2d54ed57e5c88bb5c937f49" resname="role.remove_draft">
         <source>Cancel</source>
-        <target xml:lang="hi" state="translated">रद्द करें</target>
+        <target state="translated">रद्द करें</target>
         <note>key: role.remove_draft</note>
       </trans-unit>
       <trans-unit id="34d67d064254dcb98ca473136e4688c47b5c7a86" resname="role.save">
         <source>Save</source>
-        <target xml:lang="hi" state="translated">सहेजे</target>
+        <target state="translated">सहेजे</target>
         <note>key: role.save</note>
       </trans-unit>
     </body>
