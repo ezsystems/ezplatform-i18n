@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="3816282a6673a4a07c0e56585b7c4215816951a9" resname="delete.form.cancel">
         <source>Cancel</source>
-        <target xml:lang="it" state="translated">Annulla</target>
+        <target state="translated">Annulla</target>
         <note>key: delete.form.cancel</note>
       </trans-unit>
     </body>
