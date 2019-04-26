@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="5752d1a75675e5cd0fde02a23eb424313e42e4c9" resname="section.assign.contents">
         <source>Assign to content</source>
-        <target xml:lang="fi" state="translated">Aseta sisällöille</target>
+        <target state="translated">Aseta sisällöille</target>
         <note>key: section.assign.contents</note>
         <jms:reference-file line="23">Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="75">Resources/views/Section/list.html.twig</jms:reference-file>
@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content">
         <source>Assigned Content items</source>
-        <target xml:lang="fi" state="translated">Asetetut sisältöobjektit</target>
+        <target state="translated">Asetetut sisältöobjektit</target>
         <note>key: section.assigned.content</note>
         <jms:reference-file line="58">Resources/views/Section/list.html.twig</jms:reference-file>
       </trans-unit>
@@ -24,14 +24,14 @@
         <source xml:space="preserve">{0} This section is assigned to %contentCount% content items.|{1} This section is assigned to
                     %contentCount% content item.|]1,Inf[ This section is assigned to %contentCount% content items
                 </source>
-        <target xml:space="preserve" xml:lang="fi" state="needs-translation">
+        <target xml:space="preserve" state="needs-translation">
                 </target>
         <note>key: section.assigned.contentcount</note>
         <jms:reference-file line="41">Resources/views/Section/view.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit">
         <source>Edit</source>
-        <target xml:lang="fi" state="translated">Muokkaa</target>
+        <target state="translated">Muokkaa</target>
         <note>key: section.edit</note>
         <jms:reference-file line="26">Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="79">Resources/views/Section/list.html.twig</jms:reference-file>
@@ -41,19 +41,19 @@
       </trans-unit>
       <trans-unit id="bcb0a8eedc29344eb4ad95a02dd684438aae1df6" resname="section.id">
         <source>Section ID</source>
-        <target xml:lang="fi" state="translated">Osion ID</target>
+        <target state="translated">Osion ID</target>
         <note>key: section.id</note>
         <jms:reference-file line="57">Resources/views/Section/list.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="54e249fceb2f506942f7f0ae30107a734b9b3fe5" resname="section.identifier">
         <source>Section identifier</source>
-        <target xml:lang="fi" state="translated">Osion tunniste</target>
+        <target state="translated">Osion tunniste</target>
         <note>key: section.identifier</note>
         <jms:reference-file line="56">Resources/views/Section/list.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="1f9b6e37416ff607de9d4fa280dce2f734ea622c" resname="section.list">
         <source>Sections</source>
-        <target xml:lang="fi" state="translated">Osiot</target>
+        <target state="translated">Osiot</target>
         <note>key: section.list</note>
         <jms:reference-file line="14">Resources/views/Dashboard/dashboard.html.twig</jms:reference-file>
         <jms:reference-file line="10">Resources/views/Section/create.html.twig</jms:reference-file>
@@ -65,13 +65,13 @@
       </trans-unit>
       <trans-unit id="376986256605f27a204911de172c7bca4bd8e3b6" resname="section.name">
         <source>Section name</source>
-        <target xml:lang="fi" state="translated">Osion nimi</target>
+        <target state="translated">Osion nimi</target>
         <note>key: section.name</note>
         <jms:reference-file line="55">Resources/views/Section/list.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="12023a25e9c04ceef708820416f14a5a1e188688" resname="section.new">
         <source>Create a new section</source>
-        <target xml:lang="fi" state="translated">Luo uusi osio</target>
+        <target state="translated">Luo uusi osio</target>
         <note>key: section.new</note>
         <jms:reference-file line="105">Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="107">Resources/views/Section/list.html.twig</jms:reference-file>
