@@ -8,13 +8,13 @@
     <body>
       <trans-unit id="62a66a9c02d5728bbc517a5d7c11889990cbed12" resname="sort.content.type.name">
         <source>Content type name</source>
-        <target xml:lang="hi" state="translated">कांटेंट प्रकार का नाम</target>
+        <target state="translated">कांटेंट प्रकार का नाम</target>
         <note>key: sort.content.type.name</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="4f2fcdfe68ca50269b9c334594a8acd1a688809f" resname="sort.name">
         <source>Content name</source>
-        <target xml:lang="hi" state="translated">कांटेंट का नाम</target>
+        <target state="translated">कांटेंट का नाम</target>
         <note>key: sort.name</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
       </trans-unit>
