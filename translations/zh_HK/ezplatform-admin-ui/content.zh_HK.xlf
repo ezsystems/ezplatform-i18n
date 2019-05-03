@@ -16,6 +16,11 @@
         <target state="translated">無法檢查草稿是否與其他草稿有无衝突。 %error%。 </target>
         <note>key: content.draft.conflict.error</note>
       </trans-unit>
+      <trans-unit id="7b7f768e446eae09c01c831807e246e293f65349" resname="content.edit.permission.error">
+        <source>You don't have permission to edit the content</source>
+        <target state="translated">您無權編輯此內容</target>
+        <note>key: content.edit.permission.error</note>
+      </trans-unit>
       <trans-unit id="fbc24757e92f52997d730762e004765425845995" resname="content.hide.already_hidden">
         <source>Content '%name%' was already hidden.</source>
         <target state="translated">內容 "%name%" 已被隱藏。</target>
