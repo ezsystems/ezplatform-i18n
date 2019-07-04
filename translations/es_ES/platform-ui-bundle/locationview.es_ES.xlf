@@ -72,6 +72,18 @@
         <note>key: failed.sending.to.trash</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3f04f55debf0d3a13a9cfa32616c860989ac11d1" resname="failed.to.load.section">
+        <source>Failed to load content's section</source>
+        <target state="translated">Error al cargar la sección de contenido</target>
+        <note>key: failed.to.load.section</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e59fc009e6dc0079786973ab8b8542f463d3b233" resname="failed.updated.priority">
+        <source>An error occurred when updating the priority</source>
+        <target state="translated">Se ha producido un error al actualizar la prioridad</target>
+        <note>key: failed.updated.priority</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="e0be1422e1af400879a6716220eabc9ad4fca29e" resname="locationview.details.ascending">
         <source>Ascending</source>
         <target state="translated">Ascendente</target>
@@ -82,6 +94,18 @@
         <source>Content Id</source>
         <target state="translated">ID del contenido</target>
         <note>key: locationview.details.contentid</note>
+        <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d270971c445eca4fc0e7cd8ec006341f0ff19354" resname="locationview.details.creator">
+        <source>Creator</source>
+        <target state="translated">Creador</target>
+        <note>key: locationview.details.creator</note>
+        <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5095b70f3c9ccc1c77ba2d4f8ae1b2ce6121e233" resname="locationview.details.default.listing.of.subitems.by">
+        <source>Default listing of sub-items by</source>
+        <target state="translated">Listado por defecto de sub-elementos por</target>
+        <note>key: locationview.details.default.listing.of.subitems.by</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="a8f82a516b76060775a7c40c5163cd4f2af7b8ac" resname="locationview.details.descending">
