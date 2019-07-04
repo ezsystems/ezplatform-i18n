@@ -107,6 +107,12 @@
         <note>key: media.auto.play</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="f607f322881e39df930c236a13e1d03ecfd07ecf" resname="media.display.controls">
+        <source>Display controls:</source>
+        <target state="translated">Mostrar controles:</target>
+        <note>key: media.display.controls</note>
+        <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
+      </trans-unit>
       <trans-unit id="7097c3e879074d847c1d5bc6710b2fe4afa91171" resname="media.file.name">
         <source>File name:</source>
         <target state="translated">Nombre de archivo:</target>
@@ -135,6 +141,12 @@
         <source>Loop:</source>
         <target state="translated">Bucle:</target>
         <note>key: media.loop</note>
+        <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="135cbb609fe487f5b9df8fdd756028516d582195" resname="media.size">
+        <source>%size% bytes</source>
+        <target state="translated">%size% bytes</target>
+        <note>key: media.size</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="f627fe6c0a96d227ca48a741cf697410a965414d" resname="media.unsupported.audio">
