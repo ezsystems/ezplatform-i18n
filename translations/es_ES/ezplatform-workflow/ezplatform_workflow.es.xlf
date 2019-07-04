@@ -6,53 +6,26 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="eca0d518c25ac61553a436334389d163e15790cb" resname="content.review.from">
+        <source>From:</source>
+        <target state="translated">Desde:</target>
+        <note>key: content.review.from</note>
+      </trans-unit>
+      <trans-unit id="48ec0a3b5f9bf96775a010f49c2ca83fa5a6d9d5" resname="content.review.read_more">
+        <source>Read more</source>
+        <target state="translated">Leer más</target>
+        <note>key: content.review.read_more</note>
+      </trans-unit>
+      <trans-unit id="ae6d8d014d80092d6c7254b3baaa05e9a4cea7ae" resname="content.review.ready">
+        <source>Content is ready for review</source>
+        <target state="translated">El contenido está listo para ser revisado</target>
+        <note>key: content.review.ready</note>
+      </trans-unit>
+      <trans-unit id="c682e81e5f634fa80a21c654aa254f8aea97eb59" resname="content_edit.component.events">
+        <source>Event(s)</source>
+        <target state="translated">Eventos</target>
+        <note>key: content_edit.component.events</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
