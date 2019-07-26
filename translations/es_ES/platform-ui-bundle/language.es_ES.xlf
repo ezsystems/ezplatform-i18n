@@ -72,6 +72,12 @@
         <note>key: language.enabled.label</note>
         <jms:reference-file line="39">Resources/views/Language/view.html.twig</jms:reference-file>
       </trans-unit>
+      <trans-unit id="acf6ff41e3b9acb2cbbcd4a8e908cf52c08b86af" resname="language.id">
+        <source>Language ID</source>
+        <target state="translated">ID de idioma</target>
+        <note>key: language.id</note>
+        <jms:reference-file line="30">Resources/views/Language/list.html.twig</jms:reference-file>
+      </trans-unit>
       <trans-unit id="60c35c78d83e0e32173bc6eda1bd696d223b49bd" resname="language.id.label">
         <source>Language ID:</source>
         <target state="translated">ID del idioma:</target>
@@ -113,6 +119,15 @@
         <target state="translated">El idioma "%languageName%" ha sido creado exitosamente.</target>
         <note>key: language.notification.created</note>
         <jms:reference-file line="46">Form/Processor/LanguageFormProcessor.php</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8df2798a2851c0d43893e3862f8a2e6e4290b141" resname="language.view.title">
+        <source>Language: %languageName%</source>
+        <target state="translated">Idioma: %languageName%</target>
+        <note>key: language.view.title</note>
+        <jms:reference-file line="17">Resources/views/Language/edit.html.twig</jms:reference-file>
+        <jms:reference-file line="16">Resources/views/Language/view.html.twig</jms:reference-file>
+        <jms:reference-file line="73">Resources/views/Language/view.html.twig</jms:reference-file>
+        <jms:reference-file line="9">Resources/views/Language/view.html.twig</jms:reference-file>
       </trans-unit>
     </body>
   </file>
