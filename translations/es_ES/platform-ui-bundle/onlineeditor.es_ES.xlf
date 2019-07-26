@@ -82,6 +82,19 @@
         <note>key: justify</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextalignjustify.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="12c0f1fbadc4046b5f2bb9e063b227ef8750d9d6" resname="left">
+        <source>Left</source>
+        <target state="translated">Izquierda</target>
+        <note>key: left</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextalignleft.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/embedleft.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f1b97751d7808745ad7eb7c9edcae87482aa9852" resname="link.remove">
+        <source>Remove</source>
+        <target state="translated">Eliminar</target>
+        <note>key: link.remove</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="df924f3511438d4ef5588e1680b084b2a665da56" resname="link.save">
         <source>Save</source>
         <target state="translated">Guardar</target>
