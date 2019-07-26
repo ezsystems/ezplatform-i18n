@@ -66,6 +66,12 @@
         <note>key: navigationhub.role.list</note>
         <jms:reference-file>Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="05bd808967aac1311d193cc98d15b0f736c8343d" resname="navigationhub.section.list">
+        <source>Sections</source>
+        <target state="translated">Secciones</target>
+        <note>key: navigationhub.section.list</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="2ee246e2cc6a385e5ae2d5cbc7b5611e2de3a799" resname="navigationhub.system.information">
         <source>System information</source>
         <target state="translated">Información del sistema</target>
@@ -82,6 +88,12 @@
         <source>Admin Panel</source>
         <target state="translated">Panel de administración</target>
         <note>key: navigationhub.zone.admin</note>
+        <jms:reference-file>Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f32918f2df2d2ecd3aa263a188187635d45c3d49" resname="navigationhub.zone.platform">
+        <source>Content</source>
+        <target state="translated">Contenido</target>
+        <note>key: navigationhub.zone.platform</note>
         <jms:reference-file>Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="e296e7a38799c79dee11c3e18ac42150c9f02673" resname="navigationhub.zone.studio">
