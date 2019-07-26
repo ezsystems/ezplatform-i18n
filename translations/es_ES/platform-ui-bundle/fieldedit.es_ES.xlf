@@ -673,6 +673,99 @@
         <note>key: relationlist.error</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
       </trans-unit>
+      <trans-unit id="048ae70654be763915d036765feb172d2baa7559" resname="relationlist.help">
+        <source>Set up multiple relations with several contents.</source>
+        <target state="translated">Establecer múltiples relaciones con varios contenidos.</target>
+        <note>key: relationlist.help</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1d30f0399910c05468169bd5a7f737caff136afe" resname="relationlist.loading">
+        <source>Loading the related content(s)</source>
+        <target state="translated">Cargando los contenidos relacionados</target>
+        <note>key: relationlist.loading</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b0eb3cbb48be1ff976bd4569a8978d63336dd8b7" resname="relationlist.remove">
+        <source>Remove</source>
+        <target state="translated">Eliminar</target>
+        <note>key: relationlist.remove</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+        <alt-trans>
+          <target>Remover</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="493a9cbc47e3af553067486bc8b13b43c8472fc4" resname="relationlist.retry">
+        <source>Retry</source>
+        <target state="translated">Reintentar</target>
+        <note>key: relationlist.retry</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4d8d4cfb7509f6d02d61100e1b940fb5a847d91d" resname="relationlist.select">
+        <source>Select contents</source>
+        <target state="translated">Seleccionar contenido</target>
+        <note>key: relationlist.select</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="1c46a1068b55e75f3cac49a3f59c85ca19edbc52" resname="relationlist.table.modified">
+        <source>Modified</source>
+        <target state="translated">Modificado</target>
+        <note>key: relationlist.table.modified</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fd35d9bedc6d39be95cef85dd23bc3fd550d6078" resname="relationlist.table.name">
+        <source>Name</source>
+        <target state="translated">Nombre</target>
+        <note>key: relationlist.table.name</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="fea522d933afafa19ac438bd82d49ddc1c254d2f" resname="relationlist.table.published">
+        <source>Published</source>
+        <target state="translated">Publicado</target>
+        <note>key: relationlist.table.published</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e1ee64eddc5bc3ee8690f59e23a52dd4c50d036e" resname="richtext.focus">
+        <source>Focus</source>
+        <target state="translated">Enfoque</target>
+        <note>key: richtext.focus</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a8867a26b3b1adfde513cee1bbc0b2cd0beb5cce" resname="richtext.save">
+        <source>Save and Return</source>
+        <target state="translated">Guardar y volver</target>
+        <note>key: richtext.save</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/richtext.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2661cb6d447aad0683ba849b76913b44492fe727" resname="select.contents.to.add">
+        <source>Select the contents you want to add in the relation</source>
+        <target state="translated">Seleccione el contenido que desea añadir en la relación</target>
+        <note>key: select.contents.to.add</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-relationlist-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c93547a1639e55df78bf8797247cbf75c03649c1" resname="unable.find.address">
+        <source>Unable to find this address</source>
+        <target state="translated">No se puede encontrar esta dirección</target>
+        <note>key: unable.find.address</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="96c974ba32d664442a67e0f5885fd4f29e5ab015" resname="url.text">
+        <source>Text:</source>
+        <target state="translated">Texto:</target>
+        <note>key: url.text</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/url.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e4d06be519f5ddd5206349fb39cf7522dd947a3a" resname="user.password">
+        <source>Password</source>
+        <target state="translated">Contraseña</target>
+        <note>key: user.password</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="782314478554920473f13c4ec6cb6a0471bc8172" resname="user.passwordconfirm">
+        <source>Confirm password</source>
+        <target state="translated">Confirmar contraseña</target>
+        <note>key: user.passwordconfirm</note>
+        <jms:reference-file>Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
