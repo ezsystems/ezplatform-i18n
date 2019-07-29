@@ -66,6 +66,29 @@
         <target state="translated">Êtes-vous sûr de vouloir supprimer le ou les utilisateurs sélectionnés ?</target>
         <note>key: bulk_delete.popup.message.users</note>
       </trans-unit>
+      <trans-unit id="a12f451cc6ee1e65a14e4accacba2fff815a67f9" resname="bulk_delete.popup.message.users_with_nonusers">
+        <source>Are you sure you want to delete the selected user(s) and send the other selected content item(s) to trash?</source>
+        <target state="translated">Êtes-vous sûr de vouloir supprimer le ou les utilisateurs sélectionnés et envoyer le ou les autres éléments de contenu sélectionnés à la corbeille ?</target>
+        <note>key: bulk_delete.popup.message.users_with_nonusers</note>
+      </trans-unit>
+      <trans-unit id="5464e305b394648af0e9dbd86bfd0ea5df8ed93c" resname="bulk_delete.success.message.nonusers">
+        <source>The selected content item(s) have been sent to trash.</source>
+        <target state="translated">Le ou les éléments de contenu sélectionnés ont été envoyés à la corbeille.</target>
+        <note>key: bulk_delete.success.message.nonusers</note>
+      </trans-unit>
+      <trans-unit id="d6c81bfffab0f8d928eb10911ca60a107c407989" resname="bulk_delete.success.message.users">
+        <source>The selected user(s) have been deleted.</source>
+        <target state="translated">Le ou les utilisateurs sélectionnés ont été supprimés.</target>
+        <note>key: bulk_delete.success.message.users</note>
+        <alt-trans>
+          <target>Le ou les utilisateurs ont été supprimés.</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit id="93704c823e9663af7f4a89ec041673ce9d095a17" resname="bulk_delete.success.message.users_with_nonusers">
+        <source>The selected content item(s) have been sent to trash and the selected user(s) have been deleted.</source>
+        <target state="translated">Le ou les éléments de contenu sélectionnés ont été envoyés à la corbeille et le ou les utilisateurs sélectionnés ont été supprimés.</target>
+        <note>key: bulk_delete.success.message.users_with_nonusers</note>
+      </trans-unit>
       <trans-unit id="364a3498e021163497d9110380736b876beb326f" resname="bulk_move.error.message">
         <source>%notMovedCount% of the %totalCount% selected item(s) could not be moved because you do not have proper user permissions. {{ moreInformationLink }} Please contact your Administrator to obtain permissions.</source>
         <target state="translated">%notMovedCount% sur %totalCount% éléments sélectionnés n’ont pas pu être déplacés car vous n’avez pas les autorisations nécessaires. {{ moreInformationLink }} Veuillez contacter votre Administrateur pour obtenir les autorisations.</target>
