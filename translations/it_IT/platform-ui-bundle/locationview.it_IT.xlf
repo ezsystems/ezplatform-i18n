@@ -305,7 +305,7 @@
       </trans-unit>
       <trans-unit id="668f8150c4acd0a0c8075de8b794639b8b4a6519" resname="sort.path" approved="yes">
         <source>Location path</source>
-        <target state="translated">Percorso</target>
+        <target state="final">Percorso</target>
         <note>key: sort.path</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
       </trans-unit>
