@@ -20,15 +20,6 @@
         <note>key: section.assigned.content</note>
         <jms:reference-file line="58">Resources/views/Section/list.html.twig</jms:reference-file>
       </trans-unit>
-      <trans-unit id="b3a79602ff55ce138d41cd00a9d93ff6a6324604" resname="section.assigned.contentcount">
-        <source xml:space="preserve">{0} This section is assigned to %contentCount% content items.|{1} This section is assigned to
-                    %contentCount% content item.|]1,Inf[ This section is assigned to %contentCount% content items
-                </source>
-        <target xml:space="preserve" state="needs-translation">
-                </target>
-        <note>key: section.assigned.contentcount</note>
-        <jms:reference-file line="41">Resources/views/Section/view.html.twig</jms:reference-file>
-      </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit">
         <source>Edit</source>
         <target state="translated">Muokkaa</target>
