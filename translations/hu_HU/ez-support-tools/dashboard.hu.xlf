@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="1710718593a511e351e6da36e3bb280e532bb768" resname="dashboard.ez_version.community_end_of_maintenance" approved="yes">
         <source><![CDATA[Unfortunately %release% open source version has reached end of life, <a target="_blank" href="%update_url%">please upgrade</a>.]]></source>
-        <target state="translated"><![CDATA[Kérlek, frissíts, az alábbi open source verzió életciklusa végéhez ért: %release% Frissítés:  <a target="_blank" href="%update_url%">please upgrade</a>.]]></target>
+        <target state="final"><![CDATA[Kérlek, frissíts, az alábbi open source verzió életciklusa végéhez ért: %release% Frissítés:  <a target="_blank" href="%update_url%">please upgrade</a>.]]></target>
         <note>key: dashboard.ez_version.community_end_of_maintenance</note>
       </trans-unit>
       <trans-unit id="c0d043ecd29c0bdfa32e8bb7faee57111d5ddaf7" resname="dashboard.ez_version.community_end_of_maintenance_upgrade" approved="yes">
@@ -17,7 +17,7 @@
                         <a target="_blank" href="%ee_product_url%">several productivity features</a>,
                         <a target="_blank" href="%support_service_url%">professional Support</a> and
                         <a target="_blank" href="%service_life_url%">longer maintenance periode of your release</a>.]]></source>
-        <target state="translated"><![CDATA[Tipp: Ha eZ Platform Enterprise -ra váltasz, az alábbiakhoz is hozzájutsz:
+        <target state="final"><![CDATA[Tipp: Ha eZ Platform Enterprise -ra váltasz, az alábbiakhoz is hozzájutsz:
                         <a target="_blank" href="%license_url%">A business friendly license</a>,
                         <a target="_blank" href="%ee_product_url%">several productivity features</a>,
                         <a target="_blank" href="%support_service_url%">professional Support</a> and
@@ -27,52 +27,60 @@
       <trans-unit id="7eb6ab2973439efa8ff820310952e02bc81209cb" resname="dashboard.ez_version.community_severity_non" approved="yes">
         <source><![CDATA[Welcome to the open source %release% release. Using the community friendly <a target="_blank" href="%license_url%">GPL license</a>,
                     <a target="_blank" href="%gpl_faq_url%">sharing your code</a> is what it's all about.]]></source>
-        <target state="translated"><![CDATA[Üdv a nyílt forráskódú %release% kiadásban. A közösséget támogató <a target="_blank" href="%license_url%">GPL licensz</a>,
+        <target state="final"><![CDATA[Üdv a nyílt forráskódú %release% kiadásban. A közösséget támogató <a target="_blank" href="%license_url%">GPL licensz</a>,
+                    <a target="_blank" href="%gpl_faq_url%">a kódmegosztásról</a>szól.]]></target>
+        <note>key: dashboard.ez_version.community_severity_non</note>
+        <alt-trans>
+          <target><![CDATA[Üdv a nyílt forráskódú %release% kiadásban. A közösséget támogató <a target="_blank" href="%license_url%">GPL licensz</a>,
                     <a target="_blank" href="%gpl_faq_url%">a kódmegosztásról</a>szól.
  
 ]]></target>
-        <note>key: dashboard.ez_version.community_severity_non</note>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="bbddea87dd6b56fc0b4d21c28d1cbc2cfd92b754" resname="dashboard.ez_version.end_of_life" approved="yes">
         <source><![CDATA[Welcome to the open source %release% release. Using the community friendly <a target="_blank" href="%license_url%">GPL license</a>,
                     <a target="_blank" href="%gpl_faq_url%">sharing your code</a> is what it's all about.]]></source>
-        <target state="translated"><![CDATA[Üdv a nyílt forráskódú %release% kiadásban. A közösséget támogató <a target="_blank" href="%license_url%">GPL licensz</a>,
+        <target state="final"><![CDATA[Üdv a nyílt forráskódú %release% kiadásban. A közösséget támogató <a target="_blank" href="%license_url%">GPL licensz</a>,
+                    <a target="_blank" href="%gpl_faq_url%">a kódmegosztásról</a>szól.]]></target>
+        <note>key: dashboard.ez_version.end_of_life</note>
+        <alt-trans>
+          <target><![CDATA[Üdv a nyílt forráskódú %release% kiadásban. A közösséget támogató <a target="_blank" href="%license_url%">GPL licensz</a>,
                     <a target="_blank" href="%gpl_faq_url%">a kódmegosztásról</a>szól.
  
 ]]></target>
-        <note>key: dashboard.ez_version.end_of_life</note>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="9bad0b8d1efd71dca8071e736f332b3b4218d557" resname="dashboard.ez_version.end_of_life_upgrade" approved="yes">
         <source><![CDATA[Unfortunately %release% has reached <a target="_blank" href="%service_life_url%">end of life</a>,
                 please plan to upgrade. If you need assistance, don't hesitate to <a target="_blank" href="%contact_url%">contact eZ</a>.]]></source>
-        <target state="translated"><![CDATA[Kérlek, frissíts, az alábbi open source verzió életciklusa végéhez ért: %release% <a target="_blank" href="%service_life_url%"></a> Frissítés:  <a target="_blank" href="%update_url%">please upgrade</a>. Ha segíthetünk bármiben, csak <a target="_blank" href="%contact_url%">lépj kapcsolatba velünk</a>.]]></target>
+        <target state="final"><![CDATA[Kérlek, frissíts, az alábbi open source verzió életciklusa végéhez ért: %release% <a target="_blank" href="%service_life_url%"></a> Frissítés:  <a target="_blank" href="%update_url%">please upgrade</a>. Ha segíthetünk bármiben, csak <a target="_blank" href="%contact_url%">lépj kapcsolatba velünk</a>.]]></target>
         <note>key: dashboard.ez_version.end_of_life_upgrade</note>
       </trans-unit>
       <trans-unit id="d620cc5d1f36ef74cbf6c042e07c0ad89bf47d9f" resname="dashboard.ez_version.trial_end_of_maintenance" approved="yes">
         <source>Your trial period is coming to an end.</source>
-        <target state="translated">A trial időszak lejárt.</target>
+        <target state="final">A trial időszak lejárt.</target>
         <note>key: dashboard.ez_version.trial_end_of_maintenance</note>
       </trans-unit>
       <trans-unit id="59967d79ef1f521fd483dbb057f15bc756b80423" resname="dashboard.ez_version.non_stable_ee" approved="yes">
         <source><![CDATA[If you need assistance, don't hesitate to <a target="_blank" href="%support_url%">get in touch with eZ support</a>.]]></source>
-        <target state="translated"><![CDATA[Ha támogatásra van szükséged, <a target="_blank" href="%support_url%">fordulj az eZ supporthoz</a>.]]></target>
+        <target state="final"><![CDATA[Ha támogatásra van szükséged, <a target="_blank" href="%support_url%">fordulj az eZ supporthoz</a>.]]></target>
         <note>key: dashboard.ez_version.non_stable_ee</note>
       </trans-unit>
       <trans-unit id="c1fb5ba9fd547e30a49a4e1895822e69cd4a9dbc" resname="dashboard.ez_version.release_not_determined" approved="yes">
         <source><![CDATA[The system could not find your <code>composer.lock</code> file. It's needed to determine information about
             your eZ install, and recommended to be kept on project development to make sure same package versions are used across all environments.]]></source>
-        <target state="translated"><![CDATA[A rendszer nem találta a <code>composer.lock</code> fájlt. Ez elengedhetetlen, a szoftver telepítésére vonatkozó információ meghatározásához és segít,, hogy a projekt során a megfelelő verziójú csomagokat használjátok minden környezetben.]]></target>
+        <target state="final"><![CDATA[A rendszer nem találta a <code>composer.lock</code> fájlt. Ez elengedhetetlen, a szoftver telepítésére vonatkozó információ meghatározásához és segít,, hogy a projekt során a megfelelő verziójú csomagokat használjátok minden környezetben.]]></target>
         <note>key: dashboard.ez_version.release_not_determined</note>
       </trans-unit>
       <trans-unit id="b0b5f4a2312f9a25f310e6d5044046ce0146a9c3" resname="dashboard.ez_version.trial_notice" approved="yes">
         <source><![CDATA[Welcome to %name%, check our <a target="_blank" href="%doc_url%">online documentation</a>, <a target="_blank" href="%consulting_url%">consulting</a>
                     or <a target="_blank" href="%training_url%">training</a> services in order to get the most out of your trial.]]></source>
-        <target state="translated"><![CDATA[Tekintsd át az <a target="_blank" href="%doc_url%">online dokumentációt</a>,<a target="_blank" href="%consulting_url%">konzultációs</a>, vagy  <a target="_blank" href="%training_url%">oktatási</a> szolgáltatásainkat. Trial időszakod hamarosan véget ér.]]></target>
+        <target state="final"><![CDATA[Tekintsd át az <a target="_blank" href="%doc_url%">online dokumentációt</a>,<a target="_blank" href="%consulting_url%">konzultációs</a>, vagy  <a target="_blank" href="%training_url%">oktatási</a> szolgáltatásainkat. Trial időszakod hamarosan véget ér.]]></target>
         <note>key: dashboard.ez_version.trial_notice</note>
       </trans-unit>
       <trans-unit id="10afa9a6e250d82f948ea1e6cbcdf7aac8bd7a4b" resname="dashboard.ez_version.trial_expired" approved="yes">
         <source><![CDATA[Unfortunately your trial period has expired and your <a target="_blank" href="%ttl_url%">TTL license</a> is no longer valid.]]></source>
-        <target state="translated"><![CDATA[A trial időszak lejárt és a <a target="_blank" href="%ttl_url%">TTL licensz</a> nem érvényes a továbbiakban.]]></target>
+        <target state="final"><![CDATA[A trial időszak lejárt és a <a target="_blank" href="%ttl_url%">TTL licensz</a> nem érvényes a továbbiakban.]]></target>
         <note>key: dashboard.ez_version.trial_expired</note>
       </trans-unit>
     </body>

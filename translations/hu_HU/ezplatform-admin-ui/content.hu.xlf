@@ -8,47 +8,47 @@
     <body>
       <trans-unit id="8343cec7024fb459d738278aca82b39710b89c50" resname="content.create_draft.success" approved="yes">
         <source>New Version Draft for '%name%' created.</source>
-        <target state="translated">%name% tartalomhoz új verzió vázlat jött létre.</target>
+        <target state="final">%name% tartalomhoz új verzió vázlat jött létre.</target>
         <note>key: content.create_draft.success</note>
       </trans-unit>
       <trans-unit id="1ea2690f8ebd8fc99115a6f94ac56b8b93e46afe" resname="content.draft.conflict.error" approved="yes">
         <source>Cannot check if the draft has no conflict with other drafts. %error%. </source>
-        <target state="translated">Nem ellenőrizhető, hogy a draft ütközik-e más draftokkal. %error% </target>
+        <target state="final">Nem ellenőrizhető, hogy a draft ütközik-e más draftokkal. %error% </target>
         <note>key: content.draft.conflict.error</note>
       </trans-unit>
       <trans-unit id="fbc24757e92f52997d730762e004765425845995" resname="content.hide.already_hidden" approved="yes">
         <source>Content '%name%' was already hidden.</source>
-        <target state="translated">A "%name%" tartalom már rejtve volt.</target>
+        <target state="final">A "%name%" tartalom már rejtve volt.</target>
         <note>key: content.hide.already_hidden</note>
       </trans-unit>
       <trans-unit id="7a80db58ea3f3bef5b9f07c4565d715efdacda99" resname="content.hide.success" approved="yes">
         <source>Content '%name%' has been hidden.</source>
-        <target state="translated">A "%name%" tartalmat elrejtettük.</target>
+        <target state="final">A "%name%" tartalmat elrejtettük.</target>
         <note>key: content.hide.success</note>
       </trans-unit>
       <trans-unit id="d773dd487e4e5467fd20fc4fc4987eba33eaf1b7" resname="content.main_language_update.success" approved="yes">
         <source>Main language for '%name%' updated.</source>
-        <target state="translated">A fő nyelvet frissítettük. "%name%"</target>
+        <target state="final">A fő nyelvet frissítettük. "%name%"</target>
         <note>key: content.main_language_update.success</note>
       </trans-unit>
       <trans-unit id="5f36fd5bb4e6938a731079f403467900e0396ed2" resname="content.main_location_update.success" approved="yes">
         <source>Main location for '%name%' updated.</source>
-        <target state="translated">%name% fő lokációját frissítettük.</target>
+        <target state="final">%name% fő lokációját frissítettük.</target>
         <note>key: content.main_location_update.success</note>
       </trans-unit>
       <trans-unit id="d906dd66ce60bd64f6ba3ccc4ecf3fa443ff9e83" resname="content.reveal.already_visible" approved="yes">
         <source>Content '%name%' was already visible.</source>
-        <target state="translated">A "%name%" tartalom már látható volt.</target>
+        <target state="final">A "%name%" tartalom már látható volt.</target>
         <note>key: content.reveal.already_visible</note>
       </trans-unit>
       <trans-unit id="56c081f0ee65c4b44e231b9e616e9613e93e4f97" resname="content.reveal.success" approved="yes">
         <source>Content '%name%' has been revealed.</source>
-        <target state="translated">A "%name%" tartalmat felfedtük.</target>
+        <target state="final">A "%name%" tartalmat felfedtük.</target>
         <note>key: content.reveal.success</note>
       </trans-unit>
       <trans-unit id="4492a79e25635e7612f98971e02b4d0e6a408394" resname="user.delete.success" approved="yes">
         <source>User with login '%login%' deleted.</source>
-        <target state="translated">A %login% felhasználót töröltük.</target>
+        <target state="final">A %login% felhasználót töröltük.</target>
         <note>key: user.delete.success</note>
       </trans-unit>
     </body>
