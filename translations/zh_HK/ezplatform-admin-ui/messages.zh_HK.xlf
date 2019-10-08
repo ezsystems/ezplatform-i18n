@@ -84,11 +84,6 @@
         <target state="translated">隱藏內容項時有衝突</target>
         <note>key: content.hide.modal.title</note>
       </trans-unit>
-      <trans-unit id="0f260745fb36618170e86bd6407bb2facd3a05a1" resname="content.hide.modal.warning_content_used_by_other_content">
-        <source>This item is being used by other content item(s). Please remove all instance(s) to avoid a 404 error.</source>
-        <target state="translated">其他內容項正在使用此項。請刪除所有實例, 以避免404錯誤。</target>
-        <note>key: content.hide.modal.warning_content_used_by_other_content</note>
-      </trans-unit>
       <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash">
         <source>In Trash</source>
         <target state="translated">在回收站</target>
@@ -328,11 +323,6 @@
         <target state="translated">您即將刪除包含其他內容項使用的一個或多個资源字段的內容。 這些资源將在系統中保持可用。</target>
         <note>key: trash_asset.modal.message_header</note>
       </trans-unit>
-      <trans-unit id="0d57f9b91203aa4d9920e63d793b8e62c0bb242c" resname="trash_asset_single.modal.header">
-        <source>Deleting content</source>
-        <target state="translated">刪除內容</target>
-        <note>key: trash_asset_single.modal.header</note>
-      </trans-unit>
       <trans-unit id="e81a14f38ebe272cb11ef90e2948a8c6602307ca" resname="trash_asset_single.modal.message">
         <source>You have the option to delete %content_name% (%content_type%) only or to also delete the assets it is using. Make your choice:</source>
         <target state="translated">您可以選擇僅刪除%content_name%（%content_type%），也可以刪除正在使用的资源。 做出你的選擇：</target>
@@ -345,11 +335,6 @@
         <source>You are about to delete a content with one or several asset(s) field(s).</source>
         <target state="translated">您即將刪除包含一個或多個资源字段的內容。</target>
         <note>key: trash_asset_single.modal.message_main</note>
-      </trans-unit>
-      <trans-unit id="a70d984d62d43229009fefdbfdc740199ede75ca" resname="trash_container.modal.header">
-        <source>Deleting content</source>
-        <target state="translated">刪除內容</target>
-        <note>key: trash_container.modal.header</note>
       </trans-unit>
       <trans-unit id="1e6a1d97cca01a288e47d2d14479274b90e6c6c1" resname="trash_container.modal.message_main">
         <source>Deleting %content_name% will also delete its sub-items, under its location(s). To confirm, please check below</source>
