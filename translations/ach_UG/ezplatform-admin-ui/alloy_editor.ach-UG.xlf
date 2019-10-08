@@ -206,6 +206,11 @@
         <target>crwdns215816:0crwdne215816:0</target>
         <note>key: remove_block_btn.title</note>
       </trans-unit>
+      <trans-unit id="b54e4890869a4f4e1ec7065a38f1e9c8b9e8cf3d" resname="removed_content.label">
+        <source>Removed</source>
+        <target>crwdns217302:0crwdne217302:0</target>
+        <note>key: removed_content.label</note>
+      </trans-unit>
       <trans-unit id="e51c80180acbd8d90c95344dbdfb0f6a3ada456e" resname="table_btn.label">
         <source>Table</source>
         <target>crwdns215817:0crwdne215817:0</target>
@@ -230,11 +235,6 @@
         <source>List</source>
         <target>crwdns215820:0crwdne215820:0</target>
         <note>key: unordered_list_btn.label</note>
-      </trans-unit>
-      <trans-unit id="d5a182a917683c8ecd6a8efa75a086321a209f52" resname="removed_content.label">
-        <source>Removed</source>
-        <target>crwdns217298:0crwdne217298:0</target>
-        <note>key: removed_content.label</note>
       </trans-unit>
     </body>
   </file>
