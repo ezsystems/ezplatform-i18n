@@ -93,6 +93,9 @@
         <source>%notMovedCount% of the %totalCount% selected item(s) could not be moved because you do not have proper user permissions. {{ moreInformationLink }} Please contact your Administrator to obtain permissions.</source>
         <target state="translated">無法刪除 %totalCount% 所選項目中的 %notDeletedCount%, 因為您沒有適當的用戶權限。 &lt;u&gt;&lt;a class='ez-notification-btn ez-notification-btn--show-modal'&gt;點擊這裡瞭解更多資訊。&lt;/a&gt;&lt;/u&gt;&lt;br&gt;請與您的管理員聯繫以獲取用戶權限。</target>
         <note>key: bulk_move.error.message</note>
+        <alt-trans>
+          <target>無法刪除 %totalCount% 所選項目中的 %notDeletedCount%, 因為您沒有適當的用戶權限。 &lt;u&gt;&lt;a class='ez-notification-btn ez-notification-btn--show-modal'&gt;點擊這裡瞭解更多資訊。&lt;/a&gt;&lt;/u&gt;&lt;br&gt;請與您的管理員聯繫以獲取用戶權限。</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="44a971e3ea91b95b9fbbd596f54ca632ef0865d4" resname="bulk_move.error.modal.table_title">
         <source>Content items cannot be moved (%itemsCount%)</source>
