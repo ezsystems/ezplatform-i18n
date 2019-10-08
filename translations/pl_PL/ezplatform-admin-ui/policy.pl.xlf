@@ -8,47 +8,47 @@
     <body>
       <trans-unit id="41bcfef149f877e1abb0ce2cd2aa5afb713ea1de" resname="policy.limitation.identifier_tooltip" approved="yes">
         <source>"%identifier%" Limitation</source>
-        <target state="translated">"%identifier%" ograniczenie</target>
+        <target state="final">"%identifier%" ograniczenie</target>
         <note>key: policy.limitation.identifier_tooltip</note>
       </trans-unit>
       <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none" approved="yes">
         <source>None</source>
-        <target state="translated">Brak</target>
+        <target state="final">Brak</target>
         <note>key: policy.limitation.none</note>
       </trans-unit>
       <trans-unit id="15c7918829705fa0d6e560ba6697675a1fb3642d" resname="tab.policies.assignment" approved="yes">
         <source>User/Group</source>
-        <target state="translated">Użytkownik/grupa</target>
+        <target state="final">Użytkownik/grupa</target>
         <note>key: tab.policies.assignment</note>
       </trans-unit>
       <trans-unit id="359681221fc63adcf852c1352342fe531e554503" resname="tab.policies.function" approved="yes">
         <source>Function</source>
-        <target state="translated">Funkcje</target>
+        <target state="final">Funkcje</target>
         <note>key: tab.policies.function</note>
       </trans-unit>
       <trans-unit id="5098755527692813df1b8d6f49caa4dea5456f86" resname="tab.policies.limitations" approved="yes">
         <source>Limitations</source>
-        <target state="translated">Ograniczenia</target>
+        <target state="final">Ograniczenia</target>
         <note>key: tab.policies.limitations</note>
       </trans-unit>
       <trans-unit id="0b7526586468170ae85e2dec10e6ffe06da7e146" resname="tab.policies.module" approved="yes">
         <source>Module</source>
-        <target state="translated">Moduł</target>
+        <target state="final">Moduł</target>
         <note>key: tab.policies.module</note>
       </trans-unit>
       <trans-unit id="445e5dce642562c06137fef60c9a7fcf788a9da6" resname="tab.policies.no_policies" approved="yes">
         <source>This content item has no policies.</source>
-        <target state="translated">Ten element nie ma przypisanych reguł.</target>
+        <target state="final">Ten element nie ma przypisanych reguł.</target>
         <note>key: tab.policies.no_policies</note>
       </trans-unit>
       <trans-unit id="1a761d1b544608935dfa6ce9d196cf2c31f7edda" resname="tab.policies.policies" approved="yes">
         <source>Policies</source>
-        <target state="translated">Reguły</target>
+        <target state="final">Reguły</target>
         <note>key: tab.policies.policies</note>
       </trans-unit>
       <trans-unit id="1a1635237bc7c5c0b73865100d03763e9bd71e1f" resname="tab.policies.role" approved="yes">
         <source>Role</source>
-        <target state="translated">Rola</target>
+        <target state="final">Rola</target>
         <note>key: tab.policies.role</note>
       </trans-unit>
     </body>

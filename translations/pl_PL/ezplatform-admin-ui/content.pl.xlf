@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="8343cec7024fb459d738278aca82b39710b89c50" resname="content.create_draft.success" approved="yes">
         <source>New Version Draft for '%name%' created.</source>
-        <target state="translated">Utworzono nowy szkic wersji dla "%name%".</target>
+        <target state="final">Utworzono nowy szkic wersji dla "%name%".</target>
         <note>key: content.create_draft.success</note>
         <alt-trans>
           <target>Nowy szkic wersji dla "%name%" został utworzony.</target>
@@ -16,7 +16,7 @@
       </trans-unit>
       <trans-unit id="5f36fd5bb4e6938a731079f403467900e0396ed2" resname="content.main_location_update.success" approved="yes">
         <source>Main location for '%name%' updated.</source>
-        <target state="translated">Zaktualizowano główną lokalizację dla "%name%".</target>
+        <target state="final">Zaktualizowano główną lokalizację dla "%name%".</target>
         <note>key: content.main_location_update.success</note>
         <alt-trans>
           <target>Główna lokalizacja dla "%name%" została uaktualniona.</target>
@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="4492a79e25635e7612f98971e02b4d0e6a408394" resname="user.delete.success" approved="yes">
         <source>User with login '%login%' deleted.</source>
-        <target state="translated">Usunięto użytkownika o loginie "%login%".</target>
+        <target state="final">Usunięto użytkownika o loginie "%login%".</target>
         <note>key: user.delete.success</note>
         <alt-trans>
           <target>Użytkownik o loginie "%login%" został usunięty.</target>
