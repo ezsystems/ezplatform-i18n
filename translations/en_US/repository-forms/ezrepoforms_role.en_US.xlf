@@ -8,62 +8,62 @@
     <body>
       <trans-unit id="f6b396a2d7ba20e291c364b91a3189b672c4d4b9" resname="policy.limitation.group.self" approved="yes">
         <source>Self</source>
-        <target state="translated">Self</target>
+        <target state="final">Self</target>
         <note>key: policy.limitation.group.self</note>
       </trans-unit>
       <trans-unit id="cc7c597ffa43ef724b881b127a4124fd35c8c6f6" resname="policy.limitation.owner.self" approved="yes">
         <source>Self</source>
-        <target state="translated">Self</target>
+        <target state="final">Self</target>
         <note>key: policy.limitation.owner.self</note>
       </trans-unit>
       <trans-unit id="8199e9b3c9cfe019c9a9c07424abe35374ff0321" resname="role.assignment.form.delete" approved="yes">
         <source>Delete assignment</source>
-        <target state="translated">Delete Assignment</target>
+        <target state="final">Delete Assignment</target>
         <note>key: role.assignment.form.delete</note>
       </trans-unit>
       <trans-unit id="2055432dd7586fdb260245c2eee60e3869bc5b23" resname="role.cancel" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Cancel</target>
+        <target state="final">Cancel</target>
         <note>key: role.cancel</note>
       </trans-unit>
       <trans-unit id="d0f7a460463941ed043e46909f5b73e7062db88a" resname="role.create" approved="yes">
         <source>Create a role</source>
-        <target state="translated">Create a Role</target>
+        <target state="final">Create a Role</target>
         <note>key: role.create</note>
       </trans-unit>
       <trans-unit id="05d874e26afd33df312d129e8db6392b5a8d1767" resname="role.form.delete" approved="yes">
         <source>Delete</source>
-        <target state="translated">Delete</target>
+        <target state="final">Delete</target>
         <note>key: role.form.delete</note>
       </trans-unit>
       <trans-unit id="2899eca602b4735e6d40c6602fe539474fcbe76d" resname="role.identifier" approved="yes">
         <source>Name</source>
-        <target state="translated">Name</target>
+        <target state="final">Name</target>
         <note>key: role.identifier</note>
       </trans-unit>
       <trans-unit id="deab5c91a76488732d0405e72c36702ed2aea3d6" resname="role.policy.all_functions" approved="yes">
         <source>All functions</source>
-        <target state="translated">All Functions</target>
+        <target state="final">All Functions</target>
         <note>key: role.policy.all_functions</note>
       </trans-unit>
       <trans-unit id="2a8bdc606cd0c96a53e2f661f0585029840af4b9" resname="role.policy.available_limitations" approved="yes">
         <source>Limitations</source>
-        <target state="translated">Limitations</target>
+        <target state="final">Limitations</target>
         <note>key: role.policy.available_limitations</note>
       </trans-unit>
       <trans-unit id="45237c152148c31c2b8c58cd43466caf30c7ea6a" resname="role.policy.form.delete" approved="yes">
         <source>Delete policy</source>
-        <target state="translated">Delete Policy</target>
+        <target state="final">Delete Policy</target>
         <note>key: role.policy.form.delete</note>
       </trans-unit>
       <trans-unit id="0eda0d605bd42eb8989a82e546d09ace8bc1b4d9" resname="role.policy.limitation.location.udw_button" approved="yes">
         <source>Select locations</source>
-        <target state="translated">Select Locations</target>
+        <target state="final">Select Locations</target>
         <note>key: role.policy.limitation.location.udw_button</note>
       </trans-unit>
       <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title" approved="yes">
         <source>Select locations to use as policy limitation</source>
-        <target state="translated">Select Locations to use as Policy limitation</target>
+        <target state="final">Select Locations to use as Policy limitation</target>
         <note>key: role.policy.limitation.location.udw_title</note>
         <alt-trans>
           <target>Select Locations to use as policy limitation</target>
@@ -71,7 +71,7 @@
       </trans-unit>
       <trans-unit id="be8159ab7985797bd281cb0f7f58bb4d2c925159" resname="role.policy.limitation.not_implemented" approved="yes">
         <source>Limitation edition for '%limitationTypeIdentifier%' is not implemented yet.</source>
-        <target state="translated">Limitation edition for '%limitationTypeIdentifier%' is not yet implemented.</target>
+        <target state="final">Limitation edition for '%limitationTypeIdentifier%' is not yet implemented.</target>
         <note>key: role.policy.limitation.not_implemented</note>
         <alt-trans>
           <target>Limitation edition for '%limitationTypeIdentifier%' is not implemented yet.</target>
@@ -79,22 +79,22 @@
       </trans-unit>
       <trans-unit id="2651baeac233ce0e4ec974e260d8e0873197f3fc" resname="role.policy.save" approved="yes">
         <source>Save</source>
-        <target state="translated">Save</target>
+        <target state="final">Save</target>
         <note>key: role.policy.save</note>
       </trans-unit>
       <trans-unit id="cab53821c4e3d4cc647df19c3c1f1541e86b4a54" resname="role.policy.save_and_add_limitation" approved="yes">
         <source>Save and add limitations</source>
-        <target state="translated">Save and Add Limitations</target>
+        <target state="final">Save and Add Limitations</target>
         <note>key: role.policy.save_and_add_limitation</note>
       </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type" approved="yes">
         <source>Policy type</source>
-        <target state="translated">Policy Type</target>
+        <target state="final">Policy Type</target>
         <note>key: role.policy.type</note>
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose" approved="yes">
         <source>Choose a combination of module/function</source>
-        <target state="translated">Choose a combined module/function</target>
+        <target state="final">Choose a combined module/function</target>
         <note>key: role.policy.type.choose</note>
         <alt-trans>
           <target>Choose a combination of module/function</target>
@@ -102,12 +102,12 @@
       </trans-unit>
       <trans-unit id="f807a08e0f2e4780d2d54ed57e5c88bb5c937f49" resname="role.remove_draft" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Cancel</target>
+        <target state="final">Cancel</target>
         <note>key: role.remove_draft</note>
       </trans-unit>
       <trans-unit id="34d67d064254dcb98ca473136e4688c47b5c7a86" resname="role.save" approved="yes">
         <source>Save</source>
-        <target state="translated">Save</target>
+        <target state="final">Save</target>
         <note>key: role.save</note>
       </trans-unit>
     </body>
