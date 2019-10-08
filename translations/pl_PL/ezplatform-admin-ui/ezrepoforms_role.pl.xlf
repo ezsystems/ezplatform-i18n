@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="34ba9078fe178bd49df6ada9d8357455ee8ff7b3" resname="policy_create.save" approved="yes">
         <source>Update</source>
-        <target state="translated">Aktualizuj</target>
+        <target state="final">Aktualizuj</target>
         <note>key: policy_create.save</note>
       </trans-unit>
       <trans-unit id="05cc1fd4658faa760de6e98cb71e1054157e63a0" resname="policy_delete.delete" approved="yes">
         <source>Delete</source>
-        <target state="translated">Usuń</target>
+        <target state="final">Usuń</target>
         <note>key: policy_delete.delete</note>
       </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type" approved="yes">
         <source>Type</source>
-        <target state="translated">Typ</target>
+        <target state="final">Typ</target>
         <note>key: role.policy.type</note>
         <alt-trans>
           <target>Rodzaj bazy danych</target>
@@ -26,7 +26,7 @@
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose" approved="yes">
         <source>Choose a type</source>
-        <target state="translated">Wybierz typ</target>
+        <target state="final">Wybierz typ</target>
         <note>key: role.policy.type.choose</note>
       </trans-unit>
     </body>
