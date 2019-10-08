@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="d0f7a460463941ed043e46909f5b73e7062db88a" resname="role.create" approved="yes">
         <source>Create a role</source>
-        <target state="translated">Crea un ruolo</target>
+        <target state="final">Crea un ruolo</target>
         <note>key: role.create</note>
       </trans-unit>
       <trans-unit id="05d874e26afd33df312d129e8db6392b5a8d1767" resname="role.form.delete">
