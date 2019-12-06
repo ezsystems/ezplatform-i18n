@@ -186,6 +186,11 @@
         <target state="final">Opis</target>
         <note>key: field_definition.description</note>
       </trans-unit>
+      <trans-unit id="60b0ee9222a502c38adf1be704d4984564190e8e" resname="field_definition.ezauthor.default_author">
+        <source>Default value</source>
+        <target state="translated">Wartość domyślna</target>
+        <note>key: field_definition.ezauthor.default_author</note>
+      </trans-unit>
       <trans-unit id="41f781284e4bae2abbb6cfdf1126cc90b48dd35b" resname="field_definition.ezbinaryfile.max_file_size" approved="yes">
         <source>Maximum file size (MB)</source>
         <target state="final">Maksymalny rozmiar pliku (MB)</target>
@@ -271,6 +276,11 @@
         <source>Minimum value</source>
         <target state="final">Wartość minimalna</target>
         <note>key: field_definition.ezfloat.min_value</note>
+      </trans-unit>
+      <trans-unit id="5b275c762831def3c6ea393e3e0c25762e0844b3" resname="field_definition.ezimage.max_file_size">
+        <source>Maximum file size (MB)</source>
+        <target state="translated">Maksymalny rozmiar pliku (MB)</target>
+        <note>key: field_definition.ezimage.max_file_size</note>
       </trans-unit>
       <trans-unit id="8a95f664895f9c72e5ca52ea43908ad3d54c8966" resname="field_definition.ezinteger.default_value" approved="yes">
         <source>Default value</source>
