@@ -215,6 +215,11 @@
         <target state="final">Lokalizacje elementu</target>
         <note>key: tab.locations.content_locations</note>
       </trans-unit>
+      <trans-unit id="c663ca1446263b6964290f8df3c409d33601d21b" resname="tab.locations.hidden_content_or_superior">
+        <source>Content or superior is hidden</source>
+        <target state="translated">Treść lub jego element nadrzędny jest ukryty</target>
+        <note>key: tab.locations.hidden_content_or_superior</note>
+      </trans-unit>
       <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main" approved="yes">
         <source>Main</source>
         <target state="final">Główna</target>
@@ -407,6 +412,11 @@
           <target>Nazwa języka</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="c5d8ba580b9dd86b38986590b338816e3193c857" resname="tab.translations.main_language">
+        <source>Main language</source>
+        <target state="translated">Język główny</target>
+        <note>key: tab.translations.main_language</note>
+      </trans-unit>
       <trans-unit id="e8d52c9e980661178d301e925ac8c74661b4350d" resname="tab.translations.modal.message" approved="yes">
         <source>Do you want to delete Translation?</source>
         <target state="final">Czy chcesz usunąć to tłumaczenie?</target>
@@ -498,6 +508,11 @@
         <source>Close</source>
         <target state="final">Zamknij</target>
         <note>key: translation.modal_close</note>
+      </trans-unit>
+      <trans-unit id="c285bc654712e44ed56cd6f18262a2d6485f4fb9" resname="user.edit.select_language">
+        <source>Select language</source>
+        <target state="translated">Wybierz język</target>
+        <note>key: user.edit.select_language</note>
       </trans-unit>
     </body>
   </file>
