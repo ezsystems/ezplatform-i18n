@@ -346,6 +346,31 @@
         <target state="final">Czy na pewno chcesz umieścić ten element w koszu?</target>
         <note>key: trash.modal.message</note>
       </trans-unit>
+      <trans-unit id="bd97a738137e75de44544db1104bab3a46222791" resname="trash_asset.modal.message_body">
+        <source>If you wish to delete this(/these) asset(s) too, first make sure they are not used by other content. You can check these content going to the asset(s) and looking at their content relations in the Relation tab.</source>
+        <target state="translated">Jeśli również chcesz usunąć te zasoby, to najpierw upewnij się, że nie są używane przez inną treść. Możesz sprawdzić, które treści są powiązane udając się do zasobów i spoglądając na listę relacji w zakładce Relacje.</target>
+        <note>key: trash_asset.modal.message_body</note>
+      </trans-unit>
+      <trans-unit id="17c7abad79d72d771a25b064e0de38b72fc6c926" resname="trash_asset.modal.message_header">
+        <source>You are about to delete a content that has one or several asset(s) field(s) used by other content items. These assets will remain available in system.</source>
+        <target state="translated">Za chwilę usuniesz zawartość, która ma jedno lub kilka pól zasobów używanych przez inne elementy treści. Zasoby te pozostaną dostępne w systemie.</target>
+        <note>key: trash_asset.modal.message_header</note>
+      </trans-unit>
+      <trans-unit id="e81a14f38ebe272cb11ef90e2948a8c6602307ca" resname="trash_asset_single.modal.message">
+        <source>You have the option to delete %content_name% (%content_type%) only or to also delete the assets it is using. Make your choice:</source>
+        <target state="translated">Masz możliwość usunięcia samej treści %content_name% (%content_type%) lub też wraz z używanymi przez nią zasobami. Dokonaj wyboru:</target>
+        <note>key: trash_asset_single.modal.message</note>
+      </trans-unit>
+      <trans-unit id="ff537a1e092270edf7497dc13ce051cdb458958b" resname="trash_asset_single.modal.message_main">
+        <source>You are about to delete a content with one or several asset(s) field(s).</source>
+        <target state="translated">Zamierzasz usunąć treść z co najmniej jednym polem zawierającym zasoby.</target>
+        <note>key: trash_asset_single.modal.message_main</note>
+      </trans-unit>
+      <trans-unit id="1e6a1d97cca01a288e47d2d14479274b90e6c6c1" resname="trash_container.modal.message_main">
+        <source>Deleting %content_name% will also delete its sub-items, under its location(s). To confirm, please check below</source>
+        <target state="translated">Usunięcie %content_name% spowoduje również usunięcie jego podelementów, pod jego lokalizacją(-ami). Aby potwierdzić, zaznacz opcję poniżej</target>
+        <note>key: trash_container.modal.message_main</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
