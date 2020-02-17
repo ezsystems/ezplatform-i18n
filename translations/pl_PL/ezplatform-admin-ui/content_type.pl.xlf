@@ -56,8 +56,11 @@
       </trans-unit>
       <trans-unit id="d14799b2ac8854ab3f0bb9976258c3db39213d09" resname="content_type.default_availability.value" approved="yes">
         <source>{0} Not available|{1} Available</source>
-        <target state="final">{0} Dostępne|{1} Niedostępne</target>
+        <target state="final">{0} Niedostępne|{1} Dostępne</target>
         <note>key: content_type.default_availability.value</note>
+        <alt-trans>
+          <target>{0} Dostępne|{1} Niedostępne</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting" approved="yes">
         <source>Default field for sorting children</source>
