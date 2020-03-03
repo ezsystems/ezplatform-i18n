@@ -38,21 +38,30 @@
       </trans-unit>
       <trans-unit id="4406c1030566fae57a5e41a797823d41c7775ac8" resname="actionbar.minimizeActionBar">
         <source>Minimize</source>
-        <target state="translated">Verkleinern</target>
+        <target state="translated">Minimieren</target>
         <note>key: actionbar.minimizeActionBar</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
+        <alt-trans>
+          <target>Verkleinern</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="b282633e9e76dd418412580d9232d28d9404dcb5" resname="actionbar.move">
         <source>Move</source>
         <target state="translated">Verschieben</target>
         <note>key: actionbar.move</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
+        <alt-trans>
+          <target>Datei verschieben</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="0c208e52af8963639637f9c9ce2163bd98d1628e" resname="actionbar.sendToTrash">
         <source>Send to Trash</source>
-        <target state="translated">In Papierkorb</target>
+        <target state="translated">In Papierkorb verschieben</target>
         <note>key: actionbar.sendToTrash</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
+        <alt-trans>
+          <target>In Papierkorb</target>
+        </alt-trans>
         <alt-trans>
           <target>In den Mülleimer</target>
         </alt-trans>
@@ -71,9 +80,12 @@
       </trans-unit>
       <trans-unit id="2be07d7fa67c4111b55ff1ae95aa7bb38df17774" resname="content.browser.title">
         <source>Content browser</source>
-        <target state="translated">Content Browser</target>
+        <target state="translated">Inhaltsbrowser</target>
         <note>key: content.browser.title</note>
         <jms:reference-file>Resources/public/js/views/services/ez-discoverybarviewservice.js</jms:reference-file>
+        <alt-trans>
+          <target>Content Browser</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="a45dde06d9f58df76767d6fdaa8da714979b737d" resname="content.copied.under">
         <source>'%contentName%' has been successfully copied under '%parentContentName%'</source>
@@ -86,9 +98,12 @@
       </trans-unit>
       <trans-unit id="0bc4676a2e348119912d9a0cb23c8b9c2db54b38" resname="createcontentaction.loading">
         <source>Loading</source>
-        <target state="translated">Laden</target>
+        <target state="translated">Wird geladen</target>
         <note>key: createcontentaction.loading</note>
         <jms:reference-file>Resources/public/templates/createcontentaction.hbt</jms:reference-file>
+        <alt-trans>
+          <target>Laden</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="8168e6a5b68d175e892512352ec75bdfe1275631" resname="creating.new.location.for">
         <source>Creating new location for "%name%"</source>
@@ -110,9 +125,15 @@
       </trans-unit>
       <trans-unit id="4f1d1e873e2acd3ffa920e7ee8fa339b43ffe384" resname="discoverybar.browse">
         <source>Content browse</source>
-        <target state="translated">Content durchschauen</target>
+        <target state="translated">Inhalt durchsuchen</target>
         <note>key: discoverybar.browse</note>
         <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
+        <alt-trans>
+          <target>Content durchsuchen</target>
+        </alt-trans>
+        <alt-trans>
+          <target>Content durchschauen</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="7eaf9281f3e62d4f3acf5dac5b34060808c363b9" resname="discoverybar.contenttree">
         <source>Content tree</source>
@@ -121,9 +142,12 @@
       </trans-unit>
       <trans-unit id="69eda63e3b6ba8e8eb35db12ef1995c5dba42c17" resname="discoverybar.minimize">
         <source>Minimize</source>
-        <target state="translated">Verkleinern</target>
+        <target state="translated">Minimieren</target>
         <note>key: discoverybar.minimize</note>
         <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
+        <alt-trans>
+          <target>Verkleinern</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="55ba03a687a73559ef8a2d4e1ff935b47ddc5859" resname="discoverybar.search">
         <source>Search</source>
@@ -142,9 +166,12 @@
       </trans-unit>
       <trans-unit id="4f05b52ccc249d1a7747839ea78300f80c6011d3" resname="error.hiding.location">
         <source>Error while hiding location "%id%"</source>
-        <target state="translated">Fehler beim Ausblenden von dem Ort "%id%"</target>
+        <target state="translated">Fehler beim Verstecken des Ortes "%id%"</target>
         <note>key: error.hiding.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
+        <alt-trans>
+          <target>Fehler beim Ausblenden von dem Ort "%id%"</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="b751b43622c766dad211b5892e401abe17292918" resname="error.occurred.copying">
         <source>An error occurred while copying your content</source>
