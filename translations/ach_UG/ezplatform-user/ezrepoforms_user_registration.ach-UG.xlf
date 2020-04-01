@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="745ed48e9eaf1a1a896e411a17317ccbda571d35" resname="user.register_button">
         <source>Register</source>
-        <target xml:lang="ach">crwdns217168:0crwdne217168:0</target>
+        <target>crwdns220182:0crwdne220182:0</target>
         <note>key: user.register_button</note>
       </trans-unit>
     </body>
