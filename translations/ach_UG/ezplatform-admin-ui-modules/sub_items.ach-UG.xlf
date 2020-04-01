@@ -6,149 +6,209 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="35e03083bfdfafc073cf343c74385bec3945b4ac" resname="bulk_delete.error.message">
-        <source><![CDATA[%notDeletedCount% of the %totalCount% selected item(s) could not be deleted because you do not have proper user permissions. <u><a class='ez-notification-btn ez-notification-btn--show-modal'>Click here for more information.</a></u><br>Please contact your Administrator to obtain permissions.]]></source>
-        <target xml:lang="ach"><![CDATA[crwdns216534:0%notDeletedCount%crwdnd216534:0%totalCount%crwdne216534:0]]></target>
-        <note>key: bulk_delete.error.message</note>
+      <trans-unit id="99402f0925918d4d739c4c61a90182a733824fa5" resname="bulk_delete.error.message.nonusers">
+        <source>%notDeletedCount% of the %totalCount% selected item(s) could not be sent to trash because you do not have proper user permissions. {{ moreInformationLink }} Please contact your Administrator to obtain permissions.</source>
+        <target>crwdns217476:0%notDeletedCount%crwdnd217476:0%totalCount%crwdnd217476:0{{ moreInformationLink }}crwdne217476:0</target>
+        <note>key: bulk_delete.error.message.nonusers</note>
       </trans-unit>
-      <trans-unit id="23c9d6861623cc0b2f5f454afa841f1e368123cc" resname="bulk_delete.error.modal.table_title">
+      <trans-unit id="c74a6c9cb4bb7cbcf4a652e03e4fe9344514f38f" resname="bulk_delete.error.message.users">
+        <source>%notDeletedCount% of the %totalCount% selected item(s) could not be deleted because you do not have proper user permissions. {{ moreInformationLink }} Please contact your Administrator to obtain permissions.</source>
+        <target>crwdns217478:0%notDeletedCount%crwdnd217478:0%totalCount%crwdnd217478:0{{ moreInformationLink }}crwdne217478:0</target>
+        <note>key: bulk_delete.error.message.users</note>
+      </trans-unit>
+      <trans-unit id="a873d91c27d787399ce6dfe9a96c4541e718bacf" resname="bulk_delete.error.message.users_with_nonusers">
+        <source>%notDeletedCount% of the %totalCount% selected item(s) could not be deleted or sent to trash because you do not have proper user permissions. {{ moreInformationLink }} Please contact your Administrator to obtain permissions.</source>
+        <target>crwdns217480:0%notDeletedCount%crwdnd217480:0%totalCount%crwdnd217480:0{{ moreInformationLink }}crwdne217480:0</target>
+        <note>key: bulk_delete.error.message.users_with_nonusers</note>
+      </trans-unit>
+      <trans-unit id="237dbc61da0079a4ad224512ef0678262f224ad9" resname="bulk_delete.error.modal.table_title.nonusers">
         <source>Content item(s) cannot be sent to trash (%itemsCount%)</source>
-        <target xml:lang="ach">crwdns216536:0%itemsCount%crwdne216536:0</target>
-        <note>key: bulk_delete.error.modal.table_title</note>
+        <target>crwdns217482:0%itemsCount%crwdne217482:0</target>
+        <note>key: bulk_delete.error.modal.table_title.nonusers</note>
+      </trans-unit>
+      <trans-unit id="d61a87779a34732e3d0cc00482224d99dd95676a" resname="bulk_delete.error.modal.table_title.users">
+        <source>User(s) cannot be deleted (%itemsCount%)</source>
+        <target>crwdns217484:0%itemsCount%crwdne217484:0</target>
+        <note>key: bulk_delete.error.modal.table_title.users</note>
+      </trans-unit>
+      <trans-unit id="eb45209c9bfb54c01fe8e827d04058c301fc8173" resname="bulk_delete.error.modal.table_title.users_with_nonusers">
+        <source>Content item(s) cannot be deleted or sent to trash (%itemsCount%)</source>
+        <target>crwdns217486:0%itemsCount%crwdne217486:0</target>
+        <note>key: bulk_delete.error.modal.table_title.users_with_nonusers</note>
+      </trans-unit>
+      <trans-unit id="c1ffafa700d4b0ba80a626363f9dfe853571e080" resname="bulk_delete.error.more_info">
+        <source><![CDATA[<u><a class='ez-notification-btn ez-notification-btn--show-modal'>Click here for more information.</a></u><br>]]></source>
+        <target><![CDATA[crwdns217488:0crwdne217488:0]]></target>
+        <note>key: bulk_delete.error.more_info</note>
       </trans-unit>
       <trans-unit id="410f2ebb276d839b6606da042d0327a32e949093" resname="bulk_delete.popup.cancel">
         <source>Cancel</source>
-        <target xml:lang="ach">crwdns216538:0crwdne216538:0</target>
+        <target>crwdns217490:0crwdne217490:0</target>
         <note>key: bulk_delete.popup.cancel</note>
       </trans-unit>
-      <trans-unit id="a668a561527cc0e3e2c7952fbf300558d9d4f877" resname="bulk_delete.popup.confirm">
+      <trans-unit id="530f5b1097af7206fdabc3a51ac334c933ab4909" resname="bulk_delete.popup.confirm.nonusers">
         <source>Send to trash</source>
-        <target xml:lang="ach">crwdns216540:0crwdne216540:0</target>
-        <note>key: bulk_delete.popup.confirm</note>
+        <target>crwdns217492:0crwdne217492:0</target>
+        <note>key: bulk_delete.popup.confirm.nonusers</note>
       </trans-unit>
-      <trans-unit id="02d93b03435046c6bcf08ce15ae7970f7ff8f746" resname="bulk_delete.popup.message">
+      <trans-unit id="4953b415cbb1e81833664d96e7051d0a7e3d90c8" resname="bulk_delete.popup.confirm.users_and_users_with_nonusers">
+        <source>Delete</source>
+        <target>crwdns217494:0crwdne217494:0</target>
+        <note>key: bulk_delete.popup.confirm.users_and_users_with_nonusers</note>
+      </trans-unit>
+      <trans-unit id="e98d09770399a6f52a15068a0573a18fc2b0b60d" resname="bulk_delete.popup.message.nonusers">
         <source>Are you sure you want to send the selected content item(s) to trash?</source>
-        <target xml:lang="ach">crwdns216542:0crwdne216542:0</target>
-        <note>key: bulk_delete.popup.message</note>
+        <target>crwdns217496:0crwdne217496:0</target>
+        <note>key: bulk_delete.popup.message.nonusers</note>
       </trans-unit>
-      <trans-unit id="684c07e2248d815e6eb6bc3f92d3cd49c6952cbe" resname="bulk_delete.success.message">
-        <source>The selected content item(s) have been sent to trash</source>
-        <target xml:lang="ach">crwdns216544:0crwdne216544:0</target>
-        <note>key: bulk_delete.success.message</note>
+      <trans-unit id="7717885c80083a259220eb0617f818b9cd8f315e" resname="bulk_delete.popup.message.users">
+        <source>Are you sure you want to delete the selected user(s)?</source>
+        <target>crwdns217498:0crwdne217498:0</target>
+        <note>key: bulk_delete.popup.message.users</note>
+      </trans-unit>
+      <trans-unit id="a12f451cc6ee1e65a14e4accacba2fff815a67f9" resname="bulk_delete.popup.message.users_with_nonusers">
+        <source>Are you sure you want to delete the selected user(s) and send the other selected content item(s) to trash?</source>
+        <target>crwdns217500:0crwdne217500:0</target>
+        <note>key: bulk_delete.popup.message.users_with_nonusers</note>
+      </trans-unit>
+      <trans-unit id="5464e305b394648af0e9dbd86bfd0ea5df8ed93c" resname="bulk_delete.success.message.nonusers">
+        <source>The selected content item(s) have been sent to trash.</source>
+        <target>crwdns217502:0crwdne217502:0</target>
+        <note>key: bulk_delete.success.message.nonusers</note>
+      </trans-unit>
+      <trans-unit id="d6c81bfffab0f8d928eb10911ca60a107c407989" resname="bulk_delete.success.message.users">
+        <source>The selected user(s) have been deleted.</source>
+        <target>crwdns217504:0crwdne217504:0</target>
+        <note>key: bulk_delete.success.message.users</note>
+      </trans-unit>
+      <trans-unit id="93704c823e9663af7f4a89ec041673ce9d095a17" resname="bulk_delete.success.message.users_with_nonusers">
+        <source>The selected content item(s) have been sent to trash and the selected user(s) have been deleted.</source>
+        <target>crwdns217506:0crwdne217506:0</target>
+        <note>key: bulk_delete.success.message.users_with_nonusers</note>
       </trans-unit>
       <trans-unit id="364a3498e021163497d9110380736b876beb326f" resname="bulk_move.error.message">
-        <source><![CDATA[%notMovedCount% of the %totalCount% selected item(s) could not be moved because you do not have proper user permissions. <u><a class='ez-notification-btn ez-notification-btn--show-modal'>Click here for more information.</a></u><br>Please contact your Administrator to obtain permissions.]]></source>
-        <target xml:lang="ach"><![CDATA[crwdns216546:0%notMovedCount%crwdnd216546:0%totalCount%crwdne216546:0]]></target>
+        <source>%notMovedCount% of the %totalCount% selected item(s) could not be moved because you do not have proper user permissions. {{ moreInformationLink }} Please contact your Administrator to obtain permissions.</source>
+        <target>crwdns217508:0%notMovedCount%crwdnd217508:0%totalCount%crwdnd217508:0{{ moreInformationLink }}crwdne217508:0</target>
         <note>key: bulk_move.error.message</note>
       </trans-unit>
       <trans-unit id="44a971e3ea91b95b9fbbd596f54ca632ef0865d4" resname="bulk_move.error.modal.table_title">
         <source>Content items cannot be moved (%itemsCount%)</source>
-        <target xml:lang="ach">crwdns216548:0%itemsCount%crwdne216548:0</target>
+        <target>crwdns217510:0%itemsCount%crwdne217510:0</target>
         <note>key: bulk_move.error.modal.table_title</note>
       </trans-unit>
+      <trans-unit id="704ee7a643332c4112613751caaf764496b8c5ac" resname="bulk_move.error.more_info">
+        <source><![CDATA[<u><a class='ez-notification-btn ez-notification-btn--show-modal'>Click here for more information.</a></u><br>]]></source>
+        <target><![CDATA[crwdns217512:0crwdne217512:0]]></target>
+        <note>key: bulk_move.error.more_info</note>
+      </trans-unit>
+      <trans-unit id="a1944f6944ef07fd9c744119c970b32ad6085954" resname="bulk_move.success.link_to_location">
+        <source><![CDATA[<u><a href='%locationHref%'>%locationName%</a></u>]]></source>
+        <target><![CDATA[crwdns217514:0%locationHref%crwdnd217514:0%locationName%crwdne217514:0]]></target>
+        <note>key: bulk_move.success.link_to_location</note>
+      </trans-unit>
       <trans-unit id="ac326404ff958f8e3fa903df5750024602b812de" resname="bulk_move.success.message">
-        <source><![CDATA[The selected content item(s) have been sent to <u><a href='%locationHref%'>%locationName%</a></u>]]></source>
-        <target xml:lang="ach"><![CDATA[crwdns216550:0%locationHref%crwdnd216550:0%locationName%crwdne216550:0]]></target>
+        <source>The selected content item(s) have been sent to {{ locationLink }}</source>
+        <target>crwdns217516:0{{ locationLink }}crwdne217516:0</target>
         <note>key: bulk_move.success.message</note>
       </trans-unit>
       <trans-unit id="93850319ec8e493cc4d0b8bb1ae2a87cdf26d3d6" resname="bulk_request.error.message">
         <source>An unexpected error occurred while deleting the content item(s). Please try again later.</source>
-        <target xml:lang="ach">crwdns216552:0crwdne216552:0</target>
+        <target>crwdns217518:0crwdne217518:0</target>
         <note>key: bulk_request.error.message</note>
       </trans-unit>
       <trans-unit id="e95c7e2e8f7a1a4bb1f64cc48ca2eae0b0af78b6" resname="content_type.not_available.label">
         <source>N/A</source>
-        <target xml:lang="ach">crwdns215943:0crwdne215943:0</target>
+        <target>crwdns217520:0crwdne217520:0</target>
         <note>key: content_type.not_available.label</note>
       </trans-unit>
       <trans-unit id="5e1792d4a193550fe8afd9a4be6d0a8c3f6596e9" resname="edit_item_btn.label">
         <source>Edit</source>
-        <target xml:lang="ach">crwdns215944:0crwdne215944:0</target>
+        <target>crwdns217522:0crwdne217522:0</target>
         <note>key: edit_item_btn.label</note>
       </trans-unit>
       <trans-unit id="2a9e4002be191374ee14674d2e67eb9fe2d631d2" resname="items_list.title">
         <source>Sub-items</source>
-        <target xml:lang="ach">crwdns215945:0crwdne215945:0</target>
+        <target>crwdns217524:0crwdne217524:0</target>
         <note>key: items_list.title</note>
       </trans-unit>
       <trans-unit id="a72b23e13c6c44cfd6fc6661f83bc0b5e7c8a90c" resname="items_table.header.content_type">
         <source>Content type</source>
-        <target xml:lang="ach">crwdns215946:0crwdne215946:0</target>
+        <target>crwdns217526:0crwdne217526:0</target>
         <note>key: items_table.header.content_type</note>
       </trans-unit>
       <trans-unit id="8f1583d031a1cc60061659b8a55291496f0a40c6" resname="items_table.header.modified">
         <source>Modified</source>
-        <target xml:lang="ach">crwdns215947:0crwdne215947:0</target>
+        <target>crwdns217528:0crwdne217528:0</target>
         <note>key: items_table.header.modified</note>
       </trans-unit>
       <trans-unit id="2527737a2f92308589f03f3b73fed29ef744eb50" resname="items_table.header.name">
         <source>Name</source>
-        <target xml:lang="ach">crwdns215948:0crwdne215948:0</target>
+        <target>crwdns217530:0crwdne217530:0</target>
         <note>key: items_table.header.name</note>
       </trans-unit>
       <trans-unit id="ee6e79244a03c8adceb13aa6a7aff2cb496cb9d0" resname="items_table.header.priority">
         <source>Priority</source>
-        <target xml:lang="ach">crwdns215949:0crwdne215949:0</target>
+        <target>crwdns217532:0crwdne217532:0</target>
         <note>key: items_table.header.priority</note>
       </trans-unit>
       <trans-unit id="2efb1da52dd6f25dd90474e85b5c73761adb4183" resname="items_table.header.translations">
         <source>Translations</source>
-        <target xml:lang="ach">crwdns215950:0crwdne215950:0</target>
+        <target>crwdns217534:0crwdne217534:0</target>
         <note>key: items_table.header.translations</note>
       </trans-unit>
       <trans-unit id="b8c369db292d50595af6db4380326dbdf549bc4b" resname="load_content_items.invalid_response_format.error.message">
         <source>Invalid response format</source>
-        <target xml:lang="ach">crwdns215951:0crwdne215951:0</target>
+        <target>crwdns217536:0crwdne217536:0</target>
         <note>key: load_content_items.invalid_response_format.error.message</note>
       </trans-unit>
       <trans-unit id="e3c395cec9466f06c8f2f3f4b2bfcd9021537714" resname="move_btn.label">
         <source>Move selected items</source>
-        <target xml:lang="ach">crwdns216554:0crwdne216554:0</target>
+        <target>crwdns217538:0crwdne217538:0</target>
         <note>key: move_btn.label</note>
       </trans-unit>
       <trans-unit id="276a7024903672cd0476c82ba8845453e13db95e" resname="no_items.message">
         <source>This location has no sub-items</source>
-        <target xml:lang="ach">crwdns215954:0crwdne215954:0</target>
+        <target>crwdns217540:0crwdne217540:0</target>
         <note>key: no_items.message</note>
       </trans-unit>
       <trans-unit id="a0e2bd4beeb6680ff81add5686bbf2ee9b8ad0ca" resname="page.loading_error.message">
         <source>An error occurred while loading items in the Sub Items module</source>
-        <target xml:lang="ach">crwdns216556:0crwdne216556:0</target>
+        <target>crwdns217542:0crwdne217542:0</target>
         <note>key: page.loading_error.message</note>
       </trans-unit>
       <trans-unit id="af3bcdfcdcd33a16838a6f2b88c845c92fcb0938" resname="pagination.back">
         <source>Back</source>
-        <target xml:lang="ach">crwdns216558:0crwdne216558:0</target>
+        <target>crwdns217544:0crwdne217544:0</target>
         <note>key: pagination.back</note>
       </trans-unit>
       <trans-unit id="b10157de76c0f57fa166904d97c06336e10559ca" resname="pagination.next">
         <source>Next</source>
-        <target xml:lang="ach">crwdns216560:0crwdne216560:0</target>
+        <target>crwdns217546:0crwdne217546:0</target>
         <note>key: pagination.next</note>
       </trans-unit>
       <trans-unit id="af207d1e719904a39524b34212a1ea6116cb3d46" resname="switch_to_grid_view.btn.label">
         <source>View as grid</source>
-        <target xml:lang="ach">crwdns215955:0crwdne215955:0</target>
+        <target>crwdns217548:0crwdne217548:0</target>
         <note>key: switch_to_grid_view.btn.label</note>
       </trans-unit>
       <trans-unit id="b5bfcc24141601264b6c03972d8e45bbb7c49a09" resname="switch_to_list_view.btn.label">
         <source>View as list</source>
-        <target xml:lang="ach">crwdns215956:0crwdne215956:0</target>
+        <target>crwdns217550:0crwdne217550:0</target>
         <note>key: switch_to_list_view.btn.label</note>
       </trans-unit>
       <trans-unit id="11b5de206f496e357ede3c3798b8e113c2946a60" resname="trash_btn.label">
         <source>Delete selected items</source>
-        <target xml:lang="ach">crwdns216562:0crwdne216562:0</target>
+        <target>crwdns217552:0crwdne217552:0</target>
         <note>key: trash_btn.label</note>
       </trans-unit>
       <trans-unit id="cd8466f8e727278543a7e1ded7f3a0c67243c276" resname="udw.choose_location.title">
         <source>Choose location</source>
-        <target xml:lang="ach">crwdns216564:0crwdne216564:0</target>
+        <target>crwdns217554:0crwdne217554:0</target>
         <note>key: udw.choose_location.title</note>
       </trans-unit>
       <trans-unit id="5ae5a511a5c344781ad0caa53efe7b33429c6132" resname="viewing_message">
         <source><![CDATA[Viewing <strong>%viewingCount%</strong> out of <strong>%totalCount%</strong> sub-items]]></source>
-        <target xml:lang="ach"><![CDATA[crwdns216566:0%viewingCount%crwdnd216566:0%totalCount%crwdne216566:0]]></target>
+        <target><![CDATA[crwdns217556:0%viewingCount%crwdnd217556:0%totalCount%crwdne217556:0]]></target>
         <note>key: viewing_message</note>
       </trans-unit>
     </body>
