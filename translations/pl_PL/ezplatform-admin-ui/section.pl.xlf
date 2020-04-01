@@ -16,31 +16,6 @@
         <target state="final">Przypisz do treści</target>
         <note>key: section.assign_content</note>
       </trans-unit>
-      <trans-unit id="2a6caa13cfd67503e2250af8e36f26a2f835a4a0" resname="section.assign_content.success" approved="yes">
-        <source>%contentItemsCount% content items were assigned to '%name%'</source>
-        <target state="final">%contentItemsCount% elementów przypisano do '%name%'</target>
-        <note>key: section.assign_content.success</note>
-      </trans-unit>
-      <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content" approved="yes">
-        <source>Assignments count</source>
-        <target state="final">Przypisano elementów</target>
-        <note>key: section.assigned.content</note>
-      </trans-unit>
-      <trans-unit id="e04ac63bba940de331146dac711b1633407e5ce9" resname="section.assigned_content.empty" approved="yes">
-        <source>No content items.</source>
-        <target state="final">Brak elementów.</target>
-        <note>key: section.assigned_content.empty</note>
-      </trans-unit>
-      <trans-unit id="d40d7fd957935deb539c21b9b49f34d4016c69d0" resname="section.assigned_content.empty_desc" approved="yes">
-        <source>Content items you assign to this section will appear here.</source>
-        <target state="final">Tu pojawią się elementy przypisane do tej sekcji.</target>
-        <note>key: section.assigned_content.empty_desc</note>
-      </trans-unit>
-      <trans-unit id="60771f4109f17ae27080b34e9322fd7cb02f45b3" resname="section.assigned_content.header" approved="yes">
-        <source>Content items in %name% (%count%)</source>
-        <target state="final">Elementy w sekcji %name% (%count%)</target>
-        <note>key: section.assigned_content.header</note>
-      </trans-unit>
       <trans-unit id="adcc2af264c7ae84e69396a8ff7ea5a259abd01e" resname="section.assigned_content.name" approved="yes">
         <source>Name</source>
         <target state="final">Nazwa</target>
@@ -107,14 +82,6 @@
         <target state="final">Sekcje</target>
         <note>key: section.list.title</note>
       </trans-unit>
-      <trans-unit id="6a17e9f4ed416563fc8c3e188509b8eec8a6f7c0" resname="section.modal.message" approved="yes">
-        <source>Do you want to delete Section?</source>
-        <target state="final">Czy na pewno chcesz usunąć tę sekcję?</target>
-        <note>key: section.modal.message</note>
-        <alt-trans>
-          <target>Czy na pewno chcesz usunąć tą sekcję?</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="376986256605f27a204911de172c7bca4bd8e3b6" resname="section.name" approved="yes">
         <source>Name</source>
         <target state="final">Nazwa</target>
@@ -137,11 +104,6 @@
         <alt-trans>
           <target>Section '%name%' została zaktualizowana.</target>
         </alt-trans>
-      </trans-unit>
-      <trans-unit id="2bfeef4370b18e469fba6df1d4d2888f9252c764" resname="section.update.title" approved="yes">
-        <source>Editing Section "%identifier%"</source>
-        <target state="final">Edycja sekcji "%identifier%"</target>
-        <note>key: section.update.title</note>
       </trans-unit>
       <trans-unit id="9266789d0a5e68e102410798a2db431137039aad" resname="section.view.title.identifier" approved="yes">
         <source>Section: %identifier%</source>
