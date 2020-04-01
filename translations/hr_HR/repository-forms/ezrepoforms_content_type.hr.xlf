@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="837d1179e58011e51733e1420a6f868f94fb9b16" resname="field_definition.ezauthor.default_user_empty">
+        <source>Empty</source>
+        <target state="translated">Prazno</target>
+        <note>key: field_definition.ezauthor.default_user_empty</note>
+      </trans-unit>
       <trans-unit id="18a5846deb7a3d7dcc9fbd0a2de28d609c2a55c2" resname="field_definition.ezdate.default_type">
         <source>Default value</source>
         <target state="translated">Zadana vrijednost</target>
