@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="156b8a7f797412e60bdba432064e2dade6d4a7af" resname="error.page.404.title">
         <source>Something went wrong. Sorry!</source>
-        <target state="translated">Algo ha fallado. Disculpe las molestias</target>
+        <target state="translated">Algo salió mal, lo siento.</target>
         <note>key: error.page.404.title</note>
       </trans-unit>
       <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
