@@ -303,6 +303,9 @@
         <source>Maximum file size (MB)</source>
         <target state="translated">Taille de fichier maximale (MB)</target>
         <note>key: field_definition.ezimage.max_file_size</note>
+        <alt-trans>
+          <target>Taille de fichier maximale (Mo)</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="8a95f664895f9c72e5ca52ea43908ad3d54c8966" resname="field_definition.ezinteger.default_value">
         <source>Default value</source>
@@ -377,9 +380,9 @@
         <target state="final">Windows Media Player</target>
         <note>key: field_definition.ezmedia.type_windows_media_player</note>
       </trans-unit>
-      <trans-unit id="fabc9be57b82439dac2f612b9c2a171eb7ce6e04" resname="field_definition.ezobjectrelation.selection_content_types">
+      <trans-unit id="fabc9be57b82439dac2f612b9c2a171eb7ce6e04" resname="field_definition.ezobjectrelation.selection_content_types" approved="yes">
         <source>Allowed content types</source>
-        <target state="translated">Types de Contenu autorisés</target>
+        <target state="final">Types de contenu autorisés</target>
         <note>key: field_definition.ezobjectrelation.selection_content_types</note>
       </trans-unit>
       <trans-unit id="440d8fe80bb8a07b62f17d843721285b2cf8a4d5" resname="field_definition.ezobjectrelation.selection_root" approved="yes">
