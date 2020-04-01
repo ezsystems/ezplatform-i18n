@@ -27,8 +27,8 @@
         <note>key: event.reveal_block.title</note>
       </trans-unit>
       <trans-unit id="4795deb1e3cccc2572408602ff718b8f9efee4c1" resname="event.schedule_block.item_added.title">
-        <source>%contentTypeName% '%contentName%' added to block - %blockName%</source>
-        <target>crwdns216324:0%contentTypeName%crwdnd216324:0%contentName%crwdnd216324:0%blockName%crwdne216324:0</target>
+        <source>%contentTypeName% '%contentName%' added to block %blockName%</source>
+        <target>crwdns223116:0%contentTypeName%crwdnd223116:0%contentName%crwdnd223116:0%blockName%crwdne223116:0</target>
         <note>key: event.schedule_block.item_added.title</note>
       </trans-unit>
     </body>
