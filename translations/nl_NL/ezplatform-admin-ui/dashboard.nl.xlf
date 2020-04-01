@@ -46,16 +46,6 @@
         <target state="final">Versie</target>
         <note>key: dashboard.table.version</note>
       </trans-unit>
-      <trans-unit id="a49a78f944bf1f73f3f7ff9672463bb1abd4a402" resname="everyone" approved="yes">
-        <source>Everyone</source>
-        <target state="final">Alle inhoud</target>
-        <note>key: everyone</note>
-      </trans-unit>
-      <trans-unit id="b1c1d8736f20db3fb6c1c66bb1455ed43909f0d8" resname="me" approved="yes">
-        <source>Me</source>
-        <target state="final">Mijn inhoud</target>
-        <note>key: me</note>
-      </trans-unit>
       <trans-unit id="c4d3f17636317e532c589f3008d82c263ab5c39d" resname="tab.name.everyone_content" approved="yes">
         <source>Content</source>
         <target state="final">Inhoud</target>
