@@ -16,6 +16,11 @@
         <target>crwdns216073:0%identifier%crwdne216073:0</target>
         <note>key: Could not find Form for '%identifier%'</note>
       </trans-unit>
+      <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash">
+        <source>In Trash</source>
+        <target>crwdns223024:0crwdne223024:0</target>
+        <note>key: content.in_trash</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
