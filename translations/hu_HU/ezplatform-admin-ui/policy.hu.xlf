@@ -36,14 +36,6 @@
         <target state="final">Modul</target>
         <note>key: tab.policies.module</note>
       </trans-unit>
-      <trans-unit id="445e5dce642562c06137fef60c9a7fcf788a9da6" resname="tab.policies.no_policies" approved="yes">
-        <source>This content item has no policies.</source>
-        <target state="final">A tartalom nem rendelkezik szabályzatokkal.</target>
-        <note>key: tab.policies.no_policies</note>
-        <alt-trans>
-          <target>A tartalom nem rendelkezik irányelvekkel</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="1a761d1b544608935dfa6ce9d196cf2c31f7edda" resname="tab.policies.policies" approved="yes">
         <source>Policies</source>
         <target state="final">Szabályzatok</target>
