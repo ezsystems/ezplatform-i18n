@@ -16,20 +16,10 @@
         <target state="translated">コンテナー</target>
         <note>key: content_type.container</note>
       </trans-unit>
-      <trans-unit id="694d6cbecfee848cf42a300c0b310f45ece6a09b" resname="content_type.content_field_definitions">
-        <source>Content field definitions</source>
-        <target state="translated">コンテンツフィールド定義</target>
-        <note>key: content_type.content_field_definitions</note>
-      </trans-unit>
       <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type">
         <source>Content Type</source>
         <target state="translated">コンテンツタイプ</target>
         <note>key: content_type.content_type</note>
-      </trans-unit>
-      <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
-        <source>Default sort order</source>
-        <target state="translated">デフォルトのソート順</target>
-        <note>key: content_type.default_sort</note>
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
         <source>Description</source>
@@ -95,16 +85,6 @@
         <source>URL alias name pattern</source>
         <target state="translated">URL エイリアス名のパターン</target>
         <note>key: content_type.url_alias_schema</note>
-      </trans-unit>
-      <trans-unit id="56a9f26e930ab0493fc9cb9609318ea699cf8b76" resname="content_type.view.create.content_field_definitions">
-        <source>Content field definitions</source>
-        <target state="translated">コンテンツフィールド定義</target>
-        <note>key: content_type.view.create.content_field_definitions</note>
-      </trans-unit>
-      <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
-        <source>Content field definitions</source>
-        <target state="translated">コンテンツフィールド定義</target>
-        <note>key: content_type.view.edit.content_field_definitions</note>
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
         <source>ID</source>
