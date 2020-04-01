@@ -41,20 +41,10 @@
         <target state="translated">Tipo de Contenido</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
-      <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
-        <source>Edit Draft</source>
-        <target state="translated">Editar el borrador</target>
-        <note>key: dashboard.table.draft.edit</note>
-      </trans-unit>
       <trans-unit id="3854d449547263e6056997c3ed9135006b158de8" resname="dashboard.table.draft.transition.list">
         <source>Show history</source>
         <target state="translated">Mostrar historial</target>
         <note>key: dashboard.table.draft.transition.list</note>
-      </trans-unit>
-      <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
-        <source>Modified Language</source>
-        <target state="translated">Idioma modificado</target>
-        <note>key: dashboard.table.modified_language</note>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
         <source>Name</source>
@@ -65,11 +55,6 @@
         <source>Status</source>
         <target state="translated">Estado</target>
         <note>key: dashboard.table.status</note>
-      </trans-unit>
-      <trans-unit id="e299194e53c6e814246098b762ef1f9f52a93daf" resname="location_view.tab.versions.column.status">
-        <source>Status</source>
-        <target state="translated">Estado</target>
-        <note>key: location_view.tab.versions.column.status</note>
       </trans-unit>
       <trans-unit id="f19d765219df9973b16f4c4fec04284643ae4413" resname="matcher.content_status">
         <source>Content status</source>
@@ -91,35 +76,15 @@
         <target state="translated">Cronograma del evento</target>
         <note>key: modal.transition.list.title</note>
       </trans-unit>
-      <trans-unit id="ed129ea3c9e2f6f00bc2ab26aa664d8ca17d3636" resname="tab.name.my_drafts_under_review">
-        <source>Drafts under review</source>
-        <target state="translated">Borradores en revisión</target>
-        <note>key: tab.name.my_drafts_under_review</note>
-      </trans-unit>
       <trans-unit id="ada0fcebefac344a2447069bba0039e73865b67d" resname="transition.list.entry.author">
         <source>by %name%</source>
         <target state="translated">por nombre</target>
         <note>key: transition.list.entry.author</note>
       </trans-unit>
-      <trans-unit id="3c190ea2e3bb750d29e646512ef8902bca079d61" resname="widget.leave_comment">
-        <source>Leave a comment</source>
-        <target state="translated">Deja un comentario</target>
-        <note>key: widget.leave_comment</note>
-      </trans-unit>
-      <trans-unit id="b68f65d4e6b1cef42c9c47203c4d64505b5e6e33" resname="widget.message">
-        <source>Message:</source>
-        <target state="translated">Mensaje:</target>
-        <note>key: widget.message</note>
-      </trans-unit>
-      <trans-unit id="d2411b1cef3e71d41a6da0e837ba7c5aee6dba07" resname="widget.message_placeholder">
+      <trans-unit id="c020300ac290bd2f5b59ad2fc190620991545286" resname="widget.message.placeholder">
         <source>Type your message...</source>
         <target state="translated">Escriba su mensaje...</target>
-        <note>key: widget.message_placeholder</note>
-      </trans-unit>
-      <trans-unit id="3bffad6f39729eebf93f44554e1f5fb348b82354" resname="widget.submit">
-        <source>Submit</source>
-        <target state="translated">Enviar</target>
-        <note>key: widget.submit</note>
+        <note>key: widget.message.placeholder</note>
       </trans-unit>
       <trans-unit id="80d070fe8257420d8f890afbf18c47475f7ddc24" resname="workflow.list.limitations">
         <source>Limitations</source>
@@ -141,30 +106,15 @@
         <target state="translated">Tipo de Contenido</target>
         <note>key: workflow.view.content_list.table.content_type</note>
       </trans-unit>
-      <trans-unit id="a460d78b8223b8833763f45da7e70b6f7cc250cc" resname="workflow.view.content_list.table.modified_language">
-        <source>Modified langauge</source>
-        <target state="translated">Idioma modificado</target>
-        <note>key: workflow.view.content_list.table.modified_language</note>
-      </trans-unit>
       <trans-unit id="0c07def57bc5366e4b014b5634deeea824648a15" resname="workflow.view.content_list.table.name">
         <source>Name</source>
         <target state="translated">Nombre</target>
         <note>key: workflow.view.content_list.table.name</note>
       </trans-unit>
-      <trans-unit id="f47c31349e59ab533fb5d0cab02364c7405470f4" resname="workflow.view.diagram">
-        <source>Workflow Diagram</source>
-        <target state="translated">Diagrama de flujo de trabajo</target>
-        <note>key: workflow.view.diagram</note>
-      </trans-unit>
       <trans-unit id="1c7c17941fd081fc0d090a50133fcef9b5ea163e" resname="workflow.view.tab.details">
         <source>Details</source>
         <target state="translated">Detalles</target>
         <note>key: workflow.view.tab.details</note>
-      </trans-unit>
-      <trans-unit id="d383f9c102d01c10e71c120aa1b08f80dcd20fe9" resname="workflow.view.title">
-        <source>Workflow Information</source>
-        <target state="translated">Información del flujo de trabajo</target>
-        <note>key: workflow.view.title</note>
       </trans-unit>
     </body>
   </file>
