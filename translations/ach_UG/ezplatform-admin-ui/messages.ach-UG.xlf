@@ -12,23 +12,23 @@
         <note>key: alert.close</note>
       </trans-unit>
       <trans-unit id="8ace6daf300d4e12a28054d996c185db9ce7fe91" resname="authentication.credentials_expire_in.warning">
-        <source>Your password will expire in %days% days. Consider updating it in User Settings/My Account Settings.</source>
-        <target>crwdns217316:0%days%crwdne217316:0</target>
+        <source>Your current password will expire in %days% day(s). You can change it in User Settings/My Account Settings.</source>
+        <target>crwdns222580:0%days%crwdne222580:0</target>
         <note>key: authentication.credentials_expire_in.warning</note>
       </trans-unit>
       <trans-unit id="e524fb7941a99d5c26d355dbf015226241e807a7" resname="authentication.credentials_expire_today.warning">
-        <source>Your password will expire today. Consider updating it in User Settings/My Account Settings.</source>
-        <target>crwdns217318:0crwdne217318:0</target>
+        <source>Your current password will expire today. You can change it in User Settings/My Account Settings.</source>
+        <target>crwdns222582:0crwdne222582:0</target>
         <note>key: authentication.credentials_expire_today.warning</note>
       </trans-unit>
       <trans-unit id="c9a7a0dd7518550634ea6873dcc815d4ec30c1e2" resname="authentication.credentials_expired">
-        <source>Your password has expired</source>
-        <target>crwdns217320:0crwdne217320:0</target>
+        <source>Your password has expired.</source>
+        <target>crwdns222584:0crwdne222584:0</target>
         <note>key: authentication.credentials_expired</note>
       </trans-unit>
       <trans-unit id="be4c13cda3e93a1e8cb05145c0dc6c3780c40c66" resname="authentication.credentials_expired.message">
-        <source>For security reasons, your password has expired and needs to be changed. An email has been sent to you with instructions.</source>
-        <target>crwdns217322:0crwdne217322:0</target>
+        <source>Your password has expired and must be changed. You will receive an email with instructions how to reset your password.</source>
+        <target>crwdns222586:0crwdne222586:0</target>
         <note>key: authentication.credentials_expired.message</note>
       </trans-unit>
       <trans-unit id="2b3f00f63c14c6dc9300d54b42159218f6b5f260" resname="authentication.credentials_expired.reset_password">
@@ -86,6 +86,11 @@
         <target>crwdns217016:0crwdne217016:0</target>
         <note>key: character_counter.words</note>
       </trans-unit>
+      <trans-unit id="e136be672df8eb27dc4eb2f1ce0650096090bf81" resname="content.hidden.message">
+        <source>You don't have permissions to view this Content item (contentID: %contentId%).</source>
+        <target>crwdns222588:0%contentId%crwdne222588:0</target>
+        <note>key: content.hidden.message</note>
+      </trans-unit>
       <trans-unit id="22d5072ec8766c24df085f05aaeda403f02ec585" resname="content.hide.modal.cancel">
         <source>Cancel</source>
         <target>crwdns217018:0crwdne217018:0</target>
@@ -97,18 +102,18 @@
         <note>key: content.hide.modal.confirm</note>
       </trans-unit>
       <trans-unit id="5c48055acad8df653edc1f8f65130d784fed3d88" resname="content.hide.modal.please_confirm_to_continue">
-        <source>If you wish to continue, please click on Confirm.</source>
-        <target>crwdns217022:0crwdne217022:0</target>
+        <source>To hide the Content item anyway, click Confirm.</source>
+        <target>crwdns222590:0crwdne222590:0</target>
         <note>key: content.hide.modal.please_confirm_to_continue</note>
       </trans-unit>
       <trans-unit id="7932e7fd6d6b90a8264cf5805586cab3294290ed" resname="content.hide.modal.title">
-        <source>Conflict when hiding content item</source>
-        <target>crwdns217024:0crwdne217024:0</target>
+        <source>Content hide conflict</source>
+        <target>crwdns222592:0crwdne222592:0</target>
         <note>key: content.hide.modal.title</note>
       </trans-unit>
       <trans-unit id="0f260745fb36618170e86bd6407bb2facd3a05a1" resname="content.hide.modal.warning_content_used_by_other_content">
-        <source>This item is being used by other content item(s). To avoid errors, please update or remove all related objects listed in the Relations tab.</source>
-        <target>crwdns217326:0crwdne217326:0</target>
+        <source>This content is used by other Content item(s). To avoid errors, update or remove all related content listed in the Relations tab.</source>
+        <target>crwdns222594:0crwdne222594:0</target>
         <note>key: content.hide.modal.warning_content_used_by_other_content</note>
       </trans-unit>
       <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash">
@@ -147,43 +152,43 @@
         <note>key: custom_url_alias_add_form.remove</note>
       </trans-unit>
       <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
-        <source><![CDATA[You can also go back to the <a class="error-page__link" href="%dashboard%">dashboard</a> here or <a class="error-page__link" href="%search%">search</a> for other content.]]></source>
-        <target><![CDATA[crwdns215242:0%dashboard%crwdnd215242:0%search%crwdne215242:0]]></target>
+        <source><![CDATA[To continue, go back to the <a class="error-page__link" href="%dashboard%">dashboard</a> or <a class="error-page__link" href="%search%">search</a> for another Content item.]]></source>
+        <target><![CDATA[crwdns222596:0%dashboard%crwdnd222596:0%search%crwdne222596:0]]></target>
         <note>key: error.page.403.actions</note>
       </trans-unit>
       <trans-unit id="2532cb9ce6fdf46258c107f3d20888c506115ef6" resname="error.page.403.message">
-        <source><![CDATA[It’s an error 403. You don’t have permission to retrieve or access this page.<br/>Please contact your eZ Platform Administrator to request access to<br/>this content or modify your profile.]]></source>
-        <target><![CDATA[crwdns215243:0crwdne215243:0]]></target>
+        <source><![CDATA[Error 403: you don't have permissions to access this page.<br/>Contact your Administrator to request access to this content.]]></source>
+        <target><![CDATA[crwdns222598:0crwdne222598:0]]></target>
         <note>key: error.page.403.message</note>
       </trans-unit>
       <trans-unit id="b1712cfa4c13874debdcc0f1f4a3b9fa4af3c966" resname="error.page.403.title">
-        <source>You don’t have permission for this page. Sorry!</source>
-        <target>crwdns215244:0crwdne215244:0</target>
+        <source>You don't have permission for this page.</source>
+        <target>crwdns222600:0crwdne222600:0</target>
         <note>key: error.page.403.title</note>
       </trans-unit>
       <trans-unit id="638be721c063eee72e70484fe99a25b2a990bb18" resname="error.page.404.actions">
-        <source><![CDATA[Check the URL, in case there would be an error in there.<br/>If not, go to the <a class="error-page__link" href="%dashboard%">dashboard</a> or <a class="error-page__link" href="%search%">search</a> for specific content.]]></source>
-        <target><![CDATA[crwdns215245:0%dashboard%crwdnd215245:0%search%crwdne215245:0]]></target>
+        <source><![CDATA[Check the URL for a typo and try again.<br/>Otherwise, go back to the <a class="error-page__link" href="%dashboard%">dashboard</a> or <a class="error-page__link" href="%search%">search</a> for another Content item.]]></source>
+        <target><![CDATA[crwdns222602:0%dashboard%crwdnd222602:0%search%crwdne222602:0]]></target>
         <note>key: error.page.404.actions</note>
       </trans-unit>
       <trans-unit id="7027b2adcf028b82111334763e40823cd85a52fa" resname="error.page.404.message">
-        <source><![CDATA[It’s an error 404. The page you requested was not found.<br/>It might have been deleted or might be temporarily unavailable.]]></source>
-        <target><![CDATA[crwdns215246:0crwdne215246:0]]></target>
+        <source><![CDATA[Error 404: the page you requested was not found.<br/>It might have been deleted or it is temporarily unavailable.]]></source>
+        <target><![CDATA[crwdns222604:0crwdne222604:0]]></target>
         <note>key: error.page.404.message</note>
       </trans-unit>
       <trans-unit id="156b8a7f797412e60bdba432064e2dade6d4a7af" resname="error.page.404.title">
-        <source>Something went wrong. Sorry!</source>
-        <target>crwdns215247:0crwdne215247:0</target>
+        <source>Page not found.</source>
+        <target>crwdns222606:0crwdne222606:0</target>
         <note>key: error.page.404.title</note>
       </trans-unit>
       <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
-        <source><![CDATA[Please contact your eZ Platform Administrator and inform her/him about the time the error occurred, the URL in your browser window and anything related you think may have caused the error.<br/>You can also go back or try to reload the application.]]></source>
-        <target><![CDATA[crwdns215248:0crwdne215248:0]]></target>
+        <source><![CDATA[Contact your Administrator and inform them about the time the error occurred, the URL in your browser window, and anything related that you think may have caused the error.<br/>You can also go back or try to reload the application.]]></source>
+        <target><![CDATA[crwdns222608:0crwdne222608:0]]></target>
         <note>key: error.page.default.actions</note>
       </trans-unit>
       <trans-unit id="8338c190462d420926edf71e8d4cddcae710d361" resname="error.page.default.message">
-        <source>It's an error 500, an internal server error. The server was unable to complete your request and it's not your fault.</source>
-        <target>crwdns215249:0crwdne215249:0</target>
+        <source>Error 500: internal server error. The server was unable to complete your request because of an internal problem.</source>
+        <target>crwdns222610:0crwdne222610:0</target>
         <note>key: error.page.default.message</note>
       </trans-unit>
       <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title">
@@ -202,24 +207,24 @@
         <note>key: ezauthor.action.delete</note>
       </trans-unit>
       <trans-unit id="f73d03811ba3033d6b44986d55ca728c5a88b168" resname="ezplatform.forgot_user_password.contact_administrator">
-        <source>If you do not remember your login, please contact the site administrator.</source>
-        <target>crwdns215253:0crwdne215253:0</target>
+        <source>If you do not remember your login, contact your Administrator.</source>
+        <target>crwdns222612:0crwdne222612:0</target>
         <note>key: ezplatform.forgot_user_password.contact_administrator</note>
       </trans-unit>
       <trans-unit id="ffb6990d5e75fe6dc86e94166b77e40a79e4e2a3" resname="ezplatform.forgot_user_password.login">
-        <source>This email is connected with several accounts. Please enter your login.</source>
-        <target>crwdns215254:0crwdne215254:0</target>
+        <source>This email is connected with several accounts. Enter your login instead.</source>
+        <target>crwdns222614:0crwdne222614:0</target>
         <note>key: ezplatform.forgot_user_password.login</note>
       </trans-unit>
       <trans-unit id="db6dd97ed4776bb0e9843554c48e3962327e8f50" resname="ezplatform.forgot_user_password.message">
         <source><![CDATA[Hi,
         <br /><br />
-        We have received a request to reset the password for your account on site. Click “reset password” below to choose a new password:
+        We have received a request to reset the password for your eZ Platform account. Click “reset password” below to choose a new password:
         <br /><br />
-        <a href="%reset_password%">Reset password<a/>
+        <a href="%reset_password%">Reset password</a>
         <br /><br />
         If you did not request a password reset, please ignore this email, and your password will remain the same.]]></source>
-        <target><![CDATA[crwdns215255:0%reset_password%crwdne215255:0]]></target>
+        <target><![CDATA[crwdns222616:0%reset_password%crwdne222616:0]]></target>
         <note>key: ezplatform.forgot_user_password.message</note>
       </trans-unit>
       <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password">
@@ -228,11 +233,11 @@
         <note>key: ezplatform.forgot_user_password.reset_your_password</note>
       </trans-unit>
       <trans-unit id="36aa6723300a41ba80ee0096c0d2bcf34fd48aca" resname="ezplatform.forgot_user_password.success">
-        <source><![CDATA[<p>We have sent an email to the email address of your account. You should receive the email shortly.</p>
+        <source><![CDATA[<p>An email has been sent to the address you provided with instructions on how to reset your password.</p>
             <p>If the email is slow to arrive, check your spam folders.</p>
-            <p>If you receive no email, it’s that your username or email is unknown to us, so please double check.</p>
-            <p>If you reset your password multiple times, only the most recent email link will be valid</p>]]></source>
-        <target><![CDATA[crwdns215257:0crwdne215257:0]]></target>
+            <p>If you don't receive an email, make sure you've entered the address you registered with, and check your spam folder.</p>
+            <p>If you reset your password multiple times, only the most recent email link will be valid.</p>]]></source>
+        <target><![CDATA[crwdns222618:0crwdne222618:0]]></target>
         <note>key: ezplatform.forgot_user_password.success</note>
       </trans-unit>
       <trans-unit id="40dd2934190789b016771a0fc3b41dcdfe0bb920" resname="ezplatform.reset_user_password.change_password">
@@ -246,14 +251,19 @@
         <note>key: ezplatform.reset_user_password.link_is_not_valid</note>
       </trans-unit>
       <trans-unit id="5149c594d64197e519d38a1a2e7368140716bb81" resname="ezplatform.reset_user_password.success">
-        <source><![CDATA[Congrats, your password has been changed, you can now <a href="%login%">login</a> to eZ Platform.]]></source>
-        <target><![CDATA[crwdns215260:0%login%crwdne215260:0]]></target>
+        <source><![CDATA[Your password has been changed. You can <a href="%login%">log in</a> to eZ Platform.]]></source>
+        <target><![CDATA[crwdns222620:0%login%crwdne222620:0]]></target>
         <note>key: ezplatform.reset_user_password.success</note>
       </trans-unit>
       <trans-unit id="5cf420af18fd4a8d856fd30bc13aea5039369f9b" resname="form.cancel">
         <source>Cancel</source>
         <target>crwdns215261:0crwdne215261:0</target>
         <note>key: form.cancel</note>
+      </trans-unit>
+      <trans-unit id="1ada7c495c1592fd70ef48759574e764787bf969" resname="location_trash_form.confirm_label">
+        <source>I understand the consequences of this action.</source>
+        <target>crwdns222622:0crwdne222622:0</target>
+        <note>key: location_trash_form.confirm_label</note>
       </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
         <source>Cancel</source>
@@ -281,18 +291,18 @@
         <note>key: section.assign,content</note>
       </trans-unit>
       <trans-unit id="6a17e9f4ed416563fc8c3e188509b8eec8a6f7c0" resname="section.modal.message">
-        <source>Do you want to delete section?</source>
-        <target>crwdns215267:0crwdne215267:0</target>
+        <source>Do you want to delete the Section(s)?</source>
+        <target>crwdns222624:0crwdne222624:0</target>
         <note>key: section.modal.message</note>
       </trans-unit>
       <trans-unit id="1152c93462d8bed85642b961f01ed63a6f2525ab" resname="tab.locations.location_content_swap">
-        <source>Location Content Swap</source>
-        <target>crwdns215268:0crwdne215268:0</target>
+        <source>Swap Locations</source>
+        <target>crwdns222626:0crwdne222626:0</target>
         <note>key: tab.locations.location_content_swap</note>
       </trans-unit>
       <trans-unit id="27d429c3dcff70494c4080957b05a9db5255f854" resname="tab.locations.swap_with_another">
-        <source>Swap the content item at this location with another</source>
-        <target>crwdns215269:0crwdne215269:0</target>
+        <source>Swap the Content item at this Location with another</source>
+        <target>crwdns222628:0crwdne222628:0</target>
         <note>key: tab.locations.swap_with_another</note>
       </trans-unit>
       <trans-unit id="1246bcf8752e249bdec2067d43cfae2a5103bc5f" resname="tab.view.preview">
@@ -321,34 +331,34 @@
         <note>key: trash.form.cancel</note>
       </trans-unit>
       <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
-        <source>Are you sure you want to send this content item to trash?</source>
-        <target>crwdns215275:0crwdne215275:0</target>
+        <source>Are you sure you want to send this Content item to Trash?</source>
+        <target>crwdns222630:0crwdne222630:0</target>
         <note>key: trash.modal.message</note>
       </trans-unit>
       <trans-unit id="bd97a738137e75de44544db1104bab3a46222791" resname="trash_asset.modal.message_body">
-        <source>If you wish to delete this(/these) asset(s) too, first make sure they are not used by other content. You can check these content going to the asset(s) and looking at their content relations in the Relation tab.</source>
-        <target>crwdns216382:0crwdne216382:0</target>
+        <source>If you wish to delete these assets too, first make sure they are not used by other content. To check, go to the asset preview and look at its content Relations in the Relations tab.</source>
+        <target>crwdns222632:0crwdne222632:0</target>
         <note>key: trash_asset.modal.message_body</note>
       </trans-unit>
       <trans-unit id="17c7abad79d72d771a25b064e0de38b72fc6c926" resname="trash_asset.modal.message_header">
-        <source>You are about to delete a content that has one or several asset(s) field(s) used by other content items. These assets will remain available in system.</source>
-        <target>crwdns216384:0crwdne216384:0</target>
+        <source>You are about to delete a Content item that has one or more asset Field(s) used by other Content items. These assets will remain available in system.</source>
+        <target>crwdns222634:0crwdne222634:0</target>
         <note>key: trash_asset.modal.message_header</note>
       </trans-unit>
-      <trans-unit id="e81a14f38ebe272cb11ef90e2948a8c6602307ca" resname="trash_asset_single.modal.message">
-        <source>You have the option to delete %content_name% (%content_type%) only or to also delete the assets it is using. Make your choice:</source>
-        <target>crwdns216388:0%content_name%crwdnd216388:0%content_type%crwdne216388:0</target>
-        <note>key: trash_asset_single.modal.message</note>
-      </trans-unit>
       <trans-unit id="ff537a1e092270edf7497dc13ce051cdb458958b" resname="trash_asset_single.modal.message_main">
-        <source>You are about to delete a content with one or several asset(s) field(s).</source>
-        <target>crwdns216390:0crwdne216390:0</target>
+        <source>'%content_name%' has 1 or more asset Field(s). You have an option to send only the Content item to Trash, or to send the Content item and its assets to Trash. Please select your option:</source>
+        <target>crwdns222636:0%content_name%crwdne222636:0</target>
         <note>key: trash_asset_single.modal.message_main</note>
       </trans-unit>
       <trans-unit id="1e6a1d97cca01a288e47d2d14479274b90e6c6c1" resname="trash_container.modal.message_main">
-        <source>Deleting %content_name% will also delete its sub-items, under its location(s). To confirm, please check below</source>
-        <target>crwdns216724:0%content_name%crwdne216724:0</target>
+        <source>Sending '%content_name%' and its %children_count% Content item(s) to Trash will also send the sub-items of this Location to Trash.</source>
+        <target>crwdns222638:0%content_name%crwdnd222638:0%children_count%crwdne222638:0</target>
         <note>key: trash_container.modal.message_main</note>
+      </trans-unit>
+      <trans-unit id="ef4df0dede01e561e75568aa128a8092cbbee66a" resname="trash_container.modal.message_relations">
+        <source>'%content_name%' is in use by %reverse_relations% Content item(s). You should remove all reverse Relations before deleting the Content item.</source>
+        <target>crwdns222640:0%content_name%crwdnd222640:0%reverse_relations%crwdne222640:0</target>
+        <note>key: trash_container.modal.message_relations</note>
       </trans-unit>
     </body>
   </file>
