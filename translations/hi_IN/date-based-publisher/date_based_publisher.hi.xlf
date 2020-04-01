@@ -36,20 +36,10 @@
         <target state="translated">योगदानकर्ता</target>
         <note>key: dashboard.table.contributor</note>
       </trans-unit>
-      <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
-        <source>Last Saved</source>
-        <target state="translated">अंतिम बार सहेजा गया</target>
-        <note>key: dashboard.table.last_saved</note>
-      </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
         <source>Name</source>
         <target state="translated">नाम</target>
         <note>key: dashboard.table.name</note>
-      </trans-unit>
-      <trans-unit id="225c63842a6fc284bf8c39ee3201f7a9772154d3" resname="dashboard.table.publication_date">
-        <source>Publication Date</source>
-        <target state="translated">प्रकाशन दिनांक</target>
-        <note>key: dashboard.table.publication_date</note>
       </trans-unit>
       <trans-unit id="dcb8f016db59563b21714e4ba0688f7650fc6995" resname="menu.date_based_publisher">
         <source>Publish later</source>
@@ -60,11 +50,6 @@
         <source>Confirm</source>
         <target state="translated">पुष्टि करें</target>
         <note>key: publish_later.confirm</note>
-      </trans-unit>
-      <trans-unit id="c369cb0b16138f3c7906590f6ee5cb7cb21ecd42" resname="publish_later.date_and_time">
-        <source><![CDATA[Date & Time]]></source>
-        <target state="translated"><![CDATA[दिनांक और समय]]></target>
-        <note>key: publish_later.date_and_time</note>
       </trans-unit>
     </body>
   </file>
