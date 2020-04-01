@@ -91,11 +91,6 @@
         <target state="translated">Crea</target>
         <note>key: policy_create.save</note>
       </trans-unit>
-      <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
-        <source>Type</source>
-        <target state="translated">Tipo</target>
-        <note>key: role.policy.type</note>
-      </trans-unit>
       <trans-unit id="f11a379ba38d1a4e5fb7de3bc3a2fb76b72fe9dd" resname="role_assignment.delete">
         <source>Delete</source>
         <target state="translated">Cancella</target>
