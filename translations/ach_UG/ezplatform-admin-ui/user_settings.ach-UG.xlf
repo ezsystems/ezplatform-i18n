@@ -42,8 +42,8 @@
         <note>key: section.my_preferences</note>
       </trans-unit>
       <trans-unit id="befc3e49a7bee4547f8c720a0fbb9d03d0d3e265" resname="settings.datetime_format.preview_label">
-        <source><![CDATA[Date & Time will be displayed in this format:]]></source>
-        <target><![CDATA[crwdns217214:0crwdne217214:0]]></target>
+        <source>Date and Time will be displayed in this format:</source>
+        <target>crwdns222938:0crwdne222938:0</target>
         <note>key: settings.datetime_format.preview_label</note>
       </trans-unit>
     </body>
