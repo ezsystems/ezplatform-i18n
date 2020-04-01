@@ -6,11 +6,6 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="dfb5fd4a5dec38539847d92bb5e8417c5b82b96a" resname="ezboolean.yes">
-        <source>yes</source>
-        <target state="translated">sì</target>
-        <note>key: ezboolean.yes</note>
-      </trans-unit>
       <trans-unit id="80978f6269fb07d09667395cd32f6ebd6281ff25" resname="ezimage.file_name">
         <source>File name</source>
         <target state="translated">Nome file</target>
