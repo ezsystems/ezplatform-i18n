@@ -110,9 +110,6 @@
         <source>Create a new Object State </source>
         <target state="translated">創建新的對象狀態 </target>
         <note>key: object_state.new</note>
-        <alt-trans>
-          <target>創建新的物件狀態 </target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fabfbcda1358cae555b0b005a386cf6b20ade908" resname="object_state.update.identifier">
         <source>Identifier</source>
