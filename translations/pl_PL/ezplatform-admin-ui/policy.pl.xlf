@@ -36,11 +36,6 @@
         <target state="final">Moduł</target>
         <note>key: tab.policies.module</note>
       </trans-unit>
-      <trans-unit id="445e5dce642562c06137fef60c9a7fcf788a9da6" resname="tab.policies.no_policies" approved="yes">
-        <source>This content item has no policies.</source>
-        <target state="final">Ten element nie ma przypisanych reguł.</target>
-        <note>key: tab.policies.no_policies</note>
-      </trans-unit>
       <trans-unit id="1a761d1b544608935dfa6ce9d196cf2c31f7edda" resname="tab.policies.policies" approved="yes">
         <source>Policies</source>
         <target state="final">Reguły</target>
