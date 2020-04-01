@@ -56,8 +56,11 @@
       </trans-unit>
       <trans-unit id="d14799b2ac8854ab3f0bb9976258c3db39213d09" resname="content_type.default_availability.value" approved="yes">
         <source>{0} Not available|{1} Available</source>
-        <target state="final">{0} Dostępne|{1} Niedostępne</target>
+        <target state="final">{0} Niedostępne|{1} Dostępne</target>
         <note>key: content_type.default_availability.value</note>
+        <alt-trans>
+          <target>{0} Dostępne|{1} Niedostępne</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting" approved="yes">
         <source>Default field for sorting children</source>
@@ -89,6 +92,11 @@
         <source>Draft of the Content Type '%name%' already exists and is locked by '%userContentName%'</source>
         <target state="final">Szkic typu treści "%name%" już istnieje i jest zablokowany przez użytkownika "%userContentName%"</target>
         <note>key: content_type.edit.error.already_exists</note>
+      </trans-unit>
+      <trans-unit id="f0338ef34826caa021c41ff85413e48601af30b7" resname="content_type.edit.select_language">
+        <source>Select language</source>
+        <target state="translated">Wybierz język</target>
+        <note>key: content_type.edit.select_language</note>
       </trans-unit>
       <trans-unit id="9eb89a2f51954babc5ff51f9060cbcda91dcf408" resname="content_type.field_definitions.modal.message" approved="yes">
         <source>Do you want to delete selected field definitions?</source>
@@ -240,6 +248,11 @@
         <alt-trans>
           <target>Globalne właściwości</target>
         </alt-trans>
+      </trans-unit>
+      <trans-unit id="36fb0205d165f72c996205435b5a06ba42695bb6" resname="content_type.view.edit.notranslatable_fields_disabled">
+        <source>Some of the fields are disabled when translating a Content Type. To modify them, please edit the Content Type in the main language</source>
+        <target state="translated">Niektóre pola są wyłączone podczas tłumaczenia typu treści. Aby je zmodyfikować, edytuj typ treści w głównym języku</target>
+        <note>key: content_type.view.edit.notranslatable_fields_disabled</note>
       </trans-unit>
       <trans-unit id="7eee653a60490713df6bcf4b847853020b79a1ee" resname="content_type.view.edit.title" approved="yes">
         <source>Editing Content Type: %name%</source>
@@ -441,6 +454,16 @@
         <source>Delete</source>
         <target state="final">Usuń</target>
         <note>key: modal.delete</note>
+      </trans-unit>
+      <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
+        <source>Translations</source>
+        <target state="translated">Tłumaczenia</target>
+        <note>key: tab.name.translations</note>
+      </trans-unit>
+      <trans-unit id="eb3b504a0281951f15692e888226579aa99bb512" resname="tab.name.view">
+        <source>View</source>
+        <target state="translated">Widok</target>
+        <note>key: tab.name.view</note>
       </trans-unit>
       <trans-unit id="3e9deeb426f08a404990a6926d70558955272593" resname="yes_no" approved="yes">
         <source>{0}No|{1}Yes</source>
