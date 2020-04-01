@@ -21,6 +21,11 @@
         <target state="new">Content is ready for review</target>
         <note>key: content.review.ready</note>
       </trans-unit>
+      <trans-unit id="b19cf3651ea59d72545d9e67ccdcd5c4241a0681" resname="content.review.request">
+        <source>Content review request</source>
+        <target state="new">Content review request</target>
+        <note>key: content.review.request</note>
+      </trans-unit>
       <trans-unit id="c682e81e5f634fa80a21c654aa254f8aea97eb59" resname="content_edit.component.events">
         <source>Event(s)</source>
         <target state="new">Event(s)</target>
@@ -37,8 +42,8 @@
         <note>key: dashboard.pagination.viewing</note>
       </trans-unit>
       <trans-unit id="03b3eebd6de51e6ab83ae31dd89afb4be4d487aa" resname="dashboard.tab.my_drafts_under_review.empty">
-        <source>No content item(s) under review. Any content item under review by you or your user group will appear here.</source>
-        <target state="new">No content item(s) under review. Any content item under review by you or your user group will appear here.</target>
+        <source>No content to review. Content item(s) you or your User group can review will show up here.</source>
+        <target state="new">No content to review. Content item(s) you or your User group can review will show up here.</target>
         <note>key: dashboard.tab.my_drafts_under_review.empty</note>
       </trans-unit>
       <trans-unit id="a878bd15386bacea4af5e3356c731640710d3618" resname="dashboard.table.activity">
@@ -62,8 +67,8 @@
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
       <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
-        <source>Edit Draft</source>
-        <target state="new">Edit Draft</target>
+        <source>Edit draft</source>
+        <target state="new">Edit draft</target>
         <note>key: dashboard.table.draft.edit</note>
       </trans-unit>
       <trans-unit id="3854d449547263e6056997c3ed9135006b158de8" resname="dashboard.table.draft.transition.list">
@@ -72,8 +77,8 @@
         <note>key: dashboard.table.draft.transition.list</note>
       </trans-unit>
       <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
-        <source>Modified Language</source>
-        <target state="new">Modified Language</target>
+        <source>Modified language</source>
+        <target state="new">Modified language</target>
         <note>key: dashboard.table.modified_language</note>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
@@ -86,15 +91,10 @@
         <target state="new">Status</target>
         <note>key: dashboard.table.status</note>
       </trans-unit>
-      <trans-unit id="e299194e53c6e814246098b762ef1f9f52a93daf" resname="location_view.tab.versions.column.status">
-        <source>Status</source>
-        <target state="new">Status</target>
-        <note>key: location_view.tab.versions.column.status</note>
-      </trans-unit>
-      <trans-unit id="52e8c5a5cf9e9e8b37a631e8e04e88ea295f960b" resname="location_view.tab.versions.draft_under_edit">
-        <source>Draft under review: %workflowName%</source>
-        <target state="new">Draft under review: %workflowName%</target>
-        <note>key: location_view.tab.versions.draft_under_edit</note>
+      <trans-unit id="ce7ec27cb7ed669df0c7863ccf9d7059b804bbeb" resname="location_view.tab.versions.column.workflow">
+        <source>Workflow</source>
+        <target state="new">Workflow</target>
+        <note>key: location_view.tab.versions.column.workflow</note>
       </trans-unit>
       <trans-unit id="c77999d76931ead1fedf62e15d68ce0a5ad8be17" resname="location_view.tab.versions.pagination.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
@@ -122,14 +122,24 @@
         <note>key: modal.transition.list.title</note>
       </trans-unit>
       <trans-unit id="ed129ea3c9e2f6f00bc2ab26aa664d8ca17d3636" resname="tab.name.my_drafts_under_review">
-        <source>Drafts under review</source>
-        <target state="new">Drafts under review</target>
+        <source>Drafts to review</source>
+        <target state="new">Drafts to review</target>
         <note>key: tab.name.my_drafts_under_review</note>
+      </trans-unit>
+      <trans-unit id="b098881c168c540aaa9e23417fa38934a70300d6" resname="tab.versions.draft_under_edit">
+        <source>Drafts to review</source>
+        <target state="new">Drafts to review</target>
+        <note>key: tab.versions.draft_under_edit</note>
       </trans-unit>
       <trans-unit id="ada0fcebefac344a2447069bba0039e73865b67d" resname="transition.list.entry.author">
         <source>by %name%</source>
         <target state="new">by %name%</target>
         <note>key: transition.list.entry.author</note>
+      </trans-unit>
+      <trans-unit id="7066aa6d51c017bd3649242247aa658d0d3e69d3" resname="transition.list.entry.author.not_found">
+        <source>Can't fetch author</source>
+        <target state="new">Can't fetch author</target>
+        <note>key: transition.list.entry.author.not_found</note>
       </trans-unit>
       <trans-unit id="86c591b194c7849d9efaacc4c3f19f5722ace8e9" resname="transition.list.entry.date">
         <source>on %date%</source>
@@ -141,29 +151,49 @@
         <target state="new">Stage changed to %stageNames%</target>
         <note>key: transition.list.entry.title</note>
       </trans-unit>
-      <trans-unit id="3c190ea2e3bb750d29e646512ef8902bca079d61" resname="widget.leave_comment">
-        <source>Leave a comment</source>
-        <target state="new">Leave a comment</target>
-        <note>key: widget.leave_comment</note>
-      </trans-unit>
       <trans-unit id="b68f65d4e6b1cef42c9c47203c4d64505b5e6e33" resname="widget.message">
-        <source>Message:</source>
-        <target state="new">Message:</target>
+        <source>Message (optional):</source>
+        <target state="new">Message (optional):</target>
         <note>key: widget.message</note>
       </trans-unit>
-      <trans-unit id="d2411b1cef3e71d41a6da0e837ba7c5aee6dba07" resname="widget.message_placeholder">
+      <trans-unit id="c020300ac290bd2f5b59ad2fc190620991545286" resname="widget.message.placeholder">
         <source>Type your message...</source>
         <target state="new">Type your message...</target>
-        <note>key: widget.message_placeholder</note>
+        <note>key: widget.message.placeholder</note>
+      </trans-unit>
+      <trans-unit id="450b7cf32c9304b760988626a0f49ef0e121069c" resname="widget.reviewer.add">
+        <source>Add a reviewer</source>
+        <target state="new">Add a reviewer</target>
+        <note>key: widget.reviewer.add</note>
+      </trans-unit>
+      <trans-unit id="e156c740c9f2733e39f21f7a3ee9dd10698efe89" resname="widget.reviewer.not_permitted">
+        <source>You cannot select a User who does not have permission to view/edit this Content item</source>
+        <target state="new">You cannot select a User who does not have permission to view/edit this Content item</target>
+        <note>key: widget.reviewer.not_permitted</note>
+      </trans-unit>
+      <trans-unit id="10d296704199108e833e9d612fa24ef8061ec627" resname="widget.reviewer.optional">
+        <source>Reviewer (optional):</source>
+        <target state="new">Reviewer (optional):</target>
+        <note>key: widget.reviewer.optional</note>
+      </trans-unit>
+      <trans-unit id="a9d1fd8122c75131e2806f5a65414f1d8e286b77" resname="widget.reviewer.placeholder">
+        <source>Type to search</source>
+        <target state="new">Type to search</target>
+        <note>key: widget.reviewer.placeholder</note>
+      </trans-unit>
+      <trans-unit id="e2411c5834058e75fc735569319a09b0466df463" resname="widget.reviewer.required">
+        <source>Reviewer:</source>
+        <target state="new">Reviewer:</target>
+        <note>key: widget.reviewer.required</note>
       </trans-unit>
       <trans-unit id="3bffad6f39729eebf93f44554e1f5fb348b82354" resname="widget.submit">
-        <source>Submit</source>
-        <target state="new">Submit</target>
+        <source>Send to review</source>
+        <target state="new">Send to review</target>
         <note>key: widget.submit</note>
       </trans-unit>
       <trans-unit id="2be785be35c3a8f0ade224cfa68292614a943d78" resname="workflow.list.empty">
-        <source>The Workflow list is empty. Any Workflow will end up here.</source>
-        <target state="new">The Workflow list is empty. Any Workflow will end up here.</target>
+        <source>No workflows configured. All workflows will show up here.</source>
+        <target state="new">No workflows configured. All workflows will show up here.</target>
         <note>key: workflow.list.empty</note>
       </trans-unit>
       <trans-unit id="80d070fe8257420d8f890afbf18c47475f7ddc24" resname="workflow.list.limitations">
@@ -197,13 +227,13 @@
         <note>key: workflow.view.content_list.table.content_type</note>
       </trans-unit>
       <trans-unit id="0ce5b99c4ebf3a06b4291b9cc7587a01c0c54a73" resname="workflow.view.content_list.table.empty">
-        <source>No content item(s) under review. Any content item under review in the %stageName% stage will appear here.</source>
-        <target state="new">No content item(s) under review. Any content item under review in the %stageName% stage will appear here.</target>
+        <source>No content to review. Content item(s) to review in the %stageName% stage will show up here.</source>
+        <target state="new">No content to review. Content item(s) to review in the %stageName% stage will show up here.</target>
         <note>key: workflow.view.content_list.table.empty</note>
       </trans-unit>
       <trans-unit id="a460d78b8223b8833763f45da7e70b6f7cc250cc" resname="workflow.view.content_list.table.modified_language">
-        <source>Modified langauge</source>
-        <target state="new">Modified langauge</target>
+        <source>Modified language</source>
+        <target state="new">Modified language</target>
         <note>key: workflow.view.content_list.table.modified_language</note>
       </trans-unit>
       <trans-unit id="0c07def57bc5366e4b014b5634deeea824648a15" resname="workflow.view.content_list.table.name">
@@ -212,8 +242,8 @@
         <note>key: workflow.view.content_list.table.name</note>
       </trans-unit>
       <trans-unit id="7fd29e64293f361faa1f436ccb8f03064058d790" resname="workflow.view.content_list.table.title">
-        <source>Content item(s) in %stageName% stage (%count%)</source>
-        <target state="new">Content item(s) in %stageName% stage (%count%)</target>
+        <source>Content in %stageName% stage (%count%)</source>
+        <target state="new">Content in %stageName% stage (%count%)</target>
         <note>key: workflow.view.content_list.table.title</note>
       </trans-unit>
       <trans-unit id="20ad53e76ebb459ccc386fcc1e142f9a3cffcbcc" resname="workflow.view.content_list.table.viewing_page">
@@ -222,13 +252,13 @@
         <note>key: workflow.view.content_list.table.viewing_page</note>
       </trans-unit>
       <trans-unit id="f47c31349e59ab533fb5d0cab02364c7405470f4" resname="workflow.view.diagram">
-        <source>Workflow Diagram</source>
-        <target state="new">Workflow Diagram</target>
+        <source>Workflow diagram</source>
+        <target state="new">Workflow diagram</target>
         <note>key: workflow.view.diagram</note>
       </trans-unit>
       <trans-unit id="2852fd5a9fd7bc497fa5fe26d6f0f0ad3cb0cdf4" resname="workflow.view.tab.content_list">
-        <source>Content item(s) under review</source>
-        <target state="new">Content item(s) under review</target>
+        <source>Content under review</source>
+        <target state="new">Content under review</target>
         <note>key: workflow.view.tab.content_list</note>
       </trans-unit>
       <trans-unit id="1c7c17941fd081fc0d090a50133fcef9b5ea163e" resname="workflow.view.tab.details">
@@ -237,8 +267,8 @@
         <note>key: workflow.view.tab.details</note>
       </trans-unit>
       <trans-unit id="d383f9c102d01c10e71c120aa1b08f80dcd20fe9" resname="workflow.view.title">
-        <source>Workflow Information</source>
-        <target state="new">Workflow Information</target>
+        <source>Workflow information</source>
+        <target state="new">Workflow information</target>
         <note>key: workflow.view.title</note>
       </trans-unit>
     </body>
