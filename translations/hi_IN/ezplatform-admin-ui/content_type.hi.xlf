@@ -21,21 +21,6 @@
         <target state="translated">कांटेंट प्रकार</target>
         <note>key: content_type.content_type</note>
       </trans-unit>
-      <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability">
-        <source>Default content availability</source>
-        <target state="translated">डिफ़ॉल्ट कांटेंट उपलब्धता</target>
-        <note>key: content_type.default_availability</note>
-      </trans-unit>
-      <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting">
-        <source>Default field for sorting children</source>
-        <target state="translated">बच्चे को छाँटने के लिए डिफ़ॉल्ट फ़ील्ड चूने</target>
-        <note>key: content_type.default_children_sorting</note>
-      </trans-unit>
-      <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
-        <source>Default sort order</source>
-        <target state="translated">डिफ़ॉल्ट छाँटने का क्रम</target>
-        <note>key: content_type.default_sort</note>
-      </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
         <source>Description</source>
         <target state="translated">विवरण</target>
