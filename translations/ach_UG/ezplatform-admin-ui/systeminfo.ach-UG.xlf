@@ -161,10 +161,10 @@
         <target>crwdns215483:0crwdne215483:0</target>
         <note>key: symfony_kernel.path</note>
       </trans-unit>
-      <trans-unit id="56014c7eba59799c182934e3a0eb97eff6fd8a97" resname="symfony_kernel.rootDir">
-        <source>Root directory</source>
-        <target>crwdns215484:0crwdne215484:0</target>
-        <note>key: symfony_kernel.rootDir</note>
+      <trans-unit id="9370a0e83c7f7c06d9a328661a3031d99035d582" resname="symfony_kernel.projectDir">
+        <source>Project directory</source>
+        <target>crwdns222790:0crwdne222790:0</target>
+        <note>key: symfony_kernel.projectDir</note>
       </trans-unit>
       <trans-unit id="74fd4792096e74360c7508e16bbe7c1e121d393e" resname="symfony_kernel.version">
         <source>Version</source>
