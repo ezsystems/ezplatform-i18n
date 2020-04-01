@@ -11,11 +11,6 @@
         <target state="translated">您的帳戶已創建</target>
         <note>key: ezplatform.registration_confirmation.header</note>
       </trans-unit>
-      <trans-unit id="63659642d9d91abcadbb45d00a12db2277ce53b5" resname="ezplatform.registration_confirmation.message">
-        <source><![CDATA[Thank you for registering an account. You can now <a href="%login%">login</a>]]></source>
-        <target state="translated"><![CDATA[感謝您註冊。現在可以 <a href="%login%">登錄</a>]]></target>
-        <note>key: ezplatform.registration_confirmation.message</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
