@@ -12,8 +12,8 @@
         <note>key: content_draft_create_type.create</note>
       </trans-unit>
       <trans-unit id="c5edf119facebac72a105963da8db6be47549180" resname="content_location_add_type.add">
-        <source>Add location</source>
-        <target>crwdns214958:0crwdne214958:0</target>
+        <source>Add Location</source>
+        <target>crwdns222442:0crwdne222442:0</target>
         <note>key: content_location_add_type.add</note>
       </trans-unit>
       <trans-unit id="9e3c743fb052b12d69896a30ee9a6e1bb0c41427" resname="content_location_remove_form.remove">
@@ -32,13 +32,13 @@
         <note>key: content_translation_remove_form.remove</note>
       </trans-unit>
       <trans-unit id="4c29e9392116163c51f0e3d4d0c08ff96717f695" resname="content_type_groups_delete_form.delete">
-        <source>Delete content type groups</source>
-        <target>crwdns214962:0crwdne214962:0</target>
+        <source>Delete Content Type groups</source>
+        <target>crwdns222444:0crwdne222444:0</target>
         <note>key: content_type_groups_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="5f7545e2c370cd0511521d95d0309d264b5d16e5" resname="content_types_delete_form.delete">
-        <source>Delete content types</source>
-        <target>crwdns214963:0crwdne214963:0</target>
+        <source>Delete Content Types</source>
+        <target>crwdns222446:0crwdne222446:0</target>
         <note>key: content_types_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="56281d5c292a4fe95f9b1af5ae0b1deaebab7342" resname="ezplatform.change_user_password.change">
@@ -57,8 +57,8 @@
         <note>key: ezplatform.change_user_password.new_password</note>
       </trans-unit>
       <trans-unit id="7d2421be11a5351c12c952611c7a1a7f00f51cd9" resname="ezplatform.change_user_password.old_password">
-        <source>Old password</source>
-        <target>crwdns214967:0crwdne214967:0</target>
+        <source>Current password</source>
+        <target>crwdns222448:0crwdne222448:0</target>
         <note>key: ezplatform.change_user_password.old_password</note>
       </trans-unit>
       <trans-unit id="859bfc3d21113eecb4a19d4a9305f2519eb4b331" resname="ezplatform.forgot_user_password.email">
@@ -131,6 +131,26 @@
         <target>crwdns214981:0crwdne214981:0</target>
         <note>key: ezplatform.reset_user_password.update</note>
       </trans-unit>
+      <trans-unit id="1a2cc7b7518a1267208aafa8aa96d1dba950eeb1" resname="form.has_children.label">
+        <source>Sub-items</source>
+        <target>crwdns222450:0crwdne222450:0</target>
+        <note>key: form.has_children.label</note>
+      </trans-unit>
+      <trans-unit id="80d979ff2734a875fcd38a2178e4d28c8bf0afb5" resname="form.has_reverse_relation.label">
+        <source>Conflict with reverse Relations</source>
+        <target>crwdns222452:0crwdne222452:0</target>
+        <note>key: form.has_reverse_relation.label</note>
+      </trans-unit>
+      <trans-unit id="4a2eb58572364b0fa04e67a800e0fbb09df205be" resname="form.trash_assets.label">
+        <source>Asset Fields(s)</source>
+        <target>crwdns222454:0crwdne222454:0</target>
+        <note>key: form.trash_assets.label</note>
+      </trans-unit>
+      <trans-unit id="6bc8ac1fbf981deec94bd4a2b8aa877d60eee651" resname="form.trash_assets_non_unique.label">
+        <source>Asset Fields(s)</source>
+        <target>crwdns222456:0crwdne222456:0</target>
+        <note>key: form.trash_assets_non_unique.label</note>
+      </trans-unit>
       <trans-unit id="a1e42d4c649f7fbb614729978fea692be51d1485" resname="languages_delete_form.delete">
         <source>Delete languages</source>
         <target>crwdns214982:0crwdne214982:0</target>
@@ -147,8 +167,8 @@
         <note>key: location_move.move</note>
       </trans-unit>
       <trans-unit id="4b7b2b4de853db0d1fb1851e07f3ccc51e5713fc" resname="location_trash_form.default_trash">
-        <source>Delete only %content_name% (%content_type%)</source>
-        <target>crwdns216374:0%content_name%crwdnd216374:0%content_type%crwdne216374:0</target>
+        <source>Send only this Content item to Trash</source>
+        <target>crwdns222458:0crwdne222458:0</target>
         <note>key: location_trash_form.default_trash</note>
       </trans-unit>
       <trans-unit id="796f8196b2bc086fe788e6689a6189c79b8e047e" resname="location_trash_form.trash">
@@ -156,25 +176,25 @@
         <target>crwdns214985:0crwdne214985:0</target>
         <note>key: location_trash_form.trash</note>
       </trans-unit>
-      <trans-unit id="f9887d04de58202b07207b1521880373c00c8201" resname="location_trash_form.trash_container">
-        <source>%children_count% content items under location %content_name%</source>
-        <target>crwdns216588:0%children_count%crwdnd216588:0%content_name%crwdne216588:0</target>
-        <note>key: location_trash_form.trash_container</note>
-      </trans-unit>
       <trans-unit id="2598fe0050f38f3c02014a404ed14aee248e27d1" resname="location_trash_form.trash_with_asset">
-        <source>Delete %content_name% (%content_type%) and its related image assets</source>
-        <target>crwdns216376:0%content_name%crwdnd216376:0%content_type%crwdne216376:0</target>
+        <source>Send the Content item and its related assets to Trash</source>
+        <target>crwdns222460:0crwdne222460:0</target>
         <note>key: location_trash_form.trash_with_asset</note>
       </trans-unit>
       <trans-unit id="f86cd366867d370b0706e250355f605e2b783229" resname="policies_delete_form.delete">
-        <source>Delete policies</source>
-        <target>crwdns214986:0crwdne214986:0</target>
+        <source>Delete Policies</source>
+        <target>crwdns222462:0crwdne222462:0</target>
         <note>key: policies_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="34ba9078fe178bd49df6ada9d8357455ee8ff7b3" resname="policy_create.save">
         <source>Create</source>
         <target>crwdns214987:0crwdne214987:0</target>
         <note>key: policy_create.save</note>
+      </trans-unit>
+      <trans-unit id="deab5c91a76488732d0405e72c36702ed2aea3d6" resname="role.policy.all_functions">
+        <source>All functions</source>
+        <target>crwdns222464:0crwdne222464:0</target>
+        <note>key: role.policy.all_functions</note>
       </trans-unit>
       <trans-unit id="d29c07272fff793138cbb6f7dbb41b08a16ff815" resname="role.policy.all_modules">
         <source>All modules</source>
@@ -210,6 +230,21 @@
         <source>Content Type / Update</source>
         <target>crwdns216602:0crwdne216602:0</target>
         <note>key: role.policy.class.update</note>
+      </trans-unit>
+      <trans-unit id="504ce9f80e074eeb880d5ae5f54d4811e2ab6862" resname="role.policy.comparison">
+        <source>Comparison</source>
+        <target>crwdns222466:0crwdne222466:0</target>
+        <note>key: role.policy.comparison</note>
+      </trans-unit>
+      <trans-unit id="aa75e405b40b2c0fb249bbcc690de4e409191dd4" resname="role.policy.comparison.all_functions">
+        <source>Comparison / All functions</source>
+        <target>crwdns222468:0crwdne222468:0</target>
+        <note>key: role.policy.comparison.all_functions</note>
+      </trans-unit>
+      <trans-unit id="0a08a017bb100a4d45400bc82e83c84a89252586" resname="role.policy.comparison.view">
+        <source>Comparison / View</source>
+        <target>crwdns222470:0crwdne222470:0</target>
+        <note>key: role.policy.comparison.view</note>
       </trans-unit>
       <trans-unit id="ffe83a713e8b33558df040efa1eeadd0b1cc18e0" resname="role.policy.content">
         <source>Content</source>
@@ -401,6 +436,21 @@
         <target>crwdns216678:0crwdne216678:0</target>
         <note>key: role.policy.setup.system_info</note>
       </trans-unit>
+      <trans-unit id="2e2e751bf3201fb6c68307c683a3ac384b9ec0cf" resname="role.policy.site">
+        <source>Site</source>
+        <target>crwdns222472:0crwdne222472:0</target>
+        <note>key: role.policy.site</note>
+      </trans-unit>
+      <trans-unit id="8a7be79652e042c41e49671038f309291c780c78" resname="role.policy.site.all_functions">
+        <source>Site / All functions</source>
+        <target>crwdns222474:0crwdne222474:0</target>
+        <note>key: role.policy.site.all_functions</note>
+      </trans-unit>
+      <trans-unit id="7974d9702481b771e623dd447d3df7d8e7350e7b" resname="role.policy.site.create">
+        <source>Site / Create</source>
+        <target>crwdns222476:0crwdne222476:0</target>
+        <note>key: role.policy.site.create</note>
+      </trans-unit>
       <trans-unit id="012dce76ef569ba377ffe98ddbee8d3c3d270e15" resname="role.policy.state">
         <source>State</source>
         <target>crwdns216680:0crwdne216680:0</target>
@@ -422,13 +472,13 @@
         <note>key: role.policy.state.assign</note>
       </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
-        <source>Type</source>
-        <target>crwdns214988:0crwdne214988:0</target>
+        <source>Policy</source>
+        <target>crwdns222478:0crwdne222478:0</target>
         <note>key: role.policy.type</note>
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
-        <source>Choose a type</source>
-        <target>crwdns214989:0crwdne214989:0</target>
+        <source>Choose a Policy</source>
+        <target>crwdns222480:0crwdne222480:0</target>
         <note>key: role.policy.type.choose</note>
       </trans-unit>
       <trans-unit id="73c3d3a21c7264a991abf4e6ffe68751a1dbdb58" resname="role.policy.url">
@@ -517,8 +567,8 @@
         <note>key: role_assignment.groups</note>
       </trans-unit>
       <trans-unit id="710f8e6ab682db07141d71bc6df5246988a0560f" resname="role_assignment.locations">
-        <source>Choose Locations</source>
-        <target>crwdns214992:0crwdne214992:0</target>
+        <source>Select subtree</source>
+        <target>crwdns222482:0crwdne222482:0</target>
         <note>key: role_assignment.locations</note>
       </trans-unit>
       <trans-unit id="90266f1e47b42712e761c7fea00fb8e8c949f37e" resname="role_assignment.save">
@@ -537,8 +587,8 @@
         <note>key: role_assignment.users</note>
       </trans-unit>
       <trans-unit id="5f9be66217c70fdbd734a1ccb5968aae96bbdcd0" resname="role_assignments_delete_form.delete">
-        <source>Delete role assignments</source>
-        <target>crwdns214996:0crwdne214996:0</target>
+        <source>Delete Role assignments</source>
+        <target>crwdns222484:0crwdne222484:0</target>
         <note>key: role_assignments_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="e36e86d3568ccc02a097560444b35c69c469c531" resname="role_create.name">
@@ -567,8 +617,8 @@
         <note>key: role_update.save</note>
       </trans-unit>
       <trans-unit id="2b8a62034311f415eba9826996495c2ddd076745" resname="roles_delete_form.delete">
-        <source>Delete role</source>
-        <target>crwdns215002:0crwdne215002:0</target>
+        <source>Delete Role</source>
+        <target>crwdns222486:0crwdne222486:0</target>
         <note>key: roles_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="f3a2d2ec4f587435900fdec3f0fb973592b57147" resname="section_content_assign_form.assign">
@@ -602,8 +652,8 @@
         <note>key: section_form.name</note>
       </trans-unit>
       <trans-unit id="c33da889af5b91c7a19b0b6e522757d65b81a40d" resname="section_subtree_assign_form.assign">
-        <source>Change section</source>
-        <target>crwdns216994:0crwdne216994:0</target>
+        <source>Change Section</source>
+        <target>crwdns222488:0crwdne222488:0</target>
         <note>key: section_subtree_assign_form.assign</note>
       </trans-unit>
       <trans-unit id="ecaa9ee7b46159c99796726b8e14693d821e5500" resname="section_update_form.update">
@@ -612,13 +662,13 @@
         <note>key: section_update_form.update</note>
       </trans-unit>
       <trans-unit id="1076fdadc49ac9198c278970f355457c26075975" resname="sections_delete_form.delete">
-        <source>Delete sections</source>
-        <target>crwdns215010:0crwdne215010:0</target>
+        <source>Delete Sections</source>
+        <target>crwdns222490:0crwdne222490:0</target>
         <note>key: sections_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="6880a88558bf821ff5ca3266f2f4f42b6d911283" resname="swap_location_form.swap">
-        <source>Select content item</source>
-        <target>crwdns215011:0crwdne215011:0</target>
+        <source>Select Content item</source>
+        <target>crwdns222492:0crwdne222492:0</target>
         <note>key: swap_location_form.swap</note>
       </trans-unit>
       <trans-unit id="30b0c3c3e5e096a078005be2cc34bca6227ae381" resname="trash_empty_form.empty">
