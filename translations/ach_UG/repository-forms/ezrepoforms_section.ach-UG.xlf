@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="201c1849abe46fd6ea7013ec4bb1bc2630e46e0a" resname="section.form.delete">
         <source>Delete</source>
-        <target xml:lang="ach">crwdns212873:0crwdne212873:0</target>
+        <target>crwdns221070:0crwdne221070:0</target>
         <note>key: section.form.delete</note>
       </trans-unit>
       <trans-unit id="982207646b00655df737a8ac395ab5e0a8f8ede2" resname="section.form.save">
         <source>Save</source>
-        <target xml:lang="ach">crwdns212874:0crwdne212874:0</target>
+        <target>crwdns221072:0crwdne221072:0</target>
         <note>key: section.form.save</note>
       </trans-unit>
     </body>
