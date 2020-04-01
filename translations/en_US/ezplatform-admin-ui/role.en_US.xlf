@@ -6,35 +6,15 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="50fbff4724e8543718a7a0fe08fc1f134bbeb7d6" resname="limitation_type.none">
-        <source>No limitations</source>
-        <target state="translated">No Limitations</target>
-        <note>key: limitation_type.none</note>
-      </trans-unit>
       <trans-unit id="e4eb27643d4149122e8009b8ca930678eadcd713" resname="limitation_type.section">
         <source>Sections</source>
         <target state="translated">Sections</target>
         <note>key: limitation_type.section</note>
       </trans-unit>
-      <trans-unit id="8a7079c136f19a37dc42a6192fb94a11d19105ad" resname="policy.breadcrumb.edit">
-        <source>Edit limitations</source>
-        <target state="translated">Edit Limitations</target>
-        <note>key: policy.breadcrumb.edit</note>
-      </trans-unit>
       <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none">
         <source>None</source>
         <target state="translated">None</target>
         <note>key: policy.limitation.none</note>
-      </trans-unit>
-      <trans-unit id="aefaf3a17b8493e63c82678611eb6eacbcc45d19" resname="policy.view.edit.title">
-        <source>Edit limitations</source>
-        <target state="translated">Edit Limitations</target>
-        <note>key: policy.view.edit.title</note>
-      </trans-unit>
-      <trans-unit id="e182986ba1f94484d60ea6b1db7cc2707478f2a1" resname="policy.view.limitations.title">
-        <source>Edit limitations</source>
-        <target state="translated">Edit Limitations</target>
-        <note>key: policy.view.limitations.title</note>
       </trans-unit>
       <trans-unit id="35aa96a30453aa7b604432885032fd961a7f508a" resname="policy.view.list.panel.policies.action.edit">
         <source>Edit</source>
