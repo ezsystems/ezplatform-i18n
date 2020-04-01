@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="213da4efa5baa8b47c34dc4b645df7115d07d66e" resname="ezrichtext.name">
         <source>Rich text</source>
-        <target xml:lang="ach">crwdns216832:0crwdne216832:0</target>
+        <target>crwdns220178:0crwdne220178:0</target>
         <note>key: ezrichtext.name</note>
       </trans-unit>
     </body>
