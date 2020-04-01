@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="e4b8188e898e654dae14fc6b18133958f8e56084" resname="translation.remove.success">
         <source>Translation '%languageCode%' removed from content '%name%'.</source>
-        <target xml:lang="ach">crwdns215492:0%languageCode%crwdnd215492:0%name%crwdne215492:0</target>
+        <target>crwdns219640:0%languageCode%crwdnd219640:0%name%crwdne219640:0</target>
         <note>key: translation.remove.success</note>
       </trans-unit>
     </body>
