@@ -11,11 +11,6 @@
         <target state="final">Gepland</target>
         <note>key: tab.name.all_scheduled</note>
       </trans-unit>
-      <trans-unit id="20a2c0c41c7091973e1490a65b2268e1f7794eda" resname="tab.name.my_scheduled" approved="yes">
-        <source>My scheduled</source>
-        <target state="final">Gepland</target>
-        <note>key: tab.name.my_scheduled</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
