@@ -361,7 +361,7 @@
       </trans-unit>
       <trans-unit id="fabc9be57b82439dac2f612b9c2a171eb7ce6e04" resname="field_definition.ezobjectrelation.selection_content_types">
         <source>Allowed content types</source>
-        <target state="translated">Erlaubte Inhaltstypen</target>
+        <target state="translated">Erlaubte Content-Typen</target>
         <note>key: field_definition.ezobjectrelation.selection_content_types</note>
       </trans-unit>
       <trans-unit id="440d8fe80bb8a07b62f17d843721285b2cf8a4d5" resname="field_definition.ezobjectrelation.selection_root">
