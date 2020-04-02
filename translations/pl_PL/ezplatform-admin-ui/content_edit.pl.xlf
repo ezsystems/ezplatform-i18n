@@ -14,11 +14,6 @@
           <target>Szkic został pomyślnie zapisany.</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="e735240930546ee4e9ae782ffa95ee09d846665a" resname="content.field.non_editable" approved="yes">
-        <source>Field type is not editable</source>
-        <target state="final">To pole nie jest edytowalne</target>
-        <note>key: content.field.non_editable</note>
-      </trans-unit>
       <trans-unit id="07d6fb7c02b8730592a3bb68a315caa63031d44e" resname="content.published.success" approved="yes">
         <source>Content published.</source>
         <target state="final">Treść opublikowano.</target>
@@ -36,27 +31,6 @@
         <source>Created by %name%</source>
         <target state="final">Utworzono przez %name%</target>
         <note>key: created_by</note>
-      </trans-unit>
-      <trans-unit id="0474be007e2cbb859dcec4d70ced364af71ba119" resname="editing_in_language" approved="yes">
-        <source>Editing - %contentName% in %languageName%</source>
-        <target state="final">Edytujesz %contentName% w języku %languageName%</target>
-        <note>key: editing_in_language</note>
-        <alt-trans>
-          <target>Edycja - %contentName% w języku %languageName%</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="4e46e160f661315fed793049088d1426ae440b56" resname="editing_in_language_based_on" approved="yes">
-        <source>Editing - %contentName% in %languageName% based on %baseLanguageName%</source>
-        <target state="final">Edytujesz %contentName% w języku %languageName% bazując na %baseLanguageName%</target>
-        <note>key: editing_in_language_based_on</note>
-        <alt-trans>
-          <target>Edycja - %contentName% w języku %languageName% bazując na %baseLanguageName%</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="009667fab56f0bec66634f009a75ffd9425f2987" resname="fieldtype.translation_is_disabled" approved="yes">
-        <source>Translation for %fieldName% is disabled</source>
-        <target state="final">Tłumaczenie dla %fieldName% jest wyłączone</target>
-        <note>key: fieldtype.translation_is_disabled</note>
       </trans-unit>
       <trans-unit id="876d7bdba03c72251ec4c2dc827fc54af7889091" resname="location_id" approved="yes">
         <source>Location ID: %locationId%</source>

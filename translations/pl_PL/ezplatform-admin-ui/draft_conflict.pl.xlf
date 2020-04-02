@@ -11,20 +11,10 @@
         <target state="final">Możesz edytować jeden z Twoich istniejących już szkiców lub utworzyć nowy.</target>
         <note>key: draft.conflict.choice</note>
       </trans-unit>
-      <trans-unit id="57ae8e493adef8a884a3f0c5e9e4501b7f2ec395" resname="draft.conflict.header" approved="yes">
-        <source>Draft conflict when editing</source>
-        <target state="final">Konflikt szkiców podczas edycji</target>
-        <note>key: draft.conflict.header</note>
-      </trans-unit>
-      <trans-unit id="d5fdbb680e6950e955c933e05f15f861c2020517" resname="draft.conflict.number" approved="yes">
-        <source>{1}There are %number% draft for this content item.|]1,Inf[ There are %number% drafts for this content item</source>
-        <target state="final">{1}Istnieje %number% szkic tego obiektu.|[2,4]Istnieją %number% szkice tego obiektu.|]4,Inf[Istnieje %number% szkiców tego obiektu.</target>
-        <note>key: draft.conflict.number</note>
-      </trans-unit>
-      <trans-unit id="a4297fe31e8eb3307caa2cf855328056c3b98962" resname="tab.versions.action.delete" approved="yes">
-        <source>Add draft</source>
-        <target state="final">Dodaj szkic</target>
-        <note>key: tab.versions.action.delete</note>
+      <trans-unit id="051e6a67518db4bc613d03a2cbfc5516c539ad8f" resname="draft.conflict.choice_content_is_user">
+        <source>You can edit any of your existing draft(s)</source>
+        <target state="translated">Możesz edytować dowolny szkic, który został utworzony przez Ciebie</target>
+        <note>key: draft.conflict.choice_content_is_user</note>
       </trans-unit>
     </body>
   </file>

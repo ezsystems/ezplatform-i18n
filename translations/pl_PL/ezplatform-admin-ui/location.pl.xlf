@@ -14,14 +14,6 @@
           <target>Lokalizacja '%name%' została skopiowana do lokalizacji '%location%'</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="656c4be212bdf722670400927051cb39593938a5" resname="location.copy_subtree.success" approved="yes">
-        <source>Subtree '%name%' copied to location '%location%'</source>
-        <target state="final">Skopiowano poddrzewo '%name%' do lokalizacji '%location%'</target>
-        <note>key: location.copy_subtree.success</note>
-        <alt-trans>
-          <target>Poddrzewo '%name%' zostało skopiowane do lokalizacji '%location%'</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="a9e3a80cf0b00f8a6b7d4e6ba0fa3ace6fe3f1f3" resname="location.create.success" approved="yes">
         <source>Location '%name%' created.</source>
         <target state="final">Utworzono lokalizację '%name%'.</target>
@@ -49,22 +41,6 @@
           <target>Lokalizacja '%name%' została przeniesiona do lokalizacji '%location%'</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit id="20dae8cf8c7cf8972d802224728554706e2b4699" resname="location.swap.success" approved="yes">
-        <source>Location '%name%' swaped with location '%location%'</source>
-        <target state="final">Zamieniono lokalizację '%name%' z lokalizacją '%location%'</target>
-        <note>key: location.swap.success</note>
-        <alt-trans>
-          <target>Lokalizacja '%name%' została zamieniona z lokalizacją '%location%'</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="48699e3e0320623a7ac78df3b808f6341dd7d4c3" resname="location.trash.success" approved="yes">
-        <source>Location '%name%' moved to trash.</source>
-        <target state="final">Przeniesiono lokalizację '%name%' do kosza.</target>
-        <note>key: location.trash.success</note>
-        <alt-trans>
-          <target>Lokalizacja '%name%' została przeniesiona do kosza.</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="d42824d95700bfdb3f95a6c408be1cab227988f5" resname="location.update.success" approved="yes">
         <source>Location '%name%' updated.</source>
         <target state="final">Zaktualizowano lokalizację '%name%'.</target>
@@ -79,14 +55,6 @@
         <note>key: location.update_success.success.hidden</note>
         <alt-trans>
           <target>Lokalizacja '%name%' została ukryta.</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="687bb78ae5d6531f6a5dbaaa91b90db7a0700f6e" resname="location.update_success.success.unhidden" approved="yes">
-        <source>Location '%name%' unhidden.</source>
-        <target state="final">Ujawniono lokalizację '%name%'.</target>
-        <note>key: location.update_success.success.unhidden</note>
-        <alt-trans>
-          <target>Lokalizacja '%name%' została pokazana.</target>
         </alt-trans>
       </trans-unit>
     </body>

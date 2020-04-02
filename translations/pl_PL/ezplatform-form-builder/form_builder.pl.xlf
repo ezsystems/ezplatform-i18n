@@ -16,11 +16,6 @@
         <target state="final">Utwórz formularz</target>
         <note>key: create.form</note>
       </trans-unit>
-      <trans-unit id="3f906d4d0bd35a175f501ab96fc7d4c2b2c3ec71" resname="drag.drop.call.to.action" approved="yes">
-        <source>Create a form by dragging and dropping elements here</source>
-        <target state="final">Przeciągnij tutaj elementy formularza</target>
-        <note>key: drag.drop.call.to.action</note>
-      </trans-unit>
       <trans-unit id="81feac9c1754220f9ea3354d88cf49d263c09941" resname="field.remove" approved="yes">
         <source>Remove</source>
         <target state="final">Usuń</target>
@@ -36,16 +31,6 @@
         <target state="final">Podgląd niedostępny.</target>
         <note>key: form.no_preview</note>
       </trans-unit>
-      <trans-unit id="e59a9bc08909c5317a5bbb26eafd46ed15948021" resname="form_builder.attribute.button.action.empty" approved="yes">
-        <source>Select an action after form submission </source>
-        <target state="final">Wybierz akcję do wykonania po przesłaniu formularza </target>
-        <note>key: form_builder.attribute.button.action.empty</note>
-      </trans-unit>
-      <trans-unit id="91032a3db10886a27944d24b423e40b7237205e8" resname="form_builder.attribute.button.action.location_id" approved="yes">
-        <source>Redirect to a content item</source>
-        <target state="final">Przekieruj do elementu</target>
-        <note>key: form_builder.attribute.button.action.location_id</note>
-      </trans-unit>
       <trans-unit id="cbee6bba404b084caf023187307292057b5bf510" resname="form_builder.attribute.button.action.message" approved="yes">
         <source>Show a message</source>
         <target state="final">Pokaż wiadomość</target>
@@ -60,11 +45,6 @@
         <source>True</source>
         <target state="final">Prawda</target>
         <note>key: form_builder.submission.boolean.true</note>
-      </trans-unit>
-      <trans-unit id="fcd82220602951cb309c6b53d8a1a5c85f241a21" resname="invalid.fields" approved="yes">
-        <source>Not all the fields were configured correctly. Please, provide a proper configuration.</source>
-        <target state="final">Nie skonfigurowano wszystkich pól. Popraw konfigurację.</target>
-        <note>key: invalid.fields</note>
       </trans-unit>
       <trans-unit id="4ca91a461622421947258e5e7e305704088e4b7b" resname="no.fields.in.form" approved="yes">
         <source>There are no fields in this form. Create your form.</source>
@@ -85,11 +65,6 @@
         <source>Select content</source>
         <target state="final">Wybierz element</target>
         <note>key: select.content</note>
-      </trans-unit>
-      <trans-unit id="fea3ad9d846ad8a0a3d3ff18e1882df57ef4ea73" resname="select.content.item" approved="yes">
-        <source>Select content item</source>
-        <target state="final">Wybierz element</target>
-        <note>key: select.content.item</note>
       </trans-unit>
     </body>
   </file>

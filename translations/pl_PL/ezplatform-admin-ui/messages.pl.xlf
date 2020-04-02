@@ -11,6 +11,11 @@
         <target state="final">Zamknij</target>
         <note>key: alert.close</note>
       </trans-unit>
+      <trans-unit id="2b3f00f63c14c6dc9300d54b42159218f6b5f260" resname="authentication.credentials_expired.reset_password">
+        <source>Reset password</source>
+        <target state="translated">Resetuj hasło</target>
+        <note>key: authentication.credentials_expired.reset_password</note>
+      </trans-unit>
       <trans-unit id="d2293b387ecddbc6173fd579abd37873fcbc5e97" resname="authentication.forgot_password" approved="yes">
         <source>Forgot password?</source>
         <target state="final">Nie pamiętasz hasła?</target>
@@ -36,6 +41,11 @@
         <target state="final">Nazwa użytkownika</target>
         <note>key: authentication.username</note>
       </trans-unit>
+      <trans-unit id="b1b04388859d233f757e4f6376af3fc317d4baa6" resname="base.footer_copyright">
+        <source>eZ Platform ©1999-%current_year% %ez_link_open%eZ Systems AS%ez_link_close% and others.</source>
+        <target state="translated">eZ Platform ©1999-%current_year% %ez_link_open%eZ Systems AS%ez_link_close% i inni.</target>
+        <note>key: base.footer_copyright</note>
+      </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin" approved="yes">
         <source>Admin</source>
         <target state="final">Admin</target>
@@ -46,10 +56,50 @@
         <target state="final">Preferencje użytkownika</target>
         <note>key: breadcrumb.user_preferences</note>
       </trans-unit>
+      <trans-unit id="d23f0200b4769a69d2414de6d96117fed4601326" resname="character_counter.characters">
+        <source>characters</source>
+        <target state="translated">znaków</target>
+        <note>key: character_counter.characters</note>
+      </trans-unit>
+      <trans-unit id="b3640cba0a21cf24519f469dc0bf31c036efdc28" resname="character_counter.words">
+        <source>words</source>
+        <target state="translated">wyrazów</target>
+        <note>key: character_counter.words</note>
+      </trans-unit>
+      <trans-unit id="22d5072ec8766c24df085f05aaeda403f02ec585" resname="content.hide.modal.cancel">
+        <source>Cancel</source>
+        <target state="translated">Anuluj</target>
+        <note>key: content.hide.modal.cancel</note>
+      </trans-unit>
+      <trans-unit id="0d905b86763ff15a40c8c15f0960d6038bdfd008" resname="content.hide.modal.confirm">
+        <source>Confirm</source>
+        <target state="translated">Zatwierdź</target>
+        <note>key: content.hide.modal.confirm</note>
+      </trans-unit>
       <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash" approved="yes">
         <source>In Trash</source>
         <target state="final">W koszu</target>
         <note>key: content.in_trash</note>
+      </trans-unit>
+      <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
+        <source>%identifier%</source>
+        <target state="translated">%identifier%</target>
+        <note>key: content_type.breadcrumb.view</note>
+      </trans-unit>
+      <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
+        <source>%name%</source>
+        <target state="translated">%name%</target>
+        <note>key: content_type.view.view.title</note>
+      </trans-unit>
+      <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
+        <source>Content Types</source>
+        <target state="translated">Typy treści</target>
+        <note>key: content_type_group.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
+        <source>%identifier%</source>
+        <target state="translated">%identifier%</target>
+        <note>key: content_type_group.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="fe1c876b1a9bcde155f03227bce4ae4fbd54c24f" resname="custom_url_alias_add_form.add" approved="yes">
         <source>Create</source>
@@ -60,52 +110,6 @@
         <source>Delete</source>
         <target state="final">Usuń</target>
         <note>key: custom_url_alias_add_form.remove</note>
-      </trans-unit>
-      <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions" approved="yes">
-        <source><![CDATA[You can also go back to the <a class="error-page__link" href="%dashboard%">dashboard</a> here or <a class="error-page__link" href="%search%">search</a> for other content.]]></source>
-        <target state="final"><![CDATA[Możesz również wrócić do <a class="error-page__link" href="%dashboard%">panelu sterowania</a> albo <a class="error-page__link" href="%search%">szukać</a> innych elementów.]]></target>
-        <note>key: error.page.403.actions</note>
-      </trans-unit>
-      <trans-unit id="2532cb9ce6fdf46258c107f3d20888c506115ef6" resname="error.page.403.message" approved="yes">
-        <source><![CDATA[It’s an error 403. You don’t have permission to retrieve or access this page.<br/>Please contact your eZ Platform Administrator to request access to<br/>this content or modify your profile.]]></source>
-        <target state="final"><![CDATA[Wystąpił błąd 403. Nie masz uprawnień do dostępu do tej strony.<br/>Skontaktuj się ze swoim administratorem eZ Platform aby uzyskać dostęp<br/>do tego elementu lub zmodyfikować swój profil.]]></target>
-        <note>key: error.page.403.message</note>
-      </trans-unit>
-      <trans-unit id="b1712cfa4c13874debdcc0f1f4a3b9fa4af3c966" resname="error.page.403.title" approved="yes">
-        <source>You don’t have permission for this page. Sorry!</source>
-        <target state="final">Nie masz uprawnień do tej strony. Przepraszamy!</target>
-        <note>key: error.page.403.title</note>
-      </trans-unit>
-      <trans-unit id="638be721c063eee72e70484fe99a25b2a990bb18" resname="error.page.404.actions" approved="yes">
-        <source><![CDATA[Check the URL, in case there would be an error in there.<br/>If not, go to the <a class="error-page__link" href="%dashboard%">dashboard</a> or <a class="error-page__link" href="%search%">search</a> for specific content.]]></source>
-        <target state="final"><![CDATA[Sprawdź, czy URL nie zawiera błędów.<br/> Jeśli nie, przejdź do <a class="error-page__link" href="%dashboard%">panelu sterowania</a> albo <a class="error-page__link" href="%search%">szukaj</a> konkretnego elementu.]]></target>
-        <note>key: error.page.404.actions</note>
-      </trans-unit>
-      <trans-unit id="7027b2adcf028b82111334763e40823cd85a52fa" resname="error.page.404.message" approved="yes">
-        <source><![CDATA[It’s an error 404. The page you requested was not found.<br/>It might have been deleted or might be temporarily unavailable.]]></source>
-        <target state="final"><![CDATA[Wystąpił błąd 404. Nie zaleziono żądanej strony.<br/>Mogła zostać usunięta lub jest czasowo niedostępna.]]></target>
-        <note>key: error.page.404.message</note>
-      </trans-unit>
-      <trans-unit id="156b8a7f797412e60bdba432064e2dade6d4a7af" resname="error.page.404.title" approved="yes">
-        <source>Something went wrong. Sorry!</source>
-        <target state="final">Coś poszło nie tak.</target>
-        <note>key: error.page.404.title</note>
-        <alt-trans>
-          <target>Ups! Coś poszło nie tak.</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions" approved="yes">
-        <source><![CDATA[Please contact your eZ Platform Administrator and inform her/him about the time the error occurred, the URL in your browser window and anything related you think may have caused the error.<br/>You can also go back or try to reload the application.]]></source>
-        <target state="final"><![CDATA[Skontaktuj się ze swoim administratorem eZ Platform i podaj czas wystąpienia błędu, adres URL w oknie przeglądarki oraz inne informacje o błędzie.<br/>Możesz też przejść wstecz lub przeładować aplikację.]]></target>
-        <note>key: error.page.default.actions</note>
-        <alt-trans>
-          <target><![CDATA[Skontaktuj się ze swoim administratorem eZ Platform i podaj czas wystąpienia błędu, adres URL w oknie przeglądarki oraz inne informacjeo błędzie.<br/>Możesz też przejść wstecz lub przeładować aplikację.]]></target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="8338c190462d420926edf71e8d4cddcae710d361" resname="error.page.default.message" approved="yes">
-        <source>It's an error 500, an internal server error. The server was unable to complete your request and it's not your fault.</source>
-        <target state="final">Wystąpił błąd 500, wewnętrzny błąd serwera. Z powodów niezależnych od ciebie serwer nie był w stanie zrealizować żądania.</target>
-        <note>key: error.page.default.message</note>
       </trans-unit>
       <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title" approved="yes">
         <source>Something went wrong. Sorry!</source>
@@ -125,48 +129,10 @@
         <target state="final">Usuń autora</target>
         <note>key: ezauthor.action.delete</note>
       </trans-unit>
-      <trans-unit id="f73d03811ba3033d6b44986d55ca728c5a88b168" resname="ezplatform.forgot_user_password.contact_administrator" approved="yes">
-        <source>If you do not remember your login, please contact the site administrator.</source>
-        <target state="final">Jeśli nie pamiętasz swojego loginu, skontaktuj się z administratorem strony.</target>
-        <note>key: ezplatform.forgot_user_password.contact_administrator</note>
-      </trans-unit>
-      <trans-unit id="ffb6990d5e75fe6dc86e94166b77e40a79e4e2a3" resname="ezplatform.forgot_user_password.login" approved="yes">
-        <source>This email is connected with several accounts. Please enter your login.</source>
-        <target state="final">Ten adres email jest połączony z kilkoma kontami. Podaj swój login.</target>
-        <note>key: ezplatform.forgot_user_password.login</note>
-      </trans-unit>
-      <trans-unit id="db6dd97ed4776bb0e9843554c48e3962327e8f50" resname="ezplatform.forgot_user_password.message" approved="yes">
-        <source><![CDATA[Hi,
-        <br /><br />
-        We have received a request to reset the password for your account on site. Click “reset password” below to choose a new password:
-        <br /><br />
-        <a href="%reset_password%">Reset password<a/>
-        <br /><br />
-        If you did not request a password reset, please ignore this email, and your password will remain the same.]]></source>
-        <target state="final"><![CDATA[Witaj,
-        <br /><br />
-        Otrzymaliśmy prośbę o zresetowanie hasła do twojego konta. Kliknij "Zresetuj hasło" poniżej aby wybrać nowe hasło:
-        <br /><br />
-        <a href="%reset_password%">Zresetuj hasło<a/>
-        <br /><br />
-        Jeśli nie prosiłeś o reset hasła, zignoruj ten e-mail, a hasło pozostanie bez zmian.]]></target>
-        <note>key: ezplatform.forgot_user_password.message</note>
-      </trans-unit>
       <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password" approved="yes">
         <source>Reset your password</source>
         <target state="final">Zresetuj swoje hasło</target>
         <note>key: ezplatform.forgot_user_password.reset_your_password</note>
-      </trans-unit>
-      <trans-unit id="36aa6723300a41ba80ee0096c0d2bcf34fd48aca" resname="ezplatform.forgot_user_password.success" approved="yes">
-        <source><![CDATA[<p>We have sent an email to the email address of your account. You should receive the email shortly.</p>
-            <p>If the email is slow to arrive, check your spam folders.</p>
-            <p>If you receive no email, it’s that your username or email is unknown to us, so please double check.</p>
-            <p>If you reset your password multiple times, only the most recent email link will be valid</p>]]></source>
-        <target state="final"><![CDATA[<p>Wysłaliśmy e-mail na adres powiązany z tym kontem. Wkrótce powinien pojawić się w skrzynce odbiorczej.</p>
-            <p>Jeśli e-mail nie dotrze w najbliższym czasie, sprawdź folder ze spamem.</p>
-            <p>Jeśli nie otrzymasz e-maila, oznacza to, że nie rozpoznajemy twojej nazwy użytkownika albo adresy e-mail.</p>
-            <p>Jeśli wielokrotnie zresetujesz hasło, tylko ostatni e-mail z linkiem będzie działał.</p>]]></target>
-        <note>key: ezplatform.forgot_user_password.success</note>
       </trans-unit>
       <trans-unit id="40dd2934190789b016771a0fc3b41dcdfe0bb920" resname="ezplatform.reset_user_password.change_password" approved="yes">
         <source>Change password</source>
@@ -177,11 +143,6 @@
         <source><![CDATA[This link is not valid anymore, you can <a href="%forgot_user_password%">generate a new link</a> to reset your password.]]></source>
         <target state="final"><![CDATA[Ten link nie jest już aktualny, możesz <a href="%forgot_user_password%">wygenerować nowy link</a> aby zresetować hasło.]]></target>
         <note>key: ezplatform.reset_user_password.link_is_not_valid</note>
-      </trans-unit>
-      <trans-unit id="5149c594d64197e519d38a1a2e7368140716bb81" resname="ezplatform.reset_user_password.success" approved="yes">
-        <source><![CDATA[Congrats, your password has been changed, you can now <a href="%login%">login</a> to eZ Platform.]]></source>
-        <target state="final"><![CDATA[Twoje hasło zostało zmienione, możesz teraz <a href="%login%">zalogować się</a> do eZ Platform.]]></target>
-        <note>key: ezplatform.reset_user_password.success</note>
       </trans-unit>
       <trans-unit id="5cf420af18fd4a8d856fd30bc13aea5039369f9b" resname="form.cancel" approved="yes">
         <source>Cancel</source>
@@ -213,23 +174,10 @@
         <target state="final">Przypisz treść</target>
         <note>key: section.assign,content</note>
       </trans-unit>
-      <trans-unit id="6a17e9f4ed416563fc8c3e188509b8eec8a6f7c0" resname="section.modal.message" approved="yes">
-        <source>Do you want to delete section?</source>
-        <target state="final">Czy chcesz usunąć sekcję?</target>
-        <note>key: section.modal.message</note>
-      </trans-unit>
-      <trans-unit id="1152c93462d8bed85642b961f01ed63a6f2525ab" resname="tab.locations.location_content_swap" approved="yes">
-        <source>Location Content Swap</source>
-        <target state="final">Zamiana lokalizacji</target>
-        <note>key: tab.locations.location_content_swap</note>
-        <alt-trans>
-          <target>Zamiana lokalizacji treści</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="27d429c3dcff70494c4080957b05a9db5255f854" resname="tab.locations.swap_with_another" approved="yes">
-        <source>Swap the content item at this location with another</source>
-        <target state="final">Zamień lokalizację dla tego elementu</target>
-        <note>key: tab.locations.swap_with_another</note>
+      <trans-unit id="1246bcf8752e249bdec2067d43cfae2a5103bc5f" resname="tab.view.preview">
+        <source>Preview</source>
+        <target state="translated">Podgląd</target>
+        <note>key: tab.view.preview</note>
       </trans-unit>
       <trans-unit id="4e7901a215220faba4d546cd3fb63f3e2a64e849" resname="trash.delete.all.confirm" approved="yes">
         <source>Are you sure you want to permanently delete %trashItemsCount% item(s)?</source>
@@ -250,11 +198,6 @@
         <source>Cancel</source>
         <target state="final">Anuluj</target>
         <note>key: trash.form.cancel</note>
-      </trans-unit>
-      <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message" approved="yes">
-        <source>Are you sure you want to send this content item to trash?</source>
-        <target state="final">Czy na pewno chcesz umieścić ten element w koszu?</target>
-        <note>key: trash.modal.message</note>
       </trans-unit>
     </body>
   </file>
