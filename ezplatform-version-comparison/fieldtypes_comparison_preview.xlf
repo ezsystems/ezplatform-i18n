@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="1b57134c7ac39b6eefd0d4a1e8d0cc3c70871270" resname="ezauthor.email">
         <source>Email</source>
-        <target state="new">Email</target>
+        <target>Email</target>
         <note>key: ezauthor.email</note>
       </trans-unit>
       <trans-unit id="06a34ac23ac86f7c4368380203e3dd4d91489fa0" resname="ezauthor.name">
         <source>Name</source>
-        <target state="new">Name</target>
+        <target>Name</target>
         <note>key: ezauthor.name</note>
       </trans-unit>
       <trans-unit id="540d6bae1cf130f98f00799d4ef1c6f6b5752907" resname="ezboolean.no">
@@ -28,42 +28,42 @@
       </trans-unit>
       <trans-unit id="a871dec7f18c06b9061bc2aae9af1aafe1ad1600" resname="ezdatetime.useseconds.enabled">
         <source>`The date format is based on your user preferences and does not include seconds even if the Field allows it`</source>
-        <target state="new">`The date format is based on your user preferences and does not include seconds even if the Field allows it`</target>
+        <target>`The date format is based on your user preferences and does not include seconds even if the Field allows it`</target>
         <note>key: ezdatetime.useseconds.enabled</note>
       </trans-unit>
       <trans-unit id="bf1525899659fa5ea6c18aa4bf63d596fecbf97e" resname="ezgmaplocation.address">
         <source>Address</source>
-        <target state="new">Address</target>
+        <target>Address</target>
         <note>key: ezgmaplocation.address</note>
       </trans-unit>
       <trans-unit id="706821bf7c10bf965680842f9e0b0bad3ab737ed" resname="ezgmaplocation.latitude">
         <source>Latitude</source>
-        <target state="new">Latitude</target>
+        <target>Latitude</target>
         <note>key: ezgmaplocation.latitude</note>
       </trans-unit>
       <trans-unit id="38022a4ef42d878eb38c71537fdc4c72b5fbb989" resname="ezgmaplocation.location_properties">
         <source>Location properties</source>
-        <target state="new">Location properties</target>
+        <target>Location properties</target>
         <note>key: ezgmaplocation.location_properties</note>
       </trans-unit>
       <trans-unit id="ba4a253dc02df12654dabc50ef81b428ee888bcf" resname="ezgmaplocation.longitude">
         <source>Longitude</source>
-        <target state="new">Longitude</target>
+        <target>Longitude</target>
         <note>key: ezgmaplocation.longitude</note>
       </trans-unit>
       <trans-unit id="96af58f2bb1ab9fbf0a4cf8857f5dc594c74b361" resname="ezurl.link">
         <source>URL</source>
-        <target state="new">URL</target>
+        <target>URL</target>
         <note>key: ezurl.link</note>
       </trans-unit>
       <trans-unit id="f3fd970cc20a838371851ba9d0da8588c00a7b96" resname="ezurl.text">
         <source>Text</source>
-        <target state="new">Text</target>
+        <target>Text</target>
         <note>key: ezurl.text</note>
       </trans-unit>
       <trans-unit id="977cb55c24b1708d46ccbd753c2cea745976ae21" resname="fieldview.field.empty">
         <source>This field is empty</source>
-        <target state="new">This field is empty</target>
+        <target>This field is empty</target>
         <note>key: fieldview.field.empty</note>
       </trans-unit>
     </body>

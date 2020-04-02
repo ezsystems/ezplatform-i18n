@@ -116,6 +116,11 @@
         <target state="new">None</target>
         <note>key: matcher.none</note>
       </trans-unit>
+      <trans-unit id="c1881886ded5201f8e3995cfb4ab2cfe7637b329" resname="modal.transition.list.close_label">
+        <source>Close</source>
+        <target state="new">Close</target>
+        <note>key: modal.transition.list.close_label</note>
+      </trans-unit>
       <trans-unit id="3966df7d25826e3f6c5313b625810c1334559e7c" resname="modal.transition.list.title">
         <source>Event timeline</source>
         <target state="new">Event timeline</target>
@@ -171,20 +176,10 @@
         <target state="new">You cannot select a User who does not have permission to view/edit this Content item</target>
         <note>key: widget.reviewer.not_permitted</note>
       </trans-unit>
-      <trans-unit id="10d296704199108e833e9d612fa24ef8061ec627" resname="widget.reviewer.optional">
-        <source>Reviewer (optional):</source>
-        <target state="new">Reviewer (optional):</target>
-        <note>key: widget.reviewer.optional</note>
-      </trans-unit>
       <trans-unit id="a9d1fd8122c75131e2806f5a65414f1d8e286b77" resname="widget.reviewer.placeholder">
         <source>Type to search</source>
         <target state="new">Type to search</target>
         <note>key: widget.reviewer.placeholder</note>
-      </trans-unit>
-      <trans-unit id="e2411c5834058e75fc735569319a09b0466df463" resname="widget.reviewer.required">
-        <source>Reviewer:</source>
-        <target state="new">Reviewer:</target>
-        <note>key: widget.reviewer.required</note>
       </trans-unit>
       <trans-unit id="3bffad6f39729eebf93f44554e1f5fb348b82354" resname="widget.submit">
         <source>Send to review</source>
