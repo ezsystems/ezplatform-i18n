@@ -82,8 +82,8 @@
         <note>key: content.scheduled_hide.message</note>
       </trans-unit>
       <trans-unit id="d72a29b32751f629c33f6223c5b6477308a0ebb4" resname="content.trashed">
-        <source>Content moved to trash</source>
-        <target>crwdns215658:0crwdne215658:0</target>
+        <source>Content moved to Trash</source>
+        <target>crwdns223396:0crwdne223396:0</target>
         <note>key: content.trashed</note>
       </trans-unit>
       <trans-unit id="242a195e1172964f09692a16fc39ccb8a2b69605" resname="content.updated">
