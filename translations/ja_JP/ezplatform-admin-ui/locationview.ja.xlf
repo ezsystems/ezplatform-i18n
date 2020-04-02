@@ -26,11 +26,6 @@
         <target state="translated">セクション名</target>
         <note>key: tab.details.section_name</note>
       </trans-unit>
-      <trans-unit id="69dea878e2926e6a40b3d4e79b1f723d0aa801c7" resname="tab.details.state_name">
-        <source>Current object state</source>
-        <target state="translated">名前</target>
-        <note>key: tab.details.state_name</note>
-      </trans-unit>
       <trans-unit id="69ca343732e6be688ff4606c3a9b15d83d531233" resname="tab.details.translations">
         <source>Translations</source>
         <target state="translated">翻訳言語</target>
@@ -40,11 +35,6 @@
         <source>Add Location</source>
         <target state="translated">ロケーションの追加</target>
         <note>key: tab.locations.action.add</note>
-      </trans-unit>
-      <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
-        <source>Content locations</source>
-        <target state="translated">コンテンツロケーション</target>
-        <note>key: tab.locations.content_locations</note>
       </trans-unit>
       <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path">
         <source>Path</source>
