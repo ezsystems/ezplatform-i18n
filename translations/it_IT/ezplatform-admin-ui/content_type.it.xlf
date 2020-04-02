@@ -16,40 +16,10 @@
         <target state="translated">Contenitore</target>
         <note>key: content_type.container</note>
       </trans-unit>
-      <trans-unit id="694d6cbecfee848cf42a300c0b310f45ece6a09b" resname="content_type.content_field_definitions">
-        <source>Content field definitions</source>
-        <target state="translated">Definizione dei field di contenuto</target>
-        <note>key: content_type.content_field_definitions</note>
-      </trans-unit>
       <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type">
         <source>Content Type</source>
         <target state="translated">Tipo</target>
         <note>key: content_type.content_type</note>
-      </trans-unit>
-      <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability">
-        <source>Default content availability</source>
-        <target state="translated">Il contenuto sarà sempre disponibile</target>
-        <note>key: content_type.default_availability</note>
-      </trans-unit>
-      <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help">
-        <source>Default availability in primary language, if translation is absent</source>
-        <target state="translated">Disponibilità predefinita nella lingua primaria, se manca la traduzione</target>
-        <note>key: content_type.default_availability.help</note>
-      </trans-unit>
-      <trans-unit id="d14799b2ac8854ab3f0bb9976258c3db39213d09" resname="content_type.default_availability.value">
-        <source>{0} Not available|{1} Available</source>
-        <target state="translated">{0} non disponibile |{1} disponibile</target>
-        <note>key: content_type.default_availability.value</note>
-      </trans-unit>
-      <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting">
-        <source>Default field for sorting children</source>
-        <target state="translated">I figli vengono ordinati per</target>
-        <note>key: content_type.default_children_sorting</note>
-      </trans-unit>
-      <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
-        <source>Default sort order</source>
-        <target state="translated">Ordine di ordinamento</target>
-        <note>key: content_type.default_sort</note>
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
         <source>Description</source>
@@ -126,20 +96,10 @@
         <target state="translated">Patter per l'URL alias</target>
         <note>key: content_type.url_alias_schema</note>
       </trans-unit>
-      <trans-unit id="56a9f26e930ab0493fc9cb9609318ea699cf8b76" resname="content_type.view.create.content_field_definitions">
-        <source>Content field definitions</source>
-        <target state="translated">Definizione dei field di contenuto</target>
-        <note>key: content_type.view.create.content_field_definitions</note>
-      </trans-unit>
       <trans-unit id="2ce3314c2ca5e24215b0935148a3693ba4fda221" resname="content_type.view.create.global_properties">
         <source>Global properties</source>
         <target state="translated">Global Properties</target>
         <note>key: content_type.view.create.global_properties</note>
-      </trans-unit>
-      <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
-        <source>Content field definitions</source>
-        <target state="translated">Definizione dei field di contenuto</target>
-        <note>key: content_type.view.edit.content_field_definitions</note>
       </trans-unit>
       <trans-unit id="a32a5e3d2d67da43b4c5f0f5574c90520868b36a" resname="content_type.view.edit.global_properties">
         <source>Global properties</source>

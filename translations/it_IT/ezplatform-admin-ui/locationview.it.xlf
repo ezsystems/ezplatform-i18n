@@ -36,11 +36,6 @@
         <target state="translated">Nome della sezione</target>
         <note>key: tab.details.section_name</note>
       </trans-unit>
-      <trans-unit id="69dea878e2926e6a40b3d4e79b1f723d0aa801c7" resname="tab.details.state_name">
-        <source>Current object state</source>
-        <target state="translated">Etichetta per il campo</target>
-        <note>key: tab.details.state_name</note>
-      </trans-unit>
       <trans-unit id="09fcd5ad39b9c2b778be171f88559f6c117ff48b" resname="tab.details.technical_details">
         <source>Technical details</source>
         <target state="translated">Dettagli tecnici</target>
@@ -55,11 +50,6 @@
         <source>Add Location</source>
         <target state="translated">Aggiungi posizione</target>
         <note>key: tab.locations.action.add</note>
-      </trans-unit>
-      <trans-unit id="7ac57e88d1f970747986392b6689075ba64cf270" resname="tab.locations.content_locations">
-        <source>Content locations</source>
-        <target state="translated">Posizione del contenuto</target>
-        <note>key: tab.locations.content_locations</note>
       </trans-unit>
       <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main">
         <source>Main</source>
