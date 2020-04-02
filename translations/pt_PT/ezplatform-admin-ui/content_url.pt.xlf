@@ -31,11 +31,6 @@
         <target state="translated">Fechar</target>
         <note>key: tab.urls.modal_close</note>
       </trans-unit>
-      <trans-unit id="c9fdd1434b44a4592626e8fe493c19141aab24d5" resname="tab.urls.no_system_urls">
-        <source>This content item has no system urls.</source>
-        <target state="translated">Este item de conteúdo não tem URLs de sistema.</target>
-        <note>key: tab.urls.no_system_urls</note>
-      </trans-unit>
       <trans-unit id="902beb4ac170382cb95bd554cb1e763d8fdd413c" resname="tab.urls.system.title">
         <source>System URL</source>
         <target state="translated">URL de Sistema</target>
