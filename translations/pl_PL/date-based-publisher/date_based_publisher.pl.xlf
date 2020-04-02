@@ -35,14 +35,6 @@
         <target state="final">Tytuł:</target>
         <note>key: content.scheduled.title</note>
       </trans-unit>
-      <trans-unit id="d72a29b32751f629c33f6223c5b6477308a0ebb4" resname="content.trashed" approved="yes">
-        <source>Content moved to trash</source>
-        <target state="final">Element przeniesiony do kosza</target>
-        <note>key: content.trashed</note>
-        <alt-trans>
-          <target>Treść przeniesiona do kosza</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="242a195e1172964f09692a16fc39ccb8a2b69605" resname="content.updated" approved="yes">
         <source>Content updated</source>
         <target state="final">Zaktualizowano element</target>
