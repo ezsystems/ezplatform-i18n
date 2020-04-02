@@ -11,16 +11,6 @@
         <target state="final">URL szerkesztése</target>
         <note>key: url.action.edit</note>
       </trans-unit>
-      <trans-unit id="f561064964d324f7697c98336f2e4ef5a247e7db" resname="url.action.item.edit" approved="yes">
-        <source>Edit Item</source>
-        <target state="final">Elem szerkesztése</target>
-        <note>key: url.action.item.edit</note>
-      </trans-unit>
-      <trans-unit id="6a23ab14fca2c76fe7ea84f53221ed5caf907f45" resname="url.detail" approved="yes">
-        <source>Link detail</source>
-        <target state="final">Link részletei</target>
-        <note>key: url.detail</note>
-      </trans-unit>
       <trans-unit id="23bfb0e222eeac1bfa481ba09c5b4aea1d0295da" resname="url.edit" approved="yes">
         <source>Edit</source>
         <target state="final">Szerkesztés</target>
