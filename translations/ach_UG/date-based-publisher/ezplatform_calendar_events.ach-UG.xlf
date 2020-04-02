@@ -6,6 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="6bb594e835f1d21be6212332db13ed01071337ff" resname="future_hide.action.reschedule.label">
+        <source>Reschedule</source>
+        <target>crwdns223398:0crwdne223398:0</target>
+        <note>key: future_hide.action.reschedule.label</note>
+      </trans-unit>
+      <trans-unit id="8f21eb3d7b46b1a2a079c5b8019e62d77f85f142" resname="future_hide.action.unschedule.label">
+        <source>Cancel hiding</source>
+        <target>crwdns223400:0crwdne223400:0</target>
+        <note>key: future_hide.action.unschedule.label</note>
+      </trans-unit>
       <trans-unit id="bb4399374d3885ded0ee2e2b2d1c34fa4e4cae97" resname="future_hide.attribute.content_type.label">
         <source>Content Type</source>
         <target>crwdns221112:0crwdne221112:0</target>
