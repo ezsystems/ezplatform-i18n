@@ -26,11 +26,6 @@
         <target state="translated">Algo ha fallado</target>
         <note>key: error.message</note>
       </trans-unit>
-      <trans-unit id="4a59666b61e8dc389b7390ad051bb8ef705ae1e4" resname="fieldtype.landing_page.missing_proper_configuration.error.message">
-        <source>Some blocks are missing proper configuration</source>
-        <target state="translated">Algunos bloques no tienen una configuración adecuada</target>
-        <note>key: fieldtype.landing_page.missing_proper_configuration.error.message</note>
-      </trans-unit>
       <trans-unit id="9883bd31212048bc2352b92dcc30b541e6eac5b5" resname="layout_selector.close.label">
         <source>Close</source>
         <target state="translated">Cerrar</target>
