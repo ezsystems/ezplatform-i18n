@@ -16,11 +16,6 @@
         <target state="translated">निर्माता</target>
         <note>key: tab.details.creator</note>
       </trans-unit>
-      <trans-unit id="69dea878e2926e6a40b3d4e79b1f723d0aa801c7" resname="tab.details.state_name">
-        <source>Current object state</source>
-        <target state="translated">नाम</target>
-        <note>key: tab.details.state_name</note>
-      </trans-unit>
       <trans-unit id="69ca343732e6be688ff4606c3a9b15d83d531233" resname="tab.details.translations">
         <source>Translations</source>
         <target state="translated">अनुवाद</target>
