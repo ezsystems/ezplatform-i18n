@@ -31,11 +31,6 @@
         <target state="final">A fájl típusa nem megfelelő</target>
         <note>key: disallowed_type.message</note>
       </trans-unit>
-      <trans-unit id="694f61c4eb35d09307bcf40e14159061c6ba1f35" resname="drop_action.message" approved="yes">
-        <source>Drag and drop your files on browser window or upload them</source>
-        <target state="final">Húzd ide, vagy töltsd fel a kívánt fájlokat</target>
-        <note>key: drop_action.message</note>
-      </trans-unit>
       <trans-unit id="ec408ab37730af3a79d49ee278f3b215ce89057c" resname="edit.label" approved="yes">
         <source>Edit</source>
         <target state="final">Szerkesztés</target>
@@ -60,11 +55,6 @@
         <source>Upload sub-items</source>
         <target state="final">Al-elemek feltöltése</target>
         <note>key: upload_btn.label</note>
-      </trans-unit>
-      <trans-unit id="f0af4c073e35f18370b9eb10fe995a6f5de9ac9d" resname="upload_popup.title" approved="yes">
-        <source>Multi-file upload</source>
-        <target state="final">Több fájl feltöltése</target>
-        <note>key: upload_popup.title</note>
       </trans-unit>
     </body>
   </file>
