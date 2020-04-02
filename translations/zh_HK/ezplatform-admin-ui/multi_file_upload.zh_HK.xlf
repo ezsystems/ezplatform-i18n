@@ -31,11 +31,6 @@
         <target state="translated">不允許檔案類型</target>
         <note>key: disallowed_type.message</note>
       </trans-unit>
-      <trans-unit id="694f61c4eb35d09307bcf40e14159061c6ba1f35" resname="drop_action.message">
-        <source>Drag and drop your files on browser window or upload them</source>
-        <target state="translated">在瀏覽器視窗中拖放或上傳文件</target>
-        <note>key: drop_action.message</note>
-      </trans-unit>
       <trans-unit id="ec408ab37730af3a79d49ee278f3b215ce89057c" resname="edit.label">
         <source>Edit</source>
         <target state="translated">編輯</target>
@@ -60,11 +55,6 @@
         <source>Upload sub-items</source>
         <target state="translated">上傳子項目</target>
         <note>key: upload_btn.label</note>
-      </trans-unit>
-      <trans-unit id="f0af4c073e35f18370b9eb10fe995a6f5de9ac9d" resname="upload_popup.title">
-        <source>Multi-file upload</source>
-        <target state="translated">多文件上傳</target>
-        <note>key: upload_popup.title</note>
       </trans-unit>
     </body>
   </file>
