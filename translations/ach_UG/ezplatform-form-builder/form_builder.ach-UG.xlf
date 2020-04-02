@@ -26,6 +26,11 @@
         <target>crwdns223002:0crwdne223002:0</target>
         <note>key: building.form</note>
       </trans-unit>
+      <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
+        <source>Create a form</source>
+        <target>crwdns223290:0crwdne223290:0</target>
+        <note>key: create.form</note>
+      </trans-unit>
       <trans-unit id="3f906d4d0bd35a175f501ab96fc7d4c2b2c3ec71" resname="drag.drop.call.to.action">
         <source>Create a form by dragging elements here</source>
         <target>crwdns223004:0crwdne223004:0</target>
