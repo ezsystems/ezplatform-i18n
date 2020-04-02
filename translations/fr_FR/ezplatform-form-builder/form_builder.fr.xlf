@@ -11,6 +11,11 @@
         <target state="translated">Sélectionnez un élément de contenu</target>
         <note>key: action.redirect.udw.title</note>
       </trans-unit>
+      <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
+        <source>Create a form</source>
+        <target state="translated">Créer un formulaire</target>
+        <note>key: create.form</note>
+      </trans-unit>
       <trans-unit id="511e68af2de52872af1c2d07215631d54d5df0a1" resname="field.invalid">
         <source>Field has invalid configuration</source>
         <target state="translated">Le champ a une configuration invalide</target>
