@@ -280,6 +280,11 @@
         <target>crwdns215264:0crwdne215264:0</target>
         <note>key: search.any_time</note>
       </trans-unit>
+      <trans-unit id="f32993c555744e5c203137f3ee0e380d27e9cfef" resname="search.date.range">
+        <source>From date - to date</source>
+        <target>crwdns223274:0crwdne223274:0</target>
+        <note>key: search.date.range</note>
+      </trans-unit>
       <trans-unit id="03d6d5922fd2012e155e50306eaf98e2dfeb21c6" resname="search.section.any">
         <source>Any section</source>
         <target>crwdns215265:0crwdne215265:0</target>
