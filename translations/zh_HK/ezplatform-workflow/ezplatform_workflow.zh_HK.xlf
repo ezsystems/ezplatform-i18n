@@ -36,11 +36,6 @@
         <target state="translated"><![CDATA[查看 <strong>%viewing%</strong> 除<strong>%total%</strong>之外的内容项]]></target>
         <note>key: dashboard.pagination.viewing</note>
       </trans-unit>
-      <trans-unit id="03b3eebd6de51e6ab83ae31dd89afb4be4d487aa" resname="dashboard.tab.my_drafts_under_review.empty">
-        <source>No content item(s) under review. Any content item under review by you or your user group will appear here.</source>
-        <target state="translated">沒有內容項處於審閱狀態，任何處於審核階段都會顯示在這裡</target>
-        <note>key: dashboard.tab.my_drafts_under_review.empty</note>
-      </trans-unit>
       <trans-unit id="a878bd15386bacea4af5e3356c731640710d3618" resname="dashboard.table.activity">
         <source>Activity</source>
         <target state="translated">活動</target>
@@ -61,20 +56,10 @@
         <target state="translated">內容類型</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
-      <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
-        <source>Edit Draft</source>
-        <target state="translated">編輯草稿</target>
-        <note>key: dashboard.table.draft.edit</note>
-      </trans-unit>
       <trans-unit id="3854d449547263e6056997c3ed9135006b158de8" resname="dashboard.table.draft.transition.list">
         <source>Show history</source>
         <target state="translated">顯示歷史記錄</target>
         <note>key: dashboard.table.draft.transition.list</note>
-      </trans-unit>
-      <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
-        <source>Modified Language</source>
-        <target state="translated">修改後的語言</target>
-        <note>key: dashboard.table.modified_language</note>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
         <source>Name</source>
@@ -85,16 +70,6 @@
         <source>Status</source>
         <target state="translated">狀態</target>
         <note>key: dashboard.table.status</note>
-      </trans-unit>
-      <trans-unit id="e299194e53c6e814246098b762ef1f9f52a93daf" resname="location_view.tab.versions.column.status">
-        <source>Status</source>
-        <target state="translated">狀態</target>
-        <note>key: location_view.tab.versions.column.status</note>
-      </trans-unit>
-      <trans-unit id="52e8c5a5cf9e9e8b37a631e8e04e88ea295f960b" resname="location_view.tab.versions.draft_under_edit">
-        <source>Draft under review: %workflowName%</source>
-        <target state="translated">草稿處於審閱: %workflowName%</target>
-        <note>key: location_view.tab.versions.draft_under_edit</note>
       </trans-unit>
       <trans-unit id="c77999d76931ead1fedf62e15d68ce0a5ad8be17" resname="location_view.tab.versions.pagination.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
@@ -121,11 +96,6 @@
         <target state="translated">事件時間表</target>
         <note>key: modal.transition.list.title</note>
       </trans-unit>
-      <trans-unit id="ed129ea3c9e2f6f00bc2ab26aa664d8ca17d3636" resname="tab.name.my_drafts_under_review">
-        <source>Drafts under review</source>
-        <target state="translated">正在審查的草稿</target>
-        <note>key: tab.name.my_drafts_under_review</note>
-      </trans-unit>
       <trans-unit id="ada0fcebefac344a2447069bba0039e73865b67d" resname="transition.list.entry.author">
         <source>by %name%</source>
         <target state="translated">由 %name%</target>
@@ -141,33 +111,13 @@
         <target state="translated">階段更改為 %stageNames%</target>
         <note>key: transition.list.entry.title</note>
       </trans-unit>
-      <trans-unit id="3c190ea2e3bb750d29e646512ef8902bca079d61" resname="widget.leave_comment">
-        <source>Leave a comment</source>
-        <target state="translated">留下評論...</target>
-        <note>key: widget.leave_comment</note>
-      </trans-unit>
-      <trans-unit id="b68f65d4e6b1cef42c9c47203c4d64505b5e6e33" resname="widget.message">
-        <source>Message:</source>
-        <target state="translated">信息:</target>
-        <note>key: widget.message</note>
-      </trans-unit>
-      <trans-unit id="d2411b1cef3e71d41a6da0e837ba7c5aee6dba07" resname="widget.message_placeholder">
+      <trans-unit id="c020300ac290bd2f5b59ad2fc190620991545286" resname="widget.message.placeholder">
         <source>Type your message...</source>
         <target state="translated">輸入您的消息..</target>
-        <note>key: widget.message_placeholder</note>
+        <note>key: widget.message.placeholder</note>
         <alt-trans>
           <target>輸入您的消息..。</target>
         </alt-trans>
-      </trans-unit>
-      <trans-unit id="3bffad6f39729eebf93f44554e1f5fb348b82354" resname="widget.submit">
-        <source>Submit</source>
-        <target state="translated">提交</target>
-        <note>key: widget.submit</note>
-      </trans-unit>
-      <trans-unit id="2be785be35c3a8f0ade224cfa68292614a943d78" resname="workflow.list.empty">
-        <source>The Workflow list is empty. Any Workflow will end up here.</source>
-        <target state="translated">工作流列表為空。任何工作流都將在這裡結束。</target>
-        <note>key: workflow.list.empty</note>
       </trans-unit>
       <trans-unit id="80d070fe8257420d8f890afbf18c47475f7ddc24" resname="workflow.list.limitations">
         <source>Limitations</source>
@@ -199,50 +149,20 @@
         <target state="translated">內容類型</target>
         <note>key: workflow.view.content_list.table.content_type</note>
       </trans-unit>
-      <trans-unit id="0ce5b99c4ebf3a06b4291b9cc7587a01c0c54a73" resname="workflow.view.content_list.table.empty">
-        <source>No content item(s) under review. Any content item under review in the %stageName% stage will appear here.</source>
-        <target state="translated">沒有內容項處於審閱狀態，任何處於%stageName%階段都會顯示在這裡</target>
-        <note>key: workflow.view.content_list.table.empty</note>
-      </trans-unit>
-      <trans-unit id="a460d78b8223b8833763f45da7e70b6f7cc250cc" resname="workflow.view.content_list.table.modified_language">
-        <source>Modified langauge</source>
-        <target state="translated">修改後的語言</target>
-        <note>key: workflow.view.content_list.table.modified_language</note>
-      </trans-unit>
       <trans-unit id="0c07def57bc5366e4b014b5634deeea824648a15" resname="workflow.view.content_list.table.name">
         <source>Name</source>
         <target state="translated">名稱</target>
         <note>key: workflow.view.content_list.table.name</note>
-      </trans-unit>
-      <trans-unit id="7fd29e64293f361faa1f436ccb8f03064058d790" resname="workflow.view.content_list.table.title">
-        <source>Content item(s) in %stageName% stage (%count%)</source>
-        <target state="translated">內容項處於%stageName% 階段 (%count%)</target>
-        <note>key: workflow.view.content_list.table.title</note>
       </trans-unit>
       <trans-unit id="20ad53e76ebb459ccc386fcc1e142f9a3cffcbcc" resname="workflow.view.content_list.table.viewing_page">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
         <target state="translated"><![CDATA[查看 <strong>%viewing%</strong> 除<strong>%total%</strong>之外的内容项]]></target>
         <note>key: workflow.view.content_list.table.viewing_page</note>
       </trans-unit>
-      <trans-unit id="f47c31349e59ab533fb5d0cab02364c7405470f4" resname="workflow.view.diagram">
-        <source>Workflow Diagram</source>
-        <target state="translated">工作流程圖</target>
-        <note>key: workflow.view.diagram</note>
-      </trans-unit>
-      <trans-unit id="2852fd5a9fd7bc497fa5fe26d6f0f0ad3cb0cdf4" resname="workflow.view.tab.content_list">
-        <source>Content item(s) under review</source>
-        <target state="translated">內容項在審閱</target>
-        <note>key: workflow.view.tab.content_list</note>
-      </trans-unit>
       <trans-unit id="1c7c17941fd081fc0d090a50133fcef9b5ea163e" resname="workflow.view.tab.details">
         <source>Details</source>
         <target state="translated">詳情</target>
         <note>key: workflow.view.tab.details</note>
-      </trans-unit>
-      <trans-unit id="d383f9c102d01c10e71c120aa1b08f80dcd20fe9" resname="workflow.view.title">
-        <source>Workflow Information</source>
-        <target state="translated">工作流程信息</target>
-        <note>key: workflow.view.title</note>
       </trans-unit>
     </body>
   </file>
