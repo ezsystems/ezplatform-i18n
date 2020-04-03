@@ -11,6 +11,11 @@
         <target state="translated">Contenu supprimé</target>
         <note>key: content.deleted</note>
       </trans-unit>
+      <trans-unit id="abc38732fdbe14754853444c67f4ab5fb2cc30bb" resname="content.hidden">
+        <source>Content hidden</source>
+        <target state="translated">Contenu masqué</target>
+        <note>key: content.hidden</note>
+      </trans-unit>
       <trans-unit id="e7818e3c5b5f9b8bda55a4ced6b8934d8f82607e" resname="content.in_review">
         <source>Content sent to review</source>
         <target state="translated">Contenu envoyé pour révision</target>
@@ -26,6 +31,16 @@
         <target state="translated">Contenu publié</target>
         <note>key: content.published</note>
       </trans-unit>
+      <trans-unit id="2457c173119f72384e0f665687acf67de93c5692" resname="content.reveal.modal.cancel">
+        <source>Cancel</source>
+        <target state="translated">Annuler</target>
+        <note>key: content.reveal.modal.cancel</note>
+      </trans-unit>
+      <trans-unit id="49dc9cd191676888376564d941c066297f82e95b" resname="content.reveal.modal.close">
+        <source>Close</source>
+        <target state="translated">Fermer</target>
+        <note>key: content.reveal.modal.close</note>
+      </trans-unit>
       <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title">
         <source>Title:</source>
         <target state="translated">Titre:</target>
@@ -34,10 +49,75 @@
           <target>Titre :</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="a6747a32fb851855b9fa7689ab2bc2d27d10c60f" resname="content.scheduled_hide.action.cancel">
+        <source>Cancel</source>
+        <target state="translated">Annuler</target>
+        <note>key: content.scheduled_hide.action.cancel</note>
+      </trans-unit>
+      <trans-unit id="d72a29b32751f629c33f6223c5b6477308a0ebb4" resname="content.trashed">
+        <source>Content moved to Trash</source>
+        <target state="translated">Contenu déplacé vers la corbeille</target>
+        <note>key: content.trashed</note>
+      </trans-unit>
       <trans-unit id="242a195e1172964f09692a16fc39ccb8a2b69605" resname="content.updated">
         <source>Content updated</source>
         <target state="translated">Contenu mis à jour</target>
         <note>key: content.updated</note>
+      </trans-unit>
+      <trans-unit id="90b6566e9e064210d7072731d3b547fdc404272e" resname="dashboard.all_scheduled.table.unschedule_btn.title">
+        <source>Cancel publication</source>
+        <target state="translated">Annuler la publication</target>
+        <note>key: dashboard.all_scheduled.table.unschedule_btn.title</note>
+      </trans-unit>
+      <trans-unit id="bd5ba47d79b309c21e2e0a9e45c5b91788e48b9d" resname="dashboard.my_scheduled.table.header">
+        <source>My future publications</source>
+        <target state="translated">Mes futures publications</target>
+        <note>key: dashboard.my_scheduled.table.header</note>
+      </trans-unit>
+      <trans-unit id="f56062bfb2d8aaa551b52b1d65dbbe8a5380f3ab" resname="dashboard.my_scheduled.table.unschedule_btn.title">
+        <source>Cancel publication</source>
+        <target state="translated">Annuler la publication</target>
+        <note>key: dashboard.my_scheduled.table.unschedule_btn.title</note>
+      </trans-unit>
+      <trans-unit id="9b09b4b8d96e4b4ca308efe64aa87fe6bd3e5398" resname="dashboard.my_scheduled.table.unschedule_modal.title">
+        <source>Cancel publication</source>
+        <target state="translated">Annuler la publication</target>
+        <note>key: dashboard.my_scheduled.table.unschedule_modal.title</note>
+      </trans-unit>
+      <trans-unit id="376d5063e9ae1c8d520f8cf514d736970ddbf0dc" resname="dashboard.scheduling.modal.content_type">
+        <source>Content Type</source>
+        <target state="translated">Type de Contenu</target>
+        <note>key: dashboard.scheduling.modal.content_type</note>
+      </trans-unit>
+      <trans-unit id="83603383d2345f88c862846db22f099a5b096d63" resname="dashboard.scheduling.modal.creation_date">
+        <source>Creation date</source>
+        <target state="translated">Date de création</target>
+        <note>key: dashboard.scheduling.modal.creation_date</note>
+      </trans-unit>
+      <trans-unit id="bbe04767f0375f92f75f5af2141911d222faaca6" resname="dashboard.scheduling.modal.creator">
+        <source>Creator</source>
+        <target state="translated">Créateur</target>
+        <note>key: dashboard.scheduling.modal.creator</note>
+      </trans-unit>
+      <trans-unit id="78fe84d8eeaad5a5fc2bbb77ee6a0decc647fe65" resname="dashboard.scheduling.modal.date_and_time">
+        <source>Date and time</source>
+        <target state="translated">Date et heure</target>
+        <note>key: dashboard.scheduling.modal.date_and_time</note>
+      </trans-unit>
+      <trans-unit id="227e74be2c6e69f933b5999846de05e03f1ca35e" resname="dashboard.scheduling.modal.name">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: dashboard.scheduling.modal.name</note>
+      </trans-unit>
+      <trans-unit id="be80300b4023889a3f2ae86c6842b022b69815b4" resname="dashboard.scheduling.modal.translations">
+        <source>Translations</source>
+        <target state="translated">Traductions</target>
+        <note>key: dashboard.scheduling.modal.translations</note>
+      </trans-unit>
+      <trans-unit id="cd10b23cc3f7ece783cee7fef74579e6e65133d5" resname="dashboard.scheduling.modal.version">
+        <source>Version</source>
+        <target state="translated">Version</target>
+        <note>key: dashboard.scheduling.modal.version</note>
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content Type</source>
@@ -48,6 +128,16 @@
         <source>Contributor</source>
         <target state="translated">Contributeur</target>
         <note>key: dashboard.table.contributor</note>
+      </trans-unit>
+      <trans-unit id="b04a2e22fc7fd58916bb1abb2083efa86f740dbf" resname="dashboard.table.date">
+        <source>Publication date</source>
+        <target state="translated">Date de publication</target>
+        <note>key: dashboard.table.date</note>
+      </trans-unit>
+      <trans-unit id="ef0c9403395c8c3dd7da090a9e9be97b774c18d1" resname="dashboard.table.edit">
+        <source>Edit</source>
+        <target state="translated">Modifier</target>
+        <note>key: dashboard.table.edit</note>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
         <source>Name</source>
@@ -83,10 +173,25 @@
           <target>Annuler la future publication</target>
         </alt-trans>
       </trans-unit>
+      <trans-unit id="26f482fde81774ad7fcaa8bc2626f6bf64eae9f7" resname="modal.scheduling.button.cancel.label">
+        <source>Cancel</source>
+        <target state="translated">Annuler</target>
+        <note>key: modal.scheduling.button.cancel.label</note>
+      </trans-unit>
+      <trans-unit id="6864b3e2e6cc7532fa3af087ffc73877b763a8b4" resname="modal.scheduling.button.discard.label">
+        <source>Cancel publication</source>
+        <target state="translated">Annuler la publication</target>
+        <note>key: modal.scheduling.button.discard.label</note>
+      </trans-unit>
       <trans-unit id="4c1883ba5e2eb4e3a70391d122a474304c1d95df" resname="publish_later.confirm">
         <source>Confirm</source>
         <target state="translated">Confirmer</target>
         <note>key: publish_later.confirm</note>
+      </trans-unit>
+      <trans-unit id="c369cb0b16138f3c7906590f6ee5cb7cb21ecd42" resname="publish_later.date_and_time">
+        <source>Date and time</source>
+        <target state="translated">Date et heure</target>
+        <note>key: publish_later.date_and_time</note>
       </trans-unit>
       <trans-unit id="556b388819e694acae15637989c32827c445faed" resname="publish_later.settings">
         <source>Future publication settings</source>
@@ -95,6 +200,11 @@
         <alt-trans>
           <target>Paramètres de publication future</target>
         </alt-trans>
+      </trans-unit>
+      <trans-unit id="f9c384926313f5ec7d6685f8a56b3f5c826eb1d8" resname="schedule_hide.date_and_time">
+        <source>Date and time</source>
+        <target state="translated">Date et heure</target>
+        <note>key: schedule_hide.date_and_time</note>
       </trans-unit>
       <trans-unit id="b618f3dd85270257ed32cca10210efa9f5faa9f5" resname="schedule_publish">
         <source>schedule_publish</source>
