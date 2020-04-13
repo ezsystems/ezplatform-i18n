@@ -15,9 +15,6 @@
         <source>User with login '%login%' deleted.</source>
         <target state="translated">登錄名'%log in%'的用戶已刪除。</target>
         <note>key: user.delete.success</note>
-        <alt-trans>
-          <target>登錄名'％log in％'的用戶已刪除。</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
