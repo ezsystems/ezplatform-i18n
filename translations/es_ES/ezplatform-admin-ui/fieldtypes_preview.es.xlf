@@ -165,9 +165,6 @@
         <source>Yes</source>
         <target state="translated">Sí</target>
         <note>key: ezuser.yes</note>
-        <alt-trans>
-          <target>SÍ</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
