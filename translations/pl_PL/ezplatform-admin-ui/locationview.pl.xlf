@@ -20,9 +20,6 @@
         <source>Sub-items</source>
         <target state="final">Podelementy</target>
         <note>key: content.view.subitems</note>
-        <alt-trans>
-          <target>Elementy podrzędne</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4f1f7e7763187d69da3f75ebfb74d391a451cec6" resname="content.view.subitems.bulk_action.limited_permissions">
         <source>Limited user permissions</source>
@@ -43,9 +40,6 @@
         <source>Content details</source>
         <target state="final">Dane szczegółowe</target>
         <note>key: tab.details.content_details</note>
-        <alt-trans>
-          <target>Szczegóły elementu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6e1488d3bb54efc176d8766d3c22751b06890e2f" resname="tab.details.content_id" approved="yes">
         <source>Content ID</source>
@@ -81,17 +75,11 @@
         <source>Published version</source>
         <target state="final">Opublikowana wersja</target>
         <note>key: tab.details.published_version</note>
-        <alt-trans>
-          <target>Wersja opublikowana</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cd8ccac573601690d7e364174cf3fb8a931c805e" resname="tab.details.section_details" approved="yes">
         <source>Section details</source>
         <target state="final">Dane sekcji</target>
         <note>key: tab.details.section_details</note>
-        <alt-trans>
-          <target>Szczegóły sekcji</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="30775f4a9e0512f181cf857fb0f0ea23fe79320d" resname="tab.details.section_name" approved="yes">
         <source>Section name</source>
@@ -107,9 +95,6 @@
         <source>in</source>
         <target state="final">w kolejności:</target>
         <note>key: tab.details.sub_items_listing_by.in</note>
-        <alt-trans>
-          <target>w kolejności</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c7f8179865bd73db9d2f07c39ae4a364668476c5" resname="tab.details.sub_items_listing_by.order_by" approved="yes">
         <source>Order by</source>
@@ -120,9 +105,6 @@
         <source>Technical details</source>
         <target state="final">Dane techniczne</target>
         <note>key: tab.details.technical_details</note>
-        <alt-trans>
-          <target>Szczegóły techniczne</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="69ca343732e6be688ff4606c3a9b15d83d531233" resname="tab.details.translations" approved="yes">
         <source>Translations</source>
@@ -153,9 +135,6 @@
         <source>Sub-items</source>
         <target state="final">Podelementy</target>
         <note>key: tab.locations.subitems</note>
-        <alt-trans>
-          <target>Elementy podrzędne</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1932d409236634ffbe828e683f35db760ec25323" resname="tab.locations.visibility" approved="yes">
         <source>Visibility</source>
@@ -221,9 +200,6 @@
         <source>Relation type</source>
         <target state="final">Typ powiązania</target>
         <note>key: tab.relations.table.relation_type</note>
-        <alt-trans>
-          <target>Typ relacji</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d8360b13746f836dc7c28998696a69b24ea30b18" resname="tab.relations.table.relation_type.content_level_relation" approved="yes">
         <source>Content level relation</source>
@@ -234,9 +210,6 @@
         <source>Embed</source>
         <target state="final">Osadzone</target>
         <note>key: tab.relations.table.relation_type.embed</note>
-        <alt-trans>
-          <target>Osadź</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9a9a16a9516cdda3bc3213bbdf77a02ff04b8fc8" resname="tab.relations.table.relation_type.field" approved="yes">
         <source>Field</source>
@@ -257,12 +230,6 @@
         <source>Base this translation on an existing translation</source>
         <target state="final">Bazuj na istniejącym tłumaczeniu</target>
         <note>key: tab.translations.add.base_language</note>
-        <alt-trans>
-          <target>Oprzyj to tłumaczenie na już istniejącym</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Bazuj to tłumaczenie na już istniejącym</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel" approved="yes">
         <source>Cancel</source>
@@ -278,9 +245,6 @@
         <source>Language name</source>
         <target state="final">Język</target>
         <note>key: tab.translations.language_name</note>
-        <alt-trans>
-          <target>Nazwa języka</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c5d8ba580b9dd86b38986590b338816e3193c857" resname="tab.translations.main_language">
         <source>Main language</source>
@@ -291,9 +255,6 @@
         <source>Translation manager</source>
         <target state="final">Zarządzanie tłumaczeniami</target>
         <note>key: tab.translations.translation_manger</note>
-        <alt-trans>
-          <target>Zarządzaj tłumaczeniami</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="699b5bf627b908f8d270984ab9a4734a48b28abe" resname="tab.versions.archived_versions" approved="yes">
         <source>Archived versions</source>
@@ -304,17 +265,11 @@
         <source>Published version</source>
         <target state="final">Opublikowana wersja</target>
         <note>key: tab.versions.published_version</note>
-        <alt-trans>
-          <target>Wersja opublikowana</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4c27637d649c221e58c6a9629f14a2f75aeed151" resname="tab.versions.table.contributor" approved="yes">
         <source>Contributor</source>
         <target state="final">Twórca</target>
         <note>key: tab.versions.table.contributor</note>
-        <alt-trans>
-          <target>Współtwórca</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4c6353b63f5bc2031c8380c4007edf9c5f6be456" resname="tab.versions.table.created" approved="yes">
         <source>Created</source>
