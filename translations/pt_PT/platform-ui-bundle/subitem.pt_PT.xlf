@@ -67,9 +67,6 @@
         <target state="final">Primeira</target>
         <note>key: subitem.first</note>
         <jms:reference-file>Resources/public/templates/subitem/list.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Primeiro</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0729624b971947f00032e59cd4de5fe7e8c92e4e" resname="subitem.last" approved="yes">
         <source>Last</source>
