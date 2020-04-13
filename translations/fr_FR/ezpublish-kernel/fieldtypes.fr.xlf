@@ -75,9 +75,6 @@
         <source>Keywords</source>
         <target state="final">Mot-clés</target>
         <note>key: ezkeyword.name</note>
-        <alt-trans>
-          <target>Mots-clé</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fc0d2c8719e7c36f101ff6ddcbdfc804bf8f3da7" resname="ezmedia.name" approved="yes">
         <source>Media</source>
