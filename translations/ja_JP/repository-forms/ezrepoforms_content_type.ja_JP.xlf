@@ -41,9 +41,6 @@
         <target state="translated">コンテンツフィールド定義</target>
         <note>key: content_type.field_definitions_data</note>
         <jms:reference-file line="120">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-        <alt-trans>
-          <target>コンテンツフィールドの定義</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a43bfd2651eb1f3357e3398286afd5b6e17c101e" resname="content_type.field_type_selection">
         <source>Field type selection</source>
