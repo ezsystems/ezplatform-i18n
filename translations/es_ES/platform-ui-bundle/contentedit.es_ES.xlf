@@ -84,9 +84,6 @@
         <target state="translated">No se pudo cargar el carga el contenido con id '%contentId%' y código de idioma '%languageCode%'</target>
         <note>key: failed.loading.content.id.language</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>No se pudo cargar el carga el contenido con id '%contentId%' e idioma '%languageCode%'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="17a5ca14762c150e062aa874e2911d5c917da04a" resname="failed.loading.content.in">
         <source>Could not load the content with id '%contentId%' and languageCode '%languageCode%'</source>
@@ -160,9 +157,6 @@
         <target state="translated">Guardando el borrador</target>
         <note>key: saving.draft</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-savedraftplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Guardando borrador</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a1687cb0b4785f868568c6d44633281f477604c2" resname="saving.draft.to.generate.the.preview">
         <source>Saving the draft to generate the preview</source>
