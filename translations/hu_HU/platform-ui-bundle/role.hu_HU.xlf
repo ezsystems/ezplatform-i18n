@@ -124,9 +124,6 @@
         <jms:reference-file line="38">Resources/views/Role/list_roles.html.twig</jms:reference-file>
         <jms:reference-file line="193">Resources/views/Role/view_role.html.twig</jms:reference-file>
         <jms:reference-file line="202">Resources/views/Role/view_role.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Válassza ki a felhasználókat / csoportokat, akikhez hozzá kívánja rendelni a %roleIdentifier% szerepkört</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="75fb0347cd4923218126c0696153902dbb14fb96" resname="role.assign.user_or_group" approved="yes">
         <source>Assign to users/groups</source>
@@ -160,9 +157,6 @@
         <target state="final">Válaszd ki, mely területre vonatkozzon az alsóbb szintű elemeknél aklamazandó korlátozás, amikor a "%roleIdentifier%" szerepkört rendelik hozzá</target>
         <note>key: role.assign_limit_subtree.universaldiscovery.title</note>
         <jms:reference-file line="203">Resources/views/Role/view_role.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Válassza ki, mely területre vonatkozzon az alsóbb szintű elemeknél aklamazandó korlátozás, amikor a "%roleIdentifier%" szerepkört rendelik hozzá</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8211a64763ecf5a6a1e5d0e2386357c0bc2e7c89" resname="role.assign_limit_subtree.user_or_group" approved="yes">
         <source>Assign to users/groups with subtree limitation</source>
@@ -211,9 +205,6 @@
         <target state="final">Válassz egy szekciót:</target>
         <note>key: role.choose_section</note>
         <jms:reference-file line="25">Resources/views/Role/assign_role_by_section.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Válasszon egy szekciót:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="93a5221c554b7577697c1a68acbe2e17a3389dea" resname="role.dashboard_title" approved="yes">
         <source>Roles</source>
