@@ -29,9 +29,6 @@
         <target state="translated">begynn å skrive for å avgrense listen</target>
         <note>key: contenttypeselector.start.typing</note>
         <jms:reference-file>Resources/public/templates/contenttypeselector.hbt</jms:reference-file>
-        <alt-trans>
-          <target>begynn å skrive for å begrense listen</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
