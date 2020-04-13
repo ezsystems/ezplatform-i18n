@@ -25,9 +25,6 @@
         <jms:reference-file>Resources/public/templates/dashboard/allcontent.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/dashboard/mydrafts.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Content Type</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f3523831ab3c2067acfa6fdf0bc19c64a39647b4" resname="dashboard.last.saved">
         <source>Last saved</source>
