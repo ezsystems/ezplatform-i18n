@@ -25,17 +25,11 @@
         <source>Content '%name%' was already hidden.</source>
         <target state="translated">內容 "%name%" 已被隱藏。</target>
         <note>key: content.hide.already_hidden</note>
-        <alt-trans>
-          <target>內容 "%name%" 已隱藏。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7a80db58ea3f3bef5b9f07c4565d715efdacda99" resname="content.hide.success">
         <source>Content '%name%' has been hidden.</source>
         <target state="translated">內容 "%name%" 已隱藏。</target>
         <note>key: content.hide.success</note>
-        <alt-trans>
-          <target>內容 "%name%" 已被隱藏。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d773dd487e4e5467fd20fc4fc4987eba33eaf1b7" resname="content.main_language_update.success">
         <source>Main language for '%name%' updated.</source>
@@ -61,9 +55,6 @@
         <source>User with login '%login%' deleted.</source>
         <target state="translated">登錄名'%log in%'的用戶已刪除。</target>
         <note>key: user.delete.success</note>
-        <alt-trans>
-          <target>登錄名'％log in％'的用戶已刪除。</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
