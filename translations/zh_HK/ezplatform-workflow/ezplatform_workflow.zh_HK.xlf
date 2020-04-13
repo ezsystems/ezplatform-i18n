@@ -155,9 +155,6 @@
         <source>Type your message...</source>
         <target state="translated">輸入您的消息..</target>
         <note>key: widget.message_placeholder</note>
-        <alt-trans>
-          <target>輸入您的消息..。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3bffad6f39729eebf93f44554e1f5fb348b82354" resname="widget.submit">
         <source>Submit</source>
