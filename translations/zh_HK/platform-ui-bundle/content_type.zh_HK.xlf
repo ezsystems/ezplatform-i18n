@@ -188,9 +188,6 @@
         <note>key: content_type.last_modified</note>
         <jms:reference-file line="36">Resources/views/ContentType/update_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="29">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>上次修改時間：％date％ by ％modifier％</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d7155c791bcef0de802e2194552a2eee56d3b69e" resname="content_type.metadata.title">
         <source>Global properties</source>
