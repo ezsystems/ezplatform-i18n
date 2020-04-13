@@ -29,45 +29,30 @@
         <target state="final">Biztosan el szeretnéd távolítani a kiválasztott lokációkat?</target>
         <note>key: confirm.remove.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Biztosan el akarja távolítani a kiválasztott lokációkat?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="10b37ae9b695e443fa4704d7a21efd0cadca7d49" resname="confirm.set.main.location" approved="yes">
         <source>Are you sure you want to set this location as main location of content?</source>
         <target state="final">Biztosan ezt a lokációt szeretnéd elsődlegesnek beállítani a tartalomhoz?</target>
         <note>key: confirm.set.main.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Biztosan ezt a lokációt szeretné elsődlegesnek beállítani a tartalomhoz?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8a2fbb282605f72d531c11a15b621a9edc4913db" resname="confirmed.delete" approved="yes">
         <source>Are you sure you want to delete this content?</source>
         <target state="final">Biztosan törölni szeretnéd ezt a tartalmat?</target>
         <note>key: confirmed.delete</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Biztosan törölni szeretné ezt a tartalmat?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a98b131ae17c523ac36a36d82c20b082fc2efa73" resname="confirmed.remove.versions" approved="yes">
         <source>Are you sure you want to remove selected version(s)?</source>
         <target state="final">Biztosan el szeretnéd távolítani a kiválasztott verzió(ka)t?</target>
         <note>key: confirmed.remove.versions</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Biztosan el szeretné távolítani a kiválasztott verzió(ka)t?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e751550d2bffb320256d3934693e4cbe1b9610b5" resname="confirmed.send.to.trash" approved="yes">
         <source>Are you sure you want to send this content to trash?</source>
         <target state="final">Biztosan lomtárba szeretnéd helyezni ezt a tartalmat?</target>
         <note>key: confirmed.send.to.trash</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Biztosan lomtárba szeretné helyezni ezt a tartalmat?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c44059e516685b63857e6db9c22a11ed0d990519" resname="deleted.content" approved="yes">
         <source>'%name%' was deleted</source>
@@ -580,18 +565,12 @@
         <target state="final">Válaszd ki, hogy hova szeretnéd áthelyezni a tartalmat</target>
         <note>key: select.location.move.to</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Válassza ki, hogy hova szeretné áthelyezni a tartalmat</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2ebde9679f8621dde1a0069e592eaf1164583c74" resname="select.location.to.swap" approved="yes">
         <source>Select the location you want to swap with the given one</source>
         <target state="final">Válaszd ki a lokációt, amivel cserélni szeretnéd a kiválasztott elemet</target>
         <note>key: select.location.to.swap</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationswapplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Válassza ki a lokációt, amivel cserélni szeretné a kiválasztott elemet</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c3a7268c770036494e916618aae9927d0a353773" resname="sending.to.trash" approved="yes">
         <source>Sending '%name%' to Trash</source>
