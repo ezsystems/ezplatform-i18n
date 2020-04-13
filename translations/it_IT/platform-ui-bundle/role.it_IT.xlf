@@ -35,9 +35,6 @@
         <target state="translated">Limitazione</target>
         <note>key: assignment.role_limitation</note>
         <jms:reference-file line="137">Resources/views/Role/view_role.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Limitazioni</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9d40ec6ea2a69dc31d986dd760c5c4d1e58274a0" resname="assignment.role_limitation_none">
         <source>No limitations</source>
