@@ -85,9 +85,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: search.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6fa93ef4dfbce97076a254427bb30bf7c5819c5d" resname="search.perform">
         <source>Search</source>
@@ -118,9 +115,6 @@
         <source>Content Type</source>
         <target state="translated">Inhaltstyp</target>
         <note>key: search.type</note>
-        <alt-trans>
-          <target>Content-Typ</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
