@@ -249,9 +249,6 @@
         <target state="translated">Drag and drop your image here or simply click on the buttons and select your image manually.</target>
         <note>key: image.help</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Drag and drop your image here or simply click on the buttons and select your iamge manually.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="623d52cead77075eabf73bd844f1870264264f8e" resname="image.name">
         <source>File name</source>
