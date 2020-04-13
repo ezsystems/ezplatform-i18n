@@ -60,9 +60,6 @@
         <source>Save</source>
         <target state="translated">Sauvegarder</target>
         <note>key: custom_tag_update_btn.save_btn.label</note>
-        <alt-trans>
-          <target>Sauver</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ac0f20994b177772319ac51d8f9b3389ea74de7c" resname="embed_align_center_btn.label">
         <source>Center</source>
@@ -93,9 +90,6 @@
         <source>Select another content item</source>
         <target state="translated">Sélectionner un autre contenu</target>
         <note>key: embed_update_btn.label</note>
-        <alt-trans>
-          <target>Sélectionner un autre élément de contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e7a9e3844a638a4ee009a878206b96c9d0af681e" resname="embed_update_btn.udw.title">
         <source>Select a content to embed</source>
