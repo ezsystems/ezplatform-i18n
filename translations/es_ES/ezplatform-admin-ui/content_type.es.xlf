@@ -110,9 +110,6 @@
         <source>Section identifier</source>
         <target state="translated">Identificador de la sección</target>
         <note>key: content_type.sort_field.section_identifier</note>
-        <alt-trans>
-          <target>Identificador de sección</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
         <source>URL alias name pattern</source>
@@ -173,9 +170,6 @@
         <source>Content Types</source>
         <target state="translated">Tipos de Contenido</target>
         <note>key: content_type_group.breadcrumb.list</note>
-        <alt-trans>
-          <target>Tipos de contenido</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
         <source>%identifier%</source>
