@@ -119,9 +119,6 @@
         <target state="translated">The Language "%languageName%" was correctly created.</target>
         <note>key: language.notification.created</note>
         <jms:reference-file line="46">Form/Processor/LanguageFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>The Language "%languageName%" was correctly deleted.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8af969d1a41cea0770e73d1a51c27ca9fce5f7cb" resname="language.notification.updated">
         <source>The language "%languageName%" was correctly saved.</source>
