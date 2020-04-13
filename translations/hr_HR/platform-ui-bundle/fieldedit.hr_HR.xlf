@@ -357,9 +357,6 @@
         <target state="translated">Unos nije ispravan</target>
         <note>key: input.not.valid</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Unos nije valjan</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8e49b578596402bf9f38b7a53ee4e6838f31c1a9" resname="invalid.float.value">
         <source>The value should be a valid float number</source>
@@ -372,9 +369,6 @@
         <target state="translated">Unos nije valjan</target>
         <note>key: invalid.input</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Unos nije ispravan</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="624975ced077be4e434e9ddc7aceb12cdd06a2f7" resname="invalid.isbn10">
         <source>invalid ISBN 10</source>
@@ -399,9 +393,6 @@
         <target state="translated">Unos korisničkog imena je potreban</target>
         <note>key: login.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Potrebna je prijava</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3ebb2a2e0355aff0d63b0a1c644aff0efa6b52c6" resname="maplocation.address">
         <source>Address:</source>
@@ -474,9 +465,6 @@
         <target state="translated">Dodaj audio datoteku</target>
         <note>key: media.audio.upload</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Dodaj audio datoteku.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6eadf968d3be0a9dbf1a708d86cf710bb62ed7bd" resname="media.autoplay">
         <source>Auto play:</source>
