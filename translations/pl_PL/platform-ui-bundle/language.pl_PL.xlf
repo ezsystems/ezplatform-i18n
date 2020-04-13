@@ -35,9 +35,6 @@
         <target state="final">Usunięto język "%languageName%".</target>
         <note>key: language.deleted</note>
         <jms:reference-file line="100">Controller/LanguageController.php</jms:reference-file>
-        <alt-trans>
-          <target>Język "%languageName%" został poprawnie usunięty.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0c028c20c9b353fbd7b71bfef8b4ae3dcbd0d7e4" resname="language.disabled" approved="yes">
         <source>Disabled</source>
@@ -122,18 +119,12 @@
         <target state="final">Utworzono język "%languageName%".</target>
         <note>key: language.notification.created</note>
         <jms:reference-file line="46">Form/Processor/LanguageFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>Język "%languageName%" został poprawnie utworzony.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8af969d1a41cea0770e73d1a51c27ca9fce5f7cb" resname="language.notification.updated" approved="yes">
         <source>The language "%languageName%" was correctly saved.</source>
         <target state="final">Zapisano język "%languageName%".</target>
         <note>key: language.notification.updated</note>
         <jms:reference-file line="48">Form/Processor/LanguageFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>Język "%languageName%" został poprawnie zapisany.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8df2798a2851c0d43893e3862f8a2e6e4290b141" resname="language.view.title" approved="yes">
         <source>Language: %languageName%</source>
