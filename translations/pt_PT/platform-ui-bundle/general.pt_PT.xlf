@@ -11,12 +11,6 @@
         <target state="final">O JavaScript está desactivo no seu browser mas é necessário para correr a Interface de Utilizador do eZ Platform.</target>
         <note>key: javascript.disabled.required</note>
         <jms:reference-file line="53">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>JavaScript está inactivo no seu browser mas é necessário para correr a Interface de Utilizador do eZ Platform.</target>
-        </alt-trans>
-        <alt-trans>
-          <target>JavaScript está desactivo no seu browser mas é necessário para correr a Interface de Utilizador do eZ Platform.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1ac530659b5b57d48cf6d95bc51ead90f1a2ac6d" resname="javascript.enable" approved="yes">
         <source>Please enable JavaScript to use the eZ Platform User Interface.</source>
