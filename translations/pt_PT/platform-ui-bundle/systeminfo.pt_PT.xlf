@@ -60,9 +60,6 @@
         <target state="final">Utilizador</target>
         <note>key: database.username</note>
         <jms:reference-file line="11">Resources/views/ez-support-tools/info/database.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Nome de utilizador</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="07596f183f5e91b1778d5e47b2752b8d42aa763d" resname="disabled" approved="yes">
         <source>Disabled</source>
@@ -113,9 +110,6 @@
         <target state="final">Acelerador de PHP</target>
         <note>key: php.accelerator</note>
         <jms:reference-file line="10">Resources/views/ez-support-tools/info/php.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Acelarador de PHP</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ee982f9a979085f2f15b3ddc699bfada99429bb4" resname="php.info" approved="yes">
         <source>PHP info</source>
@@ -146,9 +140,6 @@
         <target state="final">Conjunto de caracteres</target>
         <note>key: symfony_kernel.charset</note>
         <jms:reference-file line="19">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Conjunto de caractéres</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8da408eada2e85ad98868421df6185d1c8e4bdb2" resname="symfony_kernel.debugMode" approved="yes">
         <source>Debug mode</source>
