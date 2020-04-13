@@ -17,9 +17,6 @@
         <target state="translated">搜索“%searchText%”時未找到任何結果。</target>
         <note>key: no.result</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
-        <alt-trans>
-          <target>搜索“％searchText％”時未找到任何結果。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d5ddefb37351cd23fd0ef3eef4c9afca357a4493" resname="remaining.more">
         <source>+%remainingCount% more</source>
