@@ -29,9 +29,6 @@
         <target state="translated">Data di modifica</target>
         <note>key: modified</note>
         <jms:reference-file>Resources/public/js/views/subitem/ez-subitemlistmoreview.js</jms:reference-file>
-        <alt-trans>
-          <target>Modificato</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6ae999552a0d2dca14d62e2bc8b764d377b1dd6c" resname="name">
         <source>Name</source>
@@ -128,9 +125,6 @@
         <note>key: viewing.out.of.items</note>
         <jms:reference-file>Resources/public/templates/subitem/grid.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/subitem/listmore.hbt</jms:reference-file>
-        <alt-trans>
-          <target><![CDATA[visualizza <strong class="ez-loadmorepagination-display-count">%displayCount%</strong> fuori dai <strong>%subitemCount%</strong> sotto elementi]]></target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
