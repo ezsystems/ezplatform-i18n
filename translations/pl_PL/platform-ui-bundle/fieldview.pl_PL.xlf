@@ -17,9 +17,6 @@
         <target state="final">Nie udało się załadować mapy</target>
         <note>key: failed.to.load.the.map</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-view.js</jms:reference-file>
-        <alt-trans>
-          <target>Nie udało się załądować mapy</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="977cb55c24b1708d46ccbd753c2cea745976ae21" resname="fieldview.field.empty" approved="yes">
         <source>This field is empty</source>
@@ -79,9 +76,6 @@
         <target state="final">Wczytywanie obrazu</target>
         <note>key: image.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Wczytywanie grafiki</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e21151edf210d6968aa67c35235066389865f136" resname="maplocation.latitude" approved="yes">
         <source>Latitude:</source>
@@ -184,36 +178,24 @@
         <target state="final">Wystąpił błąd podczas wczytywania niektórych elementów powiązanych.</target>
         <note>key: relation.error.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/relation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Wystąpił błąd podczas ładowania niektórych obiektów powiązanych.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d83d7f0b353c6177f297b5a502f4beae187819ec" resname="relation.loading" approved="yes">
         <source>Loading the related content</source>
         <target state="final">Wczytywanie elementów powiązanych</target>
         <note>key: relation.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/relation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Wczytywanie obiektów powiązanych</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3eb127472dda2866ceb5a1278982d2021642e637" resname="relationlist.error.loading" approved="yes">
         <source>An error occurred while loading some of the related contents.</source>
         <target state="final">Wystąpił błąd podczas wczytywania niektórych elementów powiązanych.</target>
         <note>key: relationlist.error.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/relationlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Wystąpił błąd podczas wczytywania niektórych obiektów powiązanych.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1d30f0399910c05468169bd5a7f737caff136afe" resname="relationlist.loading" approved="yes">
         <source>Loading the related contents</source>
         <target state="final">Wczytywanie elementów powiązanych</target>
         <note>key: relationlist.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/relationlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Wczytywanie obiektów powiązanych</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="faedf9e69727ee79230585317a79d93c074508b8" resname="richtext.parsing.error" approved="yes">
         <source>An error occurred while parsing the content of this field</source>
