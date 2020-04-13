@@ -237,9 +237,6 @@
         <target state="translated">Η τιμή πρέπει να είναι μικρότερη η ίση με %minFloatValue%</target>
         <note>key: float.value.should.be.more.than</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Η τιμή πρέπει να είναι μικρότερη h ίση με %minFloatValue%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0e560377b2f3909ebf37cd10977860242a93f694" resname="geocoding.error">
         <source>An error occurred during the geocoding request for this address</source>
@@ -600,9 +597,6 @@
         <target state="translated">Το αρχείο '%name% " απορίφθηκε, επειδή το μέγεθός του είναι μεγαλύτερο από το μέγιστο επιτρεπόμενο μέγεθος (%max%)</target>
         <note>key: over.maximum.allowed.size</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Το αρχείο '%name% " αρνήθηκε, επειδή το μέγεθός του είναι μεγαλύτερο από το μέγιστο επιτρεπόμενο μέγεθος (%max%)</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6fe513c14eb957ff25185e5b3bf73f9f3a8ccee4" resname="refused.not.an.image">
         <source>The file '%name%' was refused because it seems to not be an image. Please choose an image file.</source>
@@ -633,9 +627,6 @@
         <target state="translated">Φόρτωση του συσχετιζόμενου περιεχόμενου</target>
         <note>key: relation.loading</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Φόρτωση του περιεχομένου που σχετίζεται με</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="75d2eb26107e9f1bebc6fd525965df6a2c35dee8" resname="relation.modified">
         <source>Modified:</source>
