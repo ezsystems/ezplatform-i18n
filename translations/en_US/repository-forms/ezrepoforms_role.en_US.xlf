@@ -65,17 +65,11 @@
         <source>Select locations to use as policy limitation</source>
         <target state="final">Select Locations to use as Policy limitation</target>
         <note>key: role.policy.limitation.location.udw_title</note>
-        <alt-trans>
-          <target>Select Locations to use as policy limitation</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="be8159ab7985797bd281cb0f7f58bb4d2c925159" resname="role.policy.limitation.not_implemented" approved="yes">
         <source>Limitation edition for '%limitationTypeIdentifier%' is not implemented yet.</source>
         <target state="final">Limitation edition for '%limitationTypeIdentifier%' is not yet implemented.</target>
         <note>key: role.policy.limitation.not_implemented</note>
-        <alt-trans>
-          <target>Limitation edition for '%limitationTypeIdentifier%' is not implemented yet.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2651baeac233ce0e4ec974e260d8e0873197f3fc" resname="role.policy.save" approved="yes">
         <source>Save</source>
@@ -96,9 +90,6 @@
         <source>Choose a combination of module/function</source>
         <target state="final">Choose a combined module/function</target>
         <note>key: role.policy.type.choose</note>
-        <alt-trans>
-          <target>Choose a combination of module/function</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f807a08e0f2e4780d2d54ed57e5c88bb5c937f49" resname="role.remove_draft" approved="yes">
         <source>Cancel</source>
