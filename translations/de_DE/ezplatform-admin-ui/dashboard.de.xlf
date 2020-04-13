@@ -55,9 +55,6 @@
         <source>Content Type</source>
         <target state="translated">Inhaltstyp</target>
         <note>key: dashboard.table.content_type</note>
-        <alt-trans>
-          <target>Content-Typ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="841a1c1c491e1adec03ce7e9476879c4bb32edb7" resname="dashboard.table.contributor">
         <source>Contributor</source>
@@ -68,9 +65,6 @@
         <source>Can’t fetch contributor</source>
         <target state="translated">Beitragender kann nicht angezeigt werden</target>
         <note>key: dashboard.table.contributor.not_found</note>
-        <alt-trans>
-          <target>Beitragender wurde nicht gefunden</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
         <source>Edit Draft</source>
@@ -96,9 +90,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: dashboard.table.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="783d5adc52cea6b0cc80c2083158297f31a8d59d" resname="dashboard.table.version">
         <source>Version</source>
