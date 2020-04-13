@@ -79,9 +79,6 @@
         <note>key: left</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextalignleft.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/embedleft.js</jms:reference-file>
-        <alt-trans>
-          <target>बाएं</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f1b97751d7808745ad7eb7c9edcae87482aa9852" resname="link.remove">
         <source>Remove</source>
@@ -106,9 +103,6 @@
         <target state="translated">नीचे की ओर ले जाएँ</target>
         <note>key: move.down</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/movedown.js</jms:reference-file>
-        <alt-trans>
-          <target>नीचे ले जाएँ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="68dec644b0986ba6a27e8e7e8ffcd5e1f22cd3fc" resname="move.up">
         <source>Move upward</source>
@@ -127,9 +121,6 @@
         <target state="translated">किस्मे में खोलें:</target>
         <note>key: open.in</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
-        <alt-trans>
-          <target>में खोलें:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f416747c2f302b11d2360559f101e49353e88038" resname="paragraph">
         <source>Paragraph</source>
