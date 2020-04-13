@@ -30,9 +30,6 @@
         <jms:reference-file line="38">Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="7">Resources/views/Section/view.html.twig</jms:reference-file>
         <jms:reference-file line="7">Resources/views/SystemInfo/info.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Dashboard</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
