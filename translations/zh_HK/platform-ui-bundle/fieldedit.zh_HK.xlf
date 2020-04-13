@@ -35,9 +35,6 @@
         <target state="translated">校驗和錯誤，ISBN 13的最後一位應為%checkDigit%</target>
         <note>key: bad.checksum.last.digit.should.be</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>校驗和錯誤，ISBN 13的最後一位應為％checkDigit％</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e5070f4a7780feaac79ab807cd1546a70effb49d" resname="binaryfile.download">
         <source>Download the file</source>
@@ -288,9 +285,6 @@
         <target state="translated">暫無圖片</target>
         <note>key: image.noimage</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>暫無圖像</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ddb2b77067d29961704d011d303b42d5fcc00e5c" resname="image.or">
         <source>or</source>
@@ -531,9 +525,6 @@
         <target state="translated">類型:</target>
         <note>key: media.type</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target>類型</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="200321ea1995c3d33324fef4dba05f58873910f3" resname="media.video.empty">
         <source>No video file yet.</source>
@@ -612,9 +603,6 @@
         <target state="translated">文件'%name%'被拒絕，因為它似乎不是圖像。 請選擇圖像文件。</target>
         <note>key: refused.not.an.image</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>文件'％name％'被拒絕，因為它似乎不是圖像。 請選擇圖像文件。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a1e89ea5d1c7efa83d78aecaaf08c993df7b8d7a" resname="relation.empty">
         <source>No relation.</source>
@@ -784,12 +772,6 @@
         <target state="translated">時間無效, 並且缺少日期</target>
         <note>key: time.not.valid.date.missing</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>時間無效無效, 並且缺少日期</target>
-        </alt-trans>
-        <alt-trans>
-          <target>日期無效, 並且缺少時間</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c788a67f4c797fb4111df6384dd2d201ae947859" resname="time.not.valid.date.required">
         <source>Time do not have a valid input and date is required</source>
