@@ -25,17 +25,11 @@
         <source>Content Type:</source>
         <target state="translated">Type de Contenu :</target>
         <note>key: search.content.type</note>
-        <alt-trans>
-          <target>Type de contenu :</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="738c66eb92535505455b34b383f8089fb1bc0479" resname="search.created">
         <source>Created:</source>
         <target state="translated">Créé :</target>
         <note>key: search.created</note>
-        <alt-trans>
-          <target>Crée :</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a32fe0699ebb4545ab1a39bab0311633c3f92fc3" resname="search.creator">
         <source>Creator:</source>
@@ -66,17 +60,11 @@
         <source>Last modified:</source>
         <target state="translated">Modifié :</target>
         <note>key: search.last.modified</note>
-        <alt-trans>
-          <target>Modifié le :</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2d007a8d9fc080db790dc5c45c12dd369d144fbe" resname="search.last_month">
         <source>Last month</source>
         <target state="translated">Le mois dernier</target>
         <note>key: search.last_month</note>
-        <alt-trans>
-          <target>Le Mois dernier</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="967e0a47af2b621d7e8fa29b2429a30644f8d6bb" resname="search.last_week">
         <source>Last week</source>
@@ -137,9 +125,6 @@
         <source>Content Type</source>
         <target state="translated">Type de Contenu</target>
         <note>key: search.type</note>
-        <alt-trans>
-          <target>Type</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c33e03cc28d02c59ac241dba3a1bb3ea0ab1f358" resname="search.udw.select_content">
         <source>Select Content</source>
