@@ -95,9 +95,6 @@
         <source>Invalid</source>
         <target state="translated">Non valide</target>
         <note>key: url.status.invalid</note>
-        <alt-trans>
-          <target>Invalide</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8907a4f74219ceff2ee07437ec1657f1ee75a830" resname="url.status.valid">
         <source>Valid</source>
