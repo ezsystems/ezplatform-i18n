@@ -50,9 +50,6 @@
         <source>Upload sub-items</source>
         <target state="translated">Загрузить под-элементы</target>
         <note>key: multi_file_upload_open_btn.label</note>
-        <alt-trans>
-          <target>Загрузить подпункты</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="76d7ffabd7e8c5d27a9b732dd5f15d1da68ff00c" resname="upload.success.message">
         <source>Uploaded</source>
