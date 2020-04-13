@@ -10,9 +10,6 @@
         <source>Content</source>
         <target state="translated">Contenuto</target>
         <note>key: content</note>
-        <alt-trans>
-          <target>Cntenuto</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
