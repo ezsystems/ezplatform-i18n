@@ -175,17 +175,11 @@
         <source>Something went wrong. Sorry!</source>
         <target state="final">Coś poszło nie tak.</target>
         <note>key: error.page.404.title</note>
-        <alt-trans>
-          <target>Ups! Coś poszło nie tak.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions" approved="yes">
         <source><![CDATA[Please contact your eZ Platform Administrator and inform her/him about the time the error occurred, the URL in your browser window and anything related you think may have caused the error.<br/>You can also go back or try to reload the application.]]></source>
         <target state="final"><![CDATA[Skontaktuj się ze swoim administratorem eZ Platform i podaj czas wystąpienia błędu, adres URL w oknie przeglądarki oraz inne informacje o błędzie.<br/>Możesz też przejść wstecz lub przeładować aplikację.]]></target>
         <note>key: error.page.default.actions</note>
-        <alt-trans>
-          <target><![CDATA[Skontaktuj się ze swoim administratorem eZ Platform i podaj czas wystąpienia błędu, adres URL w oknie przeglądarki oraz inne informacjeo błędzie.<br/>Możesz też przejść wstecz lub przeładować aplikację.]]></target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8338c190462d420926edf71e8d4cddcae710d361" resname="error.page.default.message" approved="yes">
         <source>It's an error 500, an internal server error. The server was unable to complete your request and it's not your fault.</source>
@@ -196,9 +190,6 @@
         <source>Something went wrong. Sorry!</source>
         <target state="final">Coś poszło nie tak.</target>
         <note>key: error.page.default.title</note>
-        <alt-trans>
-          <target>Ups! Coś poszło nie tak.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add" approved="yes">
         <source>Add author</source>
@@ -307,9 +298,6 @@
         <source>Location Content Swap</source>
         <target state="final">Zamiana lokalizacji</target>
         <note>key: tab.locations.location_content_swap</note>
-        <alt-trans>
-          <target>Zamiana lokalizacji treści</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="27d429c3dcff70494c4080957b05a9db5255f854" resname="tab.locations.swap_with_another" approved="yes">
         <source>Swap the content item at this location with another</source>
