@@ -95,9 +95,6 @@
         <source>Role "%identifier%"</source>
         <target state="translated">Role "%identifier%"</target>
         <note>key: role.breadcrumb.view.identifier</note>
-        <alt-trans>
-          <target>Papel "%identifier%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="59754dcca61db396ef9de8abd3aa63645bd50f65" resname="role.create.success">
         <source>Role '%role%' created.</source>
@@ -158,9 +155,6 @@
         <source>Role "%identifier%"</source>
         <target state="translated">Rol "%identifier%"</target>
         <note>key: role.view.view.title</note>
-        <alt-trans>
-          <target>Role "%identifier%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="84f19e53b432c72daaf803a5cbb9bf10d763b5e4" resname="role.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
