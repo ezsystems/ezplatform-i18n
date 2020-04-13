@@ -11,9 +11,6 @@
         <target state="final">Tem certeza que deseja remover permanentemente %count% itens? Esta acção não pode ser revertida.</target>
         <note>key: confirm.permanent.delete.items</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Tem certeza que deseja remover permantemente %count% itens? Esta acção não pode ser revertida.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="175a957e55daa96d77e4354c9a79e80401cb8b3c" resname="content.items.restored" approved="yes">
         <source>%count%  Content item(s) have been restored</source>
