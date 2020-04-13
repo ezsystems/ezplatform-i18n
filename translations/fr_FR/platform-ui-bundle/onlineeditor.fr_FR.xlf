@@ -91,9 +91,6 @@
         <target state="final">Retirer</target>
         <note>key: link.remove</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
-        <alt-trans>
-          <target>Supprimer</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="df924f3511438d4ef5588e1680b084b2a665da56" resname="link.save" approved="yes">
         <source>Save</source>
@@ -201,9 +198,6 @@
         <target state="final">Sélectionner des contenus</target>
         <note>key: select.content</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
-        <alt-trans>
-          <target>Selectionner des contenus</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3c6de1b7dd91465d437ef415f94f36afc1fbc8a8" resname="title" approved="yes">
         <source>Title</source>
