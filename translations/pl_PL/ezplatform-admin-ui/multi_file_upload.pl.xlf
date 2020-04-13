@@ -15,9 +15,6 @@
         <source>Cannot upload file</source>
         <target state="final">Nie można przesłać pliku</target>
         <note>key: cannot_upload.message</note>
-        <alt-trans>
-          <target>Nie można załadować pliku</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9914d81081499df395d9a54e9d5208be234d4367" resname="delete.label" approved="yes">
         <source>Delete</source>
