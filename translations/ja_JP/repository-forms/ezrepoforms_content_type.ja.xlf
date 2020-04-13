@@ -35,9 +35,6 @@
         <source>Content field definitions</source>
         <target state="translated">コンテンツフィールド定義</target>
         <note>key: content_type.field_definitions_data</note>
-        <alt-trans>
-          <target>コンテンツフィールドの定義</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a43bfd2651eb1f3357e3398286afd5b6e17c101e" resname="content_type.field_type_selection">
         <source>Field type selection</source>
