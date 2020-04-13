@@ -15,9 +15,6 @@
         <source>Create a content type</source>
         <target state="final">Utwórz typ treści</target>
         <note>key: content_type.create</note>
-        <alt-trans>
-          <target>Stwórz typ treści</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7b64ebcf792d888de957eaee1c3734c97c80db98" resname="content_type.default_always_available" approved="yes">
         <source>Default content availability</source>
@@ -28,9 +25,6 @@
         <source>Default field for sorting children</source>
         <target state="final">Domyślne pole do sortowania podelementów</target>
         <note>key: content_type.default_sort_field</note>
-        <alt-trans>
-          <target>Domyślne pole do sortowania</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7a67ffefca1339a9e4c5224d773378c2e5f6f378" resname="content_type.default_sort_order" approved="yes">
         <source>Default sort order</source>
@@ -81,9 +75,6 @@
         <source>Container</source>
         <target state="final">Może zawierać podelementy</target>
         <note>key: content_type.is_container</note>
-        <alt-trans>
-          <target>Może posiadać podelementy</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name" approved="yes">
         <source>Name</source>
@@ -94,9 +85,6 @@
         <source>Content name pattern</source>
         <target state="final">Schemat tworzenia nazwy</target>
         <note>key: content_type.name_schema</note>
-        <alt-trans>
-          <target>Schemat budowania nazw dla tego typu treści</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="49e5f320e6e37cbd53a5d290e3ffd48788226852" resname="content_type.publish" approved="yes">
         <source>OK</source>
@@ -177,9 +165,6 @@
         <source>URL alias name pattern</source>
         <target state="final">Schemat tworzenia nazwy aliasu URL</target>
         <note>key: content_type.url_alias_schema</note>
-        <alt-trans>
-          <target>Szablon aliasu URL</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description" approved="yes">
         <source>Description</source>
@@ -240,17 +225,11 @@
         <source>Current date and time adjusted by</source>
         <target state="final">Bieżące data i czas zmienione o</target>
         <note>key: field_definition.ezdatetime.date_interval</note>
-        <alt-trans>
-          <target>Obecna data i czas zmieniona o</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7b4f4729ec64de6f20356ad40f768c98c27590fb" resname="field_definition.ezdatetime.default_type" approved="yes">
         <source>Default value</source>
         <target state="final">Wartość domyślna</target>
         <note>key: field_definition.ezdatetime.default_type</note>
-        <alt-trans>
-          <target>Warość domyślna</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e37e68ecadab17cf7132cd1d5163a4f13d0f759c" resname="field_definition.ezdatetime.default_type_adjusted" approved="yes">
         <source>Adjusted current datetime</source>
@@ -336,17 +315,11 @@
         <source>HTML5 audio</source>
         <target state="final">Audio HTML5</target>
         <note>key: field_definition.ezmedia.type_html5_audio</note>
-        <alt-trans>
-          <target>HTML5 audio</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2039c43bb8832c53f19d0a027c64e40e51f22899" resname="field_definition.ezmedia.type_html5_video" approved="yes">
         <source>HTML5 video</source>
         <target state="final">Wideo HTML5</target>
         <note>key: field_definition.ezmedia.type_html5_video</note>
-        <alt-trans>
-          <target>wideo HTML5</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e78eb62bcd9c8b47ff51f38c4a828cf91749d38b" resname="field_definition.ezmedia.type_quick_time" approved="yes">
         <source>QuickTime</source>
@@ -387,9 +360,6 @@
         <source>Select a start location for browsing for relation</source>
         <target state="final">Wybierz domyślną lokalizację, od której zaczyna się wybór powiązania dla tego pola</target>
         <note>key: field_definition.ezobjectrelation.selection_root_udw_title</note>
-        <alt-trans>
-          <target>Wybierz domyślną lokalizację, od której zaczyna się wybór relacji dla tego pola</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7e061dc7c88fe38c11714695d4034f935788efb3" resname="field_definition.ezobjectrelationlist.selection_content_types" approved="yes">
         <source>Allowed content types</source>
@@ -545,9 +515,6 @@
         <source>Translatable</source>
         <target state="final">Można tłumaczyć</target>
         <note>key: field_definition.is_translatable</note>
-        <alt-trans>
-          <target>Można przetłumaczyć</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9a02e329edf4c1e41c97c8be922137c284c249c4" resname="field_definition.name" approved="yes">
         <source>Name</source>
