@@ -11,18 +11,12 @@
         <target state="translated">您確定要永久刪除%count%項嗎？ 這個操作無法逆轉。</target>
         <note>key: confirm.permanent.delete.items</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>您確定要永久刪除％count％項嗎？ 這個操作無法逆轉。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="175a957e55daa96d77e4354c9a79e80401cb8b3c" resname="content.items.restored">
         <source>%count%  Content item(s) have been restored</source>
         <target state="translated">%count%項已恢復</target>
         <note>key: content.items.restored</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>％count％項已恢復</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5ed184c9ace808c1f22a8dba32474b2d8c307b90" resname="empty.trash">
         <source>Empty the Trash</source>
@@ -41,9 +35,6 @@
         <target state="translated">還原垃圾回收項id：%id%時出錯。當前無法還原其原始位置</target>
         <note>key: error.restoring.item</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>還原垃圾回收項id：％id％時出錯。當前無法還原其原始位置</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="034c33d9dc24f606046bc88959214744dcb84993" resname="failed.load.content.type">
         <source>Failed to load trash item Content Type name</source>
@@ -98,9 +89,6 @@
         <target state="translated">還原到新的父节点下</target>
         <note>key: trash.ancestors.button</note>
         <jms:reference-file>Resources/public/templates/trash.hbt</jms:reference-file>
-        <alt-trans>
-          <target>還原到新的父級下</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7883128cdfb813826271abe90b3a1f3190833ce6" resname="trash.empty">
         <source>The trash is empty</source>
