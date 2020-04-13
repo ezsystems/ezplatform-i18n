@@ -59,12 +59,6 @@
         <target state="final">Kopiowanie "%contentName%" do "%parentContentName%"</target>
         <note>key: content.being.copied.under</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Skopiowano "%contentName%" do "%parentContentName%"</target>
-        </alt-trans>
-        <alt-trans>
-          <target>"%contentName%" zostało skopiowane do "%parentContentName%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2be07d7fa67c4111b55ff1ae95aa7bb38df17774" resname="content.browser.title" approved="yes">
         <source>Content browser</source>
@@ -77,9 +71,6 @@
         <target state="final">Skopiowano '%contentName%' do '%parentContentName%'</target>
         <note>key: content.copied.under</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>'%contentName%' zostało pomyślnie skopiowane do '%parentContentName%'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0bc4676a2e348119912d9a0cb23c8b9c2db54b38" resname="createcontentaction.loading" approved="yes">
         <source>Loading</source>
@@ -109,9 +100,6 @@
         <source>Content tree</source>
         <target state="final">Drzewo elementów</target>
         <note>key: discoverybar.contenttree</note>
-        <alt-trans>
-          <target>Drzewo zawartości</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="69eda63e3b6ba8e8eb35db12ef1995c5dba42c17" resname="discoverybar.minimize" approved="yes">
         <source>Minimize</source>
@@ -154,9 +142,6 @@
         <target state="final">Wystąpił błąd podczas ujawniania lokalizacji "%id%"</target>
         <note>key: error.revealing.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Wystąpił błąd podczas ukazywania lokalizacji "%id%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e650b8f59c13ba2541db9ae6ac90a1857d88cb54" resname="failed.creating.new.location.for" approved="yes">
         <source>Creating new location for "%name%" under "%parentName%" failed</source>
@@ -181,36 +166,24 @@
         <target state="final">Utworzono nową lokalizację dla "%name%"</target>
         <note>key: location.created</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Nowa lokalizacja dla "%name%" została pomyślnie utworzona</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9ed496cc88a3a2f48a33464deb00f217d41803ca" resname="locations.created" approved="yes">
         <source>%count% new locations for "%name%" have been successfully created</source>
         <target state="final">Utworzono %count% nowych lokalizacji dla elementu "%name%"</target>
         <note>key: locations.created</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Utworzono %count% nowych lokalizacji dla obiektu "%name%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0303d73c8f63f2d6b9f34ac721f6622214ad458d" resname="revealed.location" approved="yes">
         <source>Location "%id%" has been revealed</source>
         <target state="final">Ujawniono lokalizację "%id%"</target>
         <note>key: revealed.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Odkryto lokalizację "%id%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="67b19056cc5015b057182c283116f05c69507d22" resname="revealing.location" approved="yes">
         <source>Revealing Location "%id%"</source>
         <target state="final">Ujawnianie lokalizacji "%id%"</target>
         <note>key: revealing.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Ukazywanie lokalizacji "%id%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7fc31d0ca90043a53df1a70b6d9d84c8c4fddf30" resname="select.a.language.for.new.translation" approved="yes">
         <source>Select a language for your new translation:</source>
