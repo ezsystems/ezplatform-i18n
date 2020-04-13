@@ -11,18 +11,12 @@
         <target state="final">A JavaScript nincs engedélyezve a böngésződben, azonban enélkül nem tudod használni az eZ Platform User Interfészt.</target>
         <note>key: javascript.disabled.required</note>
         <jms:reference-file line="53">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>A JavaScript nincs engedélyezve a böngészőjében, azonban enélkül nem tudja használni az eZ Platform User Interfészt.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1ac530659b5b57d48cf6d95bc51ead90f1a2ac6d" resname="javascript.enable" approved="yes">
         <source>Please enable JavaScript to use the eZ Platform User Interface.</source>
         <target state="final">Kérjük, engedélyezd a JavaScriptet az eZ Platform User Interface használatához.</target>
         <note>key: javascript.enable</note>
         <jms:reference-file line="54">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Kérjük, engedélyezze a JavaScriptet az eZ Platform User Interface használatához.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="40797c87a424e73c1893096db97ec0147bd261bf" resname="loading.application" approved="yes">
         <source>Loading the application...</source>
