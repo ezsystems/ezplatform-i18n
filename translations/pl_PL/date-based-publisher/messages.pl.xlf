@@ -15,17 +15,11 @@
         <source>Future publication canceled</source>
         <target state="final">Wycofano publikację w przyszłości</target>
         <note>key: content.scheduled.canceled</note>
-        <alt-trans>
-          <target>Publikacja w przyszłości cofnięta</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="34b402006eccad0bda15c91d1c25af637419d933" resname="content.scheduled.published" approved="yes">
         <source>Future publication published</source>
         <target state="final">Wykonano zaplanowaną publikację</target>
         <note>key: content.scheduled.published</note>
-        <alt-trans>
-          <target>Publikacja w przyszłości zaplanowana</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title" approved="yes">
         <source>Title:</source>
