@@ -47,9 +47,6 @@
         <target state="translated">Sposta nel cestino</target>
         <note>key: actionbar.sendToTrash</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
-        <alt-trans>
-          <target>Spostato nel cestino</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5b0a413f93880e60e8da0cc54c3d2643afef840c" resname="actionbar.translate">
         <source>Translations</source>
@@ -92,9 +89,6 @@
         <target state="translated">Creazione di una nuova posizione/i "%name%" non riuscita</target>
         <note>key: creating.new.location.for.failed</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Creazione di una nuova posizione "%name%" non riuscita</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4f1d1e873e2acd3ffa920e7ee8fa339b43ffe384" resname="discoverybar.browse">
         <source>Content browse</source>
