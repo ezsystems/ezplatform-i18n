@@ -11,9 +11,6 @@
         <target state="final">A localização raiz não pode ser carregada</target>
         <note>key: cannot.load.root.location</note>
         <jms:reference-file>Resources/public/js/views/services/ez-dashboardblocksviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Localização raiz não pode ser carregada</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ff6664ae5d5b882ee85a683861bf2d39369f3992" resname="dashboard.all.content" approved="yes">
         <source>All Content</source>
@@ -55,9 +52,6 @@
         <target state="final">Os meus Conteúdos</target>
         <note>key: dashboard.my.content</note>
         <jms:reference-file>Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Meus Conteúdos</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="deee7b8356005d3419c3907048b4c62f6c947a3c" resname="dashboard.my.drafts" approved="yes">
         <source>My Drafts</source>
