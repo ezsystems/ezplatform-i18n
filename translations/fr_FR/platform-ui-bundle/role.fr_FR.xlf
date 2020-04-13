@@ -23,12 +23,6 @@
         <target state="translated">Attribution du rôle "%roleName%" à %count% utilisateurs/groupes avec limitation à une sous-arborescence</target>
         <note>key: assigning.role.to.users.subtree.limited</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Attribution du rôle "%roleName%" à %count% utilisateurs/groupes limité à une sous-arborescence</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Attribution du rôle "%roleName%" à %count% utilisateurs/groupes limités à une sous-arborescence</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c06ec423bdd64f80f5e1bd403445c8f158cbbf7a" resname="assignment.none" approved="yes">
         <source>This role is not assigned to any users or user groups.</source>
@@ -65,18 +59,12 @@
         <target state="translated">Le rôle n'a pas été assigné à "%name%" : %message%</target>
         <note>key: failed.assigned.role</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Le rôle n'a pas été assigné à "%name%": %message%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7f17d5ce98c94b79ee8708703b552c2c101714ff" resname="failed.assigned.role.user">
         <source>Role has not been assigned to any users/groups</source>
         <target state="translated">Le rôle n'a été assigné à aucun utilisateur ou groupe</target>
         <note>key: failed.assigned.role.user</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Aucun rôle n'a été assigné à aucun utilisateur ou groupe</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c0f6421b8ab278d972511eeb070a3b76a1052a7f" resname="failed.loading.role">
         <source>The role "%roleName%" could not be loaded</source>
@@ -162,33 +150,18 @@
         <target state="translated">Attribuer le rôle "%roleIdentifier%" aux utilisateurs/groupes avec limitation de sections</target>
         <note>key: role.assign_limit_section.user_or_group.pagetitle</note>
         <jms:reference-file line="19">Resources/views/Role/assign_role_by_section.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Attribuer le rôle « %roleIdentifier% » aux utilisateurs/groupes avec limitation de sections</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fb7171e412fc18e77fe5c7c5e20e85a37c0b126a" resname="role.assign_limit_subtree.universaldiscovery.title">
         <source>Pick the location to use as subtree limitation when assigning the role "%roleIdentifier%"</source>
         <target state="translated">Choisir l’emplacement pour servir de limitation de la sous-arborescence lorsque vous affectez le rôle « %roleIdentifier% »</target>
         <note>key: role.assign_limit_subtree.universaldiscovery.title</note>
         <jms:reference-file line="203">Resources/views/Role/view_role.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Choisir l’emplacement pour servir de limitation de la sous-arborescence lorsque vous affectez le rôle de « %roleIdentifier% »</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Choisissez l’emplacement pour servir de limitation de la sous-arborescence lorsque vous affectez le rôle de « %roleIdentifier% »</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8211a64763ecf5a6a1e5d0e2386357c0bc2e7c89" resname="role.assign_limit_subtree.user_or_group">
         <source>Assign to users/groups with subtree limitation</source>
         <target state="translated">Attribuer avec limitation de sous-arborescence aux utilisateurs/groupes</target>
         <note>key: role.assign_limit_subtree.user_or_group</note>
         <jms:reference-file line="209">Resources/views/Role/view_role.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Attribuer le rôle avec limitation de sous-arborescence aux utilisateurs/groupes</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Attribuer les limitations de sous-arborescence aux utilisateurs/groupes</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0ce0a34c38d96440f735fd742c5bec62cc5f5ca4" resname="role.assign_role_limit_section">
         <source>Assign role with section limitation</source>
@@ -207,12 +180,6 @@
         <target state="translated">Le rôle « %name% » a été attribué à %count% utilisateurs/groupes avec limitation à la section « %sectionName% »</target>
         <note>key: role.assigned.to.user.section.limited</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Le rôle de la « %name% » a été attribué à %count% utilisateurs/groupes avec limitation à la section « %sectionName% »</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Le rôle de la « %name% » a été attribué à %count% utilisateurs/groupes limités à la section « %sectionName% »</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="de2a22e85b1f317f6933cfe3fba784ff747d2359" resname="role.assigned.to.user.subtree.limited">
         <source>"%name%" role has been assigned to %count% users/groups with a subtree limitation</source>
