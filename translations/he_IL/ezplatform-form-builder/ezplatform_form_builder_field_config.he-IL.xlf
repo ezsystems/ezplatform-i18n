@@ -85,9 +85,6 @@
         <source>Maximum allowed file size (MB)</source>
         <target state="translated">המרבי המותר גודל הקובץ (MB)</target>
         <note>key: validation.upload_size</note>
-        <alt-trans>
-          <target>גודל מירבי מותר ב-MB</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
