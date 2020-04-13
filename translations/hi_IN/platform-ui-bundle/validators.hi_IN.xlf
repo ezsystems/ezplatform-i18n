@@ -15,9 +15,6 @@
         <source>The section identifier can not be empty.</source>
         <target state="translated">अनुभाग पहचानकर्ता रिक्त नहीं हो सकता।</target>
         <note>key: section.validator.identifier.not_blank</note>
-        <alt-trans>
-          <target>खंड पहचानकर्ता रिक्त नहीं हो सकता।</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bc1b2c67bc416368f449869bb57b50b1d62a4c04" resname="section.validator.name.not_blank">
         <source>The section name can not be empty.</source>
