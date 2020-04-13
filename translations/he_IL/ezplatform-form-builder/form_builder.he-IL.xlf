@@ -65,9 +65,6 @@
         <source>Alphabets</source>
         <target state="translated">אלפאבית</target>
         <note>key: form_builder.validator.regex.pattern.alpha</note>
-        <alt-trans>
-          <target>אלבאית</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="71c3e1f8784415b29443d47570d96485d35675cd" resname="form_builder.validator.regex.pattern.custom">
         <source>Custom</source>
