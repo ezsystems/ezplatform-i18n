@@ -17,9 +17,6 @@
         <target state="translated">Ungültiger Benutzername oder Passwort</target>
         <note>key: invalid.login.passord</note>
         <jms:reference-file>Resources/public/js/views/services/ez-loginformviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Ungültiger Benutzername oder Kennwort</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b6b3ad938a789b7901b9d123981d007b69e8077c" resname="loginform.ez.logo">
         <source>eZ Logo</source>
@@ -56,9 +53,6 @@
         <target state="translated">Ein unerwarteter Fehler ist aufgetreten</target>
         <note>key: unexpected.error</note>
         <jms:reference-file>Resources/public/js/views/services/ez-loginformviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Ein unerwarteter Fehler aufgetreten</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
