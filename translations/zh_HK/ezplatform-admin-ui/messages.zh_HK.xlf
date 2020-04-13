@@ -55,9 +55,6 @@
         <source>User Preferences</source>
         <target state="translated">用户首選項</target>
         <note>key: breadcrumb.user_preferences</note>
-        <alt-trans>
-          <target>用户/首選項</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d23f0200b4769a69d2414de6d96117fed4601326" resname="character_counter.characters">
         <source>characters</source>
@@ -183,9 +180,6 @@
         <source>Are you sure you want to permanently delete %trashItemsCount% item(s)?</source>
         <target state="translated">您確定要永久刪除%trashItemsCount%項嗎？</target>
         <note>key: trash.delete.all.confirm</note>
-        <alt-trans>
-          <target>您確定要永久刪除％trashItemsCount％項嗎？</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="48e20c2b09b340ca2e2020edaa30a57c8bc3f26b" resname="trash.delete.all.info">
         <source>This action cannot be reversed</source>
