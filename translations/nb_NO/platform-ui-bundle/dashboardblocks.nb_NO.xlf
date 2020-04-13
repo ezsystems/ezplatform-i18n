@@ -52,9 +52,6 @@
         <target state="translated">Mitt innhold</target>
         <note>key: dashboard.my.content</note>
         <jms:reference-file>Resources/public/templates/dashboard/mycontent.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Innholdet mitt</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="deee7b8356005d3419c3907048b4c62f6c947a3c" resname="dashboard.my.drafts">
         <source>My Drafts</source>
