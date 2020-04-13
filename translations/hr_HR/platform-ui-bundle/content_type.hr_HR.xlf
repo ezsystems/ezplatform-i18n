@@ -11,12 +11,6 @@
         <target state="translated">Spremnik</target>
         <note>key: content_type.container</note>
         <jms:reference-file line="62">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Spremnik sadržaja</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Kontejner</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f1312e397c7aa2e8e21be7f65161c6a99b728d3e" resname="content_type.content.title">
         <source>Content field definitions</source>
@@ -40,18 +34,12 @@
         <target state="translated">Pretpostavljena dostupnost u glavnom jeziku sadržaja, ukoliko ne postoji odgovarajući prijevod</target>
         <note>key: content_type.default_availability</note>
         <jms:reference-file line="77">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Zadana dostupnost u primarnom jeziku, ukoliko ne postoji prijevod</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help">
         <source>Default availability in primary language, if translation is absent</source>
         <target state="translated">Pretpostavljena dostupnost u glavnom jeziku sadržaja, ukoliko ne postoji odgovarajući prijevod</target>
         <note>key: content_type.default_availability.help</note>
         <jms:reference-file line="78">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Zadana dostupnost u primarnom jeziku, ukoliko ne postoji prijevod</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d14799b2ac8854ab3f0bb9976258c3db39213d09" resname="content_type.default_availability.value">
         <source>{0} Not available|{1} Available</source>
@@ -84,18 +72,12 @@
         <jms:reference-file line="152">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="44">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
         <jms:reference-file line="46">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Uredi</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="38a48d5b27331f27a6a51e3bb9be3e6340fc1ccb" resname="content_type.edit_title">
         <source>Edit</source>
         <target state="translated">Uređivanje</target>
         <note>key: content_type.edit_title</note>
         <jms:reference-file line="154">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Uredi</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="139bc06fcecd7ab2e8e59233d52cae047b22af5b" resname="content_type.group">
         <source>Content type group</source>
@@ -120,9 +102,6 @@
         <target state="translated">Stvaranje nove grupe vrste sadržaja</target>
         <note>key: content_type.group.create.title</note>
         <jms:reference-file line="5">Resources/views/ContentType/edit_content_type_group.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Kreiraj novu grupu vrste sadržaja</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8023ffcb49893af87bad5805790b91dee17b3acc" resname="content_type.group.deleted">
         <source>Content type group "%identifier%" was correctly deleted.</source>
@@ -136,9 +115,6 @@
         <note>key: content_type.group.edit</note>
         <jms:reference-file line="39">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
         <jms:reference-file line="41">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Uredi</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="32ba0cf1376c3c7bb98ae775d06504203b972781" resname="content_type.group.edit.title">
         <source>Editing Content type group "%identifier%"</source>
@@ -173,9 +149,6 @@
         <note>key: content_type.group.new</note>
         <jms:reference-file line="65">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
         <jms:reference-file line="67">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Stvaranje nove grupe vrste sadržaja</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="334f261e09d7b3da4b26022a121ef596bff8a422" resname="content_type.group.notification.created">
         <source>Content type group "%identifier%" was correctly created.</source>
@@ -300,9 +273,6 @@
         <target state="translated">Obavezno</target>
         <note>key: field_definition.required</note>
         <jms:reference-file line="125">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Obavezno polje</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2e2ef6bae44fe23eec336dec39035b5d2c4b87b6" resname="field_definition.searchable">
         <source>Searchable</source>
@@ -321,12 +291,6 @@
         <target state="translated">Tip</target>
         <note>key: field_definition.type</note>
         <jms:reference-file line="101">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Vrsta</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Vrsta polja</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3e9deeb426f08a404990a6926d70558955272593" resname="yes_no">
         <source>{0} No|{1} Yes</source>
