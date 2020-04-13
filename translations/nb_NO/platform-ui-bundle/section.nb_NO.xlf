@@ -48,10 +48,6 @@
                 </target>
         <note>key: section.assigned.contentcount</note>
         <jms:reference-file line="41">Resources/views/Section/view.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>{0} Denne seksjonen er tilordnet %contentCount% innholdselementer.|{1} Denne seksjonen er tilordnet %contentCount% innholdselement.|]1,Inf[ Denne seksjonen er tilordnet til %contentCount% innholdselementer.
-                </target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0a8c9188f868f7dfd2f523d0d1eabeb846d39d03" resname="section.cancel">
         <source>Cancel</source>
@@ -73,9 +69,6 @@
         <jms:reference-file line="18">Resources/views/Section/create.html.twig</jms:reference-file>
         <jms:reference-file line="5">Resources/views/Section/create.html.twig</jms:reference-file>
         <jms:reference-file line="5">Resources/views/Section/edit.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Opprette en ny seksjon</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="21bb6cc5af5d7f7dafbb30cc73cfba180dc68803" resname="section.deleted">
         <source>The Section "%sectionName%" was correctly deleted.</source>
@@ -153,9 +146,6 @@
         <note>key: section.new</note>
         <jms:reference-file line="105">Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="107">Resources/views/Section/list.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Opprett en ny seksjon</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="73477cdb03483ff68ff67d6a840516b4bcf6e64e" resname="section.notification.created">
         <source>The section "%sectionName%" was correctly created.</source>
