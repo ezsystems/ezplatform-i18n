@@ -17,9 +17,6 @@
         <target state="final">Válassz tartalomtípust</target>
         <note>key: contenttypeselector.choose.content.type</note>
         <jms:reference-file>Resources/public/templates/contenttypeselector.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Válasszon tartalomtípust</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2f48fb3d3a4a4b1347c8f9019a2e9fa1cc78a674" resname="contenttypeselector.filter.group" approved="yes">
         <source>Filter by group</source>
@@ -32,9 +29,6 @@
         <target state="final">szöveg beírásával szűkítheted a listát</target>
         <note>key: contenttypeselector.start.typing</note>
         <jms:reference-file>Resources/public/templates/contenttypeselector.hbt</jms:reference-file>
-        <alt-trans>
-          <target>szöveg beírásával szűkítheti a listát</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
