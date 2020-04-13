@@ -45,9 +45,6 @@
         <source>Title:</source>
         <target state="translated">Titre:</target>
         <note>key: content.scheduled.title</note>
-        <alt-trans>
-          <target>Titre :</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a6747a32fb851855b9fa7689ab2bc2d27d10c60f" resname="content.scheduled_hide.action.cancel">
         <source>Cancel</source>
@@ -148,17 +145,11 @@
         <source>Cannot schedule content: %reason%</source>
         <target state="translated">Impossible de planifier le contenu : %reason%</target>
         <note>key: date_based_publisher.error.publish_later</note>
-        <alt-trans>
-          <target>Impossible de planifier le contenu: %reason%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7d074c91468b3c1f9e6302ea0432306fef788e95" resname="discard_schedule_publish">
         <source>discard_schedule_publish</source>
         <target state="translated">Annuler planification de publication</target>
         <note>key: discard_schedule_publish</note>
-        <alt-trans>
-          <target>Annuler future publication</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="dcb8f016db59563b21714e4ba0688f7650fc6995" resname="menu.date_based_publisher">
         <source>Publish later</source>
@@ -169,9 +160,6 @@
         <source>Discard publish later</source>
         <target state="translated">Annuler la publication future</target>
         <note>key: menu.date_based_publisher.discard</note>
-        <alt-trans>
-          <target>Annuler la future publication</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="26f482fde81774ad7fcaa8bc2626f6bf64eae9f7" resname="modal.scheduling.button.cancel.label">
         <source>Cancel</source>
@@ -197,9 +185,6 @@
         <source>Future publication settings</source>
         <target state="translated">Paramètres de planification de publication</target>
         <note>key: publish_later.settings</note>
-        <alt-trans>
-          <target>Paramètres de publication future</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f9c384926313f5ec7d6685f8a56b3f5c826eb1d8" resname="schedule_hide.date_and_time">
         <source>Date and time</source>
@@ -210,17 +195,11 @@
         <source>schedule_publish</source>
         <target state="translated">Planifier la publication</target>
         <note>key: schedule_publish</note>
-        <alt-trans>
-          <target>Publier plus tard</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e5a66fd1e539dbf81f810d2022a3d8ee67a7a17c" resname="tab.name.all_scheduled">
         <source>All scheduled</source>
         <target state="translated">Toutes les publications planifiées</target>
         <note>key: tab.name.all_scheduled</note>
-        <alt-trans>
-          <target>Toutes les futures publications</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="49e01918c7a89ab888e3fea20cf0a9f7953b4908" resname="version.deleted">
         <source>Version deleted</source>
