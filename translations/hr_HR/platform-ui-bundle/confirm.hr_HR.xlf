@@ -29,9 +29,6 @@
         <target state="translated">Datum posljednje izmjene</target>
         <note>key: draftconflict.lastmodified</note>
         <jms:reference-file>Resources/public/templates/confirmbox/draftconflict.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Posljednja izmjena</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c35f9f95f267fd0c78da8ae80914a1cbc15bb90b" resname="draftconflict.newdraft">
         <source>New Draft</source>
