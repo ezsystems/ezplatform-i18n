@@ -10,9 +10,6 @@
         <source>New Version Draft for '%name%' created.</source>
         <target state="final">Utworzono nowy szkic wersji dla "%name%".</target>
         <note>key: content.create_draft.success</note>
-        <alt-trans>
-          <target>Nowy szkic wersji dla "%name%" został utworzony.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7b7f768e446eae09c01c831807e246e293f65349" resname="content.edit.permission.error">
         <source>You don't have permission to edit the content</source>
@@ -38,9 +35,6 @@
         <source>Main location for '%name%' updated.</source>
         <target state="final">Zaktualizowano główną lokalizację dla "%name%".</target>
         <note>key: content.main_location_update.success</note>
-        <alt-trans>
-          <target>Główna lokalizacja dla "%name%" została uaktualniona.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d906dd66ce60bd64f6ba3ccc4ecf3fa443ff9e83" resname="content.reveal.already_visible">
         <source>Content '%name%' was already visible.</source>
@@ -56,9 +50,6 @@
         <source>User with login '%login%' deleted.</source>
         <target state="final">Usunięto użytkownika o loginie "%login%".</target>
         <note>key: user.delete.success</note>
-        <alt-trans>
-          <target>Użytkownik o loginie "%login%" został usunięty.</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
