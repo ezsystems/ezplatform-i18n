@@ -114,18 +114,12 @@
         <note>key: date.not.valid</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-date-editview.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Dette er ikke en gyldig dato</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="86b1150b591a089eab73f5cb58fc11964ccb5f78" resname="date.not.valid.time.missing">
         <source>Date do not have a valid input and time is missing</source>
         <target state="translated">Datoen har ikke gyldig verdi, og klokkeslett mangler</target>
         <note>key: date.not.valid.time.missing</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Datoen har ikke gyldig verdi, og tid mangler</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b262de6dff7418fd4c316ac5946911aff50c5df1" resname="date.not.valid.time.required">
         <source>Date do not have a valid input and time is required</source>
@@ -144,18 +138,12 @@
         <target state="translated">Dato er påkrevd</target>
         <note>key: date.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Dato må oppgis</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c1eee799ee7368e2089f1eb18e2431108253dc07" resname="date.time.required">
         <source>Date and time are required</source>
         <target state="translated">Dato og klokkeslett er påkrevd</target>
         <note>key: date.time.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Dato og klokkeslett må oppgis</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a26a9e8cceea9e78f5ed30052cd1e0aa592498ca" resname="dateandtime.placeholder.date">
         <source>YYYY-MM-DD</source>
@@ -186,9 +174,6 @@
         <target state="translated">Du slapp en tekst. Dette feltet kan bare lagre en fil. Vennligst slipp en fil i stedet.</target>
         <note>key: dropped.text.selection</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Du slapp en tekst. Dette feltet kan bare lagre en fil. Vennligst velg å slippe en fil i stedet.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7e57a01ae6b4b0385ec149a170df478fa2868f25" resname="email.not.valid">
         <source>The email address should be valid</source>
@@ -222,9 +207,6 @@
         <target state="translated">Feil under forespørsel om geoplassering fra din nåværende posisjon</target>
         <note>key: error.during.geolocation.request</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Feil under anmodning om geoplassering fra din nåværende posisjon</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9c74a8f5f67dd8e07a2912177bc6de9c9cde6d75" resname="failed.retrieve.google.maps.api">
         <source>Failed to retrieve Google Maps API</source>
@@ -267,9 +249,6 @@
         <target state="translated">Google maps lastes ikke riktig, prøv å laste siden på nytt</target>
         <note>key: google.map.not.loaded.correctly</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Google maps lastes ikke riktig, prøv å oppdatere siden</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5c973cf4cef4fd2936dbd1d7879ccdcd8b9e6ffe" resname="image.alternativetext">
         <source>Alternative text:</source>
@@ -372,9 +351,6 @@
         <target state="translated">Last opp et bilde</target>
         <note>key: image.upload</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Laste opp et bilde</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f0edbc370c196d4d5a74049ed4382bbd16aa4b82" resname="input.not.valid">
         <source>This is not a valid input</source>
@@ -483,9 +459,6 @@
         <target state="translated">Lydformatet støttes ikke</target>
         <note>key: media.audio.unsupported</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Lydformatet er ikke støttet</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="05a233289e65681f4b1ddc93eaffd0c756d63fc4" resname="media.audio.upload">
         <source>Upload an audio file</source>
@@ -498,9 +471,6 @@
         <target state="translated">Automatisk avspilling:</target>
         <note>key: media.autoplay</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Autospill:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="83643610d46ed56851ef235675f247e24a628112" resname="media.displaycontrols">
         <source>Display controls:</source>
@@ -627,18 +597,12 @@
         <target state="translated">Filen '%name%' ble avvist fordi den er større enn maksimal tillatt størrelse (%max%)</target>
         <note>key: over.maximum.allowed.size</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Filen "%name%" ble avvist fordi den er større enn maksimal tillatt størrelse (%max%)</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6fe513c14eb957ff25185e5b3bf73f9f3a8ccee4" resname="refused.not.an.image">
         <source>The file '%name%' was refused because it seems to not be an image. Please choose an image file.</source>
         <target state="translated">Filen '%name%' ble avvist fordi den tilsynelatende ikke er et bilde. Velg en bildefil.</target>
         <note>key: refused.not.an.image</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Filen "%name%" ble avvist fordi den tilsynelatende ikke er et bilde. Velg en bildefil.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a1e89ea5d1c7efa83d78aecaaf08c993df7b8d7a" resname="relation.empty">
         <source>No relation.</source>
