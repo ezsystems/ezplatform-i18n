@@ -11,9 +11,6 @@
         <target state="translated">Uređivanje &lt;%contentTypeName%&gt;</target>
         <note>key: content_type.edit_title</note>
         <jms:reference-file line="6">Resources/views/ContentType/update_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Uredi &lt;%contentTypeName%&gt;</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
