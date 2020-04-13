@@ -59,9 +59,6 @@
         <target state="final">"%contentName%" está a ser copiado sob "%parentContentName%"</target>
         <note>key: content.being.copied.under</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>"%contentName%" está a ser copiada sob "%parentContentName%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2be07d7fa67c4111b55ff1ae95aa7bb38df17774" resname="content.browser.title">
         <source>Content browser</source>
