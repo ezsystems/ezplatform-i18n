@@ -65,9 +65,6 @@
         <target state="translated">Lista dei sotto elementi ordinati per</target>
         <note>key: locationview.details.default.listing.of.subitems.by</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Default: lista dei sotto elementi da</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a8f82a516b76060775a7c40c5163cd4f2af7b8ac" resname="locationview.details.descending">
         <source>Descending</source>
@@ -188,9 +185,6 @@
         <target state="translated">Sostituisci l'elemento in questa posizione con un altro</target>
         <note>key: locationview.locations.swap.with.another</note>
         <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Sostituisci il contenuto in questa posizione con un altro</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8bf047758974255c4a8001ef57927d5b4098e7b1" resname="locationview.locations.visibility">
         <source>Visibility</source>
@@ -299,9 +293,6 @@
         <target state="translated">Nome</target>
         <note>key: sort.name</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
-        <alt-trans>
-          <target>Content name</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="668f8150c4acd0a0c8075de8b794639b8b4a6519" resname="sort.path" approved="yes">
         <source>Location path</source>
