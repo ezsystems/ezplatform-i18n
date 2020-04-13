@@ -59,9 +59,6 @@
         <target state="translated">'%name%'已刪除</target>
         <note>key: deleted.content</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>'％name％'已刪除</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="380334ddc39c537065b6b955660ee02d5af915f2" resname="deleting.content">
         <source>Deleting '%name%'</source>
@@ -80,21 +77,12 @@
         <target state="translated">創建基於版本%version% “%name%” 的新草稿失敗。</target>
         <note>key: failed.creating.draft.for.based.on</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>創建基於版本%version% “％name％” 的新草稿失敗。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a35316336667d1d2661322af8daeb7f76c0a7743" resname="failed.deleting.content">
         <source>An error occurred when deleting '%name%'</source>
         <target state="translated">刪除'%name%'時發生錯誤</target>
         <note>key: failed.deleting.content</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>刪除'％name％'時發生錯誤</target>
-        </alt-trans>
-        <alt-trans>
-          <target>刪除'％name％'時出錯</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f569143536f9f8e4e698086f4d85428661a61a37" resname="failed.moving">
         <source>An error occurred while moving your content</source>
@@ -119,9 +107,6 @@
         <target state="translated">將“%contentName%”發送到回收站時發生錯誤</target>
         <note>key: failed.sending.to.trash</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>將“％contentName％”發送到回收站時發生錯誤</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="60e53d4c1a6ed1632bf392e34fb5ae864a4683d5" resname="failed.swapping.location.for">
         <source>Swapping location for "%name%" failed</source>
@@ -386,9 +371,6 @@
         <target state="translated">子項</target>
         <note>key: locationview.locations.subitems</note>
         <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>子項目</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="78f72ceb515315ffb377e812832368f846c12fec" resname="locationview.locations.swap.with.another">
         <source>Swap the Content item at this location with another</source>
@@ -571,18 +553,12 @@
         <target state="translated">將刪除 "%name%" 的位置</target>
         <note>key: removing.locations.for</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>正刪除 "%name%" 的位置</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6bf8a2da889909164b44ea5b8942e18acb8f29b1" resname="removing.versions.for">
         <source>Removing versions for "%name%"</source>
         <target state="translated">將刪除 "%name%" 的版本</target>
         <note>key: removing.versions.for</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>正刪除 "%name%" 的版本</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ae688447d6a0779e33bdbb155806278928d5ec7e" resname="select.location.move.to">
         <source>Select the location you want to move your content into</source>
@@ -613,9 +589,6 @@
         <target state="translated">內容類型識別符</target>
         <note>key: sort.content.type.identifier</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
-        <alt-trans>
-          <target>內容類型識別碼</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="62a66a9c02d5728bbc517a5d7c11889990cbed12" resname="sort.content.type.name">
         <source>Content type name</source>
