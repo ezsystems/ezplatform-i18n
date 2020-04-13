@@ -441,9 +441,6 @@
         <target state="translated">Audiodatei-Eigenschaften</target>
         <note>key: media.audio.properties</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Audio Datei Eigenschaften</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2d64b8db93429eb250ac521adf66d0b8941cb1e8" resname="media.audio.remove">
         <source>Remove this audio file</source>
