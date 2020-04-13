@@ -85,9 +85,6 @@
         <target state="translated">下一頁</target>
         <note>key: subitem.next</note>
         <jms:reference-file>Resources/public/templates/subitem/list.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Next</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d5c97668af30fef2819f3f52add12af828cbe9b3" resname="subitem.no.subitem">
         <source>This location has no sub-item.</source>
