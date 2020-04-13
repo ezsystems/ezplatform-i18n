@@ -11,9 +11,6 @@
         <target state="final">Másolás</target>
         <note>key: actionbar.copy</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
-        <alt-trans>
-          <target>Másol</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e9ce61047248bb9c85bb0984cf597dbfbcc7633b" resname="actionbar.createContent" approved="yes">
         <source>Create</source>
@@ -193,27 +190,18 @@
         <target state="final">Válassz nyelvet az új fordításhoz:</target>
         <note>key: select.a.language.for.new.translation</note>
         <jms:reference-file>Resources/public/js/views/actions/ez-translateactionview.js</jms:reference-file>
-        <alt-trans>
-          <target>Válasszon nyelvet az új fordításhoz:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="801849651d85606aa04da1b4ea58fad208793e3a" resname="select.location.to.copy" approved="yes">
         <source>Select the location you want to copy your content into</source>
         <target state="final">Válaszd ki a lokációt, ahová másolni szeretnéd a tartalmat</target>
         <note>key: select.location.to.copy</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Válassza ki a lokációt, ahová másolni szeretné a tartalmat</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="303fa8448e329ecb88341279a1a17b044549270a" resname="select.location.to.create.new.location" approved="yes">
         <source>Select the location where you want to create new location</source>
         <target state="final">Válaszd ki a lokációt, ahová az új lokációt szeretnéd létrehozni</target>
         <note>key: select.location.to.create.new.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Válassza ki a lokációt, ahová az új lokációt szeretné létrehozni</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit" approved="yes">
         <source>Edit</source>
