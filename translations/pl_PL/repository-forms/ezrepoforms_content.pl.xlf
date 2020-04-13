@@ -35,25 +35,16 @@
         <source>Password</source>
         <target state="final">Hasło</target>
         <note>key: content.field_type.ezuser.password</note>
-        <alt-trans>
-          <target>Hasło:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d2fe533f4032896195d524038c3abeb2209adece" resname="content.field_type.ezuser.password_confirm" approved="yes">
         <source>Confirm password</source>
         <target state="final">Potwierdź hasło</target>
         <note>key: content.field_type.ezuser.password_confirm</note>
-        <alt-trans>
-          <target>Potwierdź hasło:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d1f5c5fcee7eb206e496dd5073b0f95427431a1c" resname="content.field_type.ezuser.username" approved="yes">
         <source>Username</source>
         <target state="final">Nazwa użytkownika</target>
         <note>key: content.field_type.ezuser.username</note>
-        <alt-trans>
-          <target>Nazwa użytkownika:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1120fc646c853c462aa4cdf634f476004846fc1b" resname="content.publish_button" approved="yes">
         <source>Publish</source>
