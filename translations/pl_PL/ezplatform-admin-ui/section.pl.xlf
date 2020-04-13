@@ -35,9 +35,6 @@
         <source>Section '%name%' created.</source>
         <target state="final">Utworzono sekcję '%name%'.</target>
         <note>key: section.create.success</note>
-        <alt-trans>
-          <target>Sekcja '%name%' została utworzona.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="48a0071d3b889cbfef3ff4ee5af8cf83b1e8b7f6" resname="section.delete" approved="yes">
         <source>Delete Section</source>
@@ -48,9 +45,6 @@
         <source>Section '%name%' removed.</source>
         <target state="final">Usunięto sekcję '%name%'.</target>
         <note>key: section.delete.success</note>
-        <alt-trans>
-          <target>Sekcja '%name%' została usunięta.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit" approved="yes">
         <source>Edit</source>
@@ -101,9 +95,6 @@
         <source>Section '%name%' updated.</source>
         <target state="final">Zaktualizowano sekcję '%name%'.</target>
         <note>key: section.update.success</note>
-        <alt-trans>
-          <target>Section '%name%' została zaktualizowana.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9266789d0a5e68e102410798a2db431137039aad" resname="section.view.title.identifier" approved="yes">
         <source>Section: %identifier%</source>
