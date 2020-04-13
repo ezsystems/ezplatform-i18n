@@ -42,12 +42,6 @@
         <note>key: language.disabled</note>
         <jms:reference-file line="41">Resources/views/Language/list.html.twig</jms:reference-file>
         <jms:reference-file line="40">Resources/views/Language/view.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Desactivado</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Desactivo</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="67f5b766ec64104c9936dc826adf45bdf55f38f9" resname="language.edit" approved="yes">
         <source>Edit</source>
