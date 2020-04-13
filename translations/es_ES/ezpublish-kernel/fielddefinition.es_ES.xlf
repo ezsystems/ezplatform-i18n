@@ -35,9 +35,6 @@
         <target state="translated">Chequeado</target>
         <note>key: fielddefinition.default-value.checked</note>
         <jms:reference-file line="59">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Revisado</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3410f38fd1f44cb841ec374c13daca04dcc5910b" resname="fielddefinition.default-value.current_date">
         <source>Current date</source>
