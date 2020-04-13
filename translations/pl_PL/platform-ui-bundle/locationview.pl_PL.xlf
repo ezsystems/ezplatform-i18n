@@ -11,9 +11,6 @@
         <target state="final">"%name%" jest przenoszone do "%parentName%"</target>
         <note>key: being.moved.under</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>"%name%" jest przenoszona do "%parentName%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0a95ef6ccb3ab8cf4b2e04235129c2f08a115a3a" resname="changed.main.location.of" approved="yes">
         <source>The main location of "%name%" has been changed</source>
@@ -62,9 +59,6 @@
         <target state="final">Usunięto "%name%"</target>
         <note>key: deleted.content</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>"%name%" został pomyślnie usunięte</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="380334ddc39c537065b6b955660ee02d5af915f2" resname="deleting.content" approved="yes">
         <source>Deleting '%name%'</source>
@@ -95,9 +89,6 @@
         <target state="final">Wystąpił błąd podczas przenoszenia elementu</target>
         <note>key: failed.moving</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Wystąpił błąd podczas przenoszenia obiektu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3cb305d711f15ff39be36a9b111cb766c618ec53" resname="failed.removing.locations.of" approved="yes">
         <source>Removing of %count% location(s) of "%name%" has failed</source>
@@ -164,9 +155,6 @@
         <target state="final">Wystąpił błąd podczas aktualizacji rodzaju sortowania dla podelementów</target>
         <note>key: failed.updating.sort.method</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Wystąpił błąd podczas aktualizowania rodzaju sortowania dla elementów podrzędnych</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e0be1422e1af400879a6716220eabc9ad4fca29e" resname="locationview.details.ascending" approved="yes">
         <source>Ascending</source>
@@ -179,9 +167,6 @@
         <target state="final">ID elementu</target>
         <note>key: locationview.details.contentid</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
-        <alt-trans>
-          <target>ID obiektu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="34ce6c404ac9a5a82f9a598d3e4e62916094c351" resname="locationview.details.contentremoteid" approved="yes">
         <source>Content remote Id</source>
@@ -200,9 +185,6 @@
         <target state="final">Domyślnie sortuj elementy podrzędne według:</target>
         <note>key: locationview.details.default.listing.of.subitems.by</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Domyślnie sortuj podelementy według:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a8f82a516b76060775a7c40c5163cd4f2af7b8ac" resname="locationview.details.descending" approved="yes">
         <source>Descending</source>
@@ -215,12 +197,6 @@
         <target state="final">Wystąpił błąd podczas wczytywania ostatniego twórcy.</target>
         <note>key: locationview.details.errorcontributor</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Wystąpił błąd podczas ładowania ostatniego twórcy.</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Wystąpił błąd podczas ładowania ostatniego współtwórcy.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6008df6be918183f2a3896c49dd0d19ee35350d2" resname="locationview.details.errorcreator" approved="yes">
         <source>An error occurred while loading the creator.</source>
@@ -239,9 +215,6 @@
         <target state="final">Wczytywanie ostatniego twórcy</target>
         <note>key: locationview.details.loadingcontributor</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Ładowanie ostatniego współtwórcy</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="85dbe816267d441a33ecd4d1778b58f25a350814" resname="locationview.details.loadingcreator" approved="yes">
         <source>Loading the creator</source>
@@ -254,9 +227,6 @@
         <target state="final">ID lokalizacji</target>
         <note>key: locationview.details.locationid</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
-        <alt-trans>
-          <target>ID lokacji</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2b72d1da8862e8f7f123df770f7733b294d765a3" resname="locationview.details.remoteid" approved="yes">
         <source>Location remote Id</source>
@@ -311,9 +281,6 @@
         <target state="final">Szczegóły elementu</target>
         <note>key: locationview.details.title</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Szczegóły obiektu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a651fb9282b5626ba9e3a6cdfd1861b981aa1d76" resname="locationview.details.translations" approved="yes">
         <source>Translations</source>
@@ -338,12 +305,6 @@
         <target state="final">Lokalizacje elementu</target>
         <note>key: locationview.locations.content.locations</note>
         <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Lokalizacje obiektu</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Lokacje elementu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="33ceaa61b8d64b8c3ea118e4f8d1c172c97f5329" resname="locationview.locations.hidden" approved="yes">
         <source>Hidden</source>
@@ -410,21 +371,12 @@
         <target state="final">Podelementy</target>
         <note>key: locationview.locations.subitems</note>
         <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Elementy podrzędne</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="78f72ceb515315ffb377e812832368f846c12fec" resname="locationview.locations.swap.with.another" approved="yes">
         <source>Swap the Content item at this location with another</source>
         <target state="final">Zamień lokalizację dla tego elementu</target>
         <note>key: locationview.locations.swap.with.another</note>
         <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Zamień lokalizację dla tego obiektu</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Zamień miejscami element z tej lokacji z innym</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8bf047758974255c4a8001ef57927d5b4098e7b1" resname="locationview.locations.visibility" approved="yes">
         <source>Visibility</source>
@@ -449,9 +401,6 @@
         <target state="final">Wystąpił błąd podczas wczytywania listy powiązanych elementów.</target>
         <note>key: locationview.relations.error.loading.related</note>
         <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Wystąpił błąd podczas wczytywania listy powiązanych obiektów.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d6b8b44043ab3a73bd6a8a1e1e9079e55a816623" resname="locationview.relations.no.related.content" approved="yes">
         <source>This content has no related content.</source>
@@ -464,9 +413,6 @@
         <target state="final">Elementy powiązane</target>
         <note>key: locationview.relations.related.content</note>
         <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Powiązane elementy</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8aea3326a700a081784bc0e51f0c91a3583eedc2" resname="locationview.relations.relation.type" approved="yes">
         <source>Relation type</source>
@@ -499,9 +445,6 @@
         <target state="final">Utworzono</target>
         <note>key: locationview.versions.created</note>
         <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Stworzono</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="419a69fad078eeaaf43244ac5874bc075affa8dc" resname="locationview.versions.delete.selected.draft" approved="yes">
         <source>Delete selected draft</source>
@@ -598,18 +541,12 @@
         <target state="final">Usunięto %count% lokalizacji dla "%name%"</target>
         <note>key: removed.locations.of</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>%count% lokalizacji dla "%name%" zostało usuniętych</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9e5f98b5c3f285bd15fc0a0a23b3a42c2faa47ea" resname="removed.versions.of" approved="yes">
         <source>%count% version(s) of "%name%" have been removed</source>
         <target state="final">%count% wersji dla "%name%" zostało usuniętych</target>
         <note>key: removed.versions.of</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Usunięto %count% wersji dla "%name%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="acf9100e800a6f1f4f9fa47d8958d512a5729f06" resname="removing.locations.for" approved="yes">
         <source>Removing locations for "%name%"</source>
@@ -676,9 +613,6 @@
         <target state="final">Nazwa elementu</target>
         <note>key: sort.name</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
-        <alt-trans>
-          <target>Nazwa obiektu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="668f8150c4acd0a0c8075de8b794639b8b4a6519" resname="sort.path" approved="yes">
         <source>Location path</source>
@@ -751,24 +685,12 @@
         <target state="final">Zaktualizowano metodę sortowania podelementów</target>
         <note>key: updated.sort.method</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Metoda sortowania podelementów została prawidłowo zaktualizowana</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Metoda sortowania elementów podrzędnych została prawidłowo zaktualizowana</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Wszystkie metody sortowania elementów podrzędnych zostały prawidłowo zaktualizowane</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="420b18708dcd8de83f92b2cfdeafad23fd6b80a7" resname="updating.sort.method" approved="yes">
         <source>Updating the sub-items sort method</source>
         <target state="final">Aktualizowanie metody sortowania podelementów</target>
         <note>key: updating.sort.method</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Aktualizowanie metod sortowania elementów podrzędnych</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
