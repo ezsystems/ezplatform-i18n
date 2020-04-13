@@ -45,9 +45,6 @@
         <source>Map location</source>
         <target state="final">Localização do mapa</target>
         <note>key: ezgmaplocation.name</note>
-        <alt-trans>
-          <target>Localização de mapa</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6300f890f00d9999466b4abc478857b0d29022b4" resname="ezimage.name" approved="yes">
         <source>Image</source>
