@@ -34,18 +34,12 @@
         <target state="final">Disponibilidade por omissão no idioma principal, se a tradução estiver ausente</target>
         <note>key: content_type.default_availability</note>
         <jms:reference-file line="77">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Disponibilidade por omissão no idioma principal, na ausência de tradução</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help" approved="yes">
         <source>Default availability in primary language, if translation is absent</source>
         <target state="final">Disponibilidade por omissão no idioma principal, se a tradução estiver ausente</target>
         <note>key: content_type.default_availability.help</note>
         <jms:reference-file line="78">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Disponibilidade por omissão no idioma principal, na ausência de tradução</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d14799b2ac8854ab3f0bb9976258c3db39213d09" resname="content_type.default_availability.value" approved="yes">
         <source>{0} Not available|{1} Available</source>
@@ -102,9 +96,6 @@
         <target state="final">Impossível remover grupo de tipos de Conteúdo "%identifier%" porque ainda contêm tipos de Conteúdo.</target>
         <note>key: content_type.group.cannot_delete.has_content_types</note>
         <jms:reference-file line="190">Controller/ContentTypeController.php</jms:reference-file>
-        <alt-trans>
-          <target>Impossível remover grupo de tipos de Conteúdo "%identifier%" pois ainda contém tipos de Conteúdo.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d9af30fb88ca7bed537ebf13fe3aef6c1679ff40" resname="content_type.group.create.title" approved="yes">
         <source>Creating a new Content type group</source>
@@ -117,9 +108,6 @@
         <target state="final">O grupo de tipos de Conteúdo "%identifier%" foi correctamente removido.</target>
         <note>key: content_type.group.deleted</note>
         <jms:reference-file line="188">Controller/ContentTypeController.php</jms:reference-file>
-        <alt-trans>
-          <target>Grupo de tipos de Conteúdo "%identifier%" foi correctamente removido.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ad7e97ad4cf67edf7aadf9010b17c34dc57aa0a6" resname="content_type.group.edit" approved="yes">
         <source>Edit</source>
@@ -167,18 +155,12 @@
         <target state="final">O grupo de tipos de Conteúdo "%identifier%" foi correctamente criado.</target>
         <note>key: content_type.group.notification.created</note>
         <jms:reference-file line="46">Form/Processor/ContentTypeGroupFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>Grupo de tipos de Conteúdo "%identifier%" foi correctamente criado.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="09685a253a508713c275a4ecde1adbb4b7f1781e" resname="content_type.group.notification.updated" approved="yes">
         <source>Content type group "%identifier%" was correctly updated.</source>
         <target state="final">O grupo de tipos de Conteúdo "%identifier%" foi correctamente actualizado.</target>
         <note>key: content_type.group.notification.updated</note>
         <jms:reference-file line="48">Form/Processor/ContentTypeGroupFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>Grupo de tipos de Conteúdo "%identifier%" foi correctamente actualizado.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ac9f629a5395fbcbc31455777dafda7ef125b39e" resname="content_type.id" approved="yes">
         <source>ID</source>
@@ -255,9 +237,6 @@
         <target state="final">O rascunho do tipo de Conteúdo foi actualizado e publicado com sucesso. Conteúdos relacionados também foram actualizados.</target>
         <note>key: content_type.notification.published</note>
         <jms:reference-file line="72">Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>O rascunho do tipo de Conteúdo foi actualizado e publicado com sucesso. Conteúdos relaccionados também foram actualizados.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema" approved="yes">
         <source>URL alias name pattern</source>
@@ -306,9 +285,6 @@
         <target state="final">Tradutível</target>
         <note>key: field_definition.translatable</note>
         <jms:reference-file line="133">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Traduzível</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9ca17bd05bb09ae1283d539c77d57558499ccca4" resname="field_definition.type" approved="yes">
         <source>Type</source>
