@@ -115,9 +115,6 @@
         <target state="final">Une erreur s'est produite lors de l'enregistrement du brouillon, échec de la génération de l'aperçu.</target>
         <note>key: failed.saving.draft.to.generate.the.preview</note>
         <jms:reference-file>Resources/public/js/views/ez-contenteditview.js</jms:reference-file>
-        <alt-trans>
-          <target>Une erreur s'est produite lors de l'enregistrement du brouillon, l'aperçu ne peut pas être généré.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="efde392b8cb92e5f09d889652fcb0160fbbdbb24" resname="language.changed.to" approved="yes">
         <source>Language has been changed to %name%</source>
