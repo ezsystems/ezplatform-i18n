@@ -11,9 +11,6 @@
         <target state="final">L'arborescence est vide</target>
         <note>key: tree.empty</note>
         <jms:reference-file>Resources/public/js/views/ez-treeview.js</jms:reference-file>
-        <alt-trans>
-          <target>L'arbre de contenu est vide</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f75d3723a7901fb539c3f580f5cdaab5bb7b2257" resname="tree.loading" approved="yes">
         <source>Loading</source>
