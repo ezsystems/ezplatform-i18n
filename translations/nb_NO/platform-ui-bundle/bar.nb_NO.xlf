@@ -154,9 +154,6 @@
         <target state="translated">Plasseringen "%id%" har blitt skjult</target>
         <note>key: hidden.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Plasseringen "%id" er skjult</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a08ae71216dacd8a23c388addb647ecab7e3fcc1" resname="hiding.location">
         <source>Hiding Location "%id%"</source>
