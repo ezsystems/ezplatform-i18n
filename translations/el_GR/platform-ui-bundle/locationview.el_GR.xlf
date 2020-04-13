@@ -541,9 +541,6 @@
         <target state="translated">%count% τοποθεσία(ες) "%name%" έχει μετακινηθεί</target>
         <note>key: removed.locations.of</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>%count% τοποθεσία(ες) "%name%" έχουν μετακινηθεί</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9e5f98b5c3f285bd15fc0a0a23b3a42c2faa47ea" resname="removed.versions.of">
         <source>%count% version(s) of "%name%" have been removed</source>
