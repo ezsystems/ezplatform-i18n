@@ -20,9 +20,6 @@
         <source>Sub-items</source>
         <target state="translated">Sous-éléments</target>
         <note>key: content.view.subitems</note>
-        <alt-trans>
-          <target>Sous-élements</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4f1f7e7763187d69da3f75ebfb74d391a451cec6" resname="content.view.subitems.bulk_action.limited_permissions">
         <source>Limited user permissions</source>
