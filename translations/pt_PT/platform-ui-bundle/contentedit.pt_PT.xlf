@@ -18,9 +18,6 @@
         <note>key: change.language.to</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contentcreateviewservice.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Mudar idioma para:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f3528c72d108e105ecdb31e377a3514595dcfa6a" resname="content.id.location.id" approved="yes">
         <source>Content ID: %contentId%, Location ID: %locationId%</source>
@@ -33,9 +30,6 @@
         <target state="final">O conteúdo foi publicado</target>
         <note>key: content.published</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-publishdraftplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Conteúdo foi publicado</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="54a68935aefb2a88a794f8b85d8c3170588edb3f" resname="contentedit.close.preview" approved="yes">
         <source>Close preview</source>
@@ -60,9 +54,6 @@
         <target state="final">Descartar Alterações</target>
         <note>key: discard.changes</note>
         <jms:reference-file>Resources/public/js/views/ez-editactionbarview.js</jms:reference-file>
-        <alt-trans>
-          <target>Descartar Mudanças</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="431acee9716b1c0e01f44d5c29066c88805baa76" resname="draft.saved" approved="yes">
         <source>The draft was stored successfully</source>
@@ -130,9 +121,6 @@
         <target state="final">O Idioma foi alterado para %name%</target>
         <note>key: language.changed.to</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contentcreateviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Idioma foi mudado para %name%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6d0401db3e4611b4d77886467ae5ca21014be5f5" resname="name.new.content.of.type" approved="yes">
         <source>New "%contentTypeName%"</source>
