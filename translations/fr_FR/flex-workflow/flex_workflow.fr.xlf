@@ -10,9 +10,6 @@
         <source>Approval Timeline</source>
         <target state="translated">Calendrier d’approbation</target>
         <note>key: approval.timeline</note>
-        <alt-trans>
-          <target>Chronologie d’approbation</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a7a51410cb1c298c47638de5b509d09dd2f33fa0" resname="content.review.add_message">
         <source>Message (Optional):</source>
@@ -23,9 +20,6 @@
         <source>Add a Reviewer</source>
         <target state="translated">Ajouter un relecteur</target>
         <note>key: content.review.add_reviewer</note>
-        <alt-trans>
-          <target>Ajouter un Relecteur</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="eca0d518c25ac61553a436334389d163e15790cb" resname="content.review.from">
         <source>From:</source>
@@ -66,20 +60,11 @@
         <source>Review Content</source>
         <target state="translated">Réviser le Contenu</target>
         <note>key: email.review_button</note>
-        <alt-trans>
-          <target>Réviser le contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a92726bad87c5ac3957fab36da70813dcf6061be" resname="email.title">
         <source>Flex Workflow Notification</source>
         <target state="translated">Notifications de révisions</target>
         <note>key: email.title</note>
-        <alt-trans>
-          <target>Notifications du Workflow de révision</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Notifications du processus de publication</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4941fb749a78b9f544695dbf68b2df2928ff9508" resname="email.with_message">
         <source>%sender_firstname% %sender_lastname% has requested you to review a draft of %content%. %sender_firstname% says:</source>
