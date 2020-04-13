@@ -17,9 +17,6 @@
         <target state="final">O carregamento do mapa falhou</target>
         <note>key: failed.to.load.the.map</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-view.js</jms:reference-file>
-        <alt-trans>
-          <target>Carregamento do mapa falhou</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="977cb55c24b1708d46ccbd753c2cea745976ae21" resname="fieldview.field.empty" approved="yes">
         <source>This field is empty</source>
@@ -97,9 +94,6 @@
         <target state="final">O mapa está a carregar...</target>
         <note>key: maplocation.map.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/maplocation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Este mapa está a carregar...</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="06f85129e2e7727f858c84f47901510a4d788f0d" resname="media.audio.file.properties" approved="yes">
         <source>Audio file properties</source>
@@ -184,42 +178,24 @@
         <target state="final">Ocorreu um erro ao carregar algum conteúdo relacionado.</target>
         <note>key: relation.error.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/relation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Ocorreu um erro ao carregar algum conteúdo relaccionado.</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Ocorreu um erro ao carregar alguns dos conteúdos relaccionados.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d83d7f0b353c6177f297b5a502f4beae187819ec" resname="relation.loading" approved="yes">
         <source>Loading the related content</source>
         <target state="final">A carrregar conteúdo relacionado</target>
         <note>key: relation.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/relation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>A carrregar conteúdo relaccionado</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3eb127472dda2866ceb5a1278982d2021642e637" resname="relationlist.error.loading" approved="yes">
         <source>An error occurred while loading some of the related contents.</source>
         <target state="final">Ocorreu um erro ao carregar alguns dos conteúdos relacionados.</target>
         <note>key: relationlist.error.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/relationlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Ocorreu um erro ao carregar alguns dos conteúdos relaccionados.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1d30f0399910c05468169bd5a7f737caff136afe" resname="relationlist.loading" approved="yes">
         <source>Loading the related contents</source>
         <target state="final">A carregar conteúdos relacionados</target>
         <note>key: relationlist.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/relationlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>A carrregar conteúdos relacionados</target>
-        </alt-trans>
-        <alt-trans>
-          <target>A carrregar conteúdos relaccionados</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="faedf9e69727ee79230585317a79d93c074508b8" resname="richtext.parsing.error" approved="yes">
         <source>An error occurred while parsing the content of this field</source>
@@ -238,9 +214,6 @@
         <target state="final">Utilizador:</target>
         <note>key: user.username</note>
         <jms:reference-file>Resources/public/templates/fields/view/user.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Nome de utilizador:</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
