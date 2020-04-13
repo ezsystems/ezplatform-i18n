@@ -53,9 +53,6 @@
         <target state="final">Etes-vous sûr de vouloir envoyer ce contenu à la Corbeille ?</target>
         <note>key: confirmed.send.to.trash</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Etes-vous sûr de vouloir envoyer ce contenu à la corbeille ?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c44059e516685b63857e6db9c22a11ed0d990519" resname="deleted.content" approved="yes">
         <source>'%name%' was deleted</source>
@@ -146,9 +143,6 @@
         <target state="final">Echec du chargement du contenu de la section</target>
         <note>key: failed.to.load.section</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Impossible de charger la section du contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e59fc009e6dc0079786973ab8b8542f463d3b233" resname="failed.updated.priority" approved="yes">
         <source>An error occurred when updating the priority</source>
@@ -209,9 +203,6 @@
         <target state="final">Une erreur est apparue lors du chargement de l'auteur.</target>
         <note>key: locationview.details.errorcreator</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Une erreur est apparue lors du chargement du créateur.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e0d315cc1f7772de59ebb7a943e5331402f087f4" resname="locationview.details.lastcontributor" approved="yes">
         <source>Last contributor</source>
@@ -230,9 +221,6 @@
         <target state="final">Chargement de l'auteur</target>
         <note>key: locationview.details.loadingcreator</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Chargement de l'auteur initial</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7f653bba9440b8a0b2dac47b4c30a5c97ba83678" resname="locationview.details.locationid" approved="yes">
         <source>Location Id</source>
@@ -335,9 +323,6 @@
         <target state="final">Masquer</target>
         <note>key: locationview.locations.hide</note>
         <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Cacher</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="18ffeb7a312f5b6c621e15a46d902ae1fddefe0f" resname="locationview.locations.loading.location.list" approved="yes">
         <source>Loading the locations list</source>
@@ -422,18 +407,12 @@
         <target state="final">Ce contenu n'a pas de relations.</target>
         <note>key: locationview.relations.no.related.content</note>
         <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Ce contenu n'a pas de relations</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0b409a5f5675b6ee03cfaea432d179c2648a36a3" resname="locationview.relations.related.content" approved="yes">
         <source>Related content</source>
         <target state="final">Relations</target>
         <note>key: locationview.relations.related.content</note>
         <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Contenu lié</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8aea3326a700a081784bc0e51f0c91a3583eedc2" resname="locationview.relations.relation.type" approved="yes">
         <source>Relation type</source>
@@ -688,9 +667,6 @@
         <target state="final">Relations</target>
         <note>key: tab.related.content</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewrelationstabview.js</jms:reference-file>
-        <alt-trans>
-          <target>Contenu lié</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5d768a9bb2d1a42f98c5af3016c1019497d8ac62" resname="tab.versions" approved="yes">
         <source>Versions</source>
@@ -703,9 +679,6 @@
         <target state="final">Affichage</target>
         <note>key: tab.view</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewviewtabview.js</jms:reference-file>
-        <alt-trans>
-          <target>Aperçu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5cf5c23d5f73b6493879db84d39bf6a05940242f" resname="updated.sort.method" approved="yes">
         <source>The sub-items sort method has been correctly updated</source>
