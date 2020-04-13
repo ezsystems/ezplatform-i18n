@@ -53,9 +53,6 @@
         <target state="final">Húzd ide a fájlt, vagy kattints a gombokra és válaszd ki a kívánt elemet.</target>
         <note>key: binaryfile.help</note>
         <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Húzza ide a fájlt, vagy kattintson a gombokra és válassza ki a kívánt elemet.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="deb180f588060bb98b95d7df6d43b0d9d5278774" resname="binaryfile.name" approved="yes">
         <source>File name:</source>
@@ -171,9 +168,6 @@
         <target state="final">Ebben a mezőben csak egy fájl tárolható. Kérjük, válassz ki egy fájlt.</target>
         <note>key: dropped.several.files</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Ebben a mezőben csak egy fájl tárolható. Kérjük, válasszon ki egy fájlt.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="77e9dcf7fa3a6196173e1ef8d749321c078a61fb" resname="dropped.text.selection" approved="yes">
         <source>You dropped a text selection while this field can only store a file. Please drop a file instead.</source>
@@ -188,9 +182,6 @@
         <jms:reference-file>Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/views/fields/ez-emailaddress-editview.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/views/fields/ez-user-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Érvényes e-mail címet adjon meg</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9c96ffba7a783d0786368dbf8b2b23dfc4188e66" resname="email.required" approved="yes">
         <source>The email address is required</source>
@@ -216,9 +207,6 @@
         <target state="final">Hiba történt az aktuális földrajzi helyed lekérdezése során</target>
         <note>key: error.during.geolocation.request</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Hiba történt az Ön aktuális földrajzi helyének lekérdezése során</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9c74a8f5f67dd8e07a2912177bc6de9c9cde6d75" resname="failed.retrieve.google.maps.api" approved="yes">
         <source>Failed to retrieve Google Maps API</source>
@@ -261,9 +249,6 @@
         <target state="final">A Google térkép nem töltődött be megfelelően, próbáld meg újratölteni az oldalt</target>
         <note>key: google.map.not.loaded.correctly</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>A Google térkép nem töltődött be megfelelően, próbálja meg újratölteni az oldalt</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5c973cf4cef4fd2936dbd1d7879ccdcd8b9e6ffe" resname="image.alternativetext" approved="yes">
         <source>Alternative text:</source>
@@ -288,9 +273,6 @@
         <target state="final">Húzd ide a képet, vagy kattints a gombokra és válaszd ki a kívánt elemet.</target>
         <note>key: image.help</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Húzza ide a képet, vagy kattintson a gombokra és válassza ki a kívánt elemet.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="623d52cead77075eabf73bd844f1870264264f8e" resname="image.name" approved="yes">
         <source>File name</source>
@@ -381,9 +363,6 @@
         <target state="final">Érvényes számot adj meg</target>
         <note>key: invalid.float.value</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Érvényes számot adjon meg</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d5afda02a70b4e08a45743098c217ce1cb424278" resname="invalid.input" approved="yes">
         <source>This is not a valid input</source>
@@ -456,9 +435,6 @@
         <target state="final">Húzd ide az audio fájlt, vagy kattints a gombokra és válaszd ki a kívánt elemet.</target>
         <note>key: media.audio.help</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Húzza ide az audio fájlt, vagy kattintson a gombokra és válassza ki a kívánt elemet.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0be02246f03eea8192409c98d2742cfc8394379b" resname="media.audio.properties" approved="yes">
         <source>Audio file properties</source>
@@ -561,9 +537,6 @@
         <target state="final"><![CDATA[Húzd ide a video fájlt, vagy kattints a gombokra és válaszd ki a feltölteni kívánt elemet. Állítsd be a méretet, a vezérlőket és a kívánt nézetet.]]></target>
         <note>key: media.video.help</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target><![CDATA[Húzza ide a video fájlt, vagy kattintson a gombokra és válassza ki a feltölteni kívánt elemet. Állítsa be a méretet, a vezérlőket és a kívánt nézetet.]]></target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6e2da936d84283d264f260e9f966a11be051096e" resname="media.video.properties" approved="yes">
         <source>Video file properties</source>
@@ -648,9 +621,6 @@
         <target state="final">Válassz kapcsolódó tartalmat.</target>
         <note>key: relation.help</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Válasszon kapcsolódó tartalmat.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d83d7f0b353c6177f297b5a502f4beae187819ec" resname="relation.loading" approved="yes">
         <source>Loading the related content</source>
@@ -705,9 +675,6 @@
         <target state="final">Állíts be több kapcsolódó tartalmat.</target>
         <note>key: relationlist.help</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Állítson be több kapcsolódó tartalmat.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1d30f0399910c05468169bd5a7f737caff136afe" resname="relationlist.loading" approved="yes">
         <source>Loading the related content(s)</source>
@@ -720,9 +687,6 @@
         <target state="final">Eltávolítás</target>
         <note>key: relationlist.remove</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Eltávolít</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="493a9cbc47e3af553067486bc8b13b43c8472fc4" resname="relationlist.retry" approved="yes">
         <source>Retry</source>
@@ -771,18 +735,12 @@
         <target state="final">Válaszd ki a kapcsolni kívánt tartalmakat</target>
         <note>key: select.contents.to.add</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-relationlist-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Válassza ki a kapcsolni kívánt tartalmakat</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8049139bde69cab92f967e171a9b3f1b933f3151" resname="svg.not.supported" approved="yes">
         <source>SVG images are not supported. Please choose another image file.</source>
         <target state="final">Az SVG formátum nem támogatott. Kérjük, válassz egy másik képet.</target>
         <note>key: svg.not.supported</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Az SVG formátum nem támogatott. Kérjük, válasszon egy másik képet.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cbeb2eb9d25d8d0349f48bd24450b4431112165a" resname="this.field.is.required" approved="yes">
         <source>This field is required</source>
@@ -826,9 +784,6 @@
         <target state="final">Érvénytelen "idő" formátum. Így add meg: HH:MM(:SS)</target>
         <note>key: time.not.valid.enter.format</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-time-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Érvénytelen "idő" formátum. Így adja meg: HH:MM(:SS)</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="464257823e27d65e1467abb5b4d6421541870a95" resname="time.required" approved="yes">
         <source>Time is required</source>
@@ -847,9 +802,6 @@
         <target state="final">A böngésződ nem támogatja a HTML5 geolokáció API-t</target>
         <note>key: unsupported.html5.geolocation.api</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-maplocation-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>A böngészője nem támogatja a HTML5 geolokáció API-t</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="96c974ba32d664442a67e0f5885fd4f29e5ab015" resname="url.text" approved="yes">
         <source>Text:</source>
@@ -904,9 +856,6 @@
         <target state="final">Érvényes, egész számot adj meg</target>
         <note>key: value.should.be.valid.integer</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Érvényes, egész számot adjon meg</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
