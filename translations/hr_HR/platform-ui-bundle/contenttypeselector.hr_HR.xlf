@@ -11,9 +11,6 @@
         <target state="translated">Raspoložive vrste sadržaja</target>
         <note>key: contenttypeselector.available.content.type</note>
         <jms:reference-file>Resources/public/templates/contenttypeselector.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Dostupne vrste sadržaja</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3fc804a965ff2e460abe746886d45fd7d40e9d3b" resname="contenttypeselector.choose.content.type">
         <source>Choose a content type</source>
