@@ -126,36 +126,24 @@
         <target state="final">La date est invalide et une heure est obligatoire</target>
         <note>key: date.not.valid.time.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>La date est invalide et une heure est requise</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5ea84ba9d0dd61b9b47b2104f086c4770daf2c74" resname="date.placeholder" approved="yes">
         <source>YYYY-MM-DD</source>
         <target state="final">AAAA-MM-JJ</target>
         <note>key: date.placeholder</note>
         <jms:reference-file>Resources/public/templates/fields/edit/date.hbt</jms:reference-file>
-        <alt-trans>
-          <target>YYYY-MM-DD</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ac8b6151c30254609f6e9f2a7ab5c5570ea94dcd" resname="date.required" approved="yes">
         <source>Date is required</source>
         <target state="final">La date est obligatoire</target>
         <note>key: date.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>La date est requise</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c1eee799ee7368e2089f1eb18e2431108253dc07" resname="date.time.required" approved="yes">
         <source>Date and time are required</source>
         <target state="final">La date et l'heure sont obligatoires</target>
         <note>key: date.time.required</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-dateandtime-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>La date et l'heure sont requises</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a26a9e8cceea9e78f5ed30052cd1e0aa592498ca" resname="dateandtime.placeholder.date" approved="yes">
         <source>YYYY-MM-DD</source>
@@ -231,9 +219,6 @@
         <target state="final">Ce n’est pas un champ traduisible et il ne peut pas être modifié.</target>
         <note>key: fieldedit.notTranslatable</note>
         <jms:reference-file>./Resources/public/templates/fields/edit/checkbox.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Ce n’est pas un champ traduisible et ne peuvent pas être modifié.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a64621b5af174b18350e8774d65ac227c79f0077" resname="file.size" approved="yes">
         <source>(%size% bytes)</source>
@@ -414,18 +399,12 @@
         <target state="final">Adresse :</target>
         <note>key: maplocation.address</note>
         <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Adresse:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e21151edf210d6968aa67c35235066389865f136" resname="maplocation.latitude" approved="yes">
         <source>Latitude:</source>
         <target state="final">Latitude :</target>
         <note>key: maplocation.latitude</note>
         <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Latitude:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="04e7fa05923b84dde058e7a8b349de8a019962f8" resname="maplocation.locateaddress" approved="yes">
         <source>Locate Address</source>
@@ -444,9 +423,6 @@
         <target state="final">Longitude :</target>
         <note>key: maplocation.longitude</note>
         <jms:reference-file>Resources/public/templates/fields/edit/maplocation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Longitude:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="de4d15e55b8a04ee1b6f188b3cf6dac4aca30d5a" resname="media.audio.empty" approved="yes">
         <source>No audio file yet.</source>
@@ -495,9 +471,6 @@
         <target state="final">Lecture automatique :</target>
         <note>key: media.autoplay</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Lecture automatique:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="83643610d46ed56851ef235675f247e24a628112" resname="media.displaycontrols" approved="yes">
         <source>Display controls:</source>
@@ -600,9 +573,6 @@
         <target state="final">Largeur :</target>
         <note>key: media.width</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Largeur:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4472d1a8e3b30bcb2a5ca35aef3354d87c4f7e0d" resname="name.required" approved="yes">
         <source>The name is required</source>
@@ -645,9 +615,6 @@
         <target state="final">Une erreur est survenue lors du chargement de la liste des contenus en relation.</target>
         <note>key: relation.error</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Une erreur est survenue lors du chargement de la liste des contenus liés.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1a0432678a22f538bc956d02a1a52709a24019a3" resname="relation.help" approved="yes">
         <source>Select another content and link it up with your content.</source>
@@ -672,9 +639,6 @@
         <target state="final">Publié :</target>
         <note>key: relation.published</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Publié:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f46aad015f05a6ae74da1d451f030dcc02dc1e39" resname="relation.remove" approved="yes">
         <source>Remove relation</source>
@@ -693,9 +657,6 @@
         <target state="final">Sélectionner un contenu</target>
         <note>key: relation.select</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Selectionner un contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="76eb23938007b8dc5d74961c52923f34fd9863fc" resname="relationlist.empty" approved="yes">
         <source>No relation.</source>
@@ -738,9 +699,6 @@
         <target state="final">Sélectionner des contenus</target>
         <note>key: relationlist.select</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Selectionner des contenus</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1c46a1068b55e75f3cac49a3f59c85ca19edbc52" resname="relationlist.table.modified" approved="yes">
         <source>Modified</source>
@@ -880,9 +838,6 @@
         <target state="final">Confirmez le mot de passe</target>
         <note>key: user.passwordconfirm</note>
         <jms:reference-file>Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Confirmer mot de passe</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="65a42e27e76bf2722822dd28dd0b7ff2d163cb37" resname="value.should.be.less.than" approved="yes">
         <source>The value should be less than or equal to %maxIntegerValue%</source>
