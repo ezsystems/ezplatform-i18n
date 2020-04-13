@@ -17,9 +17,6 @@
         <target state="final">S’inscrire</target>
         <note>key: user.register_button</note>
         <jms:reference-file line="47">lib/Form/Type/User/UserRegisterType.php</jms:reference-file>
-        <alt-trans>
-          <target>Créer un compte</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
