@@ -10,17 +10,11 @@
         <source>Content draft saved.</source>
         <target state="final">Szkic zapisano.</target>
         <note>key: content.draft_saved.success</note>
-        <alt-trans>
-          <target>Szkic został pomyślnie zapisany.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="07d6fb7c02b8730592a3bb68a315caa63031d44e" resname="content.published.success" approved="yes">
         <source>Content published.</source>
         <target state="final">Treść opublikowano.</target>
         <note>key: content.published.success</note>
-        <alt-trans>
-          <target>Treść została opublikowana.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6a2083913f3647b44f205204e369f764e83233b1" resname="content_id" approved="yes">
         <source>Content ID: %contentId%</source>
