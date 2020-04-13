@@ -169,9 +169,6 @@
         <target state="translated">Select a Draft</target>
         <note>key: select.a.draft</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-contenteditplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Select a draft</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="51737538b92a2da9235ebf797bef20dc757bf070" resname="version.not.a.draft">
         <source>The version '%versionId%' is not a draft.</source>
