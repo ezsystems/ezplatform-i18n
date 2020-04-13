@@ -64,9 +64,6 @@
         <target state="translated"><![CDATA[<span class="ez-binaryfile-properties-size">%size%</span>&nbsp;bytes]]></target>
         <note>key: file.size</note>
         <jms:reference-file>Resources/public/templates/fields/edit/binaryfile.hbt</jms:reference-file>
-        <alt-trans>
-          <target><![CDATA[<span class="ez-binaryfile-properties-size">%size%</span> bytes]]></target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="dbaaba623cb1c7f8c1c65c4be03b3838a8e80908" resname="image.error.loading">
         <source>An error occurred while loading the image.</source>
