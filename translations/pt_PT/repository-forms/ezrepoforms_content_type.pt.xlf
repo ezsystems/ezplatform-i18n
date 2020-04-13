@@ -180,9 +180,6 @@
         <source>Empty</source>
         <target state="final">Vazia</target>
         <note>key: field_definition.ezauthor.default_user_empty</note>
-        <alt-trans>
-          <target>Vazio</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="41f781284e4bae2abbb6cfdf1126cc90b48dd35b" resname="field_definition.ezbinaryfile.max_file_size" approved="yes">
         <source>Maximum file size (MB)</source>
@@ -218,9 +215,6 @@
         <source>Empty</source>
         <target state="final">Vazia</target>
         <note>key: field_definition.ezdate.default_type_empty</note>
-        <alt-trans>
-          <target>Vazio</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="dbbf37dee75d40448b725aea9c893a4ea84c8ab6" resname="field_definition.ezdatetime.date_interval" approved="yes">
         <source>Current date and time adjusted by</source>
@@ -301,9 +295,6 @@
         <source>Maximum file size (MB)</source>
         <target state="final">Tamanho máximo de ficheiro (MB)</target>
         <note>key: field_definition.ezmedia.max_file_size</note>
-        <alt-trans>
-          <target>Tamano máximo de ficheiro (MB)</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1ae04670268864a185efbed749015b7ea14f079b" resname="field_definition.ezmedia.media_type" approved="yes">
         <source>Media type</source>
