@@ -17,18 +17,12 @@
         <target state="translated">Neuen Inhaltstyp erstellen</target>
         <note>key: content_type.create</note>
         <jms:reference-file line="67">lib/Form/Type/ContentType/ContentTypeCreateType.php</jms:reference-file>
-        <alt-trans>
-          <target>Neuen Content-Typ erstellen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7b64ebcf792d888de957eaee1c3734c97c80db98" resname="content_type.default_always_available">
         <source>Default content availability</source>
         <target state="translated">Standard-Inhaltsverfügbarkeit</target>
         <note>key: content_type.default_always_available</note>
         <jms:reference-file line="115">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-        <alt-trans>
-          <target>Standard Content verfügbarkeit</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b29f5d9c32e10776ec9fd36c35c4aefc96732cb2" resname="content_type.default_sort_field">
         <source>Default field for sorting children</source>
@@ -59,18 +53,12 @@
         <target state="translated">Inhaltsfeld Definitionen</target>
         <note>key: content_type.field_definitions_data</note>
         <jms:reference-file line="120">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-        <alt-trans>
-          <target>Content Felder Definitionen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a43bfd2651eb1f3357e3398286afd5b6e17c101e" resname="content_type.field_type_selection">
         <source>Field type selection</source>
         <target state="translated">Feldtypauswahl</target>
         <note>key: content_type.field_type_selection</note>
         <jms:reference-file line="126">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-        <alt-trans>
-          <target>Feldtypen Auswahl</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="368a6ffa173a2e9605371392e99e565d9b247382" resname="content_type.group.delete">
         <source>Delete</source>
@@ -113,9 +101,6 @@
         <target state="translated">Inhalt Namensschema</target>
         <note>key: content_type.name_schema</note>
         <jms:reference-file line="87">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-        <alt-trans>
-          <target>Content Namensschema</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="49e5f320e6e37cbd53a5d290e3ffd48788226852" resname="content_type.publish">
         <source>OK</source>
@@ -134,9 +119,6 @@
         <target state="translated">Ausgewählte Felddefinitionen entfernen</target>
         <note>key: content_type.remove_field_definitions</note>
         <jms:reference-file line="129">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-        <alt-trans>
-          <target>Entfernen der ausgewählten Felddefinitionen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="946ba9e49beabdacd143e10e343f852736c081d8" resname="content_type.save">
         <source>Apply</source>
