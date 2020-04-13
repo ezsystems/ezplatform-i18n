@@ -10,9 +10,6 @@
         <source>Content type description cannot exceed 255 characters.</source>
         <target state="translated">內容類型描述不能超過255個字。</target>
         <note>key: ez.content_type.descriptions</note>
-        <alt-trans>
-          <target>內容類型說明不能超過255個字元。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="73aad2fb9c8f9a2103bf60d6e9221a619f261f9c" resname="ez.content_type.identifier.pattern">
         <source>Content type identifier may only contain letters from "a" to "z", numbers and underscores.</source>
