@@ -10,9 +10,6 @@
         <source>Cannot display this page in Page Builder app. Sorry!</source>
         <target state="final">Nie można wyświetlić strony w aplikacji Edytor Stron.</target>
         <note>key: cannot.display.this.page</note>
-        <alt-trans>
-          <target>Nie można wyświetlić strony w aplikacji Page Builder.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f298d2852684440367a0b6c1549f818ecd6ceb3b" resname="preview.could.not.be.loaded" approved="yes">
         <source>The preview couldn’t be loaded. This preview page is on another domain, that is not configured to work with Page Builder.</source>
