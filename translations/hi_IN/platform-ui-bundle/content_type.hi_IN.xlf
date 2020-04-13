@@ -74,18 +74,12 @@
         <target state="translated">कांटेंट प्रकार का ड्राफ़्ट सफलतापूर्वक निकाल दिया गया था।</target>
         <note>key: content_type.notification.draft_removed</note>
         <jms:reference-file line="96">Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>कांटेंट प्रकार का ड्राफ़्ट सफलतापूर्वक निकाल दिया गया है।</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="35f407c7c55275cd9046b6f9e9e77913b9b08e28" resname="content_type.notification.draft_updated">
         <source>The Content type draft was successfully updated.</source>
         <target state="translated">कांटेंट प्रकार का ड्राफ्ट सफलतापूर्वक अद्यतन किया गया था।</target>
         <note>key: content_type.notification.draft_updated</note>
         <jms:reference-file line="60">Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>कांटेंट प्रकार का ड्राफ्ट सफलतापूर्वक अद्यतन किया गया है।</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ceffda5dc773e1742f8fc336402cdc506774d2c0" resname="content_type.notification.published">
         <source>The Content type draft was successfully updated and published. Related Content has also been updated.</source>
