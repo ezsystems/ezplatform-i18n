@@ -29,9 +29,6 @@
         <target state="translated">Logg inn</target>
         <note>key: loginform.login</note>
         <jms:reference-file>Resources/public/templates/loginform.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Brukernavn</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a4ca196c29f2015f4b155d47a46a9b59ccfc7e3c" resname="loginform.need.login">
         <source>You need to login to access this area</source>
