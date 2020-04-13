@@ -100,25 +100,16 @@
         <source>Role '%role%' created.</source>
         <target state="translated">角色'%role%'已創建。</target>
         <note>key: role.create.success</note>
-        <alt-trans>
-          <target>角色'％role％'已創建。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="20c6318c88508393b9cb8413a6d7e61649f80ab3" resname="role.delete.success">
         <source>Role '%role%' removed.</source>
         <target state="translated">角色'%role%'已刪除。</target>
         <note>key: role.delete.success</note>
-        <alt-trans>
-          <target>角色'％role％'已刪除。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="75637482fd2563256da5423615ecfb241fc03a57" resname="role.update.success">
         <source>Role '%role%' updated.</source>
         <target state="translated">角色'%role%'已更新。</target>
         <note>key: role.update.success</note>
-        <alt-trans>
-          <target>角色'％role％'已更新。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="da907b734c3ae3df8e9c570dd8e9e7e6d0799105" resname="role.view.add.title">
         <source>Creating a new Role</source>
