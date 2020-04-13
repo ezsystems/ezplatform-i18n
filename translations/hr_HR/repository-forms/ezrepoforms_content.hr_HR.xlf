@@ -59,9 +59,6 @@
         <target state="translated">Polja iz sadržaja</target>
         <note>key: ezrepoforms.content.fields</note>
         <jms:reference-file line="39">lib/Form/Type/Content/ContentEditType.php</jms:reference-file>
-        <alt-trans>
-          <target>Polja iz contenta</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
