@@ -11,18 +11,12 @@
         <target state="final">Add meg felhasználóneved, vagy e-mail címed</target>
         <note>key: Enter login or email</note>
         <jms:reference-file line="18">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Adja meg felhasználónevét, vagy e-mail címét</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="570591c060a999e9ab1592763c74d881b7654ee1" resname="Enter password" approved="yes">
         <source>Enter password</source>
         <target state="final">Add meg jelszavad</target>
         <note>key: Enter password</note>
         <jms:reference-file line="22">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Adja meg jelszavát</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4e5a2893bdcc7d239c1db72e4c4ffbe4bea73174" resname="Login" approved="yes">
         <source>Login</source>
