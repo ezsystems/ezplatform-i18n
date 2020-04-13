@@ -10,17 +10,11 @@
         <source>The user login '%login%' is used by another user. You must enter a unique login.</source>
         <target state="translated">登錄用戶名 "%login%" 已被佔用。必須輸入唯一的登錄用戶名。</target>
         <note>key: The user login '%login%' is used by another user. You must enter a unique login.</note>
-        <alt-trans>
-          <target>登錄用戶名 "%login%" 由其他使用者使用。必須輸入唯一的登錄用戶名。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="facbff93edf91393ba1bb60212f504d35beae555" resname="ez.content_type.descriptions">
         <source>Content type description cannot exceed 255 characters.</source>
         <target state="translated">內容類型描述不能超過255個字。</target>
         <note>key: ez.content_type.descriptions</note>
-        <alt-trans>
-          <target>內容類型說明不能超過255個字元。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="73aad2fb9c8f9a2103bf60d6e9221a619f261f9c" resname="ez.content_type.identifier.pattern">
         <source>Content type identifier may only contain letters from "a" to "z", numbers and underscores.</source>
@@ -61,9 +55,6 @@
         <source>URL must be unique</source>
         <target state="translated">URL必須是唯一</target>
         <note>key: ez.url.unique</note>
-        <alt-trans>
-          <target>URL必須是唯一的</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
