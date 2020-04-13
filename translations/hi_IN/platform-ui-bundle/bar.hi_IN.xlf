@@ -11,9 +11,6 @@
         <target state="translated">कॉपी</target>
         <note>key: actionbar.copy</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
-        <alt-trans>
-          <target>कापी</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e9ce61047248bb9c85bb0984cf597dbfbcc7633b" resname="actionbar.createContent">
         <source>Create</source>
@@ -26,18 +23,12 @@
         <target state="translated">मिटाए</target>
         <note>key: actionbar.delete</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
-        <alt-trans>
-          <target>हटाएँ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5fb95ba95e83264744f36bd3dafb74013b86d315" resname="actionbar.edit">
         <source>Edit</source>
         <target state="translated">संपादन करें</target>
         <note>key: actionbar.edit</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
-        <alt-trans>
-          <target>संपादन करना</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4406c1030566fae57a5e41a797823d41c7775ac8" resname="actionbar.minimizeActionBar">
         <source>Minimize</source>
@@ -194,9 +185,6 @@
         <target state="translated">संपादन करें</target>
         <note>key: translateaction.edit</note>
         <jms:reference-file>Resources/public/templates/translateaction.hbt</jms:reference-file>
-        <alt-trans>
-          <target>संपादन करना</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0da142a7f050a139b79a5865547744a56a5f4281" resname="translateaction.existing.translations">
         <source>Existing Translations</source>
