@@ -77,9 +77,6 @@
         <target state="translated">Admin パネル</target>
         <note>key: navigationhub.zone.admin</note>
         <jms:reference-file>Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
-        <alt-trans>
-          <target>管理者パネル</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f32918f2df2d2ecd3aa263a188187635d45c3d49" resname="navigationhub.zone.platform">
         <source>Content</source>
