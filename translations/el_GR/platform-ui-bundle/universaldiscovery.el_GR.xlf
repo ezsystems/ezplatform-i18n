@@ -11,9 +11,6 @@
         <target state="translated">Περιήγηση</target>
         <note>key: browse</note>
         <jms:reference-file>Resources/public/js/views/universaldiscovery/ez-universaldiscoverybrowseview.js</jms:reference-file>
-        <alt-trans>
-          <target>Πλοήγηση</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="eb49b4ba3c7e1ef3ac5b6d8f82f8095bed616989" resname="no.result">
         <source>No results were found while searching for "%searchText%".</source>
