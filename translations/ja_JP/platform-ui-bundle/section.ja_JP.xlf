@@ -53,9 +53,6 @@
         <target state="translated">セクション識別子</target>
         <note>key: section.identifier</note>
         <jms:reference-file line="56">Resources/views/Section/list.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>セクションの識別子</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4a040adfce6771857aef17cf0dbb596f2dee2e70" resname="section.identifier.label">
         <source>Section identifier:</source>
