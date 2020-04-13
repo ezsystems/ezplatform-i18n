@@ -23,9 +23,6 @@
         <target state="final">Logo d'eZ</target>
         <note>key: loginform.ez.logo</note>
         <jms:reference-file>Resources/public/templates/loginform.hbt</jms:reference-file>
-        <alt-trans>
-          <target>eZ Logo</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="804e6b4ba4943f9b3ebc6f9ab726bdbc088d44de" resname="loginform.login" approved="yes">
         <source>Login</source>
