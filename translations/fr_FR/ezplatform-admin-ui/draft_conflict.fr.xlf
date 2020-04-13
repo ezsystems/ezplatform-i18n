@@ -25,9 +25,6 @@
         <source>{1}There are %number% draft for this content item.|]1,Inf[ There are %number% drafts for this content item</source>
         <target state="translated">{1}Il y a %number% brouillons pour cet élément de contenu.|]1,Inf[ Il y a %number% brouillons pour cet élément de contenu</target>
         <note>key: draft.conflict.number</note>
-        <alt-trans>
-          <target>{1}Il y a %number% brouillon pour cet élément de contenu.|]1,Inf[ Il y a %number% brouillons pour cet élément de contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a4297fe31e8eb3307caa2cf855328056c3b98962" resname="tab.versions.action.delete">
         <source>Add draft</source>
