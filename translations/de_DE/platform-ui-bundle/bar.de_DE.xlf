@@ -17,12 +17,6 @@
         <target state="translated">Erstellen</target>
         <note>key: actionbar.createContent</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
-        <alt-trans>
-          <target>Erzeugen</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Bearbeiten</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="be3348d5545fb64e8506ae64e667dac048bbc97c" resname="actionbar.delete">
         <source>Delete</source>
@@ -41,30 +35,18 @@
         <target state="translated">Minimieren</target>
         <note>key: actionbar.minimizeActionBar</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
-        <alt-trans>
-          <target>Verkleinern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b282633e9e76dd418412580d9232d28d9404dcb5" resname="actionbar.move">
         <source>Move</source>
         <target state="translated">Verschieben</target>
         <note>key: actionbar.move</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
-        <alt-trans>
-          <target>Datei verschieben</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0c208e52af8963639637f9c9ce2163bd98d1628e" resname="actionbar.sendToTrash">
         <source>Send to Trash</source>
         <target state="translated">In Papierkorb verschieben</target>
         <note>key: actionbar.sendToTrash</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
-        <alt-trans>
-          <target>In Papierkorb</target>
-        </alt-trans>
-        <alt-trans>
-          <target>In den Mülleimer</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5b0a413f93880e60e8da0cc54c3d2643afef840c" resname="actionbar.translate">
         <source>Translations</source>
@@ -83,57 +65,36 @@
         <target state="translated">Inhaltsbrowser</target>
         <note>key: content.browser.title</note>
         <jms:reference-file>Resources/public/js/views/services/ez-discoverybarviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Content Browser</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a45dde06d9f58df76767d6fdaa8da714979b737d" resname="content.copied.under">
         <source>'%contentName%' has been successfully copied under '%parentContentName%'</source>
         <target state="translated">"%contentName%" wurde erfolgreich unter '%parentContentName%' kopiert</target>
         <note>key: content.copied.under</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>'%contentName%' wurde erfolgreich unter '%parentContentName%' kopiert</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0bc4676a2e348119912d9a0cb23c8b9c2db54b38" resname="createcontentaction.loading">
         <source>Loading</source>
         <target state="translated">Wird geladen</target>
         <note>key: createcontentaction.loading</note>
         <jms:reference-file>Resources/public/templates/createcontentaction.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Laden</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8168e6a5b68d175e892512352ec75bdfe1275631" resname="creating.new.location.for">
         <source>Creating new location for "%name%"</source>
         <target state="translated">Erzeuge neuen Ort für "%name%"</target>
         <note>key: creating.new.location.for</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Erzeuge neue Location für "%name%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bad3f2a8b005e430f9760b9b3c47e37faa3176bd" resname="creating.new.location.for.failed">
         <source>Creating new location(s) for "%name%" failed</source>
         <target state="translated">Das erzeugen von neuen Orten für "%name%" ist fehlgeschlagen</target>
         <note>key: creating.new.location.for.failed</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Das erzeugen von neuen Location's für "%name%" ist fehlgeschlagen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4f1d1e873e2acd3ffa920e7ee8fa339b43ffe384" resname="discoverybar.browse">
         <source>Content browse</source>
         <target state="translated">Inhalt durchsuchen</target>
         <note>key: discoverybar.browse</note>
         <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
-        <alt-trans>
-          <target>Content durchsuchen</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Content durchschauen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7eaf9281f3e62d4f3acf5dac5b34060808c363b9" resname="discoverybar.contenttree">
         <source>Content tree</source>
@@ -145,9 +106,6 @@
         <target state="translated">Minimieren</target>
         <note>key: discoverybar.minimize</note>
         <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
-        <alt-trans>
-          <target>Verkleinern</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="55ba03a687a73559ef8a2d4e1ff935b47ddc5859" resname="discoverybar.search">
         <source>Search</source>
@@ -160,27 +118,18 @@
         <target state="translated">Papierkorb</target>
         <note>key: discoverybar.trash</note>
         <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
-        <alt-trans>
-          <target>Mülleimer</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4f05b52ccc249d1a7747839ea78300f80c6011d3" resname="error.hiding.location">
         <source>Error while hiding location "%id%"</source>
         <target state="translated">Fehler beim Verstecken des Ortes "%id%"</target>
         <note>key: error.hiding.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Fehler beim Ausblenden von dem Ort "%id%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b751b43622c766dad211b5892e401abe17292918" resname="error.occurred.copying">
         <source>An error occurred while copying your content</source>
         <target state="translated">Beim Kopieren Ihres Inhaltes trat ein Fehler auf</target>
         <note>key: error.occurred.copying</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Beim kopieren Ihres Inhaltes trat ein Fehler auf</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e3215cb818603963b4e6b318ed9874ba881ca5bb" resname="error.occurred.loading">
         <source>An error occurred while loading your content</source>
@@ -193,9 +142,6 @@
         <target state="translated">Fehler beim sichtbar machen von dem Ort "%id%"</target>
         <note>key: error.revealing.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Fehler beim sichtbar machen von Ort "%id%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e650b8f59c13ba2541db9ae6ac90a1857d88cb54" resname="failed.creating.new.location.for">
         <source>Creating new location for "%name%" under "%parentName%" failed</source>
