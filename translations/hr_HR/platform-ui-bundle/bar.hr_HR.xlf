@@ -59,9 +59,6 @@
         <target state="translated">"%contentName%" se kopira u "%parentContentName%"</target>
         <note>key: content.being.copied.under</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>"%contentName%" se kopira pod "%parentContentName%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2be07d7fa67c4111b55ff1ae95aa7bb38df17774" resname="content.browser.title">
         <source>Content browser</source>
@@ -74,9 +71,6 @@
         <target state="translated">'%contentName%' je uspješno kopiran pod '%parentContentName% '</target>
         <note>key: content.copied.under</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-copycontentplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>'%contentName%' je uspješno kopiran u '%parentContentName% '</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0bc4676a2e348119912d9a0cb23c8b9c2db54b38" resname="createcontentaction.loading">
         <source>Loading</source>
@@ -196,9 +190,6 @@
         <target state="translated">Odaberite jezik za novi prijevod:</target>
         <note>key: select.a.language.for.new.translation</note>
         <jms:reference-file>Resources/public/js/views/actions/ez-translateactionview.js</jms:reference-file>
-        <alt-trans>
-          <target>Odaberi jezik za novi prijevod:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="801849651d85606aa04da1b4ea58fad208793e3a" resname="select.location.to.copy">
         <source>Select the location you want to copy your content into</source>
@@ -217,9 +208,6 @@
         <target state="translated">Uređivanje</target>
         <note>key: translateaction.edit</note>
         <jms:reference-file>Resources/public/templates/translateaction.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Uredi</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0da142a7f050a139b79a5865547744a56a5f4281" resname="translateaction.existing.translations">
         <source>Existing Translations</source>
@@ -232,18 +220,12 @@
         <target state="translated">+ Dodavanje novog prijevoda</target>
         <note>key: translateaction.new.translation</note>
         <jms:reference-file>Resources/public/templates/translateaction.hbt</jms:reference-file>
-        <alt-trans>
-          <target>+ Novi prijevod</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0141ea1c4b92b9abdd164fdc4a7a824350d856f7" resname="view.content.label">
         <source>View this content</source>
         <target state="translated">Pregledaj ovaj sadržaj</target>
         <note>key: view.content.label</note>
         <jms:reference-file>Resources/public/js/views/services/ez-discoverybarviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Pregledaj sadržaj</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
