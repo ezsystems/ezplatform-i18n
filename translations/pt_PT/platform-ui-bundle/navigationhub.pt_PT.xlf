@@ -35,9 +35,6 @@
         <target state="final">Painel de administração</target>
         <note>key: navigationhub.dashboard.title</note>
         <jms:reference-file>Resources/public/js/views/services/ez-navigationhubviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Paniel de administração</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6a7e8372aebbd558cab8c19c5caecc1deee66024" resname="navigationhub.language.list" approved="yes">
         <source>Languages</source>
