@@ -33,9 +33,6 @@
         <jms:reference-file line="19">Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="71">Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="74">Resources/views/Section/view.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Válassza ki a tartalom elemeket, amelyeket a "%sectionName%" szekcióhoz kíván rendelni</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content" approved="yes">
         <source>Assigned Content items</source>
