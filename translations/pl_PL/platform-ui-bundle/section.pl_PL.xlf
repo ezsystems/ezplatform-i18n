@@ -48,10 +48,6 @@
                 </target>
         <note>key: section.assigned.contentcount</note>
         <jms:reference-file line="41">Resources/views/Section/view.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>{0} Ta sekcja nie jest przypisana to żadnego obiektu.|{1} Ta sekcja jest przypisana do %contentCount% obiektu.|]1,Inf[ Ta sekcja jest przypisana do %contentCount% obiektów.
-                </target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0a8c9188f868f7dfd2f523d0d1eabeb846d39d03" resname="section.cancel" approved="yes">
         <source>Cancel</source>
@@ -150,18 +146,12 @@
         <note>key: section.new</note>
         <jms:reference-file line="105">Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="107">Resources/views/Section/list.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Stwórz nową sekcję</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="73477cdb03483ff68ff67d6a840516b4bcf6e64e" resname="section.notification.created" approved="yes">
         <source>The section "%sectionName%" was correctly created.</source>
         <target state="final">Utworzono sekcję "%sectionName%".</target>
         <note>key: section.notification.created</note>
         <jms:reference-file line="46">Form/Processor/SectionFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>Stworzono sekcję "%sectionName%".</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a032c9aa18da02d8892f1cc17d13efbcef32417b" resname="section.notification.updated" approved="yes">
         <source>The section "%sectionName%" was correctly saved.</source>
