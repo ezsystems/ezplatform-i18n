@@ -11,9 +11,6 @@
         <target state="final">Biztosan véglegesen törölni kívánsz %count% elemet? A művelet nem vonható vissza.</target>
         <note>key: confirm.permanent.delete.items</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Biztosan véglegesen törölni kíván %count% elemet? A művelet nem vonható vissza.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="175a957e55daa96d77e4354c9a79e80401cb8b3c" resname="content.items.restored" approved="yes">
         <source>%count%  Content item(s) have been restored</source>
