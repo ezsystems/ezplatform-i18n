@@ -11,9 +11,6 @@
         <target state="translated">Λήψη αυτού τού αρχείου</target>
         <note>key: binaryfile.download.file</note>
         <jms:reference-file>Resources/public/templates/fields/view/binaryfile.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Λήψη αρχείου</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6167f5a54d6b6aeda1db413dcfb2e5ead6632a32" resname="failed.to.load.the.map">
         <source>Failed to load the map</source>
