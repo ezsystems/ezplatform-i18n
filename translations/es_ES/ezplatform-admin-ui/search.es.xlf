@@ -130,9 +130,6 @@
         <source>Check spelling of keywords.</source>
         <target state="translated">Revise la ortografía de las palabras clave.</target>
         <note>key: search.tips.check_spelling</note>
-        <alt-trans>
-          <target>Revisar la ortografía de las palabras clave.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d89a8ff5c4b03f1dd7bd1ce3e3306862e1855751" resname="search.tips.different_keywords">
         <source>Try different keywords.</source>
