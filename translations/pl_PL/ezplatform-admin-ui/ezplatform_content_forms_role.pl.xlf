@@ -20,9 +20,6 @@
         <source>Type</source>
         <target state="final">Typ</target>
         <note>key: role.policy.type</note>
-        <alt-trans>
-          <target>Rodzaj bazy danych</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose" approved="yes">
         <source>Choose a type</source>
