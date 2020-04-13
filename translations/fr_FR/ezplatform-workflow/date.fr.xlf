@@ -10,12 +10,6 @@
         <source>1 day ago|%count% days ago</source>
         <target state="translated">Il y a 1 jour |Il y a %count% jours</target>
         <note>key: diff.ago.day</note>
-        <alt-trans>
-          <target>Il y a 1 jour | Il y a %count% jours</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Il y a 1 jour | il y a %count% jours</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b3caf2127ff7fb3fd977af365ec4f104d6ab7687" resname="diff.ago.hour">
         <source>1 hour ago|%count% hours ago</source>
@@ -26,25 +20,16 @@
         <source>1 minute ago|%count% minutes ago</source>
         <target state="translated">Il y a 1 minute|Il y a %count% minutes</target>
         <note>key: diff.ago.minute</note>
-        <alt-trans>
-          <target>Il y a 1 minute| Il y a %count% minutes</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4423772b70e920742bdbd9e1d0af26584ad78a9f" resname="diff.ago.month">
         <source>1 month ago|%count% months ago</source>
         <target state="translated">Il y a 1 mois|Il y a %count% mois</target>
         <note>key: diff.ago.month</note>
-        <alt-trans>
-          <target>Il y a 1 mois| Il y a %count% mois</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c975933018445b92dca8aff134de3b3fb93faad3" resname="diff.ago.second">
         <source>1 second ago|%count% seconds ago</source>
         <target state="translated">Il y a 1 seconde|Il y a %count% secondes</target>
         <note>key: diff.ago.second</note>
-        <alt-trans>
-          <target>Il y a 1 seconde| Il y a %count% secondes</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="082fd9b2eb27ef4e774a9c0e4b88d2c3b65ea39d" resname="diff.ago.year">
         <source>1 year ago|%count% years ago</source>
