@@ -31,9 +31,6 @@
         <note>key: heading.1</note>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
-        <alt-trans>
-          <target>Encabezado 1</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4decf57f600f5e23f972092da3023f7065f7008b" resname="heading.2">
         <source>Heading 2</source>
