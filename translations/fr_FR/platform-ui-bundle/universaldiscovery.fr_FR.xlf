@@ -53,9 +53,6 @@
         <target state="final">Éléments confirmés</target>
         <note>key: universaldiscovery.confirmed.items</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/confirmedlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Eléments confirmés</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="73538954b18fddadb8404e15e4a5bdb3630d14fb" resname="universaldiscovery.content.browser" approved="yes">
         <source>Content browser</source>
@@ -68,9 +65,6 @@
         <target state="final">Arborescence</target>
         <note>key: universaldiscovery.content.tree</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/browse.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Arbre de contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5d385d494274d016769564a3bdf95332896d62af" resname="universaldiscovery.creation.date" approved="yes">
         <source>Creation Date</source>
