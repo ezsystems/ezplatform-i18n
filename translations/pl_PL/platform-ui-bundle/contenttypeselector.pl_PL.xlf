@@ -29,9 +29,6 @@
         <target state="final">zacznij pisać aby zawęzić listę</target>
         <note>key: contenttypeselector.start.typing</note>
         <jms:reference-file>Resources/public/templates/contenttypeselector.hbt</jms:reference-file>
-        <alt-trans>
-          <target>zacznij pisać aby wyświetlić listę</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
