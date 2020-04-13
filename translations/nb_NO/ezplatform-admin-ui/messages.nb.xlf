@@ -142,15 +142,6 @@
         <br /><br />
  Hvis du ikke har bedt om å tilbakestille passordet, vennligst ignorere denne eposten og passordet vil forbli den samme.]]></target>
         <note>key: ezplatform.forgot_user_password.message</note>
-        <alt-trans>
-          <target><![CDATA[Hei,
-        <br /><br />
-        vi har mottatt en forespørsel om å tilbakestille passordet for din konto. Klikk "tilbakestille passord" nedenfor for å velge et nytt passord:
-        <br /><br />
-        <a href="%reset_password%">Tilbakestille passord<a/>
-        <br /><br />
- Hvis du ikke har bedt om å tilbakestille passordet, vennligst ignorere denne eposten, og passordet vil forbli den samme.]]></target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password">
         <source>Reset your password</source>
