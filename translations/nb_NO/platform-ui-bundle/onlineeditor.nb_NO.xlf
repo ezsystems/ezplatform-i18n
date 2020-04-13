@@ -167,9 +167,6 @@
         <note>key: select.a.content.to.embed</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/embed.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/embedhref.js</jms:reference-file>
-        <alt-trans>
-          <target>Velg et innhold å bygge inn</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="222b96ae048010b9610bf0bbe6cf6569b79c2a26" resname="select.a.content.to.link.to">
         <source>Select a Content item to link</source>
