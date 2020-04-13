@@ -24,9 +24,6 @@
         <target state="translated">Intestazione</target>
         <note>key: heading</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/heading.js</jms:reference-file>
-        <alt-trans>
-          <target>Heading</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8ccbbbe6115fdd98c98cfd7f699501b3550a050b" resname="heading.1">
         <source>Heading 1</source>
