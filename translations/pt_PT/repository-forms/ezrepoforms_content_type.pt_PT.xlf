@@ -245,9 +245,6 @@
         <target state="final">Vazia</target>
         <note>key: field_definition.ezdate.default_type_empty</note>
         <jms:reference-file line="27">lib/FieldType/Mapper/DateFormMapper.php</jms:reference-file>
-        <alt-trans>
-          <target>Vazio</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="dbbf37dee75d40448b725aea9c893a4ea84c8ab6" resname="field_definition.ezdatetime.date_interval" approved="yes">
         <source>Current date and time adjusted by</source>
@@ -344,9 +341,6 @@
         <target state="final">Tamanho máximo de ficheiro (MB)</target>
         <note>key: field_definition.ezmedia.max_file_size</note>
         <jms:reference-file line="27">lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
-        <alt-trans>
-          <target>Tamano máximo de ficheiro (MB)</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1ae04670268864a185efbed749015b7ea14f079b" resname="field_definition.ezmedia.media_type" approved="yes">
         <source>Media type</source>
