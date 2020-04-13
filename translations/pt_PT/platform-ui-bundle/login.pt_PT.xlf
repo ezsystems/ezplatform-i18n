@@ -41,9 +41,6 @@
         <target state="final">Palavra-chave</target>
         <note>key: loginform.password</note>
         <jms:reference-file>Resources/public/templates/loginform.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Palvra-chave</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fd61368971282740aca61a93f8e13ec7dab3c339" resname="loginform.username" approved="yes">
         <source>Username</source>
