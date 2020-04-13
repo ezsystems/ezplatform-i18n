@@ -45,9 +45,6 @@
         <source>Contributor</source>
         <target state="translated">Collaboratore</target>
         <note>key: dashboard.table.contributor</note>
-        <alt-trans>
-          <target>Contribuente</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
         <source>Name</source>
