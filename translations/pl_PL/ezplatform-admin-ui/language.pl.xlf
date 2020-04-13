@@ -20,9 +20,6 @@
         <source>Language '%name%' created.</source>
         <target state="final">Utworzono język '%name%'.</target>
         <note>key: language.create.success</note>
-        <alt-trans>
-          <target>Język '%name' został utworzony.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8390c7c1adbff8a264583f6f060256c993023787" resname="language.delete" approved="yes">
         <source>Delete Language</source>
@@ -33,9 +30,6 @@
         <source>Language '%name%' removed.</source>
         <target state="final">Usunięto język '%name%'.</target>
         <note>key: language.delete.success</note>
-        <alt-trans>
-          <target>Język '%name%' został usunięty.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0c028c20c9b353fbd7b71bfef8b4ae3dcbd0d7e4" resname="language.disabled" approved="yes">
         <source>Disabled</source>
@@ -56,17 +50,11 @@
         <source>Enabled</source>
         <target state="final">Aktywny</target>
         <note>key: language.enabled</note>
-        <alt-trans>
-          <target>Włączony</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="11f29ad3c27254c1fea1d685b1961546d4949553" resname="language.enabled.label" approved="yes">
         <source>Enabled</source>
         <target state="final">Aktywny</target>
         <note>key: language.enabled.label</note>
-        <alt-trans>
-          <target>Włączony</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0367aa925124b3d8db3ea8b85ae45ffecdafbf7c" resname="language.form.cancel" approved="yes">
         <source>Cancel</source>
@@ -122,9 +110,6 @@
         <source>Language '%name%' updated.</source>
         <target state="final">Zaktualizowano język '%name%'.</target>
         <note>key: language.update.success</note>
-        <alt-trans>
-          <target>Język '%name%' zaktualizowany.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="451b73fc2ed5bb8b05754b0d293ea07293461ec9" resname="language.view.identifier" approved="yes">
         <source>%language%</source>
