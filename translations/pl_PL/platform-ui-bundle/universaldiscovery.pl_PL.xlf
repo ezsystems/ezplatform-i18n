@@ -65,9 +65,6 @@
         <target state="final">Drzewo elementów</target>
         <note>key: universaldiscovery.content.tree</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/browse.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Drzewo zawartości</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5d385d494274d016769564a3bdf95332896d62af" resname="universaldiscovery.creation.date" approved="yes">
         <source>Creation Date</source>
