@@ -67,9 +67,6 @@
         <jms:reference-file line="105">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
         <jms:reference-file line="116">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
         <jms:reference-file line="81">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Vazio/a</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ad6776fd58e0ae4b2ba44ff014986ec6b1ec4de4" resname="fielddefinition.default-value.label" approved="yes">
         <source>Default value:</source>
@@ -95,66 +92,42 @@
         <target state="final">%day% dia(s) por %default%</target>
         <note>key: fielddefinition.interval.day</note>
         <jms:reference-file line="89">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>dia(s) %day% por %default%</target>
-        </alt-trans>
-        <alt-trans>
-          <target>%default% %day% dia(s)</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4b31f5a6cfde5d347f3ad264daa7db77e704a5e0" resname="fielddefinition.interval.hour" approved="yes">
         <source>%default% %hour% hour(s)</source>
         <target state="final">%hour% hora(s) por %default%</target>
         <note>key: fielddefinition.interval.hour</note>
         <jms:reference-file line="90">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>hora(s) %hour% por %default%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="388ff2c36717a410a72060911657dce61108ed3c" resname="fielddefinition.interval.minute" approved="yes">
         <source>%default% %minute% minute(s)</source>
         <target state="final">%minute% minuto(s) por %default%</target>
         <note>key: fielddefinition.interval.minute</note>
         <jms:reference-file line="91">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>minuto(s) %minute% por %default%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b93b6a1548ffa873b1ef5a95c727f93d7be2fd0c" resname="fielddefinition.interval.month" approved="yes">
         <source>%default% %month% month(s)</source>
         <target state="final">%month% mês/meses por %default%</target>
         <note>key: fielddefinition.interval.month</note>
         <jms:reference-file line="88">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>mês/meses %month% por %default%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c410f54bc82c293dcce4b252928dc4a020ab1705" resname="fielddefinition.interval.second" approved="yes">
         <source>%default% %second% second(s)</source>
         <target state="final">%second% segundo(s) por %default%</target>
         <note>key: fielddefinition.interval.second</note>
         <jms:reference-file line="92">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>segundo(s) %second% por %default%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c88fa282a777c6f3a778f513fc9e46800ffe0198" resname="fielddefinition.interval.year" approved="yes">
         <source>%default% %year% year(s)</source>
         <target state="final">%year% ano(s) por %default%</target>
         <note>key: fielddefinition.interval.year</note>
         <jms:reference-file line="87">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>ano(s) %year% por %default%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fa2595f063cfd4284226372dc99eb3dfbbc36498" resname="fielddefinition.isbn.label" approved="yes">
         <source>Selected ISBN format:</source>
         <target state="final">Formato de ISBN seleccionado:</target>
         <note>key: fielddefinition.isbn.label</note>
         <jms:reference-file line="393">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Formato de ISBN selecionado:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c963dbac20e5526d70d08b17ebffdaaf44e1c2c3" resname="fielddefinition.max-length.label" approved="yes">
         <source>Max string length:</source>
@@ -269,9 +242,6 @@
         <target state="final">Não há valor mínimo definido</target>
         <note>key: fielddefinition.min-value.undefined</note>
         <jms:reference-file line="365">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Não há valor minimo definido</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="694dc611591facca075a581721e399e272b758fe" resname="fielddefinition.multiple.label" approved="yes">
         <source>Allow multiple choices:</source>
@@ -302,9 +272,6 @@
         <target state="final">Nenhum número preferencial de linhas</target>
         <note>key: fielddefinition.preferred-rows-number.undefined</note>
         <jms:reference-file line="326">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Nenhum número preferido de linhas</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ac0aff5c558fb078621da0f46b2ae5b0e04afcaa" resname="fielddefinition.preferred-rows-number.value" approved="yes">
         <source>%rows% rows</source>
@@ -324,9 +291,6 @@
         <target state="final">Lista com caixas de selecção</target>
         <note>key: fielddefinition.selection-method.checkbox</note>
         <jms:reference-file line="240">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Lista com checkboxes</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a60c81e556aa14c00b3b44ffb6e49f90b882c286" resname="fielddefinition.selection-method.label" approved="yes">
         <source>Selection method:</source>
@@ -334,9 +298,6 @@
         <note>key: fielddefinition.selection-method.label</note>
         <jms:reference-file line="212">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
         <jms:reference-file line="231">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Método de seleção:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cd94d6146477b427bdc6dbbe19be20bd6db31542" resname="fielddefinition.selection-method.list" approved="yes">
         <source>Drop-down list</source>
@@ -344,54 +305,36 @@
         <note>key: fielddefinition.selection-method.list</note>
         <jms:reference-file line="217">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
         <jms:reference-file line="236">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Lista Drop-down</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7d8f219b8fc1dab2be8b6a82898b0e7a8920c928" resname="fielddefinition.selection-method.multi_template" approved="yes">
         <source>Template based, multi</source>
         <target state="final">Baseado em modelo, único</target>
         <note>key: fielddefinition.selection-method.multi_template</note>
         <jms:reference-file line="244">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Modelo baseado, multi</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1095b3a335cbfeed0e396f081895affe81e7b7fd" resname="fielddefinition.selection-method.multiple_list" approved="yes">
         <source>Multiple selection list</source>
         <target state="final">Lista de selecção múltipla</target>
         <note>key: fielddefinition.selection-method.multiple_list</note>
         <jms:reference-file line="242">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Lista de seleção múltipla</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="60f06115f038572328285e2ca1fc5ad811105c49" resname="fielddefinition.selection-method.radio" approved="yes">
         <source>List with radio buttons</source>
         <target state="final">Lista com botões de rádio</target>
         <note>key: fielddefinition.selection-method.radio</note>
         <jms:reference-file line="238">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Lista com radio buttons</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="37121f3c9e8054432510a9f85fd3235e5f549734" resname="fielddefinition.selection-method.single_template" approved="yes">
         <source>Template based, single</source>
         <target state="final">Baseado em modelo, único</target>
         <note>key: fielddefinition.selection-method.single_template</note>
         <jms:reference-file line="246">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Modelo único, único</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e0b6bc6950269d05c7318553912abe4042d6a423" resname="fielddefinition.selection-method.tree" approved="yes">
         <source>Drop-down tree</source>
         <target state="final">Árvore suspensa</target>
         <note>key: fielddefinition.selection-method.tree</note>
         <jms:reference-file line="219">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Árvore Drop-down</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ccf4d68283a388e6a965caf9e507c6a39fffc46f" resname="fielddefinition.selection-root.label" approved="yes">
         <source>Selection root:</source>
@@ -404,9 +347,6 @@
         <target state="final">Nenhuma raiz definida</target>
         <note>key: fielddefinition.selection-root.undefined</note>
         <jms:reference-file line="339">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Nenhuma raiz definido</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4c9eb21a084528340d7944eeb0ffe525fc5e5e75" resname="fielddefinition.use-seconds.label" approved="yes">
         <source>Use seconds:</source>
