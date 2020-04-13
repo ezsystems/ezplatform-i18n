@@ -11,9 +11,6 @@
         <target state="final">Adj hozzá meződefiníciót</target>
         <note>key: content_type.add_field_definition</note>
         <jms:reference-file line="128">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-        <alt-trans>
-          <target>Adj hozzá mező-definíciót</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create" approved="yes">
         <source>Create a content type</source>
@@ -248,9 +245,6 @@
         <target state="final">Üres</target>
         <note>key: field_definition.ezdate.default_type_empty</note>
         <jms:reference-file line="27">lib/FieldType/Mapper/DateFormMapper.php</jms:reference-file>
-        <alt-trans>
-          <target>Üress</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="dbbf37dee75d40448b725aea9c893a4ea84c8ab6" resname="field_definition.ezdatetime.date_interval" approved="yes">
         <source>Current date and time adjusted by</source>
