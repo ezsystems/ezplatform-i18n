@@ -20,9 +20,6 @@
         <source>Checkbox</source>
         <target state="final">CheckBox</target>
         <note>key: ezboolean.name</note>
-        <alt-trans>
-          <target>Checkbox</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c4c3e3c536a09969467c7c9bb584459b47317fed" resname="ezcountry.name" approved="yes">
         <source>Country</source>
@@ -48,9 +45,6 @@
         <source>Map location</source>
         <target state="final">MapLocation</target>
         <note>key: ezgmaplocation.name</note>
-        <alt-trans>
-          <target>Map Location</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6300f890f00d9999466b4abc478857b0d29022b4" resname="ezimage.name" approved="yes">
         <source>Image</source>
@@ -116,17 +110,11 @@
         <source>Text line</source>
         <target state="final">TextLine</target>
         <note>key: ezstring.name</note>
-        <alt-trans>
-          <target>Text Line</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e35280b88546fdd18c84ce9c401e17cbfca56e72" resname="eztext.name" approved="yes">
         <source>Text block</source>
         <target state="final">TextBlock</target>
         <note>key: eztext.name</note>
-        <alt-trans>
-          <target>Text Block</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="503c2801427b2d773d020ef953413d14c17968bd" resname="eztime.name" approved="yes">
         <source>Time</source>
@@ -147,9 +135,6 @@
         <source>XML block</source>
         <target state="final">XMLBlock</target>
         <note>key: ezxmltext.name</note>
-        <alt-trans>
-          <target>XML Block</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
