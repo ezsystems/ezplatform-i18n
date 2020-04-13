@@ -154,9 +154,6 @@
         <target state="translated">Lydformatet støttes ikke</target>
         <note>key: media.unsupported.audio</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Lydformatet er ikke støttet</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b1b6477775b3f0d529859f0f47b9a6436a63d1fa" resname="media.unsupported.video">
         <source>Unsupported video format</source>
