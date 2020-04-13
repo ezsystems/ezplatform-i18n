@@ -124,9 +124,6 @@
         <target state="translated">檔案大小:</target>
         <note>key: media.file.size</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target>檔案大小</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7aa71030f0d414447e914c2c037344aa54b03b87" resname="media.file.type">
         <source>Type:</source>
@@ -145,9 +142,6 @@
         <target state="translated">循環:</target>
         <note>key: media.loop</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target>循環</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="135cbb609fe487f5b9df8fdd756028516d582195" resname="media.size">
         <source>%size% bytes</source>
