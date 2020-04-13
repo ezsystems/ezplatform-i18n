@@ -330,18 +330,12 @@
         <target state="final">O rascunho da política foi removido.</target>
         <note>key: role.policy.notification.draft_removed</note>
         <jms:reference-file line="82">Form/Processor/PolicyFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>O rascunho do perfil de acesso foi removido.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6cefbf6392b5c48497a28d56749439827be0aa39" resname="role.policy.notification.draft_saved" approved="yes">
         <source>The policy draft was saved.</source>
         <target state="final">O rascunho da política foi gravado.</target>
         <note>key: role.policy.notification.draft_saved</note>
         <jms:reference-file line="47">Form/Processor/PolicyFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>O rascunho da política foi gravada.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f38831dca94d40d24f14cdfa9c00225b90f1e2a7" resname="role.policy_none" approved="yes">
         <source>There are no policies set up for this role.</source>
