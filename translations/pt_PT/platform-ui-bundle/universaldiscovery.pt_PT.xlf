@@ -71,9 +71,6 @@
         <target state="final">Data de Criação</target>
         <note>key: universaldiscovery.creation.date</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/selected.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Data de criação</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4ebf3bc51492976774c417bafc3dfab7280951ea" resname="universaldiscovery.error.loading.image" approved="yes">
         <source>An error occurred while loading the image.</source>
