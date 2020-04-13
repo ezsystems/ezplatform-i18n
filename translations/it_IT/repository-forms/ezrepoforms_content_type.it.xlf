@@ -50,12 +50,6 @@
         <source>Field type selection</source>
         <target state="translated">Segli il tipo di field</target>
         <note>key: content_type.field_type_selection</note>
-        <alt-trans>
-          <target>Segli il tipo di field da aggiungere</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Segli il tipo di field da aggiungere alla classe</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="368a6ffa173a2e9605371392e99e565d9b247382" resname="content_type.group.delete">
         <source>Delete</source>
@@ -236,9 +230,6 @@
         <source>Adjusted current datetime</source>
         <target state="translated">Datatime corrente regolata</target>
         <note>key: field_definition.ezdatetime.default_type_adjusted</note>
-        <alt-trans>
-          <target>Data/ora corrente regolata</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="24ac7fa5478172475d86a2d16829ece8a5e5f59f" resname="field_definition.ezdatetime.default_type_current">
         <source>Current datetime</source>
