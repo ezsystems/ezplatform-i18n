@@ -60,9 +60,6 @@
         <source>Select locations</source>
         <target state="translated">Seleziona le posizioni</target>
         <note>key: role.policy.limitation.location.udw_button</note>
-        <alt-trans>
-          <target>Seleziona la posizione</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title">
         <source>Select locations to use as policy limitation</source>
