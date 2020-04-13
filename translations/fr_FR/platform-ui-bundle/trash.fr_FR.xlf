@@ -29,9 +29,6 @@
         <target state="final">Une erreur s’est produite lors du vidage la Corbeille</target>
         <note>key: error.emptying.trash</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Une erreur s’est produite lors du vidage la corbeille</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c7d0ace34e28047e04285d5d1ca7dbd8a4757432" resname="error.restoring.item" approved="yes">
         <source>An error occurred while restoring trash item with id: %id%. For the moment item's whose original location has been deleted can not be restored</source>
@@ -74,9 +71,6 @@
         <target state="final">Restaurer les éléments de la Corbeille</target>
         <note>key: restoring.trash.items</note>
         <jms:reference-file>Resources/public/js/views/services/ez-trashviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Restaurer les éléments de la corbeille</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a97f5d20007194640d4a0f86e05bccd2463d9642" resname="trash.ancestor.to.select" approved="yes">
         <source>Select a new parent location for the item</source>
@@ -101,9 +95,6 @@
         <target state="final">La corbeille est vide</target>
         <note>key: trash.empty</note>
         <jms:reference-file>Resources/public/templates/trash.hbt</jms:reference-file>
-        <alt-trans>
-          <target>La Corbeille est vide</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9bedf5469883778a8aac2f2a0daaa7664704069b" resname="trash.header.name" approved="yes">
         <source>Trash</source>
