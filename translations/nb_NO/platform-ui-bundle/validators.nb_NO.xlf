@@ -10,9 +10,6 @@
         <source>Identifier should consist of letters, numbers or '_' with letter prefix.</source>
         <target state="translated">Identifikatoren må bestå av bokstaver, tall eller '_' og må begynne med en bokstav.</target>
         <note>key: section.validator.identifier.format</note>
-        <alt-trans>
-          <target>Identifikator må bestå av bokstaver, tall eller '_' og må begynne med en bokstav.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f1e18acc46e3c3ad462486f6815c64267c2eb1fa" resname="section.validator.identifier.not_blank">
         <source>The section identifier can not be empty.</source>
