@@ -65,9 +65,6 @@
         <target state="translated">Ausgewählte wiederherstellen</target>
         <note>key: restore.selected</note>
         <jms:reference-file>Resources/public/js/views/ez-trashbarview.js</jms:reference-file>
-        <alt-trans>
-          <target>Markierte wiederherstellen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="975936b6f9637047ab09d9e23550ee47e44a1308" resname="restoring.trash.items">
         <source>Restoring trash item(s)</source>
