@@ -34,9 +34,6 @@
         <target state="translated">Disponibilità predefinita nella lingua primaria, se manca la traduzione</target>
         <note>key: content_type.default_availability</note>
         <jms:reference-file line="77">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Disponibilità di predefinita nella lingua primaria, se manca la traduzione</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help">
         <source>Default availability in primary language, if translation is absent</source>
@@ -99,9 +96,6 @@
         <target state="translated">Impossibile eliminare il gruppo "%identifier%": contiene ancora dei Content types.</target>
         <note>key: content_type.group.cannot_delete.has_content_types</note>
         <jms:reference-file line="190">Controller/ContentTypeController.php</jms:reference-file>
-        <alt-trans>
-          <target>Impossibile eliminare il gruppo tipo di contenuto "%identifier%": contiene ancora dei Content types.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d9af30fb88ca7bed537ebf13fe3aef6c1679ff40" resname="content_type.group.create.title">
         <source>Creating a new Content type group</source>
@@ -114,9 +108,6 @@
         <target state="translated">Il gruppo "%identifier%" è stata eliminata correttamente.</target>
         <note>key: content_type.group.deleted</note>
         <jms:reference-file line="188">Controller/ContentTypeController.php</jms:reference-file>
-        <alt-trans>
-          <target>Gruppo tipo di contenuto "%identifier%" è stata eliminata correttamente.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ad7e97ad4cf67edf7aadf9010b17c34dc57aa0a6" resname="content_type.group.edit">
         <source>Edit</source>
@@ -136,9 +127,6 @@
         <target state="translated">ID</target>
         <note>key: content_type.group.id</note>
         <jms:reference-file line="26">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>ID -</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d09d4d7f65b1acd604c44c85d08f82fb55fcb880" resname="content_type.group.list">
         <source>Content type groups</source>
@@ -167,9 +155,6 @@
         <target state="translated">Il gruppo "%identifier%" è stata eliminato correttamente.</target>
         <note>key: content_type.group.notification.created</note>
         <jms:reference-file line="46">Form/Processor/ContentTypeGroupFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>Il gruppo di contenuto "%identifier%" è stata eliminato correttamente.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="09685a253a508713c275a4ecde1adbb4b7f1781e" resname="content_type.group.notification.updated">
         <source>Content type group "%identifier%" was correctly updated.</source>
@@ -203,9 +188,6 @@
         <note>key: content_type.last_modified</note>
         <jms:reference-file line="36">Resources/views/ContentType/update_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="29">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Ultima Modifica</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d7155c791bcef0de802e2194552a2eee56d3b69e" resname="content_type.metadata.title">
         <source>Global properties</source>
@@ -243,9 +225,6 @@
         <target state="translated">La bozza per il Content type è stato rimossa con successo.</target>
         <note>key: content_type.notification.draft_removed</note>
         <jms:reference-file line="96">Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>La bozza per il Content type è stato rimosso con successo.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="35f407c7c55275cd9046b6f9e9e77913b9b08e28" resname="content_type.notification.draft_updated">
         <source>The Content type draft was successfully updated.</source>
