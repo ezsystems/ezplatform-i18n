@@ -91,9 +91,6 @@
         <note>key: packages</note>
         <jms:reference-file line="15">Resources/views/ez-support-tools/info/composer.html.twig</jms:reference-file>
         <jms:reference-file line="9">Resources/views/ez-support-tools/info/composer.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Packages</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5bfa5c4492601632e405273e2f7ea28977f108c3" resname="packages.empty" approved="yes">
         <source>Could not find any packages, composer.lock file missing?</source>
@@ -113,9 +110,6 @@
         <target state="final">PHP Accelerator</target>
         <note>key: php.accelerator</note>
         <jms:reference-file line="10">Resources/views/ez-support-tools/info/php.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Accélérateur PHP</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ee982f9a979085f2f15b3ddc699bfada99429bb4" resname="php.info" approved="yes">
         <source>PHP info</source>
