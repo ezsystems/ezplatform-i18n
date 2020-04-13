@@ -120,9 +120,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: search.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8c11cc36acf58db9ff898f3a4cf02fd0fc293f67" resname="search.no_result">
         <source>Sorry, no results were found for "%query%".</source>
@@ -168,9 +165,6 @@
         <source>Content Type</source>
         <target state="translated">Inhaltstyp</target>
         <note>key: search.type</note>
-        <alt-trans>
-          <target>Content-Typ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fe647ff0e12d67501403559464217be468dba3d8" resname="search.viewing">
         <source>Viewing %viewing% out of %total% sub-items</source>
