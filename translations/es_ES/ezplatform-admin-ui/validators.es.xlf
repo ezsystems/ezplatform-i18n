@@ -110,9 +110,6 @@
         <source>{fieldName} value should be greater than or equal to {minLength} characters</source>
         <target state="translated">La longitud del valor de {fieldName} ha de ser mayor o igual a {minLength}</target>
         <note>key: js.error.too_short</note>
-        <alt-trans>
-          <target>La longitud del valor de {fieldName} ha de ser mayor o igual a {maxLength}</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f52d0870dd7bdbff2c2728c2b6ec708aa5cb240b" resname="validator.define_subtree_or_section_limitation">
         <source>Define a Subtree or Section limitation</source>
