@@ -15,9 +15,6 @@
         <source>Content type identifier may only contain letters from "a" to "z", numbers and underscores.</source>
         <target state="final">Identificador de tipo de conteúdo pode apenas conter letras de "a" a "z", números e underscores.</target>
         <note>key: ez.content_type.identifier.pattern</note>
-        <alt-trans>
-          <target>Identificador de tipod e conteúdo pode apenas conter letras de "a" a "z", números e underscores.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7ecfa6bd2c1993d18d067f3abe3acebeb9c2458c" resname="ez.content_type.names" approved="yes">
         <source>Content type name cannot be blank and cannot exceed 255 characters.</source>
