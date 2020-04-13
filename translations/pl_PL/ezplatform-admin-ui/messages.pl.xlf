@@ -115,9 +115,6 @@
         <source>Something went wrong. Sorry!</source>
         <target state="final">Coś poszło nie tak.</target>
         <note>key: error.page.default.title</note>
-        <alt-trans>
-          <target>Ups! Coś poszło nie tak.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add" approved="yes">
         <source>Add author</source>
