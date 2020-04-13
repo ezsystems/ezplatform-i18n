@@ -15,9 +15,6 @@
         <source>Message (Optional):</source>
         <target state="translated">Mensaje (Opcional):</target>
         <note>key: content.review.add_message</note>
-        <alt-trans>
-          <target>Mensaje (Opcional)</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f695b40d6949dd8fabad86abe87612bf9fe0f31a" resname="content.review.add_reviewer">
         <source>Add a Reviewer</source>
