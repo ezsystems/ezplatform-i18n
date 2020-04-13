@@ -11,15 +11,6 @@
         <target state="final">Może zawierać podelementy</target>
         <note>key: content_type.container</note>
         <jms:reference-file line="62">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Może posiadać podelementy</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Może posiadać obiekty podrzędne</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Kontener</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f1312e397c7aa2e8e21be7f65161c6a99b728d3e" resname="content_type.content.title" approved="yes">
         <source>Content field definitions</source>
@@ -55,18 +46,12 @@
         <target state="final">{0} Niedostępne|{1} Dostępne</target>
         <note>key: content_type.default_availability.value</note>
         <jms:reference-file line="80">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>{0} Dostępne|{1} Niedostępne</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting" approved="yes">
         <source>Default property for sorting chilren</source>
         <target state="final">Domyślne pole używane do sortowania podelementów</target>
         <note>key: content_type.default_children_sorting</note>
         <jms:reference-file line="66">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Domyślne pole użyte do sortowania elementów podrzędnych</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort" approved="yes">
         <source>Default sort order</source>
@@ -196,9 +181,6 @@
         <note>key: content_type.is_in_use</note>
         <jms:reference-file line="164">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="59">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Nie można usunąć typu treści ponieważ posiada on obiekty lub nie posiadasz odpowiednich uprawnień.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="de2ea38b0604e5c021452e0eef43c2cc9494a2b7" resname="content_type.last_modified" approved="yes">
         <source>Last modified: %date% by %modifier%</source>
@@ -261,9 +243,6 @@
         <target state="final">Schemat tworzenia nazwy aliasu URL</target>
         <note>key: content_type.url_alias_schema</note>
         <jms:reference-file line="58">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Szablon aliasu URL</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description" approved="yes">
         <source>Description</source>
@@ -306,9 +285,6 @@
         <target state="final">Można tłumaczyć</target>
         <note>key: field_definition.translatable</note>
         <jms:reference-file line="133">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Można przetłumaczyć</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9ca17bd05bb09ae1283d539c77d57558499ccca4" resname="field_definition.type" approved="yes">
         <source>Type</source>
