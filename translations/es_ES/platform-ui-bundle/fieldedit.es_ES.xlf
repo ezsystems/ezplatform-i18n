@@ -267,9 +267,6 @@
         <target state="translated">Ver la imagen con el ancho original</target>
         <note>key: image.fullwidth</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Ver la imagen con el ancho completo</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="421768b6fafc8049fe02c600c5bc6ecb8a5590c2" resname="image.help">
         <source>Drag and drop your image here or simply click on the buttons and select your image manually.</source>
@@ -690,9 +687,6 @@
         <target state="translated">Eliminar</target>
         <note>key: relationlist.remove</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Remover</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="493a9cbc47e3af553067486bc8b13b43c8472fc4" resname="relationlist.retry">
         <source>Retry</source>
