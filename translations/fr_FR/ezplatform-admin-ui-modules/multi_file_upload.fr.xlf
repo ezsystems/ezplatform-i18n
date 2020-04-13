@@ -70,9 +70,6 @@
         <source>Multi-file upload</source>
         <target state="translated">Téléversement multiple de fichiers</target>
         <note>key: upload_popup.title</note>
-        <alt-trans>
-          <target>Téléversement multiple de fichier</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
