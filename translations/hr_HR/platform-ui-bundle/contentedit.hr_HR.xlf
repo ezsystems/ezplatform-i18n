@@ -42,18 +42,12 @@
         <target state="translated">Pregled sadržaja</target>
         <note>key: contentedit.previewing</note>
         <jms:reference-file>Resources/public/templates/editpreview.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Pregled</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="55bfafdd36ab25c84547ddc2ecfc0fb802565885" resname="created.by">
         <source>Created by %name%</source>
         <target state="translated">Stvorio/la %name%</target>
         <note>key: created.by</note>
         <jms:reference-file>Resources/public/templates/contentedit.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Kreirao/la %name%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7af6c0a920d16426b99840eb404723badd38088d" resname="discard.changes">
         <source>Discard Changes</source>
@@ -72,9 +66,6 @@
         <target state="translated">Došlo je do pogreške tijekom objave radne verzije sadržaja</target>
         <note>key: error.publishing.draft</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-publishdraftplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Došlo je do pogreške prilikom objave radne verzije sadržaja</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a73c8d3d7af831b9afb385bad44ea20909312ce3" resname="error.saving.draft">
         <source>An error occurred while saving the draft</source>
@@ -87,27 +78,18 @@
         <target state="translated">ID sadržaja '%id%' nije pronađen</target>
         <note>key: failed.finding.content</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Nije moguće pronaći ID sadržaja '%id%'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b9f80ecb0db5052858af3b167a67caeacc9d99e9" resname="failed.loading.content.id.language">
         <source>Could not load the content with id '%contentId%' and languageCode '%languageCode%'</source>
         <target state="translated">Nije moguće učitati sadržaj sa id-em '%contentId%' i kodom jezika '%languageCode%'</target>
         <note>key: failed.loading.content.id.language</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Sadržaj sa id-em '%contentId%' i kodom jezika '%languageCode%' nije moguće učitati</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="17a5ca14762c150e062aa874e2911d5c917da04a" resname="failed.loading.content.in">
         <source>Could not load the content with id '%contentId%' and languageCode '%languageCode%'</source>
         <target state="translated">Nije moguće učitati sadržaj sa id-em '%contentId%' i kodom jezika '%languageCode%'</target>
         <note>key: failed.loading.content.in</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Sadržaj sa id-em '%contentId%' i kodom jezika '%languageCode%' nije moguće učitati</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5f9372fdbe581e8eb35c5e26d8924cd701aec768" resname="failed.loading.content.type">
         <source>Could not load the content type with id %id%</source>
@@ -115,9 +97,6 @@
         <note>key: failed.loading.content.type</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contentcreateviewservice.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Vrstu sadržaja sa id-em %id% nije moguće učitati</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2dfcf61a9108b8d0c6e9e763b77f42900c993c26" resname="failed.loading.location">
         <source>Could not load the location with id '%id%'</source>
@@ -166,9 +145,6 @@
         <target state="translated">Objavljivanje sadržaja</target>
         <note>key: publishing.content</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-publishdraftplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Objava sadržaja</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="13a4a11319d31c1b323d5774f44240a9ffc984d0" resname="save">
         <source>Save</source>
@@ -181,27 +157,18 @@
         <target state="translated">Spremanje radne verzije sadržaja</target>
         <note>key: saving.draft</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-savedraftplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Spremanje radne verzije</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a1687cb0b4785f868568c6d44633281f477604c2" resname="saving.draft.to.generate.the.preview">
         <source>Saving the draft to generate the preview</source>
         <target state="translated">Spremanje radne verzije sadržaja za generiranje pregleda</target>
         <note>key: saving.draft.to.generate.the.preview</note>
         <jms:reference-file>Resources/public/js/views/ez-contenteditview.js</jms:reference-file>
-        <alt-trans>
-          <target>Spremanje radne verzije za generiranje pregleda</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0283adf7eb61930a84f71c0bbf6b5a0d8156416a" resname="select.a.draft">
         <source>Select a draft</source>
         <target state="translated">Odaberi radnu verziju sadržaja</target>
         <note>key: select.a.draft</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-contenteditplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Odaberi radnu verziju</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="51737538b92a2da9235ebf797bef20dc757bf070" resname="version.not.a.draft">
         <source>The version '%versionId%' is not a draft.</source>
