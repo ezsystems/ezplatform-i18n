@@ -60,9 +60,6 @@
         <source>Unchecked will create the new alias under %parent_name%</source>
         <target state="translated">Si no marcado, el nuevo alias se colocará como hijo de %parent_name%</target>
         <note>key: tab.urls.add.site_root.helper.unchecked</note>
-        <alt-trans>
-          <target>Si no marcado, el  nuevo alias se colocará como hijo de %parent_name%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="25badd959ce69714e8eb349ebddbbbe126c14458" resname="tab.urls.add.title">
         <source>Create new URL alias</source>
