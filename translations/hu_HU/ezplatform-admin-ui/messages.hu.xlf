@@ -65,9 +65,6 @@
         <source><![CDATA[You can also go back to the <a class="error-page__link" href="%dashboard%">dashboard</a> here or <a class="error-page__link" href="%search%">search</a> for other content.]]></source>
         <target state="final"><![CDATA[Visszamehetsz a <a class="error-page__link" href="%dashboard%">vezérlőpultra</a> , vagy <a class="error-page__link" href="%search%">kereshetsz</a> más tartalmat.]]></target>
         <note>key: error.page.403.actions</note>
-        <alt-trans>
-          <target><![CDATA[You can also go back to the <a class="error-page__link" href="%dashboard%">dashboard</a> here or <a class="error-page__link" href="%search%">search</a> for other content.]]></target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2532cb9ce6fdf46258c107f3d20888c506115ef6" resname="error.page.403.message" approved="yes">
         <source><![CDATA[It’s an error 403. You don’t have permission to retrieve or access this page.<br/>Please contact your eZ Platform Administrator to request access to<br/>this content or modify your profile.]]></source>
