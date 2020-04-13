@@ -10,9 +10,6 @@
         <source>Content deleted</source>
         <target state="final">A tartalmat töröltük</target>
         <note>key: content.deleted</note>
-        <alt-trans>
-          <target>Tartalom törölve</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e7818e3c5b5f9b8bda55a4ced6b8934d8f82607e" resname="content.in_review" approved="yes">
         <source>Content sent to review</source>
