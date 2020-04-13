@@ -25,9 +25,6 @@
         <source>Container</source>
         <target state="final">Może zawierać podelementy</target>
         <note>key: content_type.container</note>
-        <alt-trans>
-          <target>Może posiadać elementy podrzędne</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type" approved="yes">
         <source>Content Type</source>
@@ -43,9 +40,6 @@
         <source>Global properties</source>
         <target state="final">Właściwości ogólne</target>
         <note>key: content_type.global_properties</note>
-        <alt-trans>
-          <target>Globalne właściwości</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="238db0c5dee8ec13199b073f7cc78728f53ffa36" resname="content_type.identifier" approved="yes">
         <source>Identifier</source>
@@ -61,9 +55,6 @@
         <source>Content name pattern</source>
         <target state="final">Schemat tworzenia nazwy</target>
         <note>key: content_type.name_schema</note>
-        <alt-trans>
-          <target>Schemat budowania nazw dla tego typu treści</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="da59e6ae77cae375a30d7285970b1b2d9690049e" resname="content_type.sort_field.ascending" approved="yes">
         <source>Ascending</source>
@@ -74,9 +65,6 @@
         <source>Content ID</source>
         <target state="final">ID elementu</target>
         <note>key: content_type.sort_field.content_id</note>
-        <alt-trans>
-          <target>ID obiektu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth" approved="yes">
         <source>Location depth</source>
@@ -127,9 +115,6 @@
         <source>URL alias name pattern</source>
         <target state="final">Schemat tworzenia nazwy aliasu URL</target>
         <note>key: content_type.url_alias_schema</note>
-        <alt-trans>
-          <target>Szablon aliasu URL</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="30f5ddb258e0ab8c31381ec10d9a90f7071bbf6f" resname="content_type.user_name.can_not_be_fetched" approved="yes">
         <source>another user</source>
@@ -140,9 +125,6 @@
         <source>Global properties</source>
         <target state="final">Właściwości ogólne</target>
         <note>key: content_type.view.create.global_properties</note>
-        <alt-trans>
-          <target>Globalne właściwości</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4f63ade40ae91a9ad39e4be7b9e4f51003f1f4b3" resname="content_type.view.create.title" approved="yes">
         <source>Creating a new Content Type</source>
@@ -153,9 +135,6 @@
         <source>Global properties</source>
         <target state="final">Właściwości ogólne</target>
         <note>key: content_type.view.edit.global_properties</note>
-        <alt-trans>
-          <target>Globalne właściwości</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add" approved="yes">
         <source>Create a Content Type</source>
