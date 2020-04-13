@@ -102,11 +102,6 @@ ID: "%id"</target>
         <note>key: failed.loading.content.type</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contentcreateviewservice.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Nem sikerült a tartalomtípus betöltése.
-ID: "%id"
-</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2dfcf61a9108b8d0c6e9e763b77f42900c993c26" resname="failed.loading.location" approved="yes">
         <source>Could not load the location with id '%id%'</source>
@@ -200,9 +195,6 @@ Nyelv kódja: "%languageCode%"</target>
         <target state="final">A "%versionId%" nem hozzád tartozik</target>
         <note>key: version.not.belong.to.you</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>A "%versionId%" nem Önhöz tartozik</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4399ce0f2a2f08359f4a35c8597b8579e9c302ab" resname="version.not.exist.in" approved="yes">
         <source>The version '%versionId%' does not exist in '%languageCode%'</source>
