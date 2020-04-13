@@ -132,9 +132,6 @@
         <target state="final">RRRR-MM-DD</target>
         <note>key: date.placeholder</note>
         <jms:reference-file>Resources/public/templates/fields/edit/date.hbt</jms:reference-file>
-        <alt-trans>
-          <target>YYYY-MM-DD</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ac8b6151c30254609f6e9f2a7ab5c5570ea94dcd" resname="date.required" approved="yes">
         <source>Date is required</source>
@@ -171,18 +168,12 @@
         <target state="final">Przeniosłeś kilka plików, podczas gdy w tym polu może zostać zapisany tylko jeden. Wybierz pojedynczy plik.</target>
         <note>key: dropped.several.files</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Przeniosłeś parę plików podczas gdy tylko jeden może zostać zapisany w tym polu. Proszę wybrać pojedynczy plik.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="77e9dcf7fa3a6196173e1ef8d749321c078a61fb" resname="dropped.text.selection" approved="yes">
         <source>You dropped a text selection while this field can only store a file. Please drop a file instead.</source>
         <target state="final">Przeniosłeś zaznaczony tekst podczas gdy to pole może wyłącznie przechowywać pliki. Przenieś plik.</target>
         <note>key: dropped.text.selection</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-binarybase-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Przeniosłeś zaznaczony tekst podczas gdy to pole może wyłącznie przechowywać pliki. Proszę przenieść plik.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7e57a01ae6b4b0385ec149a170df478fa2868f25" resname="email.not.valid" approved="yes">
         <source>The email address should be valid</source>
@@ -210,9 +201,6 @@
         <target state="final">Osadzony element nie może zostać załadowany</target>
         <note>key: embed.content.not.loaded</note>
         <jms:reference-file>Resources/public/js/views/fields/richtext/ez-richtext-resolveembed.js</jms:reference-file>
-        <alt-trans>
-          <target>Osadzony obiekt nie może zostać załadowany</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0a60003c1459ed6556b63b64c050fd4d070d94e4" resname="error.during.geolocation.request" approved="yes">
         <source>An error occurred during geolocation request of your current position</source>
@@ -243,9 +231,6 @@
         <target state="final">Wartość powinna być mniejsza lub równa %maxFloatValue%</target>
         <note>key: float.value.should.be.less.than</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-float-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Wartość powinna być mnie lub równa %maxFloatValue%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f29cb6461d72c2fe892e65d4dd7dd296ed5db961" resname="float.value.should.be.more.than" approved="yes">
         <source>The value should be more than or equal to %minFloatValue%</source>
@@ -276,27 +261,18 @@
         <target state="final">Nie udało się załadować obrazu</target>
         <note>key: image.content.not.loaded</note>
         <jms:reference-file>Resources/public/js/views/fields/richtext/ez-richtext-resolveimage.js</jms:reference-file>
-        <alt-trans>
-          <target>Grafika nie może zostać załadowana</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c21c1e24ffd073c7213022cf4d0cde8e94be62b8" resname="image.fullwidth" approved="yes">
         <source>View the full width image</source>
         <target state="final">Zobacz obraz o pełnej szerokości</target>
         <note>key: image.fullwidth</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Zobacz grafikę o pełnej szerokości</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="421768b6fafc8049fe02c600c5bc6ecb8a5590c2" resname="image.help" approved="yes">
         <source>Drag and drop your image here or simply click on the buttons and select your image manually.</source>
         <target state="final">Przeciągnij i upuść swój obraz tutaj lub kliknij w przycisk aby wybrać go ręcznie.</target>
         <note>key: image.help</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Przeciągnij i upuść swoją grafikę tutaj lub kliknij w przycisk aby wybrać grafikę ręcznie.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="623d52cead77075eabf73bd844f1870264264f8e" resname="image.name" approved="yes">
         <source>File name</source>
@@ -309,9 +285,6 @@
         <target state="final">Brak obrazu.</target>
         <note>key: image.noimage</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Brak grafiki.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ddb2b77067d29961704d011d303b42d5fcc00e5c" resname="image.or" approved="yes">
         <source>or</source>
@@ -324,39 +297,24 @@
         <target state="final">Podgląd obrazu</target>
         <note>key: image.preview</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Podgląd grafiki</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a291c895782db79ab2693d1e91090f491402f32d" resname="image.properties" approved="yes">
         <source>Image properties</source>
         <target state="final">Właściwości obrazu</target>
         <note>key: image.properties</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Właściwości grafiki</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="eaa4c2c811e8e5048745d4d437e122b67e16bbfa" resname="image.remove" approved="yes">
         <source>Remove this image</source>
         <target state="final">Usuń obraz</target>
         <note>key: image.remove</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Usuń grafikę</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Usuń tę grafikę</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e7b9c11716066f2b3bcb38ac4db35fb7501118e0" resname="image.replace" approved="yes">
         <source>Replace this image</source>
         <target state="final">Zamień obraz</target>
         <note>key: image.replace</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Zamień grafikę</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="265c4b8ea4ab58567a9be6610f7dff0b99223299" resname="image.size" approved="yes">
         <source>File size:</source>
@@ -375,9 +333,6 @@
         <target state="final">Trwa ładowanie miniatury obrazu...</target>
         <note>key: image.thumbnail.loading</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Trwa ładowanie miniatury dla grafiki...</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="689cae8350541efc2cad64f32e6d1a9512845b05" resname="image.thumbnail.retry" approved="yes">
         <source>Retry</source>
@@ -396,12 +351,6 @@
         <target state="final">Prześlij obraz</target>
         <note>key: image.upload</note>
         <jms:reference-file>Resources/public/templates/fields/edit/image.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Wgraj obraz</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Wgraj grafikę</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f0edbc370c196d4d5a74049ed4382bbd16aa4b82" resname="input.not.valid" approved="yes">
         <source>This is not a valid input</source>
@@ -516,12 +465,6 @@
         <target state="final">Prześlij plik audio</target>
         <note>key: media.audio.upload</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Wgraj plik audio</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Wyślij plik audio</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6eadf968d3be0a9dbf1a708d86cf710bb62ed7bd" resname="media.autoplay" approved="yes">
         <source>Auto play:</source>
@@ -624,9 +567,6 @@
         <target state="final">Prześlij film wideo</target>
         <note>key: media.video.upload</note>
         <jms:reference-file>Resources/public/templates/fields/edit/media.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Wgraj film wideo</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e869d62b8c16e01b95bc9d235173e8dba6f42f30" resname="media.width" approved="yes">
         <source>Width:</source>
@@ -645,18 +585,12 @@
         <target state="final">Nazwa jest wymagana jeśli został podany adres email</target>
         <note>key: name.required.if.email.filled</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-author-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Nazwa jest wymagana jeśli adres email został podany</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="dd18de349adefaf37b5e99873421b2a0ff05b4d3" resname="not.a.correct.isbn13.pattern" approved="yes">
         <source>This is not a correct ISBN13 pattern</source>
         <target state="final">Niepoprawny numer ISBN13</target>
         <note>key: not.a.correct.isbn13.pattern</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-isbn-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Jest to niepoprawny standard ISBN13</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bfa3d0165087e1b249eceda81f084e4404ed79f4" resname="over.maximum.allowed.size" approved="yes">
         <source>The file '%name%' was refused because its size is greater than the maximum allowed size (%max%)</source>
@@ -669,9 +603,6 @@
         <target state="final">Plik "%name%" został odrzucony ponieważ nie jest obrazem. Proszę wybrać plik z obrazem.</target>
         <note>key: refused.not.an.image</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Plik "%name%" został odrzucony ponieważ nie jest on grafiką. Proszę wybrać plik z grafiką.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a1e89ea5d1c7efa83d78aecaaf08c993df7b8d7a" resname="relation.empty" approved="yes">
         <source>No relation.</source>
@@ -702,9 +633,6 @@
         <target state="final">Zmodyfikowano:</target>
         <note>key: relation.modified</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relation.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Modyfikowano:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fe7dd2a6fbf71766715c5ea46100398267102adc" resname="relation.published" approved="yes">
         <source>Published:</source>
@@ -741,27 +669,18 @@
         <target state="final">Wystąpił błąd podczas ładowania elementów powiązanych.</target>
         <note>key: relationlist.error</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Wystąpił błąd podczas ładowania obiektów powiązanych.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="048ae70654be763915d036765feb172d2baa7559" resname="relationlist.help" approved="yes">
         <source>Set up multiple relations with several contents.</source>
         <target state="final">Ustaw relacje do wielu elementów.</target>
         <note>key: relationlist.help</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Ustaw wiele relacji do obiektów.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1d30f0399910c05468169bd5a7f737caff136afe" resname="relationlist.loading" approved="yes">
         <source>Loading the related content(s)</source>
         <target state="final">Ładowanie powiązanych elementów</target>
         <note>key: relationlist.loading</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Ładowanie powiązanych obiektów</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b0eb3cbb48be1ff976bd4569a8978d63336dd8b7" resname="relationlist.remove" approved="yes">
         <source>Remove</source>
@@ -780,18 +699,12 @@
         <target state="final">Wybierz treść</target>
         <note>key: relationlist.select</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Wybierz zawartość</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1c46a1068b55e75f3cac49a3f59c85ca19edbc52" resname="relationlist.table.modified" approved="yes">
         <source>Modified</source>
         <target state="final">Zmodyfikowano</target>
         <note>key: relationlist.table.modified</note>
         <jms:reference-file>Resources/public/templates/fields/edit/relationlist.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Modyfikowano</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fd35d9bedc6d39be95cef85dd23bc3fd550d6078" resname="relationlist.table.name" approved="yes">
         <source>Name</source>
@@ -822,18 +735,12 @@
         <target state="final">Wybierz elementy, które chcesz powiązać</target>
         <note>key: select.contents.to.add</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-relationlist-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Wybierz obiekty, które chcesz dodać w relacji</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8049139bde69cab92f967e171a9b3f1b933f3151" resname="svg.not.supported" approved="yes">
         <source>SVG images are not supported. Please choose another image file.</source>
         <target state="final">Grafiki SVG nie są wspierane. Proszę wybrać inny format obrazu.</target>
         <note>key: svg.not.supported</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
-        <alt-trans>
-          <target>Grafiki SVG nie są wspierane. Proszę wybrać inny format grafiki.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cbeb2eb9d25d8d0349f48bd24450b4431112165a" resname="this.field.is.required" approved="yes">
         <source>This field is required</source>
@@ -913,9 +820,6 @@
         <target state="final">Email</target>
         <note>key: user.email</note>
         <jms:reference-file>Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Adres email</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1d797b831d4559bdebe45193f8b51b570437e97d" resname="user.login" approved="yes">
         <source>Login</source>
