@@ -15,17 +15,11 @@
         <source>No content items. Content items you create will appear here</source>
         <target state="translated">אין פריטי תוכן. פריטי תוכן של מועדפים שתיצור יופיעו כאן.</target>
         <note>key: dashboard.tab.all_content.empty</note>
-        <alt-trans>
-          <target>אין פריטי תוכן. פריטי תוכן של מועדפים תופיע כאן.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="50e7fa5609748dabc694245d5a54a77e9d5c7c1f" resname="dashboard.tab.all_media.empty">
         <source>No content items. Media items you create will appear here</source>
         <target state="translated">אין פריטי תוכן. פריטי תוכן של מדיה  שתיצור יופיעו כאן.</target>
         <note>key: dashboard.tab.all_media.empty</note>
-        <alt-trans>
-          <target>אין פריטי תוכן. פריטי תוכן של מדיה יופיעו כאן.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9c6f10545440752bc7bc2e8142cbea5d265403cd" resname="dashboard.tab.my_content.empty">
         <source>No content items. Content items you create will appear here</source>
