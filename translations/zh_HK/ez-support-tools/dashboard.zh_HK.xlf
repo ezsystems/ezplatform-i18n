@@ -30,10 +30,6 @@
         <target state="translated"><![CDATA[歡迎使用開源%release%發布。 使用社區友好的<a target="_blank" href="%license_url%"> GPL許可</a>，
                      <a target="_blank" href="%gpl_faq_url%">分享您的代碼</a>。]]></target>
         <note>key: dashboard.ez_version.community_severity_non</note>
-        <alt-trans>
-          <target><![CDATA[歡迎使用開源％release％發布。 使用社區友好的<a target="_blank" href="%license_url%"> GPL許可</a>，
-                     <a target="_blank" href="%gpl_faq_url%">分享您的代碼</a>。]]></target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bbddea87dd6b56fc0b4d21c28d1cbc2cfd92b754" resname="dashboard.ez_version.end_of_life">
         <source><![CDATA[Welcome to the open source %release% release. Using the community friendly <a target="_blank" href="%license_url%">GPL license</a>,
@@ -69,9 +65,6 @@
         <source>Your setup is running with '%minimum_stability%' as composer.json minimum-stability. This is not recommended except when testing updates or during development.</source>
         <target state="translated">您的設置以'%minimum_stability%'作為composer.json最小穩定性運行。 除非在測試更新或開發期間，否則不建議這樣做。</target>
         <note>key: dashboard.ez_version.unstable_minimum_stability</note>
-        <alt-trans>
-          <target>您的設置以'％minimum_stability％'作為composer.json最小穩定性運行。 除非在測試更新或開發期間，否則不建議這樣做。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="59967d79ef1f521fd483dbb057f15bc756b80423" resname="dashboard.ez_version.non_stable_ee">
         <source><![CDATA[If you need assistance, don't hesitate to <a target="_blank" href="%support_url%">get in touch with eZ support</a>.]]></source>
