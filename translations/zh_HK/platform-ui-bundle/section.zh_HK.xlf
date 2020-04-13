@@ -92,9 +92,6 @@
         <target state="translated">編輯區段“%sectionName%”</target>
         <note>key: section.edit.title</note>
         <jms:reference-file line="5">Resources/views/Section/edit.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>編輯區段“％sectionName％”</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bcb0a8eedc29344eb4ad95a02dd684438aae1df6" resname="section.id">
         <source>Section ID</source>
