@@ -24,18 +24,12 @@
         <target state="final">ID elementu: %contentId%, ID lokalizacji: %locationId%</target>
         <note>key: content.id.location.id</note>
         <jms:reference-file>Resources/public/templates/contentedit.hbt</jms:reference-file>
-        <alt-trans>
-          <target>ID obiektu: %contentId%, ID lokalizacji: %locationId%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published" approved="yes">
         <source>Content has been published</source>
         <target state="final">Element został opublikowany</target>
         <note>key: content.published</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-publishdraftplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Obiekt został opublikowany</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="54a68935aefb2a88a794f8b85d8c3170588edb3f" resname="contentedit.close.preview" approved="yes">
         <source>Close preview</source>
@@ -54,9 +48,6 @@
         <target state="final">Utworzone przez %name%</target>
         <note>key: created.by</note>
         <jms:reference-file>Resources/public/templates/contentedit.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Utworzono przez %name%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7af6c0a920d16426b99840eb404723badd38088d" resname="discard.changes" approved="yes">
         <source>Discard Changes</source>
@@ -87,27 +78,18 @@
         <target state="final">Nie można znaleźć elementu o ID '%id%'</target>
         <note>key: failed.finding.content</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Nie można znaleźć obiektu o ID '%id%'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b9f80ecb0db5052858af3b167a67caeacc9d99e9" resname="failed.loading.content.id.language" approved="yes">
         <source>Could not load the content with id '%contentId%' and languageCode '%languageCode%'</source>
         <target state="final">Nie można załadować elementu o ID '%contentId%' w języku '%languageCode%'</target>
         <note>key: failed.loading.content.id.language</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Nie można załadować obiektu o ID '%contentId%' oraz języku '%languageCode%'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="17a5ca14762c150e062aa874e2911d5c917da04a" resname="failed.loading.content.in" approved="yes">
         <source>Could not load the content with id '%contentId%' and languageCode '%languageCode%'</source>
         <target state="final">Nie można załadować elementu o ID '%contentId%' w języku '%languageCode%'</target>
         <note>key: failed.loading.content.in</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Nie można załadować obiektu o ID '%contentId%' oraz języku '%languageCode%'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5f9372fdbe581e8eb35c5e26d8924cd701aec768" resname="failed.loading.content.type" approved="yes">
         <source>Could not load the content type with id %id%</source>
@@ -127,9 +109,6 @@
         <target state="final">Nie można załadować wersji o ID '%versionId%' w języku '%languageCode%'</target>
         <note>key: failed.loading.version.in</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Nie można załądować wersji o ID '%versionId%' oraz języku '%languageCode%'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="78481c1d043da7c443be844ac99ab76ad611fb94" resname="failed.saving.draft.to.generate.the.preview" approved="yes">
         <source>An error occurred while saving the draft, the preview cannot be generated.</source>
@@ -202,9 +181,6 @@
         <target state="final">Wersja '%versionId%' nie jest wersją elementu '%contentId%'</target>
         <note>key: version.not.a.draft.of.content</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Wersja '%versionId%' nie jest wersją obiektu '%contentId%'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6cc66f843c3ccf4dd174ae35a72c94720b61322b" resname="version.not.belong.to.you" approved="yes">
         <source>The version '%versionId%' does not belong to you</source>
