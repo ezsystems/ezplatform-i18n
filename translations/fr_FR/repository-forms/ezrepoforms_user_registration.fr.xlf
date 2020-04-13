@@ -15,9 +15,6 @@
         <source>Register</source>
         <target state="final">S’inscrire</target>
         <note>key: user.register_button</note>
-        <alt-trans>
-          <target>Créer un compte</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
