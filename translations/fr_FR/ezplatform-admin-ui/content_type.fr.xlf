@@ -15,9 +15,6 @@
         <source>Cannot create Content Type. Could not find 'Language' with identifier '%languageCode%'</source>
         <target state="translated">Impossible de créer le type de contenu. Le système n’a pas trouvé de langue avec l'identifiant «%languageCode%»</target>
         <note>key: content_type.add.missing_language</note>
-        <alt-trans>
-          <target>Impossible de créer le Type de Contenu. Le système n’a pas trouvé de langue avec l'identifiant «%languageCode%»</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0aef83746d192c9b507ecabebe250aeb684cc210" resname="content_type.breadcrumb.create">
         <source>Creating a new Content Type</source>
@@ -33,25 +30,16 @@
         <source>Container</source>
         <target state="translated">Conteneur</target>
         <note>key: content_type.container</note>
-        <alt-trans>
-          <target>Peut contenir des sous éléments</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="694d6cbecfee848cf42a300c0b310f45ece6a09b" resname="content_type.content_field_definitions">
         <source>Content field definitions</source>
         <target state="translated">Définitions de champs de contenu</target>
         <note>key: content_type.content_field_definitions</note>
-        <alt-trans>
-          <target>Définitions de champ de contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type">
         <source>Content Type</source>
         <target state="translated">Type de Contenu</target>
         <note>key: content_type.content_type</note>
-        <alt-trans>
-          <target>Type</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability">
         <source>Default content availability</source>
@@ -62,9 +50,6 @@
         <source>Default availability in primary language, if translation is absent</source>
         <target state="translated">Disponible dans la langue par défaut, si la traduction n'existe pas</target>
         <note>key: content_type.default_availability.help</note>
-        <alt-trans>
-          <target>Disponible dans la langue par défaut même, si la traduction n'existe pas</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d14799b2ac8854ab3f0bb9976258c3db39213d09" resname="content_type.default_availability.value">
         <source>{0} Not available|{1} Available</source>
@@ -85,9 +70,6 @@
         <source>Content type '%name%' deleted.</source>
         <target state="translated">Le Type de Contenu «%name%» a été supprimé.</target>
         <note>key: content_type.delete.success</note>
-        <alt-trans>
-          <target>Le type de contenu «%name%» a été supprimé.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
         <source>Description</source>
@@ -98,9 +80,6 @@
         <source>Draft of the Content Type '%name%' already exists and is locked by '%userContentName%'</source>
         <target state="translated">Un brouillon du Type de Contenu '%name%' existe déjà et est verrouillé par l'utilisateur '%userContentName%'</target>
         <note>key: content_type.edit.error.already_exists</note>
-        <alt-trans>
-          <target>Un brouillon du type de contenu «%name%» existe déjà et est vérrouillé par l'utilisateur «%userContentName%»</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f0338ef34826caa021c41ff85413e48601af30b7" resname="content_type.edit.select_language">
         <source>Select language</source>
@@ -111,9 +90,6 @@
         <source>Do you want to delete selected field definitions?</source>
         <target state="translated">Voulez-vous supprimer les définitions de champ de contenu sélectionnées ?</target>
         <note>key: content_type.field_definitions.modal.message</note>
-        <alt-trans>
-          <target>Voulez-vous supprimer les définitions de champ de contenu ?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8bf6d91a6b0731a38103e04e03f3f9e8bf4459a1" resname="content_type.global_properties">
         <source>Global properties</source>
@@ -129,9 +105,6 @@
         <source>Do you want to delete Content Type?</source>
         <target state="translated">Voulez-vous vraiment supprimer le Type de Contenu ?</target>
         <note>key: content_type.modal.message</note>
-        <alt-trans>
-          <target>Voulez-vous vraiment supprimer le type de contenu ?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
         <source>Name</source>
@@ -142,9 +115,6 @@
         <source>Content name pattern</source>
         <target state="translated">Modèle de nom de contenu</target>
         <note>key: content_type.name_schema</note>
-        <alt-trans>
-          <target>Gabarit de nom de contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="da59e6ae77cae375a30d7285970b1b2d9690049e" resname="content_type.sort_field.ascending">
         <source>Ascending</source>
@@ -370,9 +340,6 @@
         <source>Create a Content Type Group</source>
         <target state="translated">Créer un groupe de Type de Contenu</target>
         <note>key: content_type_group.view.list.action.add</note>
-        <alt-trans>
-          <target>Créer un groupe de type de contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ceb2e962eccd99d66a600df886fb1ff3253c2f16" resname="content_type_group.view.list.action.delete">
         <source>Delete Content Type Group</source>
@@ -403,9 +370,6 @@
         <source>Content Type Groups</source>
         <target state="translated">Groupe de Type de Contenu</target>
         <note>key: content_type_group.view.list.title</note>
-        <alt-trans>
-          <target>Groupes de type de contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1769b5258d896d9ccb207c09e04534ce9a01c571" resname="content_type_group.view.view.title" approved="yes">
         <source>%identifier%</source>
