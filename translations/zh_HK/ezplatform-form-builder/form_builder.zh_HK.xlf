@@ -40,9 +40,6 @@
         <source>Remove</source>
         <target state="translated">刪除</target>
         <note>key: field.remove</note>
-        <alt-trans>
-          <target>移除</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b2df64a559c6f9166c782a24eee835d78f4f402b" resname="field.settings">
         <source>Settings</source>
@@ -103,9 +100,6 @@
         <source>Alphanumeric</source>
         <target state="translated">字母數字</target>
         <note>key: form_builder.validator.regex.pattern.alnum</note>
-        <alt-trans>
-          <target>字母</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0afed63453cf94e289b83788d8051a84c0477de0" resname="form_builder.validator.regex.pattern.alpha">
         <source>Alphabets</source>
@@ -161,9 +155,6 @@
         <source>The field name is already used: %oldFieldName%</source>
         <target state="translated">字段名稱：%oldFieldName%已被使用</target>
         <note>key: type.different.field.name</note>
-        <alt-trans>
-          <target>字段名稱：％oldFieldName％已被使用</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
