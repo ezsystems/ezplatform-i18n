@@ -140,9 +140,6 @@
         <target state="final">Aucune longueur maximale définie pour la chaîne</target>
         <note>key: fielddefinition.max-length.undefined</note>
         <jms:reference-file line="20">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Aucune longueur maximale maximale définie pour la chaîne</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9a3d23487e45edf331407c501ead33d70461f9e3" resname="fielddefinition.max-length.value" approved="yes">
         <source>%max% characters</source>
@@ -203,9 +200,6 @@
         <target state="final">Type de lecteur de media&amp;nbsp;:</target>
         <note>key: fielddefinition.media-player-type.label</note>
         <jms:reference-file line="169">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Type de lecteur de media&amp;nbsp;:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c7a28f2ea418dc17e634bf386d5f1db091582fc8" resname="fielddefinition.media-player-type.quick_time" approved="yes">
         <source>Quicktime</source>
@@ -335,9 +329,6 @@
         <target state="final">Modèle de base, unique</target>
         <note>key: fielddefinition.selection-method.single_template</note>
         <jms:reference-file line="236">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Modèle de base, simple</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e0b6bc6950269d05c7318553912abe4042d6a423" resname="fielddefinition.selection-method.tree" approved="yes">
         <source>Drop-down tree</source>
