@@ -149,9 +149,6 @@
         <note>key: content_type.group.new</note>
         <jms:reference-file line="65">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
         <jms:reference-file line="67">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Opprett en innholdstypegruppe</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="334f261e09d7b3da4b26022a121ef596bff8a422" resname="content_type.group.notification.created">
         <source>Content type group "%identifier%" was correctly created.</source>
