@@ -173,9 +173,6 @@
         <target state="final">Id remoto do conteúdo</target>
         <note>key: locationview.details.contentremoteid</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Id remoto do conteudo</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d270971c445eca4fc0e7cd8ec006341f0ff19354" resname="locationview.details.creator" approved="yes">
         <source>Creator</source>
@@ -404,36 +401,24 @@
         <target state="final">Ocorreu um erro ao carregar a lista de conteúdos relacionada.</target>
         <note>key: locationview.relations.error.loading.related</note>
         <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Ocorreu um erro ao carregar a lista de conteúdos relaccionada.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d6b8b44043ab3a73bd6a8a1e1e9079e55a816623" resname="locationview.relations.no.related.content" approved="yes">
         <source>This content has no related content.</source>
         <target state="final">Este conteúdo não tem conteúdos relacionados.</target>
         <note>key: locationview.relations.no.related.content</note>
         <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Este conteúdo não tem conteúdos relaccionados.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0b409a5f5675b6ee03cfaea432d179c2648a36a3" resname="locationview.relations.related.content" approved="yes">
         <source>Related content</source>
         <target state="final">Conteúdo relacionado</target>
         <note>key: locationview.relations.related.content</note>
         <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Conteúdo relaccionado</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8aea3326a700a081784bc0e51f0c91a3583eedc2" resname="locationview.relations.relation.type" approved="yes">
         <source>Relation type</source>
         <target state="final">Tipo de relação</target>
         <note>key: locationview.relations.relation.type</note>
         <jms:reference-file>Resources/public/templates/tabs/relations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Tipo de relacção</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e23a8cfab8000e4ce2ad014f7b55fb6f777274e4" resname="locationview.retry" approved="yes">
         <source>Retry</source>
