@@ -80,9 +80,6 @@
         <source>The selected user(s) have been deleted.</source>
         <target state="translated">Le ou les utilisateurs sélectionnés ont été supprimés.</target>
         <note>key: bulk_delete.success.message.users</note>
-        <alt-trans>
-          <target>Le ou les utilisateurs ont été supprimés.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="93704c823e9663af7f4a89ec041673ce9d095a17" resname="bulk_delete.success.message.users_with_nonusers">
         <source>The selected content item(s) have been sent to trash and the selected user(s) have been deleted.</source>
