@@ -65,9 +65,6 @@
         <source>Edit Draft</source>
         <target state="translated">Modifier le brouillon</target>
         <note>key: dashboard.table.draft.edit</note>
-        <alt-trans>
-          <target>Éditer le brouillon</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3854d449547263e6056997c3ed9135006b158de8" resname="dashboard.table.draft.transition.list">
         <source>Show history</source>
@@ -193,9 +190,6 @@
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
         <target state="translated"><![CDATA[Affichage de <strong>%viewing%</strong> sur <strong>%total%</strong> éléments]]></target>
         <note>key: workflow.list.viewing</note>
-        <alt-trans>
-          <target><![CDATA[Affichage de <strong>%viewing%</strong> éléments sur <strong>%total%</strong>]]></target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="434e7197d8ef9a80bded55e3eeec99ed5d1b28eb" resname="workflow.view.content_list.table.content_type">
         <source>Content Type</source>
