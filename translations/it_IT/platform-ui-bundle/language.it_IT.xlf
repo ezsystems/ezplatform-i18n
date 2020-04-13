@@ -77,9 +77,6 @@
         <target state="translated">ID della lingia</target>
         <note>key: language.id</note>
         <jms:reference-file line="30">Resources/views/Language/list.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>ID di lingua</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="60c35c78d83e0e32173bc6eda1bd696d223b49bd" resname="language.id.label">
         <source>Language ID:</source>
@@ -122,9 +119,6 @@
         <target state="translated">Il lingua "%languageName%" è stata creata.</target>
         <note>key: language.notification.created</note>
         <jms:reference-file line="46">Form/Processor/LanguageFormProcessor.php</jms:reference-file>
-        <alt-trans>
-          <target>Il lingua "%languageName%" è stato creata.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8af969d1a41cea0770e73d1a51c27ca9fce5f7cb" resname="language.notification.updated">
         <source>The language "%languageName%" was correctly saved.</source>
