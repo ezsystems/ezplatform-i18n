@@ -45,9 +45,6 @@
         <source>Type</source>
         <target state="final">Typ</target>
         <note>key: trash.type</note>
-        <alt-trans>
-          <target>Rodzaj bazy danych</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
