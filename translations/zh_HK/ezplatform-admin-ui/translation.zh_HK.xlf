@@ -10,9 +10,6 @@
         <source>Translation '%languageCode%' removed from content '%name%'.</source>
         <target state="translated">翻譯'%languageCode%'已從內容'%name%'中刪除。</target>
         <note>key: translation.remove.success</note>
-        <alt-trans>
-          <target>翻譯'％languageCode％'已從內容'％name％'中刪除。</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
