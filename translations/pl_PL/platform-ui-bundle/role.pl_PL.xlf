@@ -23,9 +23,6 @@
         <target state="final">Przypisywanie roli "%roleName%" do %count% użytkowników/grup z ograniczeniem do segmentu drzewa</target>
         <note>key: assigning.role.to.users.subtree.limited</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Przypisywanie roli "%roleName%" do %count% użytkowników/grup z ograniczeniem do sekcji drzewa</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c06ec423bdd64f80f5e1bd403445c8f158cbbf7a" resname="assignment.none" approved="yes">
         <source>This role is not assigned to any users or user groups.</source>
@@ -50,9 +47,6 @@
         <target state="final">Użytkownik/grupa</target>
         <note>key: assignment.user_or_group</note>
         <jms:reference-file line="136">Resources/views/Role/view_role.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Użytownik/grupa</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="507cd080bead04f2b94f397dd7a3791ac7548e3c" resname="assignment.user_or_group_using" approved="yes">
         <source><![CDATA[Users and groups using the <%role%> role (%count%)]]></source>
@@ -71,9 +65,6 @@
         <target state="final">Nie przypisano roli żadnym użytkownikom/grupom</target>
         <note>key: failed.assigned.role.user</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Nie przypisano roli do żadnych użytkowników/grup</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c0f6421b8ab278d972511eeb070a3b76a1052a7f" resname="failed.loading.role" approved="yes">
         <source>The role "%roleName%" could not be loaded</source>
