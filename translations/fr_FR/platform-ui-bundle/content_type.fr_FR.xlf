@@ -17,9 +17,6 @@
         <target state="final">Définitions de champs de contenu</target>
         <note>key: content_type.content.title</note>
         <jms:reference-file line="86">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Definitions de champs de contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d93b35cbbda2fccd239d83cd8e4fbba2cbb02166" resname="content_type.dashboard_title" approved="yes">
         <source>Content types</source>
@@ -37,21 +34,12 @@
         <target state="final">Toujours disponible</target>
         <note>key: content_type.default_availability</note>
         <jms:reference-file line="77">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Disponible par défaut, même si la traduction n'existe pas</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Disponible dans la langue par défaut même, si la traduction n'existe pas</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help" approved="yes">
         <source>Default availability in primary language, if translation is absent</source>
         <target state="final">Disponibilité par défaut dans la langue principale, si la traduction n'existe pas</target>
         <note>key: content_type.default_availability.help</note>
         <jms:reference-file line="78">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Disponible dans la langue par défaut même, si la traduction n'existe pas</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d14799b2ac8854ab3f0bb9976258c3db39213d09" resname="content_type.default_availability.value" approved="yes">
         <source>{0} Not available|{1} Available</source>
