@@ -228,9 +228,6 @@
         <jms:reference-file line="45">Resources/views/Role/list_roles.html.twig</jms:reference-file>
         <jms:reference-file line="109">Resources/views/Role/view_role.html.twig</jms:reference-file>
         <jms:reference-file line="111">Resources/views/Role/view_role.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Rollen Namen Bearbeiten</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e9e10ddeb169d59d94b54912d0422481a0a0b140" resname="role.edit_title">
         <source><![CDATA[Edit <%roleName%>]]></source>
