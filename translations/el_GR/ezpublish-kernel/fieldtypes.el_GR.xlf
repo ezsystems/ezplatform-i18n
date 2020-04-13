@@ -10,9 +10,6 @@
         <source>Authors</source>
         <target state="translated">Δημιουργοί</target>
         <note>key: ezauthor.name</note>
-        <alt-trans>
-          <target>Συντάκτες</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e4ca4a21a1e442e6a1232320b2184b9e4105c73f" resname="ezbinaryfile.name">
         <source>File</source>
