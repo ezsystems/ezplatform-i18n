@@ -30,12 +30,6 @@
         <target state="final"><![CDATA[Üdv a nyílt forráskódú %release% kiadásban. A közösséget támogató <a target="_blank" href="%license_url%">GPL licensz</a>,
                     <a target="_blank" href="%gpl_faq_url%">a kódmegosztásról</a>szól.]]></target>
         <note>key: dashboard.ez_version.community_severity_non</note>
-        <alt-trans>
-          <target><![CDATA[Üdv a nyílt forráskódú %release% kiadásban. A közösséget támogató <a target="_blank" href="%license_url%">GPL licensz</a>,
-                    <a target="_blank" href="%gpl_faq_url%">a kódmegosztásról</a>szól.
- 
-]]></target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bbddea87dd6b56fc0b4d21c28d1cbc2cfd92b754" resname="dashboard.ez_version.end_of_life" approved="yes">
         <source><![CDATA[Welcome to the open source %release% release. Using the community friendly <a target="_blank" href="%license_url%">GPL license</a>,
@@ -43,12 +37,6 @@
         <target state="final"><![CDATA[Üdv a nyílt forráskódú %release% kiadásban. A közösséget támogató <a target="_blank" href="%license_url%">GPL licensz</a>,
                     <a target="_blank" href="%gpl_faq_url%">a kódmegosztásról</a>szól.]]></target>
         <note>key: dashboard.ez_version.end_of_life</note>
-        <alt-trans>
-          <target><![CDATA[Üdv a nyílt forráskódú %release% kiadásban. A közösséget támogató <a target="_blank" href="%license_url%">GPL licensz</a>,
-                    <a target="_blank" href="%gpl_faq_url%">a kódmegosztásról</a>szól.
- 
-]]></target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9bad0b8d1efd71dca8071e736f332b3b4218d557" resname="dashboard.ez_version.end_of_life_upgrade" approved="yes">
         <source><![CDATA[Unfortunately %release% has reached <a target="_blank" href="%service_life_url%">end of life</a>,
