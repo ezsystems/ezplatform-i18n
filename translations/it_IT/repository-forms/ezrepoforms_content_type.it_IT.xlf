@@ -59,12 +59,6 @@
         <target state="translated">Segli il tipo di field</target>
         <note>key: content_type.field_type_selection</note>
         <jms:reference-file line="126">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
-        <alt-trans>
-          <target>Segli il tipo di field da aggiungere</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Segli il tipo di field da aggiungere alla classe</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="368a6ffa173a2e9605371392e99e565d9b247382" resname="content_type.group.delete">
         <source>Delete</source>
@@ -269,9 +263,6 @@
         <target state="translated">Datatime corrente regolata</target>
         <note>key: field_definition.ezdatetime.default_type_adjusted</note>
         <jms:reference-file line="34">lib/FieldType/Mapper/DateTimeFormMapper.php</jms:reference-file>
-        <alt-trans>
-          <target>Data/ora corrente regolata</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="24ac7fa5478172475d86a2d16829ece8a5e5f59f" resname="field_definition.ezdatetime.default_type_current">
         <source>Current datetime</source>
@@ -314,9 +305,6 @@
         <target state="translated">Dimensiona massima del file (byte)</target>
         <note>key: field_definition.ezimage.max_file_size</note>
         <jms:reference-file line="25">lib/FieldType/Mapper/ImageFormMapper.php</jms:reference-file>
-        <alt-trans>
-          <target>Dimensiona massima del file (Mb)</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8a95f664895f9c72e5ca52ea43908ad3d54c8966" resname="field_definition.ezinteger.default_value">
         <source>Default value</source>
