@@ -59,9 +59,6 @@
         <target state="translated">Content durchsuchen</target>
         <note>key: universaldiscovery.content.browser</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/explorer.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Content Browser</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="572fdb94d49b6e58d297fd7491cf28c77d60e241" resname="universaldiscovery.content.tree">
         <source>Content tree</source>
