@@ -20,9 +20,6 @@
         <source>Edit Content</source>
         <target state="final">Edytuj element</target>
         <note>key: bookmark.list.content.edit</note>
-        <alt-trans>
-          <target>Edytuj treść</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cf687b0218c513d53ad3f52b2547c23500242c48" resname="bookmark.list.content_type" approved="yes">
         <source>Content Type</source>
@@ -33,9 +30,6 @@
         <source>The bookmark list is empty. Any Content item you bookmark will end up here.</source>
         <target state="final">Lista zakładek jest pusta. Każdy element dodany do zakładek zostanie tutaj wyświetlony.</target>
         <note>key: bookmark.list.empty</note>
-        <alt-trans>
-          <target>Lista zakładek jest pusta. Każda treść dodana do zakładek zostanie tutaj wyświetlona.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d84749a19f2864dd1d5d3cee0a127f2435e5cdc5" resname="bookmark.list.name" approved="yes">
         <source>Name</source>
