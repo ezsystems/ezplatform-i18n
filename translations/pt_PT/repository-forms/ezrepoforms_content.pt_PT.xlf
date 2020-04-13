@@ -41,9 +41,6 @@
         <target state="final">Utilizador:</target>
         <note>key: content.field_type.ezuser.username</note>
         <jms:reference-file line="35">lib/Form/Type/User/UserAccountType.php</jms:reference-file>
-        <alt-trans>
-          <target>Nome do utilizador:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1120fc646c853c462aa4cdf634f476004846fc1b" resname="content.publish_button" approved="yes">
         <source>Publish</source>
