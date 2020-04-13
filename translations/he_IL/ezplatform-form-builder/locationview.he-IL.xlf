@@ -10,9 +10,6 @@
         <source>Submissions</source>
         <target state="translated">טפסים מוגשים</target>
         <note>key: tab.name.submissions</note>
-        <alt-trans>
-          <target>מסירות</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
