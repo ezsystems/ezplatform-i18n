@@ -293,9 +293,6 @@
         <target state="translated">Μέγιστη τιμή</target>
         <note>key: field_definition.ezfloat.max_value</note>
         <jms:reference-file line="33">lib/FieldType/Mapper/FloatFormMapper.php</jms:reference-file>
-        <alt-trans>
-          <target>Μέγιστη αξία</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a8eb20f50022f5aa6c623f3f870297f2ee034606" resname="field_definition.ezfloat.min_value">
         <source>Minimum value</source>
