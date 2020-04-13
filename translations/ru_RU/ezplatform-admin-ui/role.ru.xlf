@@ -280,9 +280,6 @@
         <source>Limitation</source>
         <target state="translated">Ограничение</target>
         <note>key: role_assignment.view.list.panel.assignments.column.limitation</note>
-        <alt-trans>
-          <target>Ограничения</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e978e250aa8284fa54c6f2a73cef9d3c8f0535c8" resname="role_assignment.view.list.panel.assignments.column.limitations">
         <source>Limitations</source>
