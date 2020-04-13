@@ -50,9 +50,6 @@
         <source>Select a location to restore you content item(s)</source>
         <target state="translated">Sélectionner l'emplacement pour restaurer votre(/vos) contenu(s)</target>
         <note>key: restore_under_new_location.title</note>
-        <alt-trans>
-          <target>Sélectionner l'emplacement pour restaurer vos contenus</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5b8a9a5fceb4991b77b50983c34df8a18a900a09" resname="select_location.error">
         <source>Cannot find children locations with given id - %idList%</source>
