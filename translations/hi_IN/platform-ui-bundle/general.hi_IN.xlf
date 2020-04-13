@@ -17,9 +17,6 @@
         <target state="translated">eZ Platform इंटर्फ़ेस का उपयोग करने के लिए कृपया जावस्क्रिप्ट को सक्रिय करें।</target>
         <note>key: javascript.enable</note>
         <jms:reference-file line="54">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>eZ Platform इंटर्फ़ेस का उपयोग करने के लिए कृपया जावस्क्रिप्ट को सक्रिय करें</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="40797c87a424e73c1893096db97ec0147bd261bf" resname="loading.application">
         <source>Loading the application...</source>
