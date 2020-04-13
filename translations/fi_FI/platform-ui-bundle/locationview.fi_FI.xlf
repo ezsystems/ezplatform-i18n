@@ -29,9 +29,6 @@
         <target state="translated">Oletuksena alisijainnit järjestellään</target>
         <note>key: locationview.details.default.listing.of.subitems.by</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Oletuksena alasijainnit järjestellään</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e0d315cc1f7772de59ebb7a943e5331402f087f4" resname="locationview.details.lastcontributor">
         <source>Last contributor</source>
@@ -50,9 +47,6 @@
         <target state="translated">Alisijaintien järjestely</target>
         <note>key: locationview.details.subitems.default.ordering</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Alasijaintien järjestely</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="dacdbac551cb8fc3eb998fead8834693305ba105" resname="locationview.details.title">
         <source>Content details</source>
@@ -71,9 +65,6 @@
         <target state="translated">Versiot</target>
         <note>key: locationview.details.versions</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Versioita</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f67a3e91c4d5aa8aac6c72fe7027dfba73eb1a4f" resname="rawcontent.content">
         <source>Content</source>
