@@ -45,9 +45,6 @@
         <source>Translation for %fieldName% is disabled</source>
         <target state="translated">La traducción para %fieldName% está deshabilitada</target>
         <note>key: fieldtype.translation_is_disabled</note>
-        <alt-trans>
-          <target>La traducción para %fieldName% está deshabilitada.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="876d7bdba03c72251ec4c2dc827fc54af7889091" resname="location_id">
         <source>Location ID: %locationId%</source>
