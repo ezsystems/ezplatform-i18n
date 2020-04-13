@@ -45,9 +45,6 @@
         <source>Default content availability</source>
         <target state="translated">Standard språk tilgjengelighet for innhold</target>
         <note>key: content_type.default_availability</note>
-        <alt-trans>
-          <target>Standard tilgjengelighet for innhold</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help">
         <source>Default availability in primary language, if translation is absent</source>
