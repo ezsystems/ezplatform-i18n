@@ -329,9 +329,6 @@
         <target state="translated">Die Location Liste wird geladen</target>
         <note>key: locationview.locations.loading.location.list</note>
         <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Die Locationliste wird geladen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="84eeb5f06a07ce1fffe674e87dca6905ad4714a5" resname="locationview.locations.location.list.error">
         <source>An error occurred while loading the locations list.</source>
@@ -664,9 +661,6 @@
         <target state="translated">Locations</target>
         <note>key: tab.locations</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewlocationstabview.js</jms:reference-file>
-        <alt-trans>
-          <target>Orte</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="20043ee647633fb1c639869bce609c568c195de1" resname="tab.related.content">
         <source>Related content</source>
