@@ -75,12 +75,6 @@
         <source>Custom URL aliases for %contentName%</source>
         <target state="translated">自定義%contentName%的URL aliases</target>
         <note>key: tab.urls.custom_url_aliases</note>
-        <alt-trans>
-          <target> 自定義%contentName%的URL aliases</target>
-        </alt-trans>
-        <alt-trans>
-          <target>  定制%contentName%的URL aliases</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5a1947624cf55689d80d38b7583bac538da641bb" resname="tab.urls.language">
         <source>Language</source>
