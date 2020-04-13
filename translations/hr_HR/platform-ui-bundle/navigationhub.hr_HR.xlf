@@ -11,9 +11,6 @@
         <target state="translated">Sadržaj</target>
         <note>key: navigationhub.zone.platform</note>
         <jms:reference-file>Resources/public/js/views/ez-navigationhubview.js</jms:reference-file>
-        <alt-trans>
-          <target>Contenuti</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
