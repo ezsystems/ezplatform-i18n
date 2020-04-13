@@ -135,9 +135,6 @@
         <source>Type or paste link here</source>
         <target state="final">Wpisz lub wklej link</target>
         <note>key: link_edit_btn.button_row.block.placeholder.text</note>
-        <alt-trans>
-          <target>Tutaj wpisz lub wklej link</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d9139bdb7978ed01bb6a7fd7f2ba31bfee633de2" resname="link_edit_btn.button_row.link_to" approved="yes">
         <source>Link to:</source>
