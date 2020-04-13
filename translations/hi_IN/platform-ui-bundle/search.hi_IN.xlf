@@ -11,12 +11,6 @@
         <target state="translated">कांटेंट प्रकार</target>
         <note>key: content.type</note>
         <jms:reference-file>Resources/public/js/views/ez-searchlistview.js</jms:reference-file>
-        <alt-trans>
-          <target>कांटेंट का प्रकार</target>
-        </alt-trans>
-        <alt-trans>
-          <target>कांटेंट का प्रेकार</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6ae999552a0d2dca14d62e2bc8b764d377b1dd6c" resname="name">
         <source>Name</source>
