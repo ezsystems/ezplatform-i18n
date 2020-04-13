@@ -10,9 +10,6 @@
         <source>Select content</source>
         <target state="final">Wybierz element</target>
         <note>key: select.content</note>
-        <alt-trans>
-          <target>Wybierz treść</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
