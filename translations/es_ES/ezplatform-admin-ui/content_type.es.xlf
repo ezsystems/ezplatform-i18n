@@ -165,9 +165,6 @@
         <source>Section identifier</source>
         <target state="translated">Identificador de la sección</target>
         <note>key: content_type.sort_field.section_identifier</note>
-        <alt-trans>
-          <target>Identificador de sección</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="48d3eb66c0f8928777189eab11eae254866852b2" resname="content_type.update.success">
         <source>Content type '%name%' updated.</source>
@@ -268,9 +265,6 @@
         <source>Content Types</source>
         <target state="translated">Tipos de Contenido</target>
         <note>key: content_type_group.breadcrumb.list</note>
-        <alt-trans>
-          <target>Tipos de contenido</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
         <source>%identifier%</source>
@@ -401,9 +395,6 @@
         <source>{0}No|{1}Yes</source>
         <target state="translated">{0}No|{1}Sí</target>
         <note>key: yes_no</note>
-        <alt-trans>
-          <target>{0} No|{1} Sí</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
