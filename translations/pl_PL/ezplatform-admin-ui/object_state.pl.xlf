@@ -60,9 +60,6 @@
         <source>Delete Object State</source>
         <target state="final">Usuń stan obiektów</target>
         <note>key: object_state.delete.bulk_delete.submit</note>
-        <alt-trans>
-          <target>Usuń stanu obiektów</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cd20ab0806780f115ec08655d9e44e0c31d0fecd" resname="object_state.delete.success" approved="yes">
         <source>Object state '%name%' deleted.</source>
@@ -83,9 +80,6 @@
         <source>No Object State configured. Object States you'll create will appear here.</source>
         <target state="final">Nie skonfigurowano żadnego stanu obiektów. Tutaj pojawią się utworzone stany obiektów.</target>
         <note>key: object_state.list.empty</note>
-        <alt-trans>
-          <target>Nie skonfigurowano żadnego stanu obiektu. Tutaj pojawią się utworzone stany obiektów.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2331731a1072a77f20ceef81614545768fc1d446" resname="object_state.modal.message" approved="yes">
         <source>Do you want to delete Object State?</source>
