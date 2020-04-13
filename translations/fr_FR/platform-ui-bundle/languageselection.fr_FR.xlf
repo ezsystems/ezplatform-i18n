@@ -17,9 +17,6 @@
         <target state="final">Annuler la sélection</target>
         <note>key: languageselectionbox.cancel</note>
         <jms:reference-file>Resources/public/templates/languageselectionbox.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Annuler</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0dd5d97803b49206317f765692becb52e212c55e" resname="languageselectionbox.confirm" approved="yes">
         <source>Confirm</source>
