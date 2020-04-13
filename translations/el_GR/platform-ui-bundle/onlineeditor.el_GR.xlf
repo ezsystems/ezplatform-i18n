@@ -78,9 +78,6 @@
         <target state="translated">Πλήρης στοίχιση</target>
         <note>key: justify</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextalignjustify.js</jms:reference-file>
-        <alt-trans>
-          <target>Κεντρική στοίχιση</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="12c0f1fbadc4046b5f2bb9e063b227ef8750d9d6" resname="left">
         <source>Left</source>
