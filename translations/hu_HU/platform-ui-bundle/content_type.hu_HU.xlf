@@ -11,9 +11,6 @@
         <target state="final">Tároló</target>
         <note>key: content_type.container</note>
         <jms:reference-file line="62">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Tartalom típus mappa</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f1312e397c7aa2e8e21be7f65161c6a99b728d3e" resname="content_type.content.title" approved="yes">
         <source>Content field definitions</source>
@@ -31,9 +28,6 @@
         <jms:reference-file line="13">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="10">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
         <jms:reference-file line="15">Resources/views/Dashboard/dashboard.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Tartalom típusok</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability" approved="yes">
         <source>Default availability in primary language, if translation is absent</source>
@@ -58,9 +52,6 @@
         <target state="final">Alapértelmezett tulajdonságok gyerek elemek sorrendezéséhez</target>
         <note>key: content_type.default_children_sorting</note>
         <jms:reference-file line="66">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Alapértelmezett tulajdonságok gyerek elemeknek</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort" approved="yes">
         <source>Default sort order</source>
@@ -93,9 +84,6 @@
         <target state="final">Tartalomtípus csoport</target>
         <note>key: content_type.group</note>
         <jms:reference-file line="17">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Tartalom típus csoport</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fd931f1ea0d601fe877606ec9e42ff7c37d44d4e" resname="content_type.group.cancel" approved="yes">
         <source>Cancel</source>
@@ -193,9 +181,6 @@
         <note>key: content_type.is_in_use</note>
         <jms:reference-file line="164">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="59">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>A tartalomtípus nem törölhető, mert tartalom elemek tartoznak hozzá, vagy Önnek nincs jogosultsága a művelethez.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="de2ea38b0604e5c021452e0eef43c2cc9494a2b7" resname="content_type.last_modified" approved="yes">
         <source>Last modified: %date% by %modifier%</source>
