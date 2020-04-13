@@ -90,9 +90,6 @@
         <target state="translated">Cancelar</target>
         <note>key: content_type.group.cancel</note>
         <jms:reference-file line="42">Resources/views/ContentType/edit_content_type_group.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Cancel</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="73205aee63e2b76d2104c295ee19449cf248f045" resname="content_type.group.cannot_delete.has_content_types">
         <source>Cannot delete Content type group "%identifier%" as it still contains Content types.</source>
@@ -276,9 +273,6 @@
         <target state="translated">Obligatorio</target>
         <note>key: field_definition.required</note>
         <jms:reference-file line="125">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Requerido</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2e2ef6bae44fe23eec336dec39035b5d2c4b87b6" resname="field_definition.searchable">
         <source>Searchable</source>
