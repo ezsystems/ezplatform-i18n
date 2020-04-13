@@ -107,9 +107,6 @@
         <target state="translated">所有模塊</target>
         <note>key: policy.module_all</note>
         <jms:reference-file line="45">Resources/views/Role/view_role.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>所有模組</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8dca46428d005a2f4c2e039fb250964d6139a8b2" resname="role">
         <source>Role</source>
@@ -237,18 +234,12 @@
         <target state="translated"><![CDATA[編輯<%roleName%>]]></target>
         <note>key: role.edit_title</note>
         <jms:reference-file line="7">Resources/views/Role/update_role.html.twig</jms:reference-file>
-        <alt-trans>
-          <target><![CDATA[編輯<％roleName％>]]></target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c3488ceda2728b14f24019f28ed44180b84ed179" resname="role.error.delete">
         <source>An error occurred when trying to delete role "%roleIdentifier%".</source>
         <target state="translated">嘗試刪除角色“%roleIdentifier%”時發生錯誤。</target>
         <note>key: role.error.delete</note>
         <jms:reference-file line="243">Controller/RoleController.php</jms:reference-file>
-        <alt-trans>
-          <target>嘗試刪除角色“％roleIdentifier％”時發生錯誤。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="68310ce0c358df2115b5944a580f158b01c2e719" resname="role.error.policy_not_found">
         <source>Role #%roleId% doesn't contain any policy with ID #%policyId%</source>
@@ -333,9 +324,6 @@
         <target state="translated">刪除角色“%roleIdentifier%“的#%policyId%策略時發生錯誤。</target>
         <note>key: role.policy.error.delete</note>
         <jms:reference-file line="338">Controller/RoleController.php</jms:reference-file>
-        <alt-trans>
-          <target>刪除角色“％roleIdentifier％“的#%policyId% 策略時發生錯誤。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="99225f0df6ad50a81ddb060600d0518ae871b105" resname="role.policy.notification.draft_removed">
         <source>The policy draft was removed.</source>
