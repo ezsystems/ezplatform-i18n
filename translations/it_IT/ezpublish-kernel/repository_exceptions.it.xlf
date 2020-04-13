@@ -192,9 +192,6 @@
         <target state="translated">Relazione di tipo COMMON può essere solo aggiunta alle bozza</target>
         <note>key: Relation of type COMMON can only be added to drafts</note>
         <jms:reference-file line="684">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
-        <alt-trans>
-          <target>Relazione di tipo COMMON può essere solo aggiunta alle bozze</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="388dae35f493b4e06e6458455f4837b1691fd72b" resname="Relation of type COMMON can only be removed from drafts">
         <source>Relation of type COMMON can only be removed from drafts</source>
@@ -213,9 +210,6 @@
         <target state="translated">L'utente non dispone dell'accesso a '%function%' '%module%'</target>
         <note>key: User does not have access to '%function%' '%module%'</note>
         <jms:reference-file line="38">eZ/Publish/Core/Base/Exceptions/UnauthorizedException.php</jms:reference-file>
-        <alt-trans>
-          <target>Utente non dispone dell'accesso a '%function%' '%module%'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="649224015306dff4831eceb63d49e66d7c0c4f1b" resname="User does not have access to '%function%' '%module%' with: %with%'">
         <source>User does not have access to '%function%' '%module%' with: %with%'</source>
