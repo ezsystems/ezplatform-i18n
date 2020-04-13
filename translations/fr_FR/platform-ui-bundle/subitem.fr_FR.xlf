@@ -54,9 +54,6 @@
         <target state="final">Une erreur s'est produite lors du chargement de l'image.</target>
         <note>key: subitem.error.loading.image</note>
         <jms:reference-file>Resources/public/templates/subitem/griditem.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Une erreur est apparue lors du chargement de l'image.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="687a6cc31795b1c3ef4754351319522f21e40d28" resname="subitem.error.loading.list" approved="yes">
         <source>An error occurred while loading the sub-items list.</source>
@@ -128,9 +125,6 @@
         <note>key: viewing.out.of.items</note>
         <jms:reference-file>Resources/public/templates/subitem/grid.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/subitem/listmore.hbt</jms:reference-file>
-        <alt-trans>
-          <target><![CDATA[affichage de <strong class="ez-loadmorepagination-display-count">%displayCount%</strong> sur <strong>%subitemCount%</strong> sous-élements]]></target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
