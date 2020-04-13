@@ -136,9 +136,6 @@
         <jms:reference-file line="75">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
         <jms:reference-file line="9">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
         <jms:reference-file line="84">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Content-Type-Gruppen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e898d2cafb9cf32633ae1324fac8a0f233688885" resname="content_type.group.name">
         <source>Name</source>
