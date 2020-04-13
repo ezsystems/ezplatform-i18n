@@ -23,9 +23,6 @@
         <target state="translated">भाषा का कोड</target>
         <note>key: language.code.label</note>
         <jms:reference-file line="31">Resources/views/Language/view.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>भाषा का कोड:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4737a66d0fa85eced32b31431dfcfa3633167f6f" resname="language.create.title">
         <source>Creating a new language</source>
