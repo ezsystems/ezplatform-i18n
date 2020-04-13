@@ -35,9 +35,6 @@
         <target state="final">Minimiser</target>
         <note>key: actionbar.minimizeActionBar</note>
         <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
-        <alt-trans>
-          <target>Réduire</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b282633e9e76dd418412580d9232d28d9404dcb5" resname="actionbar.move" approved="yes">
         <source>Move</source>
@@ -68,9 +65,6 @@
         <target state="final">Navigateur de contenus</target>
         <note>key: content.browser.title</note>
         <jms:reference-file>Resources/public/js/views/services/ez-discoverybarviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Arbre de contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a45dde06d9f58df76767d6fdaa8da714979b737d" resname="content.copied.under" approved="yes">
         <source>'%contentName%' has been successfully copied under '%parentContentName%'</source>
@@ -101,9 +95,6 @@
         <target state="final">Naviguer dans les contenus</target>
         <note>key: discoverybar.browse</note>
         <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
-        <alt-trans>
-          <target>Arbre de contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7eaf9281f3e62d4f3acf5dac5b34060808c363b9" resname="discoverybar.contenttree" approved="yes">
         <source>Content tree</source>
@@ -115,9 +106,6 @@
         <target state="final">Minimiser</target>
         <note>key: discoverybar.minimize</note>
         <jms:reference-file>Resources/public/js/views/ez-discoverybarview.js</jms:reference-file>
-        <alt-trans>
-          <target>Réduire</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="55ba03a687a73559ef8a2d4e1ff935b47ddc5859" resname="discoverybar.search" approved="yes">
         <source>Search</source>
@@ -160,39 +148,24 @@
         <target state="final">Créer le nouvel emplacement pour « %name% » sous « %parentName% » a échoué</target>
         <note>key: failed.creating.new.location.for</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>La création du nouvel emplacement pour "%name%" sous "%parentName%" a échoué</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="69136005da4d2304538601244f76e7e68a009049" resname="hidden.location" approved="yes">
         <source>Location "%id" has been hidden</source>
         <target state="final">L'emplacement « %id » a été caché</target>
         <note>key: hidden.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>L'emplacement « %id » a été masqué</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Emplacement « %id » a été caché</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a08ae71216dacd8a23c388addb647ecab7e3fcc1" resname="hiding.location" approved="yes">
         <source>Hiding Location "%id%"</source>
         <target state="final">Masquer l'emplacement "%id%"</target>
         <note>key: hiding.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-visibilityswitcherplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Cacher l'emplacement "%id%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="892075dad374cd4df8ce78ea7aa1bba5eb5b3244" resname="location.created" approved="yes">
         <source>New location for "%name%" has been successfully created</source>
         <target state="final">Nouvel emplacement pour « %name% » créé avec succès</target>
         <note>key: location.created</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationcreateplugin.js</jms:reference-file>
-        <alt-trans>
-          <target>Nouvel emplacement pour « %name% » a été créée avec succès</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9ed496cc88a3a2f48a33464deb00f217d41803ca" resname="locations.created" approved="yes">
         <source>%count% new locations for "%name%" have been successfully created</source>
