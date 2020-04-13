@@ -24,9 +24,6 @@
         <target state="translated">Content ID: %contentId%, Location ID: %locationId%</target>
         <note>key: content.id.location.id</note>
         <jms:reference-file>Resources/public/templates/contentedit.hbt</jms:reference-file>
-        <alt-trans>
-          <target>內容 ID: %contentId%, 位置 ID: %locationId%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published">
         <source>Content has been published</source>
@@ -81,9 +78,6 @@
         <target state="translated">找不到content id "%id%"</target>
         <note>key: failed.finding.content</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>找不到內容 id "%id%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b9f80ecb0db5052858af3b167a67caeacc9d99e9" resname="failed.loading.content.id.language">
         <source>Could not load the content with id '%contentId%' and languageCode '%languageCode%'</source>
@@ -181,18 +175,12 @@
         <target state="translated">版本'%versionId%'不是草稿。</target>
         <note>key: version.not.a.draft</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>版本'％versionId％'不是草稿。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="de9120a2c5c374027f74d571071a0e8e36502888" resname="version.not.a.draft.of.content">
         <source>The version '%versionId%' is not a version of the content '%contentId%'</source>
         <target state="translated">版本'%versionId%'不是內容'%contentId%'的版本</target>
         <note>key: version.not.a.draft.of.content</note>
         <jms:reference-file>Resources/public/js/views/services/ez-contenteditviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>版本'％versionId％'不是內容'％contentId％'的版本</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6cc66f843c3ccf4dd174ae35a72c94720b61322b" resname="version.not.belong.to.you">
         <source>The version '%versionId%' does not belong to you</source>
