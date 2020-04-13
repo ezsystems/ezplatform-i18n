@@ -119,9 +119,6 @@
         <target state="translated">Kan ikke laste innholdet %id%</target>
         <note>key: failed.to.load.content</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
-        <alt-trans>
-          <target>Kunne ikke laste innholdet %id%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6e26e79018c441ce904ec1d78372148390d1f076" resname="failed.to.load.content.type">
         <source>Failed to load the content type %id%</source>
@@ -320,9 +317,6 @@
         <target state="translated">Skjult av overordnet element</target>
         <note>key: locationview.locations.hidden.by.superior</note>
         <jms:reference-file>Resources/public/templates/tabs/locations.hbt</jms:reference-file>
-        <alt-trans>
-          <target>Skjult av overordnede</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8a1beb515496a34287a6fe56c5e12e752c12a47d" resname="locationview.locations.hide">
         <source>Hide</source>
