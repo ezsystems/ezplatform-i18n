@@ -52,9 +52,6 @@
         <note>key: heading.4</note>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
-        <alt-trans>
-          <target>Überschrift 3</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f70107bea5df35dd8bd8b8b0321db6190d7d6aba" resname="heading.5">
         <source>Heading 5</source>
@@ -118,9 +115,6 @@
         <target state="translated">Nach unten verschieben</target>
         <note>key: move.down</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/movedown.js</jms:reference-file>
-        <alt-trans>
-          <target>Nach unten bewegen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="68dec644b0986ba6a27e8e7e8ffcd5e1f22cd3fc" resname="move.up">
         <source>Move upward</source>
