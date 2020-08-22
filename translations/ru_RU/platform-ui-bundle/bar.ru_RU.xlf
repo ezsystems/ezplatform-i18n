@@ -6,43 +6,18 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="b89182df324a10cfccb8dac5f047355c3ba043ca" resname="actionbar.copy">
+        <source>Copy</source>
+        <target state="translated">Копировать</target>
+        <note>key: actionbar.copy</note>
+        <jms:reference-file>Resources/public/js/views/ez-actionbarview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="45be10e0189e80b08256567362b3f8668b2c4965" resname="translateaction.edit">
+        <source>Edit</source>
+        <target state="translated">Редактирование</target>
+        <note>key: translateaction.edit</note>
+        <jms:reference-file>Resources/public/templates/translateaction.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
