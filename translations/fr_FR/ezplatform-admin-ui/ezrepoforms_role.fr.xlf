@@ -6,14 +6,31 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="34ba9078fe178bd49df6ada9d8357455ee8ff7b3" resname="policy_create.save">
+        <source>Update</source>
+        <target state="translated">Mettre à jour</target>
+        <note>key: policy_create.save</note>
+      </trans-unit>
+      <trans-unit id="c418f83922f6a4ea7412120a3b731a3e8665eead" resname="policy_create.update">
+        <source>Update</source>
+        <target state="translated">Mettre à jour</target>
+        <note>key: policy_create.update</note>
+      </trans-unit>
+      <trans-unit id="05cc1fd4658faa760de6e98cb71e1054157e63a0" resname="policy_delete.delete">
+        <source>Delete</source>
+        <target state="translated">Supprimer</target>
+        <note>key: policy_delete.delete</note>
+      </trans-unit>
+      <trans-unit id="0eda0d605bd42eb8989a82e546d09ace8bc1b4d9" resname="role.policy.limitation.location.udw_button">
+        <source>Select locations</source>
+        <target state="translated">Sélectionnez les emplacements</target>
+        <note>key: role.policy.limitation.location.udw_button</note>
+      </trans-unit>
+      <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title">
+        <source>Select locations to use as policy limitation</source>
+        <target state="translated">Sélectionnez les emplacements à utiliser comme règle de limitation</target>
+        <note>key: role.policy.limitation.location.udw_title</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
