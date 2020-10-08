@@ -21,6 +21,11 @@
         <target state="translated">Langue(s)</target>
         <note>key: languages.label</note>
       </trans-unit>
+      <trans-unit id="22051bfb289327b100e12541f7284b0600f14593" resname="matcher_configuration.label">
+        <source>Site Access Matching</source>
+        <target state="translated">Correspondance de Site Access</target>
+        <note>key: matcher_configuration.label</note>
+      </trans-unit>
       <trans-unit id="8913bb9ab32e82b7dace33343f506f1fea38193d" resname="name.label">
         <source>Name</source>
         <target state="translated">Nom</target>
