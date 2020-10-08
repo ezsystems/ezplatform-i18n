@@ -481,6 +481,11 @@
         <target state="translated">Jours avant l'expiration du mot de passe</target>
         <note>key: field_definition.ezuser.password_ttl</note>
       </trans-unit>
+      <trans-unit id="cd2c70b2a3594f4de7adca0e84da6f106790ae8c" resname="field_definition.ezuser.password_ttl_warning">
+        <source>Days before a user is notified about expiration</source>
+        <target state="translated">Nombre de jours avant qu'un utilisateur ne soit informé de son expiration</target>
+        <note>key: field_definition.ezuser.password_ttl_warning</note>
+      </trans-unit>
       <trans-unit id="c196b953a8bc8966aeeb771c2c9e653bbe8062bb" resname="field_definition.ezuser.require_new_password">
         <source>Prevent reusing old password</source>
         <target state="translated">Empêche la réutilisation de l'ancien mot de passe</target>
