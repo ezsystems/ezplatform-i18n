@@ -86,6 +86,11 @@
         <target state="translated">Ordre</target>
         <note>key: ezobjectrelationlist.table.row.order</note>
       </trans-unit>
+      <trans-unit id="1a3bc0622c5d839ed1a8ef9f32bd5dd9e5cfb479" resname="fieldtype.binary_base.drag_drop">
+        <source>Drag and drop your files on browser window or upload them</source>
+        <target state="translated">Glissez et déposez vos fichiers sur la fenêtre du navigateur ou téléversez-les</target>
+        <note>key: fieldtype.binary_base.drag_drop</note>
+      </trans-unit>
       <trans-unit id="858c986173f1ef87d7acda017535b86f01bca87d" resname="fieldtype.binary_base.max_file_size">
         <source>Max file size: %size%</source>
         <target state="translated">Taille maximale du fichier : %size%</target>
@@ -95,6 +100,11 @@
         <source>Upload file</source>
         <target state="translated">Charger un fichier</target>
         <note>key: fieldtype.binary_base.upload_file</note>
+      </trans-unit>
+      <trans-unit id="dcf8a820f28bd6b955d76c6d3b95a2661d2b7540" resname="fieldtype.ezimageasset.select.label">
+        <source>Select from your repository</source>
+        <target state="translated">Sélectionnez à partir de votre référentiel</target>
+        <note>key: fieldtype.ezimageasset.select.label</note>
       </trans-unit>
       <trans-unit id="bf1b649ad290a62f1192ee5b4fb58f7bdfc8e50d" resname="fieldtype.ezimageasset.upload.label">
         <source>Upload image</source>
