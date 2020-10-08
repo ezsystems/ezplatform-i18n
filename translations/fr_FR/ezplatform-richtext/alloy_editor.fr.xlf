@@ -236,6 +236,11 @@
         <target state="translated">Paragraphe</target>
         <note>key: toolbar_config_base.paragraph_label</note>
       </trans-unit>
+      <trans-unit id="f5aa82a917683c8bcd6a800a75a086822a209f77" resname="unordered_list_btn.label">
+        <source>List</source>
+        <target state="translated">Liste</target>
+        <note>key: unordered_list_btn.label</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
