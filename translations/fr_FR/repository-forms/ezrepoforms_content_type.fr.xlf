@@ -476,6 +476,16 @@
         <target state="translated">Le mot de passe doit contenir au moins 1 lettre majuscule</target>
         <note>key: field_definition.ezuser.require_at_least_one_upper_case_character</note>
       </trans-unit>
+      <trans-unit id="b3a4113222154dde9c8d136f4bea80217129b739" resname="field_definition.ezuser.password_ttl">
+        <source>Days before password expires</source>
+        <target state="translated">Jours avant l'expiration du mot de passe</target>
+        <note>key: field_definition.ezuser.password_ttl</note>
+      </trans-unit>
+      <trans-unit id="c196b953a8bc8966aeeb771c2c9e653bbe8062bb" resname="field_definition.ezuser.require_new_password">
+        <source>Prevent reusing old password</source>
+        <target state="translated">Empêche la réutilisation de l'ancien mot de passe</target>
+        <note>key: field_definition.ezuser.require_new_password</note>
+      </trans-unit>
       <trans-unit id="92d9243bb9fac540233dc376b41a3bcd41615ccc" resname="field_definition.field_group" approved="yes">
         <source>Category</source>
         <target state="final">Catégorie</target>
