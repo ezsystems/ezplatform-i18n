@@ -66,6 +66,111 @@
         <target state="translated">Annuler la publication</target>
         <note>key: modal.discard.button.confirm.label</note>
       </trans-unit>
+      <trans-unit id="daae0a566e88afb5ab3cabfbc2cf570bc1d00087" resname="modal.discard.header">
+        <source>Are you sure you want to cancel the publication of the selected content?</source>
+        <target state="translated">Êtes-vous sûr de vouloir annuler la publication du contenu sélectionné ?</target>
+        <note>key: modal.discard.header</note>
+      </trans-unit>
+      <trans-unit id="d4c0952a328cbef394d7555e1d0b7de8e15309d8" resname="modal.discard.table.event.label">
+        <source>Event</source>
+        <target state="translated">Événement</target>
+        <note>key: modal.discard.table.event.label</note>
+      </trans-unit>
+      <trans-unit id="88df5f78dd3f9ca1d8a228bec1d5e93180c223bf" resname="modal.discard.table.header">
+        <source>Selected content (%eventsCount%)</source>
+        <target state="translated">Contenu sélectionné (%eventsCount%)</target>
+        <note>key: modal.discard.table.header</note>
+      </trans-unit>
+      <trans-unit id="3ac0155a7aa68fb42895db7b88488dd6bca64259" resname="modal.discard.table.language.label">
+        <source>Modified language</source>
+        <target state="translated">Langue modifiée</target>
+        <note>key: modal.discard.table.language.label</note>
+      </trans-unit>
+      <trans-unit id="009172790a92714b1fad31ff1ea9f9691f3b9953" resname="modal.discard.table.name.label">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: modal.discard.table.name.label</note>
+      </trans-unit>
+      <trans-unit id="0b3369427b3d6137981f8152556a902c4afaa9c8" resname="modal.future_hide.discard.button.cancel.label">
+        <source>Cancel</source>
+        <target state="translated">Annuler</target>
+        <note>key: modal.future_hide.discard.button.cancel.label</note>
+      </trans-unit>
+      <trans-unit id="f06876d3c5eb0fb24a525fe6e9fe02f1d290a0cd" resname="modal.future_hide.discard.button.confirm.label">
+        <source>Cancel hiding</source>
+        <target state="translated">Annuler le masquage</target>
+        <note>key: modal.future_hide.discard.button.confirm.label</note>
+      </trans-unit>
+      <trans-unit id="e1a3b25d2c19e1d9ed8e6af7b4e5187a793f2bfd" resname="modal.future_hide.discard.header">
+        <source>Are you sure you want to cancel the hide of the selected content?</source>
+        <target state="translated">Êtes-vous sûr de vouloir annuler le masquage du contenu sélectionné ?</target>
+        <note>key: modal.future_hide.discard.header</note>
+      </trans-unit>
+      <trans-unit id="1a2f2d6804fcdcb1c6303601f113fb57f53b13e0" resname="modal.future_hide.discard.table.event.label">
+        <source>Event</source>
+        <target state="translated">Événement</target>
+        <note>key: modal.future_hide.discard.table.event.label</note>
+      </trans-unit>
+      <trans-unit id="3a1339a4b677ce67c6565d1bac4a3c742999f636" resname="modal.future_hide.discard.table.name.label">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: modal.future_hide.discard.table.name.label</note>
+      </trans-unit>
+      <trans-unit id="1e4306c3cc98473b86d8b03016465abcf0be2bc1" resname="modal.future_hide.reschedule.button.cancel.label">
+        <source>Cancel</source>
+        <target state="translated">Annuler</target>
+        <note>key: modal.future_hide.reschedule.button.cancel.label</note>
+      </trans-unit>
+      <trans-unit id="99f588ae4311b9253318557ac5004b357fe776b6" resname="modal.future_hide.reschedule.button.confirm.label">
+        <source>Confirm rescheduling</source>
+        <target state="translated">Confirmer la replanification</target>
+        <note>key: modal.future_hide.reschedule.button.confirm.label</note>
+      </trans-unit>
+      <trans-unit id="2ea5eec8428ac4d294341d300eee8233b4575e27" resname="modal.future_hide.reschedule.date_picker.label">
+        <source>Date and time</source>
+        <target state="translated">Date et heure</target>
+        <note>key: modal.future_hide.reschedule.date_picker.label</note>
+      </trans-unit>
+      <trans-unit id="8273c51c9fe29e93d52f8ca01e3866ab99c50e1f" resname="modal.future_hide.reschedule.header">
+        <source>Reschedule hide</source>
+        <target state="translated">Replanifier le masquage</target>
+        <note>key: modal.future_hide.reschedule.header</note>
+      </trans-unit>
+      <trans-unit id="4feddda3ea92d0dfe185e404d947f995ce63e6a9" resname="modal.reschedule.button.cancel.label">
+        <source>Cancel</source>
+        <target state="translated">Annuler</target>
+        <note>key: modal.reschedule.button.cancel.label</note>
+      </trans-unit>
+      <trans-unit id="4159d061bfaf75e9176056da9d23dd7cc84c0384" resname="modal.reschedule.button.confirm.label">
+        <source>Confirm rescheduling</source>
+        <target state="translated">Confirmer la replanification</target>
+        <note>key: modal.reschedule.button.confirm.label</note>
+      </trans-unit>
+      <trans-unit id="fc49c887310579624a70c278ba3165543b062fb8" resname="modal.reschedule.date_picker.label">
+        <source>Date and time</source>
+        <target state="translated">Date et heure</target>
+        <note>key: modal.reschedule.date_picker.label</note>
+      </trans-unit>
+      <trans-unit id="08e266144cfe7944b220247a8643ac5261e0a400" resname="modal.reschedule.header">
+        <source>Reschedule publication</source>
+        <target state="translated">Replanifier la publication</target>
+        <note>key: modal.reschedule.header</note>
+      </trans-unit>
+      <trans-unit id="f48c4e472bd9e86a066060225f621949424f2b81" resname="reschedule.error.message">
+        <source>Cannot reschedule</source>
+        <target state="translated">Ne peut pas être replanifié</target>
+        <note>key: reschedule.error.message</note>
+      </trans-unit>
+      <trans-unit id="efe280f52ff7d384892d51a05ca8fe577ab73d78" resname="unschedule.error.message">
+        <source>Cannot cancel selected publication(s)</source>
+        <target state="translated">Impossible d'annuler le(s) publication(s) sélectionnée(s)</target>
+        <note>key: unschedule.error.message</note>
+      </trans-unit>
+      <trans-unit id="77eef3d0eaf019da502760210df92d209f23bcd6" resname="unschedule.future_hide.error.message">
+        <source>Cannot cancel selected hide(s)</source>
+        <target state="translated">Impossible d'annuler le(s) masquage(s) sélectionnée(s)</target>
+        <note>key: unschedule.future_hide.error.message</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
