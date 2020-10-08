@@ -16,6 +16,31 @@
         <target state="translated">Type de Contenu</target>
         <note>key: bulk_action.failed.modal.content_type_name</note>
       </trans-unit>
+      <trans-unit id="a4b9e9b4898dd285237fc60130970ce7ed988871" resname="content.create.choose_content_type">
+        <source>Create content</source>
+        <target state="translated">Créer un contenu</target>
+        <note>key: content.create.choose_content_type</note>
+      </trans-unit>
+      <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type">
+        <source>Select a Content Type:</source>
+        <target state="translated">Sélectionner un Type de Contenu :</target>
+        <note>key: content.create.select_content_type</note>
+      </trans-unit>
+      <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
+        <source>Select a language:</source>
+        <target state="translated">Sélectionnez une langue :</target>
+        <note>key: content.create.select_language</note>
+      </trans-unit>
+      <trans-unit id="5e8851497aae3ba774d163d5fd191fd69ac871c0" resname="content.edit.select_language">
+        <source>Select translation</source>
+        <target state="translated">Sélectionner une traduction</target>
+        <note>key: content.edit.select_language</note>
+      </trans-unit>
+      <trans-unit id="e136be672df8eb27dc4eb2f1ce0650096090bf81" resname="content.hidden.message">
+        <source>This Content item or its Location is hidden.</source>
+        <target state="translated">Cet élément de Contenu ou son emplacement est masqué.</target>
+        <note>key: content.hidden.message</note>
+      </trans-unit>
       <trans-unit id="9c91d85bc7658ec7dc6bbb07b720979177c0846a" resname="content.view.subitems">
         <source>Sub-items</source>
         <target state="translated">Sous-éléments</target>
@@ -26,6 +51,11 @@
         <target state="translated">Permissions utilisateur limitées</target>
         <note>key: content.view.subitems.bulk_action.limited_permissions</note>
       </trans-unit>
+      <trans-unit id="1141888f8212e6140ea4bac1a5fba11c02e94d13" resname="dashboard.table.relation.unauthorized">
+        <source>You do not have the '%function%' '%module%' permission for content ID: %contentId%</source>
+        <target state="translated">Vous n'avez pas la permission '%function%' '%module%' ' pour le contenu dont l'ID est : %contentId%</target>
+        <note>key: dashboard.table.relation.unauthorized</note>
+      </trans-unit>
       <trans-unit id="eeb49235f0e3b40e651725430b85a2885174bd2b" resname="location.bookmark.add">
         <source>Add to Bookmarks</source>
         <target state="translated">Ajouter aux favoris</target>
@@ -35,6 +65,16 @@
         <source>Remove from Bookmarks</source>
         <target state="translated">Supprimer des favoris</target>
         <note>key: location.bookmark.remove</note>
+      </trans-unit>
+      <trans-unit id="4fd9a40170cf4bc5acff719c14eaf2d15fc9942d" resname="tab.details.change_section ">
+        <source>Change Section</source>
+        <target state="translated">Changer de section</target>
+        <note>key: tab.details.change_section </note>
+      </trans-unit>
+      <trans-unit id="5c08278a7b80c4aae97e5683688b5b55b5f5b37e" resname="tab.details.change_state">
+        <source>Change Object state</source>
+        <target state="translated">Changer l'état de l'objet</target>
+        <note>key: tab.details.change_state</note>
       </trans-unit>
       <trans-unit id="c0b36efcf0ebbe2ac0f9861cae35e12e668cbcc0" resname="tab.details.content_details">
         <source>Content details</source>
@@ -56,10 +96,20 @@
         <target state="translated">Créateur</target>
         <note>key: tab.details.creator</note>
       </trans-unit>
+      <trans-unit id="91b45af4dd219651dc8b1a7d050822b71f03fad3" resname="tab.details.creator.not_found">
+        <source>Can't fetch creator</source>
+        <target state="translated">Impossible de récupérer le créateur</target>
+        <note>key: tab.details.creator.not_found</note>
+      </trans-unit>
       <trans-unit id="acc17a8db8d00036233faa9948ad9a496cd621b3" resname="tab.details.last_contributor">
         <source>Last contributor</source>
         <target state="translated">Plus récent contributeur</target>
         <note>key: tab.details.last_contributor</note>
+      </trans-unit>
+      <trans-unit id="ba5ca8a7f923f6ee3a0e6bf9aca428403d0158fd" resname="tab.details.last_contributor.not_found">
+        <source>Can't fetch last contributor</source>
+        <target state="translated">Impossible de récupérer le dernier contributeur</target>
+        <note>key: tab.details.last_contributor.not_found</note>
       </trans-unit>
       <trans-unit id="671c2d4e91244548b29e8f293cd8d4d97a3c23bd" resname="tab.details.location_id">
         <source>Location ID</source>
@@ -85,6 +135,11 @@
         <source>Section name</source>
         <target state="translated">Nom de la section</target>
         <note>key: tab.details.section_name</note>
+      </trans-unit>
+      <trans-unit id="6ba61ac8194e021eb1515cc2d3d33ff006e2d55d" resname="tab.details.state_details">
+        <source>Object state details</source>
+        <target state="translated">Détails de l'état de l'objet</target>
+        <note>key: tab.details.state_details</note>
       </trans-unit>
       <trans-unit id="131730e5ecef276336a53300cdd891e0689023f4" resname="tab.details.state_group_name">
         <source>Group name</source>
