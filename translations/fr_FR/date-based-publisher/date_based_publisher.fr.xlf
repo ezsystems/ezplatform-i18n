@@ -26,9 +26,9 @@
         <target state="translated">Contenu publié</target>
         <note>key: content.published</note>
       </trans-unit>
-      <trans-unit id="d3271090e4c7db6a79d168181876891a6577fa19" resname="content.scheduled.canceled">
+      <trans-unit id="d3271090e4c7db6a79d168181876891a6577fa19" resname="content.scheduled.canceled" approved="yes">
         <source>Future publication canceled</source>
-        <target state="translated">Future publication annulée</target>
+        <target state="final">Planification de publication annulée</target>
         <note>key: content.scheduled.canceled</note>
       </trans-unit>
       <trans-unit id="34b402006eccad0bda15c91d1c25af637419d933" resname="content.scheduled.published">
