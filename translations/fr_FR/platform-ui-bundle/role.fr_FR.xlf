@@ -54,9 +54,9 @@
         <note>key: assignment.user_or_group_using</note>
         <jms:reference-file line="24">Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
-      <trans-unit id="ca65309bef9a375c91388358cc8304dae5032ca1" resname="failed.assigned.role">
+      <trans-unit id="ca65309bef9a375c91388358cc8304dae5032ca1" resname="failed.assigned.role" approved="yes">
         <source>Role has not been assigned to "%name%": %message%</source>
-        <target state="translated">Le rôle n'a pas été assigné à "%name%" : %message%</target>
+        <target state="final">Le rôle n'a pas été assigné à "%name%" : %message%</target>
         <note>key: failed.assigned.role</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
       </trans-unit>
@@ -175,9 +175,9 @@
         <note>key: role.assigned.to.user</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
       </trans-unit>
-      <trans-unit id="c8259f57183169ec1b3106c34cda7cc61aaf7386" resname="role.assigned.to.user.section.limited">
+      <trans-unit id="c8259f57183169ec1b3106c34cda7cc61aaf7386" resname="role.assigned.to.user.section.limited" approved="yes">
         <source>"%name%" role has been assigned to %count% users/groups limited to "%sectionName%" section</source>
-        <target state="translated">Le rôle « %name% » a été attribué à %count% utilisateurs/groupes avec limitation à la section « %sectionName% »</target>
+        <target state="final">Le rôle de la « %name% » a été attribué à %count% utilisateurs/groupes avec limitation à la section « %sectionName% »</target>
         <note>key: role.assigned.to.user.section.limited</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
       </trans-unit>
