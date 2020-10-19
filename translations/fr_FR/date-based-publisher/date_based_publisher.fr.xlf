@@ -6,24 +6,24 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="83d2e0cd1746c268c5117d780a245b996c3964ba" resname="content.deleted">
+      <trans-unit id="83d2e0cd1746c268c5117d780a245b996c3964ba" resname="content.deleted" approved="yes">
         <source>Content deleted</source>
-        <target state="translated">Contenu supprimé</target>
+        <target state="final">Contenu supprimé</target>
         <note>key: content.deleted</note>
       </trans-unit>
-      <trans-unit id="e7818e3c5b5f9b8bda55a4ced6b8934d8f82607e" resname="content.in_review">
+      <trans-unit id="e7818e3c5b5f9b8bda55a4ced6b8934d8f82607e" resname="content.in_review" approved="yes">
         <source>Content sent to review</source>
-        <target state="translated">Contenu envoyé pour révision</target>
+        <target state="final">Contenu envoyé pour révision</target>
         <note>key: content.in_review</note>
       </trans-unit>
-      <trans-unit id="efeb6a6207370ab249436a8d9e0eaff02a5efb79" resname="content.publish_later.read_more">
+      <trans-unit id="efeb6a6207370ab249436a8d9e0eaff02a5efb79" resname="content.publish_later.read_more" approved="yes">
         <source>Read more</source>
-        <target state="translated">Lire la suite</target>
+        <target state="final">Lire la suite</target>
         <note>key: content.publish_later.read_more</note>
       </trans-unit>
-      <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published">
+      <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published" approved="yes">
         <source>Content published</source>
-        <target state="translated">Contenu publié</target>
+        <target state="final">Contenu publié</target>
         <note>key: content.published</note>
       </trans-unit>
       <trans-unit id="d3271090e4c7db6a79d168181876891a6577fa19" resname="content.scheduled.canceled" approved="yes">
@@ -36,9 +36,9 @@
         <target state="translated">Future publication enregistrée</target>
         <note>key: content.scheduled.published</note>
       </trans-unit>
-      <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title">
+      <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title" approved="yes">
         <source>Title:</source>
-        <target state="translated">Titre:</target>
+        <target state="final">Titre:</target>
         <note>key: content.scheduled.title</note>
       </trans-unit>
       <trans-unit id="d72a29b32751f629c33f6223c5b6477308a0ebb4" resname="content.trashed">
@@ -46,9 +46,9 @@
         <target state="translated">Contenu déplacé vers la corbeille</target>
         <note>key: content.trashed</note>
       </trans-unit>
-      <trans-unit id="242a195e1172964f09692a16fc39ccb8a2b69605" resname="content.updated">
+      <trans-unit id="242a195e1172964f09692a16fc39ccb8a2b69605" resname="content.updated" approved="yes">
         <source>Content updated</source>
-        <target state="translated">Contenu mis à jour</target>
+        <target state="final">Contenu mis à jour</target>
         <note>key: content.updated</note>
       </trans-unit>
       <trans-unit id="382ab608837ac7a3db830601fd7566b42f2e3fa1" resname="dashboard.tab.all_scheduled.empty">
@@ -61,14 +61,14 @@
         <target state="translated">Aucune planification de publication.</target>
         <note>key: dashboard.tab.my_scheduled.empty</note>
       </trans-unit>
-      <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
+      <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type" approved="yes">
         <source>Content Type</source>
-        <target state="translated">Type de Contenu</target>
+        <target state="final">Type de Contenu</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
-      <trans-unit id="841a1c1c491e1adec03ce7e9476879c4bb32edb7" resname="dashboard.table.contributor">
+      <trans-unit id="841a1c1c491e1adec03ce7e9476879c4bb32edb7" resname="dashboard.table.contributor" approved="yes">
         <source>Contributor</source>
-        <target state="translated">Contributeur</target>
+        <target state="final">Contributeur</target>
         <note>key: dashboard.table.contributor</note>
       </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
