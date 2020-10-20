@@ -16,11 +16,6 @@
         <target state="final">Vissza</target>
         <note>key: pagination.prev_message</note>
       </trans-unit>
-      <trans-unit id="663d5cd498c0849675ac4fd684d4270a1a3f1acb" resname="pagination.viewing" approved="yes">
-        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="final"><![CDATA[<strong>%viewing%</strong> megjelenítése ennyiből:  <strong>%total%</strong> ]]></target>
-        <note>key: pagination.viewing</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
