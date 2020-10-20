@@ -51,20 +51,45 @@
         <target>crwdns215234:0crwdne215234:0</target>
         <note>key: authentication.reset_your_password</note>
       </trans-unit>
-      <trans-unit id="8785f4abdfdf72fe9001fe0553c6e3a582cfcc08" resname="authentication.submit">
-        <source>Login</source>
-        <target>crwdns215235:0crwdne215235:0</target>
-        <note>key: authentication.submit</note>
+      <trans-unit id="21689a7153c422f3a4d27fa44d04d6708842a194" resname="authentication.reset_your_password.cancel">
+        <source>Cancel</source>
+        <target>crwdns227074:0crwdne227074:0</target>
+        <note>key: authentication.reset_your_password.cancel</note>
+      </trans-unit>
+      <trans-unit id="daab336a9cb12d2d04146c55228268227cf1017a" resname="authentication.sign_in">
+        <source>Sign in</source>
+        <target>crwdns227076:0crwdne227076:0</target>
+        <note>key: authentication.sign_in</note>
       </trans-unit>
       <trans-unit id="9143793289ea0e20c3dc9f752d43cc727f2dba01" resname="authentication.username">
         <source>Username</source>
         <target>crwdns215236:0crwdne215236:0</target>
         <note>key: authentication.username</note>
       </trans-unit>
+      <trans-unit id="da372ec3b84bf86c7c894321765e6a8f2172e20b" resname="base.enter_credentials">
+        <source>Enter your login credentials below.</source>
+        <target>crwdns227078:0crwdne227078:0</target>
+        <note>key: base.enter_credentials</note>
+      </trans-unit>
       <trans-unit id="b1b04388859d233f757e4f6376af3fc317d4baa6" resname="base.footer_copyright">
-        <source>eZ Platform ©1999-%current_year% %ez_link_open%eZ Systems AS%ez_link_close% and others.</source>
-        <target>crwdns216880:0%current_year%crwdnd216880:0%ecrwdnd216880:0%ecrwdnd216880:0%ez_link_close%crwdne216880:0</target>
+        <source><![CDATA[Copyright &#169; IBEXA 1999-%current_year%]]></source>
+        <target><![CDATA[crwdns227080:0%current_year%crwdne227080:0]]></target>
         <note>key: base.footer_copyright</note>
+      </trans-unit>
+      <trans-unit id="c82a33e6a2272aab44ff7b78c90817c0fc8768cb" resname="base.need_assistance">
+        <source>Get to know Ibexa DXP</source>
+        <target>crwdns227082:0crwdne227082:0</target>
+        <note>key: base.need_assistance</note>
+      </trans-unit>
+      <trans-unit id="b5305384fa0fd949ec756891f50f093fd26dd06c" resname="base.sign_in">
+        <source>Sign in to IBEXA DXP</source>
+        <target>crwdns227084:0crwdne227084:0</target>
+        <note>key: base.sign_in</note>
+      </trans-unit>
+      <trans-unit id="34e898c4a61c4925b523416b0c7ecd9574d8e48b" resname="base.visit_support">
+        <source><![CDATA[Visit the official documentation %ez_documentation_link%<br/>or get in touch with us: %ez_contact_link%]]></source>
+        <target><![CDATA[crwdns227086:0%ez_documentation_link%crwdnd227086:0%ez_contact_link%crwdne227086:0]]></target>
+        <note>key: base.visit_support</note>
       </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
@@ -152,18 +177,18 @@
         <note>key: custom_url_alias_add_form.remove</note>
       </trans-unit>
       <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
-        <source><![CDATA[To continue, go back to the <a class="error-page__link" href="%dashboard%">dashboard</a> or <a class="error-page__link" href="%search%">search</a> for another Content item.]]></source>
-        <target><![CDATA[crwdns222596:0%dashboard%crwdnd222596:0%search%crwdne222596:0]]></target>
+        <source><![CDATA[Please contact your Administrator to request access to this content or modify your profile.<br/>Otherwise, go back to <a class="error-page__link" href="%dashboard%">dashboard</a> or <a class="error-page__link" href="%search%">search</a> for another Content item.]]></source>
+        <target><![CDATA[crwdns227088:0%dashboard%crwdnd227088:0%search%crwdne227088:0]]></target>
         <note>key: error.page.403.actions</note>
       </trans-unit>
-      <trans-unit id="2532cb9ce6fdf46258c107f3d20888c506115ef6" resname="error.page.403.message">
-        <source><![CDATA[Error 403: you don't have permissions to access this page.<br/>Contact your Administrator to request access to this content.]]></source>
-        <target><![CDATA[crwdns222598:0crwdne222598:0]]></target>
-        <note>key: error.page.403.message</note>
+      <trans-unit id="d0b5337e551b64f59973449bbdcf7914c2102a6c" resname="error.page.403.sub_title">
+        <source>Not possible to retrieve or access this page.</source>
+        <target>crwdns227090:0crwdne227090:0</target>
+        <note>key: error.page.403.sub_title</note>
       </trans-unit>
       <trans-unit id="b1712cfa4c13874debdcc0f1f4a3b9fa4af3c966" resname="error.page.403.title">
-        <source>You don't have permission for this page.</source>
-        <target>crwdns222600:0crwdne222600:0</target>
+        <source>You don't have permission</source>
+        <target>crwdns227092:0crwdne227092:0</target>
         <note>key: error.page.403.title</note>
       </trans-unit>
       <trans-unit id="638be721c063eee72e70484fe99a25b2a990bb18" resname="error.page.404.actions">
@@ -172,13 +197,18 @@
         <note>key: error.page.404.actions</note>
       </trans-unit>
       <trans-unit id="7027b2adcf028b82111334763e40823cd85a52fa" resname="error.page.404.message">
-        <source><![CDATA[Error 404: the page you requested was not found.<br/>It might have been deleted or it is temporarily unavailable.]]></source>
-        <target><![CDATA[crwdns222604:0crwdne222604:0]]></target>
+        <source><![CDATA[The page you requested was not found.<br/> It might have been deleted or it is temporarily unavailable.]]></source>
+        <target><![CDATA[crwdns227094:0crwdne227094:0]]></target>
         <note>key: error.page.404.message</note>
       </trans-unit>
+      <trans-unit id="ffa7f20226d38a989f6c931264bd4cf485b435e6" resname="error.page.404.sub_title">
+        <source>You probably weren't expecting to land here.</source>
+        <target>crwdns227096:0crwdne227096:0</target>
+        <note>key: error.page.404.sub_title</note>
+      </trans-unit>
       <trans-unit id="156b8a7f797412e60bdba432064e2dade6d4a7af" resname="error.page.404.title">
-        <source>Page not found.</source>
-        <target>crwdns222606:0crwdne222606:0</target>
+        <source>Page not found</source>
+        <target>crwdns227098:0crwdne227098:0</target>
         <note>key: error.page.404.title</note>
       </trans-unit>
       <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
@@ -187,13 +217,18 @@
         <note>key: error.page.default.actions</note>
       </trans-unit>
       <trans-unit id="8338c190462d420926edf71e8d4cddcae710d361" resname="error.page.default.message">
-        <source>Error 500: internal server error. The server was unable to complete your request because of an internal problem.</source>
-        <target>crwdns222610:0crwdne222610:0</target>
+        <source>The server was unable to complete your request because of an internal problem.</source>
+        <target>crwdns227100:0crwdne227100:0</target>
         <note>key: error.page.default.message</note>
       </trans-unit>
+      <trans-unit id="37404d823f9c9b5ee00f26e4783e5e98d2955750" resname="error.page.default.sub_title">
+        <source>We apologize for the internal server error.</source>
+        <target>crwdns227102:0crwdne227102:0</target>
+        <note>key: error.page.default.sub_title</note>
+      </trans-unit>
       <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title">
-        <source>Something went wrong. Sorry!</source>
-        <target>crwdns215250:0crwdne215250:0</target>
+        <source>Something went wrong</source>
+        <target>crwdns227104:0crwdne227104:0</target>
         <note>key: error.page.default.title</note>
       </trans-unit>
       <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
@@ -205,6 +240,11 @@
         <source>Remove author</source>
         <target>crwdns215252:0crwdne215252:0</target>
         <note>key: ezauthor.action.delete</note>
+      </trans-unit>
+      <trans-unit id="8c3f0606ebb870dd8113cca42da7510414c5a0a8" resname="ezplatform.forgot_password.reset_your_password.reason.migration">
+        <source>Your password has expired, change it.</source>
+        <target>crwdns227106:0crwdne227106:0</target>
+        <note>key: ezplatform.forgot_password.reset_your_password.reason.migration</note>
       </trans-unit>
       <trans-unit id="f73d03811ba3033d6b44986d55ca728c5a88b168" resname="ezplatform.forgot_user_password.contact_administrator">
         <source>If you do not remember your login, contact your Administrator.</source>
@@ -270,6 +310,11 @@
         <target>crwdns215262:0crwdne215262:0</target>
         <note>key: modal.cancel</note>
       </trans-unit>
+      <trans-unit id="ec403158b3fd1e13dbc66f2de51e235fdb178188" resname="modal.close">
+        <source>Close</source>
+        <target>crwdns227108:0crwdne227108:0</target>
+        <note>key: modal.close</note>
+      </trans-unit>
       <trans-unit id="9eae227b7c27ab230a6d0ce5947d93e7d2e1626f" resname="modal.delete">
         <source>Delete</source>
         <target>crwdns215263:0crwdne215263:0</target>
@@ -284,11 +329,6 @@
         <source>From date - to date</source>
         <target>crwdns223274:0crwdne223274:0</target>
         <note>key: search.date.range</note>
-      </trans-unit>
-      <trans-unit id="03d6d5922fd2012e155e50306eaf98e2dfeb21c6" resname="search.section.any">
-        <source>Any section</source>
-        <target>crwdns215265:0crwdne215265:0</target>
-        <note>key: search.section.any</note>
       </trans-unit>
       <trans-unit id="9567771350aff93580f743089937b0c8fe31058e" resname="section.assign,content">
         <source>Assign Content</source>
@@ -335,10 +375,30 @@
         <target>crwdns215274:0crwdne215274:0</target>
         <note>key: trash.form.cancel</note>
       </trans-unit>
+      <trans-unit id="7f37e5f732ee7101a696a881cf22045bcd11359c" resname="trash.modal.close">
+        <source>Close</source>
+        <target>crwdns227110:0crwdne227110:0</target>
+        <note>key: trash.modal.close</note>
+      </trans-unit>
       <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
         <source>Are you sure you want to send this Content item to Trash?</source>
         <target>crwdns222630:0crwdne222630:0</target>
         <note>key: trash.modal.message</note>
+      </trans-unit>
+      <trans-unit id="3a46b65a9b678fb947285b2c9509943ee6764195" resname="trash.search.any_content_types">
+        <source>Any Content Types</source>
+        <target>crwdns227112:0crwdne227112:0</target>
+        <note>key: trash.search.any_content_types</note>
+      </trans-unit>
+      <trans-unit id="9a88e9a17cd461dcd7d54dca50c6d3b981aba7fc" resname="trash.search.any_time">
+        <source>Any time</source>
+        <target>crwdns227114:0crwdne227114:0</target>
+        <note>key: trash.search.any_time</note>
+      </trans-unit>
+      <trans-unit id="c2b2679781ad4a22bb232e2ab34669ffe49c760b" resname="trash.search.section.any">
+        <source>Any Section</source>
+        <target>crwdns227116:0crwdne227116:0</target>
+        <note>key: trash.search.section.any</note>
       </trans-unit>
       <trans-unit id="bd97a738137e75de44544db1104bab3a46222791" resname="trash_asset.modal.message_body">
         <source>If you wish to delete these assets too, first make sure they are not used by other content. To check, go to the asset preview and look at its content Relations in the Relations tab.</source>
