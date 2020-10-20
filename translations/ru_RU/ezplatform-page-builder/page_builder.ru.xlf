@@ -31,11 +31,6 @@
         <target state="translated">Закрыть</target>
         <note>key: layout_selector.close.label</note>
       </trans-unit>
-      <trans-unit id="d261894808d96929e7ff95449a433021cb9476ec" resname="layout_selector.create.confirm.label">
-        <source>Create</source>
-        <target state="translated">Создать</target>
-        <note>key: layout_selector.create.confirm.label</note>
-      </trans-unit>
       <trans-unit id="cacca78c6c00e60e652f42e41b6c404d76548a59" resname="layout_selector.create.title">
         <source>Page creation</source>
         <target state="translated">Создание страницы</target>
