@@ -51,20 +51,10 @@
         <target state="translated">Réinitialiser votre mot de passe</target>
         <note>key: authentication.reset_your_password</note>
       </trans-unit>
-      <trans-unit id="8785f4abdfdf72fe9001fe0553c6e3a582cfcc08" resname="authentication.submit" approved="yes">
-        <source>Login</source>
-        <target state="final">Ouvrir une session</target>
-        <note>key: authentication.submit</note>
-      </trans-unit>
       <trans-unit id="9143793289ea0e20c3dc9f752d43cc727f2dba01" resname="authentication.username" approved="yes">
         <source>Username</source>
         <target state="final">Nom d'utilisateur</target>
         <note>key: authentication.username</note>
-      </trans-unit>
-      <trans-unit id="b1b04388859d233f757e4f6376af3fc317d4baa6" resname="base.footer_copyright">
-        <source>eZ Platform ©1999-%current_year% %ez_link_open%eZ Systems AS%ez_link_close% and others.</source>
-        <target state="translated">eZ Platform ©1999-%current_year% %ez_link_open%eZ Systems AS%ez_link_close% et autres.</target>
-        <note>key: base.footer_copyright</note>
       </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
@@ -151,50 +141,15 @@
         <target state="translated">Supprimer</target>
         <note>key: custom_url_alias_add_form.remove</note>
       </trans-unit>
-      <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
-        <source><![CDATA[To continue, go back to the <a class="error-page__link" href="%dashboard%">dashboard</a> or <a class="error-page__link" href="%search%">search</a> for another Content item.]]></source>
-        <target state="translated"><![CDATA[Pour continuer, retournez au <a class="error-page__link" href="%dashboard%">tableau de bord</a> ou <a class="error-page__link" href="%search%">recherchez</a> un autre élément de Contenu.]]></target>
-        <note>key: error.page.403.actions</note>
-      </trans-unit>
-      <trans-unit id="2532cb9ce6fdf46258c107f3d20888c506115ef6" resname="error.page.403.message">
-        <source><![CDATA[Error 403: you don't have permissions to access this page.<br/>Contact your Administrator to request access to this content.]]></source>
-        <target state="translated"><![CDATA[Erreur 403: vous n'avez pas les permissions pour accéder à cette page.<br/>Contactez votre administrateur pour demander l'accès à ce Contenu.]]></target>
-        <note>key: error.page.403.message</note>
-      </trans-unit>
-      <trans-unit id="b1712cfa4c13874debdcc0f1f4a3b9fa4af3c966" resname="error.page.403.title">
-        <source>You don't have permission for this page.</source>
-        <target state="translated">Vous n'avez pas les droits d'accès à cette page.</target>
-        <note>key: error.page.403.title</note>
-      </trans-unit>
       <trans-unit id="638be721c063eee72e70484fe99a25b2a990bb18" resname="error.page.404.actions">
         <source><![CDATA[Check the URL for a typo and try again.<br/>Otherwise, go back to the <a class="error-page__link" href="%dashboard%">dashboard</a> or <a class="error-page__link" href="%search%">search</a> for another Content item.]]></source>
         <target state="translated"><![CDATA[Vérifiez s'il n'y a pas de faute de frappe dans l'URL et réessayez.<br/>Sinon, retournez au tableau de bord <a class="error-page__link" href="%dashboard%"></a> ou <a class="error-page__link" href="%search%">recherchez</a> un autre élément de Contenu.]]></target>
         <note>key: error.page.404.actions</note>
       </trans-unit>
-      <trans-unit id="7027b2adcf028b82111334763e40823cd85a52fa" resname="error.page.404.message">
-        <source><![CDATA[Error 404: the page you requested was not found.<br/>It might have been deleted or it is temporarily unavailable.]]></source>
-        <target state="translated"><![CDATA[Erreur 404 : la page que vous avez demandée n'a pas été trouvée.<br/>Elle a peut-être été supprimée ou est temporairement indisponible.]]></target>
-        <note>key: error.page.404.message</note>
-      </trans-unit>
-      <trans-unit id="156b8a7f797412e60bdba432064e2dade6d4a7af" resname="error.page.404.title">
-        <source>Page not found.</source>
-        <target state="translated">Page non trouvée.</target>
-        <note>key: error.page.404.title</note>
-      </trans-unit>
       <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
         <source><![CDATA[Contact your Administrator and inform them about the time the error occurred, the URL in your browser window, and anything related that you think may have caused the error.<br/>You can also go back or try to reload the application.]]></source>
         <target state="translated"><![CDATA[Veuillez contacter votre administrateur et l'informer du moment où l’erreur s’est produite, de l’URL dans la fenêtre de votre navigateur ainsi que de n’importe quelle information ayant un lien avec l’erreur.<br/>Vous pouvez également revenir en arrière ou essayez de recharger l’application.]]></target>
         <note>key: error.page.default.actions</note>
-      </trans-unit>
-      <trans-unit id="8338c190462d420926edf71e8d4cddcae710d361" resname="error.page.default.message">
-        <source>Error 500: internal server error. The server was unable to complete your request because of an internal problem.</source>
-        <target state="translated">Erreur 500 : erreur interne du serveur. Le serveur n'a pas pu répondre à votre demande en raison d'un problème interne.</target>
-        <note>key: error.page.default.message</note>
-      </trans-unit>
-      <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title">
-        <source>Something went wrong. Sorry!</source>
-        <target state="translated">Quelque chose c'est mal passé. Désolé !</target>
-        <note>key: error.page.default.title</note>
       </trans-unit>
       <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
         <source>Add author</source>
@@ -293,11 +248,6 @@
         <source>From date - to date</source>
         <target state="translated">De la date - jusqu'à la date</target>
         <note>key: search.date.range</note>
-      </trans-unit>
-      <trans-unit id="03d6d5922fd2012e155e50306eaf98e2dfeb21c6" resname="search.section.any">
-        <source>Any section</source>
-        <target state="translated">N’importe quelle section</target>
-        <note>key: search.section.any</note>
       </trans-unit>
       <trans-unit id="9567771350aff93580f743089937b0c8fe31058e" resname="section.assign,content">
         <source>Assign Content</source>
