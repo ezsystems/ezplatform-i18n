@@ -186,6 +186,11 @@
         <target>crwdns215189:0crwdne215189:0</target>
         <note>key: main__admin__systeminfo</note>
       </trans-unit>
+      <trans-unit id="82375ef2c63989a07c692f526407d75316414dff" resname="main__admin__url_management">
+        <source>URL Management</source>
+        <target>crwdns227068:0crwdne227068:0</target>
+        <note>key: main__admin__url_management</note>
+      </trans-unit>
       <trans-unit id="975e43875a74d509e3e0cedd926de1223d09cdf4" resname="main__admin__users">
         <source>Users</source>
         <target>crwdns215190:0crwdne215190:0</target>
@@ -200,11 +205,6 @@
         <source>Content structure</source>
         <target>crwdns215192:0crwdne215192:0</target>
         <note>key: main__content__content_structure</note>
-      </trans-unit>
-      <trans-unit id="2887dd09dcb0f287e947da3e735133c540991df1" resname="main__content__linkmanager">
-        <source>Link Manager</source>
-        <target>crwdns215193:0crwdne215193:0</target>
-        <note>key: main__content__linkmanager</note>
       </trans-unit>
       <trans-unit id="e8c5aefc86b31ee2bed9359787ddf0a2b1cad4a6" resname="main__content__media">
         <source>Media</source>
@@ -375,6 +375,16 @@
         <source>Save</source>
         <target>crwdns215223:0crwdne215223:0</target>
         <note>key: url_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="279fb028abf07d3fadda07ff6e00b91f0fd53932" resname="url_wildcard_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target>crwdns227070:0crwdne227070:0</target>
+        <note>key: url_wildcard_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="02bb48356132caeef070ebc7eb4d266884044e85" resname="url_wildcard_edit__sidebar_right__save">
+        <source>Save</source>
+        <target>crwdns227072:0crwdne227072:0</target>
+        <note>key: url_wildcard_edit__sidebar_right__save</note>
       </trans-unit>
       <trans-unit id="8acab9e005da20efe4001fac5f84ff2c835bb7c8" resname="user__bookmark">
         <source>Bookmarks</source>
