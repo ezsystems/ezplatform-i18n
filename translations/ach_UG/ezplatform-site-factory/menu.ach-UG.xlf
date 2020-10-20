@@ -11,6 +11,16 @@
         <target>crwdns221840:0crwdne221840:0</target>
         <note>key: ezplatform_site_factory</note>
       </trans-unit>
+      <trans-unit id="41bd44353355b16a7264a783b7060a544d0f0245" resname="ezplatform_site_factory_skeletons">
+        <source>Site skeletons</source>
+        <target>crwdns227238:0crwdne227238:0</target>
+        <note>key: ezplatform_site_factory_skeletons</note>
+      </trans-unit>
+      <trans-unit id="5f4079f5dc51655c71e091c2607220c238059e52" resname="header.list">
+        <source>List</source>
+        <target>crwdns227240:0crwdne227240:0</target>
+        <note>key: header.list</note>
+      </trans-unit>
       <trans-unit id="47856322d947e9bcd834a6c7b41f3a023411723d" resname="site_create__sidebar_right__cancel">
         <source>Discard changes</source>
         <target>crwdns221842:0crwdne221842:0</target>
