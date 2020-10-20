@@ -51,6 +51,11 @@
         <target>crwdns214901:0crwdne214901:0</target>
         <note>key: content.field_type.ezmedia.player_settings</note>
       </trans-unit>
+      <trans-unit id="c15c1fb87393dc433715e52ccded62d91f8743a2" resname="ezbinaryfile.action.download">
+        <source>Download</source>
+        <target>crwdns226938:0crwdne226938:0</target>
+        <note>key: ezbinaryfile.action.download</note>
+      </trans-unit>
       <trans-unit id="b244ed2b3b30d53cd73ea9d25c21c7d938e97973" resname="ezbinaryfile.action.preview">
         <source>Preview</source>
         <target>crwdns214902:0crwdne214902:0</target>
