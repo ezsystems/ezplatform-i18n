@@ -27,18 +27,18 @@
         <note>key: search.clear</note>
       </trans-unit>
       <trans-unit id="52574f2c1d5e0b3ffcd4f105b770e91ae1e519fa" resname="search.content.type">
-        <source>Content Type:</source>
-        <target>crwdns215399:0crwdne215399:0</target>
+        <source>Content Type</source>
+        <target>crwdns227122:0crwdne227122:0</target>
         <note>key: search.content.type</note>
       </trans-unit>
       <trans-unit id="738c66eb92535505455b34b383f8089fb1bc0479" resname="search.created">
-        <source>Created:</source>
-        <target>crwdns215400:0crwdne215400:0</target>
+        <source>Created</source>
+        <target>crwdns227124:0crwdne227124:0</target>
         <note>key: search.created</note>
       </trans-unit>
       <trans-unit id="a32fe0699ebb4545ab1a39bab0311633c3f92fc3" resname="search.creator">
-        <source>Creator:</source>
-        <target>crwdns215401:0crwdne215401:0</target>
+        <source>Creator</source>
+        <target>crwdns227126:0crwdne227126:0</target>
         <note>key: search.creator</note>
       </trans-unit>
       <trans-unit id="3d9f547776de4846ff54fcd1cd173ac5937e5a46" resname="search.creator_input.placeholder">
@@ -67,8 +67,8 @@
         <note>key: search.headline</note>
       </trans-unit>
       <trans-unit id="c2e9df867c114a94918c00f775d3a54d24358dfa" resname="search.last.modified">
-        <source>Last modified:</source>
-        <target>crwdns215409:0crwdne215409:0</target>
+        <source>Last modified</source>
+        <target>crwdns227128:0crwdne227128:0</target>
         <note>key: search.last.modified</note>
       </trans-unit>
       <trans-unit id="2d007a8d9fc080db790dc5c45c12dd369d144fbe" resname="search.last_month">
@@ -107,8 +107,8 @@
         <note>key: search.perform</note>
       </trans-unit>
       <trans-unit id="34cd11448c2016e5c0a098947eb3e2aef01a9ac5" resname="search.section">
-        <source>Section:</source>
-        <target>crwdns215418:0crwdne215418:0</target>
+        <source>Section</source>
+        <target>crwdns227130:0crwdne227130:0</target>
         <note>key: search.section</note>
       </trans-unit>
       <trans-unit id="1ac4d5da88d06451590cade73ec7e2c4a8b98c2e" resname="search.select_content">
@@ -117,8 +117,8 @@
         <note>key: search.select_content</note>
       </trans-unit>
       <trans-unit id="b484be9d33f5cd9961f4ddd89c628f2cbca2a6a1" resname="search.subtree">
-        <source>Subtree:</source>
-        <target>crwdns216730:0crwdne216730:0</target>
+        <source>Subtree</source>
+        <target>crwdns227132:0crwdne227132:0</target>
         <note>key: search.subtree</note>
       </trans-unit>
       <trans-unit id="777cc1ef279096d5a978aa3553e9434d828f8248" resname="search.tips.check_spelling">
