@@ -11,6 +11,11 @@
         <target>crwdns221204:0crwdne221204:0</target>
         <note>key: policy.limitation.identifier.class</note>
       </trans-unit>
+      <trans-unit id="57f04cb9d7b09f4314ca3855ee020325d3195ab3" resname="policy.limitation.identifier.fieldgroup">
+        <source>FieldGroup</source>
+        <target>crwdns226940:0crwdne226940:0</target>
+        <note>key: policy.limitation.identifier.fieldgroup</note>
+      </trans-unit>
       <trans-unit id="76adf2a27f1ae0ab14b623729cd3f281a6e2c285" resname="policy.limitation.identifier.group">
         <source>Content Type Group</source>
         <target>crwdns221206:0crwdne221206:0</target>
@@ -65,6 +70,11 @@
         <source>Section</source>
         <target>crwdns221226:0crwdne221226:0</target>
         <note>key: policy.limitation.identifier.section</note>
+      </trans-unit>
+      <trans-unit id="659face270db8822838d3efd32b3a9b72a6dc5f6" resname="policy.limitation.identifier.segmentgroup">
+        <source>SegmentGroup</source>
+        <target>crwdns226942:0crwdne226942:0</target>
+        <note>key: policy.limitation.identifier.segmentgroup</note>
       </trans-unit>
       <trans-unit id="548bc922c693c8259cbfd3354451a3035e2fa6f6" resname="policy.limitation.identifier.siteaccess">
         <source>SiteAccess</source>
