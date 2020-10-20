@@ -6,10 +6,10 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="23bfb0e222eeac1bfa481ba09c5b4aea1d0295da" resname="url.edit">
+      <trans-unit id="ac3c0d7621f2d6d5f452060a8c639fdbe760ef3a" resname="url.breadcrumb.edit">
         <source>Edit</source>
         <target state="translated">Modifica</target>
-        <note>key: url.edit</note>
+        <note>key: url.breadcrumb.edit</note>
       </trans-unit>
       <trans-unit id="ed6ebb919604a265c372578f297370881bfe4220" resname="url.label.created">
         <source>Created</source>
