@@ -11,11 +11,6 @@
         <target state="translated">Обзор содержимого</target>
         <note>key: browse.title</note>
       </trans-unit>
-      <trans-unit id="005c6256355de38d3f5cb90b08945053ac28cf9e" resname="ezobjectrelationlist.title">
-        <source>Select content</source>
-        <target state="translated">Выбрать содержимое</target>
-        <note>key: ezobjectrelationlist.title</note>
-      </trans-unit>
       <trans-unit id="56faf4ff9f2deaae1d34c1abcecae0413dc24a78" resname="move.title">
         <source>Select destination</source>
         <target state="translated">Выберите пункт назначения</target>
