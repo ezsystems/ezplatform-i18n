@@ -12,8 +12,8 @@
         <note>key: cannot.display.this.page</note>
       </trans-unit>
       <trans-unit id="f298d2852684440367a0b6c1549f818ecd6ceb3b" resname="preview.could.not.be.loaded">
-        <source>The preview could not be loaded. This preview page is on another domain that is not configured to work with the Page Builder.</source>
-        <target>crwdns223066:0crwdne223066:0</target>
+        <source>The preview couldn’t be loaded. This preview page is on another domain, that is not configured to work with Page Builder.</source>
+        <target>crwdns227186:0crwdne227186:0</target>
         <note>key: preview.could.not.be.loaded</note>
       </trans-unit>
       <trans-unit id="a89fa23dda796749c6bb7c0290ee22ae4a731c23" resname="you.can.go.back.to.previous.page">
