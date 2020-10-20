@@ -76,40 +76,10 @@
         <target state="translated">En ligne</target>
         <note>key: site.factory.page.status.online</note>
       </trans-unit>
-      <trans-unit id="d578e1f85cbd8df68aebb09e488a60d2869f467e" resname="site.label.created">
-        <source>Created</source>
-        <target state="translated">Créé</target>
-        <note>key: site.label.created</note>
-      </trans-unit>
-      <trans-unit id="2e615a5fd6dfb27060236fbda119f04a58b5fcc0" resname="site.label.main_languages">
-        <source>Main languages</source>
-        <target state="translated">Langues principales</target>
-        <note>key: site.label.main_languages</note>
-      </trans-unit>
-      <trans-unit id="28f4324b209c4a68dd684a336b5efc5e38119262" resname="site.label.name">
-        <source>Name</source>
-        <target state="translated">Nom</target>
-        <note>key: site.label.name</note>
-      </trans-unit>
       <trans-unit id="6c045a143a764bfdd04985e957bb1b9cbef43b9f" resname="site.list">
         <source>Sites</source>
         <target state="translated">Sites</target>
         <note>key: site.list</note>
-      </trans-unit>
-      <trans-unit id="9c4befbbe23d5f95db84568be39e30a6c9479881" resname="site.list.no_sites">
-        <source>-</source>
-        <target state="translated">Aucun</target>
-        <note>key: site.list.no_sites</note>
-      </trans-unit>
-      <trans-unit id="25638252c36c08f88974b99ac4fb484b52b168b8" resname="site.list.title">
-        <source>Sites (%count%)</source>
-        <target state="translated">Sites (%count%)</target>
-        <note>key: site.list.title</note>
-      </trans-unit>
-      <trans-unit id="8b94081bbe2854988afb5e47ea8362219f08942e" resname="site.modal.delete.message">
-        <source>Are you sure you want to delete this website and all the related elements?</source>
-        <target state="translated">Êtes-vous sûr de vouloir supprimer ce site ainsi que tous ses contenus liés ?</target>
-        <note>key: site.modal.delete.message</note>
       </trans-unit>
       <trans-unit id="5369420ba17d5d62a4ebebfade4873d2b82cf591" resname="site.update.success">
         <source>Site '%name%' has been update.</source>
