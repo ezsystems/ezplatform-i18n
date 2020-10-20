@@ -132,8 +132,8 @@
         <note>key: policy.view.list.title.count</note>
       </trans-unit>
       <trans-unit id="9b1c2c53df24e9d0d141037860eb87d2878bdb05" resname="policy.view.policy.title">
-        <source>Editing Policy of type:</source>
-        <target>crwdns222732:0crwdne222732:0</target>
+        <source>Policy type:</source>
+        <target>crwdns227120:0crwdne227120:0</target>
         <note>key: policy.view.policy.title</note>
       </trans-unit>
       <trans-unit id="e2b7ae0acb75f99dc7943574a63b36abbb6c42bf" resname="role.assignment_create.success">
