@@ -20,9 +20,9 @@
         <source><![CDATA[Tip: If you upgrade to eZ Platform Enterprise you'll get access to:
                         <a target="_blank" href="%license_url%">A business friendly license</a>,
                         <a target="_blank" href="%ee_product_url%">several productivity features</a>,
-                        <a target="_blank" href="%support_service_url%">professional Support</a> and
-                        <a target="_blank" href="%service_life_url%">longer maintenance periode of your release</a>.]]></source>
-        <target><![CDATA[crwdns222320:0%license_url%crwdnd222320:0%ee_product_url%crwdnd222320:0%support_service_url%crwdnd222320:0%service_life_url%crwdne222320:0]]></target>
+                        <a target="_blank" href="%support_service_url%">professional support</a> and a
+                        <a target="_blank" href="%service_life_url%">longer maintenance period of your release</a>.]]></source>
+        <target><![CDATA[crwdns226930:0%license_url%crwdnd226930:0%ee_product_url%crwdnd226930:0%support_service_url%crwdnd226930:0%service_life_url%crwdne226930:0]]></target>
         <note>key: dashboard.ez_version.community_end_of_maintenance_upgrade</note>
       </trans-unit>
       <trans-unit id="7eb6ab2973439efa8ff820310952e02bc81209cb" resname="dashboard.ez_version.community_severity_non">
@@ -38,8 +38,8 @@
         <note>key: dashboard.ez_version.end_of_life_upgrade</note>
       </trans-unit>
       <trans-unit id="59967d79ef1f521fd483dbb057f15bc756b80423" resname="dashboard.ez_version.non_stable_ee">
-        <source><![CDATA[If you need assistance, don't hesitate to <a target="_blank" href="%support_url%">get in touch with eZ support</a>.]]></source>
-        <target><![CDATA[crwdns222326:0%support_url%crwdne222326:0]]></target>
+        <source><![CDATA[If you need assistance, don't hesitate to <a target="_blank" href="%support_url%">get in touch with Ibexa support</a>.]]></source>
+        <target><![CDATA[crwdns226932:0%support_url%crwdne226932:0]]></target>
         <note>key: dashboard.ez_version.non_stable_ee</note>
       </trans-unit>
       <trans-unit id="b6fb485c551af76b514c1ed339cc2607146b7ebe" resname="dashboard.ez_version.non_stable_packages">
@@ -49,14 +49,14 @@
       </trans-unit>
       <trans-unit id="c1fb5ba9fd547e30a49a4e1895822e69cd4a9dbc" resname="dashboard.ez_version.release_not_determined">
         <source><![CDATA[The system could not find your <code>composer.lock</code> file. It's needed to determine information about
-            your eZ install, and recommended to be kept on project development to make sure same package versions are used across all environments.]]></source>
-        <target><![CDATA[crwdns222330:0crwdne222330:0]]></target>
+            your Ibexa install, and recommended to be kept on project development to make sure same package versions are used across all environments.]]></source>
+        <target><![CDATA[crwdns226934:0crwdne226934:0]]></target>
         <note>key: dashboard.ez_version.release_not_determined</note>
       </trans-unit>
       <trans-unit id="d2da7429d16bd8443b6f2368319e64d6e537dfd6" resname="dashboard.ez_version.trial_contact">
-        <source><![CDATA[<a target="_blank" href="%contact_url%">Contact eZ or its partner(s)</a> to purchase a subscription
+        <source><![CDATA[<a target="_blank" href="%contact_url%">Contact Ibexa or its partner(s)</a> to purchase a subscription
                 and follow the <a target="_blank" href="%install_ee%">online documentation</a> to configure composer.json 'repositories' url for 'bul' instead of 'ttl'.]]></source>
-        <target><![CDATA[crwdns222332:0%contact_url%crwdnd222332:0%install_ee%crwdne222332:0]]></target>
+        <target><![CDATA[crwdns226936:0%contact_url%crwdnd226936:0%install_ee%crwdne226936:0]]></target>
         <note>key: dashboard.ez_version.trial_contact</note>
       </trans-unit>
       <trans-unit id="e0a1a502c52dddb0acc187d429d7e7e4b754e169" resname="dashboard.ez_version.trial_end_of_maintenance">
