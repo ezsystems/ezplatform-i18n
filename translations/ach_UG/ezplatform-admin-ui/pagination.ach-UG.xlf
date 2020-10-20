@@ -17,8 +17,8 @@
         <note>key: pagination.prev_message</note>
       </trans-unit>
       <trans-unit id="663d5cd498c0849675ac4fd684d4270a1a3f1acb" resname="pagination.viewing">
-        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target><![CDATA[crwdns215334:0%viewing%crwdnd215334:0%total%crwdne215334:0]]></target>
+        <source>Viewing %viewing% out of %total% items</source>
+        <target>crwdns227118:0%viewing%crwdnd227118:0%total%crwdne227118:0</target>
         <note>key: pagination.viewing</note>
       </trans-unit>
     </body>
