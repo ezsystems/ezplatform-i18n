@@ -1,131 +1,65 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 # Synchronize translation sources from all packages to ezplatform-i18n
 echo '# Translation synchronization';
 
 
 echo '# Mirror the translation files';
 
-echo "ezsystems/ezplatform-admin-ui"
-rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-admin-ui/*
-cp ./vendor/ezsystems/ezplatform-admin-ui/src/bundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-admin-ui
+declare -A packages
+packages[ezplatform-admin-ui]=ezplatform-admin-ui/src/bundle/Resources/translations
+packages[ezplatform-kernel]=ezplatform-kernel/eZ/Bundle/EzPublishCoreBundle/Resources/translations
+packages[ezplatform-user]=ezplatform-user/src/bundle/Resources/translations
+packages[ezplatform-matrix-fieldtype]=ezplatform-matrix-fieldtype/src/bundle/Resources/translations
+packages[date-based-publisher]=date-based-publisher/bundle/Resources/translations
+packages[ezplatform-page-builder]=ezplatform-page-builder/src/bundle/Resources/translations
+packages[ezplatform-page-fieldtype]=ezplatform-page-fieldtype/src/bundle/Resources/translations
+packages[ezplatform-form-builder]=ezplatform-form-builder/src/bundle/Resources/translations
+packages[ezplatform-workflow]=ezplatform-workflow/src/bundle/Resources/translations
+packages[ezplatform-richtext]=ezplatform-richtext/src/bundle/Resources/translations
+packages[ezplatform-calendar]=ezplatform-calendar/src/bundle/Resources/translations
+packages[ezplatform-content-forms]=ezplatform-content-forms/src/bundle/Resources/translations
+packages[ezplatform-site-factory]=ezplatform-site-factory/src/bundle/Resources/translations
+packages[ezplatform-version-comparison]=ezplatform-version-comparison/src/bundle/Resources/translations
+packages[ezplatform-query-fieldtype]=ezplatform-query-fieldtype/src/Symfony/Resources/translations
+packages[ezplatform-connector-dam]=ezplatform-connector-dam/src/bundle/Resources/translations
+packages[ezplatform-permissions]=ezplatform-permissions/src/bundle/Resources/translations
+packages[ezplatform-search]=ezplatform-search/src/bundle/Resources/translations
+packages[ezplatform-segmentation]=ezplatform-segmentation/src/bundle/translations
+packages[ezcommerce-admin-ui]=ezcommerce-admin-ui/src/bundle/Resources/translations
+packages[ezcommerce-base-design]=ezcommerce-base-design/Resources/translations
+packages[ezcommerce-erp-admin]=ezcommerce-erp-admin/Resources/translations
+packages[ezcommerce-fieldtypes]=ezcommerce-fieldtypes/src/bundle/Resources/translations
+packages[ezcommerce-order-history]=ezcommerce-order-history/src/Siso/Bundle/OrderHistoryBundle/Resources/translations
+packages[ezcommerce-price-engine]=ezcommerce-price-engine/Resources/translations
+packages[ezcommerce-shop-eshop]=ezcommerce-shop/src/Silversolutions/Bundle/EshopBundle/Resources/translations
+packages[ezcommerce-shop-newsletter]=ezcommerce-shop/src/Siso/Bundle/NewsletterBundle/Resources/translations
+packages[ezcommerce-shop-tools]=ezcommerce-shop/src/Siso/Bundle/ToolsBundle/Resources/translations
+packages[ezcommerce-shop-local-order-management]=ezcommerce-shop/src/Siso/Bundle/LocalOrderManagementBundle/Resources/translations
+packages[ezcommerce-shop-quick-order]=ezcommerce-shop/src/Siso/Bundle/QuickOrderBundle/Resources/translations
+packages[ezcommerce-shop-specifications-type]=ezcommerce-shop/src/Siso/Bundle/SpecificationsTypeBundle/Resources/translations
+packages[ezcommerce-shop-search]=ezcommerce-shop/src/Siso/Bundle/SearchBundle/Resources/translations
+packages[ezcommerce-shop-comparison]=ezcommerce-shop/src/Siso/Bundle/ComparisonBundle/Resources/translations
+packages[ezcommerce-shop-voucher]=ezcommerce-shop/src/Siso/Bundle/VoucherBundle/Resources/translations
+packages[ezcommerce-shop-product-selection-type]=ezcommerce-shop/src/Siso/Bundle/ProductSelectionTypeBundle/Resources/translations
+packages[ezcommerce-shop-checkout]=ezcommerce-shop/src/Siso/Bundle/CheckoutBundle/Resources/translations
 
-# the bundle admin-ui-modules moved to admin-ui bundle
 
-# the bundle ezpublish-kernel renamed to ezplatform-kernel
-if [ ! -d "./vendor/ezsystems/ezplatform-kernel" ]; then
-  mkdir "./vendor/ezsystems/ezplatform-i18n/ezplatform-kernel/"
-fi
+for key in "${!packages[@]}";
+do
+  destinationDir="./vendor/ezsystems/ezplatform-i18n/$key/"
+  destinationFiles="./vendor/ezsystems/ezplatform-i18n/$key/*"
+  if [ ! -d $destinationDir ]; then
+    mkdir $destinationDir
+  fi
 
-if [ -d "./vendor/ezsystems/ezplatform-kernel" ]; then
-  echo "ezsystems/ezplatform-kernel"
-  rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-kernel/*
-  cp ./vendor/ezsystems/ezplatform-kernel/eZ/Bundle/EzPublishCoreBundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-kernel
-fi
-
-# the bundle repository-forms is removed
-
-# bundle has no translation anymore
-
-echo "ezsystems/ezplatform-user"
-rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-user/*
-cp ./vendor/ezsystems/ezplatform-user/src/bundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-user
-
-echo "ezsystems/ezplatform-matrix-fieldtype"
-rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-matrix-fieldtype/*
-cp ./vendor/ezsystems/ezplatform-matrix-fieldtype/src/bundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-matrix-fieldtype
-
-if [ -d "./vendor/ezsystems/date-based-publisher" ]; then
-  echo "ezsystems/date-based-publisher"
-  rm -f ./vendor/ezsystems/ezplatform-i18n/date-based-publisher/*
-  cp ./vendor/ezsystems/date-based-publisher/bundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/date-based-publisher
-fi
-
-# the bundle flex-workflow is removed
-
-if [ -d "./vendor/ezsystems/ezplatform-page-builder" ]; then
-  echo "ezsystems/ezplatform-page-builder"
-  rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-page-builder/*
-  cp ./vendor/ezsystems/ezplatform-page-builder/src/bundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-page-builder
-fi
-
-if [ -d "./vendor/ezsystems/ezplatform-page-fieldtype" ]; then
-  echo "ezsystems/ezplatform-page-fieldtype"
-  rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-page-fieldtype/*
-  cp ./vendor/ezsystems/ezplatform-page-fieldtype/src/bundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-page-fieldtype
-fi
-
-if [ -d "./vendor/ezsystems/ezplatform-form-builder" ]; then
-  echo "ezsystems/ezplatform-form-builder"
-  rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-form-builder/*
-  cp ./vendor/ezsystems/ezplatform-form-builder/src/bundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-form-builder
-fi
-
-if [ -d "./vendor/ezsystems/ezplatform-workflow" ]; then
-  echo "ezsystems/ezplatform-workflow"
-  rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-workflow/*
-  cp ./vendor/ezsystems/ezplatform-workflow/src/bundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-workflow
-fi
-
-if [ -d "./vendor/ezsystems/ezplatform-richtext" ]; then
-  echo "ezsystems/ezplatform-richtext"
-  rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-richtext/*
-  cp ./vendor/ezsystems/ezplatform-richtext/src/bundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-richtext
-fi
-
-# added
-if [ ! -d "./vendor/ezsystems/ezplatform-i18n/ezplatform-calendar" ]; then
-  mkdir "./vendor/ezsystems/ezplatform-i18n/ezplatform-calendar"
-fi
-
-if [ -d "./vendor/ezsystems/ezplatform-calendar" ]; then
-  echo "ezsystems/ezplatform-calendar"
-  rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-calendar/*
-  cp ./vendor/ezsystems/ezplatform-calendar/src/bundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-calendar
-fi
-
-# added
-if [ ! -d "./vendor/ezsystems/ezplatform-i18n/ezplatform-content-forms" ]; then
-  mkdir "./vendor/ezsystems/ezplatform-i18n/ezplatform-content-forms"
-fi
-
-if [ -d "./vendor/ezsystems/ezplatform-content-forms" ]; then
-  echo "ezsystems/ezplatform-content-forms"
-  rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-content-forms/*
-  cp ./vendor/ezsystems/ezplatform-content-forms/src/bundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-content-forms
-fi
-
-# added
-if [ ! -d "./vendor/ezsystems/ezplatform-i18n/ezplatform-site-factory" ]; then
-  mkdir "./vendor/ezsystems/ezplatform-i18n/ezplatform-site-factory"
-fi
-
-if [ -d "./vendor/ezsystems/ezplatform-site-factory" ]; then
-  echo "ezsystems/ezplatform-site-factory"
-  rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-site-factory/*
-  cp ./vendor/ezsystems/ezplatform-site-factory/src/bundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-site-factory
-fi
-
-# added
-if [ ! -d "./vendor/ezsystems/ezplatform-i18n/ezplatform-version-comparison" ]; then
-  mkdir "./vendor/ezsystems/ezplatform-i18n/ezplatform-version-comparison"
-fi
-
-if [ -d "./vendor/ezsystems/ezplatform-version-comparison" ]; then
-  echo "ezsystems/ezplatform-version-comparison"
-  rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-version-comparison/*
-  cp ./vendor/ezsystems/ezplatform-version-comparison/src/bundle/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-version-comparison
-fi
-
-# added
-if [ ! -d "./vendor/ezsystems/ezplatform-i18n/ezplatform-query-fieldtype" ]; then
-  mkdir "./vendor/ezsystems/ezplatform-i18n/ezplatform-query-fieldtype"
-fi
-
-if [ -d "./vendor/ezsystems/ezplatform-query-fieldtype" ]; then
-  echo "ezsystems/ezplatform-query-fieldtype"
-  rm -f ./vendor/ezsystems/ezplatform-i18n/ezplatform-query-fieldtype/*
-  cp ./vendor/ezsystems/ezplatform-query-fieldtype/src/Symfony/Resources/translations/* ./vendor/ezsystems/ezplatform-i18n/ezplatform-query-fieldtype
-fi
+  sourcePath="./vendor/ezsystems/${packages[$key]}"
+  sourceFiles="./vendor/ezsystems/${packages[$key]}/*"
+  if [ -d $sourcePath ]; then
+    echo ezsystems/${key}
+    rm -f $destinationFiles
+    cp $sourceFiles $destinationDir
+  fi
+done
 
 echo '# Fixing .xlf extensions'
 # uncomment this for OSX rename -s '.xliff' '.xlf' vendor/ezsystems/ezplatform-i18n/*/*
