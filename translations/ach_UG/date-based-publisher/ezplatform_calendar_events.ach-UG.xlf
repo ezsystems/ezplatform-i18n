@@ -22,8 +22,8 @@
         <note>key: future_hide.attribute.content_type.label</note>
       </trans-unit>
       <trans-unit id="d3d224f58fa31ffea8b89208f01cad4f8839d389" resname="future_hide.label">
-        <source>Future hide</source>
-        <target>crwdns221114:0crwdne221114:0</target>
+        <source>Content hide</source>
+        <target>crwdns226884:0crwdne226884:0</target>
         <note>key: future_hide.label</note>
       </trans-unit>
       <trans-unit id="f01b2ae0dce2e28724b27d1ca71b44d764d2636e" resname="future_publication.action.reschedule.label">
@@ -47,8 +47,8 @@
         <note>key: future_publication.attribute.modified_language.label</note>
       </trans-unit>
       <trans-unit id="b707401e387977dff9576ab9c9fcfa3a081ffbca" resname="future_publication.label">
-        <source>Future publication</source>
-        <target>crwdns221124:0crwdne221124:0</target>
+        <source>Content publication</source>
+        <target>crwdns226886:0crwdne226886:0</target>
         <note>key: future_publication.label</note>
       </trans-unit>
       <trans-unit id="ec403158b3fd1e13dbc66f2de51e235fdb178188" resname="modal.close">
