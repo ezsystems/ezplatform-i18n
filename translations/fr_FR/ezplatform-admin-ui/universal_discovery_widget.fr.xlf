@@ -121,11 +121,6 @@
         <target state="translated">Sélectionner l'image</target>
         <note>key: ezimageasset.title</note>
       </trans-unit>
-      <trans-unit id="005c6256355de38d3f5cb90b08945053ac28cf9e" resname="ezobjectrelationlist.title">
-        <source>Select content</source>
-        <target state="translated">Sélectionner un contenu</target>
-        <note>key: ezobjectrelationlist.title</note>
-      </trans-unit>
       <trans-unit id="8616b7656ef9370ffa5e42c399e615eaccccb00c" resname="filters.any_section">
         <source>Any section</source>
         <target state="translated">N’importe quelle section</target>
