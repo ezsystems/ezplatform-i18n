@@ -6,9 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
+      <trans-unit id="f298d2852684440367a0b6c1549f818ecd6ceb3b" resname="preview.could.not.be.loaded" approved="yes">
+        <source>The preview couldn’t be loaded. This preview page is on another domain, that is not configured to work with Page Builder.</source>
+        <target state="final">Nie udało się wczytać podglądu. Strona do podglądu znajduje się w innej domenie, dla której Edytor Stron nie ma konfiguracji.</target>
+        <note>key: preview.could.not.be.loaded</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
