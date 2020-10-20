@@ -11,6 +11,16 @@
         <target state="new">Site</target>
         <note>key: ezplatform_site_factory</note>
       </trans-unit>
+      <trans-unit id="41bd44353355b16a7264a783b7060a544d0f0245" resname="ezplatform_site_factory_skeletons">
+        <source>Site skeletons</source>
+        <target state="new">Site skeletons</target>
+        <note>key: ezplatform_site_factory_skeletons</note>
+      </trans-unit>
+      <trans-unit id="5f4079f5dc51655c71e091c2607220c238059e52" resname="header.list">
+        <source>List</source>
+        <target state="new">List</target>
+        <note>key: header.list</note>
+      </trans-unit>
       <trans-unit id="47856322d947e9bcd834a6c7b41f3a023411723d" resname="site_create__sidebar_right__cancel">
         <source>Discard changes</source>
         <target state="new">Discard changes</target>

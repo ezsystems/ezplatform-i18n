@@ -48,17 +48,17 @@
       </trans-unit>
       <trans-unit id="20112d83a10239c0d1a262d26773887d4c73c703" resname="infobar.page.fields.switcher">
         <source>Page fields switcher</source>
-        <target state="new">Page fields switcher</target>
+        <target>Page fields switcher</target>
         <note>key: infobar.page.fields.switcher</note>
       </trans-unit>
       <trans-unit id="e09a44f57fa983de405609e6bbb065e386650336" resname="infobar.preview.switcher">
         <source>Preview switcher</source>
-        <target state="new">Preview switcher</target>
+        <target>Preview switcher</target>
         <note>key: infobar.preview.switcher</note>
       </trans-unit>
       <trans-unit id="3cd2629de3e6baae6395f4a2e30702380db52c39" resname="infobar.timeline">
         <source>Timeline</source>
-        <target state="new">Timeline</target>
+        <target>Timeline</target>
         <note>key: infobar.timeline</note>
       </trans-unit>
       <trans-unit id="1739daaed5307ca22b5e2f1729a1746c6de8c346" resname="infobar.translation.add">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="3c89575cd3d84b611b233f4e1c5c6b6e8799066f" resname="infobar.view.edit.switcher">
         <source>View edit switcher</source>
-        <target state="new">View edit switcher</target>
+        <target>View edit switcher</target>
         <note>key: infobar.view.edit.switcher</note>
       </trans-unit>
     </body>
