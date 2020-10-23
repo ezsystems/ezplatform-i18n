@@ -46,6 +46,16 @@
         <target state="translated">Suche</target>
         <note>key: ezgmaplocation.action.search</note>
       </trans-unit>
+      <trans-unit id="f95e95b9cb063f060b0e8ea74c0e11409643316d" resname="ezobjectrelationlist.cta.limit">
+        <source>Set up multiple relations with up to %limit% content items</source>
+        <target state="translated">Füge bis zu %limit% Verknüpfungen zu den Inhaltselementen hinzu</target>
+        <note>key: ezobjectrelationlist.cta.limit</note>
+      </trans-unit>
+      <trans-unit id="df33d5cc8c00514b2c50d4949b872cc3cd99284c" resname="ezobjectrelationlist.cta.select">
+        <source>Select content</source>
+        <target state="translated">Inhalt auswählen</target>
+        <note>key: ezobjectrelationlist.cta.select</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
