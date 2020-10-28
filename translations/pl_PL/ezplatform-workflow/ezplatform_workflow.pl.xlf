@@ -21,6 +21,11 @@
         <target state="translated">Treść jest gotowa do przeglądu</target>
         <note>key: content.review.ready</note>
       </trans-unit>
+      <trans-unit id="b19cf3651ea59d72545d9e67ccdcd5c4241a0681" resname="content.review.request">
+        <source>Content review request</source>
+        <target state="translated">Prośba o zatwierdzenie treści</target>
+        <note>key: content.review.request</note>
+      </trans-unit>
       <trans-unit id="c682e81e5f634fa80a21c654aa254f8aea97eb59" resname="content_edit.component.events">
         <source>Event(s)</source>
         <target state="translated">Wydarzenie(a)</target>
@@ -35,6 +40,11 @@
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
         <target state="translated"><![CDATA[Wyświetlane <strong>%viewing%</strong> z <strong>%total%</strong> elementów]]></target>
         <note>key: dashboard.pagination.viewing</note>
+      </trans-unit>
+      <trans-unit id="03b3eebd6de51e6ab83ae31dd89afb4be4d487aa" resname="dashboard.tab.my_drafts_under_review.empty">
+        <source>No content to review. Content item(s) you or your User group can review will show up here.</source>
+        <target state="translated">Brak treści do zatwierdzenia. Treści które możesz przejrzeć Ty lub twoja grupy użytkowników pojawią się tutaj.</target>
+        <note>key: dashboard.tab.my_drafts_under_review.empty</note>
       </trans-unit>
       <trans-unit id="a878bd15386bacea4af5e3356c731640710d3618" resname="dashboard.table.activity">
         <source>Activity</source>
@@ -56,10 +66,20 @@
         <target state="translated">Typ treści</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
+      <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
+        <source>Edit draft</source>
+        <target state="translated">Edytuj szkic</target>
+        <note>key: dashboard.table.draft.edit</note>
+      </trans-unit>
       <trans-unit id="3854d449547263e6056997c3ed9135006b158de8" resname="dashboard.table.draft.transition.list">
         <source>Show history</source>
         <target state="translated">Pokaż historię</target>
         <note>key: dashboard.table.draft.transition.list</note>
+      </trans-unit>
+      <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
+        <source>Modified language</source>
+        <target state="translated">Zmodyfikowany język</target>
+        <note>key: dashboard.table.modified_language</note>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
         <source>Name</source>
@@ -70,6 +90,11 @@
         <source>Status</source>
         <target state="translated">Status</target>
         <note>key: dashboard.table.status</note>
+      </trans-unit>
+      <trans-unit id="ce7ec27cb7ed669df0c7863ccf9d7059b804bbeb" resname="location_view.tab.versions.column.workflow">
+        <source>Workflow</source>
+        <target state="translated">Przepływ pracy</target>
+        <note>key: location_view.tab.versions.column.workflow</note>
       </trans-unit>
       <trans-unit id="c77999d76931ead1fedf62e15d68ce0a5ad8be17" resname="location_view.tab.versions.pagination.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
@@ -91,25 +116,70 @@
         <target state="translated">Brak</target>
         <note>key: matcher.none</note>
       </trans-unit>
+      <trans-unit id="c1881886ded5201f8e3995cfb4ab2cfe7637b329" resname="modal.transition.list.close_label">
+        <source>Close</source>
+        <target state="translated">Zamknij</target>
+        <note>key: modal.transition.list.close_label</note>
+      </trans-unit>
       <trans-unit id="3966df7d25826e3f6c5313b625810c1334559e7c" resname="modal.transition.list.title">
         <source>Event timeline</source>
         <target state="translated">Oś czasu wydarzeń</target>
         <note>key: modal.transition.list.title</note>
+      </trans-unit>
+      <trans-unit id="ed129ea3c9e2f6f00bc2ab26aa664d8ca17d3636" resname="tab.name.my_drafts_under_review">
+        <source>Drafts to review</source>
+        <target state="translated">Szkice do sprawdzenia</target>
+        <note>key: tab.name.my_drafts_under_review</note>
+      </trans-unit>
+      <trans-unit id="b098881c168c540aaa9e23417fa38934a70300d6" resname="tab.versions.draft_under_edit">
+        <source>Drafts to review</source>
+        <target state="translated">Szkice do sprawdzenia</target>
+        <note>key: tab.versions.draft_under_edit</note>
       </trans-unit>
       <trans-unit id="ada0fcebefac344a2447069bba0039e73865b67d" resname="transition.list.entry.author">
         <source>by %name%</source>
         <target state="translated">przez %name%</target>
         <note>key: transition.list.entry.author</note>
       </trans-unit>
+      <trans-unit id="7066aa6d51c017bd3649242247aa658d0d3e69d3" resname="transition.list.entry.author.not_found">
+        <source>Can't fetch author</source>
+        <target state="translated">Nie można pobrać autora</target>
+        <note>key: transition.list.entry.author.not_found</note>
+      </trans-unit>
       <trans-unit id="db84cfaed6f2b9a52d159b6d9b12e41bdf2c27bf" resname="transition.list.entry.title">
         <source>Stage changed to %stageNames%</source>
         <target state="translated">Etap zmieniony na %stageNames%</target>
         <note>key: transition.list.entry.title</note>
       </trans-unit>
+      <trans-unit id="b68f65d4e6b1cef42c9c47203c4d64505b5e6e33" resname="widget.message">
+        <source>Message (optional):</source>
+        <target state="translated">Wiadomość (niewymagane):</target>
+        <note>key: widget.message</note>
+      </trans-unit>
       <trans-unit id="c020300ac290bd2f5b59ad2fc190620991545286" resname="widget.message.placeholder">
         <source>Type your message...</source>
         <target state="translated">Wpisz wiadomość...</target>
         <note>key: widget.message.placeholder</note>
+      </trans-unit>
+      <trans-unit id="450b7cf32c9304b760988626a0f49ef0e121069c" resname="widget.reviewer.add">
+        <source>Add a reviewer</source>
+        <target state="translated">Dodaj recenzenta</target>
+        <note>key: widget.reviewer.add</note>
+      </trans-unit>
+      <trans-unit id="e156c740c9f2733e39f21f7a3ee9dd10698efe89" resname="widget.reviewer.not_permitted">
+        <source>You cannot select a User who does not have permission to view/edit this Content item</source>
+        <target state="translated">Nie możesz wybrać użytkownika, który nie ma uprawnień do przeglądania/edycji tego elementu</target>
+        <note>key: widget.reviewer.not_permitted</note>
+      </trans-unit>
+      <trans-unit id="a9d1fd8122c75131e2806f5a65414f1d8e286b77" resname="widget.reviewer.placeholder">
+        <source>Type to search</source>
+        <target state="translated">Wpisz szukaną frazę</target>
+        <note>key: widget.reviewer.placeholder</note>
+      </trans-unit>
+      <trans-unit id="3bffad6f39729eebf93f44554e1f5fb348b82354" resname="widget.submit">
+        <source>Send to review</source>
+        <target state="translated">Wyślij do recenzji</target>
+        <note>key: widget.submit</note>
       </trans-unit>
       <trans-unit id="80d070fe8257420d8f890afbf18c47475f7ddc24" resname="workflow.list.limitations">
         <source>Limitations</source>
