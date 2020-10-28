@@ -186,6 +186,11 @@
         <target state="final">Informations système</target>
         <note>key: main__admin__systeminfo</note>
       </trans-unit>
+      <trans-unit id="82375ef2c63989a07c692f526407d75316414dff" resname="main__admin__url_management">
+        <source>URL Management</source>
+        <target state="translated">Gestion des URL</target>
+        <note>key: main__admin__url_management</note>
+      </trans-unit>
       <trans-unit id="975e43875a74d509e3e0cedd926de1223d09cdf4" resname="main__admin__users" approved="yes">
         <source>Users</source>
         <target state="final">Utilisateurs</target>
@@ -370,6 +375,16 @@
         <source>Save</source>
         <target state="final">Sauvegarder</target>
         <note>key: url_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="279fb028abf07d3fadda07ff6e00b91f0fd53932" resname="url_wildcard_edit__sidebar_right__cancel">
+        <source>Discard changes</source>
+        <target state="translated">Annuler les modifications </target>
+        <note>key: url_wildcard_edit__sidebar_right__cancel</note>
+      </trans-unit>
+      <trans-unit id="02bb48356132caeef070ebc7eb4d266884044e85" resname="url_wildcard_edit__sidebar_right__save">
+        <source>Save</source>
+        <target state="translated">Sauvegarder</target>
+        <note>key: url_wildcard_edit__sidebar_right__save</note>
       </trans-unit>
       <trans-unit id="8acab9e005da20efe4001fac5f84ff2c835bb7c8" resname="user__bookmark" approved="yes">
         <source>Bookmarks</source>
