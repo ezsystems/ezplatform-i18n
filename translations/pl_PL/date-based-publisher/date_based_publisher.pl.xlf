@@ -21,6 +21,11 @@
         <target state="final">Element opublikowano</target>
         <note>key: content.published</note>
       </trans-unit>
+      <trans-unit id="49dc9cd191676888376564d941c066297f82e95b" resname="content.reveal.modal.close">
+        <source>Close</source>
+        <target state="translated">Zamknij</target>
+        <note>key: content.reveal.modal.close</note>
+      </trans-unit>
       <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title" approved="yes">
         <source>Title:</source>
         <target state="final">Tytuł:</target>
