@@ -6,53 +6,31 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="95152a121b383f5dd34363055566146f0a9d2398" resname="breadcrumb.ecommerce">
+        <source>e-commerce</source>
+        <target state="translated">e-commerce</target>
+        <note>key: breadcrumb.ecommerce</note>
+      </trans-unit>
+      <trans-unit id="0dcc20efa4447b51beec0f49763eb587f07ebf7a" resname="cockpit.filters.currency">
+        <source>Currency</source>
+        <target state="translated">Devise</target>
+        <note>key: cockpit.filters.currency</note>
+      </trans-unit>
+      <trans-unit id="c43664a16889049e966b5117f0ccde9ec9faa304" resname="cockpit.filters.shop_id">
+        <source>Shop</source>
+        <target state="translated">Boutique</target>
+        <note>key: cockpit.filters.shop_id</note>
+      </trans-unit>
+      <trans-unit id="4c7f45850df925296cfcd12a2dbaff59cafed92e" resname="cockpit.products.and.sales.currency">
+        <source>Currency</source>
+        <target state="translated">Devise</target>
+        <note>key: cockpit.products.and.sales.currency</note>
+      </trans-unit>
+      <trans-unit id="abba096a63720abefa64d5fc146d4deadd2a295c" resname="cockpit.products.and.sales.last.orders">
+        <source>Last orders</source>
+        <target state="translated">Dernières commandes</target>
+        <note>key: cockpit.products.and.sales.last.orders</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
