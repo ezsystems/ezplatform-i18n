@@ -61,10 +61,20 @@
         <target state="translated">Sauvegarder</target>
         <note>key: custom_attributes_update_btn.save_btn.label</note>
       </trans-unit>
+      <trans-unit id="5598a3c54884b817fbba354b86d404a84ecfc2bb" resname="custom_tag_update_btn.cancel_btn.label">
+        <source>Cancel</source>
+        <target state="translated">Annuler</target>
+        <note>key: custom_tag_update_btn.cancel_btn.label</note>
+      </trans-unit>
       <trans-unit id="3b4cdbba9b4d4209e8c826b072589dab7497fa46" resname="custom_tag_update_btn.save_btn.label">
         <source>Save</source>
         <target state="translated">Sauvegarder</target>
         <note>key: custom_tag_update_btn.save_btn.label</note>
+      </trans-unit>
+      <trans-unit id="5a25d3a19c8addc868947381a4eb1a699d01cf22" resname="embed.ezlocation.error">
+        <source>This embedded item relies on 'ezlocation' imported from Legacy. It isn't supported by Online Editor yet.</source>
+        <target state="translated">Cet élément intégré repose sur une 'ezlocation' importée depuis la version Legacy. Il n'est pas encore pris en charge par l'éditeur en ligne.</target>
+        <note>key: embed.ezlocation.error</note>
       </trans-unit>
       <trans-unit id="ac0f20994b177772319ac51d8f9b3389ea74de7c" resname="embed_align_center_btn.label">
         <source>Center</source>
@@ -86,10 +96,20 @@
         <target state="translated">Encapsuler</target>
         <note>key: embed_btn.label</note>
       </trans-unit>
+      <trans-unit id="8527fe7f41af8879f558034d2b2cf316d20eb5e3" resname="embed_btn.udw.title">
+        <source>Select a Content item to embed</source>
+        <target state="translated">Sélectionner un élément de contenu à intégrer</target>
+        <note>key: embed_btn.udw.title</note>
+      </trans-unit>
       <trans-unit id="f646efa9564da382019a8267461d76231bb688e2" resname="embed_update_btn.label">
         <source>Select another Content item</source>
         <target state="translated">Sélectionnez un autre élément de contenu</target>
         <note>key: embed_update_btn.label</note>
+      </trans-unit>
+      <trans-unit id="e7a9e3844a638a4ee009a878206b96c9d0af681e" resname="embed_update_btn.udw.title">
+        <source>Select a Content item to embed</source>
+        <target state="translated">Sélectionner un élément de contenu à intégrer</target>
+        <note>key: embed_update_btn.udw.title</note>
       </trans-unit>
       <trans-unit id="841a18570b88796e700e0d0cd2f8d4e99f9e13bd" resname="heading_btn.label">
         <source>Heading</source>
@@ -101,10 +121,20 @@
         <target state="translated">Image</target>
         <note>key: image_btn.label</note>
       </trans-unit>
+      <trans-unit id="392f9d82a172655fbfe702c584ca3e5880fac25e" resname="image_btn.udw.label">
+        <source>Select an image</source>
+        <target state="translated">Sélectionner une image</target>
+        <note>key: image_btn.udw.label</note>
+      </trans-unit>
       <trans-unit id="85da4c4b98bb2f13b880845e1f5850134ace276d" resname="image_update_btn.label">
         <source>Select another image</source>
         <target state="translated">Sélectionner une autre Image</target>
         <note>key: image_update_btn.label</note>
+      </trans-unit>
+      <trans-unit id="d8edff94c5ba9f6148382057d71339ba75bc3903" resname="image_update_btn.udw.title">
+        <source>Select an image</source>
+        <target state="translated">Sélectionner une image</target>
+        <note>key: image_update_btn.udw.title</note>
       </trans-unit>
       <trans-unit id="15e27e2548df7ace117c1dd3b119db5798d34e9a" resname="link_edit_btn.action_row.remove">
         <source>Remove</source>
