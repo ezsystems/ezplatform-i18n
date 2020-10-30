@@ -21,6 +21,11 @@
         <target state="final">Element opublikowano</target>
         <note>key: content.published</note>
       </trans-unit>
+      <trans-unit id="2457c173119f72384e0f665687acf67de93c5692" resname="content.reveal.modal.cancel">
+        <source>Cancel</source>
+        <target state="translated">Anuluj</target>
+        <note>key: content.reveal.modal.cancel</note>
+      </trans-unit>
       <trans-unit id="49dc9cd191676888376564d941c066297f82e95b" resname="content.reveal.modal.close">
         <source>Close</source>
         <target state="translated">Zamknij</target>
@@ -31,10 +36,20 @@
         <target state="final">Tytuł:</target>
         <note>key: content.scheduled.title</note>
       </trans-unit>
+      <trans-unit id="a6747a32fb851855b9fa7689ab2bc2d27d10c60f" resname="content.scheduled_hide.action.cancel">
+        <source>Cancel</source>
+        <target state="translated">Anuluj</target>
+        <note>key: content.scheduled_hide.action.cancel</note>
+      </trans-unit>
       <trans-unit id="242a195e1172964f09692a16fc39ccb8a2b69605" resname="content.updated" approved="yes">
         <source>Content updated</source>
         <target state="final">Zaktualizowano element</target>
         <note>key: content.updated</note>
+      </trans-unit>
+      <trans-unit id="99471ef43c3242ea8fd0b9ca711057222ae75211" resname="dashboard.all_scheduled.table.reschedule_btn.title">
+        <source>Reschedule</source>
+        <target state="translated">Zaplanuj ponownie</target>
+        <note>key: dashboard.all_scheduled.table.reschedule_btn.title</note>
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type" approved="yes">
         <source>Content Type</source>
