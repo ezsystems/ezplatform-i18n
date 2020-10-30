@@ -31,6 +31,11 @@
         <target state="translated">Supprimer la traduction</target>
         <note>key: content_translation_remove_form.remove</note>
       </trans-unit>
+      <trans-unit id="2c32d3b89f20704d8a78092c617310a52b22008c" resname="content_type.copy.copy">
+        <source>Create</source>
+        <target state="translated">Créer</target>
+        <note>key: content_type.copy.copy</note>
+      </trans-unit>
       <trans-unit id="4c29e9392116163c51f0e3d4d0c08ff96717f695" resname="content_type_groups_delete_form.delete">
         <source>Delete Content Type groups</source>
         <target state="translated">Supprimer le groupe de type de contenu</target>
