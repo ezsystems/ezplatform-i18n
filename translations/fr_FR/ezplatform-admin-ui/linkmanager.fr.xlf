@@ -21,10 +21,20 @@
         <target state="translated">Modifier le Contenu</target>
         <note>key: url.action.item.edit</note>
       </trans-unit>
+      <trans-unit id="a53272ba95dfff73c2fbab9fd4517d466b1753c2" resname="url.breadcrumb.detail">
+        <source>Link details</source>
+        <target state="translated">Détails du lien</target>
+        <note>key: url.breadcrumb.detail</note>
+      </trans-unit>
       <trans-unit id="ac3c0d7621f2d6d5f452060a8c639fdbe760ef3a" resname="url.breadcrumb.edit">
         <source>Edit</source>
         <target state="translated">Modifier</target>
         <note>key: url.breadcrumb.edit</note>
+      </trans-unit>
+      <trans-unit id="67f94fa41322d4fd15518686d51fca4892ad0e7c" resname="url.breadcrumb.list">
+        <source>URL management</source>
+        <target state="translated">Gestion des URL</target>
+        <note>key: url.breadcrumb.list</note>
       </trans-unit>
       <trans-unit id="e890168e1ef7753c250affa3fcdfb21074c35c6f" resname="url.editing">
         <source>Editing URL: %url%</source>
