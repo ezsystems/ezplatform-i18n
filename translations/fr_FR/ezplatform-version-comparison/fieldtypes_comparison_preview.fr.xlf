@@ -51,6 +51,96 @@
         <target state="final">Longitude</target>
         <note>key: ezgmaplocation.longitude</note>
       </trans-unit>
+      <trans-unit id="504719a5dc2e1c7d5c59a159e3d96e767d6b8ae2" resname="ezimage.alternative_text">
+        <source>Alternative text</source>
+        <target state="translated">Texte alternatif</target>
+        <note>key: ezimage.alternative_text</note>
+      </trans-unit>
+      <trans-unit id="e371d4573dda857ef4a58cebd2420f87992b8864" resname="ezmedia.auto_play">
+        <source>Autoplay</source>
+        <target state="translated">Lecture automatique</target>
+        <note>key: ezmedia.auto_play</note>
+      </trans-unit>
+      <trans-unit id="84c1e46564bf281d22c3b554a0af412a8bbbdacc" resname="ezmedia.browser_does_not_support_html5_video">
+        <source>Your browser does not support HTML5 video</source>
+        <target state="translated">Votre navigateur ne supporte pas les videos en HTML5</target>
+        <note>key: ezmedia.browser_does_not_support_html5_video</note>
+      </trans-unit>
+      <trans-unit id="8f298e16cc3766b185e4e45db13e4f84f03f5d89" resname="ezmedia.display_controls">
+        <source>Display controls</source>
+        <target state="translated">Afficher les commandes</target>
+        <note>key: ezmedia.display_controls</note>
+      </trans-unit>
+      <trans-unit id="0a8b2fdd1d0a69bd12d066f8f7f8b517df9974bf" resname="ezmedia.file_name">
+        <source>File name</source>
+        <target state="translated">Nom du fichier</target>
+        <note>key: ezmedia.file_name</note>
+      </trans-unit>
+      <trans-unit id="5031ab8e376bd36df793ef5f7b8ce51d1c785be3" resname="ezmedia.loop">
+        <source>Loop</source>
+        <target state="translated">En boucle</target>
+        <note>key: ezmedia.loop</note>
+      </trans-unit>
+      <trans-unit id="c351fa9d7e7c134199f7f49e0cd010dedafb4e13" resname="ezmedia.no">
+        <source>No</source>
+        <target state="translated">Non</target>
+        <note>key: ezmedia.no</note>
+      </trans-unit>
+      <trans-unit id="099406392256d6e1816e54f4898f09b9ae005ffa" resname="ezmedia.size">
+        <source>Size</source>
+        <target state="translated">Taille</target>
+        <note>key: ezmedia.size</note>
+      </trans-unit>
+      <trans-unit id="75c0855b33b165884b37017870852e662de3ea73" resname="ezmedia.type">
+        <source>Type</source>
+        <target state="translated">Type</target>
+        <note>key: ezmedia.type</note>
+      </trans-unit>
+      <trans-unit id="207f2af6642a19b3e2ee254f82bd71ae2351d6f0" resname="ezmedia.video_file_properties">
+        <source>Video file properties</source>
+        <target state="translated">Propriétés du fichier vidéo</target>
+        <note>key: ezmedia.video_file_properties</note>
+      </trans-unit>
+      <trans-unit id="2f9f973623d548ff2cac08afcd1de234bd2493c8" resname="ezmedia.yes">
+        <source>Yes</source>
+        <target state="translated">Oui</target>
+        <note>key: ezmedia.yes</note>
+      </trans-unit>
+      <trans-unit id="df17c526bb1674b64ac8a4cd4eda1af9e0c5e7e5" resname="ezobjectrelation.content_type">
+        <source>Content Type</source>
+        <target state="translated">Type de Contenu</target>
+        <note>key: ezobjectrelation.content_type</note>
+      </trans-unit>
+      <trans-unit id="79f0c6856a30e0436b61aa28cfc859df8289edfb" resname="ezobjectrelation.created">
+        <source>Created</source>
+        <target state="translated">Date de création</target>
+        <note>key: ezobjectrelation.created</note>
+      </trans-unit>
+      <trans-unit id="feb25b24199466f077038c5e6e38209deae21471" resname="ezobjectrelation.name">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: ezobjectrelation.name</note>
+      </trans-unit>
+      <trans-unit id="bd321e94e97034129cf78323f54e93c782250971" resname="ezobjectrelation.single_relation">
+        <source>Single relation</source>
+        <target state="translated">Relation simple</target>
+        <note>key: ezobjectrelation.single_relation</note>
+      </trans-unit>
+      <trans-unit id="61c7580e3e4d4547527322089f577eca2ff1ea5b" resname="ezobjectrelationlist.content_type">
+        <source>Content Type</source>
+        <target state="translated">Type de Contenu</target>
+        <note>key: ezobjectrelationlist.content_type</note>
+      </trans-unit>
+      <trans-unit id="07ffe77032c4f0b4f8c64f7c40218274e805491f" resname="ezobjectrelationlist.created">
+        <source>Created</source>
+        <target state="translated">Date de création</target>
+        <note>key: ezobjectrelationlist.created</note>
+      </trans-unit>
+      <trans-unit id="44d2ac9ae83f6b73fa8f61fad66a77d76d2159f0" resname="ezobjectrelationlist.name">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: ezobjectrelationlist.name</note>
+      </trans-unit>
       <trans-unit id="96af58f2bb1ab9fbf0a4cf8857f5dc594c74b361" resname="ezurl.link" approved="yes">
         <source>URL</source>
         <target state="final">URL</target>
