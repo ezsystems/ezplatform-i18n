@@ -31,6 +31,11 @@
         <target state="translated">Paramètres du bloc</target>
         <note>key: block.settings</note>
       </trans-unit>
+      <trans-unit id="27557cc8101e53aa465cdb6d32850673a348e953" resname="block_filter.placeholder">
+        <source>Type to refine</source>
+        <target state="translated">Taper pour affiner</target>
+        <note>key: block_filter.placeholder</note>
+      </trans-unit>
       <trans-unit id="dfbc84f747379ac08358ac78f5756d91dc9dd715" resname="config_form.block_config.embed_field_base.udw.title">
         <source>Browse content</source>
         <target state="translated">Parcourir le contenu</target>
@@ -91,6 +96,11 @@
         <target state="translated">Fermer</target>
         <note>key: layout_selector.close.label</note>
       </trans-unit>
+      <trans-unit id="d261894808d96929e7ff95449a433021cb9476ec" resname="layout_selector.create.confirm.label">
+        <source>Create draft</source>
+        <target state="translated">Créer un brouillon</target>
+        <note>key: layout_selector.create.confirm.label</note>
+      </trans-unit>
       <trans-unit id="cacca78c6c00e60e652f42e41b6c404d76548a59" resname="layout_selector.create.title">
         <source>Page creation</source>
         <target state="translated">Création de la page</target>
@@ -105,6 +115,11 @@
         <source>Switch layout</source>
         <target state="translated">Changer la disposition</target>
         <note>key: layout_selector.switch.title</note>
+      </trans-unit>
+      <trans-unit id="71c903ad87f59b59b56f8275b47d53204d3632b8" resname="layout_selector.warning.message">
+        <source>Switching layout saves the current Page draft</source>
+        <target state="translated">Le changement de disposition enregistre le brouillon actuel de la page</target>
+        <note>key: layout_selector.warning.message</note>
       </trans-unit>
       <trans-unit id="3757c8d49f2f414947ad6e44afc53498b4474d55" resname="sidebar.title">
         <source>Elements</source>
