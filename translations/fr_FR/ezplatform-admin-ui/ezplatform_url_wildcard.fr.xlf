@@ -6,28 +6,46 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="716de64f24448f5be29249e0b5156158a6a0bbdd" resname="url_wildcard.action.edit">
+        <source>Edit URL wildcard</source>
+        <target state="translated">Modifier le caractère générique de l'URL</target>
+        <note>key: url_wildcard.action.edit</note>
+      </trans-unit>
+      <trans-unit id="562cbcb1ed087fd514f78a8b0de9a68ccc03f5e7" resname="url_wildcard.breadcrumb.edit">
+        <source>Edit</source>
+        <target state="translated">Modifier</target>
+        <note>key: url_wildcard.breadcrumb.edit</note>
+      </trans-unit>
+      <trans-unit id="2451ff2ec3f769b1d2492cba373ddcf07c27d5e1" resname="url_wildcard.breadcrumb.list">
+        <source>URL Management</source>
+        <target state="translated">Gestion des URL</target>
+        <note>key: url_wildcard.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="8fe44f043fa71a16c618cde88dd0e1098e5479bb" resname="url_wildcard.disabled">
+        <source>URL wildcards are disabled. Contact your Administrator.</source>
+        <target state="translated">Les caractères génériques d'URL sont désactivés. Contactez votre administrateur.</target>
+        <note>key: url_wildcard.disabled</note>
+      </trans-unit>
+      <trans-unit id="96a90dc2272bef795abed845ba2a8b4c24615371" resname="url_wildcard.editing">
+        <source>Editing URL wildcard: %url%</source>
+        <target state="translated">Modifier le caractère générique de l'URL: %url%</target>
+        <note>key: url_wildcard.editing</note>
+      </trans-unit>
+      <trans-unit id="88cbad5f7fda2954c1ee100f5ba1e15f761cbbde" resname="url_wildcard.empty">
+        <source>No URL wildcards.</source>
+        <target state="translated">Aucun caractère générique d'URL.</target>
+        <note>key: url_wildcard.empty</note>
+      </trans-unit>
+      <trans-unit id="906de07fde9ac052d30b57ea68d7c3ffa70375aa" resname="url_wildcard.label.destination">
+        <source>Destination</source>
+        <target state="translated">Destination</target>
+        <note>key: url_wildcard.label.destination</note>
+      </trans-unit>
+      <trans-unit id="91723be708581141897d876ab0f090f3ef40c7b1" resname="url_wildcard.label.type">
+        <source>Type</source>
+        <target state="translated">Type</target>
+        <note>key: url_wildcard.label.type</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
