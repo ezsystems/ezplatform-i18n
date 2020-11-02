@@ -22,6 +22,7 @@ files:
         pt-PT: pt
         ru: ru
         zh-HK: zh_HK
+        uk: uk
     ignore:
       - /translations
       - /bin
