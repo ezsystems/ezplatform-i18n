@@ -11,6 +11,16 @@
         <target state="translated">Nombre de best-sellers affichés dans un slider</target>
         <note>key: bestseller_limit_in_silver_module|config</note>
       </trans-unit>
+      <trans-unit id="fca7c6837e6aa75f9bcc2f5e92771173a6efd640" resname="ecaptcha_options.theme|config">
+        <source>Recaptcha theme</source>
+        <target state="translated">Thème Recaptcha</target>
+        <note>key: ecaptcha_options.theme|config</note>
+      </trans-unit>
+      <trans-unit id="2d8e878e6bc965155c87c289d21fb6b25eb6fdea" resname="enable_customer_number_login|config">
+        <source>Login with Customer Number</source>
+        <target state="translated">Connexion avec le numéro de client</target>
+        <note>key: enable_customer_number_login|config</note>
+      </trans-unit>
       <trans-unit id="7a6bdfd231409719b0fc7662e2b6069bba40baf4" resname="label.customer_name">
         <source>Customer name</source>
         <target state="translated">Nom du Client</target>
@@ -26,10 +36,35 @@
         <target state="translated">Date</target>
         <note>key: label.date</note>
       </trans-unit>
+      <trans-unit id="da57eefe2c00a22515caed914e283ced8e0194fe" resname="label.filter_userName">
+        <source>User name</source>
+        <target state="translated">Nom d'utilisateur</target>
+        <note>key: label.filter_userName</note>
+      </trans-unit>
       <trans-unit id="3963373b1d71cc277e2e915b60328d9add608663" resname="label.order_type">
         <source>Type</source>
         <target state="translated">Type</target>
         <note>key: label.order_type</note>
+      </trans-unit>
+      <trans-unit id="93d661c995b5e97f7dd0ffb9087aed78600cefee" resname="label.products">
+        <source>Products</source>
+        <target state="translated">Produits</target>
+        <note>key: label.products</note>
+      </trans-unit>
+      <trans-unit id="895a33857b12be70974c29157b5a2bf9769411da" resname="label.status">
+        <source>Status</source>
+        <target state="translated">Statut</target>
+        <note>key: label.status</note>
+      </trans-unit>
+      <trans-unit id="461a652a2b258cb8fe2162896933896b51ebadb5" resname="standard_price_factory.fallback_currency|config">
+        <source>Default currency</source>
+        <target state="translated">Devise par défaut</target>
+        <note>key: standard_price_factory.fallback_currency|config</note>
+      </trans-unit>
+      <trans-unit id="1b8bff998ecb25dee3b7180ffa2ef4576aa94ab6" resname="unsubscribe_globally|description">
+        <source>Unsubscribe options</source>
+        <target state="translated">Options de désinscription</target>
+        <note>key: unsubscribe_globally|description</note>
       </trans-unit>
     </body>
   </file>
