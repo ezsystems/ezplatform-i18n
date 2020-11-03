@@ -61,10 +61,30 @@
         <target state="translated">Devise par défaut</target>
         <note>key: standard_price_factory.fallback_currency|config</note>
       </trans-unit>
+      <trans-unit id="1aae10f801404ad0d8ce4e97e5c5a8e9ee000dbb" resname="unsubscribe_globally|config">
+        <source>Unsubscribe from all newsletters</source>
+        <target state="translated">Se désinscrire de toutes les newsletters</target>
+        <note>key: unsubscribe_globally|config</note>
+      </trans-unit>
       <trans-unit id="1b8bff998ecb25dee3b7180ffa2ef4576aa94ab6" resname="unsubscribe_globally|description">
         <source>Unsubscribe options</source>
         <target state="translated">Options de désinscription</target>
         <note>key: unsubscribe_globally|description</note>
+      </trans-unit>
+      <trans-unit id="8dfa2dc9a2d2683c456b1d88f16f6cb7a56a84d6" resname="web_connector.service_location|config">
+        <source>URL of the Web-Connector</source>
+        <target state="translated">URL du connecteur Web</target>
+        <note>key: web_connector.service_location|config</note>
+      </trans-unit>
+      <trans-unit id="5a5293d841200139604abc0f546adb475ca09411" resname="webconnector.password|description">
+        <source>Password for the communication with the Web-Connector service</source>
+        <target state="translated">Mot de passe pour la communication avec le service Web-Connector</target>
+        <note>key: webconnector.password|description</note>
+      </trans-unit>
+      <trans-unit id="477f1d25cf2cf78a6f540d98847c2862564e0b91" resname="webconnector.username|description">
+        <source>User name for the communication with the Web-Connector service</source>
+        <target state="translated">Nom d'utilisateur pour la communication avec le service Web-Connector</target>
+        <note>key: webconnector.username|description</note>
       </trans-unit>
     </body>
   </file>
