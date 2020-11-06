@@ -136,6 +136,16 @@
         <target state="translated">Activer Pinterest</target>
         <note>key: js.social.pinterest_alt</note>
       </trans-unit>
+      <trans-unit id="66042d3f43237d5a3f9332116fd230211d0c0cdc" resname="js.social.settings">
+        <source>Settings</source>
+        <target state="translated">Réglages</target>
+        <note>key: js.social.settings</note>
+      </trans-unit>
+      <trans-unit id="a35a0a51fc00e645434197331f144f7e07e8a778" resname="js.social.twitter_on">
+        <source>Connected with Twitter</source>
+        <target state="translated">Connecté avec Twitter</target>
+        <note>key: js.social.twitter_on</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
