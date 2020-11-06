@@ -11,6 +11,11 @@
         <target state="final">e-commerce</target>
         <note>key: breadcrumb.ecommerce</note>
       </trans-unit>
+      <trans-unit id="0f67ad424c6bec3e6ffb8cb6f644c932e1536c30" resname="cockpit.breadcrumb.cockpit">
+        <source>Cockpit</source>
+        <target state="translated">Cockpit</target>
+        <note>key: cockpit.breadcrumb.cockpit</note>
+      </trans-unit>
       <trans-unit id="0dcc20efa4447b51beec0f49763eb587f07ebf7a" resname="cockpit.filters.currency" approved="yes">
         <source>Currency</source>
         <target state="final">Devise</target>
@@ -21,15 +26,95 @@
         <target state="final">Boutique</target>
         <note>key: cockpit.filters.shop_id</note>
       </trans-unit>
+      <trans-unit id="50c380badd9919619702b2f36588622c7ec439bf" resname="cockpit.page_title">
+        <source>Cockpit</source>
+        <target state="translated">Cockpit</target>
+        <note>key: cockpit.page_title</note>
+      </trans-unit>
+      <trans-unit id="0ef8fe6b2c548406af5af4373a0e6c4a2014df14" resname="cockpit.products.and.sales.bestsellers">
+        <source>Bestsellers</source>
+        <target state="translated">Meilleures ventes</target>
+        <note>key: cockpit.products.and.sales.bestsellers</note>
+      </trans-unit>
       <trans-unit id="4c7f45850df925296cfcd12a2dbaff59cafed92e" resname="cockpit.products.and.sales.currency" approved="yes">
         <source>Currency</source>
         <target state="final">Devise</target>
         <note>key: cockpit.products.and.sales.currency</note>
       </trans-unit>
+      <trans-unit id="0b9ee5e7227f972059ea84e95581bb2ea956633f" resname="cockpit.products.and.sales.customer.name">
+        <source>Customer name</source>
+        <target state="translated">Nom du Client</target>
+        <note>key: cockpit.products.and.sales.customer.name</note>
+      </trans-unit>
+      <trans-unit id="91ed41b6355866179cd572f68b8ab703e773553a" resname="cockpit.products.and.sales.date.time">
+        <source>Date/Time</source>
+        <target state="translated">Date / Heure</target>
+        <note>key: cockpit.products.and.sales.date.time</note>
+      </trans-unit>
       <trans-unit id="abba096a63720abefa64d5fc146d4deadd2a295c" resname="cockpit.products.and.sales.last.orders" approved="yes">
         <source>Last orders</source>
         <target state="final">Dernières commandes</target>
         <note>key: cockpit.products.and.sales.last.orders</note>
+      </trans-unit>
+      <trans-unit id="7a8b70ab33add2a710d124e144b35d4a02ff89fb" resname="cockpit.products.and.sales.nest.clients">
+        <source>Best clients</source>
+        <target state="translated">Meilleurs clients</target>
+        <note>key: cockpit.products.and.sales.nest.clients</note>
+      </trans-unit>
+      <trans-unit id="61fdd78a9584bbb69377cb506e98bca0e83c7848" resname="cockpit.products.and.sales.total.sales">
+        <source>Total sales</source>
+        <target state="translated">Ventes totales</target>
+        <note>key: cockpit.products.and.sales.total.sales</note>
+      </trans-unit>
+      <trans-unit id="21303cda2bc7ef912ba4df49cd7493d6f8967223" resname="cockpit.sales.and.orders.filters.last.14">
+        <source>Last 14 days</source>
+        <target state="translated">14 derniers jours</target>
+        <note>key: cockpit.sales.and.orders.filters.last.14</note>
+      </trans-unit>
+      <trans-unit id="cd9635d37ec1b3032c61430a97094f612952a151" resname="cockpit.sales.and.orders.filters.last.30">
+        <source>Last 30 days</source>
+        <target state="translated">30 derniers jours</target>
+        <note>key: cockpit.sales.and.orders.filters.last.30</note>
+      </trans-unit>
+      <trans-unit id="476f5762630c0244db01aaaa39ce65dd544a3634" resname="cockpit.sales.and.orders.filters.last.7">
+        <source>Last 7 days</source>
+        <target state="translated">7 Derniers Jours</target>
+        <note>key: cockpit.sales.and.orders.filters.last.7</note>
+      </trans-unit>
+      <trans-unit id="2714c276cc28425ca4de2b0bbf79a088f734a661" resname="cockpit.sales.and.orders.filters.predefined">
+        <source>Predefined</source>
+        <target state="translated">Prédéfini</target>
+        <note>key: cockpit.sales.and.orders.filters.predefined</note>
+      </trans-unit>
+      <trans-unit id="d01778da44cc4128afb60706a25e6818b2044a83" resname="cockpit.sales.and.orders.filters.this.month">
+        <source>This month</source>
+        <target state="translated">Ce mois</target>
+        <note>key: cockpit.sales.and.orders.filters.this.month</note>
+      </trans-unit>
+      <trans-unit id="e9621f090e732e7cffa4b2a41db7191d7cd42abc" resname="cockpit.sales.and.orders.filters.this.week">
+        <source>This week</source>
+        <target state="translated">Cette semaine</target>
+        <note>key: cockpit.sales.and.orders.filters.this.week</note>
+      </trans-unit>
+      <trans-unit id="011f32815060afd2da7dbf6fd0a949a5f620a3ea" resname="cockpit.sales.and.orders.orders">
+        <source>Orders</source>
+        <target state="translated">Commandes</target>
+        <note>key: cockpit.sales.and.orders.orders</note>
+      </trans-unit>
+      <trans-unit id="a7503b9e224bb18ca0925a38cb349f62085692df" resname="cockpit.status.erp.connected">
+        <source>Connected</source>
+        <target state="translated">Connecté</target>
+        <note>key: cockpit.status.erp.connected</note>
+      </trans-unit>
+      <trans-unit id="a6af165fe817698216e87cf8dd45e6c3a2247d7e" resname="cockpit.status.server.load">
+        <source>Server load</source>
+        <target state="translated">Charge du serveur</target>
+        <note>key: cockpit.status.server.load</note>
+      </trans-unit>
+      <trans-unit id="32af80f056fb97532cbe7b21556c4e73dc76193b" resname="cockpit.tabs.status.title">
+        <source>Status</source>
+        <target state="translated">Statut</target>
+        <note>key: cockpit.tabs.status.title</note>
       </trans-unit>
     </body>
   </file>
