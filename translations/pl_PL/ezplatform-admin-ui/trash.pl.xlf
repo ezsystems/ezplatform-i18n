@@ -16,10 +16,30 @@
         <target state="final">Przywróć</target>
         <note>key: trash.button.restore</note>
       </trans-unit>
+      <trans-unit id="5424e0925328bb62806b43b2a65cc86fef6ad7d9" resname="trash.button.restore_new_location">
+        <source>Restore in a new Location</source>
+        <target state="translated">Przywróć w nowej lokalizacji</target>
+        <note>key: trash.button.restore_new_location</note>
+      </trans-unit>
+      <trans-unit id="a05764fe660902e89eefa65d4834f03cf3954160" resname="trash.date">
+        <source>Sent to trash date</source>
+        <target state="translated">Data wysłania do kosza</target>
+        <note>key: trash.date</note>
+      </trans-unit>
       <trans-unit id="7ffaa1444a83e959f8de3c2410bb65acdd3e3ff0" resname="trash.delete" approved="yes">
         <source>Delete</source>
         <target state="final">Usuń</target>
         <note>key: trash.delete</note>
+      </trans-unit>
+      <trans-unit id="45548aed8adb5019c3b806992e903965699c7e08" resname="trash.deleted.success">
+        <source>Deleted selected item(s) from Trash.</source>
+        <target state="translated">Usunięto wybrane elementy z kosza.</target>
+        <note>key: trash.deleted.success</note>
+      </trans-unit>
+      <trans-unit id="17b503b33de4f7e60958b7824dd959dd0144ae13" resname="trash.empty.success">
+        <source>Trash emptied.</source>
+        <target state="translated">Kosz opróżniony.</target>
+        <note>key: trash.empty.success</note>
       </trans-unit>
       <trans-unit id="eb7cd78bb919141f66cabfea95a60e0e6b02e9f4" resname="trash.headline" approved="yes">
         <source>Trash</source>
@@ -35,6 +55,16 @@
         <source>Name</source>
         <target state="final">Nazwa</target>
         <note>key: trash.name</note>
+      </trans-unit>
+      <trans-unit id="c28510c675be753842996980b0e5d175cec4a8d8" resname="trash.original_location">
+        <source>Original Location</source>
+        <target state="translated">Lokalizacja oryginalna</target>
+        <note>key: trash.original_location</note>
+      </trans-unit>
+      <trans-unit id="8b64a1510f907791766cbccffcff7898bda76bde" resname="trash.section">
+        <source>Section</source>
+        <target state="translated">Sekcja</target>
+        <note>key: trash.section</note>
       </trans-unit>
       <trans-unit id="06b530d8c8b3d7af7b3f2df9f5102927e7275de4" resname="trash.table.header" approved="yes">
         <source>Trash</source>
