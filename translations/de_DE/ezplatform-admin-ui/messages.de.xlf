@@ -284,6 +284,26 @@
         <target state="translated">Sind Sie sicher, dass Sie dieses Inhaltselement in den Papierkorb verschieben möchten?</target>
         <note>key: trash.modal.message</note>
       </trans-unit>
+      <trans-unit id="bd97a738137e75de44544db1104bab3a46222791" resname="trash_asset.modal.message_body">
+        <source>If you wish to delete this(/these) asset(s) too, first make sure they are not used by other content. You can check these content going to the asset(s) and looking at their content relations in the Relation tab.</source>
+        <target state="translated">Wenn Sie auch diese(n) Asset(s) löschen möchten, stellen Sie zuerst sicher, dass sie nicht von anderen Inhalten verwendet werden. Sie können diese Inhalte überprüfen, die zu den Asset(s) gehen und ihre Inhaltsbeziehungen in der Registerkarte Beziehung betrachten.</target>
+        <note>key: trash_asset.modal.message_body</note>
+      </trans-unit>
+      <trans-unit id="17c7abad79d72d771a25b064e0de38b72fc6c926" resname="trash_asset.modal.message_header">
+        <source>You are about to delete a content that has one or several asset(s) field(s) used by other content items. These assets will remain available in system.</source>
+        <target state="translated">Sie sind dabei, einen Inhalt zu löschen, der ein oder mehrere Asset(s) hat, die von anderen Inhaltselementen verwendet werden. Diese(s) Asset(s) werden weiterhin im System verfügbar bleiben.</target>
+        <note>key: trash_asset.modal.message_header</note>
+      </trans-unit>
+      <trans-unit id="e81a14f38ebe272cb11ef90e2948a8c6602307ca" resname="trash_asset_single.modal.message">
+        <source>You have the option to delete %content_name% (%content_type%) only or to also delete the assets it is using. Make your choice:</source>
+        <target state="translated">Sie haben die Möglichkeit, nur %content_name% (%content_type%) oder die zu verwendenden Assets zu löschen. Wählen Sie:</target>
+        <note>key: trash_asset_single.modal.message</note>
+      </trans-unit>
+      <trans-unit id="ff537a1e092270edf7497dc13ce051cdb458958b" resname="trash_asset_single.modal.message_main">
+        <source>You are about to delete a content with one or several asset(s) field(s).</source>
+        <target state="translated">Sie sind dabei, einen Inhalt mit einem oder mehreren Asset(s) Felder(n) zu löschen.</target>
+        <note>key: trash_asset_single.modal.message_main</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
