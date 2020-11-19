@@ -51,6 +51,11 @@
         <target state="translated">Ersteller:</target>
         <note>key: search.creator</note>
       </trans-unit>
+      <trans-unit id="3d9f547776de4846ff54fcd1cd173ac5937e5a46" resname="search.creator_input.placeholder">
+        <source>Type creator</source>
+        <target state="translated">Name des Erstellers</target>
+        <note>key: search.creator_input.placeholder</note>
+      </trans-unit>
       <trans-unit id="a18d7835f5b4a97ac94331f82e729abcb698be41" resname="search.custom_range">
         <source>Custom range</source>
         <target state="translated">Benutzerdefinierter Zeitraum</target>
@@ -135,6 +140,11 @@
         <source>Section:</source>
         <target state="translated">Sektion:</target>
         <note>key: search.section</note>
+      </trans-unit>
+      <trans-unit id="b484be9d33f5cd9961f4ddd89c628f2cbca2a6a1" resname="search.subtree">
+        <source>Subtree:</source>
+        <target state="translated">Unterbaum:</target>
+        <note>key: search.subtree</note>
       </trans-unit>
       <trans-unit id="777cc1ef279096d5a978aa3553e9434d828f8248" resname="search.tips.check_spelling">
         <source>Check spelling of keywords.</source>
