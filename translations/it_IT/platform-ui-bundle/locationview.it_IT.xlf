@@ -42,10 +42,28 @@
         <note>key: confirmed.delete</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="a98b131ae17c523ac36a36d82c20b082fc2efa73" resname="confirmed.remove.versions">
+        <source>Are you sure you want to remove selected version(s)?</source>
+        <target state="translated">Sei sicuro di voler rimuovere le versioni selezionate?</target>
+        <note>key: confirmed.remove.versions</note>
+        <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e751550d2bffb320256d3934693e4cbe1b9610b5" resname="confirmed.send.to.trash">
+        <source>Are you sure you want to send this content to trash?</source>
+        <target state="translated">Sei sicuro di voler inviare questo contenuto nel cestino?</target>
+        <note>key: confirmed.send.to.trash</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="c44059e516685b63857e6db9c22a11ed0d990519" resname="deleted.content">
         <source>'%name%' was deleted</source>
         <target state="translated">'%name%' è stato soppresso</target>
         <note>key: deleted.content</note>
+        <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="380334ddc39c537065b6b955660ee02d5af915f2" resname="deleting.content">
+        <source>Deleting '%name%'</source>
+        <target state="translated">Eliminazione di '%name%'</target>
+        <note>key: deleting.content</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="d427c063172fceb30447a5a485474536ffcc8c91" resname="failed.to.load.content">
@@ -328,6 +346,12 @@
         <source>Publication date</source>
         <target state="translated">Data di pubblicazione</target>
         <note>key: sort.published</note>
+        <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f0ec72293071715721e084ed98b6ceb112aae22b" resname="sort.section">
+        <source>Section</source>
+        <target state="translated">Sezione</target>
+        <note>key: sort.section</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="4de030e5fc78006e68749536dd9725ae58efc2a3" resname="tab.details">
