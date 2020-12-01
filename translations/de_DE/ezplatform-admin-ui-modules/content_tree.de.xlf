@@ -11,6 +11,11 @@
         <target state="translated">Alle ausblenden</target>
         <note>key: collapse_all</note>
       </trans-unit>
+      <trans-unit id="0cba8ae8f7a758a11886b6be4e7ce7e570063f8f" resname="expand_item.limit.message">
+        <source>Cannot load subitems for given location due to performance limits. You reached max tree depth.</source>
+        <target state="translated">Unterelemente für den angegebenen Standort können aufgrund von Leistungsbeschränkungen nicht geladen werden. Sie haben die maximale Baumtiefe erreicht.</target>
+        <note>key: expand_item.limit.message</note>
+      </trans-unit>
       <trans-unit id="9042dc6dc12016a1ffce82c61781eb8df00d3a66" resname="loading_more">
         <source>Loading more...</source>
         <target state="translated">Mehr laden...</target>
