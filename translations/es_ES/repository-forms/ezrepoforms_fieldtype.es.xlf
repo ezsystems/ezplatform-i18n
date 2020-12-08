@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="7162d22b1be8aaa634e57fa94cc2664026be4390" resname="content.field_type.ezmedia.autoplay">
         <source>Auto play</source>
-        <target state="translated">Reproducir automáticamente</target>
+        <target state="translated">Reproducción automática</target>
         <note>key: content.field_type.ezmedia.autoplay</note>
       </trans-unit>
       <trans-unit id="f0176a5e197c6c207e09affb1a027db2ab48a506" resname="content.field_type.ezmedia.display_controls">
