@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="02ba70eaa60e10264ec65a0da1ac96d9b110759f" resname="page_builder.block_configuration.view">
         <source>View</source>
-        <target state="translated">Ver</target>
+        <target state="translated">Vista</target>
         <note>key: page_builder.block_configuration.view</note>
       </trans-unit>
       <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content">
