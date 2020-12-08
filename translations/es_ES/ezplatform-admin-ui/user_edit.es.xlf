@@ -16,6 +16,11 @@
         <target state="translated">Creado por %name%</target>
         <note>key: created_by</note>
       </trans-unit>
+      <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
+        <source>Editing</source>
+        <target state="translated">Editando</target>
+        <note>key: editing</note>
+      </trans-unit>
       <trans-unit id="876d7bdba03c72251ec4c2dc827fc54af7889091" resname="location_id">
         <source>Location ID: %locationId%</source>
         <target state="translated">Id. de ubicación: %locationId%</target>
