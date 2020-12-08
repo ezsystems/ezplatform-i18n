@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="a4b16c26cb1349d85fd849abedb5d4e4b921b4ce" resname="tree.empty">
         <source>The Content Tree is empty</source>
-        <target state="translated">El Arbol de Contenidos está vacío</target>
+        <target state="translated">El árbol de contenido está vacío</target>
         <note>key: tree.empty</note>
         <jms:reference-file>Resources/public/js/views/ez-treeview.js</jms:reference-file>
       </trans-unit>
