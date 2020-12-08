@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="b1d4fbf05def85430e7e60db5ff4037ea1ee1197" resname="invalid.login.passord">
         <source>Invalid username or password</source>
-        <target state="translated">Nombre de usuario o password inválido</target>
+        <target state="translated">Nombre de usuario o contraseña no válido</target>
         <note>key: invalid.login.passord</note>
         <jms:reference-file>Resources/public/js/views/services/ez-loginformviewservice.js</jms:reference-file>
       </trans-unit>
@@ -26,13 +26,13 @@
       </trans-unit>
       <trans-unit id="804e6b4ba4943f9b3ebc6f9ab726bdbc088d44de" resname="loginform.login">
         <source>Login</source>
-        <target state="translated">Login</target>
+        <target state="translated">Iniciar sesión</target>
         <note>key: loginform.login</note>
         <jms:reference-file>Resources/public/templates/loginform.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="a4ca196c29f2015f4b155d47a46a9b59ccfc7e3c" resname="loginform.need.login">
         <source>You need to login to access this area</source>
-        <target state="translated">Necesita iniciar sesión para acceder a esta área</target>
+        <target state="translated">Necesitas iniciar sesión para acceder a esta área</target>
         <note>key: loginform.need.login</note>
         <jms:reference-file>Resources/public/templates/loginform.hbt</jms:reference-file>
       </trans-unit>
@@ -50,7 +50,7 @@
       </trans-unit>
       <trans-unit id="23a8454a8e08b1a75751f4967daa97822870a659" resname="unexpected.error">
         <source>An unexpected error occurred</source>
-        <target state="translated">Ha ocurrido un error inesperado</target>
+        <target state="translated">Se produjo un error inesperado</target>
         <note>key: unexpected.error</note>
         <jms:reference-file>Resources/public/js/views/services/ez-loginformviewservice.js</jms:reference-file>
       </trans-unit>
