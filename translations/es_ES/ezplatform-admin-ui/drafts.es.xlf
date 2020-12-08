@@ -18,12 +18,12 @@
       </trans-unit>
       <trans-unit id="7e9e5a5a2374b6f20dd6ffc35334073627778d62" resname="drafts.list.action.remove.confirmation.text">
         <source>Are you sure you want to permanently delete the selected draft(s)?</source>
-        <target state="translated">¿Está seguro que desea eliminar permanentemente los borradores seleccionados?</target>
+        <target state="translated">¿Estás seguro de que deseas eliminar permanentemente los borradores seleccionados?</target>
         <note>key: drafts.list.action.remove.confirmation.text</note>
       </trans-unit>
       <trans-unit id="b62c11ec52c71a7923851340a98932ed8ac8704b" resname="drafts.list.content_type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: drafts.list.content_type</note>
       </trans-unit>
       <trans-unit id="3cdd0ca8cb41c22f9120de646cc5734f7cad7ffb" resname="drafts.list.last_saved">
