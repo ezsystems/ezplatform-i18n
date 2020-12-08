@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="24a0b301998be73b299ac86967952ef729264dec" resname="url.list.title">
         <source>Links (%count%)</source>
-        <target state="translated">(%count%) Enlaces</target>
+        <target state="translated">(%count%) enlaces</target>
         <note>key: url.list.title</note>
       </trans-unit>
       <trans-unit id="126d1ac5ef68809c1a2bfdd3872470d7aafaacc3" resname="url.open">
