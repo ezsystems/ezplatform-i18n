@@ -736,6 +736,12 @@
         <note>key: select.contents.to.add</note>
         <jms:reference-file>Resources/public/js/views/fields/ez-relationlist-editview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="8049139bde69cab92f967e171a9b3f1b933f3151" resname="svg.not.supported">
+        <source>SVG images are not supported. Please choose another image file.</source>
+        <target state="translated">No hay compatibilidad con las imágenes SVG. Elige otro archivo de imagen.</target>
+        <note>key: svg.not.supported</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-image-editview.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="cbeb2eb9d25d8d0349f48bd24450b4431112165a" resname="this.field.is.required">
         <source>This field is required</source>
         <target state="translated">Este campo es obligatorio</target>
@@ -832,6 +838,18 @@
         <target state="translated">Confirmar contraseña</target>
         <note>key: user.passwordconfirm</note>
         <jms:reference-file>Resources/public/templates/fields/edit/user.hbt</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="65a42e27e76bf2722822dd28dd0b7ff2d163cb37" resname="value.should.be.less.than">
+        <source>The value should be less than or equal to %maxIntegerValue%</source>
+        <target state="translated">El valor debe ser menor o igual que %maxIntegerValue%</target>
+        <note>key: value.should.be.less.than</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="0e3930cc51c59d71efa5464323c96d75b93873f3" resname="value.should.be.more.than">
+        <source>The value should be more than or equal to %minIntegerValue%</source>
+        <target state="translated">El valor debe ser mayor o igual que %minFloatValue%</target>
+        <note>key: value.should.be.more.than</note>
+        <jms:reference-file>Resources/public/js/views/fields/ez-integer-editview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="5c462c60b8cdc7e23d84aca23ffda3d32000247e" resname="value.should.be.valid.integer">
         <source>The value should be a valid integer number</source>
