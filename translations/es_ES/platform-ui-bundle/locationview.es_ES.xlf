@@ -8,13 +8,13 @@
     <body>
       <trans-unit id="41c3a5ae2a605ec7f8c6bdb8f33a730e3967f110" resname="being.moved.under">
         <source>'%name%' is being moved under '%parentName%'</source>
-        <target state="translated">'%name%' está siendo removido bajo '%parentName%'</target>
+        <target state="translated">Moviendo '%name%' con nombre '%parentName%'</target>
         <note>key: being.moved.under</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="0a95ef6ccb3ab8cf4b2e04235129c2f08a115a3a" resname="changed.main.location.of">
         <source>The main location of "%name%" has been changed</source>
-        <target state="translated">La ubicación principal de "%name%" ha sido modificada</target>
+        <target state="translated">La ubicación principal de "%name%" se cambió</target>
         <note>key: changed.main.location.of</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
       </trans-unit>
@@ -26,43 +26,43 @@
       </trans-unit>
       <trans-unit id="95d6046a734be802fb22460fd8276a042e7e1198" resname="confirm.remove.location">
         <source>Are you sure you want to remove selected locations?</source>
-        <target state="translated">¿Está seguro de que quiere remover las ubicaciones seleccionadas?</target>
+        <target state="translated">¿Estás seguro de que quieres eliminar las ubicaciones seleccionadas?</target>
         <note>key: confirm.remove.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-locationremoveplugin.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="10b37ae9b695e443fa4704d7a21efd0cadca7d49" resname="confirm.set.main.location">
         <source>Are you sure you want to set this location as main location of content?</source>
-        <target state="translated">¿Está seguro que desea establecer esta ubicación como ubicación principal del contenido?</target>
+        <target state="translated">¿Estás seguro de que quieres establecer esta ubicación como ubicación principal del contenido?</target>
         <note>key: confirm.set.main.location</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-contentsetmainlocationplugin.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="8a2fbb282605f72d531c11a15b621a9edc4913db" resname="confirmed.delete">
         <source>Are you sure you want to delete this content?</source>
-        <target state="translated">¿Está seguro de que desea eliminar este contenido?</target>
+        <target state="translated">¿Estás seguro de que quieres eliminar este contenido?</target>
         <note>key: confirmed.delete</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="a98b131ae17c523ac36a36d82c20b082fc2efa73" resname="confirmed.remove.versions">
         <source>Are you sure you want to remove selected version(s)?</source>
-        <target state="translated">¿Confirma que desea eliminar la(s) version(es) seleccionada(s)?</target>
+        <target state="translated">¿Estás seguro de que quieres eliminar la(s) versione(s) seleccionada(s)?</target>
         <note>key: confirmed.remove.versions</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="e751550d2bffb320256d3934693e4cbe1b9610b5" resname="confirmed.send.to.trash">
         <source>Are you sure you want to send this content to trash?</source>
-        <target state="translated">¿Está seguro que desea enviar este contenido a la papelera?</target>
+        <target state="translated">¿Estás seguro de que quieres enviar el contenido a la Papelera?</target>
         <note>key: confirmed.send.to.trash</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="c44059e516685b63857e6db9c22a11ed0d990519" resname="deleted.content">
         <source>'%name%' was deleted</source>
-        <target state="translated">'%name%' ha sido eliminado</target>
+        <target state="translated">'%name%' se eliminó</target>
         <note>key: deleted.content</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="380334ddc39c537065b6b955660ee02d5af915f2" resname="deleting.content">
         <source>Deleting '%name%'</source>
-        <target state="translated">Eliminar '%name%'</target>
+        <target state="translated">Eliminando '%name%'</target>
         <note>key: deleting.content</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
@@ -74,19 +74,19 @@
       </trans-unit>
       <trans-unit id="abde0bee2ae04d9f8c4d588cb25a8667ba96d67e" resname="failed.creating.draft.for.based.on">
         <source>Creating new draft for "%name%" based on version %version% failed.</source>
-        <target state="translated">Falló la creación del nuevo borrador para "% name%" basado en la versión % version%.</target>
+        <target state="translated">Error al crear un nuevo borrador para "% name%" basado en la versión %version%.</target>
         <note>key: failed.creating.draft.for.based.on</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="a35316336667d1d2661322af8daeb7f76c0a7743" resname="failed.deleting.content">
         <source>An error occurred when deleting '%name%'</source>
-        <target state="translated">Se ha producido un error al eliminar '%name%'</target>
+        <target state="translated">Se produjo un error al eliminar '%name%'</target>
         <note>key: failed.deleting.content</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="fd0df2ab8df516f5a2900775c5f427ddb9012b77" resname="failed.sending.to.trash">
         <source>An error occurred when sending '%contentName%' to Trash</source>
-        <target state="translated">Ocurrió un error al enviar '%contentName%' a la papelera</target>
+        <target state="translated">Se produjo un error al enviar '%contentName%' a la Papelera</target>
         <note>key: failed.sending.to.trash</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="e59fc009e6dc0079786973ab8b8542f463d3b233" resname="failed.updated.priority">
         <source>An error occurred when updating the priority</source>
-        <target state="translated">Se ha producido un error al actualizar la prioridad</target>
+        <target state="translated">Se produjo un error al actualizar la prioridad</target>
         <note>key: failed.updated.priority</note>
         <jms:reference-file>Resources/public/js/views/services/ez-locationviewviewservice.js</jms:reference-file>
       </trans-unit>
@@ -110,7 +110,7 @@
       </trans-unit>
       <trans-unit id="2e143171eb44b9d8b17a06195b938181101de957" resname="locationview.details.contentid">
         <source>Content Id</source>
-        <target state="translated">ID del contenido</target>
+        <target state="translated">Id. del contenido</target>
         <note>key: locationview.details.contentid</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
@@ -122,7 +122,7 @@
       </trans-unit>
       <trans-unit id="5095b70f3c9ccc1c77ba2d4f8ae1b2ce6121e233" resname="locationview.details.default.listing.of.subitems.by">
         <source>Default listing of sub-items by</source>
-        <target state="translated">Listado por defecto de sub-elementos por</target>
+        <target state="translated">Listado predeterminado de sub-ítems por</target>
         <note>key: locationview.details.default.listing.of.subitems.by</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
@@ -134,13 +134,13 @@
       </trans-unit>
       <trans-unit id="85dbe816267d441a33ecd4d1778b58f25a350814" resname="locationview.details.loadingcreator">
         <source>Loading the creator</source>
-        <target state="translated">Cargando el autor</target>
+        <target state="translated">Cargando creador</target>
         <note>key: locationview.details.loadingcreator</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="4d80e1ddcdccb24545ffd7cfc24ca2290bfe2093" resname="locationview.details.retry">
         <source>Retry</source>
-        <target state="translated">Volver a intentarlo</target>
+        <target state="translated">Reintentar</target>
         <note>key: locationview.details.retry</note>
         <jms:reference-file>Resources/public/templates/tabs/details.hbt</jms:reference-file>
       </trans-unit>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="419a69fad078eeaaf43244ac5874bc075affa8dc" resname="locationview.versions.delete.selected.draft">
         <source>Delete selected draft</source>
-        <target state="translated">Eliminar borradores seleccionados</target>
+        <target state="translated">Eliminar borrador seleccionado</target>
         <note>key: locationview.versions.delete.selected.draft</note>
         <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="5037377a0c7dc615547308d1ed82755e31176c03" resname="locationview.versions.last.saved">
         <source>Last saved</source>
-        <target state="translated">Ultimo guardado</target>
+        <target state="translated">Guardado por última vez</target>
         <note>key: locationview.versions.last.saved</note>
         <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="f5e46b4632894a0a9a2b38eda614267de3e5e229" resname="locationview.versions.loading.published.list">
         <source>Loading the published version list</source>
-        <target state="translated">Cargando la lista de versiones publicada</target>
+        <target state="translated">Cargando la lista de versiones publicadas</target>
         <note>key: locationview.versions.loading.published.list</note>
         <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
@@ -230,7 +230,7 @@
       </trans-unit>
       <trans-unit id="51b6a4fff074bf24fc4183bc944890cc849ba82d" resname="locationview.versions.remove.selected.archived.version">
         <source>Remove selected archived version(s)</source>
-        <target state="translated">Eliminar la versión(s) archivada(s)</target>
+        <target state="translated">Eliminar la(s) versión(es) archivada(s) seleccionada(s)</target>
         <note>key: locationview.versions.remove.selected.archived.version</note>
         <jms:reference-file>Resources/public/templates/tabs/versions.hbt</jms:reference-file>
       </trans-unit>
@@ -248,13 +248,13 @@
       </trans-unit>
       <trans-unit id="6bf8a2da889909164b44ea5b8942e18acb8f29b1" resname="removing.versions.for">
         <source>Removing versions for "%name%"</source>
-        <target state="translated">Eliminando versiones para "%name%"</target>
+        <target state="translated">Eliminando versiones de "%name%"</target>
         <note>key: removing.versions.for</note>
         <jms:reference-file>Resources/public/js/views/services/plugins/ez-versionsplugin.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="5fa3c429a7ffda07ccc05013a851a2beafee966d" resname="sort.content.type.identifier">
         <source>Content type identifier</source>
-        <target state="translated">Identificador del Tipo de Contenido</target>
+        <target state="translated">Identificador del tipo de contenido</target>
         <note>key: sort.content.type.identifier</note>
         <jms:reference-file>Resources/public/js/views/tabs/ez-locationviewdetailstabview.js</jms:reference-file>
       </trans-unit>
