@@ -120,6 +120,12 @@
         <note>key: language.notification.created</note>
         <jms:reference-file line="46">Form/Processor/LanguageFormProcessor.php</jms:reference-file>
       </trans-unit>
+      <trans-unit id="8af969d1a41cea0770e73d1a51c27ca9fce5f7cb" resname="language.notification.updated">
+        <source>The language "%languageName%" was correctly saved.</source>
+        <target state="translated">El idioma "%languageName%" se creó con éxito.</target>
+        <note>key: language.notification.updated</note>
+        <jms:reference-file line="48">Form/Processor/LanguageFormProcessor.php</jms:reference-file>
+      </trans-unit>
       <trans-unit id="8df2798a2851c0d43893e3862f8a2e6e4290b141" resname="language.view.title">
         <source>Language: %languageName%</source>
         <target state="translated">Idioma: %languageName%</target>
