@@ -8,14 +8,14 @@
     <body>
       <trans-unit id="305047e96ec089021660ee5965f893ac80268731" resname="center">
         <source>Center</source>
-        <target state="translated">Centrado</target>
+        <target state="translated">Centrar</target>
         <note>key: center</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextaligncenter.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/embedcenter.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="cfff27c96089b93150f3553b6ffdd39d0d5d8e78" resname="embed">
         <source>Embed</source>
-        <target state="translated">Incrustado</target>
+        <target state="translated">Insertar</target>
         <note>key: embed</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/embed.js</jms:reference-file>
       </trans-unit>
@@ -34,7 +34,7 @@
       </trans-unit>
       <trans-unit id="4decf57f600f5e23f972092da3023f7065f7008b" resname="heading.2">
         <source>Heading 2</source>
-        <target state="translated">Título 2</target>
+        <target state="translated">Encabezado 2</target>
         <note>key: heading.2</note>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
         <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit id="9dda4a5c146e73bc34c431f92055186a9e5a45c9" resname="link.to">
         <source>Link to:</source>
-        <target state="translated">Enlazado a:</target>
+        <target state="translated">Enlazar a:</target>
         <note>key: link.to</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
       </trans-unit>
@@ -130,13 +130,13 @@
       </trans-unit>
       <trans-unit id="6c7ff48bfb23af1c48100802f28c610bb4e477b6" resname="select.another.image">
         <source>Select another image</source>
-        <target state="translated">Seleccione otra imagen</target>
+        <target state="translated">Selecciona otra imagen</target>
         <note>key: select.another.image</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/imagehref.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content">
         <source>Select content</source>
-        <target state="translated">Seleccione contenido</target>
+        <target state="translated">Seleccionar contenido</target>
         <note>key: select.content</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
       </trans-unit>
