@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="dfbc84f747379ac08358ac78f5756d91dc9dd715" resname="config_form.block_config.embed_field_base.udw.title">
         <source>Browse content</source>
-        <target state="translated">Explorar el contenido</target>
+        <target state="translated">Explorar contenido</target>
         <note>key: config_form.block_config.embed_field_base.udw.title</note>
       </trans-unit>
       <trans-unit id="1cea3c1fab7233ec7948b0aa22fb3e45643b7a9a" resname="config_form.widgets.collection.udw.title">
@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="36cdc651708919d9a830acb2c742b325fd23aeb5" resname="error.message">
         <source>Something went wrong</source>
-        <target state="translated">Algo ha fallado</target>
+        <target state="translated">Algo salió mal</target>
         <note>key: error.message</note>
       </trans-unit>
       <trans-unit id="9883bd31212048bc2352b92dcc30b541e6eac5b5" resname="layout_selector.close.label">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="3757c8d49f2f414947ad6e44afc53498b4474d55" resname="sidebar.title">
         <source>Elements</source>
-        <target state="translated">Elementos</target>
+        <target state="translated">Ítems</target>
         <note>key: sidebar.title</note>
       </trans-unit>
       <trans-unit id="720578005f4f9df5991d84e11d283389de3f5801" resname="switch_layout.label">
