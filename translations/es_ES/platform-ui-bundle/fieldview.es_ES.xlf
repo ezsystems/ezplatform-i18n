@@ -55,7 +55,7 @@
       </trans-unit>
       <trans-unit id="9b682841001f88b881dff78dc5f0d7dff0b71330" resname="fieldview.yes">
         <source>yes</source>
-        <target state="translated">sí</target>
+        <target state="translated">Sí</target>
         <note>key: fieldview.yes</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
@@ -67,7 +67,7 @@
       </trans-unit>
       <trans-unit id="dbaaba623cb1c7f8c1c65c4be03b3838a8e80908" resname="image.error.loading">
         <source>An error occurred while loading the image.</source>
-        <target state="translated">Se ha producido un error al cargar la imagen.</target>
+        <target state="translated">Se produjo un error al cargar la imagen.</target>
         <note>key: image.error.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/image.hbt</jms:reference-file>
       </trans-unit>
@@ -91,7 +91,7 @@
       </trans-unit>
       <trans-unit id="f99159789fb9c89f1ac926ec3e8221b5bc4fd34e" resname="maplocation.map.loading">
         <source>The map is loading...</source>
-        <target state="translated">El mapa esta cargando...</target>
+        <target state="translated">El mapa está cargando...</target>
         <note>key: maplocation.map.loading</note>
         <jms:reference-file>Resources/public/templates/fields/view/maplocation.hbt</jms:reference-file>
       </trans-unit>
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="22ba814b33eebd8af70529872cafaa1bc4b87064" resname="media.auto.play">
         <source>Auto play:</source>
-        <target state="translated">Lectura automática:</target>
+        <target state="translated">Reproducción automática:</target>
         <note>key: media.auto.play</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
@@ -115,7 +115,7 @@
       </trans-unit>
       <trans-unit id="7097c3e879074d847c1d5bc6710b2fe4afa91171" resname="media.file.name">
         <source>File name:</source>
-        <target state="translated">Nombre de archivo:</target>
+        <target state="translated">Nombre del archivo:</target>
         <note>key: media.file.name</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
@@ -151,19 +151,19 @@
       </trans-unit>
       <trans-unit id="f627fe6c0a96d227ca48a741cf697410a965414d" resname="media.unsupported.audio">
         <source>Unsupported audio format</source>
-        <target state="translated">Formato de audio no soportado</target>
+        <target state="translated">Formato de audio no compatible</target>
         <note>key: media.unsupported.audio</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="b1b6477775b3f0d529859f0f47b9a6436a63d1fa" resname="media.unsupported.video">
         <source>Unsupported video format</source>
-        <target state="translated">Formato de video no soportado</target>
+        <target state="translated">Formato de vídeo no compatible</target>
         <note>key: media.unsupported.video</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="50b9d8f07bb1b6014bb2762a6fc889267a200390" resname="media.video.file.properties">
         <source>Video file properties</source>
-        <target state="translated">Propiedades de archivo de video</target>
+        <target state="translated">Propiedades del archivo de vídeo</target>
         <note>key: media.video.file.properties</note>
         <jms:reference-file>Resources/public/templates/fields/view/media.hbt</jms:reference-file>
       </trans-unit>
@@ -199,7 +199,7 @@
       </trans-unit>
       <trans-unit id="faedf9e69727ee79230585317a79d93c074508b8" resname="richtext.parsing.error">
         <source>An error occurred while parsing the content of this field</source>
-        <target state="translated">Se ha producido un error al analizar el contenido de este campo</target>
+        <target state="translated">Se produjo un error al analizar el contenido de este campo</target>
         <note>key: richtext.parsing.error</note>
         <jms:reference-file>Resources/public/templates/fields/view/richtext.hbt</jms:reference-file>
       </trans-unit>
