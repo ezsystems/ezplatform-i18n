@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="0b5b303097790cd7cf1dde918d885439e60ecbd2" resname="content_type.add_field_definition">
         <source>Add field definition</source>
-        <target state="translated">Agregar una definición de campo</target>
+        <target state="translated">Añadir una definición de campo</target>
         <note>key: content_type.add_field_definition</note>
         <jms:reference-file line="128">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
@@ -20,19 +20,19 @@
       </trans-unit>
       <trans-unit id="7b64ebcf792d888de957eaee1c3734c97c80db98" resname="content_type.default_always_available">
         <source>Default content availability</source>
-        <target state="translated">Disponibilidad de contenido por defecto</target>
+        <target state="translated">Disponibilidad de contenido predeterminado</target>
         <note>key: content_type.default_always_available</note>
         <jms:reference-file line="115">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="b29f5d9c32e10776ec9fd36c35c4aefc96732cb2" resname="content_type.default_sort_field">
         <source>Default field for sorting children</source>
-        <target state="translated">Campo por defecto para ordenar hijos</target>
+        <target state="translated">Campo predeterminado para ordenar ubicaciones secundarias</target>
         <note>key: content_type.default_sort_field</note>
         <jms:reference-file line="103">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="7a67ffefca1339a9e4c5224d773378c2e5f6f378" resname="content_type.default_sort_order">
         <source>Default sort order</source>
-        <target state="translated">Orden por defecto</target>
+        <target state="translated">Orden de clasificación predeterminado</target>
         <note>key: content_type.default_sort_order</note>
         <jms:reference-file line="111">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
@@ -50,7 +50,7 @@
       </trans-unit>
       <trans-unit id="2aecf6f88fd1ee89037907b8743d5873879a0590" resname="content_type.field_definitions_data">
         <source>Content field definitions</source>
-        <target state="translated">Definiciones de los campos de contenidos</target>
+        <target state="translated">Definiciones de los campos de contenido</target>
         <note>key: content_type.field_definitions_data</note>
         <jms:reference-file line="120">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="c625b80940dd9f13842e38446a97391248d0f709" resname="content_type.sort_field.1">
         <source>Location path</source>
-        <target state="translated">Ruta de la localización</target>
+        <target state="translated">Ruta de ubicación</target>
         <note>key: content_type.sort_field.1</note>
         <jms:reference-file>eZ\Publish\API\Repository\Values\Content\Location</jms:reference-file>
       </trans-unit>
@@ -152,25 +152,25 @@
       </trans-unit>
       <trans-unit id="08c573b0f90eddd499911819f24a58632ceec79b" resname="content_type.sort_field.5">
         <source>Location depth</source>
-        <target state="translated">Profundidad de la localización</target>
+        <target state="translated">Profundidad de la ubicación</target>
         <note>key: content_type.sort_field.5</note>
         <jms:reference-file>eZ\Publish\API\Repository\Values\Content\Location</jms:reference-file>
       </trans-unit>
       <trans-unit id="f75919a228809d6de255e3fd535c4eaaf8789241" resname="content_type.sort_field.6">
         <source>ContentType identifier</source>
-        <target state="translated">Identificador del Tipo de Contenido</target>
+        <target state="translated">Identificador del tipo de contenido</target>
         <note>key: content_type.sort_field.6</note>
         <jms:reference-file>eZ\Publish\API\Repository\Values\Content\Location</jms:reference-file>
       </trans-unit>
       <trans-unit id="f4bd88a45172f3cf7e268c40cfc27b0c5336bc9b" resname="content_type.sort_field.7">
         <source>ContentType name</source>
-        <target state="translated">Nombre del Tipo de Contenido</target>
+        <target state="translated">Nombre del tipo de contenido</target>
         <note>key: content_type.sort_field.7</note>
         <jms:reference-file>eZ\Publish\API\Repository\Values\Content\Location</jms:reference-file>
       </trans-unit>
       <trans-unit id="d605ada5b53c58b7d08df3379cdc8c9ffc619a3f" resname="content_type.sort_field.8">
         <source>Location priority</source>
-        <target state="translated">Prioridad de la localización</target>
+        <target state="translated">Prioridad de ubicación</target>
         <note>key: content_type.sort_field.8</note>
         <jms:reference-file>eZ\Publish\API\Repository\Values\Content\Location</jms:reference-file>
       </trans-unit>
@@ -194,7 +194,7 @@
       </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
         <source>URL alias name pattern</source>
-        <target state="translated">Patrón de nombre de alias de URL</target>
+        <target state="translated">Patrón de alias de URL</target>
         <note>key: content_type.url_alias_schema</note>
         <jms:reference-file line="88">lib/Form/Type/ContentType/ContentTypeUpdateType.php</jms:reference-file>
       </trans-unit>
@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="3ef6598f8cd7d60095784845bb24852ac531e47c" resname="field_definition.ezcountry.default_value">
         <source>Select which countries by default</source>
-        <target state="translated">Seleccione qué países se usarán por defecto</target>
+        <target state="translated">Seleccionar países predeterminados</target>
         <note>key: field_definition.ezcountry.default_value</note>
         <jms:reference-file line="56">lib/FieldType/Mapper/CountryFormMapper.php</jms:reference-file>
       </trans-unit>
@@ -242,7 +242,7 @@
       </trans-unit>
       <trans-unit id="df532a4ad5878fd0bc3f7842fb6907078efe76f9" resname="field_definition.ezdate.default_type_empty">
         <source>Empty</source>
-        <target state="translated">Vacio</target>
+        <target state="translated">Vacío</target>
         <note>key: field_definition.ezdate.default_type_empty</note>
         <jms:reference-file line="27">lib/FieldType/Mapper/DateFormMapper.php</jms:reference-file>
       </trans-unit>
@@ -272,7 +272,7 @@
       </trans-unit>
       <trans-unit id="0119e6a5f0c829a61263c3a8a37dda53b9da8dce" resname="field_definition.ezdatetime.default_type_empty">
         <source>Empty</source>
-        <target state="translated">Vacio</target>
+        <target state="translated">Vacío</target>
         <note>key: field_definition.ezdatetime.default_type_empty</note>
         <jms:reference-file line="32">lib/FieldType/Mapper/DateTimeFormMapper.php</jms:reference-file>
       </trans-unit>
@@ -356,13 +356,13 @@
       </trans-unit>
       <trans-unit id="fb4e0e47312060617df5c281c7fc5a537929369f" resname="field_definition.ezmedia.type_html5_audio">
         <source>HTML5 audio</source>
-        <target state="translated">Audio HTML5</target>
+        <target state="translated">Audio de HTML5</target>
         <note>key: field_definition.ezmedia.type_html5_audio</note>
         <jms:reference-file line="37">lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="2039c43bb8832c53f19d0a027c64e40e51f22899" resname="field_definition.ezmedia.type_html5_video">
         <source>HTML5 video</source>
-        <target state="translated">Video HTML5</target>
+        <target state="translated">Video de HTML5</target>
         <note>key: field_definition.ezmedia.type_html5_video</note>
         <jms:reference-file line="31">lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
       </trans-unit>
@@ -392,19 +392,19 @@
       </trans-unit>
       <trans-unit id="440d8fe80bb8a07b62f17d843721285b2cf8a4d5" resname="field_definition.ezobjectrelation.selection_root">
         <source>Default selection item</source>
-        <target state="translated">Elemento de selección predeterminado</target>
+        <target state="translated">Ítem de selección predeterminado</target>
         <note>key: field_definition.ezobjectrelation.selection_root</note>
         <jms:reference-file line="25">lib/FieldType/Mapper/RelationFormMapper.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="e03e262fad0802fdee49aac136644b35450e1eab" resname="field_definition.ezobjectrelation.selection_root_udw_button">
         <source>Select item</source>
-        <target state="translated">Seleccionar elemento</target>
+        <target state="translated">Seleccionar ítem</target>
         <note>key: field_definition.ezobjectrelation.selection_root_udw_button</note>
         <jms:reference-file line="129">bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="d892163a41d816c03db3c4a04e35550f02169c11" resname="field_definition.ezobjectrelation.selection_root_udw_title">
         <source>Select a start location for browsing for relation</source>
-        <target state="translated">Seleccione una localización de inicio para buscar el elemento a relacionar</target>
+        <target state="translated">Selecciona una ubicación de inicio para buscar el ítem a relacionar</target>
         <note>key: field_definition.ezobjectrelation.selection_root_udw_title</note>
         <jms:reference-file line="125">bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
       </trans-unit>
@@ -416,19 +416,19 @@
       </trans-unit>
       <trans-unit id="b08d97ea9175eef7352c7e9c5c8ee0516798bdfa" resname="field_definition.ezobjectrelationlist.selection_default_location">
         <source>Default location</source>
-        <target state="translated">Localización Predeterminada</target>
+        <target state="translated">Ubicación predeterminada</target>
         <note>key: field_definition.ezobjectrelationlist.selection_default_location</note>
         <jms:reference-file line="58">lib/FieldType/Mapper/RelationListFormMapper.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="1592c36df8d445c3154d1f639027f97a90739856" resname="field_definition.ezobjectrelationlist.selection_root_udw_button">
         <source>Select location</source>
-        <target state="translated">Seleccionar localzación</target>
+        <target state="translated">Seleccionar ubicación</target>
         <note>key: field_definition.ezobjectrelationlist.selection_root_udw_button</note>
         <jms:reference-file line="148">bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="17d8f3e8bbd5b5f0f5b4b02ddaeaf2af82b0d222" resname="field_definition.ezobjectrelationlist.selection_root_udw_title">
         <source>Select a start location for browsing for relations</source>
-        <target state="translated">Seleccione una localización de inicio para buscar los elementos a relacionar</target>
+        <target state="translated">Selecciona una ubicación de inicio para buscar relaciones</target>
         <note>key: field_definition.ezobjectrelationlist.selection_root_udw_title</note>
         <jms:reference-file line="144">bundle/Resources/views/ContentType/field_types.html.twig</jms:reference-file>
       </trans-unit>
@@ -500,7 +500,7 @@
       </trans-unit>
       <trans-unit id="0a0e3e8eb5d13b0e9e8ca8348615a5c00e2e51c1" resname="field_definition.eztime.default_type_empty">
         <source>Empty</source>
-        <target state="translated">Vacio</target>
+        <target state="translated">Vacío</target>
         <note>key: field_definition.eztime.default_type_empty</note>
         <jms:reference-file line="38">lib/FieldType/Mapper/TimeFormMapper.php</jms:reference-file>
       </trans-unit>
@@ -524,13 +524,13 @@
       </trans-unit>
       <trans-unit id="6e91f443eb0cd4ab99331950f20cdbcc03f0b88c" resname="field_definition.is_required">
         <source>Required</source>
-        <target state="translated">Requerido</target>
+        <target state="translated">Obligatorio</target>
         <note>key: field_definition.is_required</note>
         <jms:reference-file line="88">lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="a0267d640a8276b546263c23a5dfdf8e99cc3468" resname="field_definition.is_searchable">
         <source>Searchable</source>
-        <target state="translated">Búscable</target>
+        <target state="translated">Con opción de búsqueda</target>
         <note>key: field_definition.is_searchable</note>
         <jms:reference-file line="113">lib/Form/Type/FieldDefinition/FieldDefinitionType.php</jms:reference-file>
       </trans-unit>
