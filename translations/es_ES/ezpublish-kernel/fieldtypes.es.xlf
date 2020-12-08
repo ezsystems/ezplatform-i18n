@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="129dd46eabe280c49a0e9d424d9cbf676621aec9" resname="ezboolean.name">
         <source>Checkbox</source>
-        <target state="translated">Checkbox</target>
+        <target state="translated">Casilla de verificación</target>
         <note>key: ezboolean.name</note>
       </trans-unit>
       <trans-unit id="c4c3e3c536a09969467c7c9bb584459b47317fed" resname="ezcountry.name">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="0a1f3297ccc08882f5a4610f9af8fc4148c74adc" resname="ezfloat.name">
         <source>Float</source>
-        <target state="translated">Flotante</target>
+        <target state="translated">Decimal</target>
         <note>key: ezfloat.name</note>
       </trans-unit>
       <trans-unit id="fcabb29fdb097d916c88328daad461c1ea765121" resname="ezgmaplocation.name">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="3afdca17c734ecb3a077bcc4ba7f75a7544e845d" resname="ezimageasset.name">
         <source>Image Asset</source>
-        <target state="translated">Activo de imagen</target>
+        <target state="translated">Recurso de imagen</target>
         <note>key: ezimageasset.name</note>
       </trans-unit>
       <trans-unit id="3b0f44cd332c71e78209a1a4b235bc6a1e6d374b" resname="ezinteger.name">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="fc0d2c8719e7c36f101ff6ddcbdfc804bf8f3da7" resname="ezmedia.name">
         <source>Media</source>
-        <target state="translated">Media</target>
+        <target state="translated">Multimedia</target>
         <note>key: ezmedia.name</note>
       </trans-unit>
       <trans-unit id="feb25b24199466f077038c5e6e38209deae21471" resname="ezobjectrelation.name">
@@ -88,12 +88,12 @@
       </trans-unit>
       <trans-unit id="44d2ac9ae83f6b73fa8f61fad66a77d76d2159f0" resname="ezobjectrelationlist.name">
         <source>Content relations (multiple)</source>
-        <target state="translated">Relación a contenidos (multiple)</target>
+        <target state="translated">Relación a contenidos (múltiple)</target>
         <note>key: ezobjectrelationlist.name</note>
       </trans-unit>
       <trans-unit id="6ce4370c413c1a478e8e3c0a072a340584338b84" resname="ezpage.name">
         <source>Layout</source>
-        <target state="translated">Layout</target>
+        <target state="translated">Diseño</target>
         <note>key: ezpage.name</note>
       </trans-unit>
       <trans-unit id="3accdb01fd6ce79f38be1b4622659b61be77b608" resname="ezprice.name">
