@@ -8,14 +8,14 @@
     <body>
       <trans-unit id="35e8277cc95cf8aaf1e8e9ffcb5ea39e6502bbd0" resname="bundles">
         <source>Bundles</source>
-        <target state="translated">Bundles</target>
+        <target state="translated">Paquetes</target>
         <note>key: bundles</note>
         <jms:reference-file line="23">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
         <jms:reference-file line="29">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="874ad8df43111be5efde68a54160acf7badff6c9" resname="composer">
         <source>Composer</source>
-        <target state="translated">Composer</target>
+        <target state="translated">Autor</target>
         <note>key: composer</note>
         <jms:reference-file line="3">Resources/views/ez-support-tools/info/composer.html.twig</jms:reference-file>
       </trans-unit>
@@ -39,7 +39,7 @@
       </trans-unit>
       <trans-unit id="5588036c51b3fff9557483e210bfd47187f54ac8" resname="database.host">
         <source>Host</source>
-        <target state="translated">Host</target>
+        <target state="translated">Anfitrión</target>
         <note>key: database.host</note>
         <jms:reference-file line="9">Resources/views/ez-support-tools/info/database.html.twig</jms:reference-file>
       </trans-unit>
@@ -76,7 +76,7 @@
       </trans-unit>
       <trans-unit id="74d0f849585c3bfe67e3477d0773fd8f097bd54d" resname="symfony_kernel.charset">
         <source>Character set</source>
-        <target state="translated">Juego de caracteres</target>
+        <target state="translated">Set de caracteres</target>
         <note>key: symfony_kernel.charset</note>
         <jms:reference-file line="19">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
       </trans-unit>
@@ -94,7 +94,7 @@
       </trans-unit>
       <trans-unit id="56014c7eba59799c182934e3a0eb97eff6fd8a97" resname="symfony_kernel.rootDir">
         <source>Root directory</source>
-        <target state="translated">Carpeta raíz</target>
+        <target state="translated">Directorio raíz</target>
         <note>key: symfony_kernel.rootDir</note>
         <jms:reference-file line="13">Resources/views/ez-support-tools/info/symfony_kernel.html.twig</jms:reference-file>
       </trans-unit>
