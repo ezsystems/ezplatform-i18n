@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="3fc804a965ff2e460abe746886d45fd7d40e9d3b" resname="contenttypeselector.choose.content.type">
         <source>Choose a content type</source>
-        <target state="translated">Elegir un tipo de contenido</target>
+        <target state="translated">Elige un tipo de contenido</target>
         <note>key: contenttypeselector.choose.content.type</note>
         <jms:reference-file>Resources/public/templates/contenttypeselector.hbt</jms:reference-file>
       </trans-unit>
@@ -26,7 +26,7 @@
       </trans-unit>
       <trans-unit id="e1d6420dd5ff75aabc939563cb4e874c0f9cbb00" resname="contenttypeselector.start.typing">
         <source>start typing to refine the list</source>
-        <target state="translated">comienza a escribir para refinar la lista</target>
+        <target state="translated">comenzar a escribir para mejorar la lista</target>
         <note>key: contenttypeselector.start.typing</note>
         <jms:reference-file>Resources/public/templates/contenttypeselector.hbt</jms:reference-file>
       </trans-unit>
