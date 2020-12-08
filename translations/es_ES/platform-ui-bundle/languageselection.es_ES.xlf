@@ -26,7 +26,7 @@
       </trans-unit>
       <trans-unit id="f12577db02f302b72857787edaf2db262b509e01" resname="languageselectionbox.select.base.language">
         <source>Select a base language:</source>
-        <target state="translated">Seleccione el idioma base:</target>
+        <target state="translated">Selecciona el idioma principal:</target>
         <note>key: languageselectionbox.select.base.language</note>
         <jms:reference-file>Resources/public/templates/languageselectionbox.hbt</jms:reference-file>
       </trans-unit>
