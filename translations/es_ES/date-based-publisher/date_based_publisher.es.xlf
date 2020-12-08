@@ -33,12 +33,12 @@
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
       <trans-unit id="841a1c1c491e1adec03ce7e9476879c4bb32edb7" resname="dashboard.table.contributor">
         <source>Contributor</source>
-        <target state="translated">Contribuidor</target>
+        <target state="translated">Colaborador</target>
         <note>key: dashboard.table.contributor</note>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="f99f89ba09246220d9b545d89a5c6ba76ff7b977" resname="date_based_publisher.error.publish_later">
         <source>Cannot schedule content: %reason%</source>
-        <target state="translated">No puede programar la publicación del contenido: %reason%</target>
+        <target state="translated">No se puede programar la publicación del contenido: %reason%</target>
         <note>key: date_based_publisher.error.publish_later</note>
       </trans-unit>
       <trans-unit id="dcb8f016db59563b21714e4ba0688f7650fc6995" resname="menu.date_based_publisher">
@@ -58,7 +58,7 @@
       </trans-unit>
       <trans-unit id="c9d2f1516b204c6e1a54e65850b843f5cc4d7650" resname="menu.date_based_publisher.discard">
         <source>Discard publish later</source>
-        <target state="translated">Descartar publicación a futuro</target>
+        <target state="translated">Descartar publicación más tarde</target>
         <note>key: menu.date_based_publisher.discard</note>
       </trans-unit>
       <trans-unit id="4c1883ba5e2eb4e3a70391d122a474304c1d95df" resname="publish_later.confirm">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="556b388819e694acae15637989c32827c445faed" resname="publish_later.settings">
         <source>Future publication settings</source>
-        <target state="translated">Configuración de publicación a futuro</target>
+        <target state="translated">Ajustes de próxima publicación</target>
         <note>key: publish_later.settings</note>
       </trans-unit>
       <trans-unit id="e5a66fd1e539dbf81f810d2022a3d8ee67a7a17c" resname="tab.name.all_scheduled">
