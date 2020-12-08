@@ -8,13 +8,13 @@
     <body>
       <trans-unit id="0f6a24fa439e992bc7919aa2d949c05077899adc" resname="browse">
         <source>Browse</source>
-        <target state="translated">Explorar</target>
+        <target state="translated">Examinar</target>
         <note>key: browse</note>
         <jms:reference-file>Resources/public/js/views/universaldiscovery/ez-universaldiscoverybrowseview.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="eb49b4ba3c7e1ef3ac5b6d8f82f8095bed616989" resname="no.result">
         <source>No results were found while searching for "%searchText%".</source>
-        <target state="translated">No se han encontrado resultados al buscar "%searchText%".</target>
+        <target state="translated">No se encontraron resultados al buscar "%searchText%".</target>
         <note>key: no.result</note>
         <jms:reference-file>Resources/public/templates/universaldiscovery/search.hbt</jms:reference-file>
       </trans-unit>
