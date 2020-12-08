@@ -8,13 +8,13 @@
     <body>
       <trans-unit id="e2b8dff16cf1b8ad7848630c4d7c42cc31ac5e21" resname="Enter login or email">
         <source>Enter login or email</source>
-        <target state="translated">Introduzca nombre de usuario o correo electrónico</target>
+        <target state="translated">Introduce el nombre de usuario o correo electrónico</target>
         <note>key: Enter login or email</note>
         <jms:reference-file line="18">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="570591c060a999e9ab1592763c74d881b7654ee1" resname="Enter password">
         <source>Enter password</source>
-        <target state="translated">Ingresar contraseña</target>
+        <target state="translated">Introduce la contraseña</target>
         <note>key: Enter password</note>
         <jms:reference-file line="22">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
       </trans-unit>
