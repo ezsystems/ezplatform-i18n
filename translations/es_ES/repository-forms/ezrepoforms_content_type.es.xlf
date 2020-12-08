@@ -461,6 +461,11 @@
         <target state="translated">La contraseña debe contener al menos 1 letra en minúscula</target>
         <note>key: field_definition.ezuser.require_at_least_one_lower_case_character</note>
       </trans-unit>
+      <trans-unit id="d694dab8e90b1f2b1a633c0f6ba200e66c18ce02" resname="field_definition.ezuser.require_at_least_one_non_alphanumeric_character">
+        <source>Password must contain at least one non-alphanumeric character</source>
+        <target state="translated">La contraseña debe contener al menos 1 un carácter no alfanumérico</target>
+        <note>key: field_definition.ezuser.require_at_least_one_non_alphanumeric_character</note>
+      </trans-unit>
       <trans-unit id="26cb6ab7ae7e190a9d8d8b0411512b531c8c42ff" resname="field_definition.ezuser.require_at_least_one_numeric_character">
         <source>Password must contain at least one number</source>
         <target state="translated">La contraseña debe contener al menos 1 número</target>
@@ -470,6 +475,21 @@
         <source>Password must contain at least one uppercase letter</source>
         <target state="translated">La contraseña debe contener al menos 1 letra en mayúscula</target>
         <note>key: field_definition.ezuser.require_at_least_one_upper_case_character</note>
+      </trans-unit>
+      <trans-unit id="b3a4113222154dde9c8d136f4bea80217129b739" resname="field_definition.ezuser.password_ttl">
+        <source>Days before password expires</source>
+        <target state="translated">Días hasta que expire la contraseña</target>
+        <note>key: field_definition.ezuser.password_ttl</note>
+      </trans-unit>
+      <trans-unit id="cd2c70b2a3594f4de7adca0e84da6f106790ae8c" resname="field_definition.ezuser.password_ttl_warning">
+        <source>Days before a user is notified about expiration</source>
+        <target state="translated">Días hasta que se notifique a un usuario sobre la expiración</target>
+        <note>key: field_definition.ezuser.password_ttl_warning</note>
+      </trans-unit>
+      <trans-unit id="c196b953a8bc8966aeeb771c2c9e653bbe8062bb" resname="field_definition.ezuser.require_new_password">
+        <source>Prevent reusing old password</source>
+        <target state="translated">Evita reutilizar contraseñas anteriores</target>
+        <note>key: field_definition.ezuser.require_new_password</note>
       </trans-unit>
       <trans-unit id="92d9243bb9fac540233dc376b41a3bcd41615ccc" resname="field_definition.field_group">
         <source>Category</source>
