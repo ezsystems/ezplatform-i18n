@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="0dbfb3fd5136aa1d54a82ba5e5f399c2908d26f2" resname="locations.select_subtree">
         <source>Select Subtree</source>
-        <target state="translated">Seleccione el subárbol</target>
+        <target state="translated">Selecciona el subárbol</target>
         <note>key: locations.select_subtree</note>
       </trans-unit>
       <trans-unit id="196c8d4eec96ca42ccdd3605621d51e2b34b6d85" resname="policy.breadcrumb.add">
@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none">
         <source>None</source>
-        <target state="translated">Ninguno</target>
+        <target state="translated">Nada</target>
         <note>key: policy.limitation.none</note>
       </trans-unit>
       <trans-unit id="1ac24fa007363b4280663fba53f7a3b436ed4c8f" resname="policy.view.add.title">
@@ -73,12 +73,12 @@
       </trans-unit>
       <trans-unit id="bcb306dff55cc9a5c5b0277414dd1aab59c96176" resname="policy.view.list.title.count">
         <source>Policies (%count%)</source>
-        <target state="translated">Políticas (%count%)</target>
+        <target state="translated">(%count%) políticas</target>
         <note>key: policy.view.list.title.count</note>
       </trans-unit>
       <trans-unit id="43008c999ece1587436507732b3c1166c393f05c" resname="role.breadcrumb.add">
         <source>Creating a new Role</source>
-        <target state="translated">Crear un rol nuevo</target>
+        <target state="translated">Creando un rol nuevo</target>
         <note>key: role.breadcrumb.add</note>
       </trans-unit>
       <trans-unit id="03e72944d22126b885a65f885ebf8f1b8e2f8579" resname="role.breadcrumb.list">
@@ -93,22 +93,22 @@
       </trans-unit>
       <trans-unit id="45788029a46cf9c1bc9a3d38077e86a99a650576" resname="role.breadcrumb.view.identifier">
         <source>Role "%identifier%"</source>
-        <target state="translated">Role "%identifier%"</target>
+        <target state="translated">Rol "%identifier%"</target>
         <note>key: role.breadcrumb.view.identifier</note>
       </trans-unit>
       <trans-unit id="59754dcca61db396ef9de8abd3aa63645bd50f65" resname="role.create.success">
         <source>Role '%role%' created.</source>
-        <target state="translated">Role '%role%' creado.</target>
+        <target state="translated">Rol '%role%' creado.</target>
         <note>key: role.create.success</note>
       </trans-unit>
       <trans-unit id="20c6318c88508393b9cb8413a6d7e61649f80ab3" resname="role.delete.success">
         <source>Role '%role%' removed.</source>
-        <target state="translated">Role '%role%' eliminado.</target>
+        <target state="translated">Rol '%role%' eliminado.</target>
         <note>key: role.delete.success</note>
       </trans-unit>
       <trans-unit id="75637482fd2563256da5423615ecfb241fc03a57" resname="role.update.success">
         <source>Role '%role%' updated.</source>
-        <target state="translated">Role '%role%' actualizado.</target>
+        <target state="translated">Rol '%role%' actualizado.</target>
         <note>key: role.update.success</note>
       </trans-unit>
       <trans-unit id="da907b734c3ae3df8e9c570dd8e9e7e6d0799105" resname="role.view.add.title">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="18990f93cd60432ec47a75934185b7edbd3d17bf" resname="role.view.list.action.assign_to_users_or_groups">
         <source>Assign to Users/Groups</source>
-        <target state="translated">Assignar a Usuarios/Grupos</target>
+        <target state="translated">Asignar a usuarios/grupos</target>
         <note>key: role.view.list.action.assign_to_users_or_groups</note>
       </trans-unit>
       <trans-unit id="e0b49df6c6b235f7eb4d03019d1f9505dd77a135" resname="role.view.list.action.delete">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="4cb9b2e474c4584dd193e46214b68897ebc6350f" resname="role.view.list.column.id">
         <source>Role ID</source>
-        <target state="translated">ID de rol</target>
+        <target state="translated">Id. de rol</target>
         <note>key: role.view.list.column.id</note>
       </trans-unit>
       <trans-unit id="26470561bbbd003c0ad30bf2cb29f7da50e7d690" resname="role.view.list.column.name">
@@ -158,7 +158,7 @@
       </trans-unit>
       <trans-unit id="84f19e53b432c72daaf803a5cbb9bf10d763b5e4" resname="role.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Viendo <strong>%viewing%</strong> de <strong>%total%</strong> elementos]]></target>
+        <target state="translated"><![CDATA[Visualizando <strong>%viewing%</strong> de <strong>%total%</strong> ítems]]></target>
         <note>key: role.viewing</note>
       </trans-unit>
       <trans-unit id="e7ff6be9f5a7368f2493f29eacfa1ee321d9c383" resname="role_assignment.view.add.panel.limitations.title">
@@ -193,7 +193,7 @@
       </trans-unit>
       <trans-unit id="4b3ecf13ffafd795bc971bc6292ea7f5a0bbe64c" resname="role_assignment.view.list.title.count">
         <source>Assignments (%count%)</source>
-        <target state="translated">Asignaciones (%count%)</target>
+        <target state="translated">(%count%) asignaciones</target>
         <note>key: role_assignment.view.list.title.count</note>
       </trans-unit>
       <trans-unit id="e9f659f5717d317c994c7950c14bcb4be644062c" resname="tab.roles.limitation">
@@ -213,7 +213,7 @@
       </trans-unit>
       <trans-unit id="5abe6179f254b9bdd5e8680eec4456118980932e" resname="validator.assign_users_or_groups">
         <source>Assign User(s) and/or Group(s) to the Role</source>
-        <target state="translated">Assignar Usuario(s) y/o Grupo(s) al Rol</target>
+        <target state="translated">Asignar usuario(s) y/o grupo(s) al rol</target>
         <note>key: validator.assign_users_or_groups</note>
       </trans-unit>
     </body>
