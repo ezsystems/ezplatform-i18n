@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="8187f29c44b9b28df27456f5667aa9d0c26bb1cb" resname="infobar.mode.viewing">
         <source>Viewing</source>
-        <target state="translated">Viendo</target>
+        <target state="translated">Visualizando</target>
         <note>key: infobar.mode.viewing</note>
       </trans-unit>
       <trans-unit id="1739daaed5307ca22b5e2f1729a1746c6de8c346" resname="infobar.translation.add">
@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="2cc4e79efc4101503a381a2440fd864e2cac93a1" resname="infobar.translation.using_fallback_language">
         <source>You are on the fallback language</source>
-        <target state="translated">Usted está en el idioma de reserva</target>
+        <target state="translated">Estás en el idioma de reserva</target>
         <note>key: infobar.translation.using_fallback_language</note>
       </trans-unit>
     </body>
