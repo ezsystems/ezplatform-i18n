@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="0d5f60093de3b822740abad95d1f8cb2195869c9" resname="content__sidebar_right__copy_subtree">
         <source>Copy Subtree</source>
-        <target state="translated">Copiar el subárbol</target>
+        <target state="translated">Copiar subárbol</target>
         <note>key: content__sidebar_right__copy_subtree</note>
       </trans-unit>
       <trans-unit id="a2fafde1538959ee924436a6d4bbd8269c1ac412" resname="content__sidebar_right__create">
@@ -63,7 +63,7 @@
       </trans-unit>
       <trans-unit id="af459eaf05dedc87eb0c462732e59da18bedb340" resname="content_edit__sidebar_right__cancel">
         <source>Delete draft</source>
-        <target state="translated">Eliminar borrador</target>
+        <target state="translated">Descartar borrador</target>
         <note>key: content_edit__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="0698df9938e380422409df827952248fbfcaf02d" resname="content_edit__sidebar_right__preview">
@@ -143,7 +143,7 @@
       </trans-unit>
       <trans-unit id="f85206498106b1536c36c3231d870daa0d2805e2" resname="main__admin__content_types">
         <source>Content Types</source>
-        <target state="translated">Tipos de Contenido</target>
+        <target state="translated">Tipos de contenido</target>
         <note>key: main__admin__content_types</note>
       </trans-unit>
       <trans-unit id="fd9a2e689e82242d49f0313d78aca7e30bf9f24f" resname="main__admin__languages">
@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="1dd8b693879304af831a7adaf4ca59c7d8cb31b9" resname="main__content__content_structure">
         <source>Content structure</source>
-        <target state="translated">Estructura de contenido</target>
+        <target state="translated">Estructura del contenido</target>
         <note>key: main__content__content_structure</note>
       </trans-unit>
       <trans-unit id="2887dd09dcb0f287e947da3e735133c540991df1" resname="main__content__linkmanager">
@@ -193,7 +193,7 @@
       </trans-unit>
       <trans-unit id="e8c5aefc86b31ee2bed9359787ddf0a2b1cad4a6" resname="main__content__media">
         <source>Media</source>
-        <target state="translated">Media</target>
+        <target state="translated">Multimedia</target>
         <note>key: main__content__media</note>
       </trans-unit>
       <trans-unit id="1f5824f08c1b09cf6511dee2352e6f1681f94893" resname="main_admin">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="61044b3382030ab6a876b6d4270e8af4e5f04dc1" resname="section_edit__sidebar_right__cancel">
         <source>Discard changes</source>
-        <target state="translated">Descartar cambiosDescartar cambios</target>
+        <target state="translated">Descartar cambios</target>
         <note>key: section_edit__sidebar_right__cancel</note>
       </trans-unit>
       <trans-unit id="e33deebc2c2c317aa44b31e5d8c4148fdfb1dc34" resname="section_edit__sidebar_right__save">
@@ -333,7 +333,7 @@
       </trans-unit>
       <trans-unit id="ae876d2c3fdb4f08383aefae6106b69dfe124b38" resname="trash__sidebar_right__empty_trash">
         <source>Empty Trash</source>
-        <target state="translated">Vaciar papelera</target>
+        <target state="translated">Vaciar Papelera</target>
         <note>key: trash__sidebar_right__empty_trash</note>
       </trans-unit>
       <trans-unit id="5ded8d45683caa8bb19649d5cc39bd76ebabfa63" resname="url_edit__sidebar_right__cancel">
@@ -353,12 +353,12 @@
       </trans-unit>
       <trans-unit id="da5c7f4f526c2dd5b1e1f51ab5238ef4ba86d421" resname="user__change_password">
         <source>Change password</source>
-        <target state="translated">Cambiar Contraseña</target>
+        <target state="translated">Cambiar contraseña</target>
         <note>key: user__change_password</note>
       </trans-unit>
       <trans-unit id="06accb26fbb1b72012942af2b3e03f7c138e28c3" resname="user__content">
         <source>Logout</source>
-        <target state="translated">Cerrar Sesión</target>
+        <target state="translated">Cerrar sesión</target>
         <note>key: user__content</note>
       </trans-unit>
       <trans-unit id="40679174821cfa2ce3d3a4dc046f0ef65df6f483" resname="user_create__sidebar_right__cancel">
