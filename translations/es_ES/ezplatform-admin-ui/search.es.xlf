@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="0ec8148d681b43e87a6d0751fff188517be1ea26" resname="search.header">
         <source>Search results (%total%)</source>
-        <target state="translated">Total de resultados (%total%)</target>
+        <target state="translated">Resultados de la búsqueda (%total%)</target>
         <note>key: search.header</note>
       </trans-unit>
       <trans-unit id="1d83218940b91b2cc81ae9d0a694682f6cb04813" resname="search.headline">
@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="c1244001dc023e80d3e6d8331935c68ac140788b" resname="search.last_year">
         <source>Last year</source>
-        <target state="translated">Ultimo año</target>
+        <target state="translated">Último año</target>
         <note>key: search.last_year</note>
       </trans-unit>
       <trans-unit id="0ea91510ce49731de30d4d412dc62c83c91b359d" resname="search.modified">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="d89a8ff5c4b03f1dd7bd1ce3e3306862e1855751" resname="search.tips.different_keywords">
         <source>Try different keywords.</source>
-        <target state="translated">Probar diferentes palabras clave.</target>
+        <target state="translated">Prueba diferentes palabras clave.</target>
         <note>key: search.tips.different_keywords</note>
       </trans-unit>
       <trans-unit id="4af1e76946070e5f61320621d12a171f4206e06c" resname="search.tips.headline">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="dd61516edc919235a13e3cfadb5d961b8614b744" resname="search.tips.more_general_keywords">
         <source>Try more general keywords.</source>
-        <target state="translated">Pruebe palabras clave más comunes.</target>
+        <target state="translated">Prueba con palabras clave más generales.</target>
         <note>key: search.tips.more_general_keywords</note>
       </trans-unit>
       <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: search.type</note>
       </trans-unit>
     </body>
