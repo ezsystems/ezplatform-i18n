@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="5d4b7350cb3bfc77e9edd02190eb530d866c7565" resname="trash.item.ancesor_in_trash">
         <source>Ancestor is in the Trash</source>
-        <target state="translated">Antepasado está en la basura</target>
+        <target state="translated">El ítem anterior está en la Papelera</target>
         <note>key: trash.item.ancesor_in_trash</note>
       </trans-unit>
       <trans-unit id="34525fc5da381111c2104d20a55021eb8b698c7c" resname="trash.name">
