@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="0aef83746d192c9b507ecabebe250aeb684cc210" resname="content_type.breadcrumb.create">
         <source>Creating a new Content Type</source>
-        <target state="translated">Creando un nuevo Tipo de Contenido</target>
+        <target state="translated">Creando un nuevo tipo de contenido</target>
         <note>key: content_type.breadcrumb.create</note>
       </trans-unit>
       <trans-unit id="7dd9e32add81dba08bfbaefaac9442a7e7dbb6ae" resname="content_type.breadcrumb.edit">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: content_type.content_type</note>
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
@@ -63,12 +63,12 @@
       </trans-unit>
       <trans-unit id="c699d43b72ab990a33d92d85bc5c773078d8c62d" resname="content_type.sort_field.content_id">
         <source>Content ID</source>
-        <target state="translated">ID del contenido</target>
+        <target state="translated">Id. del contenido</target>
         <note>key: content_type.sort_field.content_id</note>
       </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth">
         <source>Location depth</source>
-        <target state="translated">Profundidad de la localización</target>
+        <target state="translated">Profundidad de la ubicación</target>
         <note>key: content_type.sort_field.depth</note>
       </trans-unit>
       <trans-unit id="09b31f9371d7512e3c5663053b0dc5ce781f696c" resname="content_type.sort_field.descending">
@@ -78,12 +78,12 @@
       </trans-unit>
       <trans-unit id="afb48eb0ff69f32e95393be9247ac7ba40d61142" resname="content_type.sort_field.location_id">
         <source>Location ID</source>
-        <target state="translated">ID de la localización</target>
+        <target state="translated">Id. de la ubicación</target>
         <note>key: content_type.sort_field.location_id</note>
       </trans-unit>
       <trans-unit id="187a5f274b61172d6e478830081210a75b9f916d" resname="content_type.sort_field.location_path">
         <source>Location path</source>
-        <target state="translated">Ruta de la localización</target>
+        <target state="translated">Ruta de ubicación</target>
         <note>key: content_type.sort_field.location_path</note>
       </trans-unit>
       <trans-unit id="8acac47605156b70e1d654c98b3b65b982e00db7" resname="content_type.sort_field.modified">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="ac2b24b167723165d67f63e17b0d4fa9faf081c0" resname="content_type.sort_field.priority">
         <source>Location priority</source>
-        <target state="translated">Prioridad de la localización</target>
+        <target state="translated">Prioridad de ubicación</target>
         <note>key: content_type.sort_field.priority</note>
       </trans-unit>
       <trans-unit id="c51d29f35f4f8eb46b61904f4ab198a234b30dfc" resname="content_type.sort_field.published">
@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="4f63ade40ae91a9ad39e4be7b9e4f51003f1f4b3" resname="content_type.view.create.title">
         <source>Creating a new Content Type</source>
-        <target state="translated">Creando un nuevo Tipo de Contenido</target>
+        <target state="translated">Creando un nuevo tipo de contenido</target>
         <note>key: content_type.view.create.title</note>
       </trans-unit>
       <trans-unit id="a32a5e3d2d67da43b4c5f0f5574c90520868b36a" resname="content_type.view.edit.global_properties">
@@ -143,12 +143,12 @@
       </trans-unit>
       <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
         <source>Delete Content Type</source>
-        <target state="translated">Elilminar Tipo de Contenido</target>
+        <target state="translated">Eliminar tipo de contenido</target>
         <note>key: content_type.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
         <source>ID</source>
-        <target state="translated">ID</target>
+        <target state="translated">id.</target>
         <note>key: content_type.view.list.column.id</note>
       </trans-unit>
       <trans-unit id="5a5fe831f20f47949b0a54d76cfa897898794b77" resname="content_type.view.list.column.identifier">
@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="cd462ce30cd4d0b21393e24ca2c9e974369c1f57" resname="content_type_group.view.list.column.id">
         <source>ID</source>
-        <target state="translated">ID</target>
+        <target state="translated">id.</target>
         <note>key: content_type_group.view.list.column.id</note>
       </trans-unit>
       <trans-unit id="37d17dd014cd573541f83d4b5b0c4909b66ac7be" resname="content_type_group.view.list.column.identifier">
@@ -223,12 +223,12 @@
       </trans-unit>
       <trans-unit id="62ac918fce5389cd868b988e65b4ab96477a1344" resname="location_update_form.sort_field">
         <source>Sort field</source>
-        <target state="translated">Campo de ordenación</target>
+        <target state="translated">Ordenar campo</target>
         <note>key: location_update_form.sort_field</note>
       </trans-unit>
       <trans-unit id="7d29fb5b1206bd3313bd2eb6c078ab72c244545a" resname="location_update_form.sort_order">
         <source>Sort order</source>
-        <target state="translated">Orden</target>
+        <target state="translated">Ordenar clasificación</target>
         <note>key: location_update_form.sort_order</note>
       </trans-unit>
       <trans-unit id="2bb23a852a2a16458d2dad6931debc447564dff2" resname="location_update_form.update">
