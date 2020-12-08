@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="52574f2c1d5e0b3ffcd4f105b770e91ae1e519fa" resname="search.content.type">
         <source>Content Type:</source>
-        <target state="translated">Tipo de Contenido:</target>
+        <target state="translated">Tipo de contenido:</target>
         <note>key: search.content.type</note>
       </trans-unit>
       <trans-unit id="738c66eb92535505455b34b383f8089fb1bc0479" resname="search.created">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="0ec8148d681b43e87a6d0751fff188517be1ea26" resname="search.header">
         <source>Search results (%total%)</source>
-        <target state="translated">Total de resultados (%total%)</target>
+        <target state="translated">Resultados de la búsqueda (%total%)</target>
         <note>key: search.header</note>
       </trans-unit>
       <trans-unit id="1d83218940b91b2cc81ae9d0a694682f6cb04813" resname="search.headline">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="c1244001dc023e80d3e6d8331935c68ac140788b" resname="search.last_year">
         <source>Last year</source>
-        <target state="translated">Ultimo año</target>
+        <target state="translated">Último año</target>
         <note>key: search.last_year</note>
       </trans-unit>
       <trans-unit id="0ea91510ce49731de30d4d412dc62c83c91b359d" resname="search.modified">
@@ -128,17 +128,17 @@
       </trans-unit>
       <trans-unit id="777cc1ef279096d5a978aa3553e9434d828f8248" resname="search.tips.check_spelling">
         <source>Check spelling of keywords.</source>
-        <target state="translated">Revise la ortografía de las palabras clave.</target>
+        <target state="translated">Revisa la ortografía de las palabras clave.</target>
         <note>key: search.tips.check_spelling</note>
       </trans-unit>
       <trans-unit id="d89a8ff5c4b03f1dd7bd1ce3e3306862e1855751" resname="search.tips.different_keywords">
         <source>Try different keywords.</source>
-        <target state="translated">Probar diferentes palabras clave.</target>
+        <target state="translated">Prueba diferentes palabras clave.</target>
         <note>key: search.tips.different_keywords</note>
       </trans-unit>
       <trans-unit id="013ced9a3284ecebf5a5356397dc9a79eaf76496" resname="search.tips.fewer_keywords">
         <source>Try fewer keywords. Reducing keywords result in more matches.</source>
-        <target state="translated">Pruebe con menos palabras clave. Un menor número de palabras clave producirá más coincidencias.</target>
+        <target state="translated">Prueba con menos palabras clave. Un menor número de palabras clave producirá más coincidencias.</target>
         <note>key: search.tips.fewer_keywords</note>
       </trans-unit>
       <trans-unit id="4af1e76946070e5f61320621d12a171f4206e06c" resname="search.tips.headline">
@@ -148,17 +148,17 @@
       </trans-unit>
       <trans-unit id="dd61516edc919235a13e3cfadb5d961b8614b744" resname="search.tips.more_general_keywords">
         <source>Try more general keywords.</source>
-        <target state="translated">Pruebe palabras clave más comunes.</target>
+        <target state="translated">Prueba con palabras clave más generales.</target>
         <note>key: search.tips.more_general_keywords</note>
       </trans-unit>
       <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: search.type</note>
       </trans-unit>
       <trans-unit id="fe647ff0e12d67501403559464217be468dba3d8" resname="search.viewing">
         <source>Viewing %viewing% out of %total% sub-items</source>
-        <target state="translated">Viendo %viewing% de %total% elementos</target>
+        <target state="translated">Visualizando %viewing% de %total% subítems</target>
         <note>key: search.viewing</note>
       </trans-unit>
     </body>
