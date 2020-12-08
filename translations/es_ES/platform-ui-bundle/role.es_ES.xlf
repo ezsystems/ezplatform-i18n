@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="0e2f56d6ff6cbc42edfde476c7cffe15b9db7b73" resname="assigning.role.to.users">
         <source>Assigning the role "%roleName%" to %count% users/groups</source>
-        <target state="translated">Asignando el rol "%roleName%" a %count% users/groups</target>
+        <target state="translated">Asignando el rol "%roleName%" a %count% usuarios/grupos</target>
         <note>key: assigning.role.to.users</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
       </trans-unit>
@@ -26,7 +26,7 @@
       </trans-unit>
       <trans-unit id="c06ec423bdd64f80f5e1bd403445c8f158cbbf7a" resname="assignment.none">
         <source>This role is not assigned to any users or user groups.</source>
-        <target state="translated">Este rol no está asignado a ningún usuario ni grupo de usuarios.</target>
+        <target state="translated">Este rol no está asignado a ningún usuario o grupos de usuario.</target>
         <note>key: assignment.none</note>
         <jms:reference-file line="186">Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
@@ -38,13 +38,13 @@
       </trans-unit>
       <trans-unit id="9d40ec6ea2a69dc31d986dd760c5c4d1e58274a0" resname="assignment.role_limitation_none">
         <source>No limitations</source>
-        <target state="translated">Sin limitación</target>
+        <target state="translated">Sin limitaciones</target>
         <note>key: assignment.role_limitation_none</note>
         <jms:reference-file line="165">Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="a94d773d3ca19d453ea28717e3a8e00c0c239c32" resname="assignment.user_or_group">
         <source>User/group</source>
-        <target state="translated">Usuario/Grupo</target>
+        <target state="translated">Usuario/grupo</target>
         <note>key: assignment.user_or_group</note>
         <jms:reference-file line="136">Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
@@ -56,7 +56,7 @@
       </trans-unit>
       <trans-unit id="ca65309bef9a375c91388358cc8304dae5032ca1" resname="failed.assigned.role">
         <source>Role has not been assigned to "%name%": %message%</source>
-        <target state="translated">El rol no fue asignado a "%name%": %message%</target>
+        <target state="translated">El rol no se asignó a "%name%": %message%</target>
         <note>key: failed.assigned.role</note>
         <jms:reference-file>Resources/public/js/views/services/ez-roleserversideviewservice.js</jms:reference-file>
       </trans-unit>
@@ -80,13 +80,13 @@
       </trans-unit>
       <trans-unit id="b23aadd145c148428bb05af8f0d30a87fad64ef9" resname="policy.module">
         <source>Module</source>
-        <target state="translated">Modulo</target>
+        <target state="translated">Módulo</target>
         <note>key: policy.module</note>
         <jms:reference-file line="32">Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="4006d02c9aa4b140f8526d1a99a02981b8bf62d4" resname="policy.module_all">
         <source>all modules</source>
-        <target state="translated">Todos los modulos</target>
+        <target state="translated">todos los módulos</target>
         <note>key: policy.module_all</note>
         <jms:reference-file line="45">Resources/views/Role/view_role.html.twig</jms:reference-file>
       </trans-unit>
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="be81ab4765e74558f0a751204c0ebaeeb004ffb8" resname="role.choose_section">
         <source>Choose a section:</source>
-        <target state="translated">Elegir una sección:</target>
+        <target state="translated">Elige una sección:</target>
         <note>key: role.choose_section</note>
         <jms:reference-file line="25">Resources/views/Role/assign_role_by_section.html.twig</jms:reference-file>
       </trans-unit>
@@ -110,7 +110,7 @@
       </trans-unit>
       <trans-unit id="c049089744629771a10145f3c8b52aefbd0cce17" resname="role.id">
         <source>ID</source>
-        <target state="translated">ID</target>
+        <target state="translated">id.</target>
         <note>key: role.id</note>
         <jms:reference-file line="26">Resources/views/Role/list_roles.html.twig</jms:reference-file>
       </trans-unit>
