@@ -14,7 +14,7 @@
       </trans-unit>
       <trans-unit id="0bb9f90672f5fc639172ca0404b04581207c530e" resname="grid.view">
         <source>Grid view</source>
-        <target state="translated">Vista en grilla</target>
+        <target state="translated">Vista en cuadrícula</target>
         <note>key: grid.view</note>
         <jms:reference-file>Resources/public/js/views/subitem/ez-subitemgridview.js</jms:reference-file>
       </trans-unit>
@@ -44,7 +44,7 @@
       </trans-unit>
       <trans-unit id="e9fbb7ba38fa94be8b417699fb729a60c7b8ab48" resname="show.more.results">
         <source><![CDATA[Show <span class="ez-loadmorepagination-more-count">%limit%</span> more results]]></source>
-        <target state="translated"><![CDATA[Mostrar <span class="ez-loadmorepagination-more-count">%limit%</span> resultados más]]></target>
+        <target state="translated"><![CDATA[Mostrar <span class="ez-loadmorepagination-more-count">%limit%</span> más resultados]]></target>
         <note>key: show.more.results</note>
         <jms:reference-file>Resources/public/templates/subitem/grid.hbt</jms:reference-file>
         <jms:reference-file>Resources/public/templates/subitem/listmore.hbt</jms:reference-file>
