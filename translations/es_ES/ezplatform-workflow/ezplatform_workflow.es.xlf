@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="c682e81e5f634fa80a21c654aa254f8aea97eb59" resname="content_edit.component.events">
         <source>Event(s)</source>
-        <target state="translated">Eventos</target>
+        <target state="translated">Evento(s)</target>
         <note>key: content_edit.component.events</note>
       </trans-unit>
       <trans-unit id="2643fa671d83192c257a6228677c5686691ce3c3" resname="dashboard.block.review_queue.title">
@@ -38,12 +38,12 @@
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
       <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
         <source>Edit Draft</source>
-        <target state="translated">Editar el borrador</target>
+        <target state="translated">Editar borrador</target>
         <note>key: dashboard.table.draft.edit</note>
       </trans-unit>
       <trans-unit id="3854d449547263e6056997c3ed9135006b158de8" resname="dashboard.table.draft.transition.list">
@@ -78,17 +78,17 @@
       </trans-unit>
       <trans-unit id="c712d6d1fad65a495b837720601dd7b2f6732d8a" resname="matcher.content_type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: matcher.content_type</note>
       </trans-unit>
       <trans-unit id="d397c8abb0ffe2c4dda1ff9faea015d9c99f9f8d" resname="matcher.none">
         <source>None</source>
-        <target state="translated">Ninguno</target>
+        <target state="translated">Nada</target>
         <note>key: matcher.none</note>
       </trans-unit>
       <trans-unit id="3966df7d25826e3f6c5313b625810c1334559e7c" resname="modal.transition.list.title">
         <source>Event timeline</source>
-        <target state="translated">Cronograma del evento</target>
+        <target state="translated">Cronología del evento</target>
         <note>key: modal.transition.list.title</note>
       </trans-unit>
       <trans-unit id="ed129ea3c9e2f6f00bc2ab26aa664d8ca17d3636" resname="tab.name.my_drafts_under_review">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="ada0fcebefac344a2447069bba0039e73865b67d" resname="transition.list.entry.author">
         <source>by %name%</source>
-        <target state="translated">por nombre</target>
+        <target state="translated">por %name%</target>
         <note>key: transition.list.entry.author</note>
       </trans-unit>
       <trans-unit id="3c190ea2e3bb750d29e646512ef8902bca079d61" resname="widget.leave_comment">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="d2411b1cef3e71d41a6da0e837ba7c5aee6dba07" resname="widget.message_placeholder">
         <source>Type your message...</source>
-        <target state="translated">Escriba su mensaje...</target>
+        <target state="translated">Escribe tu mensaje...</target>
         <note>key: widget.message_placeholder</note>
       </trans-unit>
       <trans-unit id="3bffad6f39729eebf93f44554e1f5fb348b82354" resname="widget.submit">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="434e7197d8ef9a80bded55e3eeec99ed5d1b28eb" resname="workflow.view.content_list.table.content_type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: workflow.view.content_list.table.content_type</note>
       </trans-unit>
       <trans-unit id="a460d78b8223b8833763f45da7e70b6f7cc250cc" resname="workflow.view.content_list.table.modified_language">
