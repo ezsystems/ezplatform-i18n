@@ -8,13 +8,13 @@
     <body>
       <trans-unit id="473791d4ee73c0b1401f37519728414c339edc21" resname="javascript.disabled.required">
         <source>JavaScript is disabled in your browser but it is required to run the eZ Platform User Interface.</source>
-        <target state="translated">JavaScript se encuentra desactivado en un navegador pero es necesario para el funcionamiento de la interface de usuario de eZ Platform.</target>
+        <target state="translated">JavaScript se encuentra desactivado en el navegador, pero es obligatorio para el funcionamiento de la interfaz de usuario de eZ Platform.</target>
         <note>key: javascript.disabled.required</note>
         <jms:reference-file line="53">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="1ac530659b5b57d48cf6d95bc51ead90f1a2ac6d" resname="javascript.enable">
         <source>Please enable JavaScript to use the eZ Platform User Interface.</source>
-        <target state="translated">Por favor, active JavaScript para usar la Interfaz de Usuario de eZ Platform.</target>
+        <target state="translated">Activa JavaScript para usar la interfaz de usuario de eZ Platform.</target>
         <note>key: javascript.enable</note>
         <jms:reference-file line="54">Resources/views/PlatformUI/shell.html.twig</jms:reference-file>
       </trans-unit>
