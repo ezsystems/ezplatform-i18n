@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="6a2083913f3647b44f205204e369f764e83233b1" resname="content_id">
         <source>Content ID: %contentId%</source>
-        <target state="translated">Content ID: %contentId%</target>
+        <target state="translated">Id. del contenido: %contentId%</target>
         <note>key: content_id</note>
       </trans-unit>
       <trans-unit id="71a8aeb31196db647608ffe1789be9400d61451d" resname="created_by">
@@ -28,12 +28,12 @@
       </trans-unit>
       <trans-unit id="876d7bdba03c72251ec4c2dc827fc54af7889091" resname="location_id">
         <source>Location ID: %locationId%</source>
-        <target state="translated">ID de Localización: %locationId%</target>
+        <target state="translated">Id. de ubicación: %locationId%</target>
         <note>key: location_id</note>
       </trans-unit>
       <trans-unit id="cce4ced380a283ffdecf364aeb5312ee001e6601" resname="parent_location_id">
         <source>Parent Location ID: %locationId%</source>
-        <target state="translated">Id de Localización del Padre: %locationId%</target>
+        <target state="translated">Id. de ubicación primaria: %locationId%</target>
         <note>key: parent_location_id</note>
       </trans-unit>
     </body>
