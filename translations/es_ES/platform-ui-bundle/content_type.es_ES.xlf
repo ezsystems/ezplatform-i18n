@@ -14,13 +14,13 @@
       </trans-unit>
       <trans-unit id="f1312e397c7aa2e8e21be7f65161c6a99b728d3e" resname="content_type.content.title">
         <source>Content field definitions</source>
-        <target state="translated">Definiciones de los campos de contenidos</target>
+        <target state="translated">Definiciones de los campos de contenido</target>
         <note>key: content_type.content.title</note>
         <jms:reference-file line="86">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="d93b35cbbda2fccd239d83cd8e4fbba2cbb02166" resname="content_type.dashboard_title">
         <source>Content types</source>
-        <target state="translated">Tipos de contenidos</target>
+        <target state="translated">Tipos de contenido</target>
         <note>key: content_type.dashboard_title</note>
         <jms:reference-file line="14">Resources/views/ContentType/edit_content_type_group.html.twig</jms:reference-file>
         <jms:reference-file line="8">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
@@ -31,13 +31,13 @@
       </trans-unit>
       <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability">
         <source>Default availability in primary language, if translation is absent</source>
-        <target state="translated">Disponibilidad por defecto en lenguaje primario, si no hay traducción</target>
+        <target state="translated">Disponibilidad predeterminada en el idioma principal, si no hay traducción</target>
         <note>key: content_type.default_availability</note>
         <jms:reference-file line="77">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help">
         <source>Default availability in primary language, if translation is absent</source>
-        <target state="translated">Disponibilidad por defecto en el idioma primario, si es que no existe una traducción</target>
+        <target state="translated">Disponibilidad predeterminada en el idioma principal, si no hay traducción</target>
         <note>key: content_type.default_availability.help</note>
         <jms:reference-file line="78">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
@@ -49,13 +49,13 @@
       </trans-unit>
       <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting">
         <source>Default property for sorting chilren</source>
-        <target state="translated">Propiedad predeterminada para clasificar hijos</target>
+        <target state="translated">Propiedad predeterminada para clasificar sububicación</target>
         <note>key: content_type.default_children_sorting</note>
         <jms:reference-file line="66">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort">
         <source>Default sort order</source>
-        <target state="translated">Orden por defecto</target>
+        <target state="translated">Orden de clasificación predeterminado</target>
         <note>key: content_type.default_sort</note>
         <jms:reference-file line="72">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
@@ -81,7 +81,7 @@
       </trans-unit>
       <trans-unit id="139bc06fcecd7ab2e8e59233d52cae047b22af5b" resname="content_type.group">
         <source>Content type group</source>
-        <target state="translated">Grupo de tipos de contenido</target>
+        <target state="translated">Grupo de tipo de contenido</target>
         <note>key: content_type.group</note>
         <jms:reference-file line="17">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
       </trans-unit>
@@ -93,19 +93,19 @@
       </trans-unit>
       <trans-unit id="73205aee63e2b76d2104c295ee19449cf248f045" resname="content_type.group.cannot_delete.has_content_types">
         <source>Cannot delete Content type group "%identifier%" as it still contains Content types.</source>
-        <target state="translated">No se puede borrar el grupo "%identifier%" porque todavía contiene algún tipo de contenido.</target>
+        <target state="translated">No es posible borrar el grupo de tipo de contenido "%identifier%" porque todavía contiene algún tipo de contenido.</target>
         <note>key: content_type.group.cannot_delete.has_content_types</note>
         <jms:reference-file line="190">Controller/ContentTypeController.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="d9af30fb88ca7bed537ebf13fe3aef6c1679ff40" resname="content_type.group.create.title">
         <source>Creating a new Content type group</source>
-        <target state="translated">Creando un nuevo grupo de tipos de contenido</target>
+        <target state="translated">Creando un nuevo grupo de tipo de contenido</target>
         <note>key: content_type.group.create.title</note>
         <jms:reference-file line="5">Resources/views/ContentType/edit_content_type_group.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="8023ffcb49893af87bad5805790b91dee17b3acc" resname="content_type.group.deleted">
         <source>Content type group "%identifier%" was correctly deleted.</source>
-        <target state="translated">El grupo de tipos de contenido "%identifier%" se ha creado de forma correcta.</target>
+        <target state="translated">El grupo de tipo de contenido "%identifier%" se borró correctamente.</target>
         <note>key: content_type.group.deleted</note>
         <jms:reference-file line="188">Controller/ContentTypeController.php</jms:reference-file>
       </trans-unit>
@@ -118,19 +118,19 @@
       </trans-unit>
       <trans-unit id="32ba0cf1376c3c7bb98ae775d06504203b972781" resname="content_type.group.edit.title">
         <source>Editing Content type group "%identifier%"</source>
-        <target state="translated">Editando el Grupo de Tipos de Contenido '%identifier%'</target>
+        <target state="translated">Editando grupo de tipo de contenido '%identifier%'</target>
         <note>key: content_type.group.edit.title</note>
         <jms:reference-file line="5">Resources/views/ContentType/edit_content_type_group.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="3aa78eef31f8d83f3229f888579149da40bb4126" resname="content_type.group.id">
         <source>ID</source>
-        <target state="translated">ID</target>
+        <target state="translated">id.</target>
         <note>key: content_type.group.id</note>
         <jms:reference-file line="26">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="d09d4d7f65b1acd604c44c85d08f82fb55fcb880" resname="content_type.group.list">
         <source>Content type groups</source>
-        <target state="translated">Grupo de tipos de contenido</target>
+        <target state="translated">Grupos de tipo de contenido</target>
         <note>key: content_type.group.list</note>
         <jms:reference-file line="15">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
         <jms:reference-file line="75">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
@@ -152,19 +152,19 @@
       </trans-unit>
       <trans-unit id="334f261e09d7b3da4b26022a121ef596bff8a422" resname="content_type.group.notification.created">
         <source>Content type group "%identifier%" was correctly created.</source>
-        <target state="translated">El grupo de tipos de contenido "%identifier%" se ha creado de forma correcta.</target>
+        <target state="translated">El grupo de tipo de contenido "%identifier%" se creó correctamente.</target>
         <note>key: content_type.group.notification.created</note>
         <jms:reference-file line="46">Form/Processor/ContentTypeGroupFormProcessor.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="09685a253a508713c275a4ecde1adbb4b7f1781e" resname="content_type.group.notification.updated">
         <source>Content type group "%identifier%" was correctly updated.</source>
-        <target state="translated">El grupo de tipos de contenido "%identifier%" se ha actulizado de forma correcta.</target>
+        <target state="translated">El grupo de tipo de contenido "%identifier%" se actualizó correctamente.</target>
         <note>key: content_type.group.notification.updated</note>
         <jms:reference-file line="48">Form/Processor/ContentTypeGroupFormProcessor.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="ac9f629a5395fbcbc31455777dafda7ef125b39e" resname="content_type.id">
         <source>ID</source>
-        <target state="translated">ID</target>
+        <target state="translated">id.</target>
         <note>key: content_type.id</note>
         <jms:reference-file line="27">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
       </trans-unit>
@@ -177,7 +177,7 @@
       </trans-unit>
       <trans-unit id="8d1c4e01ea895221eda65f6d840b29c4cfe932f2" resname="content_type.is_in_use">
         <source>The content type cannot be deleted because it has content items, or because you don't have permission.</source>
-        <target state="translated">El tipo de contenido no se puede eliminar porque tiene elementos de contenido, o porque usted no tiene permiso.</target>
+        <target state="translated">El tipo de contenido no se puede eliminar porque tiene ítems de contenido o porque no tienes permisos.</target>
         <note>key: content_type.is_in_use</note>
         <jms:reference-file line="164">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
         <jms:reference-file line="59">Resources/views/ContentType/view_content_type_group.html.twig</jms:reference-file>
@@ -216,25 +216,25 @@
       </trans-unit>
       <trans-unit id="b771fde80a8c0b6981ab81a9408b4a800f92e38d" resname="content_type.notification.deleted">
         <source>The Content type "%contentTypeName%" was successfully deleted.</source>
-        <target state="translated">El tipo de contenido "%contentTypeName%" se ha eliminado con éxito.</target>
+        <target state="translated">El tipo de contenido "%contentTypeName%" se eliminó con éxito.</target>
         <note>key: content_type.notification.deleted</note>
         <jms:reference-file line="346">Controller/ContentTypeController.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="974093fc35f4b06c80d9cf523f125cbc61beaa78" resname="content_type.notification.draft_removed">
         <source>The Content type draft was successfully removed.</source>
-        <target state="translated">El borrador del tipo de contenido se ha eliminado con éxito.</target>
+        <target state="translated">El borrador de tipo de contenido se eliminó con éxito.</target>
         <note>key: content_type.notification.draft_removed</note>
         <jms:reference-file line="96">Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="35f407c7c55275cd9046b6f9e9e77913b9b08e28" resname="content_type.notification.draft_updated">
         <source>The Content type draft was successfully updated.</source>
-        <target state="translated">El borrador del tipo de contenido se ha actualizado con éxito.</target>
+        <target state="translated">El borrador de tipo de contenido se actualizó con éxito.</target>
         <note>key: content_type.notification.draft_updated</note>
         <jms:reference-file line="60">Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="ceffda5dc773e1742f8fc336402cdc506774d2c0" resname="content_type.notification.published">
         <source>The Content type draft was successfully updated and published. Related Content has also been updated.</source>
-        <target state="translated">El borrador del tipo de contenido ha sido actualizado y publicado. El contenido relacionado también se ha actualizado.</target>
+        <target state="translated">El borrador de tipo de contenido se actualizó y publicó con éxito. El contenido relacionado también se actualizó.</target>
         <note>key: content_type.notification.published</note>
         <jms:reference-file line="72">Form/Processor/ContentTypeFormProcessor.php</jms:reference-file>
       </trans-unit>
@@ -276,7 +276,7 @@
       </trans-unit>
       <trans-unit id="2e2ef6bae44fe23eec336dec39035b5d2c4b87b6" resname="field_definition.searchable">
         <source>Searchable</source>
-        <target state="translated">Búscable</target>
+        <target state="translated">Con opción de búsqueda</target>
         <note>key: field_definition.searchable</note>
         <jms:reference-file line="129">Resources/views/ContentType/view_content_type.html.twig</jms:reference-file>
       </trans-unit>
