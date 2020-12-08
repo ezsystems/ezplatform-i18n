@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none">
         <source>None</source>
-        <target state="translated">Ninguno</target>
+        <target state="translated">Nada</target>
         <note>key: policy.limitation.none</note>
       </trans-unit>
       <trans-unit id="15c7918829705fa0d6e560ba6697675a1fb3642d" resname="tab.policies.assignment">
