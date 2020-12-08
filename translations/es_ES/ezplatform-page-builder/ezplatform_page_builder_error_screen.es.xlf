@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="f298d2852684440367a0b6c1549f818ecd6ceb3b" resname="preview.could.not.be.loaded">
         <source>The preview couldn’t be loaded. This preview page is on another domain, that is not configured to work with Page Builder.</source>
-        <target state="translated">No se pudo cargar la vista previa. La vista previa es de una página que está en otro dominio, el cual no está configurado para trabajar con Page Builder.</target>
+        <target state="translated">La vista previa no se pudo cargar. La vista previa está en otro campo que no se ha configurado para trabajar con Page Builder.</target>
         <note>key: preview.could.not.be.loaded</note>
       </trans-unit>
     </body>
