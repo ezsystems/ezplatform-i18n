@@ -44,13 +44,13 @@
       </trans-unit>
       <trans-unit id="25cda398863dd104cebf8932e6ba226d0f4f1641" resname="search.search.content">
         <source>Search content:</source>
-        <target state="translated">Buscar un contenido:</target>
+        <target state="translated">Buscar contenido:</target>
         <note>key: search.search.content</note>
         <jms:reference-file>Resources/public/templates/searchview.hbt</jms:reference-file>
       </trans-unit>
       <trans-unit id="e9fbb7ba38fa94be8b417699fb729a60c7b8ab48" resname="show.more.results">
         <source><![CDATA[Show <span class="ez-loadmorepagination-more-count">%remainingCount%</span> more results]]></source>
-        <target state="translated"><![CDATA[Mostrar <span class="ez-loadmorepagination-more-count">%remainingCount%</span> resultados más]]></target>
+        <target state="translated"><![CDATA[Mostrar <span class="ez-loadmorepagination-more-count">%remainingCount%</span> más resultados]]></target>
         <note>key: show.more.results</note>
         <jms:reference-file>Resources/public/templates/searchlistview.hbt</jms:reference-file>
       </trans-unit>
