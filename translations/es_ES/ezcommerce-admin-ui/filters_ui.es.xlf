@@ -6,7 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
+      <trans-unit id="7920489c6c1078fa88e59ae2f148a28e88ba6b5b" resname="filters.select_user">
+        <source>Select user</source>
+        <target state="translated">Seleccionar usuario</target>
+        <note>key: filters.select_user</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
