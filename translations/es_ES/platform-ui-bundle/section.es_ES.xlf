@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="2fde2228bf4d0451dce51640519824f39dca0ad9" resname="assigned.section">
         <source>Section "%sectionName%" assigned to %count% contents</source>
-        <target state="translated">Sección "%sectionName%" asignada a contenidos %count%</target>
+        <target state="translated">La sección "%sectionName%" se asignó a %count% contenidos</target>
         <note>key: assigned.section</note>
         <jms:reference-file>Resources/public/js/views/services/ez-sectionserversideviewservice.js</jms:reference-file>
       </trans-unit>
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="6e9972f315911664e7e596892c4cce1c3319a6ba" resname="section.assign.universaldiscovery.title">
         <source>Pick the Content items to assign to section "%sectionName%"</source>
-        <target state="translated">Selecciona los ítemes de contenidos para asignar a la sección "%sectionName%"</target>
+        <target state="translated">Selecciona los ítems de contenido para asignar a la sección "%sectionName%"</target>
         <note>key: section.assign.universaldiscovery.title</note>
         <jms:reference-file line="19">Resources/views/Section/list.html.twig</jms:reference-file>
         <jms:reference-file line="71">Resources/views/Section/list.html.twig</jms:reference-file>
@@ -36,7 +36,7 @@
       </trans-unit>
       <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content">
         <source>Assigned Content items</source>
-        <target state="translated">Artículos de contenido asignados</target>
+        <target state="translated">Ítems de contenido asignados</target>
         <note>key: section.assigned.content</note>
         <jms:reference-file line="58">Resources/views/Section/list.html.twig</jms:reference-file>
       </trans-unit>
@@ -44,7 +44,8 @@
         <source xml:space="preserve">{0} This section is assigned to %contentCount% content items.|{1} This section is assigned to
                     %contentCount% content item.|]1,Inf[ This section is assigned to %contentCount% content items
                 </source>
-        <target xml:space="preserve" state="translated">{0} esta sección está asignada a %contentCount% elementos de contenido. |{1} Esta sección está asignada al elemento de contenido %contentCount%. |]1,Inf[ Esta sección está asignada a %contentCount% elementos de contenido
+        <target xml:space="preserve" state="translated">{0} Esta sección está asignada a %contentCount% ítems de contenido. |{1} Esta sección está asignada al ítem de contenido
+                    %contentCount%.|]1,Inf\[ Esta sección está asignada a %contentCount% ítems de contenido
                 </target>
         <note>key: section.assigned.contentcount</note>
         <jms:reference-file line="41">Resources/views/Section/view.html.twig</jms:reference-file>
@@ -67,13 +68,13 @@
       </trans-unit>
       <trans-unit id="bcb0a8eedc29344eb4ad95a02dd684438aae1df6" resname="section.id">
         <source>Section ID</source>
-        <target state="translated">ID de sección</target>
+        <target state="translated">Id. de sección</target>
         <note>key: section.id</note>
         <jms:reference-file line="57">Resources/views/Section/list.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="63039a13119dd5a53e5eb66cd798b3c323b57a5b" resname="section.id.label">
         <source>Section ID:</source>
-        <target state="translated">ID de sección:</target>
+        <target state="translated">Id. de sección:</target>
         <note>key: section.id.label</note>
         <jms:reference-file line="36">Resources/views/Section/view.html.twig</jms:reference-file>
       </trans-unit>
