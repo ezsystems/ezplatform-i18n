@@ -110,11 +110,37 @@
         <note>key: list</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/list.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="568ae6cf926fffd4ef996af48a51dee3830bd96b" resname="move.down">
+        <source>Move downward</source>
+        <target state="translated">Mover hacia abajo</target>
+        <note>key: move.down</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/movedown.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="68dec644b0986ba6a27e8e7e8ffcd5e1f22cd3fc" resname="move.up">
+        <source>Move upward</source>
+        <target state="translated">Mover hacia arriba</target>
+        <note>key: move.up</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/moveup.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="24178d4b489565d2890ffe1c7a81d353cfaeda34" resname="new.tab">
+        <source>New tab</source>
+        <target state="translated">Nueva pestaña</target>
+        <note>key: new.tab</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="d4fcd0ab161cf2389caeb1b3318ac72eb1437810" resname="open.in">
         <source>Open in:</source>
         <target state="translated">Abrir en:</target>
         <note>key: open.in</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f416747c2f302b11d2360559f101e49353e88038" resname="paragraph">
+        <source>Paragraph</source>
+        <target state="translated">Párrafo</target>
+        <note>key: paragraph</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/paragraph.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/heading.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/toolbars/config/paragraph.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="c5ef10db9a6a48b85cd15ce1050f42933a4305ae" resname="remove.this.block">
         <source>Remove this block</source>
@@ -122,11 +148,44 @@
         <note>key: remove.this.block</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/blockremove.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="d27a1f11771200949714b1af99f048a416f5d6f4" resname="right">
+        <source>Right</source>
+        <target state="translated">Derecha</target>
+        <note>key: right</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/blocktextalignright.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/embedright.js</jms:reference-file>
+      </trans-unit>
       <trans-unit id="4cdec5ce343b49799b87d7c0adbe47dd2e67ed7f" resname="same.tab">
         <source>Same tab</source>
         <target state="translated">Misma pestaña</target>
         <note>key: same.tab</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="66e4d5a581b0460c2a07236f815ada78bfa75a68" resname="select.a.content.to.embed">
+        <source>Select a content to embed</source>
+        <target state="translated">Seleccionar contenido para insertar</target>
+        <note>key: select.a.content.to.embed</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/embed.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/embedhref.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="222b96ae048010b9610bf0bbe6cf6569b79c2a26" resname="select.a.content.to.link.to">
+        <source>Select a Content item to link</source>
+        <target state="translated">Seleccionar un contenido para enlazar</target>
+        <note>key: select.a.content.to.link.to</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="180522f369f637cf58b08e8526b86bf4fe9f6e96" resname="select.an.image.to.embed">
+        <source>Select an image to embed</source>
+        <target state="translated">Seleccionar una imagen para insertar</target>
+        <note>key: select.an.image.to.embed</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/image.js</jms:reference-file>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/imagehref.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="01f73cbcef515e5358afb1631af189449219fe73" resname="select.another.content.item">
+        <source>Select another content item</source>
+        <target state="translated">Seleccionar otro ítem de contenido</target>
+        <note>key: select.another.content.item</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/embedhref.js</jms:reference-file>
       </trans-unit>
       <trans-unit id="6c7ff48bfb23af1c48100802f28c610bb4e477b6" resname="select.another.image">
         <source>Select another image</source>
@@ -144,6 +203,12 @@
         <source>Title</source>
         <target state="translated">Título</target>
         <note>key: title</note>
+        <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5703353ad23aceb493d616c7eb3ef4c65ed5b888" resname="type.or.paste.link">
+        <source>Type or paste link here</source>
+        <target state="translated">Escribe o copia el enlace aquí</target>
+        <note>key: type.or.paste.link</note>
         <jms:reference-file>Resources/public/js/alloyeditor/buttons/linkedit.js</jms:reference-file>
       </trans-unit>
     </body>
