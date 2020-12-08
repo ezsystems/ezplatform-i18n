@@ -60,6 +60,12 @@
         <note>key: translations</note>
         <jms:reference-file>Resources/public/js/views/ez-searchlistview.js</jms:reference-file>
       </trans-unit>
+      <trans-unit id="3cae0754bed733e5785947e0b1a795ffeacb8a12" resname="viewing.out.of.items">
+        <source><![CDATA[viewing <strong class="ez-loadmorepagination-display-count">%displayCount%</strong> out of <strong>%searchResultCount%</strong> items]]></source>
+        <target state="translated"><![CDATA[Visualizando <strong class="ez-loadmorepagination-display-count">%displayCount%</strong> de <strong>%searchResultCount%</strong> ítems]]></target>
+        <note>key: viewing.out.of.items</note>
+        <jms:reference-file>Resources/public/templates/searchlistview.hbt</jms:reference-file>
+      </trans-unit>
     </body>
   </file>
 </xliff>
