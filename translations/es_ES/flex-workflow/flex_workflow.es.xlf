@@ -31,6 +31,11 @@
         <target state="translated">Escribe tu mensaje...</target>
         <note>key: content.review.message_placeholder</note>
       </trans-unit>
+      <trans-unit id="48ec0a3b5f9bf96775a010f49c2ca83fa5a6d9d5" resname="content.review.read_more">
+        <source>Read more</source>
+        <target state="translated">Leer más</target>
+        <note>key: content.review.read_more</note>
+      </trans-unit>
       <trans-unit id="b19cf3651ea59d72545d9e67ccdcd5c4241a0681" resname="content.review.request">
         <source>Content review request</source>
         <target state="translated">Solicitud de revisión de contenido</target>
