@@ -31,6 +31,11 @@
         <target state="translated">La ubicación seleccionada no puede ser la raíz.</target>
         <note>key: ezplatform.copy_subtree.is_root</note>
       </trans-unit>
+      <trans-unit id="fc7e56b8b26344ec7393604951e1fb2199069e18" resname="ezplatform.copy_subtree.is_sub_location">
+        <source>Target parent location is a sub location of the source subtree</source>
+        <target state="translated">La ubicación principal es una sububicación del subárbol de origen</target>
+        <note>key: ezplatform.copy_subtree.is_sub_location</note>
+      </trans-unit>
       <trans-unit id="631da4c4fb5b000ee7f5c0c422e830ca192341a6" resname="ezplatform.copy_subtree.limit_exceeded">
         <source>Copy subtree limit exceeded. Current limit: %currentLimit%</source>
         <target state="translated">Se sobrepasó el límite de copia del subárbol. Límite actual: %currentLimit%</target>
@@ -40,6 +45,16 @@
         <source>The password fields must match.</source>
         <target state="translated">Las contraseñas deben coincidir.</target>
         <note>key: ezplatform.reset_user_password.passwords_must_match</note>
+      </trans-unit>
+      <trans-unit id="dcdb0ac04fad96ebe26ca71df1c731e6228ff14f" resname="ezplatform.trash.have_used_assets">
+        <source>Selected Location have assets that can't be removed.</source>
+        <target state="translated">La ubicación seleccionada tiene recursos que no se pueden eliminar.</target>
+        <note>key: ezplatform.trash.have_used_assets</note>
+      </trans-unit>
+      <trans-unit id="50f88ff616406e9f9474c6f78937aadb1303868e" resname="ezplatform.trash.location_has_no_children">
+        <source>Selected Location has no children locations.</source>
+        <target state="translated">La ubicación seleccionada no tiene sububicaciones.</target>
+        <note>key: ezplatform.trash.location_has_no_children</note>
       </trans-unit>
       <trans-unit id="cf558f546b83d94f1272929f81c64bd33d2997bc" resname="js.error.address_not_found">
         <source>Provided address does not exist</source>
@@ -100,6 +115,16 @@
         <source>{fieldName} field value is out of range. The value has to be between {min} and {max}</source>
         <target state="translated">El valor de {fieldName} no está dentro del rango permitido. El valor debe estar entre {min} y {max}</target>
         <note>key: js.error.out_of_range_value</note>
+      </trans-unit>
+      <trans-unit id="fff2e4db98c86a312a0a3fd9861781e511d24d79" resname="js.error.provide_latitude_value">
+        <source>Provide latitude value in the Latitude field</source>
+        <target state="translated">Asigna un valor de latitud en el campo Latitud</target>
+        <note>key: js.error.provide_latitude_value</note>
+      </trans-unit>
+      <trans-unit id="ed724243af56a0ff1a761c6ac10bffee055c7a47" resname="js.error.provide_longitude_value">
+        <source>Provide longitude value in the Longitude field</source>
+        <target state="translated">Asigna un valor de longitud en el campo Longitud</target>
+        <note>key: js.error.provide_longitude_value</note>
       </trans-unit>
       <trans-unit id="4486bc31f8e72bc3452052da1b3e7b1f6ccd7f6b" resname="js.error.too_long">
         <source>{fieldName} value should be less than or equal to {maxLength} characters</source>
