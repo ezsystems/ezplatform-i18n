@@ -71,6 +71,11 @@
         <target state="translated">Editar borrador</target>
         <note>key: dashboard.table.draft.edit</note>
       </trans-unit>
+      <trans-unit id="5c6a58e397b164610db6371fe26b4e79aa3962f8" resname="dashboard.table.draft.unauthorized">
+        <source>User does not have access to '%function%' '%module%' with content ID: %contentId%</source>
+        <target state="translated">El usuario no tiene acceso a '%function%' '%module%' con id. de contenido: %contentId%</target>
+        <note>key: dashboard.table.draft.unauthorized</note>
+      </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
         <source>Last Saved</source>
         <target state="translated">Guardado por última vez</target>
@@ -105,6 +110,11 @@
         <source>Me</source>
         <target state="translated">Yo</target>
         <note>key: me</note>
+      </trans-unit>
+      <trans-unit id="013cb5f0c7391fd9db25ef277f72bd0d3b62a0e3" resname="my.dashboard">
+        <source>My dashboard</source>
+        <target state="translated">Mi panel de control</target>
+        <note>key: my.dashboard</note>
       </trans-unit>
       <trans-unit id="c4d3f17636317e532c589f3008d82c263ab5c39d" resname="tab.name.everyone_content">
         <source>Content</source>
