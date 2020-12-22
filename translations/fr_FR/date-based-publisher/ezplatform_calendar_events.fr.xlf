@@ -21,6 +21,11 @@
         <target state="translated">Type de Contenu</target>
         <note>key: future_hide.attribute.content_type.label</note>
       </trans-unit>
+      <trans-unit id="d3d224f58fa31ffea8b89208f01cad4f8839d389" resname="future_hide.label">
+        <source>Content hide</source>
+        <target state="translated">Masquer contenu</target>
+        <note>key: future_hide.label</note>
+      </trans-unit>
       <trans-unit id="f01b2ae0dce2e28724b27d1ca71b44d764d2636e" resname="future_publication.action.reschedule.label">
         <source>Reschedule selected</source>
         <target state="translated">Replanifier la sélection</target>
@@ -40,6 +45,11 @@
         <source>Modified language</source>
         <target state="translated">Langue modifiée</target>
         <note>key: future_publication.attribute.modified_language.label</note>
+      </trans-unit>
+      <trans-unit id="b707401e387977dff9576ab9c9fcfa3a081ffbca" resname="future_publication.label">
+        <source>Content publication</source>
+        <target state="translated">Publication contenu</target>
+        <note>key: future_publication.label</note>
       </trans-unit>
       <trans-unit id="ec403158b3fd1e13dbc66f2de51e235fdb178188" resname="modal.close">
         <source>Close</source>
