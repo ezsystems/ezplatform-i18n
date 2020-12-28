@@ -16,11 +16,6 @@
         <target state="translated">Taille</target>
         <note>key: , Size|search</note>
       </trans-unit>
-      <trans-unit id="3e18361540b6479942c0d50d74ce2def3025fae4" resname="Add a comment">
-        <source>Add a comment</source>
-        <target state="translated">Ajouter un commentaire</target>
-        <note>key: Add a comment</note>
-      </trans-unit>
       <trans-unit id="75ceebf4fcd60557d8d98c7f2779f09138fb8a93" resname="Add all items to basket">
         <source>Add all items to basket</source>
         <target state="translated">Ajouter tous les articles au panier</target>
@@ -75,11 +70,6 @@
         <source>Bestsellers</source>
         <target state="translated">Meilleures ventes</target>
         <note>key: Bestsellers</note>
-      </trans-unit>
-      <trans-unit id="7d7f408d7c2f5a7b086f59c33d239dbfeb4f78c5" resname="Browse...">
-        <source>Browse...</source>
-        <target state="translated">Parcourir...</target>
-        <note>key: Browse...</note>
       </trans-unit>
       <trans-unit id="d6663dda5fe9b2524bf91f13a7621ec735f8a155" resname="Business">
         <source>Business</source>
@@ -190,11 +180,6 @@
         <source>Dear</source>
         <target state="translated">Cher(ère)</target>
         <note>key: Dear</note>
-      </trans-unit>
-      <trans-unit id="33b75c543132c988295bb686cd71b9194b1fdfdc" resname="Dear %user%">
-        <source>Dear %user%</source>
-        <target state="translated">Cher(ère) %user%</target>
-        <note>key: Dear %user%</note>
       </trans-unit>
       <trans-unit id="8deabb5c18abcb6cf7567d120514aacda1c236aa" resname="Dear Admin">
         <source>Dear Admin</source>
