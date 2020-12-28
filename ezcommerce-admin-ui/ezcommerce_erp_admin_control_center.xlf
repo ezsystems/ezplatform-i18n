@@ -346,6 +346,11 @@
         <target state="new">ID</target>
         <note>key: jobs_list.id</note>
       </trans-unit>
+      <trans-unit id="9d1ed086d5044c07a5a5d9db413ce5de20fd6c0b" resname="jobs_list.no_content">
+        <source>Currently there are no active jobs.</source>
+        <target state="new">Currently there are no active jobs.</target>
+        <note>key: jobs_list.no_content</note>
+      </trans-unit>
       <trans-unit id="0f36654f4072733078d108b617bb02b81b487bd7" resname="jobs_list.preview">
         <source>Preview</source>
         <target state="new">Preview</target>

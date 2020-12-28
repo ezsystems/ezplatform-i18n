@@ -36,11 +36,6 @@
         <target state="new">A customer has edited his profile. Please, check these data:</target>
         <note>key: A customer has edited his profile. Please, check these data:</note>
       </trans-unit>
-      <trans-unit id="eaffec78401451424652480dc382235348ce1b66" resname="ASC">
-        <source>ascend</source>
-        <target state="new">ascend</target>
-        <note>key: ASC</note>
-      </trans-unit>
       <trans-unit id="a0a98a88e8a87b222100a9a1b84087fd8a1af5c9" resname="Accept privacy policies">
         <source>Accept privacy policies</source>
         <target state="new">Accept privacy policies</target>
@@ -90,11 +85,6 @@
         <source>Add another input</source>
         <target state="new">Add another input</target>
         <note>key: Add Another Input</note>
-      </trans-unit>
-      <trans-unit id="3e18361540b6479942c0d50d74ce2def3025fae4" resname="Add a comment">
-        <source>Add a comment</source>
-        <target state="new">Add a comment</target>
-        <note>key: Add a comment</note>
       </trans-unit>
       <trans-unit id="75ceebf4fcd60557d8d98c7f2779f09138fb8a93" resname="Add all items to basket">
         <source>Add all items to basket</source>
@@ -146,20 +136,10 @@
         <target state="new">Address:</target>
         <note>key: Address:</note>
       </trans-unit>
-      <trans-unit id="604a2784bd57bd863c82d5d759e29cace7a83617" resname="After ordering, you might be (depends on choosen payment method) re-directed to the payment page.">
-        <source>After ordering, you might be (depends on choosen payment method) re-directed to the payment page.</source>
-        <target state="new">After ordering, you might be (depends on choosen payment method) re-directed to the payment page.</target>
-        <note>key: After ordering, you might be (depends on choosen payment method) re-directed to the payment page.</note>
-      </trans-unit>
       <trans-unit id="440f6e890d2be95ee2b0d7faf1245c395efd7276" resname="All Attributes">
         <source>All Attributes</source>
         <target state="new">All Attributes</target>
         <note>key: All Attributes</note>
-      </trans-unit>
-      <trans-unit id="951ee81af8f87d2ceb6df8585e9dd7ceca7be0d2" resname="Already a customer?">
-        <source>Already a customer?</source>
-        <target state="new">Already a customer?</target>
-        <note>key: Already a customer?</note>
       </trans-unit>
       <trans-unit id="2a48383d0566cf5292ff5bf2072cff0a9eed85c7" resname="Already in your comparison list">
         <source>Already in your comparison list</source>
@@ -175,11 +155,6 @@
         <source>An exception was thrown during your request. Please contact the administrator. We sincerely apologize for the inconvenience this may have caused.</source>
         <target state="new">An exception was thrown during your request. Please contact the administrator. We sincerely apologize for the inconvenience this may have caused.</target>
         <note>key: An exception was thrown during your request. Please contact the administrator. We sincerely apologize for the inconvenience this may have caused.</note>
-      </trans-unit>
-      <trans-unit id="972af7de2067bed2056d544c8f1dbbfbc840b805" resname="An order confirmation will be sent to:">
-        <source>An order confirmation will be sent to:</source>
-        <target state="new">An order confirmation will be sent to:</target>
-        <note>key: An order confirmation will be sent to:</note>
       </trans-unit>
       <trans-unit id="956237a495fd7e88a147a067f8ef1f300723b165" resname="An order submission to the ERP system failed. Please, check these information:">
         <source>An order submission to the ERP system failed. Please, check these information:</source>
@@ -231,11 +206,6 @@
         <target state="new">Basket with ID: %basketId% not found</target>
         <note>key: Basket with ID: %basketId% not found</note>
       </trans-unit>
-      <trans-unit id="90ca26538127d49610edcef0bc6f52cba1027d82" resname="Basket with basket id %basketid% was deleted.">
-        <source>Basket with basket id %basketid% was deleted.</source>
-        <target state="new">Basket with basket id %basketid% was deleted.</target>
-        <note>key: Basket with basket id %basketid% was deleted.</note>
-      </trans-unit>
       <trans-unit id="e11b80e40fef432a5b0557fa5d0bd77221430f26" resname="Best clients">
         <source>Best clients</source>
         <target state="new">Best clients</target>
@@ -250,11 +220,6 @@
         <source>Blog post</source>
         <target state="new">Blog post</target>
         <note>key: Blog post|search</note>
-      </trans-unit>
-      <trans-unit id="7d7f408d7c2f5a7b086f59c33d239dbfeb4f78c5" resname="Browse...">
-        <source>Browse...</source>
-        <target state="new">Browse...</target>
-        <note>key: Browse...</note>
       </trans-unit>
       <trans-unit id="d6663dda5fe9b2524bf91f13a7621ec735f8a155" resname="Business">
         <source>Business</source>
@@ -325,11 +290,6 @@
         <source>Checkout</source>
         <target state="new">Checkout</target>
         <note>key: Checkout</note>
-      </trans-unit>
-      <trans-unit id="cffb6fcd24744790d25909bbb2d028ed9304b661" resname="Choose one of your stored baskets:">
-        <source>Choose one of your stored baskets:</source>
-        <target state="new">Choose one of your stored baskets:</target>
-        <note>key: Choose one of your stored baskets:</note>
       </trans-unit>
       <trans-unit id="4271627f4f0bef6104a95cca7bb21cda4d74503e" resname="City">
         <source>City</source>
@@ -411,11 +371,6 @@
         <target state="new">Configuration Settings</target>
         <note>key: Configuration Settings</note>
       </trans-unit>
-      <trans-unit id="b56417ed9d3d1ee028e7877e9d013e698cc82a4c" resname="Confirmation email has been sent to this address: %email%">
-        <source>Confirmation email has been sent to this address: %email%</source>
-        <target state="new">Confirmation email has been sent to this address: %email%</target>
-        <note>key: Confirmation email has been sent to this address: %email%</note>
-      </trans-unit>
       <trans-unit id="b37456c4530be810dc040f50da72eda09addfb0a" resname="Contact">
         <source>Contact</source>
         <target state="new">Contact</target>
@@ -486,21 +441,6 @@
         <target state="new">Contact us!</target>
         <note>key: Contact us e-mail</note>
       </trans-unit>
-      <trans-unit id="7ae63e1da6816c30b4a10d53fd4bef5b836e3443" resname="Continue to delivery">
-        <source>Continue to delivery</source>
-        <target state="new">Continue to delivery</target>
-        <note>key: Continue to delivery</note>
-      </trans-unit>
-      <trans-unit id="c778f2946344a5fc8db56a4befb599d5cb5e640e" resname="Continue to order confirmation">
-        <source>Continue to order confirmation</source>
-        <target state="new">Continue to order confirmation</target>
-        <note>key: Continue to order confirmation</note>
-      </trans-unit>
-      <trans-unit id="1e5517c087eae181fda75121ddd229d18d174e54" resname="Continue to shipping and payment">
-        <source>Continue to shipping and payment</source>
-        <target state="new">Continue to shipping and payment</target>
-        <note>key: Continue to shipping and payment</note>
-      </trans-unit>
       <trans-unit id="d523ebbd10146cdfd39dee077f04c9d08468d0bc" resname="Country">
         <source>Country</source>
         <target state="new">Country</target>
@@ -540,11 +480,6 @@
         <source>Currently there are no orders stored in the shop.</source>
         <target state="new">Currently there are no orders stored in the shop.</target>
         <note>key: Currently there are no orders stored in the shop.</note>
-      </trans-unit>
-      <trans-unit id="d8acfdc82b94b500a1f0339dfafd320256d5eaef" resname="Currently, an individual calculation of prices and shipping costs is not possible due to technical problems.">
-        <source>Currently, an individual calculation of prices and shipping costs is not possible due to technical problems.</source>
-        <target state="new">Currently, an individual calculation of prices and shipping costs is not possible due to technical problems.</target>
-        <note>key: Currently, an individual calculation of prices and shipping costs is not possible due to technical problems.</note>
       </trans-unit>
       <trans-unit id="f0c8a9094f2cb821a86de796ab7049fd3553fdbc" resname="Customer Number">
         <source>Customer Number</source>
@@ -616,11 +551,6 @@
         <target state="new">Customers's shop user ID</target>
         <note>key: Customers's shop user ID</note>
       </trans-unit>
-      <trans-unit id="b5093023417eb749513563ec16d8c0c821aa5aff" resname="DESC">
-        <source>descend</source>
-        <target state="new">descend</target>
-        <note>key: DESC</note>
-      </trans-unit>
       <trans-unit id="eb9a4bc1c0c153e4e4b042a79113b815b7e3021d" resname="Date">
         <source>Date</source>
         <target state="new">Date</target>
@@ -640,11 +570,6 @@
         <source>Dear</source>
         <target state="new">Dear</target>
         <note>key: Dear</note>
-      </trans-unit>
-      <trans-unit id="33b75c543132c988295bb686cd71b9194b1fdfdc" resname="Dear %user%">
-        <source>Dear %user%</source>
-        <target state="new">Dear %user%</target>
-        <note>key: Dear %user%</note>
       </trans-unit>
       <trans-unit id="8deabb5c18abcb6cf7567d120514aacda1c236aa" resname="Dear Admin">
         <source>Dear Admin</source>
@@ -711,11 +636,6 @@
         <target state="new">Drop file here or</target>
         <note>key: Drop file here or</note>
       </trans-unit>
-      <trans-unit id="84b2b7dfbc58c87830acec6cce5cc865a5aab10d" resname="Due to technical problems, the prices have not been updated.">
-        <source>Due to technical problems, the prices have not been updated.</source>
-        <target state="new">Due to technical problems, the prices have not been updated.</target>
-        <note>key: Due to technical problems, the prices have not been updated.</note>
-      </trans-unit>
       <trans-unit id="0a220101555f8e2e9de4da77c880ebeef56e8330" resname="EAN: %ean%">
         <source>EAN: %ean%</source>
         <target state="new">EAN: %ean%</target>
@@ -766,11 +686,6 @@
         <target state="new">Email address</target>
         <note>key: Email address</note>
       </trans-unit>
-      <trans-unit id="4620d948534bcc23636b916903de6ba867adc1cb" resname="Enter a new basket name!">
-        <source>Enter a new basket name!</source>
-        <target state="new">Enter a new basket name!</target>
-        <note>key: Enter a new basket name!</note>
-      </trans-unit>
       <trans-unit id="307419414c00251c1a4fff21f1d23baebaacecb0" resname="Enter csv file input">
         <source>Enter CSV file input</source>
         <target state="new">Enter CSV file input</target>
@@ -780,16 +695,6 @@
         <source>Error for basket %basketId%: %error%</source>
         <target state="new">Error for basket %basketId%: %error%</target>
         <note>key: Error for basket %basketId%: %error%</note>
-      </trans-unit>
-      <trans-unit id="347c957e225255abb1ea7807e0a8e87e49c9ce26" resname="Error occurred! Basket name must be set.">
-        <source>Error occurred! Basket name must be set.</source>
-        <target state="new">Error occurred! Basket name must be set.</target>
-        <note>key: Error occurred! Basket name must be set.</note>
-      </trans-unit>
-      <trans-unit id="c9d8eb05f19a7ac6e71e6356dd7369b4d450ac74" resname="Error occurred! Basket type incorrect.">
-        <source>Error occurred! Basket type incorrect.</source>
-        <target state="new">Error occurred! Basket type incorrect.</target>
-        <note>key: Error occurred! Basket type incorrect.</note>
       </trans-unit>
       <trans-unit id="47adebab22d7ae607e2a1a86410699ba1c378c68" resname="Error while processing this action">
         <source>Error while processing this action</source>
@@ -906,11 +811,6 @@
         <target state="new">Folder</target>
         <note>key: Folder|search</note>
       </trans-unit>
-      <trans-unit id="349bf73c47f56fed9cd7b72c896dac6334190f94" resname="Following errors occurred:">
-        <source>Following errors occurred:</source>
-        <target state="new">Following errors occurred:</target>
-        <note>key: Following errors occurred:</note>
-      </trans-unit>
       <trans-unit id="68ae28d9adf39d4c52eee64abbf2a6ae71f01d3d" resname="For technical reason, no price is available currently">
         <source>For technical reason, no price is available currently</source>
         <target state="new">For technical reason, no price is available currently</target>
@@ -966,11 +866,6 @@
         <target state="new">Hint: This information is only shown in "dev" and "local" environments.</target>
         <note>key: Hint: This information is only shown in "dev" and "local" environments.</note>
       </trans-unit>
-      <trans-unit id="dc9079684e13942fd20e26302f88c96428aa837a" resname="I want to buy as a guest">
-        <source>I want to buy as a guest</source>
-        <target state="new">I want to buy as a guest</target>
-        <note>key: I want to buy as a guest</note>
-      </trans-unit>
       <trans-unit id="15473482833f8d5c46a3cd2cc77c390b35dae4f9" resname="I would like to submit the documents via email or fax.">
         <source>I would like to submit the documents via email or fax.</source>
         <target state="new">I would like to submit the documents via email or fax.</target>
@@ -991,20 +886,10 @@
         <target state="new">If you already have an customer number you can activate your account directly.</target>
         <note>key: If you already have an customer number you can activate your account directly.</note>
       </trans-unit>
-      <trans-unit id="db87823c33144a9d028ad741aeccab2eaad57d79" resname="If you are a new customer, please choose if you are private or business:">
-        <source>If you are a new customer, please choose if you are private or business:</source>
-        <target state="new">If you are a new customer, please choose if you are private or business:</target>
-        <note>key: If you are a new customer, please choose if you are private or business:</note>
-      </trans-unit>
       <trans-unit id="433fc3d64769319988a5a98720764ab60ba7610b" resname="If you are an existing customer, please click here:">
         <source>If you are an existing customer, please click here:</source>
         <target state="new">If you are an existing customer, please click here:</target>
         <note>key: If you are an existing customer, please click here:</note>
-      </trans-unit>
-      <trans-unit id="75d61d8c6b913696d6f5fea2af239f9b27f5cc40" resname="If you prefer to order without registration please choose this option:">
-        <source>If you prefer to order without registration please choose this option:</source>
-        <target state="new">If you prefer to order without registration please choose this option:</target>
-        <note>key: If you prefer to order without registration please choose this option:</note>
       </trans-unit>
       <trans-unit id="c72795657c1c5c9ac678c8c8fb36245221261644" resname="Inc.">
         <source>Inc.</source>
@@ -1146,11 +1031,6 @@
         <target state="new">Login / Register</target>
         <note>key: Login / Register</note>
       </trans-unit>
-      <trans-unit id="0540bba8e40ac8d43a094cce4a9af178447bc315" resname="Login or register">
-        <source>Login or register</source>
-        <target state="new">Login or register</target>
-        <note>key: Login or register</note>
-      </trans-unit>
       <trans-unit id="e43d612e11f1568f2373e719d4c4b08dcecdc7cc" resname="Logout">
         <source>Logout</source>
         <target state="new">Logout</target>
@@ -1181,30 +1061,10 @@
         <target state="new">Min quantity</target>
         <note>key: Min quantity</note>
       </trans-unit>
-      <trans-unit id="0d995dada89eb0906777db28fa29bac15139879c" resname="More Products">
-        <source>More Products</source>
-        <target state="new">More Products</target>
-        <note>key: More Products</note>
-      </trans-unit>
-      <trans-unit id="473710d327804e484c1863690d91c3751e2c7c98" resname="More details">
-        <source>More details</source>
-        <target state="new">More details</target>
-        <note>key: More details</note>
-      </trans-unit>
       <trans-unit id="ad91bd7ca681c4b3fd046ef617f086d52810700c" resname="Most searched terms with less hits">
         <source>Most searched terms with less hits</source>
         <target state="new">Most searched terms with less hits</target>
         <note>key: Most searched terms with less hits</note>
-      </trans-unit>
-      <trans-unit id="216585e29a7c365fb5ffc1a25f5532f89a24a60e" resname="Mr.">
-        <source>Mr.</source>
-        <target state="new">Mr.</target>
-        <note>key: Mr.</note>
-      </trans-unit>
-      <trans-unit id="37861bd65e4c2345a9cbcdcbfb928f49b68ed547" resname="Mrs.">
-        <source>Mrs.</source>
-        <target state="new">Mrs.</target>
-        <note>key: Mrs.</note>
       </trans-unit>
       <trans-unit id="b51b2b0d62c7e20b8d8a956fed9a940fed0677d6" resname="My Account">
         <source>My Account</source>
@@ -1276,11 +1136,6 @@
         <target state="new">No availability information for this product</target>
         <note>key: No availability information for this product</note>
       </trans-unit>
-      <trans-unit id="3e369cc31fcef98ea4c286d94000f28baf3d486a" resname="No confirmation was found">
-        <source>No confirmation was found</source>
-        <target state="new">No confirmation was found</target>
-        <note>key: No confirmation was found</note>
-      </trans-unit>
       <trans-unit id="e33899926b0427c4e7fd8c5a530d736b52b61444" resname="No connection">
         <source>No connection</source>
         <target state="new">No connection</target>
@@ -1316,11 +1171,6 @@
         <target state="new">Not Available in this amount</target>
         <note>key: Not Available in this amount</note>
       </trans-unit>
-      <trans-unit id="079cb3e0f42147f972c106bdd7f1142d9e141c10" resname="Not a customer yet?">
-        <source>Not a customer yet?</source>
-        <target state="new">Not a customer yet?</target>
-        <note>key: Not a customer yet?</note>
-      </trans-unit>
       <trans-unit id="53802e672d6d5a496e79cc598092291e80a23e1d" resname="Not logged in">
         <source>Not logged in</source>
         <target state="new">Not logged in</target>
@@ -1340,11 +1190,6 @@
         <source>Only differences</source>
         <target state="new">Only differences</target>
         <note>key: Only differences</note>
-      </trans-unit>
-      <trans-unit id="66c9b1b844b739cb69b7db746dedbd420550fc1d" resname="Order Confirmation">
-        <source>Order Confirmation</source>
-        <target state="new">Order Confirmation</target>
-        <note>key: Order Confirmation</note>
       </trans-unit>
       <trans-unit id="4a07dc6e4ef8ed64b594699494c3b6544b7c314b" resname="Order Management">
         <source>Order Management</source>
@@ -1401,11 +1246,6 @@
         <target state="new">Payment</target>
         <note>key: Payment</note>
       </trans-unit>
-      <trans-unit id="0e55fb3b04e225d83af1a64ec1cedc121fb61c32" resname="Payment method">
-        <source>Payment method</source>
-        <target state="new">Payment method</target>
-        <note>key: Payment method</note>
-      </trans-unit>
       <trans-unit id="9a12bd83ab06265bab4af289bc112c3f7ce65aa9" resname="Personal data:">
         <source>Personal data:</source>
         <target state="new">Personal data:</target>
@@ -1425,11 +1265,6 @@
         <source>Please check the registration document in attachment</source>
         <target state="new">Please check the registration document in attachment</target>
         <note>key: Please check the registration document in attachment</note>
-      </trans-unit>
-      <trans-unit id="c3cb27ea83980effb04b04bed4eff2585b48468b" resname="Please choose a variant">
-        <source>Please choose a variant</source>
-        <target state="new">Please choose a variant</target>
-        <note>key: Please choose a variant</note>
       </trans-unit>
       <trans-unit id="610b9ed2ad34ee66fce92181208cdb223a5d2e3c" resname="Please click &lt;a href=&quot;%url%&quot;&gt;here&lt;/a&gt; to set a new password.">
         <source><![CDATA[Please click <a href="%url%">here</a> to set a new password.]]></source>
@@ -1496,95 +1331,20 @@
         <target state="new">Price from</target>
         <note>key: Price from</note>
       </trans-unit>
-      <trans-unit id="8bc1ebf512569e098d6e59cac4c33676bdf3b9b6" resname="Prices can not be calculated for %sku% %variantCode%!">
-        <source>Prices can not be calculated for %sku% %variantCode%!</source>
-        <target state="new">Prices can not be calculated for %sku% %variantCode%!</target>
-        <note>key: Prices can not be calculated for %sku% %variantCode%!</note>
-      </trans-unit>
-      <trans-unit id="d1b6f8d34af9fdc87e92bcd19883041bd7f30257" resname="Print this page">
-        <source>Print this page</source>
-        <target state="new">Print this page</target>
-        <note>key: Print this page</note>
-      </trans-unit>
       <trans-unit id="237dfa0a21c8e17a7276cf161eef7e0fba067c47" resname="Private">
         <source>Private</source>
         <target state="new">Private</target>
         <note>key: Private</note>
-      </trans-unit>
-      <trans-unit id="364f13c9f611371f6dadd45c2f148d55b8d65c9b" resname="Private customer">
-        <source>Private customer</source>
-        <target state="new">Private customer</target>
-        <note>key: Private customer</note>
-      </trans-unit>
-      <trans-unit id="9456d3ce22ab335b9351bce2061f8a54de663703" resname="Proceed to checkout">
-        <source>Proceed to checkout</source>
-        <target state="new">Proceed to checkout</target>
-        <note>key: Proceed to checkout</note>
       </trans-unit>
       <trans-unit id="dd3b86d1ef21b9fb2e1edc30f524e7afb491b1ad" resname="Product">
         <source>Product</source>
         <target state="new">Product</target>
         <note>key: Product</note>
       </trans-unit>
-      <trans-unit id="42c90aba6188659277788fc74caad78e589d0eb3" resname="Product added: %name%, %sku% %variantCode%">
-        <source>Product added: %name%, %sku% %variantCode%</source>
-        <target state="new">Product added: %name%, %sku% %variantCode%</target>
-        <note>key: Product added: %name%, %sku% %variantCode%</note>
-      </trans-unit>
       <trans-unit id="983bd920063e014faf0044975ed6e67d1bda3d27" resname="Product not found">
         <source>Product not found</source>
         <target state="new">Product not found</target>
         <note>key: Product not found</note>
-      </trans-unit>
-      <trans-unit id="e0910cb2bfcb8538d85c1a960055fa3ff3df08f2" resname="Product removed: %name%, %sku% %variantCode%">
-        <source>Product removed: %name%, %sku% %variantCode%</source>
-        <target state="new">Product removed: %name%, %sku% %variantCode%</target>
-        <note>key: Product removed: %name%, %sku% %variantCode%</note>
-      </trans-unit>
-      <trans-unit id="af9eb1592fdde38ae9e024ad14f9e7beba3040b9" resname="Product was added to the basket">
-        <source>Product was added to the basket</source>
-        <target state="new">Product was added to the basket</target>
-        <note>key: Product was added to the basket</note>
-      </trans-unit>
-      <trans-unit id="8e187b45401542dc387caa0e5238c3644ac219e4" resname="Product with the SKU %sku% not found">
-        <source>Product with the SKU %sku% not found</source>
-        <target state="new">Product with the SKU %sku% not found</target>
-        <note>key: Product with the SKU %sku% not found</note>
-      </trans-unit>
-      <trans-unit id="e8003dd9fe377ed6eb3f8f90d4afaef026f54964" resname="Product with the sku: %sku% not found">
-        <source>Product with the sku: %sku% not found</source>
-        <target state="new">Product with the sku: %sku% not found</target>
-        <note>key: Product with the sku: %sku% not found</note>
-      </trans-unit>
-      <trans-unit id="db63462f5ed519ed4109044238bffb2400890bf6" resname="Product: %name%, %sku% %variantCode% added to your %basketType%|comparison">
-        <source>Product: %name%, %sku% %variantCode% added to your comparison list</source>
-        <target state="new">Product: %name%, %sku% %variantCode% added to your comparison list</target>
-        <note>key: Product: %name%, %sku% %variantCode% added to your %basketType%|comparison</note>
-      </trans-unit>
-      <trans-unit id="81ba5ff04c492336bd6bf949fae906c5a9980014" resname="Product: %name%, %sku% %variantCode% added to your %basketType%|storedBasket">
-        <source>Product: %name%, %sku% %variantCode% added to your stored basket</source>
-        <target state="new">Product: %name%, %sku% %variantCode% added to your stored basket</target>
-        <note>key: Product: %name%, %sku% %variantCode% added to your %basketType%|storedBasket</note>
-      </trans-unit>
-      <trans-unit id="f4734643c5603ab5c7dee20436acf7294f6ee5c5" resname="Product: %name%, %sku% %variantCode% added to your %basketType%|wishList">
-        <source>Product: %name%, %sku% %variantCode% added to your wishlist</source>
-        <target state="new">Product: %name%, %sku% %variantCode% added to your wishlist</target>
-        <note>key: Product: %name%, %sku% %variantCode% added to your %basketType%|wishList</note>
-      </trans-unit>
-      <trans-unit id="c18d2752de749f23f5a3154eb722863739feeacf" resname="Product: %sku%, %name% added to your %basketType%|comparison">
-        <source>Product: %sku%, %name% added to your comparison list</source>
-        <target state="new">Product: %sku%, %name% added to your comparison list</target>
-        <note>key: Product: %sku%, %name% added to your %basketType%|comparison</note>
-      </trans-unit>
-      <trans-unit id="1458d8232c5cb923d9ff488ffb972311963dbab1" resname="Product: %sku%, %name% added to your %basketType%|storedBasket">
-        <source>Product: %sku%, %name% added to your stored basket</source>
-        <target state="new">Product: %sku%, %name% added to your stored basket</target>
-        <note>key: Product: %sku%, %name% added to your %basketType%|storedBasket</note>
-      </trans-unit>
-      <trans-unit id="e31bbe2dd462100e3c1f3a68c3527be932eaab0b" resname="Product: %sku%, %name% added to your %basketType%|wishList">
-        <source>Product: %sku%, %name% added to your wishlist</source>
-        <target state="new">Product: %sku%, %name% added to your wishlist</target>
-        <note>key: Product: %sku%, %name% added to your %basketType%|wishList</note>
       </trans-unit>
       <trans-unit id="fe0a091fdbfb3e9c31b7a1bd7975974938e702fa" resname="Products">
         <source>Products</source>
@@ -1596,16 +1356,6 @@
         <target state="new">Products and sales</target>
         <note>key: Products and sales</note>
       </trans-unit>
-      <trans-unit id="9286be6122025f408635f46bae18700124d893db" resname="Products were added to the basket">
-        <source>Products were added to the basket</source>
-        <target state="new">Products were added to the basket</target>
-        <note>key: Products were added to the basket</note>
-      </trans-unit>
-      <trans-unit id="98c115a34fe9c270c0032fb5521719c2d646e4d3" resname="Products were added to your %basketType%|storedBasket">
-        <source>Products were added to your stored basket</source>
-        <target state="new">Products were added to your stored basket</target>
-        <note>key: Products were added to your %basketType%|storedBasket</note>
-      </trans-unit>
       <trans-unit id="1e5ff9e500c20c682a037a3a5ced18064af0eb10" resname="Qty">
         <source>Qty</source>
         <target state="new">Qty</target>
@@ -1615,11 +1365,6 @@
         <source>Quantity</source>
         <target state="new">Quantity</target>
         <note>key: Quantity</note>
-      </trans-unit>
-      <trans-unit id="1c27b0196f566540a146f7449797ccc065a225ce" resname="Quantity is not valid.">
-        <source>Quantity is not valid.</source>
-        <target state="new">Quantity is not valid.</target>
-        <note>key: Quantity is not valid.</note>
       </trans-unit>
       <trans-unit id="abc84f3f4f175ef9ea5902fd51272ea8720a366c" resname="Quantity of products you want to purchase">
         <source>Quantity of products you want to purchase</source>
@@ -1686,16 +1431,6 @@
         <target state="new">Remove product from stored basket</target>
         <note>key: Remove product from stored basket</note>
       </trans-unit>
-      <trans-unit id="3cae3fbb4216ab78fdc8e432facd12c052318d89" resname="Remove product from stored basket|storedBasket">
-        <source>Remove product from stored basket</source>
-        <target state="new">Remove product from stored basket</target>
-        <note>key: Remove product from stored basket|storedBasket</note>
-      </trans-unit>
-      <trans-unit id="c93ac9d48a7a3dfdd2f6fcc3924b79e693827faf" resname="Remove product from stored basket|wishList">
-        <source>Remove product from wishlist</source>
-        <target state="new">Remove product from wishlist</target>
-        <note>key: Remove product from stored basket|wishList</note>
-      </trans-unit>
       <trans-unit id="bab9bc458f38d4d574e5baa63c72341db6ddaa30" resname="Repeat Password">
         <source>Repeat Password</source>
         <target state="new">Repeat Password</target>
@@ -1746,11 +1481,6 @@
         <target state="new">Search Text</target>
         <note>key: Search Text</note>
       </trans-unit>
-      <trans-unit id="8d15fc8a22a358a6b8d6c51a6d1fe1afa153a417" resname="Search in addresses">
-        <source>Search in addresses</source>
-        <target state="new">Search in addresses</target>
-        <note>key: Search in addresses</note>
-      </trans-unit>
       <trans-unit id="c8a3f10e895d4683908a5346c0582d208c4e4bf6" resname="Select your password">
         <source>Select your password</source>
         <target state="new">Select your password</target>
@@ -1770,16 +1500,6 @@
         <source>Server load</source>
         <target state="new">Server load</target>
         <note>key: Server load</note>
-      </trans-unit>
-      <trans-unit id="8ffc2d7e479d78aeb3f935a0e0f37c38cfffab89" resname="Shipping and Payment">
-        <source>Shipping and Payment</source>
-        <target state="new">Shipping and Payment</target>
-        <note>key: Shipping and Payment</note>
-      </trans-unit>
-      <trans-unit id="9d1aafa8abe0ba32db90de6a6ad0a81464151a19" resname="Shipping method">
-        <source>Shipping method</source>
-        <target state="new">Shipping method</target>
-        <note>key: Shipping method</note>
       </trans-unit>
       <trans-unit id="55de88709232ec03a7618ceae9b2248419fdc862" resname="Shop">
         <source>Shop</source>
@@ -1801,21 +1521,6 @@
         <target state="new">Shopping management</target>
         <note>key: Shopping management</note>
       </trans-unit>
-      <trans-unit id="d97d1ee339e4eeaba8cac91dca37c8b4ec8f5501" resname="Show">
-        <source>Show</source>
-        <target state="new">Show</target>
-        <note>key: Show</note>
-      </trans-unit>
-      <trans-unit id="50a279de829f2dc398ac2ac7c9367508ea4b5df5" resname="Show all">
-        <source>Show all</source>
-        <target state="new">Show all</target>
-        <note>key: Show all</note>
-      </trans-unit>
-      <trans-unit id="4c852b26d1b71054cb8fbccc79ae72e91dc94144" resname="Show less">
-        <source>Show less</source>
-        <target state="new">Show less</target>
-        <note>key: Show less</note>
-      </trans-unit>
       <trans-unit id="8a00748171b458615dd7d1aa0db9a280a3b64b49" resname="Size|search">
         <source>file size</source>
         <target state="new">file size</target>
@@ -1830,21 +1535,6 @@
         <source>Social media</source>
         <target state="new">Social media</target>
         <note>key: Social media</note>
-      </trans-unit>
-      <trans-unit id="8bb329943eb487de65ee7bf6f52791483baccc72" resname="Sorry! You need an account to add items to your %basketType%|storedBasket">
-        <source>Sorry! You need an account to add items to your stored basket</source>
-        <target state="new">Sorry! You need an account to add items to your stored basket</target>
-        <note>key: Sorry! You need an account to add items to your %basketType%|storedBasket</note>
-      </trans-unit>
-      <trans-unit id="95c15e34b8e9f6833c71dfa4cf38256d3242da0f" resname="Sorry! You need an account to add items to your %basketType%|wishList">
-        <source>Sorry! You need an account to add items to your wishlist</source>
-        <target state="new">Sorry! You need an account to add items to your wishlist</target>
-        <note>key: Sorry! You need an account to add items to your %basketType%|wishList</note>
-      </trans-unit>
-      <trans-unit id="7c0edbbcef0fd4e657c38d593a3e0fac11895917" resname="Sort Field">
-        <source>Sort Field</source>
-        <target state="new">Sort Field</target>
-        <note>key: Sort Field</note>
       </trans-unit>
       <trans-unit id="5b5417c8f809fb1fccf7945620486052abfadb17" resname="Sort Order">
         <source>Sort Order</source>
@@ -1886,21 +1576,6 @@
         <target state="new">Subscribe to newsletter</target>
         <note>key: Subscribe to newsletter</note>
       </trans-unit>
-      <trans-unit id="40771e32e1d5bb713945ce36cd59b40a39320ef7" resname="Subtotal %vat% VAT">
-        <source>Subtotal %vat% VAT</source>
-        <target state="new">Subtotal %vat% VAT</target>
-        <note>key: Subtotal %vat% VAT</note>
-      </trans-unit>
-      <trans-unit id="6cad0cd1b5376fa52ed4fa0393099e9c7f4f149c" resname="Summary and Order Confirmation">
-        <source>Summary and Order Confirmation</source>
-        <target state="new">Summary and Order Confirmation</target>
-        <note>key: Summary and Order Confirmation</note>
-      </trans-unit>
-      <trans-unit id="24a7814c5bbc472f769c917f50fa72ee373d6b26" resname="Summary and order overview">
-        <source>Summary and order overview</source>
-        <target state="new">Summary and order overview</target>
-        <note>key: Summary and order overview</note>
-      </trans-unit>
       <trans-unit id="0acb2980724ff0b69d3cd6866faba8ab8a58b2ca" resname="Supported file formats: PDF, max size 5MB">
         <source>Supported file formats: PDF, max size 5MB</source>
         <target state="new">Supported file formats: PDF, max size 5MB</target>
@@ -1921,40 +1596,10 @@
         <target state="new">Technical information</target>
         <note>key: Technical information</note>
       </trans-unit>
-      <trans-unit id="f033a405beadc7d63598047d1f69c98a644a0dd6" resname="Thank you for using our shop.">
-        <source>Thank you for using our shop.</source>
-        <target state="new">Thank you for using our shop.</target>
-        <note>key: Thank you for using our shop.</note>
-      </trans-unit>
-      <trans-unit id="1e7aee9fa1447f160ec79ac3bd1f948ca626aa66" resname="The %value% quantity is %quantity% for product: %name%, %sku% %variantCode%">
-        <source>The %value% quantity is %quantity% for product: %name%, %sku% %variantCode%</source>
-        <target state="new">The %value% quantity is %quantity% for product: %name%, %sku% %variantCode%</target>
-        <note>key: The %value% quantity is %quantity% for product: %name%, %sku% %variantCode%</note>
-      </trans-unit>
       <trans-unit id="8c3913ae68ed9b3088b6964c563c5218a4dff93b" resname="The customer will send his registration document per Email">
         <source>The customer will send his registration document per Email</source>
         <target state="new">The customer will send his registration document per Email</target>
         <note>key: The customer will send his registration document per Email</note>
-      </trans-unit>
-      <trans-unit id="d7ccc00b30b7ab44e951979c8b08128afc11c007" resname="The given quantity %quantity% is not valid for product: %name%,  %sku% %variantCode%">
-        <source>The given quantity %quantity% is not valid for product: %name%,  %sku% %variantCode%</source>
-        <target state="new">The given quantity %quantity% is not valid for product: %name%,  %sku% %variantCode%</target>
-        <note>key: The given quantity %quantity% is not valid for product: %name%,  %sku% %variantCode%</note>
-      </trans-unit>
-      <trans-unit id="e2a5da6deecbf01f0a50ae697347132f92657621" resname="The item: %sku% %varCode% is discontinued and not available anymore. It was deleted from the basket.">
-        <source>The item: %sku% %varCode% is discontinued and not available anymore. It was deleted from the basket.</source>
-        <target state="new">The item: %sku% %varCode% is discontinued and not available anymore. It was deleted from the basket.</target>
-        <note>key: The item: %sku% %varCode% is discontinued and not available anymore. It was deleted from the basket.</note>
-      </trans-unit>
-      <trans-unit id="af625a7f99719b4905074cc2afba437f67b65d4b" resname="The item: %sku% %varCode% is discontinued and only %quantity% items are available.">
-        <source>The item: %sku% %varCode% is discontinued and only %quantity% items are available.</source>
-        <target state="new">The item: %sku% %varCode% is discontinued and only %quantity% items are available.</target>
-        <note>key: The item: %sku% %varCode% is discontinued and only %quantity% items are available.</note>
-      </trans-unit>
-      <trans-unit id="059562a6f3b143de49442d3189d4e8789187739b" resname="The packaging unit is %packagingUnit% for product:  %name%, %sku% %variantCode%">
-        <source>The packaging unit is %packagingUnit% for product:  %name%, %sku% %variantCode%</source>
-        <target state="new">The packaging unit is %packagingUnit% for product:  %name%, %sku% %variantCode%</target>
-        <note>key: The packaging unit is %packagingUnit% for product:  %name%, %sku% %variantCode%</note>
       </trans-unit>
       <trans-unit id="a29d6d5aa5131805e60ceac186b93963b5647b68" resname="The password fields must match.">
         <source>The password fields must match.</source>
@@ -1980,11 +1625,6 @@
         <source>There is no information about availability for this product</source>
         <target state="new">There is no information about availability for this product</target>
         <note>key: There is no information about availability for this product</note>
-      </trans-unit>
-      <trans-unit id="998e2021f1387d6dfa9a1ef977c06ba4514d96d8" resname="There is no information about the availability for: %sku% %varCode%, but this item is discontinued.">
-        <source>There is no information about the availability for: %sku% %varCode%, but this item is discontinued.</source>
-        <target state="new">There is no information about the availability for: %sku% %varCode%, but this item is discontinued.</target>
-        <note>key: There is no information about the availability for: %sku% %varCode%, but this item is discontinued.</note>
       </trans-unit>
       <trans-unit id="118a23a0538df2e5e0e8960ecb76a6179d18e970" resname="This List">
         <source>This List</source>
@@ -2271,65 +1911,10 @@
         <target state="new">You don\'t have access to see this page!</target>
         <note>key: You don't have access to see this page!</note>
       </trans-unit>
-      <trans-unit id="d716be948f84dad3211817858851c09283290d34" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|comparison">
-        <source>You have already the product: %name, %sku% in your stored basket</source>
-        <target state="new">You have already the product: %name, %sku% in your stored basket</target>
-        <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|comparison</note>
-      </trans-unit>
-      <trans-unit id="06621dc0b722ae3008c93ff8a2efa763a978ec00" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|storedBasket">
-        <source>You have already the product: %name, %sku% in your wishlist</source>
-        <target state="new">You have already the product: %name, %sku% in your wishlist</target>
-        <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|storedBasket</note>
-      </trans-unit>
-      <trans-unit id="2293f8e8c409db0febed97d76d90ccf113ac3c9f" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|wishList">
-        <source>You have already the product:  %name%, %sku% in your comparison list</source>
-        <target state="new">You have already the product:  %name%, %sku% in your comparison list</target>
-        <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|wishList</note>
-      </trans-unit>
-      <trans-unit id="3c52430eb9e6bb06cd337a822b52de305b7aa614" resname="You have already the product: %sku%, %name% in your %basketType%|comparison">
-        <source>You have already the product: %sku%, %name% in your comparison list</source>
-        <target state="new">You have already the product: %sku%, %name% in your comparison list</target>
-        <note>key: You have already the product: %sku%, %name% in your %basketType%|comparison</note>
-      </trans-unit>
-      <trans-unit id="50dc8a71d117b77acf641c522b742dd896a3740c" resname="You have already the product: %sku%, %name% in your %basketType%|storedBasket">
-        <source>You already have product %sku%, %name% in your stored basket</source>
-        <target state="new">You already have product %sku%, %name% in your stored basket</target>
-        <note>key: You have already the product: %sku%, %name% in your %basketType%|storedBasket</note>
-      </trans-unit>
-      <trans-unit id="96019b5781a6715a756a431751598410dcd4877d" resname="You have already the product: %sku%, %name% in your %basketType%|wishList">
-        <source>You have already the product: %sku%, %name% in your wishlist</source>
-        <target state="new">You have already the product: %sku%, %name% in your wishlist</target>
-        <note>key: You have already the product: %sku%, %name% in your %basketType%|wishList</note>
-      </trans-unit>
-      <trans-unit id="8d302598ac4b24c40a15f5ae55a739051039b0ac" resname="You have following items in your %basket_type%|storedBasket">
-        <source>You have following items in your stored basket</source>
-        <target state="new">You have following items in your stored basket</target>
-        <note>key: You have following items in your %basket_type%|storedBasket</note>
-      </trans-unit>
-      <trans-unit id="cb3e419b92d6976b39094f86015b27aab1ce111c" resname="You have following items in your %basket_type%|wishList">
-        <source>You have following items in your wishlist</source>
-        <target state="new">You have following items in your wishlist</target>
-        <note>key: You have following items in your %basket_type%|wishList</note>
-      </trans-unit>
       <trans-unit id="cfb05d93be4cf562e14a436ace026207e12e8bfa" resname="You send us following message. We will take care of your request as soon as possible">
         <source>You send us following message. We will take care of your request as soon as possible</source>
         <target state="new">You send us following message. We will take care of your request as soon as possible</target>
         <note>key: You send us following message. We will take care of your request as soon as possible</note>
-      </trans-unit>
-      <trans-unit id="ba8be5a8c07255c507e8c80b00454bdc3d55312e" resname="Your %basketType% is empty|comparison">
-        <source>Your comparison list is empty</source>
-        <target state="new">Your comparison list is empty</target>
-        <note>key: Your %basketType% is empty|comparison</note>
-      </trans-unit>
-      <trans-unit id="3ad9ca4346f87231465d050bf9106892f0339397" resname="Your %basketType% is empty|storedBasket">
-        <source>Your stored basket is empty</source>
-        <target state="new">Your stored basket is empty</target>
-        <note>key: Your %basketType% is empty|storedBasket</note>
-      </trans-unit>
-      <trans-unit id="d3e9f3bd562ecc3801def7f791ed775e7eb8dee5" resname="Your %basketType% is empty|wishList">
-        <source>Your wishlist is empty</source>
-        <target state="new">Your wishlist is empty</target>
-        <note>key: Your %basketType% is empty|wishList</note>
       </trans-unit>
       <trans-unit id="6c80cd84097ddd9b81787badf0347046d67d1555" resname="Your Account|profile">
         <source>Your Account</source>
@@ -2356,20 +1941,10 @@
         <target state="new">Your List</target>
         <note>key: Your List</note>
       </trans-unit>
-      <trans-unit id="ee1181055cef997056a90c6052c0f9c403fd213e" resname="Your Order">
-        <source>Your Order</source>
-        <target state="new">Your Order</target>
-        <note>key: Your Order</note>
-      </trans-unit>
       <trans-unit id="fdc7c20f26de0a2c804794551e5d03f52df38fe9" resname="Your account has been successfully activated.">
         <source>Your account has been successfully activated.</source>
         <target state="new">Your account has been successfully activated.</target>
         <note>key: Your account has been successfully activated.</note>
-      </trans-unit>
-      <trans-unit id="8eb7a0d6cb42c6091923c77084d3d09ebb9cb2db" resname="Your comment">
-        <source>Your comment</source>
-        <target state="new">Your comment</target>
-        <note>key: Your comment</note>
       </trans-unit>
       <trans-unit id="9f5676537fb930361cb4a7b30b9e206f676b20f0" resname="Your delivery addresses">
         <source>Your delivery addresses</source>
@@ -2385,16 +1960,6 @@
         <source>Your message</source>
         <target state="new">Your message</target>
         <note>key: Your message</note>
-      </trans-unit>
-      <trans-unit id="e58a042dff75ff087e9762ea85776835febdcb8e" resname="Your order was placed succesfully.">
-        <source>Your order was placed succesfully.</source>
-        <target state="new">Your order was placed succesfully.</target>
-        <note>key: Your order was placed succesfully.</note>
-      </trans-unit>
-      <trans-unit id="26d745d486c184abc5adcceda1c21022ff9a3fd3" resname="Your password">
-        <source>Your password</source>
-        <target state="new">Your password</target>
-        <note>key: Your password</note>
       </trans-unit>
       <trans-unit id="16a067af179c1f81645e2954ee05c68337fd773c" resname="Your price">
         <source>Your price</source>
@@ -2480,11 +2045,6 @@
         <source>Manage addresses</source>
         <target state="new">Manage addresses</target>
         <note>key: button.manage_addresses</note>
-      </trans-unit>
-      <trans-unit id="230715946215cec7028ddf24fcef779ccbd0daf9" resname="button.order">
-        <source>Purchase now</source>
-        <target state="new">Purchase now</target>
-        <note>key: button.order</note>
       </trans-unit>
       <trans-unit id="6eabf64efafbfe5e86a775b3c3322635fb3e4814" resname="button.remove_voucher">
         <source>Remove voucher</source>
@@ -2726,11 +2286,6 @@
         <target state="new">Please fill out the form to create a new delivery address.</target>
         <note>key: create_delivery_address_intro_text</note>
       </trans-unit>
-      <trans-unit id="b82cafafcea6328cd4669a893daff282944799db" resname="currently chosen address">
-        <source>currently chosen address</source>
-        <target state="new">currently chosen address</target>
-        <note>key: currently chosen address</note>
-      </trans-unit>
       <trans-unit id="aabd7393a241dbadbd20e2ebcf8892b732ddcfeb" resname="data_privacy_hint">
         <source>data_privacy_hint</source>
         <target state="new">data_privacy_hint</target>
@@ -2745,11 +2300,6 @@
         <source>eCommerce</source>
         <target state="new">eCommerce</target>
         <note>key: eCommerce</note>
-      </trans-unit>
-      <trans-unit id="5e4476d300e5a35d9f48519d11be8dadd2508f41" resname="edit Basket">
-        <source>Edit Basket</source>
-        <target state="new">Edit Basket</target>
-        <note>key: edit Basket</note>
       </trans-unit>
       <trans-unit id="44ce9400772fa914663567870ecc658181c630db" resname="edit_delivery_address_intro_text">
         <source>Please change the required fields</source>
@@ -2806,11 +2356,6 @@
         <target state="new">Current customer information after delegate</target>
         <note>key: info.current_customer_data</note>
       </trans-unit>
-      <trans-unit id="0756c032c5a4d2303d279aab72bf0932b4b57865" resname="introtext_order_summary">
-        <source>introtext_order_summary</source>
-        <target state="new">introtext_order_summary</target>
-        <note>key: introtext_order_summary</note>
-      </trans-unit>
       <trans-unit id="badeea028470072ebd283497c8fee6eef92e433f" resname="invoice_generation_error">
         <source>invoice_generation_error</source>
         <target state="new">invoice_generation_error</target>
@@ -2825,11 +2370,6 @@
         <source>Reviews</source>
         <target state="new">Reviews</target>
         <note>key: label._reviews</note>
-      </trans-unit>
-      <trans-unit id="55b729627a9c8428bd82ba50a11920e4120378e4" resname="label.add_a_reference">
-        <source>Add a reference</source>
-        <target state="new">Add a reference</target>
-        <note>key: label.add_a_reference</note>
       </trans-unit>
       <trans-unit id="75d70155f70a11da1cc02220babc7ed7ce50889f" resname="label.bestsellers_link">
         <source>Show all bestsellers</source>
@@ -2961,11 +2501,6 @@
         <target state="new">Technical information</target>
         <note>key: label.specifications</note>
       </trans-unit>
-      <trans-unit id="523534def7203f4971f872df6add88d79f9d17fd" resname="label.stored_basket_back_to_list">
-        <source>Back to the list of stored baskets</source>
-        <target state="new">Back to the list of stored baskets</target>
-        <note>key: label.stored_basket_back_to_list</note>
-      </trans-unit>
       <trans-unit id="67a2be7edfb524f6de0ec445121804c1ce8da3c2" resname="label.stored_basket_name">
         <source>Basket name</source>
         <target state="new">Basket name</target>
@@ -3011,11 +2546,6 @@
         <target state="new">Year</target>
         <note>key: label.year</note>
       </trans-unit>
-      <trans-unit id="0fd80622a281c66ad54fd8b88dfe5aef736ae7f5" resname="label.your_invoice_number">
-        <source>Your invoice number</source>
-        <target state="new">Your invoice number</target>
-        <note>key: label.your_invoice_number</note>
-      </trans-unit>
       <trans-unit id="264f39cab871e4cfd65b3a002f7255888bb5ed97" resname="line">
         <source>line</source>
         <target state="new">line</target>
@@ -3051,11 +2581,6 @@
         <target state="new">A new user has registered. Please validate or add the user data. Then activate or contact the user.</target>
         <note>key: mail_text.new_private_user_registration</note>
       </trans-unit>
-      <trans-unit id="7a078c46dc501209a48b88b6a86b74d370b5ba0f" resname="max|amount">
-        <source>maximum</source>
-        <target state="new">maximum</target>
-        <note>key: max|amount</note>
-      </trans-unit>
       <trans-unit id="6f9b9af3cd6e8b8a73c2cdced37fe9f59226e27d" resname="message">
         <source>message</source>
         <target state="new">message</target>
@@ -3070,21 +2595,6 @@
         <source>Minutes</source>
         <target state="new">Minutes</target>
         <note>key: minutes</note>
-      </trans-unit>
-      <trans-unit id="7477e0186b8137c2bfe744647d9a833550114778" resname="min|amount">
-        <source>minimum</source>
-        <target state="new">minimum</target>
-        <note>key: min|amount</note>
-      </trans-unit>
-      <trans-unit id="8e7be411ad89ade93d144531f3925d0bb4011004" resname="mr">
-        <source>Mr</source>
-        <target state="new">Mr</target>
-        <note>key: mr</note>
-      </trans-unit>
-      <trans-unit id="a9937de3c5d9a091a742e0696b2b64071260b30d" resname="mrs">
-        <source>Mrs</source>
-        <target state="new">Mrs</target>
-        <note>key: mrs</note>
       </trans-unit>
       <trans-unit id="075ec2f00dc59057e42cc424f270d04520426084" resname="msg.address_book_empty">
         <source>Your address book is empty!</source>
@@ -3156,11 +2666,6 @@
         <target state="new">Delegation could not be cancelled.</target>
         <note>key: msg.error_undelegation_process</note>
       </trans-unit>
-      <trans-unit id="92ad826b7cf6907f33a2667aff3c965be3ce8be2" resname="msg.limit_of_characters">
-        <source>The number of characters is limited to</source>
-        <target state="new">The number of characters is limited to</target>
-        <note>key: msg.limit_of_characters</note>
-      </trans-unit>
       <trans-unit id="7076a2995f42651306024cf4b93751cbf5995805" resname="msg.login_to_rate_and_review">
         <source>Please log in to create a review</source>
         <target state="new">Please log in to create a review</target>
@@ -3180,16 +2685,6 @@
         <source>You don't have the permission(s) to order.</source>
         <target state="new">You don't have the permission(s) to order.</target>
         <note>key: msg.no_order_permissions</note>
-      </trans-unit>
-      <trans-unit id="7b52d1f558efee98c47e10c4595a6142e84d4399" resname="msg.order_button_accept_all">
-        <source>Please accept our terms and conditions, data protection and cancellation policies before you proceed with your order.</source>
-        <target state="new">Please accept our terms and conditions, data protection and cancellation policies before you proceed with your order.</target>
-        <note>key: msg.order_button_accept_all</note>
-      </trans-unit>
-      <trans-unit id="2eca188ee36e52f37db9fb42d3e453b5ef67ebf9" resname="msg.order_button_terms_and_conditions">
-        <source>Please accept our terms and conditions before you proceed with your order.</source>
-        <target state="new">Please accept our terms and conditions before you proceed with your order.</target>
-        <note>key: msg.order_button_terms_and_conditions</note>
       </trans-unit>
       <trans-unit id="891450f17ccbeb225153965ee0a97c3a8006ca93" resname="msg.out_of_five_stars">
         <source>out of 5 stars</source>
@@ -3281,6 +2776,11 @@
         <target state="new">other</target>
         <note>key: other</note>
       </trans-unit>
+      <trans-unit id="803bf8987e9a8ed85e90023ea3134d29c3172e7f" resname="page_builder_content_preview|breadcrumb">
+        <source>Preview in Page Builder</source>
+        <target state="new">Preview in Page Builder</target>
+        <note>key: page_builder_content_preview|breadcrumb</note>
+      </trans-unit>
       <trans-unit id="08637f646cdd5b4bf8faec641fa065b45b00a258" resname="please choose">
         <source>please choose</source>
         <target state="new">please choose</target>
@@ -3336,11 +2836,6 @@
         <target state="new">send commercial register document per email</target>
         <note>key: send commercial register document per email</note>
       </trans-unit>
-      <trans-unit id="37eacc4cce2476ee33e7faaabc7e72740c2fb902" resname="send to this address">
-        <source>Send to this address</source>
-        <target state="new">Send to this address</target>
-        <note>key: send to this address</note>
-      </trans-unit>
       <trans-unit id="d2765262c00772a23e9e1e7e4f3648da01eb06ab" resname="show_facets|search">
         <source>Show facets</source>
         <target state="new">Show facets</target>
@@ -3356,10 +2851,10 @@
         <target state="new">show more facets</target>
         <note>key: show_more_facets|search</note>
       </trans-unit>
-      <trans-unit id="15cc91cd77af901e6130bce5ccb695b185fd064a" resname="silver.eShop translation system">
-        <source>silver.eShop translation system</source>
-        <target state="new">silver.eShop translation system</target>
-        <note>key: silver.eShop translation system</note>
+      <trans-unit id="15cc91cd77af901e6130bce5ccb695b185fd064a" resname="Ibexa Commerce translation system">
+        <source>Ibexa Commerce translation system</source>
+        <target state="new">Ibexa Commerce translation system</target>
+        <note>key: Ibexa Commerce translation system</note>
       </trans-unit>
       <trans-unit id="4d541daf696224539f5c4b99411e177d503f36e0" resname="silversolutions_delegate|breadcrumb">
         <source>Delegate</source>
@@ -3390,11 +2885,6 @@
         <source>Delegate finished</source>
         <target state="new">Delegate finished</target>
         <note>key: silversolutions_undelegate|breadcrumb</note>
-      </trans-unit>
-      <trans-unit id="2944eb4f675a888cafb0254877a38b0799b62636" resname="storedBasket">
-        <source>stored basket</source>
-        <target state="new">stored basket</target>
-        <note>key: storedBasket</note>
       </trans-unit>
       <trans-unit id="b7304ae7d712baa91b98553f04ef7957863a9a3f" resname="stored_baskets_empty">
         <source>You have no stored baskets</source>
@@ -3440,11 +2930,6 @@
         <source>Use invoice address as delivery address</source>
         <target state="new">Use invoice address as delivery address</target>
         <note>key: use_invoice_as_delivery</note>
-      </trans-unit>
-      <trans-unit id="b4420e24f76067870051aaed7dbf7388bf56cd46" resname="wishList">
-        <source>wishList</source>
-        <target state="new">wishList</target>
-        <note>key: wishList</note>
       </trans-unit>
       <trans-unit id="91697f138bc8ffe13d19a0c56cc2211bf623f482" resname="wishlist_stored_basket_intro_text">
         <source>wishlist_stored_basket_intro_text</source>
