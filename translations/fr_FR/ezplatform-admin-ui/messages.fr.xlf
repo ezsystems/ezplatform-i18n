@@ -146,11 +146,6 @@
         <target state="translated"><![CDATA[Vérifiez s'il n'y a pas de faute de frappe dans l'URL et réessayez.<br/>Sinon, retournez au tableau de bord <a class="error-page__link" href="%dashboard%"></a> ou <a class="error-page__link" href="%search%">recherchez</a> un autre élément de Contenu.]]></target>
         <note>key: error.page.404.actions</note>
       </trans-unit>
-      <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
-        <source><![CDATA[Contact your Administrator and inform them about the time the error occurred, the URL in your browser window, and anything related that you think may have caused the error.<br/>You can also go back or try to reload the application.]]></source>
-        <target state="translated"><![CDATA[Veuillez contacter votre administrateur et l'informer du moment où l’erreur s’est produite, de l’URL dans la fenêtre de votre navigateur ainsi que de n’importe quelle information ayant un lien avec l’erreur.<br/>Vous pouvez également revenir en arrière ou essayez de recharger l’application.]]></target>
-        <note>key: error.page.default.actions</note>
-      </trans-unit>
       <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
         <source>Add author</source>
         <target state="translated">Ajouter un auteur</target>
