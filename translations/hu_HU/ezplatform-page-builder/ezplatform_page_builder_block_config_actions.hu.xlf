@@ -15,9 +15,6 @@
         <source>Submit</source>
         <target state="final">Küldés</target>
         <note>key: submit</note>
-        <alt-trans>
-          <target>Beküldés</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>

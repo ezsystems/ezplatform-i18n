@@ -55,9 +55,6 @@
         <source>Show %limit% more results</source>
         <target state="final">Mutass több találatot (%limit%)</target>
         <note>key: load_more.action.text</note>
-        <alt-trans>
-          <target>Mutass több találatot</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0b518af9d0e5e0471ad7c9aefbcda068ff71d0ab" resname="load_more.info.text" approved="yes">
         <source><![CDATA[Viewing <strong>%loaded%</strong> out of <strong>%total%</strong> sub-items]]></source>
