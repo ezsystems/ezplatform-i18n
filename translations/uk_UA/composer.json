@@ -1,0 +1,13 @@
+{
+  "name": "ezplatform-i18n/ezplatform-i18n-uk_ua",
+  "description": "eZ Platform uk_UA translations",
+  "license": "GPL-2.0",
+  "require": {
+    "ezsystems/ezplatform-kernel": "^1.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
