@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="84add5b2952787581cb9a8851eef63d1ec75d22b" resname="Email">
+        <source>Email</source>
+        <target>crwdns228598:0crwdne228598:0</target>
+        <note>key: Email</note>
+      </trans-unit>
+      <trans-unit id="eeb692087d629b32f2f1820369d9756d60c5cba8" resname="Full name">
+        <source>Full name</source>
+        <target>crwdns228600:0crwdne228600:0</target>
+        <note>key: Full name</note>
+      </trans-unit>
+      <trans-unit id="6abb415872396a56d3a99b452c62ee47ef6c4e68" resname="I have read and agree to the Terms and Conditions">
+        <source>I have read and agree to the Terms and Conditions</source>
+        <target>crwdns228602:0crwdne228602:0</target>
+        <note>key: I have read and agree to the Terms and Conditions</note>
+      </trans-unit>
+      <trans-unit id="23fd2ef90e08ba07335311a9c70a7d1a805ade61" resname="Installation Key">
+        <source>Installation Key</source>
+        <target>crwdns228604:0crwdne228604:0</target>
+        <note>key: Installation Key</note>
+      </trans-unit>
+      <trans-unit id="89577f0146a7516c23dd9981f892a746e6fa633a" resname="Installation key">
+        <source>Installation key</source>
+        <target>crwdns228606:0crwdne228606:0</target>
+        <note>key: Installation key</note>
+      </trans-unit>
+      <trans-unit id="efc007a393f66cdb14d57d385822a3d9e36ef873" resname="Save">
+        <source>Save</source>
+        <target>crwdns228608:0crwdne228608:0</target>
+        <note>key: Save</note>
+      </trans-unit>
+      <trans-unit id="7af7a6cd22d8c96a5dcf228e01e832057e3ddd6c" resname="Save and Close">
+        <source>Save and Close</source>
+        <target>crwdns228610:0crwdne228610:0</target>
+        <note>key: Save and Close</note>
+      </trans-unit>
+      <trans-unit id="1c5d787a5d5f4b2e3d9e14dcfe0cc9c78ee5939a" resname="breadcrumb.personalization">
+        <source>Personalization</source>
+        <target>crwdns228612:0crwdne228612:0</target>
+        <note>key: breadcrumb.personalization</note>
+      </trans-unit>
+      <trans-unit id="6dcacc6573defc140174ccec898eea76633f9857" resname="breadcrumb.settings">
+        <source>Settings</source>
+        <target>crwdns228614:0crwdne228614:0</target>
+        <note>key: breadcrumb.settings</note>
+      </trans-unit>
+      <trans-unit id="7cf4c5c82eb9aa188d9b8514ef884df8eb46e807" resname="dashboard.charts.collected_events">
+        <source>Collected events</source>
+        <target>crwdns228616:0crwdne228616:0</target>
+        <note>key: dashboard.charts.collected_events</note>
+      </trans-unit>
+      <trans-unit id="b079a64eb2a0051a7dc0822897b34f12abea00e4" resname="dashboard.charts.conversion_rate">
+        <source>Conversion rate</source>
+        <target>crwdns228618:0crwdne228618:0</target>
+        <note>key: dashboard.charts.conversion_rate</note>
+      </trans-unit>
+      <trans-unit id="300d97f801a0a15e19477e68958304d82f5c7d6a" resname="dashboard.charts.items_purchased">
+        <source>Items purchased</source>
+        <target>crwdns228620:0crwdne228620:0</target>
+        <note>key: dashboard.charts.items_purchased</note>
+      </trans-unit>
+      <trans-unit id="3b2d2efac582e8c8d6eccb40d4499ecf9ee21f95" resname="dashboard.charts.no_data">
+        <source><![CDATA[No data collected<br/> for the selected period]]></source>
+        <target><![CDATA[crwdns228622:0crwdne228622:0]]></target>
+        <note>key: dashboard.charts.no_data</note>
+      </trans-unit>
+      <trans-unit id="4005401b30938d46f88ea83a27a3c7cd37382bad" resname="dashboard.charts.recommendation_calls">
+        <source>Rerecommendation calls</source>
+        <target>crwdns228624:0crwdne228624:0</target>
+        <note>key: dashboard.charts.recommendation_calls</note>
+      </trans-unit>
+      <trans-unit id="398569322a5cf470a8d3baa0cbbf8d5a10ffb180" resname="dashboard.charts.revenue">
+        <source>Revenue</source>
+        <target>crwdns228626:0crwdne228626:0</target>
+        <note>key: dashboard.charts.revenue</note>
+      </trans-unit>
+      <trans-unit id="a986e297ff8c01767aad268379fa748bab9bb6f4" resname="dashboard.download_report">
+        <source>Download full report</source>
+        <target>crwdns228628:0crwdne228628:0</target>
+        <note>key: dashboard.download_report</note>
+      </trans-unit>
+      <trans-unit id="d0c209024ce52170ac99fcd4e0f3426bf1b33927" resname="dashboard.products_purchased">
+        <source>Products purchased</source>
+        <target>crwdns228630:0crwdne228630:0</target>
+        <note>key: dashboard.products_purchased</note>
+      </trans-unit>
+      <trans-unit id="25267996ff06c639aa3d9146f290d3fdef0b4139" resname="dashboard.summary.total">
+        <source>Total</source>
+        <target>crwdns228632:0crwdne228632:0</target>
+        <note>key: dashboard.summary.total</note>
+      </trans-unit>
+      <trans-unit id="3a034ee07549d185d4d8395f8edba9db97358b41" resname="edit.scenario.strategies">
+        <source>Strategies</source>
+        <target>crwdns228634:0crwdne228634:0</target>
+        <note>key: edit.scenario.strategies</note>
+      </trans-unit>
+      <trans-unit id="a6639823f83d3726f0af75d712da6d06979b4856" resname="ibexa_personalization.category_path.category_level_and_below">
+        <source>category level(s) and below</source>
+        <target>crwdns228636:0crwdne228636:0</target>
+        <note>key: ibexa_personalization.category_path.category_level_and_below</note>
+      </trans-unit>
+      <trans-unit id="c21bef555a5dfba32b99b0598487c262332625a2" resname="ibexa_personalization.category_path.include_parent_category_and_subcategories">
+        <source>Also include the parent category and its subcategories</source>
+        <target>crwdns228638:0crwdne228638:0</target>
+        <note>key: ibexa_personalization.category_path.include_parent_category_and_subcategories</note>
+      </trans-unit>
+      <trans-unit id="ffd90a64d996cfdd5092de94a5a741f9353ba495" resname="ibexa_personalization.category_path.levels_up">
+        <source>level(s) up</source>
+        <target>crwdns228640:0crwdne228640:0</target>
+        <note>key: ibexa_personalization.category_path.levels_up</note>
+      </trans-unit>
+      <trans-unit id="8e436f140b7aa122626b71826833a67cb7e87e79" resname="ibexa_personalization.category_path.recommend_items_from_same_category">
+        <source>Recommend items from the same category</source>
+        <target>crwdns228642:0crwdne228642:0</target>
+        <note>key: ibexa_personalization.category_path.recommend_items_from_same_category</note>
+      </trans-unit>
+      <trans-unit id="5768795a190bb47be6cf2249e0682776f5af7917" resname="ibexa_personalization.category_path.recommend_items_from_same_main_category_and_subcategories">
+        <source>Recommend items from the same main category and its subcategories</source>
+        <target>crwdns228644:0crwdne228644:0</target>
+        <note>key: ibexa_personalization.category_path.recommend_items_from_same_main_category_and_subcategories</note>
+      </trans-unit>
+      <trans-unit id="b040170e4e1c5c8df51484fd6270c3dabf10f572" resname="ibexa_personalization.category_path.recommend_items_from_whole_site">
+        <source>Recommend items from the whole site</source>
+        <target>crwdns228646:0crwdne228646:0</target>
+        <note>key: ibexa_personalization.category_path.recommend_items_from_whole_site</note>
+      </trans-unit>
+      <trans-unit id="d37965f56d091b0b4abdcfb2d55500cf2da0f090" resname="ibexa_personalization.dashboard.time_period">
+        <source>Time period</source>
+        <target>crwdns228648:0crwdne228648:0</target>
+        <note>key: ibexa_personalization.dashboard.time_period</note>
+      </trans-unit>
+      <trans-unit id="2f1c5eeea5e27f7221e63ee2d39fc3dea707e33f" resname="ibexa_personalization.date_time_range.last_24h">
+        <source>Last 24h</source>
+        <target>crwdns228650:0crwdne228650:0</target>
+        <note>key: ibexa_personalization.date_time_range.last_24h</note>
+      </trans-unit>
+      <trans-unit id="8c7eb09b4326c7c04b214d941b1d9552ddd28f94" resname="ibexa_personalization.scenario.commerce_settings">
+        <source>Commerce settings</source>
+        <target>crwdns228652:0crwdne228652:0</target>
+        <note>key: ibexa_personalization.scenario.commerce_settings</note>
+      </trans-unit>
+      <trans-unit id="2b0d80953c40e5424aa4c482cca1e5742adc3a07" resname="ibexa_personalization.scenario.description">
+        <source>Scenario description</source>
+        <target>crwdns228654:0crwdne228654:0</target>
+        <note>key: ibexa_personalization.scenario.description</note>
+      </trans-unit>
+      <trans-unit id="d60e4b2f217a7e340d4447dee3fd10981fa05572" resname="ibexa_personalization.scenario.fail_safe_models">
+        <source>Fail safe</source>
+        <target>crwdns228656:0crwdne228656:0</target>
+        <note>key: ibexa_personalization.scenario.fail_safe_models</note>
+      </trans-unit>
+      <trans-unit id="85b37c2cbbb5e23e751b309a184cc4cb8ea23536" resname="ibexa_personalization.scenario.id">
+        <source>Scenario ID</source>
+        <target>crwdns228658:0crwdne228658:0</target>
+        <note>key: ibexa_personalization.scenario.id</note>
+      </trans-unit>
+      <trans-unit id="89e671883aca6d0a3662cf8ed62769108969577c" resname="ibexa_personalization.scenario.input_type">
+        <source>Input type</source>
+        <target>crwdns228660:0crwdne228660:0</target>
+        <note>key: ibexa_personalization.scenario.input_type</note>
+      </trans-unit>
+      <trans-unit id="cf899da8652f04a34a0a8cb932446109606d84ad" resname="ibexa_personalization.scenario.output_type">
+        <source>Output type</source>
+        <target>crwdns228662:0crwdne228662:0</target>
+        <note>key: ibexa_personalization.scenario.output_type</note>
+      </trans-unit>
+      <trans-unit id="7b510d8a02e634f345215388e04b20e9861e3033" resname="ibexa_personalization.scenario.scenario_details">
+        <source>Scenario details:</source>
+        <target>crwdns228664:0crwdne228664:0</target>
+        <note>key: ibexa_personalization.scenario.scenario_details</note>
+      </trans-unit>
+      <trans-unit id="e86ef0faafc7f616719382f8775c93f654e4ff0a" resname="ibexa_personalization.scenario.scenario_name">
+        <source>Scenario name</source>
+        <target>crwdns228666:0crwdne228666:0</target>
+        <note>key: ibexa_personalization.scenario.scenario_name</note>
+      </trans-unit>
+      <trans-unit id="cd5bce5ba0adfa62b8aba0814b6ad94c61a4ccaa" resname="ibexa_personalization.scenario.strategy">
+        <source>Strategy</source>
+        <target>crwdns228668:0crwdne228668:0</target>
+        <note>key: ibexa_personalization.scenario.strategy</note>
+      </trans-unit>
+      <trans-unit id="0454d00dc3caa7de8b2e421e90622952d67d4ff4" resname="ibexa_personalization.scenario.strategy_fail_safe_name">
+        <source>Fail-safe</source>
+        <target>crwdns228670:0crwdne228670:0</target>
+        <note>key: ibexa_personalization.scenario.strategy_fail_safe_name</note>
+      </trans-unit>
+      <trans-unit id="a9e2a2a83b954c986183ef59c3110284bb74fc18" resname="ibexa_personalization.scenario.strategy_fall_back">
+        <source>Fall-back models</source>
+        <target>crwdns228672:0crwdne228672:0</target>
+        <note>key: ibexa_personalization.scenario.strategy_fall_back</note>
+      </trans-unit>
+      <trans-unit id="cde080eabbc6302801a71c730defa76eefbc6577" resname="ibexa_personalization.scenario.strategy_fall_back_name">
+        <source>Fall-back</source>
+        <target>crwdns228674:0crwdne228674:0</target>
+        <note>key: ibexa_personalization.scenario.strategy_fall_back_name</note>
+      </trans-unit>
+      <trans-unit id="07863060167cb458df5a18b425b50ca608814f9e" resname="ibexa_personalization.scenario.strategy_primary_models">
+        <source>Primary models</source>
+        <target>crwdns228676:0crwdne228676:0</target>
+        <note>key: ibexa_personalization.scenario.strategy_primary_models</note>
+      </trans-unit>
+      <trans-unit id="fbf14c1cbb30f132cc06c8bcb3e0db85fc5295be" resname="ibexa_personalization.scenario.strategy_ultimately_fail_safe">
+        <source>Ultimately Fail-safe</source>
+        <target>crwdns228678:0crwdne228678:0</target>
+        <note>key: ibexa_personalization.scenario.strategy_ultimately_fail_safe</note>
+      </trans-unit>
+      <trans-unit id="a12bb101b80ee4a2f65ff4072fc9d89c87b65883" resname="ibexa_personalization.scenario.user_profile_setting">
+        <source>User profile setting</source>
+        <target>crwdns228680:0crwdne228680:0</target>
+        <note>key: ibexa_personalization.scenario.user_profile_setting</note>
+      </trans-unit>
+      <trans-unit id="5a342c5f54743c82e0c74540d6ebb3a3ea37998f" resname="model.details">
+        <source>Model details</source>
+        <target>crwdns228682:0crwdne228682:0</target>
+        <note>key: model.details</note>
+      </trans-unit>
+      <trans-unit id="b26cf18f4600baa01b7fecd963f893ca3424a2e6" resname="model.details.active">
+        <source>Active</source>
+        <target>crwdns228684:0crwdne228684:0</target>
+        <note>key: model.details.active</note>
+      </trans-unit>
+      <trans-unit id="736c8390cc639a1e94baff43ac6cf566ea20e5e7" resname="model.details.description">
+        <source>Model description</source>
+        <target>crwdns228686:0crwdne228686:0</target>
+        <note>key: model.details.description</note>
+      </trans-unit>
+      <trans-unit id="706d5289d4105fd8b6e076852cb8e8df8eeb1642" resname="model.details.event_history">
+        <source>Relevant event histor</source>
+        <target>crwdns228688:0crwdne228688:0</target>
+        <note>key: model.details.event_history</note>
+      </trans-unit>
+      <trans-unit id="5349670bc14607a7d0b20eef5707d8de59d065a8" resname="model.details.general">
+        <source>General</source>
+        <target>crwdns228690:0crwdne228690:0</target>
+        <note>key: model.details.general</note>
+      </trans-unit>
+      <trans-unit id="3e7cb613ab82b863f6e9a7043921fefb670a7ed6" resname="model.details.identifier">
+        <source>Identifier</source>
+        <target>crwdns228692:0crwdne228692:0</target>
+        <note>key: model.details.identifier</note>
+      </trans-unit>
+      <trans-unit id="4df75fe5c000a8fa91e6811c5613d6087f7edf22" resname="model.details.last_build">
+        <source>Last build</source>
+        <target>crwdns228694:0crwdne228694:0</target>
+        <note>key: model.details.last_build</note>
+      </trans-unit>
+      <trans-unit id="f96553c14a4ffdd378138a03455a0891ce85a7e1" resname="model.details.name">
+        <source>Name</source>
+        <target>crwdns228696:0crwdne228696:0</target>
+        <note>key: model.details.name</note>
+      </trans-unit>
+      <trans-unit id="9aba3f49645a0abdc34dc18ae35c8d63aad4a5a5" resname="model.details.nominal_submodel_name">
+        <source>[ABC][%attribut_source%] %key%</source>
+        <target>crwdns228698:0[ABC]crwdnd228698:0[%attribut_source%]crwdnd228698:0%key%crwdne228698:0</target>
+        <note>key: model.details.nominal_submodel_name</note>
+      </trans-unit>
+      <trans-unit id="3d4bab614e2bf0348a662ba0345c2d1df14eadbd" resname="model.details.not_active">
+        <source>Not active</source>
+        <target>crwdns228700:0crwdne228700:0</target>
+        <note>key: model.details.not_active</note>
+      </trans-unit>
+      <trans-unit id="1fc9b4f6c966877097c7cb6c53ce6d7eb7ce6dc8" resname="model.details.number_recommendations">
+        <source>Number of recommendations</source>
+        <target>crwdns228702:0crwdne228702:0</target>
+        <note>key: model.details.number_recommendations</note>
+      </trans-unit>
+      <trans-unit id="80c957555e73ba53940e0f48357a73373bcebdd5" resname="model.details.numeric_submodel_name">
+        <source>[123][%attribut_source%] %key%</source>
+        <target>crwdns228704:0[123]crwdnd228704:0[%attribut_source%]crwdnd228704:0%key%crwdne228704:0</target>
+        <note>key: model.details.numeric_submodel_name</note>
+      </trans-unit>
+      <trans-unit id="ec2e77c833369d396a2b23edaae6fb57a3e6d752" resname="model.details.status">
+        <source>Status</source>
+        <target>crwdns228706:0crwdne228706:0</target>
+        <note>key: model.details.status</note>
+      </trans-unit>
+      <trans-unit id="fcfa9bf497c6d6a9879668a344218de96d883ccb" resname="model.details.submodel_type">
+        <source>Submodel type</source>
+        <target>crwdns228708:0crwdne228708:0</target>
+        <note>key: model.details.submodel_type</note>
+      </trans-unit>
+      <trans-unit id="c1e495f258d614d6a0f42eb02d225a1a6b161779" resname="model.details.submodels">
+        <source>Submodels</source>
+        <target>crwdns228710:0crwdne228710:0</target>
+        <note>key: model.details.submodels</note>
+      </trans-unit>
+      <trans-unit id="d9e2eef3492579519221003e3b55e3bbfa8892ac" resname="model.details.used_scenario">
+        <source>Used in scenario</source>
+        <target>crwdns228712:0crwdne228712:0</target>
+        <note>key: model.details.used_scenario</note>
+      </trans-unit>
+      <trans-unit id="e0aa8b751c057afd0361ec03ae85fec591a4d68a" resname="models.submodel.existing_groups">
+        <source>Existing groups</source>
+        <target>crwdns228714:0crwdne228714:0</target>
+        <note>key: models.submodel.existing_groups</note>
+      </trans-unit>
+      <trans-unit id="66edc6fbb25029de99a8e6cf994f4b45938ddfe4" resname="models.submodels.interval-ranges">
+        <source>Interval ranges</source>
+        <target>crwdns228716:0crwdne228716:0</target>
+        <note>key: models.submodels.interval-ranges</note>
+      </trans-unit>
+      <trans-unit id="cc172eeb772f56ea0d29fdd15efa076bbbf7129f" resname="scenario.edit.boost_item">
+        <source>Boost item, if a user has an attribute with the same value.</source>
+        <target>crwdns228718:0crwdne228718:0</target>
+        <note>key: scenario.edit.boost_item</note>
+      </trans-unit>
+      <trans-unit id="b2fbf7d00a11deb7f74d922ccc6154ab08d9e371" resname="scenario.edit.boost_item_inputs">
+        <source>Attribute name %attribute% boost by %position% positions.</source>
+        <target>crwdns228720:0%attribute%crwdnd228720:0%position%crwdne228720:0</target>
+        <note>key: scenario.edit.boost_item_inputs</note>
+      </trans-unit>
+      <trans-unit id="d6d9cb1457e10f9fd7f647869f142cf41c1f7eb2" resname="scenario.edit.exclude_minimal_item_price">
+        <source>%value% Minimum price of the recommended product</source>
+        <target>crwdns228722:0%value%crwdne228722:0</target>
+        <note>key: scenario.edit.exclude_minimal_item_price</note>
+      </trans-unit>
+      <trans-unit id="d3c1bd357b04ed2bdbe72fe05c0e9ecb347ade9d" resname="scenario.edit.exclude_repeated_recommendations">
+        <source>%value% Max. repeated shows of identical recommendations per session.</source>
+        <target>crwdns228724:0%value%crwdne228724:0</target>
+        <note>key: scenario.edit.exclude_repeated_recommendations</note>
+      </trans-unit>
+      <trans-unit id="8298a563f955af99e2518cdc3457641c009211b3" resname="scenario.edit.startegy.models">
+        <source>Models</source>
+        <target>crwdns228726:0crwdne228726:0</target>
+        <note>key: scenario.edit.startegy.models</note>
+      </trans-unit>
+      <trans-unit id="f1cc5c8c3171ac0d39eb47bccfc540099c5ea56f" resname="scenario.edit.startegy.startegy">
+        <source>Strategy</source>
+        <target>crwdns228728:0crwdne228728:0</target>
+        <note>key: scenario.edit.startegy.startegy</note>
+      </trans-unit>
+      <trans-unit id="039c68a13a6b98e56db8a37385dbfc13d3bbb500" resname="scenario.edit.strategies">
+        <source>Strategies</source>
+        <target>crwdns228730:0crwdne228730:0</target>
+        <note>key: scenario.edit.strategies</note>
+      </trans-unit>
+      <trans-unit id="d0d43d3599208e43af3a077e5b64093ce9de34e8" resname="scenario.edit.user_attribute_name">
+        <source>User attribute has different name %value%</source>
+        <target>crwdns228732:0%value%crwdne228732:0</target>
+        <note>key: scenario.edit.user_attribute_name</note>
+      </trans-unit>
+      <trans-unit id="107c9129ae6652034044529556da977306ed8f50" resname="scenario.strategy.category_level_and_below">
+        <source>category level(s) and below</source>
+        <target>crwdns228734:0crwdne228734:0</target>
+        <note>key: scenario.strategy.category_level_and_below</note>
+      </trans-unit>
+      <trans-unit id="3dbd0107cf6aa0fa0e3879a67983c54363337740" resname="scenario.strategy.discard">
+        <source>Discard</source>
+        <target>crwdns228736:0crwdne228736:0</target>
+        <note>key: scenario.strategy.discard</note>
+      </trans-unit>
+      <trans-unit id="1ccee020b75348f4618bd5c3c6d664751ac85df9" resname="scenario.strategy.fail_safe">
+        <source>Fail-safe</source>
+        <target>crwdns228738:0crwdne228738:0</target>
+        <note>key: scenario.strategy.fail_safe</note>
+      </trans-unit>
+      <trans-unit id="49bec5eeb413d40d2553c1db56438d40986f1b13" resname="scenario.strategy.fallback_name">
+        <source>Fall-back</source>
+        <target>crwdns228740:0crwdne228740:0</target>
+        <note>key: scenario.strategy.fallback_name</note>
+      </trans-unit>
+      <trans-unit id="140981d2f6a8cfed9ffa92ee5386a8f6ea725d1c" resname="scenario.strategy.include_parent_category_and_subcategories">
+        <source>Also include the parent category and its subcategories</source>
+        <target>crwdns228742:0crwdne228742:0</target>
+        <note>key: scenario.strategy.include_parent_category_and_subcategories</note>
+      </trans-unit>
+      <trans-unit id="b5ac7094ba86de6ba7937f4eceb62c3b582697f5" resname="scenario.strategy.levels_up">
+        <source>level(s) up</source>
+        <target>crwdns228744:0crwdne228744:0</target>
+        <note>key: scenario.strategy.levels_up</note>
+      </trans-unit>
+      <trans-unit id="9126ba347d953620c4df03f9ca32c1313b1f8702" resname="scenario.strategy.primary_models_name">
+        <source>Primary models</source>
+        <target>crwdns228746:0crwdne228746:0</target>
+        <note>key: scenario.strategy.primary_models_name</note>
+      </trans-unit>
+      <trans-unit id="6c7d37f03ac54dc1dae5ce4267f7e28c8b043083" resname="scenario.strategy.recommend_items_from_same_category">
+        <source>Recommend items from the same category</source>
+        <target>crwdns228748:0crwdne228748:0</target>
+        <note>key: scenario.strategy.recommend_items_from_same_category</note>
+      </trans-unit>
+      <trans-unit id="87e5d3204107b987171998db73732519da6c0467" resname="scenario.strategy.recommend_items_from_same_main_category_and_subcategories">
+        <source>Recommend items from the same main category and its subcategories</source>
+        <target>crwdns228750:0crwdne228750:0</target>
+        <note>key: scenario.strategy.recommend_items_from_same_main_category_and_subcategories</note>
+      </trans-unit>
+      <trans-unit id="c28ab504e134d797dea65b13e4e3dfb74c6e38e9" resname="scenario.strategy.recommend_items_from_whole_site">
+        <source>Recommend items from the whole site</source>
+        <target>crwdns228752:0crwdne228752:0</target>
+        <note>key: scenario.strategy.recommend_items_from_whole_site</note>
+      </trans-unit>
+      <trans-unit id="8c4cca6eaff42db3e1c8afa8ad54dbf86b20fb64" resname="scenario.strategy.save">
+        <source>Save</source>
+        <target>crwdns228754:0crwdne228754:0</target>
+        <note>key: scenario.strategy.save</note>
+      </trans-unit>
+      <trans-unit id="80dd45134e009a3446f7edd47881b631b1274136" resname="scenario.strategy.ultimately_fail_safe">
+        <source>Ultimately Fail-safe</source>
+        <target>crwdns228756:0crwdne228756:0</target>
+        <note>key: scenario.strategy.ultimately_fail_safe</note>
+      </trans-unit>
+      <trans-unit id="3e9abc86fbd7ee2430e2ffa5cdb6355ea2ca4c98" resname="scenario.strategy_model_settings.submodel">
+        <source>Submodel</source>
+        <target>crwdns228758:0crwdne228758:0</target>
+        <note>key: scenario.strategy_model_settings.submodel</note>
+      </trans-unit>
+      <trans-unit id="f32993c555744e5c203137f3ee0e380d27e9cfef" resname="search.date.range">
+        <source>From date - to date</source>
+        <target>crwdns228760:0crwdne228760:0</target>
+        <note>key: search.date.range</note>
+      </trans-unit>
+      <trans-unit id="62ec13a1f01d14bda50e2f4deb98ae7e1a5efd4c" resname="welcome.activation_status.question">
+        <source><![CDATA[<b>Got a question?</b> We'd love to hear from you. Send us message to support@ibexa.co and we'll get in touch with you soon.]]></source>
+        <target><![CDATA[crwdns228762:0crwdne228762:0]]></target>
+        <note>key: welcome.activation_status.question</note>
+      </trans-unit>
+      <trans-unit id="f597251cbca2d421dccccf82ed867b0adbf70a66" resname="welcome.activation_status.subtitle">
+        <source>Your request was sent by %name% and is being processed.</source>
+        <target>crwdns228764:0%name%crwdne228764:0</target>
+        <note>key: welcome.activation_status.subtitle</note>
+      </trans-unit>
+      <trans-unit id="607843716588d2e47b295b490af80a2019647351" resname="welcome.activation_status.title">
+        <source>Activation status</source>
+        <target>crwdns228766:0crwdne228766:0</target>
+        <note>key: welcome.activation_status.title</note>
+      </trans-unit>
+      <trans-unit id="e20a1e63298824968b106925a664288f1097887a" resname="welcome.content.invalid_installation_key">
+        <source>Installation Key is invalid or missing.</source>
+        <target>crwdns228768:0crwdne228768:0</target>
+        <note>key: welcome.content.invalid_installation_key</note>
+      </trans-unit>
+      <trans-unit id="152bb836a684191c6bb76588a609237b284bf59b" resname="welcome.form.subtitle">
+        <source>Please fill up the form and send request to try Ibexa Personalisation for free.</source>
+        <target>crwdns228770:0crwdne228770:0</target>
+        <note>key: welcome.form.subtitle</note>
+      </trans-unit>
+      <trans-unit id="a40e9d8b438b39336b4d1cf6729aad7e5d485bbc" resname="welcome.form.tems_accept">
+        <source><![CDATA[I have read and agree to the <a class='welcome-content__show-modal-button' href='#'>Terms and Conditions.</a>]]></source>
+        <target><![CDATA[crwdns228772:0crwdne228772:0]]></target>
+        <note>key: welcome.form.tems_accept</note>
+      </trans-unit>
+      <trans-unit id="8ca1884015c59d5115a04c940d0eaa0cb6d938b6" resname="welcome.form.tems_accept_description">
+        <source>If you are accepting these terms on behalf of another person or company or other legal entity. You represent and warrant that you have full authority to bind that person, company or legal entity to these terms.</source>
+        <target>crwdns228774:0crwdne228774:0</target>
+        <note>key: welcome.form.tems_accept_description</note>
+      </trans-unit>
+      <trans-unit id="d1c4b3ce2e03e5b5fbed54d72c1db4a938eca745" resname="welcome.form.title">
+        <source>Request for account activation</source>
+        <target>crwdns228776:0crwdne228776:0</target>
+        <note>key: welcome.form.title</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
