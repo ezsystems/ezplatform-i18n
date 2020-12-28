@@ -151,6 +151,11 @@
         <target>crwdns221778:0crwdne221778:0</target>
         <note>key: site.view.create.global_properties</note>
       </trans-unit>
+      <trans-unit id="a9f9e1968858cd41e61861dcf1e596831d8f5814" resname="site.view.create.languages.add.language">
+        <source>Add language</source>
+        <target>crwdns228964:0crwdne228964:0</target>
+        <note>key: site.view.create.languages.add.language</note>
+      </trans-unit>
       <trans-unit id="9476aac8581d0b852a36f6fc0d54fc4f1f3872be" resname="site.view.create.languages.button.add">
         <source>Add Language</source>
         <target>crwdns221780:0crwdne221780:0</target>
