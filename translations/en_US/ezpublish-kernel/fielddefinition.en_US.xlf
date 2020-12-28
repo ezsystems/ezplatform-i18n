@@ -47,18 +47,12 @@
         <target state="final">Current DateTime</target>
         <note>key: fielddefinition.default-value.current_datetime</note>
         <jms:reference-file line="83">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Current Datetime</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5cdfd0738c76b8fe520f77e56b819fd3a781a514" resname="fielddefinition.default-value.current_datetime_adjust_by" approved="yes">
         <source>Current datetime adjusted by</source>
         <target state="final">Current DateTime Adjusted by</target>
         <note>key: fielddefinition.default-value.current_datetime_adjust_by</note>
         <jms:reference-file line="86">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Current Datetime Adjusted by</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="baf973c669d404a5aa072edce1d84deaaf936a0f" resname="fielddefinition.default-value.current_time" approved="yes">
         <source>Current time</source>
