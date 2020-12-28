@@ -106,11 +106,6 @@
         <target state="translated">Panel de calificación y revisión</target>
         <note>key: label.rate_review</note>
       </trans-unit>
-      <trans-unit id="2baa1cf797221e9506faebda71a359d96cbf0995" resname="silver.eShop - Lost orders">
-        <source>silver.eShop - Lost orders</source>
-        <target state="translated">silver.eShop - Pedidos perdidos</target>
-        <note>key: silver.eShop - Lost orders</note>
-      </trans-unit>
       <trans-unit id="896d2b9422e01439ab85c2c8af8885b77fb9c401" resname="text.copy_clipboard">
         <source>Copy Ctrl-V (Paste) in your application in order to insert the order lines</source>
         <target state="translated">Copia Ctrl-V (Pegar) en la aplicación para insertar las líneas de pedido</target>
