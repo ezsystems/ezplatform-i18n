@@ -13,8 +13,33 @@
       </trans-unit>
       <trans-unit id="84413bc1ae3385c0aac1af7ea5665cb0c1eaf3ba" resname="section.assign_content">
         <source>Assign content</source>
-        <target state="translated">Asignar a contenido</target>
+        <target state="translated">Asignar contenido</target>
         <note>key: section.assign_content</note>
+      </trans-unit>
+      <trans-unit id="2a6caa13cfd67503e2250af8e36f26a2f835a4a0" resname="section.assign_content.success">
+        <source>%contentItemsCount% Content items assigned to '%name%'</source>
+        <target state="translated">%contentItemsCount% ítems de contenido asignados a '%name%'</target>
+        <note>key: section.assign_content.success</note>
+      </trans-unit>
+      <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content">
+        <source>Assigned content</source>
+        <target state="translated">Contenido asignado</target>
+        <note>key: section.assigned.content</note>
+      </trans-unit>
+      <trans-unit id="e04ac63bba940de331146dac711b1633407e5ce9" resname="section.assigned_content.empty">
+        <source>No Content items.</source>
+        <target state="translated">Sin ítems de contenido.</target>
+        <note>key: section.assigned_content.empty</note>
+      </trans-unit>
+      <trans-unit id="d40d7fd957935deb539c21b9b49f34d4016c69d0" resname="section.assigned_content.empty_desc">
+        <source>Content items you assign to this Section will show up here.</source>
+        <target state="translated">Los ítems de contenido que asignes en esta sección aparecerán aquí.</target>
+        <note>key: section.assigned_content.empty_desc</note>
+      </trans-unit>
+      <trans-unit id="60771f4109f17ae27080b34e9322fd7cb02f45b3" resname="section.assigned_content.header">
+        <source>Content items in '%name%' (%count%)</source>
+        <target state="translated">Ítems de contenido en %name% (%count%)</target>
+        <note>key: section.assigned_content.header</note>
       </trans-unit>
       <trans-unit id="adcc2af264c7ae84e69396a8ff7ea5a259abd01e" resname="section.assigned_content.name">
         <source>Name</source>
@@ -28,7 +53,7 @@
       </trans-unit>
       <trans-unit id="741d668d8a98bbaa2195e996de4402f24ef7d60e" resname="section.assigned_content.type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: section.assigned_content.type</note>
       </trans-unit>
       <trans-unit id="0a6c7f3919b09caa9eee957a4949d3c9b6dce16e" resname="section.create.success">
@@ -53,7 +78,7 @@
       </trans-unit>
       <trans-unit id="bcb0a8eedc29344eb4ad95a02dd684438aae1df6" resname="section.id">
         <source>ID</source>
-        <target state="translated">ID</target>
+        <target state="translated">id.</target>
         <note>key: section.id</note>
       </trans-unit>
       <trans-unit id="54e249fceb2f506942f7f0ae30107a734b9b3fe5" resname="section.identifier">
@@ -76,6 +101,11 @@
         <target state="translated">Secciones</target>
         <note>key: section.list.title</note>
       </trans-unit>
+      <trans-unit id="6a17e9f4ed416563fc8c3e188509b8eec8a6f7c0" resname="section.modal.message">
+        <source>Do you want to delete the Section(s)?</source>
+        <target state="translated">¿Deseas eliminar la(s) sección(es)?</target>
+        <note>key: section.modal.message</note>
+      </trans-unit>
       <trans-unit id="376986256605f27a204911de172c7bca4bd8e3b6" resname="section.name">
         <source>Name</source>
         <target state="translated">Nombre</target>
@@ -96,6 +126,11 @@
         <target state="translated">Sección '%name%' actualizada.</target>
         <note>key: section.update.success</note>
       </trans-unit>
+      <trans-unit id="2bfeef4370b18e469fba6df1d4d2888f9252c764" resname="section.update.title">
+        <source>Editing Section '%identifier%'</source>
+        <target state="translated">Editando sección "%identifier%"</target>
+        <note>key: section.update.title</note>
+      </trans-unit>
       <trans-unit id="9266789d0a5e68e102410798a2db431137039aad" resname="section.view.title.identifier">
         <source>Section: %identifier%</source>
         <target state="translated">Sección: %identifier%</target>
@@ -103,7 +138,7 @@
       </trans-unit>
       <trans-unit id="71f8af5e83f31ae3c618ff2b0d55b63ac131cfa3" resname="section.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Viendo <strong>%viewing%</strong> de <strong>%total%</strong> elementos]]></target>
+        <target state="translated"><![CDATA[Visualizando <strong>%viewing%</strong> de <strong>%total%</strong> ítems]]></target>
         <note>key: section.viewing</note>
       </trans-unit>
     </body>

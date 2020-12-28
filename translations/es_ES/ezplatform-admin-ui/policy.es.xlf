@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none">
         <source>None</source>
-        <target state="translated">Ninguno</target>
+        <target state="translated">Nada</target>
         <note>key: policy.limitation.none</note>
       </trans-unit>
       <trans-unit id="15c7918829705fa0d6e560ba6697675a1fb3642d" resname="tab.policies.assignment">
@@ -35,6 +35,11 @@
         <source>Module</source>
         <target state="translated">Módulo</target>
         <note>key: tab.policies.module</note>
+      </trans-unit>
+      <trans-unit id="445e5dce642562c06137fef60c9a7fcf788a9da6" resname="tab.policies.no_policies">
+        <source>This Content item has no Policies.</source>
+        <target state="translated">Este contenido no tiene políticas.</target>
+        <note>key: tab.policies.no_policies</note>
       </trans-unit>
       <trans-unit id="1a761d1b544608935dfa6ce9d196cf2c31f7edda" resname="tab.policies.policies">
         <source>Policies</source>

@@ -6,7 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
+      <trans-unit id="50833698162171103793dc9cb6367839a8e063a4" resname="preview_unavailable">
+        <source>You cannot preview this translation because there is no site available for this language. Contact your Administrator.</source>
+        <target state="translated">No se puede previsualizar la traducción porque no hay un sitio web disponible para este idioma. Ponte en contacto con el administrador.</target>
+        <note>key: preview_unavailable</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

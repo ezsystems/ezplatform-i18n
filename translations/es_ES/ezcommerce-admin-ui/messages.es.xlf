@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="es-ES" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="817971873a6ee985fdba4953592bc9f617c46dbb" resname="Control center">
+        <source>Control center</source>
+        <target state="translated">Centro de control</target>
+        <note>key: Control center</note>
+      </trans-unit>
+      <trans-unit id="5392f37b938a3fec5bc6fc366cdbd759343f07cb" resname="code.120_complete">
+        <source>Request BEFORE mapping.</source>
+        <target state="translated">Solicitud ANTES del mapeo.</target>
+        <note>key: code.120_complete</note>
+      </trans-unit>
+      <trans-unit id="d560f1fe93e737b56528c3830d8e828ed68e194f" resname="code.150_mapping">
+        <source>Request data before and after mapping.</source>
+        <target state="translated">Solicitud datos antes y después del mapeo.</target>
+        <note>key: code.150_mapping</note>
+      </trans-unit>
+      <trans-unit id="6bc992db37051803c3fdc8012ac4677f4edee96f" resname="code.180_soap">
+        <source>Request AFTER mapping.</source>
+        <target state="translated">Solicitud DESPUÉS del mapeo.</target>
+        <note>key: code.180_soap</note>
+      </trans-unit>
+      <trans-unit id="fa2190b24a7c4d15e5fb2b055a10508097257df8" resname="code.220_soap">
+        <source>Response BEFORE mapping.</source>
+        <target state="translated">Respuesta ANTES del mapeo.</target>
+        <note>key: code.220_soap</note>
+      </trans-unit>
+      <trans-unit id="90ce1f306b926c6a7530381f5da5bc40d1ab302e" resname="code.250_mapping">
+        <source>Response data before and after mapping.</source>
+        <target state="translated">Datos de respuesta antes y después del mapeo.</target>
+        <note>key: code.250_mapping</note>
+      </trans-unit>
+      <trans-unit id="a20fc8e1030f7823a743596ba05e0422e6cf9d4b" resname="code.280_complete">
+        <source>Response AFTER mapping.</source>
+        <target state="translated">Respuesta DESPUÉS del mapeo.</target>
+        <note>key: code.280_complete</note>
+      </trans-unit>
+      <trans-unit id="495fb695907565cb3f7e0cd10fbbc3da9be1bdb2" resname="configuration_settings.field.array.input.placeholder">
+        <source>Input Values</source>
+        <target state="translated">Valores de entrada</target>
+        <note>key: configuration_settings.field.array.input.placeholder</note>
+      </trans-unit>
+      <trans-unit id="87af5170681c287871bea043cb7f875ade55bf45" resname="configuration_settings.field.array.option.remote">
+        <source>Prices from ERP</source>
+        <target state="translated">Precios del ERP</target>
+        <note>key: configuration_settings.field.array.option.remote</note>
+      </trans-unit>
+      <trans-unit id="1656ee3381ce4e8b749f1a311282901935d8f221" resname="configuration_settings.field.array.option.shop">
+        <source>Local price engine</source>
+        <target state="translated">Motor de precios locales</target>
+        <note>key: configuration_settings.field.array.option.shop</note>
+      </trans-unit>
+      <trans-unit id="9f25f7e3ba97910fb4e06611759890de9f3bf566" resname="content_fields.external_data.data.label">
+        <source>Data</source>
+        <target state="translated">Datos</target>
+        <note>key: content_fields.external_data.data.label</note>
+      </trans-unit>
+      <trans-unit id="5e510f0b551154eb57374d24fd68bc6731761d24" resname="content_fields.external_data.name.label">
+        <source>Name</source>
+        <target state="translated">Nombre</target>
+        <note>key: content_fields.external_data.name.label</note>
+      </trans-unit>
+      <trans-unit id="51a13a0e7d46a0701faf6c82fd9a4d9a1cbc96bb" resname="content_fields.ezvariants.code.label">
+        <source>Code</source>
+        <target state="translated">Código</target>
+        <note>key: content_fields.ezvariants.code.label</note>
+      </trans-unit>
+      <trans-unit id="3bb45705764c6716e7b303e0e9667d5db526484b" resname="content_fields.ezvariants.description.label">
+        <source>Description</source>
+        <target state="translated">Descripción</target>
+        <note>key: content_fields.ezvariants.description.label</note>
+      </trans-unit>
+      <trans-unit id="d45be4130e225d810408799fcbe1a658f940529e" resname="content_fields.ezvariants.sku.label">
+        <source>SKU</source>
+        <target state="translated">Código de artículo</target>
+        <note>key: content_fields.ezvariants.sku.label</note>
+      </trans-unit>
+      <trans-unit id="609465968221bdb7f745d27f780055b83e5c0016" resname="content_fields.profiledata.add.attributes.from.erp">
+        <source>Add. attributes from ERP</source>
+        <target state="translated">Añadir. características procedentes del ERP</target>
+        <note>key: content_fields.profiledata.add.attributes.from.erp</note>
+      </trans-unit>
+      <trans-unit id="46c7869611c9b47c94229088ac88b8090c003b89" resname="content_fields.profiledata.buyer.address">
+        <source>Buyer address</source>
+        <target state="translated">Dirección del comprador</target>
+        <note>key: content_fields.profiledata.buyer.address</note>
+      </trans-unit>
+      <trans-unit id="073ae0118c2481f2003d285202561b5244ee5953" resname="content_fields.profiledata.customer.number">
+        <source>Customer number</source>
+        <target state="translated">Número de cliente</target>
+        <note>key: content_fields.profiledata.customer.number</note>
+      </trans-unit>
+      <trans-unit id="3fe4185b033c2e80f57dec8f5742c843d813a2ec" resname="content_fields.profiledata.delivery.address">
+        <source>Delivery address</source>
+        <target state="translated">Dirección de entrega</target>
+        <note>key: content_fields.profiledata.delivery.address</note>
+      </trans-unit>
+      <trans-unit id="4ce4c0391c643de8b478ab0241962b7e247917e7" resname="content_fields.profiledata.last.update.from.erp">
+        <source>Last update from ERP</source>
+        <target state="translated">Última actualización procedente del ERP</target>
+        <note>key: content_fields.profiledata.last.update.from.erp</note>
+      </trans-unit>
+      <trans-unit id="db0123c3544e56444bf1021ed883bc7da7355826" resname="content_fields.profiledata.shipcode">
+        <source>Shipcode</source>
+        <target state="translated">Código de envío</target>
+        <note>key: content_fields.profiledata.shipcode</note>
+      </trans-unit>
+      <trans-unit id="74a0a1f1378464d065954caae7ce69feb20bad8e" resname="field_type.add_variant">
+        <source>Add variant</source>
+        <target state="translated">Añadir variante</target>
+        <note>key: field_type.add_variant</note>
+      </trans-unit>
+      <trans-unit id="cbc1f44be5f6d1cff762774712d8ccbfd796f6ec" resname="field_types.variants.button.trash">
+        <source>Remove variant</source>
+        <target state="translated">Eliminar variante</target>
+        <note>key: field_types.variants.button.trash</note>
+      </trans-unit>
+      <trans-unit id="4efe2fe55f600d3f4f371aa0d02dfda50f285bda" resname="import_export.download_price.button">
+        <source>Download prices</source>
+        <target state="translated">Descargar precios</target>
+        <note>key: import_export.download_price.button</note>
+      </trans-unit>
+      <trans-unit id="92e4fc275a2924b5a6cb3f1cf6b14583e894718d" resname="import_export.download_stock.button">
+        <source>Download stock</source>
+        <target state="translated">Descargar existencias</target>
+        <note>key: import_export.download_stock.button</note>
+      </trans-unit>
+      <trans-unit id="1c4f84911c3484cc227ec130b6b1111dd6fe5ce7" resname="import_export.search.button">
+        <source>Search</source>
+        <target state="translated">Buscar</target>
+        <note>key: import_export.search.button</note>
+      </trans-unit>
+      <trans-unit id="d0a9dc00b98d9a28d9620f61ad4a1968a1daa200" resname="import_export.upload.file">
+        <source>Upload file</source>
+        <target state="translated">Subir archivo</target>
+        <note>key: import_export.upload.file</note>
+      </trans-unit>
+      <trans-unit id="4293a143ead93d63181697ff77b22224d71e613d" resname="import_export.upload.info">
+        <source>Select a CSV file to import</source>
+        <target state="translated">Seleccionar a CSV archivo to importar</target>
+        <note>key: import_export.upload.info</note>
+      </trans-unit>
+      <trans-unit id="6714ddf2d068d5c816e9de2e6bc357d877a7c578" resname="import_export.upload.note">
+        <source>Note: It might take some time until the CSV file has been imported.</source>
+        <target state="translated">Note: Nota: pueden pasar unos segundos hasta que el archivo CSV se importe.</target>
+        <note>key: import_export.upload.note</note>
+      </trans-unit>
+      <trans-unit id="08085ebe18a266bb43a80fb7a39656ee074d4374" resname="import_export.upload_price.button">
+        <source>Upload prices</source>
+        <target state="translated">Cargar precios</target>
+        <note>key: import_export.upload_price.button</note>
+      </trans-unit>
+      <trans-unit id="f28c451c8cbdfff329b23ebf7fcae5e5ee45c7d7" resname="import_export.upload_price.title">
+        <source>Upload new price list</source>
+        <target state="translated">Subir una lista de precios nueva</target>
+        <note>key: import_export.upload_price.title</note>
+      </trans-unit>
+      <trans-unit id="4d7b48745842e85bb036c0b8a7b115e6b063ffbb" resname="import_export.upload_stock.button">
+        <source>Upload stock</source>
+        <target state="translated">Cargar existencias</target>
+        <note>key: import_export.upload_stock.button</note>
+      </trans-unit>
+      <trans-unit id="0801784c9fa26bcff82bc9d3e886ec656dad36e3" resname="import_export.upload_stock.title">
+        <source>Upload new stock list</source>
+        <target state="translated">Subir una nueva lista de existencias</target>
+        <note>key: import_export.upload_stock.title</note>
+      </trans-unit>
+      <trans-unit id="a234b1914e41f44b0d1452efe05293913b681704" resname="label.price_stock_tab">
+        <source>eCommerce</source>
+        <target state="translated">Comercio electrónico</target>
+        <note>key: label.price_stock_tab</note>
+      </trans-unit>
+      <trans-unit id="9c6d51b72da01a6f73c4493275e770f739a2aec6" resname="modal.button.close">
+        <source>Close</source>
+        <target state="translated">Cerrar</target>
+        <note>key: modal.button.close</note>
+      </trans-unit>
+      <trans-unit id="41718aba6bfdfdf48b47c9cb0f3d1ea324683121" resname="msg.invalid_csv_file">
+        <source>Invalid CSV file</source>
+        <target state="translated">Archivo CSV no válido</target>
+        <note>key: msg.invalid_csv_file</note>
+      </trans-unit>
+      <trans-unit id="c3c81201bee9a881ec4fef0326ee0d5abf07a066" resname="msg.invalid_shop_id">
+        <source>Invalid shop ID : %shopId%</source>
+        <target state="translated">id. de la tienda %shopId% no válida</target>
+        <note>key: msg.invalid_shop_id</note>
+      </trans-unit>
+      <trans-unit id="0801224be6bc55f0e38efa128854c6d0bdbfe22f" resname="msg.price_upload_success">
+        <source>Prices for %products% products imported successfully</source>
+        <target state="translated">Los precios para los productos %productos% se han importado con éxito</target>
+        <note>key: msg.price_upload_success</note>
+      </trans-unit>
+      <trans-unit id="eb6aa749b48acf60573017b34841c8196a161cdb" resname="msg.stock_upload_success">
+        <source>Stock for %products% products imported successfully</source>
+        <target state="translated">La existencia del producto %products% se ha importado con éxito</target>
+        <note>key: msg.stock_upload_success</note>
+      </trans-unit>
+      <trans-unit id="5960d500d74c4f539d30c8a6d23f7b781ac34fee" resname="price_management.add_price">
+        <source>Add price</source>
+        <target state="translated">Añadir precio</target>
+        <note>key: price_management.add_price</note>
+      </trans-unit>
+      <trans-unit id="827e0c73b985d0d1c73c918753475d588adf3e6a" resname="price_management.base_price">
+        <source>Base price</source>
+        <target state="translated">Precio base</target>
+        <note>key: price_management.base_price</note>
+      </trans-unit>
+      <trans-unit id="ebd2a49d04aa9f85526914138446a3a74d341035" resname="price_management.customer_group">
+        <source>Customer group</source>
+        <target state="translated">Grupo de cliente</target>
+        <note>key: price_management.customer_group</note>
+      </trans-unit>
+      <trans-unit id="12a68ad36a50e95a745fe6deeb28b3dbd6cb8541" resname="price_management.delete_price.button">
+        <source>Delete price</source>
+        <target state="translated">Eliminar precio</target>
+        <note>key: price_management.delete_price.button</note>
+      </trans-unit>
+      <trans-unit id="42b96d2ed0ac4fcbc81b3cbde87ad32a2651aa4d" resname="price_management.offer_price">
+        <source>Offer price</source>
+        <target state="translated">Ofrecer precio</target>
+        <note>key: price_management.offer_price</note>
+      </trans-unit>
+      <trans-unit id="8c61cfa34565ff704950cc228bee5b98e700d156" resname="price_management.save">
+        <source>Save</source>
+        <target state="translated">Guardar</target>
+        <note>key: price_management.save</note>
+      </trans-unit>
+      <trans-unit id="7e9100796092cda3d8b24a610e0c786d37aa5040" resname="price_management.sku">
+        <source>SKU</source>
+        <target state="translated">Código de artículo</target>
+        <note>key: price_management.sku</note>
+      </trans-unit>
+      <trans-unit id="7e3555fc949d9bfd1047e8fdb99609b49b4c7829" resname="profile.data.address.add.new.address">
+        <source>Add a new Address</source>
+        <target state="translated">Añadir nueva dirección</target>
+        <note>key: profile.data.address.add.new.address</note>
+      </trans-unit>
+      <trans-unit id="3b6c314ca265e56e0881061d03acab32fbeb0ef7" resname="profile.data.address.additional.address.line">
+        <source>Additional address line</source>
+        <target state="translated">Dirección adicional</target>
+        <note>key: profile.data.address.additional.address.line</note>
+      </trans-unit>
+      <trans-unit id="e4b4d7577aca4e6f1eb3a5d395d989295f1c3400" resname="profile.data.address.buyer.label">
+        <source>Buyer address</source>
+        <target state="translated">Dirección del comprador</target>
+        <note>key: profile.data.address.buyer.label</note>
+      </trans-unit>
+      <trans-unit id="ff2276b0ef29f4f3a80b58ca995269a6ed7e7f48" resname="profile.data.address.city">
+        <source>City</source>
+        <target state="translated">Ciudad</target>
+        <note>key: profile.data.address.city</note>
+      </trans-unit>
+      <trans-unit id="aaac22534510e00ba57e21095f09bbc99d69b5e0" resname="profile.data.address.contact.email">
+        <source>Contact E-Mail</source>
+        <target state="translated">Correo electrónico de contacto</target>
+        <note>key: profile.data.address.contact.email</note>
+      </trans-unit>
+      <trans-unit id="7d7a237c81fe9a627d9201ac6de3c36d79386f24" resname="profile.data.address.contact.fax">
+        <source>Contact Fax</source>
+        <target state="translated">Fax de contacto</target>
+        <note>key: profile.data.address.contact.fax</note>
+      </trans-unit>
+      <trans-unit id="94cac8a2f8418b64252c6ffa8f3b0e2de4da481b" resname="profile.data.address.contact.telephone">
+        <source>Contact Telephone</source>
+        <target state="translated">Teléfono de contacto</target>
+        <note>key: profile.data.address.contact.telephone</note>
+      </trans-unit>
+      <trans-unit id="c1664a8e4e5e4b0c829fd7ec46bbe0a3e1b29e3c" resname="profile.data.address.country.code">
+        <source>Country code</source>
+        <target state="translated">Código del país</target>
+        <note>key: profile.data.address.country.code</note>
+      </trans-unit>
+      <trans-unit id="e0f26f8d4c2bd4c7a4f3d25709a727c1209828d9" resname="profile.data.address.delivery.label">
+        <source>Delivery addresses</source>
+        <target state="translated">Direcciones de entrega</target>
+        <note>key: profile.data.address.delivery.label</note>
+      </trans-unit>
+      <trans-unit id="4a5f9b6ca9963548d6eb287cdd660c5f4ea04622" resname="profile.data.address.name.company">
+        <source>Name/Company</source>
+        <target state="translated">Nombre/Empresa</target>
+        <note>key: profile.data.address.name.company</note>
+      </trans-unit>
+      <trans-unit id="46e720744aeacd0fff1a97259dc6ca17d4bcd708" resname="profile.data.address.name.company.2">
+        <source>Name/Company 2</source>
+        <target state="translated">Nombre/Empresa 2</target>
+        <note>key: profile.data.address.name.company.2</note>
+      </trans-unit>
+      <trans-unit id="86b919be8fba85f45d556b9c0bcddad49eb90595" resname="profile.data.address.street">
+        <source>Street</source>
+        <target state="translated">Calle</target>
+        <note>key: profile.data.address.street</note>
+      </trans-unit>
+      <trans-unit id="220e2047061f2c3f64304253476d89f791d6a08b" resname="profile.data.address.zip.code">
+        <source>ZIP code</source>
+        <target state="translated">Código postal</target>
+        <note>key: profile.data.address.zip.code</note>
+      </trans-unit>
+      <trans-unit id="63f8d285fcb7adee4bf53870667b4121acfe8aee" resname="profile.data.button.trash">
+        <source>Remove address</source>
+        <target state="translated">Eliminar dirección</target>
+        <note>key: profile.data.button.trash</note>
+      </trans-unit>
+      <trans-unit id="b7d3f8c2a60e3713da7740c9740d2cb2f8da5e3b" resname="shipping.save">
+        <source>Save</source>
+        <target state="translated">Guardar</target>
+        <note>key: shipping.save</note>
+      </trans-unit>
+      <trans-unit id="662fdb1f211d6dbec0e6d2444e14ace35ac46510" resname="shipping.table.country">
+        <source>Country</source>
+        <target state="translated">País</target>
+        <note>key: shipping.table.country</note>
+      </trans-unit>
+      <trans-unit id="aa2451fd509c97bfca37096f01bed28adf18ca40" resname="shipping.table.currency">
+        <source>Currency</source>
+        <target state="translated">Moneda</target>
+        <note>key: shipping.table.currency</note>
+      </trans-unit>
+      <trans-unit id="eee8f9c5621f395e0f646cb9104a660af7960b9e" resname="shipping.table.shipping_cost">
+        <source>Shipping cost</source>
+        <target state="translated">Gatos de envío</target>
+        <note>key: shipping.table.shipping_cost</note>
+      </trans-unit>
+      <trans-unit id="8c74ef667f8b8d3c9d4196fb096ca7b707911fc2" resname="shipping.table.shipping_method">
+        <source>Shipping method</source>
+        <target state="translated">Forma de envío</target>
+        <note>key: shipping.table.shipping_method</note>
+      </trans-unit>
+      <trans-unit id="862f234b4891a5491553c5f3e7ed0154a425d49e" resname="shipping.table.state">
+        <source>State</source>
+        <target state="translated">Estado</target>
+        <note>key: shipping.table.state</note>
+      </trans-unit>
+      <trans-unit id="c8fb7152c064c2597b7c551d76279520041a5d09" resname="shipping.table.title">
+        <source>Manage shipping costs</source>
+        <target state="translated">Gestionar gastos de envío</target>
+        <note>key: shipping.table.title</note>
+      </trans-unit>
+      <trans-unit id="29385a6c82a9d3ab9759aad1565bc9bdd3e38f9e" resname="shipping.table.value">
+        <source>Value of goods</source>
+        <target state="translated">Valor de los productos</target>
+        <note>key: shipping.table.value</note>
+      </trans-unit>
+      <trans-unit id="77b74c11e52aea191d71dca583c6c66a5b3843f7" resname="shipping.table.zip">
+        <source>ZIP</source>
+        <target state="translated">Código postal</target>
+        <note>key: shipping.table.zip</note>
+      </trans-unit>
+      <trans-unit id="86ce7e2c45b3d6a4bfcb5bfe18a2ab450c872aff" resname="shipping_management.add_shipping">
+        <source>Add</source>
+        <target state="translated">Añadir</target>
+        <note>key: shipping_management.add_shipping</note>
+      </trans-unit>
+      <trans-unit id="a75dc4c2145855dd0841a5da02bf3714e6605d4e" resname="shipping_management.delete_shippment.button">
+        <source>Delete</source>
+        <target state="translated">Eliminar</target>
+        <note>key: shipping_management.delete_shippment.button</note>
+      </trans-unit>
+      <trans-unit id="231b0beb563e4e61f1608a88a4597f4ef262dfb3" resname="stock_management.on_stock">
+        <source>On stock</source>
+        <target state="translated">Disponible</target>
+        <note>key: stock_management.on_stock</note>
+      </trans-unit>
+      <trans-unit id="c647ca835347673e015c0fa527ba0a40bf7946f7" resname="stock_management.save">
+        <source>Save</source>
+        <target state="translated">Guardar</target>
+        <note>key: stock_management.save</note>
+      </trans-unit>
+      <trans-unit id="17aa5eb3fb62622b7e00d4f9bf7a84512307c79f" resname="stock_management.sku">
+        <source>SKU</source>
+        <target state="translated">Código de artículo</target>
+        <note>key: stock_management.sku</note>
+      </trans-unit>
+      <trans-unit id="b61bd861b86f97b578af8a4ba46c57567fc397f3" resname="stock_management.stock_text">
+        <source>Stock text</source>
+        <target state="translated">Texto de relleno</target>
+        <note>key: stock_management.stock_text</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
