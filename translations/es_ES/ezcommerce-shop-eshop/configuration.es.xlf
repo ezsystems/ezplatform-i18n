@@ -11,26 +11,6 @@
         <target state="translated">Filtrar</target>
         <note>key: Filter</note>
       </trans-unit>
-      <trans-unit id="afe55a4a42c44a0f96cc99d701e11099b3062f97" resname="additional_text_for_basket_line_input_limit|config">
-        <source>Max. chars for the comment field</source>
-        <target state="translated">Caracteres máximos para el campo de comentario.</target>
-        <note>key: additional_text_for_basket_line_input_limit|config</note>
-      </trans-unit>
-      <trans-unit id="2d02ab52a66a030c60f75dd69dc296794f182bb7" resname="additional_text_for_basket_line_input_limit|description">
-        <source>Important note:  the ERP often has a restriction and might not support long comments. This might lead to errors during order process</source>
-        <target state="translated">Nota importante: el ERP suele tener restricciones y puede no gestionar comentarios largos. Esto puede causar errores en el proceso del pedido</target>
-        <note>key: additional_text_for_basket_line_input_limit|description</note>
-      </trans-unit>
-      <trans-unit id="529a9ea5054d0301081bef4e4f07a0aa777e7f54" resname="additional_text_for_basket_line|config">
-        <source>Enable textline for basket</source>
-        <target state="translated">Habilitar texto para la cesta</target>
-        <note>key: additional_text_for_basket_line|config</note>
-      </trans-unit>
-      <trans-unit id="8b3120a6b1eced0805d9eaef9f66902613781425" resname="additional_text_for_basket_line|description">
-        <source>If enabled the customer can enter a comment to each line in the basket or quickorder</source>
-        <target state="translated">Si está habilitado, el cliente puede escribir un comentario en cada línea de la cesta o hacer un pedido rápido</target>
-        <note>key: additional_text_for_basket_line|description</note>
-      </trans-unit>
       <trans-unit id="da046251c5fc342c48fc9bbdeb3f3d3ed618acad" resname="automatic_currency_conversion|config">
         <source>Automatic currency conversion</source>
         <target state="translated">Conversión automática de moneda</target>
@@ -145,16 +125,6 @@
         <source>When has the conversion rate changed the last time?</source>
         <target state="translated">¿Cuándo fue la última vez que la tasa de conversión cambió?</target>
         <note>key: currency_rate_changed_at|description</note>
-      </trans-unit>
-      <trans-unit id="5cb96ead9ce4f85a24e0b5c4dfb2d919c8e24fb1" resname="description_limit|config">
-        <source>Description character limit</source>
-        <target state="translated">Descripción del límite de caracteres</target>
-        <note>key: description_limit|config</note>
-      </trans-unit>
-      <trans-unit id="39b20f60af446c66becd5a7c9d873b332090f0f5" resname="description_limit|description">
-        <source>Number of characters that will be visible for the product description field</source>
-        <target state="translated">Número de caracteres que serán visibles para el campo de descripción del producto.</target>
-        <note>key: description_limit|description</note>
       </trans-unit>
       <trans-unit id="986d2c46e49be73aac4c2b73545675e37a0bc5e6" resname="discontinued_products_listener_active|config">
         <source>Disable ordering for discontinued products</source>
@@ -427,26 +397,6 @@
         <target state="translated">Esta persona recibirá un CC de un correo electrónico de confirmación del pedido.</target>
         <note>key: order_confirmation.sales_email_address|description</note>
       </trans-unit>
-      <trans-unit id="a4d2f93507b22da3addd0201e8569d9f025a91b3" resname="payment_method.invoice|config">
-        <source>Payment method "invoice</source>
-        <target state="translated">Método de pago "factura</target>
-        <note>key: payment_method.invoice|config</note>
-      </trans-unit>
-      <trans-unit id="bb86350a8b3425bc207c3af512eeef8291da77bb" resname="payment_method.invoice|description">
-        <source>Enables "invoice" in checkout</source>
-        <target state="translated">Habilita "factura" en el proceso de compra</target>
-        <note>key: payment_method.invoice|description</note>
-      </trans-unit>
-      <trans-unit id="39603a49c4a846ce31586b3d9d184365af5de116" resname="payment_method.paypal_express_checkout|config">
-        <source>Payment method PayPal</source>
-        <target state="translated">Método de pago PayPal</target>
-        <note>key: payment_method.paypal_express_checkout|config</note>
-      </trans-unit>
-      <trans-unit id="644a92a1bc4b6eab7201e0bf174baf291f2d04e3" resname="payment_method.paypal_express_checkout|description">
-        <source>Enables "PayPal" in checkout</source>
-        <target state="translated">Habilita "PayPal" en el proceso de compra</target>
-        <note>key: payment_method.paypal_express_checkout|description</note>
-      </trans-unit>
       <trans-unit id="089dd597a401ba6adfad703cfab6b655ba8603dd" resname="price_requests_without_customer_number|config">
         <source>Price requests without customer number</source>
         <target state="translated">Solicitudes de precio sin número de cliente</target>
@@ -650,16 +600,6 @@ El atributo defer puede especificarse incluso si se especifica el atributo async
         <target state="translated">¿Dónde se mostrará el recaptcha?</target>
         <note>key: recaptcha|description</note>
       </trans-unit>
-      <trans-unit id="e265b4d0c421312683b9b2d858755ccee7b84ff2" resname="refreshCatalogElementAfter|config">
-        <source>Update product data after this time</source>
-        <target state="translated">Actualice los datos del producto después de este paso</target>
-        <note>key: refreshCatalogElementAfter|config</note>
-      </trans-unit>
-      <trans-unit id="761cafcd51b804810163d48393329267c769afed" resname="refreshCatalogElementAfter|description">
-        <source>Product data is cached in the basket for a given time. Please use a syntax "1 hour".</source>
-        <target state="translated">Los datos del producto se almacenan en caché en la cesta durante un tiempo determinado. Utiliza una sintaxis "1 hora".</target>
-        <note>key: refreshCatalogElementAfter|description</note>
-      </trans-unit>
       <trans-unit id="d8d6498e7624bfaf95d696aefcf2063618118ae8" resname="save_configuration">
         <source>Save configuration</source>
         <target state="translated">Guardar configuración</target>
@@ -684,26 +624,6 @@ El atributo defer puede especificarse incluso si se especifica el atributo async
         <source>Shipping free limit for shop in shop currency</source>
         <target state="translated">Límite de envío gratuito para comprar en la moneda de la tienda</target>
         <note>key: shipping_free|description</note>
-      </trans-unit>
-      <trans-unit id="56beadf8ef4bd810fcb2f2feaac0d8211ec461c5" resname="shipping_method.express_delivery|config">
-        <source>Shipping method  "express"</source>
-        <target state="translated">Método de envío "express"</target>
-        <note>key: shipping_method.express_delivery|config</note>
-      </trans-unit>
-      <trans-unit id="34444f5738925c60a830227871719308dc8e5fda" resname="shipping_method.express_delivery|description">
-        <source>Enables shipping method "express" in checkout</source>
-        <target state="translated">Habilita el método de envío "express" al finalizar la compra</target>
-        <note>key: shipping_method.express_delivery|description</note>
-      </trans-unit>
-      <trans-unit id="03fdf64216e67e788345093e1a07da35d40fe231" resname="shipping_method.standard|config">
-        <source>Shipping method "standard"</source>
-        <target state="translated">Método de envío "estándar"</target>
-        <note>key: shipping_method.standard|config</note>
-      </trans-unit>
-      <trans-unit id="c5ab15001d4865b7fde19663582cb7ae23c6bead" resname="shipping_method.standard|description">
-        <source>Enables shipping method "standard" in checkout</source>
-        <target state="translated">Habilita el método de envío "estándar" al finalizar la compra</target>
-        <note>key: shipping_method.standard|description</note>
       </trans-unit>
       <trans-unit id="d67fc21214d3b0a3d4a807056940db06046a4827" resname="shipping_vat_code|config">
         <source>Fallback VAT Code for shipping costs</source>
@@ -734,16 +654,6 @@ El atributo defer puede especificarse incluso si se especifica el atributo async
         <source>This currency is used as fallback currency, if the siteaccess specific configuration is not configured (e.g. per siteaccess)</source>
         <target state="translated">Esta moneda se utiliza como moneda alternativa, si la configuración específica del acceso al sitio no está configurada (por ejemplo, por acceso al sitio)</target>
         <note>key: standard_price_factory.fallback_currency|description</note>
-      </trans-unit>
-      <trans-unit id="dea2d0a7049d35c69e1aa2b9cfccbd0aaf530fe4" resname="stock_in_column|config">
-        <source>Display stock as a column</source>
-        <target state="translated">Mostrar las existencias como una columna</target>
-        <note>key: stock_in_column|config</note>
-      </trans-unit>
-      <trans-unit id="e3229c43f9e92295882b185d2f462d647ebcf50d" resname="stock_in_column|description">
-        <source>True - display in column, False - display inline (inside product name column)</source>
-        <target state="translated">Verdadero: se muestra en la columna, Falso: se muestra en línea (dentro de la columna del nombre del producto)</target>
-        <note>key: stock_in_column|description</note>
       </trans-unit>
       <trans-unit id="10d7d36db07c36997e2a8bae8e1f4595340b1a84" resname="success_configuration_save">
         <source>Configuration was successfully saved!</source>
@@ -795,16 +705,6 @@ El atributo defer puede especificarse incluso si se especifica el atributo async
         <target state="translated"><![CDATA[Se utiliza una plantilla de número de cliente deudor, si un cliente no tiene un número de cliente del ERP.<br />
                     La plantilla de números de cliente deudor se puede definir para cada país]]></target>
         <note>key: use_template_debitor_customer_number|description</note>
-      </trans-unit>
-      <trans-unit id="6cc9b7dce215cd6f3ddf5273d9eff331a2ceca4e" resname="validHours|config">
-        <source>Duration of storing anonymous baskets</source>
-        <target state="translated">Duración del almacenamiento de cestas anónimas</target>
-        <note>key: validHours|config</note>
-      </trans-unit>
-      <trans-unit id="8c8ba5d26d35331070df244829e0e2e443cc0dce" resname="validHours|description">
-        <source>Defines how many hours anonymous baskets are stored</source>
-        <target state="translated">Define cuántas horas se almacenan las cestas anónimas</target>
-        <note>key: validHours|description</note>
       </trans-unit>
       <trans-unit id="e0c0be903040428dad2300debcb623ebce0554c5" resname="variant_type|config">
         <source>User interface for ordering variants</source>
