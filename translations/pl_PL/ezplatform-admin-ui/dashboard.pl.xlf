@@ -35,9 +35,6 @@
         <source>Contributor</source>
         <target state="final">Twórca</target>
         <note>key: dashboard.table.contributor</note>
-        <alt-trans>
-          <target>Współtwórca</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit" approved="yes">
         <source>Edit Draft</source>

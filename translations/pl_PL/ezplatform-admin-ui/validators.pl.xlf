@@ -20,20 +20,11 @@
         <source>A valid email address is required</source>
         <target state="final">Wymagany jest prawidłowy adres e-mail</target>
         <note>key: js.error.invalid_email</note>
-        <alt-trans>
-          <target>Wymagany jest prawidłowy adres email</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5c26acfa4532917d4763c44d5b7ec8dd180b98a4" resname="js.error.invalid_file_size" approved="yes">
         <source>{fieldName}: Cannot upload. File exceeds file size limit.</source>
         <target state="final">{fieldName}: Nie można przesłać. Rozmiar pliku przekracza limit.</target>
         <note>key: js.error.invalid_file_size</note>
-        <alt-trans>
-          <target>{fieldName}: Nie można wgrać. Rozmiar pliku przekracza limit.</target>
-        </alt-trans>
-        <alt-trans>
-          <target>{fieldName}: Nie można wgrać. Rozmiar pliku przekacza limit.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="21c38818d1cb73ff54f0dc0b184d6de25058f24d" resname="js.error.invalid_url" approved="yes">
         <source>A valid URL is required</source>

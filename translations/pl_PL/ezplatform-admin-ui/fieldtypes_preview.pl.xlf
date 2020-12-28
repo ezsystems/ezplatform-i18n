@@ -25,9 +25,6 @@
         <source>Location properties</source>
         <target state="final">Właściwości lokalizacji</target>
         <note>key: ezgmaplocation.location_properties</note>
-        <alt-trans>
-          <target>Włąściwości lokalizacji</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ba4a253dc02df12654dabc50ef81b428ee888bcf" resname="ezgmaplocation.longitude" approved="yes">
         <source>Longitude</source>
@@ -113,9 +110,6 @@
         <source>Loop</source>
         <target state="final">Zapętlenie</target>
         <note>key: ezmedia.loop</note>
-        <alt-trans>
-          <target>Pętla</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c351fa9d7e7c134199f7f49e0cd010dedafb4e13" resname="ezmedia.no" approved="yes">
         <source>No</source>
@@ -131,9 +125,6 @@
         <source>Type</source>
         <target state="final">Typ</target>
         <note>key: ezmedia.type</note>
-        <alt-trans>
-          <target>Rodzaj bazy danych</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="207f2af6642a19b3e2ee254f82bd71ae2351d6f0" resname="ezmedia.video_file_properties" approved="yes">
         <source>Video file properties</source>
@@ -164,9 +155,6 @@
         <source>Single relation</source>
         <target state="final">Pojedyncze powiązanie</target>
         <note>key: ezobjectrelation.single_relation</note>
-        <alt-trans>
-          <target>Pojedyncza relacja</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="61c7580e3e4d4547527322089f577eca2ff1ea5b" resname="ezobjectrelationlist.content_type" approved="yes">
         <source>Content Type</source>
@@ -182,9 +170,6 @@
         <source>Multiple relations</source>
         <target state="final">Wiele powiązań</target>
         <note>key: ezobjectrelationlist.multiple_relations</note>
-        <alt-trans>
-          <target>Wiele relacji</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="44d2ac9ae83f6b73fa8f61fad66a77d76d2159f0" resname="ezobjectrelationlist.name" approved="yes">
         <source>Name</source>

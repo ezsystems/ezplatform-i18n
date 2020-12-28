@@ -60,9 +60,6 @@
         <source>Enabled</source>
         <target state="final">Aktywny</target>
         <note>key: ezplatform.language.create.enabled</note>
-        <alt-trans>
-          <target>Włączony</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="74b72ba5150cd449b231ca3441626aa46bd4622f" resname="ezplatform.language.create.language_code" approved="yes">
         <source>Language code</source>
@@ -88,9 +85,6 @@
         <source>Enabled</source>
         <target state="final">Aktywny</target>
         <note>key: ezplatform.language.update.enabled</note>
-        <alt-trans>
-          <target>Włączony</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2ec293c62175282c5a3ff7a75a56093446485dad" resname="ezplatform.language.update.name" approved="yes">
         <source>Name</source>
@@ -231,9 +225,6 @@
         <source>Content / Read</source>
         <target state="translated">Treść / Wyświetlaj</target>
         <note>key: role.policy.content.read</note>
-        <alt-trans>
-          <target>Treść / Odczyt</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="967c7d2238b619a63fd0fe00bc0ccd4589e9de4f" resname="role.policy.content.remove">
         <source>Content / Remove</source>
@@ -269,9 +260,6 @@
         <source>Content / Versionread</source>
         <target state="translated">Treść / Wyświetl wersję</target>
         <note>key: role.policy.content.versionread</note>
-        <alt-trans>
-          <target>Treść / Odczyt wersji</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4e615fcc14a6f5b70fb3e7957518c27bc508d92f" resname="role.policy.content.versionremove">
         <source>Content / Versionremove</source>

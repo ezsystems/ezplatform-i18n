@@ -10,9 +10,6 @@
         <source>N/A</source>
         <target state="final">N/A</target>
         <note>key: content_type.not_available.label</note>
-        <alt-trans>
-          <target>Niedostępny</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5e1792d4a193550fe8afd9a4be6d0a8c3f6596e9" resname="edit_item_btn.label" approved="yes">
         <source>Edit</source>
@@ -23,9 +20,6 @@
         <source>Sub-items</source>
         <target state="final">Podelementy</target>
         <note>key: items_list.title</note>
-        <alt-trans>
-          <target>Elementy podrzędne</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a72b23e13c6c44cfd6fc6661f83bc0b5e7c8a90c" resname="items_table.header.content_type" approved="yes">
         <source>Content type</source>
@@ -71,9 +65,6 @@
         <source>This location has no sub-items</source>
         <target state="final">Ta lokalizacja nie ma podelementów</target>
         <note>key: no_items.message</note>
-        <alt-trans>
-          <target>Ta lokacja nie ma elementów podrzędnych</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="af207d1e719904a39524b34212a1ea6116cb3d46" resname="switch_to_grid_view.btn.label" approved="yes">
         <source>View as grid</source>

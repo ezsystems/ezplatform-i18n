@@ -31,20 +31,10 @@
         <target state="final">Zresetuj swoje hasło</target>
         <note>key: authentication.reset_your_password</note>
       </trans-unit>
-      <trans-unit id="8785f4abdfdf72fe9001fe0553c6e3a582cfcc08" resname="authentication.submit" approved="yes">
-        <source>Login</source>
-        <target state="final">Zaloguj się</target>
-        <note>key: authentication.submit</note>
-      </trans-unit>
       <trans-unit id="9143793289ea0e20c3dc9f752d43cc727f2dba01" resname="authentication.username" approved="yes">
         <source>Username</source>
         <target state="final">Nazwa użytkownika</target>
         <note>key: authentication.username</note>
-      </trans-unit>
-      <trans-unit id="b1b04388859d233f757e4f6376af3fc317d4baa6" resname="base.footer_copyright">
-        <source>eZ Platform ©1999-%current_year% %ez_link_open%eZ Systems AS%ez_link_close% and others.</source>
-        <target state="translated">eZ Platform ©1999-%current_year% %ez_link_open%eZ Systems AS%ez_link_close% i inni.</target>
-        <note>key: base.footer_copyright</note>
       </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin" approved="yes">
         <source>Admin</source>
@@ -111,14 +101,6 @@
         <target state="final">Usuń</target>
         <note>key: custom_url_alias_add_form.remove</note>
       </trans-unit>
-      <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title" approved="yes">
-        <source>Something went wrong. Sorry!</source>
-        <target state="final">Coś poszło nie tak.</target>
-        <note>key: error.page.default.title</note>
-        <alt-trans>
-          <target>Ups! Coś poszło nie tak.</target>
-        </alt-trans>
-      </trans-unit>
       <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add" approved="yes">
         <source>Add author</source>
         <target state="final">Dodaj autora</target>
@@ -163,11 +145,6 @@
         <source>Any time</source>
         <target state="final">Kiedykolwiek</target>
         <note>key: search.any_time</note>
-      </trans-unit>
-      <trans-unit id="03d6d5922fd2012e155e50306eaf98e2dfeb21c6" resname="search.section.any" approved="yes">
-        <source>Any section</source>
-        <target state="final">Dowolna sekcja</target>
-        <note>key: search.section.any</note>
       </trans-unit>
       <trans-unit id="9567771350aff93580f743089937b0c8fe31058e" resname="section.assign,content" approved="yes">
         <source>Assign Content</source>

@@ -100,25 +100,16 @@
         <source>Role '%role%' created.</source>
         <target state="final">Utworzono rolę '%role%'.</target>
         <note>key: role.create.success</note>
-        <alt-trans>
-          <target>Rola '%role%' została utworzona.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="20c6318c88508393b9cb8413a6d7e61649f80ab3" resname="role.delete.success" approved="yes">
         <source>Role '%role%' removed.</source>
         <target state="final">Usunięto rolę '%role%'.</target>
         <note>key: role.delete.success</note>
-        <alt-trans>
-          <target>Rola '%role%' została usunięta.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="75637482fd2563256da5423615ecfb241fc03a57" resname="role.update.success" approved="yes">
         <source>Role '%role%' updated.</source>
         <target state="final">Zaktualizowano rolę '%role%'.</target>
         <note>key: role.update.success</note>
-        <alt-trans>
-          <target>Rola '%role%' została zaktualizowana.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="da907b734c3ae3df8e9c570dd8e9e7e6d0799105" resname="role.view.add.title" approved="yes">
         <source>Creating a new Role</source>

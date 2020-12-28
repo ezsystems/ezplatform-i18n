@@ -40,9 +40,6 @@
         <source>Relations</source>
         <target state="final">Powiązania</target>
         <note>key: ezobjectrelationlist.relations</note>
-        <alt-trans>
-          <target>Relacje</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="97e94752cba8892136d56b07057f0cac9344cb56" resname="ezobjectrelationlist.table.row.content_type" approved="yes">
         <source>Content Type</source>

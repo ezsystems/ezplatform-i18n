@@ -200,14 +200,6 @@
         <source>Content structure</source>
         <target state="final">Struktura</target>
         <note>key: main__content__content_structure</note>
-        <alt-trans>
-          <target>Struktura treści</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="2887dd09dcb0f287e947da3e735133c540991df1" resname="main__content__linkmanager" approved="yes">
-        <source>Link Manager</source>
-        <target state="final">Manager linków</target>
-        <note>key: main__content__linkmanager</note>
       </trans-unit>
       <trans-unit id="e8c5aefc86b31ee2bed9359787ddf0a2b1cad4a6" resname="main__content__media" approved="yes">
         <source>Media</source>
@@ -338,9 +330,6 @@
         <source>Browse</source>
         <target state="final">Przeglądaj</target>
         <note>key: sidebar_left__browse</note>
-        <alt-trans>
-          <target>Przeglądanie</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e3401271f3c6a0f8c88b0fa500d2c97eb5e33ff0" resname="sidebar_left__search" approved="yes">
         <source>Search</source>
