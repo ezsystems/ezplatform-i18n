@@ -10,17 +10,11 @@
         <source>Bookmarks</source>
         <target state="translated">पूस्तकचीन</target>
         <note>key: bookmark.headline</note>
-        <alt-trans>
-          <target>बुकमार्क्स</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cf687b0218c513d53ad3f52b2547c23500242c48" resname="bookmark.list.content_type">
         <source>Content Type</source>
         <target state="translated">कांटेंट टाइप</target>
         <note>key: bookmark.list.content_type</note>
-        <alt-trans>
-          <target>कांटेंट प्रकार</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d84749a19f2864dd1d5d3cee0a127f2435e5cdc5" resname="bookmark.list.name">
         <source>Name</source>
