@@ -317,18 +317,12 @@
         <target state="translated">Πολλαπλές λίστew επιλογής</target>
         <note>key: fielddefinition.selection-method.multiple_list</note>
         <jms:reference-file line="242">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Πολλαπλές λίστα επιλογής</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="60f06115f038572328285e2ca1fc5ad811105c49" resname="fielddefinition.selection-method.radio">
         <source>List with radio buttons</source>
         <target state="translated">Λίστα με πλήκτρα</target>
         <note>key: fielddefinition.selection-method.radio</note>
         <jms:reference-file line="238">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Λίστα με plöhktra</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="37121f3c9e8054432510a9f85fd3235e5f549734" resname="fielddefinition.selection-method.single_template">
         <source>Template based, single</source>
@@ -353,9 +347,6 @@
         <target state="translated">Δεν υπάρχει καθορισμένη ρίζα</target>
         <note>key: fielddefinition.selection-root.undefined</note>
         <jms:reference-file line="339">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Δεν υπάρχει καθορισμένh ρίζα</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4c9eb21a084528340d7944eeb0ffe525fc5e5e75" resname="fielddefinition.use-seconds.label">
         <source>Use seconds:</source>
