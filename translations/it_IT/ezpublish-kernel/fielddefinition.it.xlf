@@ -104,9 +104,6 @@
         <target state="translated">%default% %minute% minuto/i</target>
         <note>key: fielddefinition.interval.minute</note>
         <jms:reference-file line="91">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>%default% %minute% minuto(i)</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b93b6a1548ffa873b1ef5a95c727f93d7be2fd0c" resname="fielddefinition.interval.month">
         <source>%default% %month% month(s)</source>

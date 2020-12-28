@@ -11,11 +11,6 @@
         <target state="translated">Password</target>
         <note>key: authentication.password</note>
       </trans-unit>
-      <trans-unit id="8785f4abdfdf72fe9001fe0553c6e3a582cfcc08" resname="authentication.submit">
-        <source>Login</source>
-        <target state="translated">Login</target>
-        <note>key: authentication.submit</note>
-      </trans-unit>
       <trans-unit id="9143793289ea0e20c3dc9f752d43cc727f2dba01" resname="authentication.username">
         <source>Username</source>
         <target state="translated">Account</target>

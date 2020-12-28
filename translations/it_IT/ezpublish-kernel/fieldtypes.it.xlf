@@ -40,9 +40,6 @@
         <source>Float</source>
         <target state="translated">Virgola mobile</target>
         <note>key: ezfloat.name</note>
-        <alt-trans>
-          <target>Decimale</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fcabb29fdb097d916c88328daad461c1ea765121" resname="ezgmaplocation.name">
         <source>Map location</source>
