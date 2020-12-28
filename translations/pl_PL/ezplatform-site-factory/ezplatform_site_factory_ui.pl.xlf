@@ -11,11 +11,6 @@
         <target state="translated">Pole %fieldName% jest wymagane</target>
         <note>key: form.validate.error</note>
       </trans-unit>
-      <trans-unit id="147fd163949ff088f31b6cfca13eeb6cfa474101" resname="form.validate.error.public.access">
-        <source>Please add a public access</source>
-        <target state="translated">Dodaj dostęp publiczny</target>
-        <note>key: form.validate.error.public.access</note>
-      </trans-unit>
       <trans-unit id="7e0434aa2c4a65dd83160b9c9bf0fe9d7493eae2" resname="select_location.label">
         <source>Choose Location</source>
         <target state="translated">Wybierz lokalizację</target>
