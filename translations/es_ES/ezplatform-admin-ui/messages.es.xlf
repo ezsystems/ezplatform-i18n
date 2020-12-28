@@ -211,11 +211,6 @@
         <target state="translated">No se encontró la página</target>
         <note>key: error.page.404.title</note>
       </trans-unit>
-      <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
-        <source><![CDATA[Contact your Administrator and inform them about the time the error occurred, the URL in your browser window, and anything related that you think may have caused the error.<br/>You can also go back or try to reload the application.]]></source>
-        <target state="translated"><![CDATA[Ponte en contacto con el Administrador para informarle sobre cuándo se produjo el error, sobre la URL o cualquier otra información que pueda aportar sobre el error.<br/>También puedes volver o intentar recargar la aplicación.]]></target>
-        <note>key: error.page.default.actions</note>
-      </trans-unit>
       <trans-unit id="8338c190462d420926edf71e8d4cddcae710d361" resname="error.page.default.message">
         <source>The server was unable to complete your request because of an internal problem.</source>
         <target state="translated">El servidor no pudo completar la petición debido a un fallo interno.</target>
