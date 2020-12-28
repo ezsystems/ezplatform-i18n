@@ -31,20 +31,10 @@
         <target state="translated">重置密碼</target>
         <note>key: authentication.reset_your_password</note>
       </trans-unit>
-      <trans-unit id="8785f4abdfdf72fe9001fe0553c6e3a582cfcc08" resname="authentication.submit">
-        <source>Login</source>
-        <target state="translated">登入名稱</target>
-        <note>key: authentication.submit</note>
-      </trans-unit>
       <trans-unit id="9143793289ea0e20c3dc9f752d43cc727f2dba01" resname="authentication.username">
         <source>Username</source>
         <target state="translated">用戶名稱</target>
         <note>key: authentication.username</note>
-      </trans-unit>
-      <trans-unit id="b1b04388859d233f757e4f6376af3fc317d4baa6" resname="base.footer_copyright">
-        <source>eZ Platform ©1999-%current_year% %ez_link_open%eZ Systems AS%ez_link_close% and others.</source>
-        <target state="translated">platform ©1999-%current_year% %ez_link_open%eZ Systems AS%ez_link_close% and others.</target>
-        <note>key: base.footer_copyright</note>
       </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
@@ -55,9 +45,6 @@
         <source>User Preferences</source>
         <target state="translated">用户首選項</target>
         <note>key: breadcrumb.user_preferences</note>
-        <alt-trans>
-          <target>用户/首選項</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d23f0200b4769a69d2414de6d96117fed4601326" resname="character_counter.characters">
         <source>characters</source>
@@ -114,11 +101,6 @@
         <target state="translated">刪除</target>
         <note>key: custom_url_alias_add_form.remove</note>
       </trans-unit>
-      <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title">
-        <source>Something went wrong. Sorry!</source>
-        <target state="translated">出錯了。抱歉!</target>
-        <note>key: error.page.default.title</note>
-      </trans-unit>
       <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
         <source>Add author</source>
         <target state="translated">新增作者</target>
@@ -164,11 +146,6 @@
         <target state="translated">任何時間</target>
         <note>key: search.any_time</note>
       </trans-unit>
-      <trans-unit id="03d6d5922fd2012e155e50306eaf98e2dfeb21c6" resname="search.section.any">
-        <source>Any section</source>
-        <target state="translated">任何區段</target>
-        <note>key: search.section.any</note>
-      </trans-unit>
       <trans-unit id="9567771350aff93580f743089937b0c8fe31058e" resname="section.assign,content">
         <source>Assign Content</source>
         <target state="translated">指派內容</target>
@@ -183,9 +160,6 @@
         <source>Are you sure you want to permanently delete %trashItemsCount% item(s)?</source>
         <target state="translated">您確定要永久刪除%trashItemsCount%項嗎？</target>
         <note>key: trash.delete.all.confirm</note>
-        <alt-trans>
-          <target>您確定要永久刪除％trashItemsCount％項嗎？</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="48e20c2b09b340ca2e2020edaa30a57c8bc3f26b" resname="trash.delete.all.info">
         <source>This action cannot be reversed</source>

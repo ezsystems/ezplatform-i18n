@@ -65,9 +65,6 @@
         <source>Content ID</source>
         <target state="translated">Content ID</target>
         <note>key: content_type.sort_field.content_id</note>
-        <alt-trans>
-          <target>Content Id</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth">
         <source>Location depth</source>

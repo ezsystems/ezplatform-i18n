@@ -10,9 +10,6 @@
         <source>No</source>
         <target state="translated">否</target>
         <note>key: ezboolean.no</note>
-        <alt-trans>
-          <target> 否</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bf1525899659fa5ea6c18aa4bf63d596fecbf97e" resname="ezgmaplocation.address">
         <source>Address</source>
@@ -23,9 +20,6 @@
         <source>Latitude</source>
         <target state="translated">緯度</target>
         <note>key: ezgmaplocation.latitude</note>
-        <alt-trans>
-          <target>緯度:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="38022a4ef42d878eb38c71537fdc4c72b5fbb989" resname="ezgmaplocation.location_properties">
         <source>Location properties</source>

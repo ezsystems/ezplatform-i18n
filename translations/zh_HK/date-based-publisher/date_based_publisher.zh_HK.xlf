@@ -55,9 +55,6 @@
         <source>Cannot schedule content: %reason%</source>
         <target state="translated">無法計畫發佈內容：%reason%</target>
         <note>key: date_based_publisher.error.publish_later</note>
-        <alt-trans>
-          <target>無法計畫發佈內容：％reason％</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7d074c91468b3c1f9e6302ea0432306fef788e95" resname="discard_schedule_publish">
         <source>discard_schedule_publish</source>
