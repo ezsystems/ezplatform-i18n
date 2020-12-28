@@ -11,11 +11,6 @@
         <target state="translated">Le champ %fieldName% est requis</target>
         <note>key: form.validate.error</note>
       </trans-unit>
-      <trans-unit id="147fd163949ff088f31b6cfca13eeb6cfa474101" resname="form.validate.error.public.access">
-        <source>Please add a public access</source>
-        <target state="translated">Veuillez ajouter un accès public</target>
-        <note>key: form.validate.error.public.access</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
