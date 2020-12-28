@@ -10,17 +10,11 @@
         <source>Content</source>
         <target state="translated">Sadržaj</target>
         <note>key: tab.name.everyone_content</note>
-        <alt-trans>
-          <target>Contenuti</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fdd56e68fb3a108fce6f8ee4c5a191c0aa8f2996" resname="tab.name.my_content">
         <source>Content</source>
         <target state="translated">Sadržaj</target>
         <note>key: tab.name.my_content</note>
-        <alt-trans>
-          <target>Contenuti</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
