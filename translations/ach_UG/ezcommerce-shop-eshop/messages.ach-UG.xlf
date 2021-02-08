@@ -201,11 +201,6 @@
         <target>crwdns225086:0crwdne225086:0</target>
         <note>key: Basket incremental ID</note>
       </trans-unit>
-      <trans-unit id="14bf2f86fe3ff46636bfc648aba65c4ea4284881" resname="Basket with ID: %basketId% not found">
-        <source>Basket with ID: %basketId% not found</source>
-        <target>crwdns225088:0%basketId%crwdne225088:0</target>
-        <note>key: Basket with ID: %basketId% not found</note>
-      </trans-unit>
       <trans-unit id="e11b80e40fef432a5b0557fa5d0bd77221430f26" resname="Best clients">
         <source>Best clients</source>
         <target>crwdns225092:0crwdne225092:0</target>
@@ -691,11 +686,6 @@
         <target>crwdns225306:0crwdne225306:0</target>
         <note>key: Enter csv file input</note>
       </trans-unit>
-      <trans-unit id="11470e24a23c56cc3afe507f757b425a1867eea7" resname="Error for basket %basketId%: %error%">
-        <source>Error for basket %basketId%: %error%</source>
-        <target>crwdns225308:0%basketId%crwdnd225308:0%error%crwdne225308:0</target>
-        <note>key: Error for basket %basketId%: %error%</note>
-      </trans-unit>
       <trans-unit id="47adebab22d7ae607e2a1a86410699ba1c378c68" resname="Error while processing this action">
         <source>Error while processing this action</source>
         <target>crwdns225314:0crwdne225314:0</target>
@@ -705,11 +695,6 @@
         <source>Error while processing your data</source>
         <target>crwdns225316:0crwdne225316:0</target>
         <note>key: Error while processing your data</note>
-      </trans-unit>
-      <trans-unit id="c25876cd811e3bbba92fe46bf0d80e1b9126f1fa" resname="Error: %error%">
-        <source>Error: %error%</source>
-        <target>crwdns225318:0%error%crwdne225318:0</target>
-        <note>key: Error: %error%</note>
       </trans-unit>
       <trans-unit id="d469baae0628495800672bc39fdc71f30fbf6f45" resname="Event|search">
         <source>Event</source>
@@ -875,6 +860,11 @@
         <source>Ibexa AS</source>
         <target>crwdns225388:0crwdne225388:0</target>
         <note>key: Ibexa AS</note>
+      </trans-unit>
+      <trans-unit id="51c2b938fe679ac74e8c1b1cc36d5749612f71c3" resname="Ibexa Commerce translation system">
+        <source>Ibexa Commerce translation system</source>
+        <target>crwdns229004:0crwdne229004:0</target>
+        <note>key: Ibexa Commerce translation system</note>
       </trans-unit>
       <trans-unit id="474ae52625b87d7628ae7b20a499329a99e07119" resname="Id">
         <source>Id</source>
@@ -1190,21 +1180,6 @@
         <source>Only differences</source>
         <target>crwdns225532:0crwdne225532:0</target>
         <note>key: Only differences</note>
-      </trans-unit>
-      <trans-unit id="4a07dc6e4ef8ed64b594699494c3b6544b7c314b" resname="Order Management">
-        <source>Order Management</source>
-        <target>crwdns225536:0crwdne225536:0</target>
-        <note>key: Order Management</note>
-      </trans-unit>
-      <trans-unit id="9d2a9f0a31db1c658c1c486cdbe3ff84da6e1f3a" resname="Order for basket: %basketId% has been deleted successfully.">
-        <source>Order for basket: %basketId% has been deleted successfully.</source>
-        <target>crwdns225538:0%basketId%crwdne225538:0</target>
-        <note>key: Order for basket: %basketId% has been deleted successfully.</note>
-      </trans-unit>
-      <trans-unit id="c95b4a4292a043e6e35b17abe3083e1a51c74b60" resname="Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%">
-        <source>Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</source>
-        <target>crwdns225540:0%basketId%crwdnd225540:0%orderId%crwdne225540:0</target>
-        <note>key: Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</note>
       </trans-unit>
       <trans-unit id="cded093321ddaa4c0eaf56ef36f84dd53a9527be" resname="Orders">
         <source>Orders</source>
@@ -2126,16 +2101,6 @@
         <target>crwdns226022:0crwdne226022:0</target>
         <note>key: common.more_information</note>
       </trans-unit>
-      <trans-unit id="69decf7cd8bc19f73cd561cf0a8ff9fc4d046976" resname="common.my_shop">
-        <source>My Shop</source>
-        <target>crwdns226024:0crwdne226024:0</target>
-        <note>key: common.my_shop</note>
-      </trans-unit>
-      <trans-unit id="d8cbcac6128b8cedd0fdd832e9aaa1669e0c3756" resname="common.my_shop_functions">
-        <source>Functions</source>
-        <target>crwdns226026:0crwdne226026:0</target>
-        <note>key: common.my_shop_functions</note>
-      </trans-unit>
       <trans-unit id="b97f73d44bbb969e90aa9021a57c122204fc4806" resname="common.newsletter_subscribed">
         <source>Subscribed to newsletter</source>
         <target>crwdns226028:0crwdne226028:0</target>
@@ -2276,10 +2241,80 @@
         <target>crwdns226082:0crwdne226082:0</target>
         <note>key: compare results with former corresponding time period</note>
       </trans-unit>
+      <trans-unit id="495fb695907565cb3f7e0cd10fbbc3da9be1bdb2" resname="configuration_settings.field.array.input.placeholder">
+        <source>Input Values</source>
+        <target>crwdns229006:0crwdne229006:0</target>
+        <note>key: configuration_settings.field.array.input.placeholder</note>
+      </trans-unit>
+      <trans-unit id="87af5170681c287871bea043cb7f875ade55bf45" resname="configuration_settings.field.array.option.remote">
+        <source>Prices from ERP</source>
+        <target>crwdns229008:0crwdne229008:0</target>
+        <note>key: configuration_settings.field.array.option.remote</note>
+      </trans-unit>
+      <trans-unit id="1656ee3381ce4e8b749f1a311282901935d8f221" resname="configuration_settings.field.array.option.shop">
+        <source>Local price engine</source>
+        <target>crwdns229010:0crwdne229010:0</target>
+        <note>key: configuration_settings.field.array.option.shop</note>
+      </trans-unit>
       <trans-unit id="be0205dccbb91824c4d736cbe132956237f92242" resname="contact_intro_text">
         <source>contact_intro_text</source>
         <target>crwdns226084:0crwdne226084:0</target>
         <note>key: contact_intro_text</note>
+      </trans-unit>
+      <trans-unit id="9f25f7e3ba97910fb4e06611759890de9f3bf566" resname="content_fields.external_data.data.label">
+        <source>Data</source>
+        <target>crwdns229012:0crwdne229012:0</target>
+        <note>key: content_fields.external_data.data.label</note>
+      </trans-unit>
+      <trans-unit id="5e510f0b551154eb57374d24fd68bc6731761d24" resname="content_fields.external_data.name.label">
+        <source>Name</source>
+        <target>crwdns229014:0crwdne229014:0</target>
+        <note>key: content_fields.external_data.name.label</note>
+      </trans-unit>
+      <trans-unit id="51a13a0e7d46a0701faf6c82fd9a4d9a1cbc96bb" resname="content_fields.ezvariants.code.label">
+        <source>Code</source>
+        <target>crwdns229016:0crwdne229016:0</target>
+        <note>key: content_fields.ezvariants.code.label</note>
+      </trans-unit>
+      <trans-unit id="3bb45705764c6716e7b303e0e9667d5db526484b" resname="content_fields.ezvariants.description.label">
+        <source>Description</source>
+        <target>crwdns229018:0crwdne229018:0</target>
+        <note>key: content_fields.ezvariants.description.label</note>
+      </trans-unit>
+      <trans-unit id="d45be4130e225d810408799fcbe1a658f940529e" resname="content_fields.ezvariants.sku.label">
+        <source>SKU</source>
+        <target>crwdns229020:0crwdne229020:0</target>
+        <note>key: content_fields.ezvariants.sku.label</note>
+      </trans-unit>
+      <trans-unit id="609465968221bdb7f745d27f780055b83e5c0016" resname="content_fields.profiledata.add.attributes.from.erp">
+        <source>Add. attributes from ERP</source>
+        <target>crwdns229022:0crwdne229022:0</target>
+        <note>key: content_fields.profiledata.add.attributes.from.erp</note>
+      </trans-unit>
+      <trans-unit id="46c7869611c9b47c94229088ac88b8090c003b89" resname="content_fields.profiledata.buyer.address">
+        <source>Buyer address</source>
+        <target>crwdns229024:0crwdne229024:0</target>
+        <note>key: content_fields.profiledata.buyer.address</note>
+      </trans-unit>
+      <trans-unit id="073ae0118c2481f2003d285202561b5244ee5953" resname="content_fields.profiledata.customer.number">
+        <source>Customer number</source>
+        <target>crwdns229026:0crwdne229026:0</target>
+        <note>key: content_fields.profiledata.customer.number</note>
+      </trans-unit>
+      <trans-unit id="3fe4185b033c2e80f57dec8f5742c843d813a2ec" resname="content_fields.profiledata.delivery.address">
+        <source>Delivery address</source>
+        <target>crwdns229028:0crwdne229028:0</target>
+        <note>key: content_fields.profiledata.delivery.address</note>
+      </trans-unit>
+      <trans-unit id="4ce4c0391c643de8b478ab0241962b7e247917e7" resname="content_fields.profiledata.last.update.from.erp">
+        <source>Last update from ERP</source>
+        <target>crwdns229030:0crwdne229030:0</target>
+        <note>key: content_fields.profiledata.last.update.from.erp</note>
+      </trans-unit>
+      <trans-unit id="db0123c3544e56444bf1021ed883bc7da7355826" resname="content_fields.profiledata.shipcode">
+        <source>Shipcode</source>
+        <target>crwdns229032:0crwdne229032:0</target>
+        <note>key: content_fields.profiledata.shipcode</note>
       </trans-unit>
       <trans-unit id="504e4aac02df95776d8241faa64c794406da03c6" resname="create_delivery_address_intro_text">
         <source>Please fill out the form to create a new delivery address.</source>
@@ -2350,6 +2385,56 @@
         <source>Hours</source>
         <target>crwdns226116:0crwdne226116:0</target>
         <note>key: hours</note>
+      </trans-unit>
+      <trans-unit id="4efe2fe55f600d3f4f371aa0d02dfda50f285bda" resname="import_export.download_price.button">
+        <source>Download prices</source>
+        <target>crwdns229034:0crwdne229034:0</target>
+        <note>key: import_export.download_price.button</note>
+      </trans-unit>
+      <trans-unit id="92e4fc275a2924b5a6cb3f1cf6b14583e894718d" resname="import_export.download_stock.button">
+        <source>Download stock</source>
+        <target>crwdns229036:0crwdne229036:0</target>
+        <note>key: import_export.download_stock.button</note>
+      </trans-unit>
+      <trans-unit id="1c4f84911c3484cc227ec130b6b1111dd6fe5ce7" resname="import_export.search.button">
+        <source>Search</source>
+        <target>crwdns229038:0crwdne229038:0</target>
+        <note>key: import_export.search.button</note>
+      </trans-unit>
+      <trans-unit id="d0a9dc00b98d9a28d9620f61ad4a1968a1daa200" resname="import_export.upload.file">
+        <source>Upload file</source>
+        <target>crwdns229040:0crwdne229040:0</target>
+        <note>key: import_export.upload.file</note>
+      </trans-unit>
+      <trans-unit id="4293a143ead93d63181697ff77b22224d71e613d" resname="import_export.upload.info">
+        <source>Select a CSV file to import</source>
+        <target>crwdns229042:0crwdne229042:0</target>
+        <note>key: import_export.upload.info</note>
+      </trans-unit>
+      <trans-unit id="6714ddf2d068d5c816e9de2e6bc357d877a7c578" resname="import_export.upload.note">
+        <source>Note: It might take some time until the CSV file has been imported.</source>
+        <target>crwdns229044:0crwdne229044:0</target>
+        <note>key: import_export.upload.note</note>
+      </trans-unit>
+      <trans-unit id="08085ebe18a266bb43a80fb7a39656ee074d4374" resname="import_export.upload_price.button">
+        <source>Upload prices</source>
+        <target>crwdns229046:0crwdne229046:0</target>
+        <note>key: import_export.upload_price.button</note>
+      </trans-unit>
+      <trans-unit id="f28c451c8cbdfff329b23ebf7fcae5e5ee45c7d7" resname="import_export.upload_price.title">
+        <source>Upload new price list</source>
+        <target>crwdns229048:0crwdne229048:0</target>
+        <note>key: import_export.upload_price.title</note>
+      </trans-unit>
+      <trans-unit id="4d7b48745842e85bb036c0b8a7b115e6b063ffbb" resname="import_export.upload_stock.button">
+        <source>Upload stock</source>
+        <target>crwdns229050:0crwdne229050:0</target>
+        <note>key: import_export.upload_stock.button</note>
+      </trans-unit>
+      <trans-unit id="0801784c9fa26bcff82bc9d3e886ec656dad36e3" resname="import_export.upload_stock.title">
+        <source>Upload new stock list</source>
+        <target>crwdns229052:0crwdne229052:0</target>
+        <note>key: import_export.upload_stock.title</note>
       </trans-unit>
       <trans-unit id="fdb6e1bfedc82b77216a18760f68a9350241bdb0" resname="info.current_customer_data">
         <source>Current customer information after delegate</source>
@@ -2460,6 +2545,11 @@
         <source>Ordered / received on</source>
         <target>crwdns226164:0crwdne226164:0</target>
         <note>key: label.ordered_or_received_at</note>
+      </trans-unit>
+      <trans-unit id="a234b1914e41f44b0d1452efe05293913b681704" resname="label.price_stock_tab">
+        <source>eCommerce</source>
+        <target>crwdns229054:0crwdne229054:0</target>
+        <note>key: label.price_stock_tab</note>
       </trans-unit>
       <trans-unit id="2a1377423302b0d34c6223cd4f023389c4507c5a" resname="label.pricetoggle">
         <source>Toggle prices</source>
@@ -2806,6 +2896,41 @@
         <target>crwdns226318:0crwdne226318:0</target>
         <note>key: previous</note>
       </trans-unit>
+      <trans-unit id="5960d500d74c4f539d30c8a6d23f7b781ac34fee" resname="price_management.add_price">
+        <source>Add price</source>
+        <target>crwdns229056:0crwdne229056:0</target>
+        <note>key: price_management.add_price</note>
+      </trans-unit>
+      <trans-unit id="827e0c73b985d0d1c73c918753475d588adf3e6a" resname="price_management.base_price">
+        <source>Base price</source>
+        <target>crwdns229058:0crwdne229058:0</target>
+        <note>key: price_management.base_price</note>
+      </trans-unit>
+      <trans-unit id="ebd2a49d04aa9f85526914138446a3a74d341035" resname="price_management.customer_group">
+        <source>Customer group</source>
+        <target>crwdns229060:0crwdne229060:0</target>
+        <note>key: price_management.customer_group</note>
+      </trans-unit>
+      <trans-unit id="12a68ad36a50e95a745fe6deeb28b3dbd6cb8541" resname="price_management.delete_price.button">
+        <source>Delete price</source>
+        <target>crwdns229062:0crwdne229062:0</target>
+        <note>key: price_management.delete_price.button</note>
+      </trans-unit>
+      <trans-unit id="42b96d2ed0ac4fcbc81b3cbde87ad32a2651aa4d" resname="price_management.offer_price">
+        <source>Offer price</source>
+        <target>crwdns229064:0crwdne229064:0</target>
+        <note>key: price_management.offer_price</note>
+      </trans-unit>
+      <trans-unit id="8c61cfa34565ff704950cc228bee5b98e700d156" resname="price_management.save">
+        <source>Save</source>
+        <target>crwdns229066:0crwdne229066:0</target>
+        <note>key: price_management.save</note>
+      </trans-unit>
+      <trans-unit id="7e9100796092cda3d8b24a610e0c786d37aa5040" resname="price_management.sku">
+        <source>SKU</source>
+        <target>crwdns229068:0crwdne229068:0</target>
+        <note>key: price_management.sku</note>
+      </trans-unit>
       <trans-unit id="49d53daa0498e9b68995714269155bc3a3290631" resname="quickorder_introtext">
         <source>quickorder_introtext</source>
         <target>crwdns226320:0crwdne226320:0</target>
@@ -2836,6 +2961,61 @@
         <target>crwdns226330:0crwdne226330:0</target>
         <note>key: send commercial register document per email</note>
       </trans-unit>
+      <trans-unit id="b7d3f8c2a60e3713da7740c9740d2cb2f8da5e3b" resname="shipping.save">
+        <source>Save</source>
+        <target>crwdns229070:0crwdne229070:0</target>
+        <note>key: shipping.save</note>
+      </trans-unit>
+      <trans-unit id="662fdb1f211d6dbec0e6d2444e14ace35ac46510" resname="shipping.table.country">
+        <source>Country</source>
+        <target>crwdns229072:0crwdne229072:0</target>
+        <note>key: shipping.table.country</note>
+      </trans-unit>
+      <trans-unit id="aa2451fd509c97bfca37096f01bed28adf18ca40" resname="shipping.table.currency">
+        <source>Currency</source>
+        <target>crwdns229074:0crwdne229074:0</target>
+        <note>key: shipping.table.currency</note>
+      </trans-unit>
+      <trans-unit id="eee8f9c5621f395e0f646cb9104a660af7960b9e" resname="shipping.table.shipping_cost">
+        <source>Shipping cost</source>
+        <target>crwdns229076:0crwdne229076:0</target>
+        <note>key: shipping.table.shipping_cost</note>
+      </trans-unit>
+      <trans-unit id="8c74ef667f8b8d3c9d4196fb096ca7b707911fc2" resname="shipping.table.shipping_method">
+        <source>Shipping method</source>
+        <target>crwdns229078:0crwdne229078:0</target>
+        <note>key: shipping.table.shipping_method</note>
+      </trans-unit>
+      <trans-unit id="862f234b4891a5491553c5f3e7ed0154a425d49e" resname="shipping.table.state">
+        <source>State</source>
+        <target>crwdns229080:0crwdne229080:0</target>
+        <note>key: shipping.table.state</note>
+      </trans-unit>
+      <trans-unit id="c8fb7152c064c2597b7c551d76279520041a5d09" resname="shipping.table.title">
+        <source>Manage shipping costs</source>
+        <target>crwdns229082:0crwdne229082:0</target>
+        <note>key: shipping.table.title</note>
+      </trans-unit>
+      <trans-unit id="29385a6c82a9d3ab9759aad1565bc9bdd3e38f9e" resname="shipping.table.value">
+        <source>Value of goods</source>
+        <target>crwdns229084:0crwdne229084:0</target>
+        <note>key: shipping.table.value</note>
+      </trans-unit>
+      <trans-unit id="77b74c11e52aea191d71dca583c6c66a5b3843f7" resname="shipping.table.zip">
+        <source>ZIP</source>
+        <target>crwdns229086:0crwdne229086:0</target>
+        <note>key: shipping.table.zip</note>
+      </trans-unit>
+      <trans-unit id="86ce7e2c45b3d6a4bfcb5bfe18a2ab450c872aff" resname="shipping_management.add_shipping">
+        <source>Add</source>
+        <target>crwdns229088:0crwdne229088:0</target>
+        <note>key: shipping_management.add_shipping</note>
+      </trans-unit>
+      <trans-unit id="a75dc4c2145855dd0841a5da02bf3714e6605d4e" resname="shipping_management.delete_shippment.button">
+        <source>Delete</source>
+        <target>crwdns229090:0crwdne229090:0</target>
+        <note>key: shipping_management.delete_shippment.button</note>
+      </trans-unit>
       <trans-unit id="d2765262c00772a23e9e1e7e4f3648da01eb06ab" resname="show_facets|search">
         <source>Show facets</source>
         <target>crwdns226334:0crwdne226334:0</target>
@@ -2850,11 +3030,6 @@
         <source>show more facets</source>
         <target>crwdns226338:0crwdne226338:0</target>
         <note>key: show_more_facets|search</note>
-      </trans-unit>
-      <trans-unit id="15cc91cd77af901e6130bce5ccb695b185fd064a" resname="Ibexa Commerce translation system">
-        <source>Ibexa Commerce translation system</source>
-        <target>crwdns228938:0crwdne228938:0</target>
-        <note>key: Ibexa Commerce translation system</note>
       </trans-unit>
       <trans-unit id="4d541daf696224539f5c4b99411e177d503f36e0" resname="silversolutions_delegate|breadcrumb">
         <source>Delegate</source>
@@ -2885,6 +3060,26 @@
         <source>Delegate finished</source>
         <target>crwdns226352:0crwdne226352:0</target>
         <note>key: silversolutions_undelegate|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="231b0beb563e4e61f1608a88a4597f4ef262dfb3" resname="stock_management.on_stock">
+        <source>On stock</source>
+        <target>crwdns229092:0crwdne229092:0</target>
+        <note>key: stock_management.on_stock</note>
+      </trans-unit>
+      <trans-unit id="c647ca835347673e015c0fa527ba0a40bf7946f7" resname="stock_management.save">
+        <source>Save</source>
+        <target>crwdns229094:0crwdne229094:0</target>
+        <note>key: stock_management.save</note>
+      </trans-unit>
+      <trans-unit id="17aa5eb3fb62622b7e00d4f9bf7a84512307c79f" resname="stock_management.sku">
+        <source>SKU</source>
+        <target>crwdns229096:0crwdne229096:0</target>
+        <note>key: stock_management.sku</note>
+      </trans-unit>
+      <trans-unit id="b61bd861b86f97b578af8a4ba46c57567fc397f3" resname="stock_management.stock_text">
+        <source>Stock text</source>
+        <target>crwdns229098:0crwdne229098:0</target>
+        <note>key: stock_management.stock_text</note>
       </trans-unit>
       <trans-unit id="b7304ae7d712baa91b98553f04ef7957863a9a3f" resname="stored_baskets_empty">
         <source>You have no stored baskets</source>
