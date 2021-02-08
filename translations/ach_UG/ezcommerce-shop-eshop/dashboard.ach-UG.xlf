@@ -41,6 +41,11 @@
         <target>crwdns224774:0crwdne224774:0</target>
         <note>key: Functions</note>
       </trans-unit>
+      <trans-unit id="2e0d65263a65f90955cb08b0e357647ef3cf3eaf" resname="Ibexa Commerce - Lost orders">
+        <source>Ibexa Commerce - Lost orders</source>
+        <target>crwdns229002:0crwdne229002:0</target>
+        <note>key: Ibexa Commerce - Lost orders</note>
+      </trans-unit>
       <trans-unit id="474ae52625b87d7628ae7b20a499329a99e07119" resname="Id">
         <source>Id</source>
         <target>crwdns224776:0crwdne224776:0</target>
@@ -105,11 +110,6 @@
         <source>Rate and Review Panel</source>
         <target>crwdns224800:0crwdne224800:0</target>
         <note>key: label.rate_review</note>
-      </trans-unit>
-      <trans-unit id="2baa1cf797221e9506faebda71a359d96cbf0995" resname="Ibexa Commerce - Lost orders">
-        <source>Ibexa Commerce - Lost orders</source>
-        <target>crwdns228934:0crwdne228934:0</target>
-        <note>key: Ibexa Commerce - Lost orders</note>
       </trans-unit>
       <trans-unit id="896d2b9422e01439ab85c2c8af8885b77fb9c401" resname="text.copy_clipboard">
         <source>Copy Ctrl-V (Paste) in your application in order to insert the order lines</source>
