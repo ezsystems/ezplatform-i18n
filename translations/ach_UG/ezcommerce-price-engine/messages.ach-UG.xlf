@@ -51,11 +51,6 @@
         <target>crwdns224318:0crwdne224318:0</target>
         <note>key: Price and stock management</note>
       </trans-unit>
-      <trans-unit id="8d0a68d236f2446d4deeeae46f00d77f8b6236bd" resname="message.no_prices_given">
-        <source>No prices given</source>
-        <target>crwdns224320:0crwdne224320:0</target>
-        <note>key: message.no_prices_given</note>
-      </trans-unit>
       <trans-unit id="70ebe9c865ca3d6beb2eeb14e6d05429fc3ed4e0" resname="message.product_not_found">
         <source>Product not found</source>
         <target>crwdns224322:0crwdne224322:0</target>
