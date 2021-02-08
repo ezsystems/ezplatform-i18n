@@ -6,10 +6,40 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="14bf2f86fe3ff46636bfc648aba65c4ea4284881" resname="Basket with ID: %basketId% not found">
+        <source>Basket with ID: %basketId% not found</source>
+        <target>crwdns228970:0%basketId%crwdne228970:0</target>
+        <note>key: Basket with ID: %basketId% not found</note>
+      </trans-unit>
+      <trans-unit id="b56631bc8890459851f4998909f97b253a715c89" resname="Cockpit">
+        <source>Cockpit</source>
+        <target>crwdns228972:0crwdne228972:0</target>
+        <note>key: Cockpit</note>
+      </trans-unit>
       <trans-unit id="817971873a6ee985fdba4953592bc9f617c46dbb" resname="Control center">
         <source>Control center</source>
         <target>crwdns223902:0crwdne223902:0</target>
         <note>key: Control center</note>
+      </trans-unit>
+      <trans-unit id="11470e24a23c56cc3afe507f757b425a1867eea7" resname="Error for basket %basketId%: %error%">
+        <source>Error for basket %basketId%: %error%</source>
+        <target>crwdns228974:0%basketId%crwdnd228974:0%error%crwdne228974:0</target>
+        <note>key: Error for basket %basketId%: %error%</note>
+      </trans-unit>
+      <trans-unit id="9d2a9f0a31db1c658c1c486cdbe3ff84da6e1f3a" resname="Order for basket: %basketId% has been deleted successfully.">
+        <source>Order for basket: %basketId% has been deleted successfully.</source>
+        <target>crwdns228976:0%basketId%crwdne228976:0</target>
+        <note>key: Order for basket: %basketId% has been deleted successfully.</note>
+      </trans-unit>
+      <trans-unit id="c95b4a4292a043e6e35b17abe3083e1a51c74b60" resname="Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%">
+        <source>Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</source>
+        <target>crwdns228978:0%basketId%crwdnd228978:0%orderId%crwdne228978:0</target>
+        <note>key: Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</note>
+      </trans-unit>
+      <trans-unit id="df84747dfab1a2d359641c7790d1d64e11f1fe42" resname="Price and stock management">
+        <source>Price and stock management</source>
+        <target>crwdns228980:0crwdne228980:0</target>
+        <note>key: Price and stock management</note>
       </trans-unit>
       <trans-unit id="5392f37b938a3fec5bc6fc366cdbd759343f07cb" resname="code.120_complete">
         <source>Request BEFORE mapping.</source>
@@ -41,76 +71,6 @@
         <target>crwdns223914:0crwdne223914:0</target>
         <note>key: code.280_complete</note>
       </trans-unit>
-      <trans-unit id="495fb695907565cb3f7e0cd10fbbc3da9be1bdb2" resname="configuration_settings.field.array.input.placeholder">
-        <source>Input Values</source>
-        <target>crwdns223916:0crwdne223916:0</target>
-        <note>key: configuration_settings.field.array.input.placeholder</note>
-      </trans-unit>
-      <trans-unit id="87af5170681c287871bea043cb7f875ade55bf45" resname="configuration_settings.field.array.option.remote">
-        <source>Prices from ERP</source>
-        <target>crwdns223918:0crwdne223918:0</target>
-        <note>key: configuration_settings.field.array.option.remote</note>
-      </trans-unit>
-      <trans-unit id="1656ee3381ce4e8b749f1a311282901935d8f221" resname="configuration_settings.field.array.option.shop">
-        <source>Local price engine</source>
-        <target>crwdns223920:0crwdne223920:0</target>
-        <note>key: configuration_settings.field.array.option.shop</note>
-      </trans-unit>
-      <trans-unit id="9f25f7e3ba97910fb4e06611759890de9f3bf566" resname="content_fields.external_data.data.label">
-        <source>Data</source>
-        <target>crwdns223922:0crwdne223922:0</target>
-        <note>key: content_fields.external_data.data.label</note>
-      </trans-unit>
-      <trans-unit id="5e510f0b551154eb57374d24fd68bc6731761d24" resname="content_fields.external_data.name.label">
-        <source>Name</source>
-        <target>crwdns223924:0crwdne223924:0</target>
-        <note>key: content_fields.external_data.name.label</note>
-      </trans-unit>
-      <trans-unit id="51a13a0e7d46a0701faf6c82fd9a4d9a1cbc96bb" resname="content_fields.ezvariants.code.label">
-        <source>Code</source>
-        <target>crwdns223926:0crwdne223926:0</target>
-        <note>key: content_fields.ezvariants.code.label</note>
-      </trans-unit>
-      <trans-unit id="3bb45705764c6716e7b303e0e9667d5db526484b" resname="content_fields.ezvariants.description.label">
-        <source>Description</source>
-        <target>crwdns223928:0crwdne223928:0</target>
-        <note>key: content_fields.ezvariants.description.label</note>
-      </trans-unit>
-      <trans-unit id="d45be4130e225d810408799fcbe1a658f940529e" resname="content_fields.ezvariants.sku.label">
-        <source>SKU</source>
-        <target>crwdns223930:0crwdne223930:0</target>
-        <note>key: content_fields.ezvariants.sku.label</note>
-      </trans-unit>
-      <trans-unit id="609465968221bdb7f745d27f780055b83e5c0016" resname="content_fields.profiledata.add.attributes.from.erp">
-        <source>Add. attributes from ERP</source>
-        <target>crwdns223932:0crwdne223932:0</target>
-        <note>key: content_fields.profiledata.add.attributes.from.erp</note>
-      </trans-unit>
-      <trans-unit id="46c7869611c9b47c94229088ac88b8090c003b89" resname="content_fields.profiledata.buyer.address">
-        <source>Buyer address</source>
-        <target>crwdns223934:0crwdne223934:0</target>
-        <note>key: content_fields.profiledata.buyer.address</note>
-      </trans-unit>
-      <trans-unit id="073ae0118c2481f2003d285202561b5244ee5953" resname="content_fields.profiledata.customer.number">
-        <source>Customer number</source>
-        <target>crwdns223936:0crwdne223936:0</target>
-        <note>key: content_fields.profiledata.customer.number</note>
-      </trans-unit>
-      <trans-unit id="3fe4185b033c2e80f57dec8f5742c843d813a2ec" resname="content_fields.profiledata.delivery.address">
-        <source>Delivery address</source>
-        <target>crwdns223938:0crwdne223938:0</target>
-        <note>key: content_fields.profiledata.delivery.address</note>
-      </trans-unit>
-      <trans-unit id="4ce4c0391c643de8b478ab0241962b7e247917e7" resname="content_fields.profiledata.last.update.from.erp">
-        <source>Last update from ERP</source>
-        <target>crwdns223940:0crwdne223940:0</target>
-        <note>key: content_fields.profiledata.last.update.from.erp</note>
-      </trans-unit>
-      <trans-unit id="db0123c3544e56444bf1021ed883bc7da7355826" resname="content_fields.profiledata.shipcode">
-        <source>Shipcode</source>
-        <target>crwdns223942:0crwdne223942:0</target>
-        <note>key: content_fields.profiledata.shipcode</note>
-      </trans-unit>
       <trans-unit id="74a0a1f1378464d065954caae7ce69feb20bad8e" resname="field_type.add_variant">
         <source>Add variant</source>
         <target>crwdns223944:0crwdne223944:0</target>
@@ -120,61 +80,6 @@
         <source>Remove variant</source>
         <target>crwdns223946:0crwdne223946:0</target>
         <note>key: field_types.variants.button.trash</note>
-      </trans-unit>
-      <trans-unit id="4efe2fe55f600d3f4f371aa0d02dfda50f285bda" resname="import_export.download_price.button">
-        <source>Download prices</source>
-        <target>crwdns223948:0crwdne223948:0</target>
-        <note>key: import_export.download_price.button</note>
-      </trans-unit>
-      <trans-unit id="92e4fc275a2924b5a6cb3f1cf6b14583e894718d" resname="import_export.download_stock.button">
-        <source>Download stock</source>
-        <target>crwdns223950:0crwdne223950:0</target>
-        <note>key: import_export.download_stock.button</note>
-      </trans-unit>
-      <trans-unit id="1c4f84911c3484cc227ec130b6b1111dd6fe5ce7" resname="import_export.search.button">
-        <source>Search</source>
-        <target>crwdns223952:0crwdne223952:0</target>
-        <note>key: import_export.search.button</note>
-      </trans-unit>
-      <trans-unit id="d0a9dc00b98d9a28d9620f61ad4a1968a1daa200" resname="import_export.upload.file">
-        <source>Upload file</source>
-        <target>crwdns223954:0crwdne223954:0</target>
-        <note>key: import_export.upload.file</note>
-      </trans-unit>
-      <trans-unit id="4293a143ead93d63181697ff77b22224d71e613d" resname="import_export.upload.info">
-        <source>Select a CSV file to import</source>
-        <target>crwdns223956:0crwdne223956:0</target>
-        <note>key: import_export.upload.info</note>
-      </trans-unit>
-      <trans-unit id="6714ddf2d068d5c816e9de2e6bc357d877a7c578" resname="import_export.upload.note">
-        <source>Note: It might take some time until the CSV file has been imported.</source>
-        <target>crwdns223958:0crwdne223958:0</target>
-        <note>key: import_export.upload.note</note>
-      </trans-unit>
-      <trans-unit id="08085ebe18a266bb43a80fb7a39656ee074d4374" resname="import_export.upload_price.button">
-        <source>Upload prices</source>
-        <target>crwdns223960:0crwdne223960:0</target>
-        <note>key: import_export.upload_price.button</note>
-      </trans-unit>
-      <trans-unit id="f28c451c8cbdfff329b23ebf7fcae5e5ee45c7d7" resname="import_export.upload_price.title">
-        <source>Upload new price list</source>
-        <target>crwdns223962:0crwdne223962:0</target>
-        <note>key: import_export.upload_price.title</note>
-      </trans-unit>
-      <trans-unit id="4d7b48745842e85bb036c0b8a7b115e6b063ffbb" resname="import_export.upload_stock.button">
-        <source>Upload stock</source>
-        <target>crwdns223964:0crwdne223964:0</target>
-        <note>key: import_export.upload_stock.button</note>
-      </trans-unit>
-      <trans-unit id="0801784c9fa26bcff82bc9d3e886ec656dad36e3" resname="import_export.upload_stock.title">
-        <source>Upload new stock list</source>
-        <target>crwdns223966:0crwdne223966:0</target>
-        <note>key: import_export.upload_stock.title</note>
-      </trans-unit>
-      <trans-unit id="a234b1914e41f44b0d1452efe05293913b681704" resname="label.price_stock_tab">
-        <source>eCommerce</source>
-        <target>crwdns223968:0crwdne223968:0</target>
-        <note>key: label.price_stock_tab</note>
       </trans-unit>
       <trans-unit id="9c6d51b72da01a6f73c4493275e770f739a2aec6" resname="modal.button.close">
         <source>Close</source>
@@ -200,41 +105,6 @@
         <source>Stock for %products% products imported successfully</source>
         <target>crwdns223978:0%products%crwdne223978:0</target>
         <note>key: msg.stock_upload_success</note>
-      </trans-unit>
-      <trans-unit id="5960d500d74c4f539d30c8a6d23f7b781ac34fee" resname="price_management.add_price">
-        <source>Add price</source>
-        <target>crwdns223980:0crwdne223980:0</target>
-        <note>key: price_management.add_price</note>
-      </trans-unit>
-      <trans-unit id="827e0c73b985d0d1c73c918753475d588adf3e6a" resname="price_management.base_price">
-        <source>Base price</source>
-        <target>crwdns223982:0crwdne223982:0</target>
-        <note>key: price_management.base_price</note>
-      </trans-unit>
-      <trans-unit id="ebd2a49d04aa9f85526914138446a3a74d341035" resname="price_management.customer_group">
-        <source>Customer group</source>
-        <target>crwdns223984:0crwdne223984:0</target>
-        <note>key: price_management.customer_group</note>
-      </trans-unit>
-      <trans-unit id="12a68ad36a50e95a745fe6deeb28b3dbd6cb8541" resname="price_management.delete_price.button">
-        <source>Delete price</source>
-        <target>crwdns223986:0crwdne223986:0</target>
-        <note>key: price_management.delete_price.button</note>
-      </trans-unit>
-      <trans-unit id="42b96d2ed0ac4fcbc81b3cbde87ad32a2651aa4d" resname="price_management.offer_price">
-        <source>Offer price</source>
-        <target>crwdns223988:0crwdne223988:0</target>
-        <note>key: price_management.offer_price</note>
-      </trans-unit>
-      <trans-unit id="8c61cfa34565ff704950cc228bee5b98e700d156" resname="price_management.save">
-        <source>Save</source>
-        <target>crwdns223990:0crwdne223990:0</target>
-        <note>key: price_management.save</note>
-      </trans-unit>
-      <trans-unit id="7e9100796092cda3d8b24a610e0c786d37aa5040" resname="price_management.sku">
-        <source>SKU</source>
-        <target>crwdns223992:0crwdne223992:0</target>
-        <note>key: price_management.sku</note>
       </trans-unit>
       <trans-unit id="7e3555fc949d9bfd1047e8fdb99609b49b4c7829" resname="profile.data.address.add.new.address">
         <source>Add a new Address</source>
@@ -305,81 +175,6 @@
         <source>Remove address</source>
         <target>crwdns224020:0crwdne224020:0</target>
         <note>key: profile.data.button.trash</note>
-      </trans-unit>
-      <trans-unit id="b7d3f8c2a60e3713da7740c9740d2cb2f8da5e3b" resname="shipping.save">
-        <source>Save</source>
-        <target>crwdns224022:0crwdne224022:0</target>
-        <note>key: shipping.save</note>
-      </trans-unit>
-      <trans-unit id="662fdb1f211d6dbec0e6d2444e14ace35ac46510" resname="shipping.table.country">
-        <source>Country</source>
-        <target>crwdns224024:0crwdne224024:0</target>
-        <note>key: shipping.table.country</note>
-      </trans-unit>
-      <trans-unit id="aa2451fd509c97bfca37096f01bed28adf18ca40" resname="shipping.table.currency">
-        <source>Currency</source>
-        <target>crwdns224026:0crwdne224026:0</target>
-        <note>key: shipping.table.currency</note>
-      </trans-unit>
-      <trans-unit id="eee8f9c5621f395e0f646cb9104a660af7960b9e" resname="shipping.table.shipping_cost">
-        <source>Shipping cost</source>
-        <target>crwdns224028:0crwdne224028:0</target>
-        <note>key: shipping.table.shipping_cost</note>
-      </trans-unit>
-      <trans-unit id="8c74ef667f8b8d3c9d4196fb096ca7b707911fc2" resname="shipping.table.shipping_method">
-        <source>Shipping method</source>
-        <target>crwdns224030:0crwdne224030:0</target>
-        <note>key: shipping.table.shipping_method</note>
-      </trans-unit>
-      <trans-unit id="862f234b4891a5491553c5f3e7ed0154a425d49e" resname="shipping.table.state">
-        <source>State</source>
-        <target>crwdns224032:0crwdne224032:0</target>
-        <note>key: shipping.table.state</note>
-      </trans-unit>
-      <trans-unit id="c8fb7152c064c2597b7c551d76279520041a5d09" resname="shipping.table.title">
-        <source>Manage shipping costs</source>
-        <target>crwdns224034:0crwdne224034:0</target>
-        <note>key: shipping.table.title</note>
-      </trans-unit>
-      <trans-unit id="29385a6c82a9d3ab9759aad1565bc9bdd3e38f9e" resname="shipping.table.value">
-        <source>Value of goods</source>
-        <target>crwdns224036:0crwdne224036:0</target>
-        <note>key: shipping.table.value</note>
-      </trans-unit>
-      <trans-unit id="77b74c11e52aea191d71dca583c6c66a5b3843f7" resname="shipping.table.zip">
-        <source>ZIP</source>
-        <target>crwdns224038:0crwdne224038:0</target>
-        <note>key: shipping.table.zip</note>
-      </trans-unit>
-      <trans-unit id="86ce7e2c45b3d6a4bfcb5bfe18a2ab450c872aff" resname="shipping_management.add_shipping">
-        <source>Add</source>
-        <target>crwdns224040:0crwdne224040:0</target>
-        <note>key: shipping_management.add_shipping</note>
-      </trans-unit>
-      <trans-unit id="a75dc4c2145855dd0841a5da02bf3714e6605d4e" resname="shipping_management.delete_shippment.button">
-        <source>Delete</source>
-        <target>crwdns224042:0crwdne224042:0</target>
-        <note>key: shipping_management.delete_shippment.button</note>
-      </trans-unit>
-      <trans-unit id="231b0beb563e4e61f1608a88a4597f4ef262dfb3" resname="stock_management.on_stock">
-        <source>On stock</source>
-        <target>crwdns224044:0crwdne224044:0</target>
-        <note>key: stock_management.on_stock</note>
-      </trans-unit>
-      <trans-unit id="c647ca835347673e015c0fa527ba0a40bf7946f7" resname="stock_management.save">
-        <source>Save</source>
-        <target>crwdns224046:0crwdne224046:0</target>
-        <note>key: stock_management.save</note>
-      </trans-unit>
-      <trans-unit id="17aa5eb3fb62622b7e00d4f9bf7a84512307c79f" resname="stock_management.sku">
-        <source>SKU</source>
-        <target>crwdns224048:0crwdne224048:0</target>
-        <note>key: stock_management.sku</note>
-      </trans-unit>
-      <trans-unit id="b61bd861b86f97b578af8a4ba46c57567fc397f3" resname="stock_management.stock_text">
-        <source>Stock text</source>
-        <target>crwdns224050:0crwdne224050:0</target>
-        <note>key: stock_management.stock_text</note>
       </trans-unit>
     </body>
   </file>
