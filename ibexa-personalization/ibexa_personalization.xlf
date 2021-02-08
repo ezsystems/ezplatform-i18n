@@ -22,8 +22,8 @@
         <note>key: activation_status.form.terms_and_conditions</note>
       </trans-unit>
       <trans-unit id="34d07778b55d6b05956f292eb8360bd4429750f3" resname="breadcrumb.import">
-        <source>Import/Export</source>
-        <target state="new">Import/Export</target>
+        <source>Import</source>
+        <target state="new">Import</target>
         <note>key: breadcrumb.import</note>
       </trans-unit>
       <trans-unit id="3e47cf979e591e5f0d01b92930499bd204da235d" resname="breadcrumb.models">
@@ -66,6 +66,11 @@
         <target state="new">Events collected</target>
         <note>key: dashboard.summary.events_collected</note>
       </trans-unit>
+      <trans-unit id="fa5d338931ac1946b90dc9604feec22256fe6dad" resname="dashboard.summary.full_import">
+        <source>Full import %date%</source>
+        <target state="new">Full import %date%</target>
+        <note>key: dashboard.summary.full_import</note>
+      </trans-unit>
       <trans-unit id="20373ac77794caa405815020e8ced517324720fe" resname="dashboard.summary.imported_items">
         <source>Imported items</source>
         <target state="new">Imported items</target>
@@ -76,11 +81,6 @@
         <target state="new">Last 30 days</target>
         <note>key: dashboard.summary.last_30_days</note>
       </trans-unit>
-      <trans-unit id="feb82fd772697b433522e5fc67aa4b04f00a434f" resname="dashboard.summary.last_update">
-        <source>Last update %date%</source>
-        <target state="new">Last update %date%</target>
-        <note>key: dashboard.summary.last_update</note>
-      </trans-unit>
       <trans-unit id="4fce840cb6ca00c22cd101fa83b2aca386cc37ef" resname="dashboard.summary.previous_month">
         <source>Previous month %value%</source>
         <target state="new">Previous month %value%</target>
@@ -90,11 +90,6 @@
         <source>Recommendation calls</source>
         <target state="new">Recommendation calls</target>
         <note>key: dashboard.summary.recommendation_calls</note>
-      </trans-unit>
-      <trans-unit id="3a034ee07549d185d4d8395f8edba9db97358b41" resname="edit.scenario.strategies">
-        <source>Strategies</source>
-        <target state="new">Strategies</target>
-        <note>key: edit.scenario.strategies</note>
       </trans-unit>
       <trans-unit id="317058113941ff04b87fb62ef09b7e9275875243" resname="ibexa_personalization.dashboard.date_of_purchase">
         <source>Date of purchase</source>
@@ -142,9 +137,14 @@
         <note>key: ibexa_personalization.date_time_range.last_month</note>
       </trans-unit>
       <trans-unit id="62fdfbd55d19b2a4671102ad7bca17d875f8207a" resname="import">
-        <source>Import/Export</source>
-        <target state="new">Import/Export</target>
+        <source>Import</source>
+        <target state="new">Import</target>
         <note>key: import</note>
+      </trans-unit>
+      <trans-unit id="2252bad82d97ae974718ebfd0210c8de13355ca9" resname="import.full_import">
+        <source>Full import</source>
+        <target state="new">Full import</target>
+        <note>key: import.full_import</note>
       </trans-unit>
       <trans-unit id="93f7f60494a8ca773d68bcf3d2208c6b84caf741" resname="import.imported_items">
         <source>Imported items</source>
@@ -166,10 +166,10 @@
         <target state="new">Language</target>
         <note>key: import.language</note>
       </trans-unit>
-      <trans-unit id="5ed492920853d62272f044a731b64dffb486c73e" resname="import.last_update">
-        <source>Last update</source>
-        <target state="new">Last update</target>
-        <note>key: import.last_update</note>
+      <trans-unit id="259839e6315c4cd7ef4c8e08f0488f11b2041b04" resname="import.no_items_imported">
+        <source>No items imported</source>
+        <target state="new">No items imported</target>
+        <note>key: import.no_items_imported</note>
       </trans-unit>
       <trans-unit id="032c3d291f2747bd18c632161b4c5c8c942d0ee0" resname="import.table_title">
         <source>Imported items</source>
@@ -276,6 +276,11 @@
         <target state="new">Save and close</target>
         <note>key: model.edit.save_close</note>
       </trans-unit>
+      <trans-unit id="c6c09cc40d11ab92207f295720712bf55f19087b" resname="model.edit_short">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>key: model.edit_short</note>
+      </trans-unit>
       <trans-unit id="558afbc4b7a65ced225b4f6a71297b0eef6fd0f3" resname="model.quantifier.custom">
         <source>Custom</source>
         <target state="new">Custom</target>
@@ -295,6 +300,11 @@
         <source>Models</source>
         <target state="new">Models</target>
         <note>key: models</note>
+      </trans-unit>
+      <trans-unit id="3385c6d6e394745e208157c37187d08efa120fbb" resname="models.add_items">
+        <source>Add Items</source>
+        <target state="new">Add Items</target>
+        <note>key: models.add_items</note>
       </trans-unit>
       <trans-unit id="8a5d362f7867c4d490ec24abe1caf6564e3a0db2" resname="models.description.CF_I2Ix">
         <source>User who clicked on this item (article, image, etc.), also clicked on the following items</source>
@@ -1046,10 +1056,20 @@
         <target state="new">No. of items</target>
         <note>key: models.list.no_of_items</note>
       </trans-unit>
+      <trans-unit id="16f4bf5f1c5f525cbc867e8ded51c2266cb98570" resname="models.list.non_operational">
+        <source>non-operational</source>
+        <target state="new">non-operational</target>
+        <note>key: models.list.non_operational</note>
+      </trans-unit>
       <trans-unit id="a87c53879b4215c5b27b7804102a0b73ed3b4c66" resname="models.list.not_active">
         <source>Not Active</source>
         <target state="new">Not Active</target>
         <note>key: models.list.not_active</note>
+      </trans-unit>
+      <trans-unit id="8149f4f61175c36aa7ec261357b788b9365e2828" resname="models.list.operational">
+        <source>operational</source>
+        <target state="new">operational</target>
+        <note>key: models.list.operational</note>
       </trans-unit>
       <trans-unit id="e1e1f20c00f1a8e35feceb56a5721bae3a46b175" resname="models.list.submodel">
         <source>Submodel</source>
@@ -1761,6 +1781,16 @@
         <target state="new">Upheaval ctc</target>
         <note>key: models.name.upheaval_ctc</note>
       </trans-unit>
+      <trans-unit id="e4d4b2e0074f0fa2be41aacaf22da0ef5e01af06" resname="models.no_items_selected">
+        <source>No items selected</source>
+        <target state="new">No items selected</target>
+        <note>key: models.no_items_selected</note>
+      </trans-unit>
+      <trans-unit id="1226b834b9f64457ffa2096e0588f43d699912f7" resname="models.no_models_found">
+        <source>No models found</source>
+        <target state="new">No models found</target>
+        <note>key: models.no_models_found</note>
+      </trans-unit>
       <trans-unit id="dc5f5b272c8ff55115997a3a03566fdcd8de6cf4" resname="models.submodel.add_group">
         <source>Add group</source>
         <target state="new">Add group</target>
@@ -1791,6 +1821,11 @@
         <target state="new">Models (%number_of_models%)</target>
         <note>key: models.table_title</note>
       </trans-unit>
+      <trans-unit id="112232a33b21f504ff84142346bc3159c744ba52" resname="models.udw_title">
+        <source>Select items</source>
+        <target state="new">Select items</target>
+        <note>key: models.udw_title</note>
+      </trans-unit>
       <trans-unit id="957226291e073ca677e6d8832df124c10ca75005" resname="number.format.million_abbreviation">
         <source>M</source>
         <target state="new">M</target>
@@ -1800,6 +1835,11 @@
         <source>K</source>
         <target state="new">K</target>
         <note>key: number.format.thousand_abbreviation</note>
+      </trans-unit>
+      <trans-unit id="2450f91d0471b0d58b2328dbf2a6e8b4e8be3f63" resname="recommendation_engine_is_not_available">
+        <source>Recommendation engine is not available. Please try again later.</source>
+        <target state="new">Recommendation engine is not available. Please try again later.</target>
+        <note>key: recommendation_engine_is_not_available</note>
       </trans-unit>
       <trans-unit id="eb4217fde2a12c79783d63d45ec301ef4f75e193" resname="sceanrio.create">
         <source>Scenario create</source>
@@ -1811,10 +1851,10 @@
         <target state="new">Scenario edit</target>
         <note>key: sceanrio.edit</note>
       </trans-unit>
-      <trans-unit id="c18a2c454342b0373f266beb2a009fe169015741" resname="scenario.add">
+      <trans-unit id="a622e8ae135f0a75929d972bb9e4d15b7775966e" resname="scenario.add_tooltip">
         <source>Add scenario</source>
         <target state="new">Add scenario</target>
-        <note>key: scenario.add</note>
+        <note>key: scenario.add_tooltip</note>
       </trans-unit>
       <trans-unit id="0822a677a1f1f08b54b364856fed6e26c196270c" resname="scenario.commerce_settings.do_not_recommend_if_price_unknown">
         <source>Do not recommend if price unknown</source>
@@ -1846,10 +1886,25 @@
         <target state="new">General</target>
         <note>key: scenario.edit.general</note>
       </trans-unit>
+      <trans-unit id="8298a563f955af99e2518cdc3457641c009211b3" resname="scenario.edit.startegy.models">
+        <source>Models</source>
+        <target state="new">Models</target>
+        <note>key: scenario.edit.startegy.models</note>
+      </trans-unit>
+      <trans-unit id="f1cc5c8c3171ac0d39eb47bccfc540099c5ea56f" resname="scenario.edit.startegy.startegy">
+        <source>Strategy</source>
+        <target state="new">Strategy</target>
+        <note>key: scenario.edit.startegy.startegy</note>
+      </trans-unit>
       <trans-unit id="de9253aa04bc0ab8be4e0851ba3cc12dec3d7487" resname="scenario.edit.strategy">
         <source>Strategy</source>
         <target state="new">Strategy</target>
         <note>key: scenario.edit.strategy</note>
+      </trans-unit>
+      <trans-unit id="42cc1557b7e4cefd98a1be34903f1b81a139bcf8" resname="scenario.fail_safe_models">
+        <source>Fail safe</source>
+        <target state="new">Fail safe</target>
+        <note>key: scenario.fail_safe_models</note>
       </trans-unit>
       <trans-unit id="07d18774e803e0bfc4ef8891b733e24f90d5318b" resname="scenario.identifier">
         <source>Identifier</source>
@@ -1876,6 +1931,11 @@
         <target state="new">No. of calls</target>
         <note>key: scenario.no_of_calls</note>
       </trans-unit>
+      <trans-unit id="0aada337ced6d6927b27360e60e7dab84a46b821" resname="scenario.no_scenarios_found">
+        <source>No scenarios found</source>
+        <target state="new">No scenarios found</target>
+        <note>key: scenario.no_scenarios_found</note>
+      </trans-unit>
       <trans-unit id="d8df16553d118738193650285b6cbf2eeace1a07" resname="scenario.non_operational">
         <source>non-operational</source>
         <target state="new">non-operational</target>
@@ -1890,6 +1950,71 @@
         <source>Output type</source>
         <target state="new">Output type</target>
         <note>key: scenario.output_type</note>
+      </trans-unit>
+      <trans-unit id="107c9129ae6652034044529556da977306ed8f50" resname="scenario.strategy.category_level_and_below">
+        <source>category level(s) and below</source>
+        <target state="new">category level(s) and below</target>
+        <note>key: scenario.strategy.category_level_and_below</note>
+      </trans-unit>
+      <trans-unit id="3dbd0107cf6aa0fa0e3879a67983c54363337740" resname="scenario.strategy.discard">
+        <source>Discard</source>
+        <target state="new">Discard</target>
+        <note>key: scenario.strategy.discard</note>
+      </trans-unit>
+      <trans-unit id="1ccee020b75348f4618bd5c3c6d664751ac85df9" resname="scenario.strategy.fail_safe">
+        <source>Fail-safe</source>
+        <target state="new">Fail-safe</target>
+        <note>key: scenario.strategy.fail_safe</note>
+      </trans-unit>
+      <trans-unit id="49bec5eeb413d40d2553c1db56438d40986f1b13" resname="scenario.strategy.fallback_name">
+        <source>Fall-back</source>
+        <target state="new">Fall-back</target>
+        <note>key: scenario.strategy.fallback_name</note>
+      </trans-unit>
+      <trans-unit id="140981d2f6a8cfed9ffa92ee5386a8f6ea725d1c" resname="scenario.strategy.include_parent_category_and_subcategories">
+        <source>Also include the parent category and its subcategories</source>
+        <target state="new">Also include the parent category and its subcategories</target>
+        <note>key: scenario.strategy.include_parent_category_and_subcategories</note>
+      </trans-unit>
+      <trans-unit id="b5ac7094ba86de6ba7937f4eceb62c3b582697f5" resname="scenario.strategy.levels_up">
+        <source>level(s) up</source>
+        <target state="new">level(s) up</target>
+        <note>key: scenario.strategy.levels_up</note>
+      </trans-unit>
+      <trans-unit id="9126ba347d953620c4df03f9ca32c1313b1f8702" resname="scenario.strategy.primary_models_name">
+        <source>Primary models</source>
+        <target state="new">Primary models</target>
+        <note>key: scenario.strategy.primary_models_name</note>
+      </trans-unit>
+      <trans-unit id="6c7d37f03ac54dc1dae5ce4267f7e28c8b043083" resname="scenario.strategy.recommend_items_from_same_category">
+        <source>Recommend items from the same category</source>
+        <target state="new">Recommend items from the same category</target>
+        <note>key: scenario.strategy.recommend_items_from_same_category</note>
+      </trans-unit>
+      <trans-unit id="87e5d3204107b987171998db73732519da6c0467" resname="scenario.strategy.recommend_items_from_same_main_category_and_subcategories">
+        <source>Recommend items from the same main category and its subcategories</source>
+        <target state="new">Recommend items from the same main category and its subcategories</target>
+        <note>key: scenario.strategy.recommend_items_from_same_main_category_and_subcategories</note>
+      </trans-unit>
+      <trans-unit id="c28ab504e134d797dea65b13e4e3dfb74c6e38e9" resname="scenario.strategy.recommend_items_from_whole_site">
+        <source>Recommend items from the whole site</source>
+        <target state="new">Recommend items from the whole site</target>
+        <note>key: scenario.strategy.recommend_items_from_whole_site</note>
+      </trans-unit>
+      <trans-unit id="8c4cca6eaff42db3e1c8afa8ad54dbf86b20fb64" resname="scenario.strategy.save">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: scenario.strategy.save</note>
+      </trans-unit>
+      <trans-unit id="80dd45134e009a3446f7edd47881b631b1274136" resname="scenario.strategy.ultimately_fail_safe">
+        <source>Ultimately Fail-safe</source>
+        <target state="new">Ultimately Fail-safe</target>
+        <note>key: scenario.strategy.ultimately_fail_safe</note>
+      </trans-unit>
+      <trans-unit id="e898621a4b60709756ebe7975a5a138b33b3495e" resname="scenario.strategy_fall_back">
+        <source>Fall-back models</source>
+        <target state="new">Fall-back models</target>
+        <note>key: scenario.strategy_fall_back</note>
       </trans-unit>
       <trans-unit id="2bccde9b875fb14154bc1dcf1582c4ebd53e9c5c" resname="scenario.strategy_model_context.automatic">
         <source>Automatic</source>
@@ -1930,6 +2055,16 @@
         <source>Rate History</source>
         <target state="new">Rate History</target>
         <note>key: scenario.strategy_model_context.rate_history</note>
+      </trans-unit>
+      <trans-unit id="793cca0d1d52f41c1c94b704661258da220fe9e3" resname="scenario.strategy_primary_models">
+        <source>Primary models</source>
+        <target state="new">Primary models</target>
+        <note>key: scenario.strategy_primary_models</note>
+      </trans-unit>
+      <trans-unit id="3c66f443e1262186fe4a4cc853b50f1da743b6e1" resname="scenario.strategy_ultimately_fail_safe">
+        <source>Ultimately Fail-safe</source>
+        <target state="new">Ultimately Fail-safe</target>
+        <note>key: scenario.strategy_ultimately_fail_safe</note>
       </trans-unit>
       <trans-unit id="1c18b5e05f3859be35785ef62bf6e409c994ad62" resname="scenario.user_profile_settings.boost_item">
         <source>Boost item, if a user has an attribute with the same value</source>
@@ -1986,11 +2121,6 @@
         <target state="new">Save</target>
         <note>key: settings.form.submit</note>
       </trans-unit>
-      <trans-unit id="ded090e61a84f4818e8b882bdbf29cfb16032449" resname="settings.form.submit_and_close">
-        <source>Save and close</source>
-        <target state="new">Save and close</target>
-        <note>key: settings.form.submit_and_close</note>
-      </trans-unit>
       <trans-unit id="4211a967e3d409c7706659ececa942e83ea4475d" resname="welcome.description.leverage_personalization">
         <source>Unified digital experiences can't be supported by data silos. Enrich your customer data by integrating Ibexa Personalization capabilities with existing business systems to boost the power of your personalized customer experiences.</source>
         <target state="new">Unified digital experiences can't be supported by data silos. Enrich your customer data by integrating Ibexa Personalization capabilities with existing business systems to boost the power of your personalized customer experiences.</target>
@@ -2026,10 +2156,25 @@
         <target state="new">Personalize every part of your Customer Experience</target>
         <note>key: welcome.subtitle</note>
       </trans-unit>
-      <trans-unit id="ccb9e749954ec65a9b84011baa6be451ec692b90" resname="welcome.terms.ez-extra-actions__section-content--content-type">
+      <trans-unit id="4535cf1ab875d58841ddf3f2fadc87f84c6c5e68" resname="welcome.terms.accept">
         <source>Accept</source>
         <target state="new">Accept</target>
-        <note>key: welcome.terms.ez-extra-actions__section-content--content-type</note>
+        <note>key: welcome.terms.accept</note>
+      </trans-unit>
+      <trans-unit id="099ebf8b2b9aa235a7dbcfb79fc0d522be42eb7d" resname="welcome.terms.download_pdf">
+        <source>Download PDF</source>
+        <target state="new">Download PDF</target>
+        <note>key: welcome.terms.download_pdf</note>
+      </trans-unit>
+      <trans-unit id="3b055403c050c64d43114df3792df1ced71d84f3" resname="welcome.terms.table_of_contents">
+        <source>Table of contents</source>
+        <target state="new">Table of contents</target>
+        <note>key: welcome.terms.table_of_contents</note>
+      </trans-unit>
+      <trans-unit id="1fdb5ec00f03e84d7b41ffb68e5f77c10182196c" resname="welcome.terms.terms_and_conditions">
+        <source>Terms and conditions</source>
+        <target state="new">Terms and conditions</target>
+        <note>key: welcome.terms.terms_and_conditions</note>
       </trans-unit>
       <trans-unit id="363496cd7f043616a71338c37d9464559580278b" resname="welcome.title">
         <source>Welcome to Ibexa Personalization</source>
