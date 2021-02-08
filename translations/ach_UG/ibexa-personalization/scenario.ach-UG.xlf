@@ -11,16 +11,6 @@
         <target><![CDATA[crwdns228780:0%attr_name%crwdnd228780:0%number%crwdne228780:0]]></target>
         <note>key: ibexa_personalization.scenario.attribute_name_boost_by_positions</note>
       </trans-unit>
-      <trans-unit id="8c7eb09b4326c7c04b214d941b1d9552ddd28f94" resname="ibexa_personalization.scenario.commerce_settings">
-        <source>Commerce settings</source>
-        <target>crwdns228782:0crwdne228782:0</target>
-        <note>key: ibexa_personalization.scenario.commerce_settings</note>
-      </trans-unit>
-      <trans-unit id="2b0d80953c40e5424aa4c482cca1e5742adc3a07" resname="ibexa_personalization.scenario.description">
-        <source>Scenario description</source>
-        <target>crwdns228784:0crwdne228784:0</target>
-        <note>key: ibexa_personalization.scenario.description</note>
-      </trans-unit>
       <trans-unit id="58c4de4f2b038c7fc694aeac48b9e7c1f71ee6f3" resname="ibexa_personalization.scenario.do_not_recommend_if_price_unknown">
         <source>Do not recommend if price unknown</source>
         <target>crwdns228786:0crwdne228786:0</target>
@@ -41,36 +31,6 @@
         <target>crwdns228792:0crwdne228792:0</target>
         <note>key: ibexa_personalization.scenario.do_not_recommend_the_item_currently_viewed</note>
       </trans-unit>
-      <trans-unit id="d60e4b2f217a7e340d4447dee3fd10981fa05572" resname="ibexa_personalization.scenario.fail_safe_models">
-        <source>Fail safe</source>
-        <target>crwdns228794:0crwdne228794:0</target>
-        <note>key: ibexa_personalization.scenario.fail_safe_models</note>
-      </trans-unit>
-      <trans-unit id="5c992bf0cf17af2dc59ca0376a478b93f8903767" resname="ibexa_personalization.scenario.generate_recommendation_call">
-        <source>Generate recommendation call</source>
-        <target>crwdns228796:0crwdne228796:0</target>
-        <note>key: ibexa_personalization.scenario.generate_recommendation_call</note>
-      </trans-unit>
-      <trans-unit id="ca1be9195b7b79bf708425137e8e1fa4c05ef5ee" resname="ibexa_personalization.scenario.generated_url">
-        <source>Generated url</source>
-        <target>crwdns228798:0crwdne228798:0</target>
-        <note>key: ibexa_personalization.scenario.generated_url</note>
-      </trans-unit>
-      <trans-unit id="85b37c2cbbb5e23e751b309a184cc4cb8ea23536" resname="ibexa_personalization.scenario.id">
-        <source>Scenario ID</source>
-        <target>crwdns228800:0crwdne228800:0</target>
-        <note>key: ibexa_personalization.scenario.id</note>
-      </trans-unit>
-      <trans-unit id="d532bc615ed812b262d1fc89fad7f768ce391f4e" resname="ibexa_personalization.scenario.identifier">
-        <source>Identifier</source>
-        <target>crwdns228802:0crwdne228802:0</target>
-        <note>key: ibexa_personalization.scenario.identifier</note>
-      </trans-unit>
-      <trans-unit id="89e671883aca6d0a3662cf8ed62769108969577c" resname="ibexa_personalization.scenario.input_type">
-        <source>Input type</source>
-        <target>crwdns228804:0crwdne228804:0</target>
-        <note>key: ibexa_personalization.scenario.input_type</note>
-      </trans-unit>
       <trans-unit id="08f818e6ef2fae24f62f92ad07c95034f5564d67" resname="ibexa_personalization.scenario.item_price_should_equal_or_higher_than_the_price_of_the_context_item">
         <source>Item price should equal or higher than the price of the context item</source>
         <target>crwdns228806:0crwdne228806:0</target>
@@ -86,85 +46,15 @@
         <target><![CDATA[crwdns228810:0%number%crwdne228810:0]]></target>
         <note>key: ibexa_personalization.scenario.minimum_price_of_the_recommended_product</note>
       </trans-unit>
-      <trans-unit id="296909d0790a7150284c223049d7d8b0fc0fd72c" resname="ibexa_personalization.scenario.models">
-        <source>Models</source>
-        <target>crwdns228812:0crwdne228812:0</target>
-        <note>key: ibexa_personalization.scenario.models</note>
-      </trans-unit>
-      <trans-unit id="d9e121e99b965a691353c55a5468fac8ecce0c1c" resname="ibexa_personalization.scenario.name">
-        <source>Name</source>
-        <target>crwdns228814:0crwdne228814:0</target>
-        <note>key: ibexa_personalization.scenario.name</note>
-      </trans-unit>
-      <trans-unit id="9e932e19d7de39ce67b38280f6367bb0fd638db4" resname="ibexa_personalization.scenario.no_of_calls">
-        <source>No. of calls</source>
-        <target>crwdns228816:0crwdne228816:0</target>
-        <note>key: ibexa_personalization.scenario.no_of_calls</note>
+      <trans-unit id="dd66a1fe6db995357401eafaf77270921183d675" resname="ibexa_personalization.scenario.no_context_items">
+        <source>No context items</source>
+        <target>crwdns229246:0crwdne229246:0</target>
+        <note>key: ibexa_personalization.scenario.no_context_items</note>
       </trans-unit>
       <trans-unit id="c8b54a3dacff4f6a0b14755dfc400fab47c3d5e7" resname="ibexa_personalization.scenario.no_top_selling_items">
         <source>No top-selling items</source>
         <target>crwdns228818:0crwdne228818:0</target>
         <note>key: ibexa_personalization.scenario.no_top_selling_items</note>
-      </trans-unit>
-      <trans-unit id="4f859d9639306f4759206f89c95e2149f3eeda85" resname="ibexa_personalization.scenario.non_operational">
-        <source>non-operational</source>
-        <target>crwdns228820:0crwdne228820:0</target>
-        <note>key: ibexa_personalization.scenario.non_operational</note>
-      </trans-unit>
-      <trans-unit id="45786c1d88f9b8f4e9aba0a4b542685348851fe4" resname="ibexa_personalization.scenario.operational">
-        <source>operational</source>
-        <target>crwdns228822:0crwdne228822:0</target>
-        <note>key: ibexa_personalization.scenario.operational</note>
-      </trans-unit>
-      <trans-unit id="cf899da8652f04a34a0a8cb932446109606d84ad" resname="ibexa_personalization.scenario.output_type">
-        <source>Output type</source>
-        <target>crwdns228824:0crwdne228824:0</target>
-        <note>key: ibexa_personalization.scenario.output_type</note>
-      </trans-unit>
-      <trans-unit id="664e141bb12db7f32e1338bd4880d9a112d0ae5c" resname="ibexa_personalization.scenario.recommendation_response">
-        <source>Recommendation response</source>
-        <target>crwdns228826:0crwdne228826:0</target>
-        <note>key: ibexa_personalization.scenario.recommendation_response</note>
-      </trans-unit>
-      <trans-unit id="5073d1f485d91c7a7f91a05cb73835f701f1a651" resname="ibexa_personalization.scenario.recommendation_response_description">
-        <source>The way how recommendations are rendered is only an example. It could differ from the actual approach used by the customer on the website</source>
-        <target>crwdns228828:0crwdne228828:0</target>
-        <note>key: ibexa_personalization.scenario.recommendation_response_description</note>
-      </trans-unit>
-      <trans-unit id="7b510d8a02e634f345215388e04b20e9861e3033" resname="ibexa_personalization.scenario.scenario_details">
-        <source>Scenario details:</source>
-        <target>crwdns228830:0crwdne228830:0</target>
-        <note>key: ibexa_personalization.scenario.scenario_details</note>
-      </trans-unit>
-      <trans-unit id="e86ef0faafc7f616719382f8775c93f654e4ff0a" resname="ibexa_personalization.scenario.scenario_name">
-        <source>Scenario name</source>
-        <target>crwdns228832:0crwdne228832:0</target>
-        <note>key: ibexa_personalization.scenario.scenario_name</note>
-      </trans-unit>
-      <trans-unit id="0028e709fce87d24c0fb97e72932a18b17ed2c42" resname="ibexa_personalization.scenario.scenario_preview">
-        <source>Scenario preview:</source>
-        <target>crwdns228834:0crwdne228834:0</target>
-        <note>key: ibexa_personalization.scenario.scenario_preview</note>
-      </trans-unit>
-      <trans-unit id="cd5bce5ba0adfa62b8aba0814b6ad94c61a4ccaa" resname="ibexa_personalization.scenario.strategy">
-        <source>Strategy</source>
-        <target>crwdns228836:0crwdne228836:0</target>
-        <note>key: ibexa_personalization.scenario.strategy</note>
-      </trans-unit>
-      <trans-unit id="a9e2a2a83b954c986183ef59c3110284bb74fc18" resname="ibexa_personalization.scenario.strategy_fall_back">
-        <source>Fall-back models</source>
-        <target>crwdns228838:0crwdne228838:0</target>
-        <note>key: ibexa_personalization.scenario.strategy_fall_back</note>
-      </trans-unit>
-      <trans-unit id="07863060167cb458df5a18b425b50ca608814f9e" resname="ibexa_personalization.scenario.strategy_primary_models">
-        <source>Primary models</source>
-        <target>crwdns228840:0crwdne228840:0</target>
-        <note>key: ibexa_personalization.scenario.strategy_primary_models</note>
-      </trans-unit>
-      <trans-unit id="fbf14c1cbb30f132cc06c8bcb3e0db85fc5295be" resname="ibexa_personalization.scenario.strategy_ultimately_fail_safe">
-        <source>Ultimately Fail-safe</source>
-        <target>crwdns228842:0crwdne228842:0</target>
-        <note>key: ibexa_personalization.scenario.strategy_ultimately_fail_safe</note>
       </trans-unit>
       <trans-unit id="1203b8fbfe1503ccd296cdce9603f7bf680953a7" resname="ibexa_personalization.scenario.undefined">
         <source>Undefined</source>
@@ -175,16 +65,6 @@
         <source><![CDATA[User attribute has different name <strong>%attr_name%</strong>]]></source>
         <target><![CDATA[crwdns228846:0%attr_name%crwdne228846:0]]></target>
         <note>key: ibexa_personalization.scenario.user_attribute_has_different_name</note>
-      </trans-unit>
-      <trans-unit id="a12bb101b80ee4a2f65ff4072fc9d89c87b65883" resname="ibexa_personalization.scenario.user_profile_setting">
-        <source>User profile setting</source>
-        <target>crwdns228848:0crwdne228848:0</target>
-        <note>key: ibexa_personalization.scenario.user_profile_setting</note>
-      </trans-unit>
-      <trans-unit id="c3971db80f8f511d8ffc8d6ff0545b8c215d6894" resname="ibexa_personalization.scenarios">
-        <source>Scenarios</source>
-        <target>crwdns228850:0crwdne228850:0</target>
-        <note>key: ibexa_personalization.scenarios</note>
       </trans-unit>
       <trans-unit id="51dae687367d3979c98400d6b93fad3b8f774dfd" resname="preview.gallery.no_recommendations">
         <source>No recomendations available</source>
