@@ -66,6 +66,11 @@
         <target>crwdns221224:0crwdne221224:0</target>
         <note>key: policy.limitation.identifier.parentowner</note>
       </trans-unit>
+      <trans-unit id="1b6a38d05e399ed640e6497fcd79ac31e4aafd73" resname="policy.limitation.identifier.personalizationaccess">
+        <source>PersonalizationAccess</source>
+        <target>crwdns229116:0crwdne229116:0</target>
+        <note>key: policy.limitation.identifier.personalizationaccess</note>
+      </trans-unit>
       <trans-unit id="bb77b27363dad566197a200290f0f0b18baa4705" resname="policy.limitation.identifier.section">
         <source>Section</source>
         <target>crwdns221226:0crwdne221226:0</target>
