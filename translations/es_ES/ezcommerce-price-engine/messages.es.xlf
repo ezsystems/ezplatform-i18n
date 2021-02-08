@@ -51,11 +51,6 @@
         <target state="translated">Gestión de precios y existencias</target>
         <note>key: Price and stock management</note>
       </trans-unit>
-      <trans-unit id="8d0a68d236f2446d4deeeae46f00d77f8b6236bd" resname="message.no_prices_given">
-        <source>No prices given</source>
-        <target state="translated">No hay precios</target>
-        <note>key: message.no_prices_given</note>
-      </trans-unit>
       <trans-unit id="70ebe9c865ca3d6beb2eeb14e6d05429fc3ed4e0" resname="message.product_not_found">
         <source>Product not found</source>
         <target state="translated">No se ha encontrado el producto</target>
