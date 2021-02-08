@@ -17,8 +17,8 @@
         <note>key: main__personalization__dashboard</note>
       </trans-unit>
       <trans-unit id="514366de7dcb2116c1200099d0d84bc1ccaac1b7" resname="main__personalization__import">
-        <source>Import/Export</source>
-        <target>crwdns228576:0crwdne228576:0</target>
+        <source>Import</source>
+        <target>crwdns229224:0crwdne229224:0</target>
         <note>key: main__personalization__import</note>
       </trans-unit>
       <trans-unit id="fce4b533bf5d4046b33d2e97e8f44e7018d11bd5" resname="main__personalization__models">
