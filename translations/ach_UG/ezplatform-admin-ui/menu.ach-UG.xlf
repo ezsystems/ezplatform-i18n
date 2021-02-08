@@ -181,11 +181,6 @@
         <target>crwdns215188:0crwdne215188:0</target>
         <note>key: main__admin__sections</note>
       </trans-unit>
-      <trans-unit id="2cc622305036d330c00683520df433ef82f60c9a" resname="main__admin__systeminfo">
-        <source>System Information</source>
-        <target>crwdns215189:0crwdne215189:0</target>
-        <note>key: main__admin__systeminfo</note>
-      </trans-unit>
       <trans-unit id="82375ef2c63989a07c692f526407d75316414dff" resname="main__admin__url_management">
         <source>URL Management</source>
         <target>crwdns227068:0crwdne227068:0</target>
