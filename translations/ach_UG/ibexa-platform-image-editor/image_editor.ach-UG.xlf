@@ -31,11 +31,6 @@
         <target>crwdns228880:0crwdne228880:0</target>
         <note>key: image_editor.actions.crop.crop_size</note>
       </trans-unit>
-      <trans-unit id="b2750d2b2c7932150d4ac25556ef9aceeef5d203" resname="image_editor.actions.crop.custom">
-        <source>Custom</source>
-        <target>crwdns228882:0crwdne228882:0</target>
-        <note>key: image_editor.actions.crop.custom</note>
-      </trans-unit>
       <trans-unit id="51c96b0d9b8e984c453b7a759bd7101775ff1e85" resname="image_editor.actions.crop.label">
         <source>Crop</source>
         <target>crwdns228884:0crwdne228884:0</target>
@@ -50,6 +45,11 @@
         <source>Remove</source>
         <target>crwdns228888:0crwdne228888:0</target>
         <note>key: image_editor.actions.crop.remove</note>
+      </trans-unit>
+      <trans-unit id="15ed133ec163074eb0f215eb45e84294e8f150d3" resname="image_editor.actions.crop.warning">
+        <source>Adjust the focal point, crop might change its parameters</source>
+        <target>crwdns229248:0crwdne229248:0</target>
+        <note>key: image_editor.actions.crop.warning</note>
       </trans-unit>
       <trans-unit id="134b698047fe264a2a211c55f0471ff12a299c58" resname="image_editor.actions.flip.horizontal">
         <source>Horizontal</source>
