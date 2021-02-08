@@ -26,11 +26,6 @@
         <target state="translated">Mostrar vídeo</target>
         <note>key: Show video|search</note>
       </trans-unit>
-      <trans-unit id="f10e2821bbbea527ea02200352313bc059445190" resname="asd">
-        <source>asd</source>
-        <target state="translated">Asd</target>
-        <note>key: asd</note>
-      </trans-unit>
       <trans-unit id="c941343a6cf6fbee4048ecd47b6eba2c857f72a5" resname="availability_econtent|search">
         <source>Availability</source>
         <target state="translated">Disponibilidad</target>
@@ -95,11 +90,6 @@
         <source>Impedance</source>
         <target state="translated">Impedancia</target>
         <note>key: impedance|search</note>
-      </trans-unit>
-      <trans-unit id="516079bde78cc92b94936cc869f772f931cc1e11" resname="label.autosuggest_all_list">
-        <source>Search phrases</source>
-        <target state="translated">Frases de búsqueda</target>
-        <note>key: label.autosuggest_all_list</note>
       </trans-unit>
       <trans-unit id="c680f1ddc88e53817f1163bb1f42ccdc283e47e3" resname="label.autosuggest_category_list">
         <source>Categories</source>
