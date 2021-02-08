@@ -16,11 +16,6 @@
         <target state="translated">內容類型</target>
         <note>key: bulk_action.failed.modal.content_type_name</note>
       </trans-unit>
-      <trans-unit id="9c91d85bc7658ec7dc6bbb07b720979177c0846a" resname="content.view.subitems">
-        <source>Sub-items</source>
-        <target state="translated">子項</target>
-        <note>key: content.view.subitems</note>
-      </trans-unit>
       <trans-unit id="4f1f7e7763187d69da3f75ebfb74d391a451cec6" resname="content.view.subitems.bulk_action.limited_permissions">
         <source>Limited user permissions</source>
         <target state="translated">有限的用戶權限</target>
