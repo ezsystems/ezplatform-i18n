@@ -21,15 +21,15 @@
         <target>crwdns223000:0crwdne223000:0</target>
         <note>key: attribute.location.select_location</note>
       </trans-unit>
+      <trans-unit id="eba0da3aab2eda230b1843d6167e1d721346979b" resname="build.form">
+        <source>Build form</source>
+        <target>crwdns229144:0crwdne229144:0</target>
+        <note>key: build.form</note>
+      </trans-unit>
       <trans-unit id="e3e94b5f80551cb49f285d818c8f59d7ad3d3903" resname="building.form">
         <source>Build form</source>
         <target>crwdns227180:0crwdne227180:0</target>
         <note>key: building.form</note>
-      </trans-unit>
-      <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
-        <source>Create a form</source>
-        <target>crwdns223290:0crwdne223290:0</target>
-        <note>key: create.form</note>
       </trans-unit>
       <trans-unit id="3f906d4d0bd35a175f501ab96fc7d4c2b2c3ec71" resname="drag.drop.call.to.action">
         <source>Create a form by dragging elements here</source>
