@@ -1,7 +1,7 @@
 {
   "name": "ezsystems/ezplatform-i18n",
-  "description": "Meta repository to store every eZ Platform translations. This should be used during development to ease synchronization with Crowdin. SHOULD NOT BE USED IN PRODUCTION",
-  "license": "GPL-2.0",
+  "description": "Meta repository to store every Ibexa translation. This should be used during development to ease synchronization with Crowdin. SHOULD NOT BE USED IN PRODUCTION",
+  "license": "(GPL-2.0-only or proprietary)",
   "require": {
   },
   "extra": {
