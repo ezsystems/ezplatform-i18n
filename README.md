@@ -11,7 +11,7 @@ split into a dedicated package.
 
 ## Crowdin
 
-If you want to help us on translating Ibexa Open Source feel free to contribute on [Ibexa project on Crowdin][crowdin-ezplatform].
+If you want to help us translate Ibexa Open Source, feel free to contribute on the [Ibexa project on Crowdin][crowdin-ezplatform].
 
 ### In context translation
 
