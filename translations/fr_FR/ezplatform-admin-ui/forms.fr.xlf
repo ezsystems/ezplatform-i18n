@@ -351,6 +351,16 @@
         <target state="translated">Contenu / Contenus intégrés</target>
         <note>key: role.policy.content.view_embed</note>
       </trans-unit>
+      <trans-unit id="15c3ffad9d90e7d492d275a9ea05ecdcdedaace5" resname="role.policy.personalization">
+        <source>Personalization</source>
+        <target state="translated">Personnalisation</target>
+        <note>key: role.policy.personalization</note>
+      </trans-unit>
+      <trans-unit id="8adcce777544fc53bd13ae39edf718d764867cc2" resname="role.policy.personalization.all_functions">
+        <source>Personalization / All functions</source>
+        <target state="translated">Personnalisation / Toutes les fonctions</target>
+        <note>key: role.policy.personalization.all_functions</note>
+      </trans-unit>
       <trans-unit id="6ff0bcc1b70d0dbde113af7649393f667612cace" resname="role.policy.role">
         <source>Role</source>
         <target state="translated">Rôle</target>
