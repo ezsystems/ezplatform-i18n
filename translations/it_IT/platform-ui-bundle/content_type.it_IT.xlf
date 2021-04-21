@@ -145,7 +145,7 @@
       </trans-unit>
       <trans-unit id="29cb17e453cf97bda9072c5e8a52f72a484d7e32" resname="content_type.group.new" approved="yes">
         <source>Create a Content type group</source>
-        <target state="final">Crea un nuovo gruppo</target>
+        <target state="final">Crea un nuovo gruppo di tipo di contenuto</target>
         <note>key: content_type.group.new</note>
         <jms:reference-file line="65">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
         <jms:reference-file line="67">Resources/views/ContentType/list_content_type_groups.html.twig</jms:reference-file>
