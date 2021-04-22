@@ -201,6 +201,26 @@
         <target state="translated">Stato di attivazione</target>
         <note>key: welcome.activation_status.title</note>
       </trans-unit>
+      <trans-unit id="152bb836a684191c6bb76588a609237b284bf59b" resname="welcome.form.subtitle">
+        <source>Please fill in the form to send in your request to activate Ibexa Personalization services. Please be advised that you need to have an active Ibexa DXP Subscription before you can activate the services.</source>
+        <target state="translated">Compila il modulo per inviare la tua richiesta per attivare i servizi di personalizzazione Ibexa. Si prega di notare che è necessario disporre di un abbonamento Ibexa DXP attivo prima di poter attivare i servizi.</target>
+        <note>key: welcome.form.subtitle</note>
+      </trans-unit>
+      <trans-unit id="a40e9d8b438b39336b4d1cf6729aad7e5d485bbc" resname="welcome.form.tems_accept">
+        <source><![CDATA[I have read and agree to the <a class='ez-welcome-content__show-modal-button' href='#'>Terms and Conditions.</a>]]></source>
+        <target state="translated"><![CDATA[Ho letto e accetto i <a class='ez-welcome-content__show-modal-button' href='#'>Termini e Condizioni.</a>]]></target>
+        <note>key: welcome.form.tems_accept</note>
+      </trans-unit>
+      <trans-unit id="8ca1884015c59d5115a04c940d0eaa0cb6d938b6" resname="welcome.form.tems_accept_description">
+        <source>If you are accepting these terms on behalf of another person or company or other legal entity. You represent and warrant that you have full authority to bind that person, company or legal entity to these terms.</source>
+        <target state="translated">Se si accettano queste condizioni per conto di un'altra persona o società o altra persona giuridica. Voi rappresentate e garantite di avere piena autorità di vincolare tale persona, società o entità giuridica a questi termini.</target>
+        <note>key: welcome.form.tems_accept_description</note>
+      </trans-unit>
+      <trans-unit id="d1c4b3ce2e03e5b5fbed54d72c1db4a938eca745" resname="welcome.form.title">
+        <source>Request for account activation</source>
+        <target state="translated">Richiesta di attivazione account</target>
+        <note>key: welcome.form.title</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
