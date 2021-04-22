@@ -1201,6 +1201,256 @@
         <target state="translated">Articolo anche consumato</target>
         <note>key: models.name.also_consumed_article</note>
       </trans-unit>
+      <trans-unit id="e1ae1e8a8d70dc38c75b083671637b794b2c1f52" resname="models.name.also_consumed_image">
+        <source>Also consumed image</source>
+        <target state="translated">Immagine anche consumata</target>
+        <note>key: models.name.also_consumed_image</note>
+      </trans-unit>
+      <trans-unit id="1e5591fed03283de5d235678a3072a4af9b7a2b9" resname="models.name.also_followed">
+        <source>Also consumed</source>
+        <target state="translated">Anche consumato</target>
+        <note>key: models.name.also_followed</note>
+      </trans-unit>
+      <trans-unit id="e1e709020a03dd9c1641508aa0dec6308b9b77d4" resname="models.name.also_purchased">
+        <source>Also purchased</source>
+        <target state="translated">Anche acquistato</target>
+        <note>key: models.name.also_purchased</note>
+      </trans-unit>
+      <trans-unit id="f038999d7b6b695279d5faff4ba0ab39f7e60370" resname="models.name.also_purchased2">
+        <source>Also purchased</source>
+        <target state="translated">Anche acquistato</target>
+        <note>key: models.name.also_purchased2</note>
+      </trans-unit>
+      <trans-unit id="bcffe6622d36e045fb1bc6e3d9c653f788850a82" resname="models.name.also_purchased3">
+        <source>Also purchased</source>
+        <target state="translated">Anche acquistato</target>
+        <note>key: models.name.also_purchased3</note>
+      </trans-unit>
+      <trans-unit id="e26d8d19aa04da70d25fdacac0211ebfb5c2d5bb" resname="models.name.also_purchased4">
+        <source>Also purchased</source>
+        <target state="translated">Anche acquistato</target>
+        <note>key: models.name.also_purchased4</note>
+      </trans-unit>
+      <trans-unit id="fc926780c4bcd1278ca637b1177b0648bd394d6a" resname="models.name.also_purchased_2">
+        <source>Also purchased</source>
+        <target state="translated">Anche acquistato</target>
+        <note>key: models.name.also_purchased_2</note>
+      </trans-unit>
+      <trans-unit id="e888a1e36c4dd47952bced7713908bebbbc7b470" resname="models.name.also_purchased_3">
+        <source>Also purchased</source>
+        <target state="translated">Anche acquistato</target>
+        <note>key: models.name.also_purchased_3</note>
+      </trans-unit>
+      <trans-unit id="e3bf26d8ea0f7c25bd7b3b3172c4ca9e3b5129a4" resname="models.name.also_purchased_article_to_product ">
+        <source>Also clicked</source>
+        <target state="translated">Anche cliccato</target>
+        <note>key: models.name.also_purchased_article_to_product </note>
+      </trans-unit>
+      <trans-unit id="4c92ad1a8f2e1547d5c1c29a3132844481e14945" resname="models.name.also_purchased_product">
+        <source>Also purchased</source>
+        <target state="translated">Anche acquistato</target>
+        <note>key: models.name.also_purchased_product</note>
+      </trans-unit>
+      <trans-unit id="8f33cfd55093d967aa663ac817ebb68d53e07207" resname="models.name.also_purchased_short">
+        <source>Also purchased</source>
+        <target state="translated">Anche acquistato</target>
+        <note>key: models.name.also_purchased_short</note>
+      </trans-unit>
+      <trans-unit id="bad99fc8dee254f0a70510416b6d9a88103555ed" resname="models.name.also_similar_rated">
+        <source>Similar rated</source>
+        <target state="translated">Classificazione simile</target>
+        <note>key: models.name.also_similar_rated</note>
+      </trans-unit>
+      <trans-unit id="fc983a937c7d27bc8067d691562e001373d9e73d" resname="models.name.alternative">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.alternative</note>
+      </trans-unit>
+      <trans-unit id="a88057ab7a33faec55e54df9ca81d4fd2c871c1c" resname="models.name.bundle0">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.bundle0</note>
+      </trans-unit>
+      <trans-unit id="f0538509024e8a72c16ad31707f70a5bf6a8dbf1" resname="models.name.bundle2">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.bundle2</note>
+      </trans-unit>
+      <trans-unit id="b09031e8e483feab390db81f17b513a3fa08c886" resname="models.name.bundle3">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.bundle3</note>
+      </trans-unit>
+      <trans-unit id="5e378bf03337fc45ee01c9d67b453ad383787b76" resname="models.name.cb">
+        <source>Cb</source>
+        <target state="translated">Cb</target>
+        <note>key: models.name.cb</note>
+      </trans-unit>
+      <trans-unit id="52c19c28708d9ee7901a3b1e5d0bd1174871e46f" resname="models.name.cf_click">
+        <source>Cf click</source>
+        <target state="translated">Cf click</target>
+        <note>key: models.name.cf_click</note>
+      </trans-unit>
+      <trans-unit id="3bd57f4414864648dedce17f73a223f90b4390a1" resname="models.name.cf_fbt">
+        <source>Purchased together</source>
+        <target state="translated">Acquistati insieme</target>
+        <note>key: models.name.cf_fbt</note>
+      </trans-unit>
+      <trans-unit id="face991d248df4408e4d534dfa6251329b27c950" resname="models.name.cf_fbt2">
+        <source>Purchased together</source>
+        <target state="translated">Acquistati insieme</target>
+        <note>key: models.name.cf_fbt2</note>
+      </trans-unit>
+      <trans-unit id="b14e35fb57b3a8d91ae500360df838af5c2042fa" resname="models.name.cf_purchased">
+        <source>Cf purchased</source>
+        <target state="translated">Cf acquistato</target>
+        <note>key: models.name.cf_purchased</note>
+      </trans-unit>
+      <trans-unit id="ebfb6bc4645045b1232223a56b29cf3877fcd45e" resname="models.name.cf_purchased_after_clicked">
+        <source>Ultimately bought</source>
+        <target state="translated">Acquistato definitivamente</target>
+        <note>key: models.name.cf_purchased_after_clicked</note>
+      </trans-unit>
+      <trans-unit id="ca0606336a0fe7071bcb37cacff4dbfb28876da7" resname="models.name.click2buy">
+        <source>Ultimately bought</source>
+        <target state="translated">Acquistato definitivamente</target>
+        <note>key: models.name.click2buy</note>
+      </trans-unit>
+      <trans-unit id="0e60da74f0cb3876e4c417d7bdc9ea68e9c9988b" resname="models.name.click2click">
+        <source>Also clicked</source>
+        <target state="translated">Anche cliccato</target>
+        <note>key: models.name.click2click</note>
+      </trans-unit>
+      <trans-unit id="38d791c35a83dd84afbfe8ad5f1f83255f1f5c3e" resname="models.name.click_after_consumed">
+        <source>Ultimately consumed</source>
+        <target state="translated">Consumo finale</target>
+        <note>key: models.name.click_after_consumed</note>
+      </trans-unit>
+      <trans-unit id="d70748afe2a303344d4c649b2019d1ac82f44726" resname="models.name.click_to_purchased">
+        <source>Click to purchased</source>
+        <target state="translated">Clicca per acquistare</target>
+        <note>key: models.name.click_to_purchased</note>
+      </trans-unit>
+      <trans-unit id="b1ebaa1f1acffd31660e3201dd4c677dd357b558" resname="models.name.consume2consume">
+        <source>Also consumed</source>
+        <target state="translated">Anche consumato</target>
+        <note>key: models.name.consume2consume</note>
+      </trans-unit>
+      <trans-unit id="7e0757a4add581d5ecc063562df673f338521937" resname="models.name.custom_model">
+        <source>Similar rated</source>
+        <target state="translated">Classificazione simile</target>
+        <note>key: models.name.custom_model</note>
+      </trans-unit>
+      <trans-unit id="c8e8352e08197a1ff06b50554721345dcef9cb33" resname="models.name.e1">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.e1</note>
+      </trans-unit>
+      <trans-unit id="a7d49c8fc1577a17b0914b72985fcea899fe3a22" resname="models.name.e2">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.e2</note>
+      </trans-unit>
+      <trans-unit id="d970e7ad712c7bebcfdc2f0fca059d83db41d81c" resname="models.name.editor_1">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editor_1</note>
+      </trans-unit>
+      <trans-unit id="eecae8ca5b0e0d8c3899b71ef46cfd82cf03a4b7" resname="models.name.editor_2">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editor_2</note>
+      </trans-unit>
+      <trans-unit id="01ee003af705ab57cf224511065971151c5060bc" resname="models.name.editor_blacklist">
+        <source>Black list</source>
+        <target state="translated">Lista nera</target>
+        <note>key: models.name.editor_blacklist</note>
+      </trans-unit>
+      <trans-unit id="05516103632d862df8a3735e6f2053f6789d85df" resname="models.name.editorial_list">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list</note>
+      </trans-unit>
+      <trans-unit id="355730d344dbf109fd49bfff932ddcac342985f9" resname="models.name.editorial_list2">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list2</note>
+      </trans-unit>
+      <trans-unit id="0798aa552e0071bf5cd928cbbf98d521e8329109" resname="models.name.editorial_list3">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list3</note>
+      </trans-unit>
+      <trans-unit id="88955ad8d1bb9b172cf6f9e73c944f1d9e092de3" resname="models.name.editorial_list4">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list4</note>
+      </trans-unit>
+      <trans-unit id="7d3e689ce4b19334be42a4e1e93be069de627599" resname="models.name.editorial_list5">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list5</note>
+      </trans-unit>
+      <trans-unit id="40f8d6b30a31791efc04b717bec2de2e0e6ba018" resname="models.name.editorial_list6">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list6</note>
+      </trans-unit>
+      <trans-unit id="d4973c5684d3d0eab7e35a6f5e058c1ee4f493cb" resname="models.name.editorial_list7">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list7</note>
+      </trans-unit>
+      <trans-unit id="9563a8394af7d9932ec7e0458981ced62eb430b5" resname="models.name.editorial_list_article">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list_article</note>
+      </trans-unit>
+      <trans-unit id="528f4b76fce34308b6dcfee89af3d9461a1b7ec7" resname="models.name.editorial_list_b">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list_b</note>
+      </trans-unit>
+      <trans-unit id="87ec75ff0b023e5cce4d126490ba28355ea1b4f5" resname="models.name.editorial_list_bestselger">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list_bestselger</note>
+      </trans-unit>
+      <trans-unit id="4e6ee2104f34efa5794845758f36e8b947b4fa93" resname="models.name.editorial_list_blog">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list_blog</note>
+      </trans-unit>
+      <trans-unit id="4bb5683d80495edf80a1ccbe20138ca2094c0aaf" resname="models.name.editorial_list_crossselling">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list_crossselling</note>
+      </trans-unit>
+      <trans-unit id="232f7cda5e2a78e08c01ad8079d365a6f4eb2d3c" resname="models.name.editorial_list_front">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list_front</note>
+      </trans-unit>
+      <trans-unit id="34fd3c9137f6cdb5d82ca195323a0c68460fed78" resname="models.name.editorial_list_kommende">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list_kommende</note>
+      </trans-unit>
+      <trans-unit id="17d8607700d84ed8afbc7cebf9942613e9d63c03" resname="models.name.editorial_list_landingpage">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list_landingpage</note>
+      </trans-unit>
+      <trans-unit id="0ce04721752f04a92916a8cfb31288083ac9da1f" resname="models.name.editorial_list_nyheter">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list_nyheter</note>
+      </trans-unit>
+      <trans-unit id="c35468bdd6c6414fe07aa414bbfa7e21e12ece1e" resname="models.name.editorial_list_personalized">
+        <source>Editorial list</source>
+        <target state="translated">Elenco editoriale</target>
+        <note>key: models.name.editorial_list_personalized</note>
+      </trans-unit>
       <trans-unit id="d94504cf8a21da65ebaf64130c2456df91e41b12" resname="models.name.editorial_list_related">
         <source>Editorial list</source>
         <target state="translated">Elenco editoriale</target>
@@ -1450,6 +1700,71 @@
         <source>Top consumed</source>
         <target state="translated">Top consumato</target>
         <note>key: models.name.top_consumed_short</note>
+      </trans-unit>
+      <trans-unit id="3bbaa8d7e1b5dfb7ff941eb303e9e4826b42e352" resname="models.name.top_purchased">
+        <source>Top purchased</source>
+        <target state="translated">Top acquistato</target>
+        <note>key: models.name.top_purchased</note>
+      </trans-unit>
+      <trans-unit id="03ebc2676b41e801c6ca2a447b34f27c418fd753" resname="models.name.top_purchased_2">
+        <source>Top purchased</source>
+        <target state="translated">Top acquistato</target>
+        <note>key: models.name.top_purchased_2</note>
+      </trans-unit>
+      <trans-unit id="e0644680775d322d7e8dccc7e6af61aeaa1d0f6d" resname="models.name.top_purchased_3">
+        <source>Top purchased</source>
+        <target state="translated">Top acquistato</target>
+        <note>key: models.name.top_purchased_3</note>
+      </trans-unit>
+      <trans-unit id="3b948ec948c6775284bfdf62aa4f6b716f647564" resname="models.name.top_purchased_product">
+        <source>Top purchased</source>
+        <target state="translated">Top acquistato</target>
+        <note>key: models.name.top_purchased_product</note>
+      </trans-unit>
+      <trans-unit id="cf429fe4aeb997a54a5dc8b98bfd1ccbb48a0446" resname="models.name.top_rated">
+        <source>Top rated</source>
+        <target state="translated">Le più votate</target>
+        <note>key: models.name.top_rated</note>
+      </trans-unit>
+      <trans-unit id="42cae99198b816e902446b1a617aab65db1d61f8" resname="models.name.top_selling">
+        <source>Top purchased</source>
+        <target state="translated">Top acquistato</target>
+        <note>key: models.name.top_selling</note>
+      </trans-unit>
+      <trans-unit id="5b1200f66aca3b96ef7a9c803e81c08b3d3f65a5" resname="models.name.ultimately_bought">
+        <source>Ultimately bought</source>
+        <target state="translated">Acquistato definitivamente</target>
+        <note>key: models.name.ultimately_bought</note>
+      </trans-unit>
+      <trans-unit id="31f416feb3e32d1c92eac4edfcbbf6e89e1e3562" resname="models.name.ultimately_consumed">
+        <source>Ultimately consumed</source>
+        <target state="translated">Consumo finale</target>
+        <note>key: models.name.ultimately_consumed</note>
+      </trans-unit>
+      <trans-unit id="2b941e3c876e3730abed4b0bb8947e92cc3a886a" resname="models.name.ultimately_purchased">
+        <source>Ultimately bought</source>
+        <target state="translated">Acquistato definitivamente</target>
+        <note>key: models.name.ultimately_purchased</note>
+      </trans-unit>
+      <trans-unit id="95c31bb2ad2e0d8097a73a1337bd58a7c05c78cc" resname="models.name.ultimately_purchased_2">
+        <source>Ultimately bought</source>
+        <target state="translated">Acquistato definitivamente</target>
+        <note>key: models.name.ultimately_purchased_2</note>
+      </trans-unit>
+      <trans-unit id="88cbb6c679b8250fe0cbab251d5a07ba57c1c675" resname="models.name.ultimately_purchased_3">
+        <source>Ultimately bought</source>
+        <target state="translated">Acquistato definitivamente</target>
+        <note>key: models.name.ultimately_purchased_3</note>
+      </trans-unit>
+      <trans-unit id="dc311a0b827e78d9d3b4baa5aa69b30867f7964b" resname="models.name.ultimately_purchased_long">
+        <source>Ultimately bought</source>
+        <target state="translated">Acquistato definitivamente</target>
+        <note>key: models.name.ultimately_purchased_long</note>
+      </trans-unit>
+      <trans-unit id="bb7443006c680966785880657155b8f7c99e8f1c" resname="models.name.upheaval">
+        <source>Upheaval</source>
+        <target state="translated">Sconvolgimento</target>
+        <note>key: models.name.upheaval</note>
       </trans-unit>
       <trans-unit id="9aaed75dcdd718cf02f0131e529fd584dee89b7a" resname="scenario.output_type">
         <source>Output type</source>
