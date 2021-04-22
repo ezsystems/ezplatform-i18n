@@ -6,444 +6,201 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="56c0da59355d07df01912947d83b628788c405c4" resname="activation_status.form.email">
+        <source>Email</source>
+        <target state="translated">Email</target>
+        <note>key: activation_status.form.email</note>
+      </trans-unit>
+      <trans-unit id="584b1646ab7795a2d37a682a9131d6b7a86e4111" resname="activation_status.form.full_name">
+        <source>Full name</source>
+        <target state="translated">Nome completo</target>
+        <note>key: activation_status.form.full_name</note>
+      </trans-unit>
+      <trans-unit id="256aa74018353687a05876fb9f8b627435d767fd" resname="activation_status.form.terms_and_conditions">
+        <source>I have read and agree to the Terms and Conditions</source>
+        <target state="translated">Ho letto e accettato i termini e le condizioni</target>
+        <note>key: activation_status.form.terms_and_conditions</note>
+      </trans-unit>
+      <trans-unit id="34d07778b55d6b05956f292eb8360bd4429750f3" resname="breadcrumb.import">
+        <source>Import</source>
+        <target state="translated">Importa</target>
+        <note>key: breadcrumb.import</note>
+      </trans-unit>
+      <trans-unit id="3e47cf979e591e5f0d01b92930499bd204da235d" resname="breadcrumb.models">
+        <source>Models</source>
+        <target state="translated">Modelli</target>
+        <note>key: breadcrumb.models</note>
+      </trans-unit>
+      <trans-unit id="1c5d787a5d5f4b2e3d9e14dcfe0cc9c78ee5939a" resname="breadcrumb.personalization">
+        <source>Personalization</source>
+        <target state="translated">Personalizzazione</target>
+        <note>key: breadcrumb.personalization</note>
+      </trans-unit>
+      <trans-unit id="e68ace7e4c81cf8b6c6d333e92b573f6a6686223" resname="breadcrumb.scenarios">
+        <source>Scenarios</source>
+        <target state="translated">Scenari</target>
+        <note>key: breadcrumb.scenarios</note>
+      </trans-unit>
+      <trans-unit id="0ac9bad7b4e93c7883bbf898f6b8787e3a246eb5" resname="chart.items_purchased">
+        <source>Items purchased</source>
+        <target state="translated">Articoli acquistati</target>
+        <note>key: chart.items_purchased</note>
+      </trans-unit>
+      <trans-unit id="11b29972214ced027ae7b45f4f07a4e6539f5b62" resname="chart.revenue">
+        <source>Revenue</source>
+        <target state="translated">Reddito</target>
+        <note>key: chart.revenue</note>
+      </trans-unit>
+      <trans-unit id="1b342e813cbd98471e1b97aea18a6bbdf486b0b3" resname="dashboard.recommendation_performance.recommendations_performance">
+        <source>Recommendations performance</source>
+        <target state="translated">Prestazioni delle raccomandazioni</target>
+        <note>key: dashboard.recommendation_performance.recommendations_performance</note>
+      </trans-unit>
+      <trans-unit id="0a2cad7b32b2fd520c38b3e99022483de29829df" resname="dashboard.summary.clicked_recommendations">
+        <source>Clicked recommendations</source>
+        <target state="translated">Raccomandazioni cliccate</target>
+        <note>key: dashboard.summary.clicked_recommendations</note>
+      </trans-unit>
+      <trans-unit id="1d394377348ceddf640dab041bcb6064728f2c61" resname="dashboard.summary.events_collected">
+        <source>Events collected</source>
+        <target state="translated">Eventi raccolti</target>
+        <note>key: dashboard.summary.events_collected</note>
+      </trans-unit>
+      <trans-unit id="fa5d338931ac1946b90dc9604feec22256fe6dad" resname="dashboard.summary.full_import">
+        <source>Full import %date%</source>
+        <target state="translated">Importazione completa %date%</target>
+        <note>key: dashboard.summary.full_import</note>
+      </trans-unit>
+      <trans-unit id="20373ac77794caa405815020e8ced517324720fe" resname="dashboard.summary.imported_items">
+        <source>Imported items</source>
+        <target state="translated">Articoli importati</target>
+        <note>key: dashboard.summary.imported_items</note>
+      </trans-unit>
+      <trans-unit id="718793d59a2b760b05aa36c193697cd4c485651f" resname="dashboard.summary.last_30_days">
+        <source>Last 30 days</source>
+        <target state="translated">Ultimi 30 giorni</target>
+        <note>key: dashboard.summary.last_30_days</note>
+      </trans-unit>
+      <trans-unit id="4fce840cb6ca00c22cd101fa83b2aca386cc37ef" resname="dashboard.summary.previous_month">
+        <source>Previous month %value%</source>
+        <target state="translated">Mese precedente %value%</target>
+        <note>key: dashboard.summary.previous_month</note>
+      </trans-unit>
+      <trans-unit id="789061607e938f706be41195c1bb23d6b475c24f" resname="dashboard.summary.recommendation_calls">
+        <source>Recommendation calls</source>
+        <target state="translated">Raccomandazioni chiamate</target>
+        <note>key: dashboard.summary.recommendation_calls</note>
+      </trans-unit>
+      <trans-unit id="317058113941ff04b87fb62ef09b7e9275875243" resname="ibexa_personalization.dashboard.date_of_purchase">
+        <source>Date of purchase</source>
+        <target state="translated">Data d'acquisto</target>
+        <note>key: ibexa_personalization.dashboard.date_of_purchase</note>
+      </trans-unit>
+      <trans-unit id="e17d3e1491126d7f3805d685513784cf7526cf6c" resname="ibexa_personalization.dashboard.item_bought">
+        <source>Item bought</source>
+        <target state="translated">Oggetto acquistato</target>
+        <note>key: ibexa_personalization.dashboard.item_bought</note>
+      </trans-unit>
+      <trans-unit id="5a0f88783a03d7e8d8848541ccfcf482d401b51d" resname="ibexa_personalization.dashboard.no_products_purchased">
+        <source>No products purchased</source>
+        <target state="translated">No prodotti acquistati</target>
+        <note>key: ibexa_personalization.dashboard.no_products_purchased</note>
+      </trans-unit>
+      <trans-unit id="d43f23ab8e91b3334e2115e686e3e778b8abf134" resname="ibexa_personalization.dashboard.price">
+        <source>Price</source>
+        <target state="translated">Prezzo</target>
+        <note>key: ibexa_personalization.dashboard.price</note>
+      </trans-unit>
+      <trans-unit id="6e7a8a2216686ba84d04f16114a6a9bc8d5dfe7d" resname="ibexa_personalization.date_time_range.custom_range">
+        <source>Custom range</source>
+        <target state="translated">Intervallo personalizzato</target>
+        <note>key: ibexa_personalization.date_time_range.custom_range</note>
+      </trans-unit>
+      <trans-unit id="2f1c5eeea5e27f7221e63ee2d39fc3dea707e33f" resname="ibexa_personalization.date_time_range.last_24h">
+        <source>Last 24h</source>
+        <target state="translated">Ultime 24 ore</target>
+        <note>key: ibexa_personalization.date_time_range.last_24h</note>
+      </trans-unit>
+      <trans-unit id="b12bf18424da695783a23569e34f0efc437cdc9f" resname="ibexa_personalization.date_time_range.last_30_days">
+        <source>Last 30 days</source>
+        <target state="translated">Ultimi 30 giorni</target>
+        <note>key: ibexa_personalization.date_time_range.last_30_days</note>
+      </trans-unit>
+      <trans-unit id="db6d8073db7e02acf280fda93a4448859b1b3494" resname="ibexa_personalization.date_time_range.last_7_days">
+        <source>Last 7 days</source>
+        <target state="translated">Ultimi 7 giorni</target>
+        <note>key: ibexa_personalization.date_time_range.last_7_days</note>
+      </trans-unit>
+      <trans-unit id="b290f724a771c2efaa3cb908a32bf9c38c47a23c" resname="ibexa_personalization.date_time_range.last_month">
+        <source>Last month</source>
+        <target state="translated">Il mese scorso</target>
+        <note>key: ibexa_personalization.date_time_range.last_month</note>
+      </trans-unit>
+      <trans-unit id="62fdfbd55d19b2a4671102ad7bca17d875f8207a" resname="import">
+        <source>Import</source>
+        <target state="translated">Importa</target>
+        <note>key: import</note>
+      </trans-unit>
+      <trans-unit id="2252bad82d97ae974718ebfd0210c8de13355ca9" resname="import.full_import">
+        <source>Full import</source>
+        <target state="translated">Importazione completa</target>
+        <note>key: import.full_import</note>
+      </trans-unit>
+      <trans-unit id="93f7f60494a8ca773d68bcf3d2208c6b84caf741" resname="import.imported_items">
+        <source>Imported items</source>
+        <target state="translated">Articoli importati</target>
+        <note>key: import.imported_items</note>
+      </trans-unit>
+      <trans-unit id="27c13e5f13d5713b0c77e82b643435a58d502bba" resname="import.item_type">
+        <source>Item type</source>
+        <target state="translated">Tipo oggetto</target>
+        <note>key: import.item_type</note>
+      </trans-unit>
+      <trans-unit id="337424bb599a9046abc11be12a0e9fd6a561cc37" resname="import.item_type_id">
+        <source>Item type ID</source>
+        <target state="translated">Tipo oggetto ID</target>
+        <note>key: import.item_type_id</note>
+      </trans-unit>
+      <trans-unit id="01cfdca28f4437b0df9af3a5bd854bd92d6f7bab" resname="import.language">
+        <source>Language</source>
+        <target state="translated">Lingua</target>
+        <note>key: import.language</note>
+      </trans-unit>
+      <trans-unit id="259839e6315c4cd7ef4c8e08f0488f11b2041b04" resname="import.no_items_imported">
+        <source>No items imported</source>
+        <target state="translated">Nessun elemento importato</target>
+        <note>key: import.no_items_imported</note>
+      </trans-unit>
+      <trans-unit id="032c3d291f2747bd18c632161b4c5c8c942d0ee0" resname="import.table_title">
+        <source>Imported items</source>
+        <target state="translated">Articoli importati</target>
+        <note>key: import.table_title</note>
+      </trans-unit>
+      <trans-unit id="5a342c5f54743c82e0c74540d6ebb3a3ea37998f" resname="model.details">
+        <source>Model details</source>
+        <target state="translated">Dettagli del modello</target>
+        <note>key: model.details</note>
+      </trans-unit>
+      <trans-unit id="b26cf18f4600baa01b7fecd963f893ca3424a2e6" resname="model.details.active">
+        <source>Active</source>
+        <target state="translated">Attivo</target>
+        <note>key: model.details.active</note>
+      </trans-unit>
+      <trans-unit id="736c8390cc639a1e94baff43ac6cf566ea20e5e7" resname="model.details.description">
+        <source>Model description</source>
+        <target state="translated">Descrizione del modello</target>
+        <note>key: model.details.description</note>
+      </trans-unit>
+      <trans-unit id="706d5289d4105fd8b6e076852cb8e8df8eeb1642" resname="model.details.event_history">
+        <source>Relevant event histor</source>
+        <target state="translated">Eventi storici rilevanti</target>
+        <note>key: model.details.event_history</note>
+      </trans-unit>
+      <trans-unit id="5349670bc14607a7d0b20eef5707d8de59d065a8" resname="model.details.general">
+        <source>General</source>
+        <target state="translated">Generale</target>
+        <note>key: model.details.general</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
