@@ -91,10 +91,75 @@
         <target state="translated">Tipo di contenuto</target>
         <note>key: matcher.content_type</note>
       </trans-unit>
+      <trans-unit id="d397c8abb0ffe2c4dda1ff9faea015d9c99f9f8d" resname="matcher.none">
+        <source>None</source>
+        <target state="translated">Nessuno</target>
+        <note>key: matcher.none</note>
+      </trans-unit>
+      <trans-unit id="3966df7d25826e3f6c5313b625810c1334559e7c" resname="modal.transition.list.title">
+        <source>Event timeline</source>
+        <target state="translated">Cronologia dell'evento</target>
+        <note>key: modal.transition.list.title</note>
+      </trans-unit>
+      <trans-unit id="ada0fcebefac344a2447069bba0039e73865b67d" resname="transition.list.entry.author">
+        <source>by %name%</source>
+        <target state="translated">da %name%</target>
+        <note>key: transition.list.entry.author</note>
+      </trans-unit>
+      <trans-unit id="86c591b194c7849d9efaacc4c3f19f5722ace8e9" resname="transition.list.entry.date">
+        <source>on %date%</source>
+        <target state="translated">il %date%</target>
+        <note>key: transition.list.entry.date</note>
+      </trans-unit>
+      <trans-unit id="db84cfaed6f2b9a52d159b6d9b12e41bdf2c27bf" resname="transition.list.entry.title">
+        <source>Stage changed to %stageNames%</source>
+        <target state="translated">Fase cambiata in %stageNames%</target>
+        <note>key: transition.list.entry.title</note>
+      </trans-unit>
+      <trans-unit id="80d070fe8257420d8f890afbf18c47475f7ddc24" resname="workflow.list.limitations">
+        <source>Limitations</source>
+        <target state="translated">Limitazioni</target>
+        <note>key: workflow.list.limitations</note>
+      </trans-unit>
+      <trans-unit id="7773cc19a09b17ae0b4dd6f0c0702af52f34983a" resname="workflow.list.name">
+        <source>Name</source>
+        <target state="translated">Nome</target>
+        <note>key: workflow.list.name</note>
+      </trans-unit>
+      <trans-unit id="4634ff400c5742cfe2c3985fcfb966e6b9a622a9" resname="workflow.list.stages">
+        <source>Stages</source>
+        <target state="translated">Fasi</target>
+        <note>key: workflow.list.stages</note>
+      </trans-unit>
+      <trans-unit id="101b75a4d7cd2e88611810107868fdf7ee813937" resname="workflow.list.title">
+        <source>Workflow</source>
+        <target state="translated">Flusso di lavoro</target>
+        <note>key: workflow.list.title</note>
+      </trans-unit>
       <trans-unit id="60defc14349bf190fd343945bba1ea4a5257e96f" resname="workflow.list.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
         <target state="translated"><![CDATA[Visualizzazione di <strong>%loaded%</strong> fuori da<strong>%total%</strong> elementi]]></target>
         <note>key: workflow.list.viewing</note>
+      </trans-unit>
+      <trans-unit id="434e7197d8ef9a80bded55e3eeec99ed5d1b28eb" resname="workflow.view.content_list.table.content_type">
+        <source>Content Type</source>
+        <target state="translated">Tipo di contenuto</target>
+        <note>key: workflow.view.content_list.table.content_type</note>
+      </trans-unit>
+      <trans-unit id="0c07def57bc5366e4b014b5634deeea824648a15" resname="workflow.view.content_list.table.name">
+        <source>Name</source>
+        <target state="translated">Nome</target>
+        <note>key: workflow.view.content_list.table.name</note>
+      </trans-unit>
+      <trans-unit id="20ad53e76ebb459ccc386fcc1e142f9a3cffcbcc" resname="workflow.view.content_list.table.viewing_page">
+        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
+        <target state="translated"><![CDATA[Visualizzazione di <strong>%viewing%</strong> fuori da <strong>%total%</strong> oggetti]]></target>
+        <note>key: workflow.view.content_list.table.viewing_page</note>
+      </trans-unit>
+      <trans-unit id="1c7c17941fd081fc0d090a50133fcef9b5ea163e" resname="workflow.view.tab.details">
+        <source>Details</source>
+        <target state="translated">Dettagli</target>
+        <note>key: workflow.view.tab.details</note>
       </trans-unit>
     </body>
   </file>
