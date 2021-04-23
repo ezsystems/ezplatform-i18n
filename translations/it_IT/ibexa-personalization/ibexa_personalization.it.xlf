@@ -1766,6 +1766,76 @@
         <target state="translated">Sconvolgimento</target>
         <note>key: models.name.upheaval</note>
       </trans-unit>
+      <trans-unit id="d5cb57fe1c5498899843a105f77d1315b542f70d" resname="models.name.upheaval_ctb">
+        <source>Upheaval ctb</source>
+        <target state="translated">Sconvolgimento ctp</target>
+        <note>key: models.name.upheaval_ctb</note>
+      </trans-unit>
+      <trans-unit id="23507814270c58c3f536c487dbf8a34154838d24" resname="models.name.upheaval_ctbuy">
+        <source>Upheaval ctbuy</source>
+        <target state="translated">Sconvolgimento ctbuy</target>
+        <note>key: models.name.upheaval_ctbuy</note>
+      </trans-unit>
+      <trans-unit id="9218039cd1dedb8d767da1fbcfd85f88c2e87050" resname="models.name.upheaval_ctc">
+        <source>Upheaval ctc</source>
+        <target state="translated">Sconvolgimento ctc</target>
+        <note>key: models.name.upheaval_ctc</note>
+      </trans-unit>
+      <trans-unit id="e4d4b2e0074f0fa2be41aacaf22da0ef5e01af06" resname="models.no_items_selected">
+        <source>No items selected</source>
+        <target state="translated">Nessun articolo selezionato</target>
+        <note>key: models.no_items_selected</note>
+      </trans-unit>
+      <trans-unit id="1226b834b9f64457ffa2096e0588f43d699912f7" resname="models.no_models_found">
+        <source>No models found</source>
+        <target state="translated">Nessun modello trovato</target>
+        <note>key: models.no_models_found</note>
+      </trans-unit>
+      <trans-unit id="dc5f5b272c8ff55115997a3a03566fdcd8de6cf4" resname="models.submodel.add_group">
+        <source>Add group</source>
+        <target state="translated">Aggiungi gruppo</target>
+        <note>key: models.submodel.add_group</note>
+      </trans-unit>
+      <trans-unit id="af049bae133c2a66e00223d36b84c97785bd4570" resname="models.submodel.add_range">
+        <source>Add range</source>
+        <target state="translated">Aggiungi intervallo</target>
+        <note>key: models.submodel.add_range</note>
+      </trans-unit>
+      <trans-unit id="e0aa8b751c057afd0361ec03ae85fec591a4d68a" resname="models.submodel.existing_groups">
+        <source>Existing groups</source>
+        <target state="translated">Gruppi esistenti</target>
+        <note>key: models.submodel.existing_groups</note>
+      </trans-unit>
+      <trans-unit id="fe6da97faca39d83d4e9107003d9a7604dc7e29b" resname="models.submodel.existing_ranges">
+        <source>Interval ranges</source>
+        <target state="translated">Intervalli di intervallo</target>
+        <note>key: models.submodel.existing_ranges</note>
+      </trans-unit>
+      <trans-unit id="66edc6fbb25029de99a8e6cf994f4b45938ddfe4" resname="models.submodels.interval-ranges">
+        <source>Interval ranges</source>
+        <target state="translated">Intervalli di intervallo</target>
+        <note>key: models.submodels.interval-ranges</note>
+      </trans-unit>
+      <trans-unit id="45fd1ac5513c46503322f526685fbf38f352c0d9" resname="models.table_title">
+        <source>Models (%number_of_models%)</source>
+        <target state="translated">Modelli (%number_of_models%)</target>
+        <note>key: models.table_title</note>
+      </trans-unit>
+      <trans-unit id="112232a33b21f504ff84142346bc3159c744ba52" resname="models.udw_title">
+        <source>Select items</source>
+        <target state="translated">Seleziona articoli</target>
+        <note>key: models.udw_title</note>
+      </trans-unit>
+      <trans-unit id="957226291e073ca677e6d8832df124c10ca75005" resname="number.format.million_abbreviation">
+        <source>M</source>
+        <target state="translated">M</target>
+        <note>key: number.format.million_abbreviation</note>
+      </trans-unit>
+      <trans-unit id="a0880a6e534e9e8274303ceca4e82de53c2894ce" resname="number.format.thousand_abbreviation">
+        <source>K</source>
+        <target state="translated">K</target>
+        <note>key: number.format.thousand_abbreviation</note>
+      </trans-unit>
       <trans-unit id="9aaed75dcdd718cf02f0131e529fd584dee89b7a" resname="scenario.output_type">
         <source>Output type</source>
         <target state="translated">Tipo di output</target>
