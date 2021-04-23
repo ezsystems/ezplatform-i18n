@@ -1836,6 +1836,116 @@
         <target state="translated">K</target>
         <note>key: number.format.thousand_abbreviation</note>
       </trans-unit>
+      <trans-unit id="2450f91d0471b0d58b2328dbf2a6e8b4e8be3f63" resname="recommendation_engine_is_not_available">
+        <source>Recommendation engine is not available. Please try again later.</source>
+        <target state="translated">Il motore di raccomandazione non è disponibile. Per favore riprova più tardi.</target>
+        <note>key: recommendation_engine_is_not_available</note>
+      </trans-unit>
+      <trans-unit id="eb4217fde2a12c79783d63d45ec301ef4f75e193" resname="sceanrio.create">
+        <source>Scenario create</source>
+        <target state="translated">Crea scenario</target>
+        <note>key: sceanrio.create</note>
+      </trans-unit>
+      <trans-unit id="f4e63e760ed8acfe83fe7bb8f0fe4cb0f5df174a" resname="sceanrio.edit">
+        <source>Scenario edit</source>
+        <target state="translated">Modifica scenario</target>
+        <note>key: sceanrio.edit</note>
+      </trans-unit>
+      <trans-unit id="a622e8ae135f0a75929d972bb9e4d15b7775966e" resname="scenario.add_tooltip">
+        <source>Add scenario</source>
+        <target state="translated">Aggiungi scenario</target>
+        <note>key: scenario.add_tooltip</note>
+      </trans-unit>
+      <trans-unit id="0822a677a1f1f08b54b364856fed6e26c196270c" resname="scenario.commerce_settings.do_not_recommend_if_price_unknown">
+        <source>Do not recommend if price unknown</source>
+        <target state="translated">Non raccomandare se il prezzo sconosciuto</target>
+        <note>key: scenario.commerce_settings.do_not_recommend_if_price_unknown</note>
+      </trans-unit>
+      <trans-unit id="e158a5de95cd44e2fef6d556108abe393fe57132" resname="scenario.commerce_settings.do_not_recommend_items_the_user_already_purchased">
+        <source>Do not recommend items the user already purchased</source>
+        <target state="translated">Non raccomandare gli articoli già acquistati dall'utente</target>
+        <note>key: scenario.commerce_settings.do_not_recommend_items_the_user_already_purchased</note>
+      </trans-unit>
+      <trans-unit id="e309221943467a614f28d6298bede4cf792e5542" resname="scenario.commerce_settings.item_price_should_equal_or_higher_than_the_price_of_the_context_item">
+        <source>Item price should equal or higher than the price of the context item</source>
+        <target state="translated">Il prezzo dell'oggetto dovrebbe essere uguale o superiore al prezzo dell'elemento contestuale</target>
+        <note>key: scenario.commerce_settings.item_price_should_equal_or_higher_than_the_price_of_the_context_item</note>
+      </trans-unit>
+      <trans-unit id="a3cc484345546bc4f57f6d9660bbc435d685ac5c" resname="scenario.commerce_settings.minimum_price_of_the_recommended_product">
+        <source>Minimum price of the recommended product</source>
+        <target state="translated">Prezzo minimo del prodotto raccomandato</target>
+        <note>key: scenario.commerce_settings.minimum_price_of_the_recommended_product</note>
+      </trans-unit>
+      <trans-unit id="4108cf98b6abe211775013949207684f9e3b68ae" resname="scenario.commerce_settings.no_top_selling_items">
+        <source>No top-selling items</source>
+        <target state="translated">No articoli più venduti</target>
+        <note>key: scenario.commerce_settings.no_top_selling_items</note>
+      </trans-unit>
+      <trans-unit id="d8197217fd483a87acdcbca16ba178604e08f6ea" resname="scenario.edit.general">
+        <source>General</source>
+        <target state="translated">Generale</target>
+        <note>key: scenario.edit.general</note>
+      </trans-unit>
+      <trans-unit id="8298a563f955af99e2518cdc3457641c009211b3" resname="scenario.edit.startegy.models">
+        <source>Models</source>
+        <target state="translated">Modelli</target>
+        <note>key: scenario.edit.startegy.models</note>
+      </trans-unit>
+      <trans-unit id="f1cc5c8c3171ac0d39eb47bccfc540099c5ea56f" resname="scenario.edit.startegy.startegy">
+        <source>Strategy</source>
+        <target state="translated">Strategia</target>
+        <note>key: scenario.edit.startegy.startegy</note>
+      </trans-unit>
+      <trans-unit id="de9253aa04bc0ab8be4e0851ba3cc12dec3d7487" resname="scenario.edit.strategy">
+        <source>Strategy</source>
+        <target state="translated">Strategia</target>
+        <note>key: scenario.edit.strategy</note>
+      </trans-unit>
+      <trans-unit id="42cc1557b7e4cefd98a1be34903f1b81a139bcf8" resname="scenario.fail_safe_models">
+        <source>Fail safe</source>
+        <target state="translated">Sicurezza fallita</target>
+        <note>key: scenario.fail_safe_models</note>
+      </trans-unit>
+      <trans-unit id="07d18774e803e0bfc4ef8891b733e24f90d5318b" resname="scenario.identifier">
+        <source>Identifier</source>
+        <target state="translated">Identificatore</target>
+        <note>key: scenario.identifier</note>
+      </trans-unit>
+      <trans-unit id="b0d7aa4b4044afdbd36954c30159cbc71c65da40" resname="scenario.input_type">
+        <source>Input type</source>
+        <target state="translated">Tipo di input</target>
+        <note>key: scenario.input_type</note>
+      </trans-unit>
+      <trans-unit id="fd21013add7516ec3651ffe859a657139df441ab" resname="scenario.models">
+        <source>Models</source>
+        <target state="translated">Modelli</target>
+        <note>key: scenario.models</note>
+      </trans-unit>
+      <trans-unit id="3083439c9902ccfffb2ff72255ef411b19bca456" resname="scenario.name">
+        <source>Name</source>
+        <target state="translated">Nome</target>
+        <note>key: scenario.name</note>
+      </trans-unit>
+      <trans-unit id="6695909a6c8e844c791c23966b14944ea7eb47a3" resname="scenario.no_of_calls">
+        <source>No. of calls</source>
+        <target state="translated">Numero di chiamate</target>
+        <note>key: scenario.no_of_calls</note>
+      </trans-unit>
+      <trans-unit id="0aada337ced6d6927b27360e60e7dab84a46b821" resname="scenario.no_scenarios_found">
+        <source>No scenarios found</source>
+        <target state="translated">Nessun scenario trovato</target>
+        <note>key: scenario.no_scenarios_found</note>
+      </trans-unit>
+      <trans-unit id="d8df16553d118738193650285b6cbf2eeace1a07" resname="scenario.non_operational">
+        <source>non-operational</source>
+        <target state="translated">non operativo</target>
+        <note>key: scenario.non_operational</note>
+      </trans-unit>
+      <trans-unit id="96f4e9998929f7d5ab572e85b5d3b35b49543849" resname="scenario.operational">
+        <source>operational</source>
+        <target state="translated">operativo</target>
+        <note>key: scenario.operational</note>
+      </trans-unit>
       <trans-unit id="9aaed75dcdd718cf02f0131e529fd584dee89b7a" resname="scenario.output_type">
         <source>Output type</source>
         <target state="translated">Tipo di output</target>
