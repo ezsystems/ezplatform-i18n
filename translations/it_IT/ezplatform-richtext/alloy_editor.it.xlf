@@ -6,55 +6,101 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="a31bc2d766bef988d3d4e2e0892c79b64d2aadd9" resname="anchor_btn.error.unique">
+        <source>Anchor name must be unique.</source>
+        <target state="translated">Il nome dell'ancoraggio deve essere univoco.</target>
+        <note>key: anchor_btn.error.unique</note>
+      </trans-unit>
+      <trans-unit id="88d893050d5eea476d9559abba8b7cdda519154a" resname="anchor_btn.error.valid">
+        <source>A valid anchor link is needed.</source>
+        <target state="translated">È necessario un collegamento di ancoraggio valido.</target>
+        <note>key: anchor_btn.error.valid</note>
+      </trans-unit>
+      <trans-unit id="2fec67b71cd77563c4e494477e691ba9661d95fe" resname="anchor_btn.label">
+        <source>Anchor</source>
+        <target state="translated">Ancoraggio</target>
+        <note>key: anchor_btn.label</note>
+      </trans-unit>
+      <trans-unit id="5589654c944d02946eaf80e23a84c5e2515be297" resname="anchor_edit.btn.remove.title">
+        <source>Remove</source>
+        <target state="translated">Rimuovi</target>
+        <note>key: anchor_edit.btn.remove.title</note>
+      </trans-unit>
+      <trans-unit id="e3cac876bf40ad24c9f0a7c272ca0564c2d6c901" resname="anchor_edit.btn.save.title">
+        <source>Save</source>
+        <target state="translated">Salva</target>
+        <note>key: anchor_edit.btn.save.title</note>
+      </trans-unit>
+      <trans-unit id="3adb317c25d79d7a5d63fbfe1d7f5f2ad91c0268" resname="anchor_edit.input.label">
+        <source>Name:</source>
+        <target state="translated">Nome:</target>
+        <note>key: anchor_edit.input.label</note>
+      </trans-unit>
+      <trans-unit id="babf94a4044ba933a0ebe008c0f027745402c989" resname="block_text_align_center_btn.label">
+        <source>Center</source>
+        <target state="translated">Centro</target>
+        <note>key: block_text_align_center_btn.label</note>
+      </trans-unit>
+      <trans-unit id="e9151d069b51a054185d5a9183626cb6995e3607" resname="blocktext_align_justify_btn.label">
+        <source>Justify</source>
+        <target state="translated">Giustifica</target>
+        <note>key: blocktext_align_justify_btn.label</note>
+      </trans-unit>
+      <trans-unit id="fb43488f3117923887d60b470389b92564d1224e" resname="blocktext_align_left_btn.label">
+        <source>Left</source>
+        <target state="translated">Sinistra</target>
+        <note>key: blocktext_align_left_btn.label</note>
+      </trans-unit>
+      <trans-unit id="03d653b8403e0a65fd6176a50f953a7f5ca746bd" resname="blocktext_align_right_btn.label">
+        <source>Right</source>
+        <target state="translated">Destra</target>
+        <note>key: blocktext_align_right_btn.label</note>
+      </trans-unit>
+      <trans-unit id="da43e66d744de44f705d4f8e512c3a5905d62e2d" resname="custom_attributes_update_btn.save_btn.label">
+        <source>Save</source>
+        <target state="translated">Salva</target>
+        <note>key: custom_attributes_update_btn.save_btn.label</note>
+      </trans-unit>
+      <trans-unit id="5598a3c54884b817fbba354b86d404a84ecfc2bb" resname="custom_tag_update_btn.cancel_btn.label">
+        <source>Cancel</source>
+        <target state="translated">Cancella</target>
+        <note>key: custom_tag_update_btn.cancel_btn.label</note>
+      </trans-unit>
+      <trans-unit id="3b4cdbba9b4d4209e8c826b072589dab7497fa46" resname="custom_tag_update_btn.save_btn.label">
+        <source>Save</source>
+        <target state="translated">Salva</target>
+        <note>key: custom_tag_update_btn.save_btn.label</note>
+      </trans-unit>
+      <trans-unit id="5a25d3a19c8addc868947381a4eb1a699d01cf22" resname="embed.ezlocation.error">
+        <source>This embedded item relies on 'ezlocation' imported from Legacy. It isn't supported by Online Editor yet.</source>
+        <target state="translated">Questo elemento incorporato si basa su "ezlocation" importato da Legacy. Non è ancora supportato dall'editor in linea.</target>
+        <note>key: embed.ezlocation.error</note>
+      </trans-unit>
+      <trans-unit id="ac0f20994b177772319ac51d8f9b3389ea74de7c" resname="embed_align_center_btn.label">
+        <source>Center</source>
+        <target state="translated">Centro</target>
+        <note>key: embed_align_center_btn.label</note>
+      </trans-unit>
+      <trans-unit id="2e4fbbc64e1aefa2a2911851e4e2f66052ee281a" resname="embed_align_left_btn.label">
+        <source>Left</source>
+        <target state="translated">Sinistra</target>
+        <note>key: embed_align_left_btn.label</note>
+      </trans-unit>
+      <trans-unit id="bb1fdd3591cc23c8878d97905e064107b3f833f2" resname="embed_align_right_btn.label">
+        <source>Right</source>
+        <target state="translated">Destra</target>
+        <note>key: embed_align_right_btn.label</note>
+      </trans-unit>
+      <trans-unit id="5761446626d26974269cd5f7fb428e268928932b" resname="embed_btn.label">
+        <source>Embed</source>
+        <target state="translated">Incorpora</target>
+        <note>key: embed_btn.label</note>
+      </trans-unit>
+      <trans-unit id="8527fe7f41af8879f558034d2b2cf316d20eb5e3" resname="embed_btn.udw.title">
+        <source>Select a Content item to embed</source>
+        <target state="translated">Seleziona un contenuto da incorporare</target>
+        <note>key: embed_btn.udw.title</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
