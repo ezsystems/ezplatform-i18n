@@ -341,6 +341,11 @@
         <target state="translated">Tutti la programmazione</target>
         <note>key: tab.name.all_scheduled</note>
       </trans-unit>
+      <trans-unit id="20a2c0c41c7091973e1490a65b2268e1f7794eda" resname="tab.name.my_scheduled">
+        <source>My scheduled content</source>
+        <target state="translated">I miei contenuti pianificati</target>
+        <note>key: tab.name.my_scheduled</note>
+      </trans-unit>
       <trans-unit id="49e01918c7a89ab888e3fea20cf0a9f7953b4908" resname="version.deleted">
         <source>Version deleted</source>
         <target state="translated">Versione eliminata</target>
