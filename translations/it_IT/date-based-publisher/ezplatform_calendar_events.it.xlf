@@ -106,6 +106,71 @@
         <target state="translated">Sei sicuro di voler annullare l'occultamento del contenuto selezionato?</target>
         <note>key: modal.future_hide.discard.header</note>
       </trans-unit>
+      <trans-unit id="1a2f2d6804fcdcb1c6303601f113fb57f53b13e0" resname="modal.future_hide.discard.table.event.label">
+        <source>Event</source>
+        <target state="translated">Evento</target>
+        <note>key: modal.future_hide.discard.table.event.label</note>
+      </trans-unit>
+      <trans-unit id="3a1339a4b677ce67c6565d1bac4a3c742999f636" resname="modal.future_hide.discard.table.name.label">
+        <source>Name</source>
+        <target state="translated">Nome</target>
+        <note>key: modal.future_hide.discard.table.name.label</note>
+      </trans-unit>
+      <trans-unit id="1e4306c3cc98473b86d8b03016465abcf0be2bc1" resname="modal.future_hide.reschedule.button.cancel.label">
+        <source>Cancel</source>
+        <target state="translated">Annulla</target>
+        <note>key: modal.future_hide.reschedule.button.cancel.label</note>
+      </trans-unit>
+      <trans-unit id="99f588ae4311b9253318557ac5004b357fe776b6" resname="modal.future_hide.reschedule.button.confirm.label">
+        <source>Confirm rescheduling</source>
+        <target state="translated">Conferma la riprogrammazione</target>
+        <note>key: modal.future_hide.reschedule.button.confirm.label</note>
+      </trans-unit>
+      <trans-unit id="2ea5eec8428ac4d294341d300eee8233b4575e27" resname="modal.future_hide.reschedule.date_picker.label">
+        <source>Date and time</source>
+        <target state="translated">Data e ora</target>
+        <note>key: modal.future_hide.reschedule.date_picker.label</note>
+      </trans-unit>
+      <trans-unit id="8273c51c9fe29e93d52f8ca01e3866ab99c50e1f" resname="modal.future_hide.reschedule.header">
+        <source>Reschedule hide</source>
+        <target state="translated">Riprogramma nascondi</target>
+        <note>key: modal.future_hide.reschedule.header</note>
+      </trans-unit>
+      <trans-unit id="4feddda3ea92d0dfe185e404d947f995ce63e6a9" resname="modal.reschedule.button.cancel.label">
+        <source>Cancel</source>
+        <target state="translated">Annulla</target>
+        <note>key: modal.reschedule.button.cancel.label</note>
+      </trans-unit>
+      <trans-unit id="4159d061bfaf75e9176056da9d23dd7cc84c0384" resname="modal.reschedule.button.confirm.label">
+        <source>Confirm rescheduling</source>
+        <target state="translated">Conferma la riprogrammazione</target>
+        <note>key: modal.reschedule.button.confirm.label</note>
+      </trans-unit>
+      <trans-unit id="fc49c887310579624a70c278ba3165543b062fb8" resname="modal.reschedule.date_picker.label">
+        <source>Date and time</source>
+        <target state="translated">Data e ora</target>
+        <note>key: modal.reschedule.date_picker.label</note>
+      </trans-unit>
+      <trans-unit id="08e266144cfe7944b220247a8643ac5261e0a400" resname="modal.reschedule.header">
+        <source>Reschedule publication</source>
+        <target state="translated">Riprogramma la pubblicazione</target>
+        <note>key: modal.reschedule.header</note>
+      </trans-unit>
+      <trans-unit id="f48c4e472bd9e86a066060225f621949424f2b81" resname="reschedule.error.message">
+        <source>Cannot reschedule</source>
+        <target state="translated">Impossibile riprogrammare</target>
+        <note>key: reschedule.error.message</note>
+      </trans-unit>
+      <trans-unit id="efe280f52ff7d384892d51a05ca8fe577ab73d78" resname="unschedule.error.message">
+        <source>Cannot cancel selected publication(s)</source>
+        <target state="translated">Impossibile annullare la pubblicazione(i) selezionate</target>
+        <note>key: unschedule.error.message</note>
+      </trans-unit>
+      <trans-unit id="77eef3d0eaf019da502760210df92d209f23bcd6" resname="unschedule.future_hide.error.message">
+        <source>Cannot cancel selected hide(s)</source>
+        <target state="translated">Impossibile annullare i nascondigli selezionati</target>
+        <note>key: unschedule.future_hide.error.message</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
