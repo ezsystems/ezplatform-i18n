@@ -6,10 +6,50 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="50fbff4724e8543718a7a0fe08fc1f134bbeb7d6" resname="limitation_type.none">
+        <source>No Limitations</source>
+        <target state="translated">No Limitazioni</target>
+        <note>key: limitation_type.none</note>
+      </trans-unit>
       <trans-unit id="e4eb27643d4149122e8009b8ca930678eadcd713" resname="limitation_type.section">
         <source>Sections</source>
         <target state="translated">Sezioni</target>
         <note>key: limitation_type.section</note>
+      </trans-unit>
+      <trans-unit id="5e91632f7d9ab6e55cf2df01163acebcb1a124d0" resname="limitation_type.subtree">
+        <source>Subtree</source>
+        <target state="translated">Sottostruttura</target>
+        <note>key: limitation_type.subtree</note>
+      </trans-unit>
+      <trans-unit id="0dbfb3fd5136aa1d54a82ba5e5f399c2908d26f2" resname="locations.select_subtree">
+        <source>Select Subtree</source>
+        <target state="translated">Seleziona sottostruttura</target>
+        <note>key: locations.select_subtree</note>
+      </trans-unit>
+      <trans-unit id="8e8d15bb05038bded496a7dfcdf6374b9449bc51" resname="policy.add.policy.title">
+        <source>Adding Policy of type:</source>
+        <target state="translated">Aggiunta di criteri di tipo:</target>
+        <note>key: policy.add.policy.title</note>
+      </trans-unit>
+      <trans-unit id="df3bafbf431f3c222cebeaec45da0a089cf63736" resname="policy.add.set_limitation">
+        <source>Now you can set Limitations for the Policy.</source>
+        <target state="translated">Ora puoi impostare le limitazioni per la policy.</target>
+        <note>key: policy.add.set_limitation</note>
+      </trans-unit>
+      <trans-unit id="d92993cb4cb3690f06c599b5f500a29fa23421c9" resname="policy.add.success">
+        <source>Created new Policies in Role '%role%'.</source>
+        <target state="translated">Nuovi criteri creati nel ruolo '% role%'.</target>
+        <note>key: policy.add.success</note>
+      </trans-unit>
+      <trans-unit id="196c8d4eec96ca42ccdd3605621d51e2b34b6d85" resname="policy.breadcrumb.add">
+        <source>Adding a new Policy</source>
+        <target state="translated">Aggiungere una nuova politica</target>
+        <note>key: policy.breadcrumb.add</note>
+      </trans-unit>
+      <trans-unit id="8a7079c136f19a37dc42a6192fb94a11d19105ad" resname="policy.breadcrumb.edit">
+        <source>Edit Limitations</source>
+        <target state="translated">Modifica Limitazioni</target>
+        <note>key: policy.breadcrumb.edit</note>
       </trans-unit>
       <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none">
         <source>None</source>
