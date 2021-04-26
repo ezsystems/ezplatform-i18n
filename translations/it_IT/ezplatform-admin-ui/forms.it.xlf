@@ -261,6 +261,106 @@
         <target state="translated">Contenuto / Versionread</target>
         <note>key: role.policy.content.versionread</note>
       </trans-unit>
+      <trans-unit id="4e615fcc14a6f5b70fb3e7957518c27bc508d92f" resname="role.policy.content.versionremove">
+        <source>Content / Versionremove</source>
+        <target state="translated">Contenuto / Versionremove</target>
+        <note>key: role.policy.content.versionremove</note>
+      </trans-unit>
+      <trans-unit id="81703573067457c42db3d0c8cce70e1d1e0128a5" resname="role.policy.content.view_embed">
+        <source>Content / View embed</source>
+        <target state="translated">Contenuto / Vista incorporato</target>
+        <note>key: role.policy.content.view_embed</note>
+      </trans-unit>
+      <trans-unit id="6ff0bcc1b70d0dbde113af7649393f667612cace" resname="role.policy.role">
+        <source>Role</source>
+        <target state="translated">Ruolo</target>
+        <note>key: role.policy.role</note>
+      </trans-unit>
+      <trans-unit id="17f55c17c76ccfcf636ce429b867f89069609bcd" resname="role.policy.role.all_functions">
+        <source>Role / All functions</source>
+        <target state="translated">Ruolo / Tutte le funzioni</target>
+        <note>key: role.policy.role.all_functions</note>
+      </trans-unit>
+      <trans-unit id="cf922ebcfc51ae098cb57a938984916e03c0481c" resname="role.policy.role.assign">
+        <source>Role / Assign</source>
+        <target state="translated">Ruolo / Assegna</target>
+        <note>key: role.policy.role.assign</note>
+      </trans-unit>
+      <trans-unit id="f12cc8bc381274c232a90deae7ce981dbc3634cb" resname="role.policy.role.create">
+        <source>Role / Create</source>
+        <target state="translated">Ruolo / Crea</target>
+        <note>key: role.policy.role.create</note>
+      </trans-unit>
+      <trans-unit id="d17c0339a48c6e273c56673c31037427fd95ecee" resname="role.policy.role.delete">
+        <source>Role / Delete</source>
+        <target state="translated">Ruolo / Elimina</target>
+        <note>key: role.policy.role.delete</note>
+      </trans-unit>
+      <trans-unit id="1e809cc5ab4e914e5dc51fa2dc0a6b62a90bc2f1" resname="role.policy.role.read">
+        <source>Role / Read</source>
+        <target state="translated">Ruolo / Lettura</target>
+        <note>key: role.policy.role.read</note>
+      </trans-unit>
+      <trans-unit id="2f8dccfd705bd25a633826ff76f595e118a71dcf" resname="role.policy.role.update">
+        <source>Role / Update</source>
+        <target state="translated">Ruolo / Aggiornamento</target>
+        <note>key: role.policy.role.update</note>
+      </trans-unit>
+      <trans-unit id="7153cdd53211bedab219659c1d1656693d3bb4ae" resname="role.policy.section">
+        <source>Section</source>
+        <target state="translated">Sezione</target>
+        <note>key: role.policy.section</note>
+      </trans-unit>
+      <trans-unit id="f5e387481bf702e73317dcbccff5d55fc111550e" resname="role.policy.section.all_functions">
+        <source>Section / All functions</source>
+        <target state="translated">Sezione / Tutte le funzioni</target>
+        <note>key: role.policy.section.all_functions</note>
+      </trans-unit>
+      <trans-unit id="2f63b236417b33905613e757497387c99e47a848" resname="role.policy.section.assign">
+        <source>Section / Assign</source>
+        <target state="translated">Sezione / Assegna</target>
+        <note>key: role.policy.section.assign</note>
+      </trans-unit>
+      <trans-unit id="9ce67233e7377c7ac36c6ccbdf1a49a582aca59d" resname="role.policy.section.edit">
+        <source>Section / Edit</source>
+        <target state="translated">Sezione / Modifica</target>
+        <note>key: role.policy.section.edit</note>
+      </trans-unit>
+      <trans-unit id="c80fb60940421ce0b94226255211ec10dc9208b4" resname="role.policy.section.view">
+        <source>Section / View</source>
+        <target state="translated">Sezione / Vista</target>
+        <note>key: role.policy.section.view</note>
+      </trans-unit>
+      <trans-unit id="33092ebd51699d4d3f598b8488e7bc5969038bff" resname="role.policy.setup">
+        <source>Setup</source>
+        <target state="translated">Configurazione</target>
+        <note>key: role.policy.setup</note>
+      </trans-unit>
+      <trans-unit id="a72fa98205c4f68fc53506f9b57e645be450ce86" resname="role.policy.setup.administrate">
+        <source>Setup / Administrate</source>
+        <target state="translated">Impostazione / Amministrazione</target>
+        <note>key: role.policy.setup.administrate</note>
+      </trans-unit>
+      <trans-unit id="df52828e26336a4a6f3186e0d6eb75d98056aeaa" resname="role.policy.setup.all_functions">
+        <source>Setup / All functions</source>
+        <target state="translated">Impostazione / Tutte le funzioni</target>
+        <note>key: role.policy.setup.all_functions</note>
+      </trans-unit>
+      <trans-unit id="32c1032c29386bcf41793f2542b3476887249bc5" resname="role.policy.setup.install">
+        <source>Setup / Install</source>
+        <target state="translated">Configurazione / Installazione</target>
+        <note>key: role.policy.setup.install</note>
+      </trans-unit>
+      <trans-unit id="4ce0aa17f80167751257ddb6e0cc8e06ca9c1bbb" resname="role.policy.setup.setup">
+        <source>Setup / Setup</source>
+        <target state="translated">Configurazione / Configurazione</target>
+        <note>key: role.policy.setup.setup</note>
+      </trans-unit>
+      <trans-unit id="a77dcd2893dc76a7e94fe088b775045fde8651e4" resname="role.policy.setup.system_info">
+        <source>Setup / System info</source>
+        <target state="translated">Impostazione / Informazioni di sistema</target>
+        <note>key: role.policy.setup.system_info</note>
+      </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
         <source>Type</source>
         <target state="translated">Tipo</target>
@@ -296,6 +396,21 @@
         <target state="translated">Etichetta per il campo</target>
         <note>key: role_update.name</note>
       </trans-unit>
+      <trans-unit id="453d030fbc11c10c842807ff213039adfffbe051" resname="role_update.save">
+        <source>Update</source>
+        <target state="translated">Aggiorna</target>
+        <note>key: role_update.save</note>
+      </trans-unit>
+      <trans-unit id="f3a2d2ec4f587435900fdec3f0fb973592b57147" resname="section_content_assign_form.assign">
+        <source>Assign content</source>
+        <target state="translated">Assegna contenuto</target>
+        <note>key: section_content_assign_form.assign</note>
+      </trans-unit>
+      <trans-unit id="72b286dbf7ede406ec805d27d4ee834b8a159670" resname="section_content_assign_form.locations">
+        <source>Assign content</source>
+        <target state="translated">Assegna contenuto</target>
+        <note>key: section_content_assign_form.locations</note>
+      </trans-unit>
       <trans-unit id="4d1b71ebb6b86d78f0902fa5a6ef329c070efdad" resname="section_create_form.create">
         <source>Create</source>
         <target state="translated">Crea</target>
@@ -316,10 +431,25 @@
         <target state="translated">Etichetta per il campo</target>
         <note>key: section_form.name</note>
       </trans-unit>
+      <trans-unit id="ecaa9ee7b46159c99796726b8e14693d821e5500" resname="section_update_form.update">
+        <source>Update</source>
+        <target state="translated">Aggiorna</target>
+        <note>key: section_update_form.update</note>
+      </trans-unit>
+      <trans-unit id="30b0c3c3e5e096a078005be2cc34bca6227ae381" resname="trash_empty_form.empty">
+        <source>Delete permanently</source>
+        <target state="translated">Elimina permanentemente</target>
+        <note>key: trash_empty_form.empty</note>
+      </trans-unit>
       <trans-unit id="7fb1cbcd94553ff377f8e1e4461246af38e14e85" resname="user_delete_form.delete">
         <source>Delete</source>
         <target state="translated">Cancella</target>
         <note>key: user_delete_form.delete</note>
+      </trans-unit>
+      <trans-unit id="3b2ae7aa286887e2fbd2b6e77ca237f9f9109e9b" resname="version_remove_form.remove">
+        <source>Remove version</source>
+        <target state="translated">Rimuovi versione</target>
+        <note>key: version_remove_form.remove</note>
       </trans-unit>
     </body>
   </file>
