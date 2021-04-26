@@ -21,10 +21,45 @@
         <target state="translated">Applica</target>
         <note>key: search.apply</note>
       </trans-unit>
+      <trans-unit id="27f2f932e2b2f60b36b3331b45a3e15b421ee86f" resname="search.clear">
+        <source>Clear</source>
+        <target state="translated">Pulisci</target>
+        <note>key: search.clear</note>
+      </trans-unit>
+      <trans-unit id="a18d7835f5b4a97ac94331f82e729abcb698be41" resname="search.custom_range">
+        <source>Custom range</source>
+        <target state="translated">Gamma personalizzata</target>
+        <note>key: search.custom_range</note>
+      </trans-unit>
+      <trans-unit id="bf24ae2c9083c948931ad1b4d4405b6261eb9bc6" resname="search.filters">
+        <source>Filters</source>
+        <target state="translated">Filtri</target>
+        <note>key: search.filters</note>
+      </trans-unit>
+      <trans-unit id="0ec8148d681b43e87a6d0751fff188517be1ea26" resname="search.header">
+        <source>Search results (%total%)</source>
+        <target state="translated">Risultati della ricerca (%total%)</target>
+        <note>key: search.header</note>
+      </trans-unit>
       <trans-unit id="1d83218940b91b2cc81ae9d0a694682f6cb04813" resname="search.headline">
         <source>Search</source>
         <target state="translated">Ricerca</target>
         <note>key: search.headline</note>
+      </trans-unit>
+      <trans-unit id="2d007a8d9fc080db790dc5c45c12dd369d144fbe" resname="search.last_month">
+        <source>Last month</source>
+        <target state="translated">Lo scorso mese</target>
+        <note>key: search.last_month</note>
+      </trans-unit>
+      <trans-unit id="967e0a47af2b621d7e8fa29b2429a30644f8d6bb" resname="search.last_week">
+        <source>Last week</source>
+        <target state="translated">La settimana scorsa</target>
+        <note>key: search.last_week</note>
+      </trans-unit>
+      <trans-unit id="c1244001dc023e80d3e6d8331935c68ac140788b" resname="search.last_year">
+        <source>Last year</source>
+        <target state="translated">L'anno scorso</target>
+        <note>key: search.last_year</note>
       </trans-unit>
       <trans-unit id="0ea91510ce49731de30d4d412dc62c83c91b359d" resname="search.modified">
         <source>Modified</source>
@@ -41,10 +76,35 @@
         <target state="translated">Ricerca</target>
         <note>key: search.perform</note>
       </trans-unit>
+      <trans-unit id="1ac4d5da88d06451590cade73ec7e2c4a8b98c2e" resname="search.select_content">
+        <source>Select Content</source>
+        <target state="translated">Seleziona Contenuto</target>
+        <note>key: search.select_content</note>
+      </trans-unit>
+      <trans-unit id="d89a8ff5c4b03f1dd7bd1ce3e3306862e1855751" resname="search.tips.different_keywords">
+        <source>Try different keywords.</source>
+        <target state="translated">Prova diverse parole chiave.</target>
+        <note>key: search.tips.different_keywords</note>
+      </trans-unit>
+      <trans-unit id="4af1e76946070e5f61320621d12a171f4206e06c" resname="search.tips.headline">
+        <source>Some helpful search tips:</source>
+        <target state="translated">Alcuni consigli utili di ricerca:</target>
+        <note>key: search.tips.headline</note>
+      </trans-unit>
+      <trans-unit id="dd61516edc919235a13e3cfadb5d961b8614b744" resname="search.tips.more_general_keywords">
+        <source>Try more general keywords.</source>
+        <target state="translated">Prova parole chiave più generali.</target>
+        <note>key: search.tips.more_general_keywords</note>
+      </trans-unit>
       <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type">
         <source>Content Type</source>
         <target state="translated">Tipo</target>
         <note>key: search.type</note>
+      </trans-unit>
+      <trans-unit id="c33e03cc28d02c59ac241dba3a1bb3ea0ab1f358" resname="search.udw.select_content">
+        <source>Select Content</source>
+        <target state="translated">Seleziona Contenuto</target>
+        <note>key: search.udw.select_content</note>
       </trans-unit>
     </body>
   </file>
