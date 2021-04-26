@@ -131,6 +131,36 @@
         <target state="translated">Vista giornaliera</target>
         <note>key: calendar.tooltips.day</note>
       </trans-unit>
+      <trans-unit id="faeb6e1b3f9b7027db26a9f89d57d8f227d6c272" resname="calendar.tooltips.forward">
+        <source>Forward</source>
+        <target state="translated">Avanti</target>
+        <note>key: calendar.tooltips.forward</note>
+      </trans-unit>
+      <trans-unit id="94ddc4162ee7f00136d3762b904a8d65d243b043" resname="calendar.tooltips.month">
+        <source>Month view</source>
+        <target state="translated">Vista mensile</target>
+        <note>key: calendar.tooltips.month</note>
+      </trans-unit>
+      <trans-unit id="9efc548cd2c43473f61939293edcaa989b33334c" resname="calendar.tooltips.week">
+        <source>Week view</source>
+        <target state="translated">Vista settimanale</target>
+        <note>key: calendar.tooltips.week</note>
+      </trans-unit>
+      <trans-unit id="d4cddd2ef20d8cd6eaa68a8b317d8123ef7ff7b0" resname="calendar.view_switcher.day">
+        <source>Day</source>
+        <target state="translated">Giorno</target>
+        <note>key: calendar.view_switcher.day</note>
+      </trans-unit>
+      <trans-unit id="91ab2c16d10a590748a95b3a79909f85c5ee8260" resname="calendar.view_switcher.month">
+        <source>Month</source>
+        <target state="translated">Mese</target>
+        <note>key: calendar.view_switcher.month</note>
+      </trans-unit>
+      <trans-unit id="6ad5890bfc0f61932f33981c6187e7e35c4d6a9a" resname="calendar.view_switcher.week">
+        <source>Week</source>
+        <target state="translated">Settimana</target>
+        <note>key: calendar.view_switcher.week</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
