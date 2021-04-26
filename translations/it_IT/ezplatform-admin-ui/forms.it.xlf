@@ -666,15 +666,265 @@
         <target state="translated">Politica Siso / Gestione ordini persi</target>
         <note>key: role.policy.siso_policy.lostorder_manage</note>
       </trans-unit>
+      <trans-unit id="688e008587c8352f5da048fb406deb56a378e0f7" resname="role.policy.siso_policy.lostorder_process">
+        <source>Siso policy / Lostorder process</source>
+        <target state="translated">Siso policy / Processo di smarrimento</target>
+        <note>key: role.policy.siso_policy.lostorder_process</note>
+      </trans-unit>
+      <trans-unit id="c49537d92074b71972584fd044d74b19d8294696" resname="role.policy.siso_policy.manage_config">
+        <source>Siso policy / Manage config</source>
+        <target state="translated">Criteri di Siso / Gestione configurazione</target>
+        <note>key: role.policy.siso_policy.manage_config</note>
+      </trans-unit>
+      <trans-unit id="5e7b82eec437e05e7bfe872efb13d03a06270d4b" resname="role.policy.siso_policy.manage_orders">
+        <source>Siso policy / Manage orders</source>
+        <target state="translated">Siso policy / Gestione ordini</target>
+        <note>key: role.policy.siso_policy.manage_orders</note>
+      </trans-unit>
+      <trans-unit id="4d011e68fa852b7feca863504519636a7de5a4b0" resname="role.policy.siso_policy.manage_prices">
+        <source>Siso policy / Manage prices</source>
+        <target state="translated">Siso policy / Gestione prezzi</target>
+        <note>key: role.policy.siso_policy.manage_prices</note>
+      </trans-unit>
+      <trans-unit id="ad5b397ac92ddf8256ce2d9ab12818a383203a5b" resname="role.policy.siso_policy.manage_rating">
+        <source>Siso policy / Manage rating</source>
+        <target state="translated">Criteri di Siso / Gestisci valutazione</target>
+        <note>key: role.policy.siso_policy.manage_rating</note>
+      </trans-unit>
+      <trans-unit id="e7c54b592a3ebad126466c968eca3fd64e94feb6" resname="role.policy.siso_policy.manage_shipping_costs">
+        <source>Siso policy / Manage shipping costs</source>
+        <target state="translated">Siso policy / Gestisci le spese di spedizione</target>
+        <note>key: role.policy.siso_policy.manage_shipping_costs</note>
+      </trans-unit>
+      <trans-unit id="4703ea64a83fc55601798cc19d29d879f2b79512" resname="role.policy.siso_policy.manage_stock">
+        <source>Siso policy / Manage stock</source>
+        <target state="translated">Criteri di Siso / Gestisci le scorte</target>
+        <note>key: role.policy.siso_policy.manage_stock</note>
+      </trans-unit>
+      <trans-unit id="731f061c484863f3367c7ddc90b45420d8edb2ad" resname="role.policy.siso_policy.order_list">
+        <source>Siso policy / Order list</source>
+        <target state="translated">Politica di Siso / Lista ordini</target>
+        <note>key: role.policy.siso_policy.order_list</note>
+      </trans-unit>
+      <trans-unit id="ca5cbff667a1c069eb8b95791ce0d99575da77c7" resname="role.policy.siso_policy.orderhistory_view">
+        <source>Siso policy / Orderhistory view</source>
+        <target state="translated">Siso policy / Vista cronologia ordini</target>
+        <note>key: role.policy.siso_policy.orderhistory_view</note>
+      </trans-unit>
+      <trans-unit id="9711026ce5d7f383f5b2254deb8b0202e048dcec" resname="role.policy.siso_policy.quickorder">
+        <source>Siso policy / Quickorder</source>
+        <target state="translated">Siso policy / Ordine rapido</target>
+        <note>key: role.policy.siso_policy.quickorder</note>
+      </trans-unit>
+      <trans-unit id="b15b9699a7bf845ed87f812d8aa33f0a045e9193" resname="role.policy.siso_policy.rating_review">
+        <source>Siso policy / Rating review</source>
+        <target state="translated">Siso policy / Valutazione recensione</target>
+        <note>key: role.policy.siso_policy.rating_review</note>
+      </trans-unit>
+      <trans-unit id="82fb01df828843524e88fc46a99f1309166365da" resname="role.policy.siso_policy.read_basket">
+        <source>Siso policy / Read basket</source>
+        <target state="translated">Politica di Siso / Lettura del cestino</target>
+        <note>key: role.policy.siso_policy.read_basket</note>
+      </trans-unit>
+      <trans-unit id="1e26e0c4e32f262b67793f019b92099edc8d172c" resname="role.policy.siso_policy.read_customers_and_orders">
+        <source>Siso policy / Read customers and orders</source>
+        <target state="translated">Siso policy / Leggi clienti e ordini</target>
+        <note>key: role.policy.siso_policy.read_customers_and_orders</note>
+      </trans-unit>
+      <trans-unit id="ce07309083f3e9bbc06557a454f86d028bc0b37a" resname="role.policy.siso_policy.see_product_price">
+        <source>Siso policy / See product price</source>
+        <target state="translated">Siso policy / Vedi il prezzo del prodotto</target>
+        <note>key: role.policy.siso_policy.see_product_price</note>
+      </trans-unit>
+      <trans-unit id="a0be285570ab4606874b408bce8d9097d3ef8a52" resname="role.policy.siso_policy.translations">
+        <source>Siso policy / Translations</source>
+        <target state="translated">Siso policy / Traduzioni</target>
+        <note>key: role.policy.siso_policy.translations</note>
+      </trans-unit>
+      <trans-unit id="b7006b9e044c2aea8159bac92bd8d70c0eca978d" resname="role.policy.siso_policy.update_exchange_rates">
+        <source>Siso policy / Update exchange rates</source>
+        <target state="translated">Politica di Siso / Aggiorna i tassi di cambio</target>
+        <note>key: role.policy.siso_policy.update_exchange_rates</note>
+      </trans-unit>
+      <trans-unit id="b9bc8a260965f23a45db9ce5b412757b41dc1c55" resname="role.policy.siso_policy.write_basket">
+        <source>Siso policy / Write basket</source>
+        <target state="translated">Politica di Siso /Scrivi cestino</target>
+        <note>key: role.policy.siso_policy.write_basket</note>
+      </trans-unit>
+      <trans-unit id="2e2e751bf3201fb6c68307c683a3ac384b9ec0cf" resname="role.policy.site">
+        <source>Site</source>
+        <target state="translated">Sito</target>
+        <note>key: role.policy.site</note>
+      </trans-unit>
+      <trans-unit id="8a7be79652e042c41e49671038f309291c780c78" resname="role.policy.site.all_functions">
+        <source>Site / All functions</source>
+        <target state="translated">Sito / Tutte le funzioni</target>
+        <note>key: role.policy.site.all_functions</note>
+      </trans-unit>
+      <trans-unit id="fa041654ee2bd9a54a870675fc96399dac830b73" resname="role.policy.site.change_status">
+        <source>Site / Change status</source>
+        <target state="translated">Sito / Cambia stato</target>
+        <note>key: role.policy.site.change_status</note>
+      </trans-unit>
+      <trans-unit id="7974d9702481b771e623dd447d3df7d8e7350e7b" resname="role.policy.site.create">
+        <source>Site / Create</source>
+        <target state="translated">Sito / Crea</target>
+        <note>key: role.policy.site.create</note>
+      </trans-unit>
+      <trans-unit id="45e0983429e1df736d0c26b5b9c62a8f522c5c00" resname="role.policy.site.delete">
+        <source>Site / Delete</source>
+        <target state="translated">Sito / Elimina</target>
+        <note>key: role.policy.site.delete</note>
+      </trans-unit>
+      <trans-unit id="f473815a92d4ec35eeaa54464164aa98119594df" resname="role.policy.site.edit">
+        <source>Site / Edit</source>
+        <target state="translated">Sito / Modifica</target>
+        <note>key: role.policy.site.edit</note>
+      </trans-unit>
+      <trans-unit id="34b7e317be37673c466c03c644176ffb618295a8" resname="role.policy.site.view">
+        <source>Site / View</source>
+        <target state="translated">Sito / Vista</target>
+        <note>key: role.policy.site.view</note>
+      </trans-unit>
+      <trans-unit id="012dce76ef569ba377ffe98ddbee8d3c3d270e15" resname="role.policy.state">
+        <source>State</source>
+        <target state="translated">Stato</target>
+        <note>key: role.policy.state</note>
+      </trans-unit>
+      <trans-unit id="0dc3b2e6978f026be583bcf078e15c4157a51d19" resname="role.policy.state.administrate">
+        <source>State / Administrate</source>
+        <target state="translated">Stato / Amministrazione</target>
+        <note>key: role.policy.state.administrate</note>
+      </trans-unit>
+      <trans-unit id="5a57c4086c786d6c767dfca68486d64c60ec58bf" resname="role.policy.state.all_functions">
+        <source>State / All functions</source>
+        <target state="translated">Stato / Tutte le funzioni</target>
+        <note>key: role.policy.state.all_functions</note>
+      </trans-unit>
+      <trans-unit id="8c144b2e58f6ba9388517a5929bfd12a0773ddd2" resname="role.policy.state.assign">
+        <source>State / Assign</source>
+        <target state="translated">Stato / Assegna</target>
+        <note>key: role.policy.state.assign</note>
+      </trans-unit>
+      <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
+        <source>Policy</source>
+        <target state="translated">Politica</target>
+        <note>key: role.policy.type</note>
+      </trans-unit>
+      <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
+        <source>Choose a Policy</source>
+        <target state="translated">Scegli un criterio</target>
+        <note>key: role.policy.type.choose</note>
+      </trans-unit>
+      <trans-unit id="73c3d3a21c7264a991abf4e6ffe68751a1dbdb58" resname="role.policy.url">
+        <source>Url</source>
+        <target state="translated">Url</target>
+        <note>key: role.policy.url</note>
+      </trans-unit>
+      <trans-unit id="4b00222e7c5b268480fe9db2de1744d0f25b677f" resname="role.policy.url.all_functions">
+        <source>Url / All functions</source>
+        <target state="translated">Url / Tutte le funzioni</target>
+        <note>key: role.policy.url.all_functions</note>
+      </trans-unit>
+      <trans-unit id="4bf7f289b67892bf61f10b4f9a1db7b6dc09e69a" resname="role.policy.url.update">
+        <source>Url / Update</source>
+        <target state="translated">Url / Aggiorna</target>
+        <note>key: role.policy.url.update</note>
+      </trans-unit>
+      <trans-unit id="a9e0e8261157424542b507b9ae39b4e1193d24cd" resname="role.policy.url.view">
+        <source>Url / View</source>
+        <target state="translated">Url / Visualizza</target>
+        <note>key: role.policy.url.view</note>
+      </trans-unit>
+      <trans-unit id="78b9d0d52e636ef2d0d1f919de16154404c2be0f" resname="role.policy.user">
+        <source>User</source>
+        <target state="translated">Utente</target>
+        <note>key: role.policy.user</note>
+      </trans-unit>
+      <trans-unit id="647dfa7992026277b6d73295b2ffaefe4cfa12d0" resname="role.policy.user.activation">
+        <source>User / Activation</source>
+        <target state="translated">Utente / Attivazione</target>
+        <note>key: role.policy.user.activation</note>
+      </trans-unit>
+      <trans-unit id="d44ce8c33cbc780cff9ca6f05ad2f70002550cd0" resname="role.policy.user.all_functions">
+        <source>User / All functions</source>
+        <target state="translated">Utente / Tutte le funzioni</target>
+        <note>key: role.policy.user.all_functions</note>
+      </trans-unit>
+      <trans-unit id="f25505dc2f59df21e3125664c4fdad951d82df3b" resname="role.policy.user.login">
+        <source>User / Login</source>
+        <target state="translated">Utente / Accesso</target>
+        <note>key: role.policy.user.login</note>
+      </trans-unit>
+      <trans-unit id="d971078868184d3d233fb14032fda9ef614c2baa" resname="role.policy.user.password">
+        <source>User / Password</source>
+        <target state="translated">Utente / Password</target>
+        <note>key: role.policy.user.password</note>
+      </trans-unit>
+      <trans-unit id="28d15501824f89951d4068af32fbc52eb1412b8d" resname="role.policy.user.preferences">
+        <source>User / Preferences</source>
+        <target state="translated">Utente / Preferenze</target>
+        <note>key: role.policy.user.preferences</note>
+      </trans-unit>
+      <trans-unit id="8f79f6008557e588c0a8b13ccdc42d6babc073c9" resname="role.policy.user.register">
+        <source>User / Register</source>
+        <target state="translated">Utente / Registrati</target>
+        <note>key: role.policy.user.register</note>
+      </trans-unit>
+      <trans-unit id="106b2a3fa38c660c838efe1905c904ce689a2d75" resname="role.policy.user.selfedit">
+        <source>User / Selfedit</source>
+        <target state="translated">Utente / Modifica da solo</target>
+        <note>key: role.policy.user.selfedit</note>
+      </trans-unit>
+      <trans-unit id="30c5e1c11a520e499ad68130a2c7b844c2243888" resname="role.policy.workflow">
+        <source>Workflow</source>
+        <target state="translated">Flusso di lavoro</target>
+        <note>key: role.policy.workflow</note>
+      </trans-unit>
+      <trans-unit id="2b2742373d60445d02b866c30e21db99f0755ae6" resname="role.policy.workflow.all_functions">
+        <source>Workflow / All functions</source>
+        <target state="translated">Flusso di lavoro / Tutte le funzioni</target>
+        <note>key: role.policy.workflow.all_functions</note>
+      </trans-unit>
+      <trans-unit id="4ec99016d9af53130aaf043f9b6bce7ced2a1739" resname="role.policy.workflow.change_stage">
+        <source>Workflow / Change stage</source>
+        <target state="translated">Flusso di lavoro / Cambia fase</target>
+        <note>key: role.policy.workflow.change_stage</note>
+      </trans-unit>
       <trans-unit id="f11a379ba38d1a4e5fb7de3bc3a2fb76b72fe9dd" resname="role_assignment.delete">
         <source>Delete</source>
         <target state="translated">Cancella</target>
         <note>key: role_assignment.delete</note>
       </trans-unit>
+      <trans-unit id="cd67db3c5e3f56ce0c899e8858502933c1a5ed70" resname="role_assignment.groups">
+        <source>Group</source>
+        <target state="translated">Gruppo</target>
+        <note>key: role_assignment.groups</note>
+      </trans-unit>
+      <trans-unit id="710f8e6ab682db07141d71bc6df5246988a0560f" resname="role_assignment.locations">
+        <source>Select subtree</source>
+        <target state="translated">Seleziona sottostruttura</target>
+        <note>key: role_assignment.locations</note>
+      </trans-unit>
+      <trans-unit id="90266f1e47b42712e761c7fea00fb8e8c949f37e" resname="role_assignment.save">
+        <source>Assign</source>
+        <target state="translated">Assegna</target>
+        <note>key: role_assignment.save</note>
+      </trans-unit>
       <trans-unit id="0bcd4dbd1300e2309dd541f817fef6bf5fc029d8" resname="role_assignment.sections">
         <source>Section</source>
         <target state="translated">Sezione</target>
         <note>key: role_assignment.sections</note>
+      </trans-unit>
+      <trans-unit id="7ed8b44c2b610ecc43a5cc390335657ebf798ebc" resname="role_assignment.users">
+        <source>User</source>
+        <target state="translated">Utente</target>
+        <note>key: role_assignment.users</note>
+      </trans-unit>
+      <trans-unit id="5f9be66217c70fdbd734a1ccb5968aae96bbdcd0" resname="role_assignments_delete_form.delete">
+        <source>Delete Role assignments</source>
+        <target state="translated">Elimina assegnazioni di ruolo</target>
+        <note>key: role_assignments_delete_form.delete</note>
       </trans-unit>
       <trans-unit id="6c0384498e37f0a821ff9155da7b6c2cb94d0a95" resname="role_copy.copy">
         <source>Copy</source>
