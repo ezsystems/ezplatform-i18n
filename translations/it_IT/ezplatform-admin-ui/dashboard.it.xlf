@@ -11,6 +11,26 @@
         <target state="translated">Crea</target>
         <note>key: dashboard.create</note>
       </trans-unit>
+      <trans-unit id="8f2d000c044a9f04c457499e57f6fbbb8360e23f" resname="dashboard.tab.all_content.empty">
+        <source>No content. Content items you create will show up here</source>
+        <target state="translated">Nessun contenuto. Gli elementi di contenuto che crei appariranno qui</target>
+        <note>key: dashboard.tab.all_content.empty</note>
+      </trans-unit>
+      <trans-unit id="50e7fa5609748dabc694245d5a54a77e9d5c7c1f" resname="dashboard.tab.all_media.empty">
+        <source>No content. Media you create will show up here</source>
+        <target state="translated">Nessun contenuto. I contenuti che crei verranno visualizzati qui</target>
+        <note>key: dashboard.tab.all_media.empty</note>
+      </trans-unit>
+      <trans-unit id="9c6f10545440752bc7bc2e8142cbea5d265403cd" resname="dashboard.tab.my_content.empty">
+        <source>No content. Content items you create will show up here</source>
+        <target state="translated">Nessun contenuto. Gli elementi di contenuto che crei appariranno qui</target>
+        <note>key: dashboard.tab.my_content.empty</note>
+      </trans-unit>
+      <trans-unit id="cf10aced822b4dfb2cb519a82ed0adabaa4e480e" resname="dashboard.tab.my_drafts.empty">
+        <source>No content. Drafts you create will show up here</source>
+        <target state="translated">Nessun contenuto. Le bozze che crei appariranno qui</target>
+        <note>key: dashboard.tab.my_drafts.empty</note>
+      </trans-unit>
       <trans-unit id="9ef83b3497fae569ba56b6a8ab96004f359ae918" resname="dashboard.tab.my_media.empty">
         <source>No content. Media you create will show up here</source>
         <target state="translated">Nessun contenuto. I contenuti che crei verranno visualizzati qui</target>
