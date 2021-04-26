@@ -16,10 +16,30 @@
         <target state="translated">Sezioni</target>
         <note>key: limitation_type.section</note>
       </trans-unit>
+      <trans-unit id="5e91632f7d9ab6e55cf2df01163acebcb1a124d0" resname="limitation_type.subtree">
+        <source>Subtree</source>
+        <target state="translated">Sottostruttura</target>
+        <note>key: limitation_type.subtree</note>
+      </trans-unit>
+      <trans-unit id="0dbfb3fd5136aa1d54a82ba5e5f399c2908d26f2" resname="locations.select_subtree">
+        <source>Select Subtree</source>
+        <target state="translated">Seleziona sottostruttura</target>
+        <note>key: locations.select_subtree</note>
+      </trans-unit>
+      <trans-unit id="196c8d4eec96ca42ccdd3605621d51e2b34b6d85" resname="policy.breadcrumb.add">
+        <source>Adding a new Policy</source>
+        <target state="translated">Aggiungere una nuova politica</target>
+        <note>key: policy.breadcrumb.add</note>
+      </trans-unit>
       <trans-unit id="8a7079c136f19a37dc42a6192fb94a11d19105ad" resname="policy.breadcrumb.edit">
         <source>Edit limitations</source>
         <target state="translated">Modifica le Limitazioni</target>
         <note>key: policy.breadcrumb.edit</note>
+      </trans-unit>
+      <trans-unit id="41bcfef149f877e1abb0ce2cd2aa5afb713ea1de" resname="policy.limitation.identifier_tooltip">
+        <source>"%identifier%" Limitation</source>
+        <target state="translated">Limitazione "% identifier%"</target>
+        <note>key: policy.limitation.identifier_tooltip</note>
       </trans-unit>
       <trans-unit id="77e814db3b3f1bd68101d274277bee08d164f0a2" resname="policy.limitation.none">
         <source>None</source>
