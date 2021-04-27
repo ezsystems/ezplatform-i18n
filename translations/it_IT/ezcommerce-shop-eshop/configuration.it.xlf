@@ -274,6 +274,264 @@
         <target state="translated">E-mail utente</target>
         <note>key: label.user_email</note>
       </trans-unit>
+      <trans-unit id="014fa18b690a8dbd0ab01dda19fe6851ece322b8" resname="label.user_id">
+        <source>User Id</source>
+        <target state="translated">Id Utente</target>
+        <note>key: label.user_id</note>
+      </trans-unit>
+      <trans-unit id="f9aa5aed1b2f785ff33703a8b2c54af26582c5a1" resname="label.user_name">
+        <source>User name</source>
+        <target state="translated">Nome utente</target>
+        <note>key: label.user_name</note>
+      </trans-unit>
+      <trans-unit id="468d23b36a1025079f88b05259449d8aa6e885cc" resname="last_viewed_products_in_session_limit|config">
+        <source>Last viewed product limit</source>
+        <target state="translated">Ultimo limite prodotto visualizzato</target>
+        <note>key: last_viewed_products_in_session_limit|config</note>
+      </trans-unit>
+      <trans-unit id="534e9b5e46a78f219691b3644eec5012fda2fa32" resname="last_viewed_products_in_session_limit|description">
+        <source>It defines the maximum number of products to be stored per user for last viewed products.</source>
+        <target state="translated">It defines the maximum number of products to be stored per user for last viewed products.</target>
+        <note>key: last_viewed_products_in_session_limit|description</note>
+      </trans-unit>
+      <trans-unit id="5b6191c3d1a316a2c1838a7ce328fd32bc77255b" resname="local_price|icon">
+        <source>price.svg</source>
+        <target state="translated">prezzo.svg</target>
+        <note>key: local_price|icon</note>
+      </trans-unit>
+      <trans-unit id="c3dfea7e5a1cf01b5d468d080c613a20be1a0464" resname="marketing.olark_chat.activated|config">
+        <source>Enable Olark Chat</source>
+        <target state="translated">Abilita La Chat Olark</target>
+        <note>key: marketing.olark_chat.activated|config</note>
+      </trans-unit>
+      <trans-unit id="99fa5cb5cc1a4ee47cb8a7aeaaf8b3dd5d276eba" resname="marketing.olark_chat.activated|description">
+        <source>Olark chat is a powerful chat tool. Please check www.olark.com for more infos</source>
+        <target state="translated">La chat di Olark è un potente strumento di chat. Si prega di controllare www.olark.com per maggiori informazioni</target>
+        <note>key: marketing.olark_chat.activated|description</note>
+      </trans-unit>
+      <trans-unit id="c1288d0c32dd1993108153cbea213bc66aec7293" resname="marketing.olark_chat.id|config">
+        <source>Please enter the Account ID from www.olark.com here</source>
+        <target state="translated">Inserisci qui l'Id account da www.olark.com</target>
+        <note>key: marketing.olark_chat.id|config</note>
+      </trans-unit>
+      <trans-unit id="310a0d464877e3cf4620ad6a76cc6f71619199db" resname="marketing.olark_chat.id|description">
+        <source>Olark account id</source>
+        <target state="translated">ID account Olark</target>
+        <note>key: marketing.olark_chat.id|description</note>
+      </trans-unit>
+      <trans-unit id="188e0f6917f7a269f0ea877cb127a990e99a2a59" resname="msg.count_reviews">
+        <source>Amount of reviews</source>
+        <target state="translated">Quantità di revisioni</target>
+        <note>key: msg.count_reviews</note>
+      </trans-unit>
+      <trans-unit id="a4f5ec67aed51b38d745664410a3524dab343dc9" resname="msg.hidden">
+        <source>Hidden</source>
+        <target state="translated">Nascosto</target>
+        <note>key: msg.hidden</note>
+      </trans-unit>
+      <trans-unit id="15176ee8784542c09e0e957c1749ef815c5993e9" resname="msg.hide_review">
+        <source>Hide review</source>
+        <target state="translated">Nascondi recensione</target>
+        <note>key: msg.hide_review</note>
+      </trans-unit>
+      <trans-unit id="69127832da6556606022866cd7fa7d1b2f1fe751" resname="msg.no_reviews_found">
+        <source>No reviews found</source>
+        <target state="translated">Nessuna recensione trovata</target>
+        <note>key: msg.no_reviews_found</note>
+      </trans-unit>
+      <trans-unit id="f22f7a81d23e3cc18cbd471782cde286be9b9be1" resname="msg.unhide_review">
+        <source>Unhide review</source>
+        <target state="translated">Scopri la recensione</target>
+        <note>key: msg.unhide_review</note>
+      </trans-unit>
+      <trans-unit id="a12e63508d28016cefb5d784fb72dfbd245f05fd" resname="msg.visible">
+        <source>Visible</source>
+        <target state="translated">Visibile</target>
+        <note>key: msg.visible</note>
+      </trans-unit>
+      <trans-unit id="1aa5c35715389c8a3a3aa10305f6aee73a00bdc1" resname="newsletter2go_auth_key|config">
+        <source>Newsletter2go authentication key</source>
+        <target state="translated">Chiave di autenticazione Newsletter2go</target>
+        <note>key: newsletter2go_auth_key|config</note>
+      </trans-unit>
+      <trans-unit id="a6fdc04ca9a2f7162dd5c9559364e8be4b816060" resname="newsletter2go_auth_key|description">
+        <source>This key is available in your newsletter2go account</source>
+        <target state="translated">Questa chiave è disponibile nel tuo account newsletter2go</target>
+        <note>key: newsletter2go_auth_key|description</note>
+      </trans-unit>
+      <trans-unit id="a3ef9af1d24cb9b0ee078a0f90e5bd76918a226e" resname="newsletter2go_password|config">
+        <source>Newsletter2go password</source>
+        <target state="translated">Password di Newsletter2go</target>
+        <note>key: newsletter2go_password|config</note>
+      </trans-unit>
+      <trans-unit id="80f502b059fb981663b300f0f7a3263c390f226c" resname="newsletter2go_password|description">
+        <source>See newsletter2go account</source>
+        <target state="translated">Vedi account newsletter2go</target>
+        <note>key: newsletter2go_password|description</note>
+      </trans-unit>
+      <trans-unit id="55cadf8fdd189f28c4f5147b3cafe8f9bda9028c" resname="newsletter2go_username|config">
+        <source>Newsletter2go username</source>
+        <target state="translated">Nome utente Newsletter2go</target>
+        <note>key: newsletter2go_username|config</note>
+      </trans-unit>
+      <trans-unit id="696b1aa493945ccf2ed677044f8abb8fd026be21" resname="newsletter2go_username|description">
+        <source>See newsletter2go account</source>
+        <target state="translated">Vedi account newsletter2go</target>
+        <note>key: newsletter2go_username|description</note>
+      </trans-unit>
+      <trans-unit id="a9d6fd22dafcc137521ea481f384cfb4a5dd8574" resname="newsletter_active|config">
+        <source>Activate Newsletter2go</source>
+        <target state="translated">Attiva Newsletter2go</target>
+        <note>key: newsletter_active|config</note>
+      </trans-unit>
+      <trans-unit id="bd0e7ba994358d4e9f4a456bb6a756e5f27f4593" resname="newsletter_active|description">
+        <source>You need to create an account on www.newsletter2go.co</source>
+        <target state="translated">È necessario creare un account su www.newsletter2go.co</target>
+        <note>key: newsletter_active|description</note>
+      </trans-unit>
+      <trans-unit id="3b99859a6734d2a591dde3b0909b019ebf5ce8bd" resname="order_confirmation.sales_email_address|config">
+        <source>Email address of a sales person</source>
+        <target state="translated">Indirizzo e-mail di un venditore</target>
+        <note>key: order_confirmation.sales_email_address|config</note>
+      </trans-unit>
+      <trans-unit id="17d2c4d341b2bf9bda249ab9168e72c81115496d" resname="order_confirmation.sales_email_address|description">
+        <source>This person will get an CC of an order confirmation email.</source>
+        <target state="translated">Questa persona riceverà un CC di un'e-mail di conferma dell'ordine.</target>
+        <note>key: order_confirmation.sales_email_address|description</note>
+      </trans-unit>
+      <trans-unit id="089dd597a401ba6adfad703cfab6b655ba8603dd" resname="price_requests_without_customer_number|config">
+        <source>Price requests without customer number</source>
+        <target state="translated">Richieste di prezzo senza numero cliente</target>
+        <note>key: price_requests_without_customer_number|config</note>
+      </trans-unit>
+      <trans-unit id="c720da3a184924a5a5736337ddebcaa1ad4999af" resname="price_requests_without_customer_number|description">
+        <source>If you want to allow pricerequests without customernumber. In this case the customernumber might be provided by a template customernumber (configured in the shop) or provided by the ERP.</source>
+        <target state="translated">Se vuoi consentire richieste di prezzo senza codice cliente. In questo caso il numero personalizzato potrebbe essere fornito da un modello di numero cliente (configurato nel negozio) o fornito dall'ERP.</target>
+        <note>key: price_requests_without_customer_number|description</note>
+      </trans-unit>
+      <trans-unit id="e455e5da03de989c50ca2d126a911ec65391172e" resname="price_service_chain.basket_variant|config">
+        <source>Price providers for editing variants</source>
+        <target state="translated">Fornitori di prezzi per la modifica delle varianti</target>
+        <note>key: price_service_chain.basket_variant|config</note>
+      </trans-unit>
+      <trans-unit id="977bb202e9b8c7eb46112949b6b1b5fa7098c9e9" resname="price_service_chain.basket_variant|description">
+        <source>price_service_chain.basket_variant|description</source>
+        <target state="translated">price_service_chain.basket_variant&lt;unk&gt; description</target>
+        <note>key: price_service_chain.basket_variant|description</note>
+      </trans-unit>
+      <trans-unit id="16a91a2e46c9d5b6c8bd11de0b88298c4fc590d0" resname="price_service_chain.basket|config">
+        <source>Price providers for basket</source>
+        <target state="translated">Fornitori di prezzi per paniere</target>
+        <note>key: price_service_chain.basket|config</note>
+      </trans-unit>
+      <trans-unit id="9aaf790f568b152272654162c3522ed0fcf00f99" resname="price_service_chain.basket|description">
+        <source>price_service_chain.basket|description</source>
+        <target state="translated">price_service_chain.basket | description</target>
+        <note>key: price_service_chain.basket|description</note>
+      </trans-unit>
+      <trans-unit id="57a6a0984c26d0249307b120f258d3c91101a7a3" resname="price_service_chain.bestseller_list|config">
+        <source>Price provider for bestseller list</source>
+        <target state="translated">Fornitore di prezzi per l'elenco dei bestseller</target>
+        <note>key: price_service_chain.bestseller_list|config</note>
+      </trans-unit>
+      <trans-unit id="9fc2d1f7d715d4a4c62f9b9061eb3a75ce803f87" resname="price_service_chain.bestseller_list|description">
+        <source>price_service_chain.bestseller_list|description</source>
+        <target state="translated">price_service_chain.bestseller_list|description</target>
+        <note>key: price_service_chain.bestseller_list|description</note>
+      </trans-unit>
+      <trans-unit id="e5aaed3857d21b601e34a40b60f14ff9b28550ef" resname="price_service_chain.comparison|config">
+        <source>Price providers for comparison lists</source>
+        <target state="translated">Fornitori di prezzi per elenchi di confronto</target>
+        <note>key: price_service_chain.comparison|config</note>
+      </trans-unit>
+      <trans-unit id="bc080bd76538bbd090238f2bf1df5866575ab789" resname="price_service_chain.comparison|description">
+        <source>price_service_chain.comparison|description</source>
+        <target state="translated">price_service_chain.comparison | description</target>
+        <note>key: price_service_chain.comparison|description</note>
+      </trans-unit>
+      <trans-unit id="c489265fe0e875f3b2ba0a195402f2d0d39cfaae" resname="price_service_chain.product_detail|config">
+        <source>Price providers for product detail page</source>
+        <target state="translated">Fornitori di prezzi per la pagina dei dettagli del prodotto</target>
+        <note>key: price_service_chain.product_detail|config</note>
+      </trans-unit>
+      <trans-unit id="a5e6fad435bb248bc6735fca17d27c662a196cab" resname="price_service_chain.product_detail|description">
+        <source>price_service_chain.product_detail|description</source>
+        <target state="translated">price_service_chain.product_detail | description</target>
+        <note>key: price_service_chain.product_detail|description</note>
+      </trans-unit>
+      <trans-unit id="df6cfab010d04d0b06466b2bbd55ad14c7681109" resname="price_service_chain.product_list|config">
+        <source>Price providers for product listing pag</source>
+        <target state="translated">Fornitori di prezzi per la pagina di elenco dei prodotti</target>
+        <note>key: price_service_chain.product_list|config</note>
+      </trans-unit>
+      <trans-unit id="990ab405c79573b09c0f8e9f38b03bd46a4f9b35" resname="price_service_chain.product_list|description">
+        <source><![CDATA[<strong>Note: This only applies to eZ Commerce Advanced.</strong><br />
+                    Please choose which price calculation engines shall be used for generating prices and stock information.<br />
+                    This configuration works as a chain, so if the first engine fails the second one will be used as a fallback (e.g. in case the ERP is not availbale)<br />
+                    <strong>Important note:</strong> Price calculations in ERP systems may cause slower responses from the system, depending on the specific complexity.]]></source>
+        <target state="translated"><![CDATA[<strong> Nota: questo vale solo per eZ Commerce Advanced. </strong> <br />
+                    Scegli i motori di calcolo dei prezzi da utilizzare per generare prezzi e informazioni sulle scorte. <br />
+                    Questa configurazione funziona come una catena, quindi se il primo motore si guasta, il secondo verrà utilizzato come fallback (ad esempio nel caso in cui l'ERP non sia disponibile) <br />
+                    <strong> Nota importante: </strong> i calcoli dei prezzi nei sistemi ERP possono causare risposte più lente da parte del sistema, a seconda della complessità specifica.]]></target>
+        <note>key: price_service_chain.product_list|description</note>
+      </trans-unit>
+      <trans-unit id="24cbe0a95846b675d3f7e42ebb0fb6ed499817bc" resname="price_service_chain.quick_order_line_preview|config">
+        <source>Price providers for quickorder (product preview via Ajax)</source>
+        <target state="translated">Fornitori di prezzi per ordini rapidi (anteprima del prodotto tramite Ajax)</target>
+        <note>key: price_service_chain.quick_order_line_preview|config</note>
+      </trans-unit>
+      <trans-unit id="9939e88746c352bc73dac8c95b66077a040484bd" resname="price_service_chain.quick_order_line_preview|description">
+        <source>price_service_chain.quick_order_line_preview|description</source>
+        <target state="translated">price_service_chain.quick_order_line_preview|description</target>
+        <note>key: price_service_chain.quick_order_line_preview|description</note>
+      </trans-unit>
+      <trans-unit id="725472ec4943250017010adeb5400a4e55b9375d" resname="price_service_chain.quick_order|config">
+        <source>Price providers for quickorder (click on update)</source>
+        <target state="translated">Fornitori di prezzi per ordini rapidi (fare clic su Aggiorna)</target>
+        <note>key: price_service_chain.quick_order|config</note>
+      </trans-unit>
+      <trans-unit id="95188f3b95a670e0a395b848c7424da5419d3de7" resname="price_service_chain.quick_order|description">
+        <source>price_service_chain.quick_order|description</source>
+        <target state="translated">price_service_chain.quick_order|description</target>
+        <note>key: price_service_chain.quick_order|description</note>
+      </trans-unit>
+      <trans-unit id="fc5bbc633bc24cda403a329a3beb28015bceb72d" resname="price_service_chain.search_list|config">
+        <source>Price providers for search list</source>
+        <target state="translated">Fornitori di prezzi per l'elenco di ricerca</target>
+        <note>key: price_service_chain.search_list|config</note>
+      </trans-unit>
+      <trans-unit id="a5b26a02438a43d5938bc037c5169e781e670f1e" resname="price_service_chain.search_list|description">
+        <source>price_service_chain.search_list|description</source>
+        <target state="translated">price_service_chain.search_list|description</target>
+        <note>key: price_service_chain.search_list|description</note>
+      </trans-unit>
+      <trans-unit id="cfefea15178ed586e1025540da85f3c9185cd782" resname="price_service_chain.slider_product_list|config">
+        <source>Price providers for product sliders</source>
+        <target state="translated">Fornitori di prezzi per i dispositivi di scorrimento dei prodotti
+
+</target>
+        <note>key: price_service_chain.slider_product_list|config</note>
+      </trans-unit>
+      <trans-unit id="044ead097ee339aa800eeb0baca2d9c64ea3622d" resname="price_service_chain.slider_product_list|description">
+        <source>price_service_chain.slider_product_list|description</source>
+        <target state="translated">price_service_chain.slider_product_list|description</target>
+        <note>key: price_service_chain.slider_product_list|description</note>
+      </trans-unit>
+      <trans-unit id="18f206204feaeac996a81e5896e3a06747d3fe08" resname="price_service_chain.stored_basket|config">
+        <source>Price providers for stored baskets lists</source>
+        <target state="translated">Fornitori di prezzi per elenchi di panieri memorizzati</target>
+        <note>key: price_service_chain.stored_basket|config</note>
+      </trans-unit>
+      <trans-unit id="c3bd9b9cf81f42953b9df6e50a8db024a778930d" resname="price_service_chain.stored_basket|description">
+        <source>price_service_chain.stored_basket|description</source>
+        <target state="translated">price_service_chain.stored_basket|description</target>
+        <note>key: price_service_chain.stored_basket|description</note>
+      </trans-unit>
+      <trans-unit id="70ed4400a6d35ade5875871308dcd563c3e61392" resname="price_service_chain.wish_list|config">
+        <source>Price providers for whishlist</source>
+        <target state="translated">Fornitori di prezzi per lista dei desideri</target>
+        <note>key: price_service_chain.wish_list|config</note>
+      </trans-unit>
       <trans-unit id="ff31ba113484aba13da5fc35998616a162c267d5" resname="price_service_chain.wish_list|description">
         <source>price_service_chain.wish_list|description</source>
         <target state="translated">price_service_chain.wish_list|description</target>
