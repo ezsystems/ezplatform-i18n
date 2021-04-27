@@ -271,6 +271,11 @@
         <target state="translated">Ordinamento</target>
         <note>key: location_update_form.sort_order</note>
       </trans-unit>
+      <trans-unit id="2bb23a852a2a16458d2dad6931debc447564dff2" resname="location_update_form.update">
+        <source>Update</source>
+        <target state="translated">Aggiorna</target>
+        <note>key: location_update_form.update</note>
+      </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
         <source>Cancel</source>
         <target state="translated">Annulla</target>
@@ -280,6 +285,16 @@
         <source>Delete</source>
         <target state="translated">Cancella</target>
         <note>key: modal.delete</note>
+      </trans-unit>
+      <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
+        <source>Translations</source>
+        <target state="translated">Traduzioni</target>
+        <note>key: tab.name.translations</note>
+      </trans-unit>
+      <trans-unit id="eb3b504a0281951f15692e888226579aa99bb512" resname="tab.name.view">
+        <source>View</source>
+        <target state="translated">Visualizza</target>
+        <note>key: tab.name.view</note>
       </trans-unit>
     </body>
   </file>
