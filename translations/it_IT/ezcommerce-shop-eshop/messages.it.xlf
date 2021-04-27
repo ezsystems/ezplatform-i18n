@@ -6,632 +6,563 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="ceaaff687aa867e9f8325a48aeb288bb15ed900c" resname="%count% items in your basket">
+        <source>%count% items in your basket</source>
+        <target state="translated">% count% articoli nel carrello</target>
+        <note>key: %count% items in your basket</note>
+      </trans-unit>
+      <trans-unit id="0b4ca9f65bc89a77d4217838aeaaa072ba0804b5" resname="%count% results">
+        <source>%count% results</source>
+        <target state="translated">%count% risultati</target>
+        <note>key: %count% results</note>
+      </trans-unit>
+      <trans-unit id="3dcad638d088540a2dd7bed653bdadce0b357a55" resname="%vat% VAT">
+        <source>%vat% VAT</source>
+        <target state="translated">% iva% IVA</target>
+        <note>key: %vat% VAT</note>
+      </trans-unit>
+      <trans-unit id="b293520c0156c5889d1df26ece1e34542c8898ee" resname=", Size|search">
+        <source>Size</source>
+        <target state="translated">Dimensione</target>
+        <note>key: , Size|search</note>
+      </trans-unit>
+      <trans-unit id="d35ab02ef1f00725ee21e2a9e9875e39c5f8f051" resname="404_page">
+        <source>404_page</source>
+        <target state="translated">404_pagina</target>
+        <note>key: 404_page</note>
+      </trans-unit>
+      <trans-unit id="1c929480aa0c0f37b0145e1222722e1758de1d71" resname="A customer has edited his profile. Please, check these data:">
+        <source>A customer has edited his profile. Please, check these data:</source>
+        <target state="translated">Un cliente ha modificato il suo profilo. Si prega di controllare questi dati:</target>
+        <note>key: A customer has edited his profile. Please, check these data:</note>
+      </trans-unit>
+      <trans-unit id="a0a98a88e8a87b222100a9a1b84087fd8a1af5c9" resname="Accept privacy policies">
+        <source>Accept privacy policies</source>
+        <target state="translated">Accetta le politiche sulla privacy</target>
+        <note>key: Accept privacy policies</note>
+      </trans-unit>
+      <trans-unit id="300b07e8f1edc68b7b932bc14ec7a594a8d2917c" resname="Accept terms and conditions">
+        <source>Accept terms and conditions</source>
+        <target state="translated">Accetta termini e condizioni</target>
+        <note>key: Accept terms and conditions</note>
+      </trans-unit>
+      <trans-unit id="543beca5f8d4001627a6e9551a79a0d49738b8dd" resname="Account:|profile">
+        <source>Account:|profile</source>
+        <target state="translated">Account: | profilo</target>
+        <note>key: Account:|profile</note>
+      </trans-unit>
+      <trans-unit id="92ef08325a4813563a3110359906076374683282" resname="Activate">
+        <source>Activate</source>
+        <target state="translated">Attiva</target>
+        <note>key: Activate</note>
+      </trans-unit>
+      <trans-unit id="437d7b8eec759fe639d734366c56d9fbb61e2174" resname="Activate your Shop-Access">
+        <source>Activate your user account</source>
+        <target state="translated">Attiva il tuo account utente</target>
+        <note>key: Activate your Shop-Access</note>
+      </trans-unit>
+      <trans-unit id="67016210739cd983b60a766c87fd09745b3d6d44" resname="Activate your account">
+        <source>Activate your account</source>
+        <target state="translated">Attiva il tuo account</target>
+        <note>key: Activate your account</note>
+      </trans-unit>
+      <trans-unit id="22f61acbf8161c364b9d3d275dd60583d707d331" resname="Activate your account now!">
+        <source>Activate your account now!</source>
+        <target state="translated">Attiva il tuo account ora!</target>
+        <note>key: Activate your account now!</note>
+      </trans-unit>
+      <trans-unit id="4603ab0671889c1b492771d83b6de91a5e092902" resname="Activation link">
+        <source>Activation link</source>
+        <target state="translated">Link di attivazione</target>
+        <note>key: Activation link</note>
+      </trans-unit>
+      <trans-unit id="b922bb3ef862771554e4eb2f2f2cc7ee76dcaafb" resname="Active shopping carts&lt;br&gt;&lt;small&gt;in the last %placeholder% minutes&lt;/small&gt;">
+        <source><![CDATA[Active shopping carts<br><small>in the last %placeholder% minutes</small>]]></source>
+        <target state="translated"><![CDATA[Carrelli degli acquisti attivi <br> <small> negli ultimi% segnaposto% minuti </small>]]></target>
+        <note>key: Active shopping carts&lt;br&gt;&lt;small&gt;in the last %placeholder% minutes&lt;/small&gt;</note>
+      </trans-unit>
+      <trans-unit id="69dfe52ce62bb2da35d43e4d5f6fdc361b9829ea" resname="Add Another Input">
+        <source>Add another input</source>
+        <target state="translated">Aggiungi un altro input</target>
+        <note>key: Add Another Input</note>
+      </trans-unit>
+      <trans-unit id="75ceebf4fcd60557d8d98c7f2779f09138fb8a93" resname="Add all items to basket">
+        <source>Add all items to basket</source>
+        <target state="translated">Aggiungi tutti gli elementi al carrello</target>
+        <note>key: Add all items to basket</note>
+      </trans-unit>
+      <trans-unit id="319c6cd1e95a162d7629fba6723dc0dcfb99fc0e" resname="Add lines">
+        <source>Add lines</source>
+        <target state="translated">Aggiungi righe</target>
+        <note>key: Add lines</note>
+      </trans-unit>
+      <trans-unit id="531e5c229e541de937c09d780f8d9b872c1cb788" resname="Add products to stored basket">
+        <source>Add to stored basket</source>
+        <target state="translated">Aggiungi al carrello conservato</target>
+        <note>key: Add products to stored basket</note>
+      </trans-unit>
+      <trans-unit id="1d978ebd10b1bca55bb1b347380cdc3a7fd75a85" resname="Add to basket">
+        <source>Add to basket</source>
+        <target state="translated">Aggiungi al carrello</target>
+        <note>key: Add to basket</note>
+      </trans-unit>
+      <trans-unit id="f70a702b633b0d9dfeba504cda4af1a0a34b00c4" resname="Add to comparison list">
+        <source>Add to comparison list</source>
+        <target state="translated">Aggiungi alla lista di confronto</target>
+        <note>key: Add to comparison list</note>
+      </trans-unit>
+      <trans-unit id="c7a159eeb9d2c76024812c0849f23cc8e5df3639" resname="Add to wishlist">
+        <source>Add to wishlist</source>
+        <target state="translated">Aggiungi alla lista dei desideri</target>
+        <note>key: Add to wishlist</note>
+      </trans-unit>
+      <trans-unit id="190ddee2fa9cb8a270e2c50af0ad4978d0eef230" resname="AddCost">
+        <source>Additional cost</source>
+        <target state="translated">Costo aggiuntivo</target>
+        <note>key: AddCost</note>
+      </trans-unit>
+      <trans-unit id="2e6db93f6a85fe951b88664f679347b2310b247d" resname="Address of the customer(s)">
+        <source>Address of the customer(s)</source>
+        <target state="translated">Indirizzo del/dei cliente/i</target>
+        <note>key: Address of the customer(s)</note>
+      </trans-unit>
+      <trans-unit id="43f4682efff5d5a58ca3d8acd666eb3ec93a4713" resname="Address2">
+        <source>Additional address line</source>
+        <target state="translated">Riga indirizzo aggiuntiva</target>
+        <note>key: Address2</note>
+      </trans-unit>
+      <trans-unit id="303d981333083bd89973e1b5f61e66b36d9d7f42" resname="Address:">
+        <source>Address:</source>
+        <target state="translated">Indirizzo:</target>
+        <note>key: Address:</note>
+      </trans-unit>
+      <trans-unit id="440f6e890d2be95ee2b0d7faf1245c395efd7276" resname="All Attributes">
+        <source>All Attributes</source>
+        <target state="translated">Tutti Gli Attributi</target>
+        <note>key: All Attributes</note>
+      </trans-unit>
+      <trans-unit id="2a48383d0566cf5292ff5bf2072cff0a9eed85c7" resname="Already in your comparison list">
+        <source>Already in your comparison list</source>
+        <target state="translated">Già nella tua lista di confronto</target>
+        <note>key: Already in your comparison list</note>
+      </trans-unit>
+      <trans-unit id="865ffd10fbdc61d022ea9802af82c0fee074e017" resname="Already in your wishlist">
+        <source>Already in your wishlist</source>
+        <target state="translated">Già nella tua lista dei desideri</target>
+        <note>key: Already in your wishlist</note>
+      </trans-unit>
+      <trans-unit id="a1d3c0cd0df1b3b66c08a713664226ef4da7b4b0" resname="An exception was thrown during your request. Please contact the administrator. We sincerely apologize for the inconvenience this may have caused.">
+        <source>An exception was thrown during your request. Please contact the administrator. We sincerely apologize for the inconvenience this may have caused.</source>
+        <target state="translated">È stata generata un'eccezione durante la tua richiesta. Si prega di contattare l'amministratore. Ci scusiamo sinceramente per gli inconvenienti che ciò potrebbe aver causato.
+
+</target>
+        <note>key: An exception was thrown during your request. Please contact the administrator. We sincerely apologize for the inconvenience this may have caused.</note>
+      </trans-unit>
+      <trans-unit id="956237a495fd7e88a147a067f8ef1f300723b165" resname="An order submission to the ERP system failed. Please, check these information:">
+        <source>An order submission to the ERP system failed. Please, check these information:</source>
+        <target state="translated">Invio di un ordine al sistema ERP non riuscito. Per favore, controlla queste informazioni:</target>
+        <note>key: An order submission to the ERP system failed. Please, check these information:</note>
+      </trans-unit>
+      <trans-unit id="cba9244392c3870e6ed9f23d9609184be69a0ae8" resname="An order transmission to the ERP system failed. Please, check this information:">
+        <source>An order transmission to the ERP system failed. Please, check this information:</source>
+        <target state="translated">Una trasmissione dell'ordine al sistema ERP non è riuscita. Per favore, controlla queste informazioni:</target>
+        <note>key: An order transmission to the ERP system failed. Please, check this information:</note>
+      </trans-unit>
+      <trans-unit id="cfea419c3b4e8b02ee586e70a28bf846e44cdda4" resname="Apply">
+        <source>Apply</source>
+        <target state="translated">Applica</target>
+        <note>key: Apply</note>
+      </trans-unit>
+      <trans-unit id="cdcc456629195ed5a337a4be78100dda7a14aef3" resname="Article|search">
+        <source>Article</source>
+        <target state="translated">Articolo</target>
+        <note>key: Article|search</note>
+      </trans-unit>
+      <trans-unit id="7c62a1424469b1c1cf402f254409a96a0e6770cf" resname="Available">
+        <source>Available</source>
+        <target state="translated">Disponibile</target>
+        <note>key: Available</note>
+      </trans-unit>
+      <trans-unit id="b52b36b7269fbfc58ec24bb724691951a3decbe8" resname="Back">
+        <source>Back</source>
+        <target state="translated">Indietro</target>
+        <note>key: Back</note>
+      </trans-unit>
+      <trans-unit id="fbe2f800f0f4a7c6f623967e6fa7235892cbe24d" resname="Bad credentials.">
+        <source>Bad credentials.</source>
+        <target state="translated">Credenziali errate.</target>
+        <note>key: Bad credentials.</note>
+      </trans-unit>
+      <trans-unit id="ee8780b836e0254b418a044d4611d85ab75eb133" resname="Basket GUID">
+        <source>Basket GUID</source>
+        <target state="translated">GUID del carrello</target>
+        <note>key: Basket GUID</note>
+      </trans-unit>
+      <trans-unit id="fe4f7a53da4a36d81830ffcf4d529f1343ff534f" resname="Basket incremental ID">
+        <source>Basket incremental ID</source>
+        <target state="translated">ID incrementale del carrello</target>
+        <note>key: Basket incremental ID</note>
+      </trans-unit>
+      <trans-unit id="e11b80e40fef432a5b0557fa5d0bd77221430f26" resname="Best clients">
+        <source>Best clients</source>
+        <target state="translated">Migliori clienti</target>
+        <note>key: Best clients</note>
+      </trans-unit>
+      <trans-unit id="83b8e400c77a27ad6489143d6c1ec78cfb0ecf48" resname="Bestsellers">
+        <source>Bestsellers</source>
+        <target state="translated">I più venduti</target>
+        <note>key: Bestsellers</note>
+      </trans-unit>
+      <trans-unit id="94cac684119b86220a4aef50584ce15a39849625" resname="Blog post|search">
+        <source>Blog post</source>
+        <target state="translated">Post del blog</target>
+        <note>key: Blog post|search</note>
+      </trans-unit>
+      <trans-unit id="d6663dda5fe9b2524bf91f13a7621ec735f8a155" resname="Business">
+        <source>Business</source>
+        <target state="translated">Business</target>
+        <note>key: Business</note>
+      </trans-unit>
+      <trans-unit id="7b5c93c85311b0555c21bdacb38960895b1dbd85" resname="Business customer">
+        <source>Business customer</source>
+        <target state="translated">Cliente commerciale</target>
+        <note>key: Business customer</note>
+      </trans-unit>
+      <trans-unit id="4186c93a90f9edada5a3cc67b9d6325a85d57e05" resname="Buyer">
+        <source>Name</source>
+        <target state="translated">Nome</target>
+        <note>key: Buyer</note>
+      </trans-unit>
+      <trans-unit id="77dfd2135f4db726c47299bb55be26f7f4525a46" resname="Cancel">
+        <source>Cancel</source>
+        <target state="translated">Annulla</target>
+        <note>key: Cancel</note>
+      </trans-unit>
+      <trans-unit id="319aaae4dec46a75861fd10bcf8d182f4a77298d" resname="Cancellation">
+        <source>Cancellation</source>
+        <target state="translated">Annullamento</target>
+        <note>key: Cancellation</note>
+      </trans-unit>
+      <trans-unit id="5df6eb23103361c79b45f2c3cb7bd307a9fb5fea" resname="Category|search">
+        <source>Category</source>
+        <target state="translated">Categoria</target>
+        <note>key: Category|search</note>
+      </trans-unit>
+      <trans-unit id="730112fa51386c82245c9af88eeeb6a8f9bcc0b4" resname="Change My Account|profile">
+        <source>Change My Account</source>
+        <target state="translated">Cambia Il Mio Account</target>
+        <note>key: Change My Account|profile</note>
+      </trans-unit>
+      <trans-unit id="7ef5da812aa81eb61175ed673cca22071c2b059f" resname="Change address">
+        <source>Change address</source>
+        <target state="translated">Cambia indirizzo</target>
+        <note>key: Change address</note>
+      </trans-unit>
+      <trans-unit id="cf54fa0bc40ede674865fcbb02976d29ba5dc9ec" resname="Customer wants to receive newsletter.">
+        <source>Customer wants to receive newsletter.</source>
+        <target state="translated">Il cliente vuole ricevere la newsletter.</target>
+        <note>key: Customer wants to receive newsletter.</note>
+      </trans-unit>
+      <trans-unit id="2dc72004ae69b01489f1959695163d359dac2ea0" resname="Customer's e-mail address">
+        <source>Customer's e-mail address</source>
+        <target state="translated">Indirizzo e-mail del cliente</target>
+        <note>key: Customer's e-mail address</note>
+      </trans-unit>
+      <trans-unit id="7b4fe45471bb360f54032d2fac2df8419f94fd59" resname="Customer's party ID">
+        <source>Customer's party ID</source>
+        <target state="translated">ID parte del cliente</target>
+        <note>key: Customer's party ID</note>
+      </trans-unit>
+      <trans-unit id="075e9bc6f71a556935737bed67ae8eb9f6f9a0ad" resname="Customer's shop user ID">
+        <source>Customer's shop user ID</source>
+        <target state="translated">D utente del negozio del cliente</target>
+        <note>key: Customer's shop user ID</note>
+      </trans-unit>
+      <trans-unit id="0d25067ad7d60538cd04a25964fe57c01585bcaa" resname="CustomerProfileData object not given">
+        <source>CustomerProfiledata object not given</source>
+        <target state="translated">Oggetto dati profilo cliente non fornito</target>
+        <note>key: CustomerProfileData object not given</note>
+      </trans-unit>
+      <trans-unit id="e570dd99a630b9ab864ca154431f583a9da80c67" resname="Customers's e-mail address">
+        <source>Customers's e-mail address</source>
+        <target state="translated">Indirizzo e-mail dei clienti</target>
+        <note>key: Customers's e-mail address</note>
+      </trans-unit>
+      <trans-unit id="912cee89807e105e3ce265c49162a1cc04c2b955" resname="Customers's party ID">
+        <source>Customers's party ID</source>
+        <target state="translated">Id della parte dei clienti</target>
+        <note>key: Customers's party ID</note>
+      </trans-unit>
+      <trans-unit id="45f2441498d9e0b3c4db4d457564aa8a7a17bfc4" resname="Customers's shop user ID">
+        <source>Customers's shop user ID</source>
+        <target state="translated">ID utente negozio clienti</target>
+        <note>key: Customers's shop user ID</note>
+      </trans-unit>
+      <trans-unit id="eb9a4bc1c0c153e4e4b042a79113b815b7e3021d" resname="Date">
+        <source>Date</source>
+        <target state="translated">Data</target>
+        <note>key: Date</note>
+      </trans-unit>
+      <trans-unit id="c65ea4ae013589923685e6ad069dcf87c153bd0b" resname="Date range">
+        <source>Date range</source>
+        <target state="translated">Intervallo di date</target>
+        <note>key: Date range</note>
+      </trans-unit>
+      <trans-unit id="e28471142acbcc41702b390bc2278d817ab41d87" resname="Date/Payment">
+        <source>Date/Payment</source>
+        <target state="translated">Data/Pagamento</target>
+        <note>key: Date/Payment</note>
+      </trans-unit>
+      <trans-unit id="52ee92a702ba208760016cd03ddf506b26289a1e" resname="Dear">
+        <source>Dear</source>
+        <target state="translated">Gentile </target>
+        <note>key: Dear</note>
+      </trans-unit>
+      <trans-unit id="8deabb5c18abcb6cf7567d120514aacda1c236aa" resname="Dear Admin">
+        <source>Dear Admin</source>
+        <target state="translated">Gentile amministratore</target>
+        <note>key: Dear Admin</note>
+      </trans-unit>
+      <trans-unit id="bc8c3d7bf420f3cd96a5374d95d42124b7cb14c6" resname="Dear Admin!">
+        <source>Dear Admin!</source>
+        <target state="translated">Gentile amministratore!</target>
+        <note>key: Dear Admin!</note>
+      </trans-unit>
+      <trans-unit id="03b217288c6af54df87db9346f38586ea5840e9b" resname="Dear Admin! This is fallback template!">
+        <source>Dear Admin! This is fallback template!</source>
+        <target state="translated">Gentile amministratore! Questo è il modello di riserva!</target>
+        <note>key: Dear Admin! This is fallback template!</note>
+      </trans-unit>
+      <trans-unit id="64d9bf76f78ff4c4757a3d1f67c000b5b08db426" resname="Debug information">
+        <source>Debug information</source>
+        <target state="translated">Informazioni di debug</target>
+        <note>key: Debug information</note>
+      </trans-unit>
+      <trans-unit id="f6fdbe48dc54dd86f63097a03bd24094dedd713a" resname="Delete">
+        <source>Delete</source>
+        <target state="translated">Elimina</target>
+        <note>key: Delete</note>
+      </trans-unit>
+      <trans-unit id="5a7cedc7897ed405bb334baa453dc25024a569b2" resname="Delete quickorder">
+        <source>Delete quickorder</source>
+        <target state="translated">Elimina ordine rapido</target>
+        <note>key: Delete quickorder</note>
+      </trans-unit>
+      <trans-unit id="9631af52c66f1a5cd964380b009c74efdee01947" resname="Delivery">
+        <source>Delivery</source>
+        <target state="translated">Consegna</target>
+        <note>key: Delivery</note>
+      </trans-unit>
+      <trans-unit id="1f63936b6c4cd6daac3f49f931bccdbe8736648b" resname="Delivery Address">
+        <source>Delivery Address</source>
+        <target state="translated">Indirizzo Di Consegna</target>
+        <note>key: Delivery Address</note>
+      </trans-unit>
+      <trans-unit id="55f8ebc805e65b5b71ddafdae390e3be2bcd69af" resname="Description">
+        <source>Description</source>
+        <target state="translated">Descrizione</target>
+        <note>key: Description</note>
+      </trans-unit>
+      <trans-unit id="b524936d7aa1316e00d3354c9a8664d00e4bce5a" resname="Discount">
+        <source>Discount</source>
+        <target state="translated">Sconto</target>
+        <note>key: Discount</note>
+      </trans-unit>
+      <trans-unit id="a479c9c34e878d07b4d67a73a48f432ad7dc53c8" resname="Download">
+        <source>Download</source>
+        <target state="translated">Scarica</target>
+        <note>key: Download</note>
+      </trans-unit>
+      <trans-unit id="2fe0aa2d6a2cb76c255f5841f7c85d1f877993f0" resname="Download|search">
+        <source>Download file</source>
+        <target state="translated">Scarica file</target>
+        <note>key: Download|search</note>
+      </trans-unit>
+      <trans-unit id="6335bbd818b98926b13c017c6f8cd0016b175cd2" resname="Drop file here or">
+        <source>Drop file here or</source>
+        <target state="translated">Trascina il file qui o</target>
+        <note>key: Drop file here or</note>
+      </trans-unit>
+      <trans-unit id="0a220101555f8e2e9de4da77c880ebeef56e8330" resname="EAN: %ean%">
+        <source>EAN: %ean%</source>
+        <target state="translated">EAN: %ean%</target>
+        <note>key: EAN: %ean%</note>
+      </trans-unit>
+      <trans-unit id="6ab65864cb25d75bbcc138522c135b2a2cf96ce0" resname="ERP">
+        <source>ERP</source>
+        <target state="translated">ERP</target>
+        <note>key: ERP</note>
+      </trans-unit>
+      <trans-unit id="846998d5b7b8ce1c4cf15cedfb8377c702648b33" resname="ERP Order ID">
+        <source>ERP Order ID</source>
+        <target state="translated">Id Ordine ERP</target>
+        <note>key: ERP Order ID</note>
+      </trans-unit>
+      <trans-unit id="dcf4e702891264b858f6ba735bbe90b4e65903d9" resname="ERP-Status">
+        <source>ERP-Status</source>
+        <target state="translated">Stato ERP</target>
+        <note>key: ERP-Status</note>
+      </trans-unit>
+      <trans-unit id="5301648dcf6b53cefc9ed52999aaa92d4603cae0" resname="Edit">
+        <source>Edit</source>
+        <target state="translated">Modifica</target>
+        <note>key: Edit</note>
+      </trans-unit>
+      <trans-unit id="31195ecdec76239bab0cbb8ece0b7721a20d70d5" resname="Edit buyer address">
+        <source>Edit buyer address</source>
+        <target state="translated">Modifica l'indirizzo dell'acquirente</target>
+        <note>key: Edit buyer address</note>
+      </trans-unit>
+      <trans-unit id="2019c5a12ff158747a74412738fe916ac003755a" resname="Edit invoice address">
+        <source>Edit invoice address</source>
+        <target state="translated">Modifica indirizzo di fatturazione</target>
+        <note>key: Edit invoice address</note>
+      </trans-unit>
+      <trans-unit id="26041f694800adac82e675e91c9cb9d91e78978e" resname="Edit my Account|profile">
+        <source>Edit my Account</source>
+        <target state="translated">Modifica il mio account</target>
+        <note>key: Edit my Account|profile</note>
+      </trans-unit>
+      <trans-unit id="84add5b2952787581cb9a8851eef63d1ec75d22b" resname="Email">
+        <source>Email</source>
+        <target state="translated">Email</target>
+        <note>key: Email</note>
+      </trans-unit>
+      <trans-unit id="c94d3175a6560565410511df2cebab9cda96027e" resname="Email address">
+        <source>Email address</source>
+        <target state="translated">Indirizzo email</target>
+        <note>key: Email address</note>
+      </trans-unit>
+      <trans-unit id="307419414c00251c1a4fff21f1d23baebaacecb0" resname="Enter csv file input">
+        <source>Enter CSV file input</source>
+        <target state="translated">Immettere l'input del file CSV</target>
+        <note>key: Enter csv file input</note>
+      </trans-unit>
+      <trans-unit id="47adebab22d7ae607e2a1a86410699ba1c378c68" resname="Error while processing this action">
+        <source>Error while processing this action</source>
+        <target state="translated">Errore durante l'elaborazione di questa azione</target>
+        <note>key: Error while processing this action</note>
+      </trans-unit>
+      <trans-unit id="6f418a010116a17563b35221ace254c0b262cbcf" resname="Error while processing your data">
+        <source>Error while processing your data</source>
+        <target state="translated">Errore durante l'elaborazione dei tuoi dati</target>
+        <note>key: Error while processing your data</note>
+      </trans-unit>
+      <trans-unit id="d469baae0628495800672bc39fdc71f30fbf6f45" resname="Event|search">
+        <source>Event</source>
+        <target state="translated">Evento</target>
+        <note>key: Event|search</note>
+      </trans-unit>
+      <trans-unit id="b5c8286a1e876f0bacd36681ea7bf8139e9635aa" resname="Every line must contain sku, variant code and quantity. You can upload only one .csv file">
+        <source>Every line must contain sku, variant code and quantity. You can upload only one .csv file</source>
+        <target state="translated">Ogni riga deve contenere sku, codice variante e quantità. Puoi caricare un solo file .csv</target>
+        <note>key: Every line must contain sku, variant code and quantity. You can upload only one .csv file</note>
+      </trans-unit>
+      <trans-unit id="e5b4962f3e8f121940f20423ff055ee8392d4df8" resname="Example: name@domain.com">
+        <source>Example: name@domain.com</source>
+        <target state="translated">Esempio: nome@dominio.com</target>
+        <note>key: Example: name@domain.com</note>
+      </trans-unit>
+      <trans-unit id="db6f833c8e0255d7c7fdf0d62dd3678d7dc699e5" resname="Examples|profile">
+        <source>Examples</source>
+        <target state="translated">Esempi</target>
+        <note>key: Examples|profile</note>
+      </trans-unit>
+      <trans-unit id="b2bcea0f5e34a01a5d9dc541131597b3110c231e" resname="Example|profile">
+        <source>Example</source>
+        <target state="translated">Esempio</target>
+        <note>key: Example|profile</note>
+      </trans-unit>
+      <trans-unit id="ec8fd5f7b0a4fae0d6b5814d293386f20b4f1d18" resname="Exception detected">
+        <source>Exception detected</source>
+        <target state="translated">Eccezione rilevata</target>
+        <note>key: Exception detected</note>
+      </trans-unit>
+      <trans-unit id="eb90a0cf5f6969710d2bea54b2acffc509fde75a" resname="Exception message:">
+        <source>Exception message:</source>
+        <target state="translated">Messaggio di eccezione:</target>
+        <note>key: Exception message:</note>
+      </trans-unit>
+      <trans-unit id="876962847cb2677b8956e781161f57dbcba57574" resname="Exception occured!">
+        <source>Exception occured!</source>
+        <target state="translated">Si è verificata un'eccezione!</target>
+        <note>key: Exception occured!</note>
+      </trans-unit>
+      <trans-unit id="abe1ebfd780b1e35a7f55b3467883a2f7cfa2480" resname="Excl.">
+        <source>Excl.</source>
+        <target state="translated">Excl.</target>
+        <note>key: Excl.</note>
+      </trans-unit>
+      <trans-unit id="ac2884276390ecab98c3d0a13fe9029048e9475a" resname="Existing customer">
+        <source>Existing customer</source>
+        <target state="translated">Cliente esistente</target>
+        <note>key: Existing customer</note>
+      </trans-unit>
+      <trans-unit id="97cdbdc7feff827efb082a6b6dd2727237cd49fd" resname="False">
+        <source>False</source>
+        <target state="translated">Falso</target>
+        <note>key: False</note>
+      </trans-unit>
+      <trans-unit id="2c3cafa4db3f3e1e51b3dff4303502dbe42b7a89" resname="File">
+        <source>File</source>
+        <target state="translated">File</target>
+        <note>key: File</note>
+      </trans-unit>
+      <trans-unit id="b387bb6b957e5cba2ef6a9043ff039cd8c12e3ed" resname="Logged in as">
+        <source>Logged in as</source>
+        <target state="translated">Collegato come</target>
+        <note>key: Logged in as</note>
+      </trans-unit>
+      <trans-unit id="4e5a2893bdcc7d239c1db72e4c4ffbe4bea73174" resname="Login">
+        <source>Login</source>
+        <target state="translated">Accedi</target>
+        <note>key: Login</note>
+      </trans-unit>
+      <trans-unit id="2e98310eea1179ef208c32219ee39697a872756f" resname="Login / Register">
+        <source>Login / Register</source>
+        <target state="translated">Accedi / Registrati</target>
+        <note>key: Login / Register</note>
+      </trans-unit>
+      <trans-unit id="e43d612e11f1568f2373e719d4c4b08dcecdc7cc" resname="Logout">
+        <source>Logout</source>
+        <target state="translated">Esci</target>
+        <note>key: Logout</note>
+      </trans-unit>
+      <trans-unit id="18db59f31464766fdc98a66b87b9b223a47fe474" resname="Manuals">
+        <source>Manuals</source>
+        <target state="translated">Manuali</target>
+        <note>key: Manuals</note>
+      </trans-unit>
+      <trans-unit id="7adfcd13b3b01de0d8750e7aba16d529b1adb342" resname="Manufacturer">
+        <source>Manufacturer</source>
+        <target state="translated">Produttore</target>
+        <note>key: Manufacturer</note>
+      </trans-unit>
+      <trans-unit id="f2d7c3437f39d1531bbf79a5aff7ee212acce5e1" resname="Manufacturer SKU">
+        <source>Manufacturer SKU</source>
+        <target state="translated">Produttore SKU</target>
+        <note>key: Manufacturer SKU</note>
+      </trans-unit>
+      <trans-unit id="68f4145fee7dde76afceb910165924ad14cf0d00" resname="Message">
+        <source>Message</source>
+        <target state="translated">Messaggio</target>
+        <note>key: Message</note>
+      </trans-unit>
+      <trans-unit id="bcc48f3336eb1990dab1a630c22321077ded99c1" resname="Min quantity">
+        <source>Min quantity</source>
+        <target state="translated">Quantità minima</target>
+        <note>key: Min quantity</note>
+      </trans-unit>
+      <trans-unit id="ad91bd7ca681c4b3fd046ef617f086d52810700c" resname="Most searched terms with less hits">
+        <source>Most searched terms with less hits</source>
+        <target state="translated">Termini più cercati con meno risultati</target>
+        <note>key: Most searched terms with less hits</note>
+      </trans-unit>
+      <trans-unit id="b51b2b0d62c7e20b8d8a956fed9a940fed0677d6" resname="My Account">
+        <source>My Account</source>
+        <target state="translated">Il Mio Account</target>
+        <note>key: My Account</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
