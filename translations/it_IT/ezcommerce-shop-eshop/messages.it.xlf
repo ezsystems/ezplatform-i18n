@@ -1764,6 +1764,256 @@
         <target state="translated">Informazioni utente</target>
         <note>key: User information</note>
       </trans-unit>
+      <trans-unit id="a2d8625b8089ff47230185aa469481ba8734d465" resname="User menu">
+        <source>User menu</source>
+        <target state="translated">Menu utente</target>
+        <note>key: User menu</note>
+      </trans-unit>
+      <trans-unit id="9c986a39aaffc5e0efbc76c73d7d9ddd22203d56" resname="User not found.">
+        <source>User not found.</source>
+        <target state="translated">Utente non trovato.</target>
+        <note>key: User not found.</note>
+      </trans-unit>
+      <trans-unit id="1c2ef28888cc23312bf6cbe331161af86991ba7f" resname="User object not given">
+        <source>User object not given</source>
+        <target state="translated">Oggetto utente non fornito</target>
+        <note>key: User object not given</note>
+      </trans-unit>
+      <trans-unit id="2e413206787cf4458590f53f6d3ced32effbc5cb" resname="User was not found.">
+        <source>User was not found.</source>
+        <target state="translated">Utente non trovato.</target>
+        <note>key: User was not found.</note>
+      </trans-unit>
+      <trans-unit id="aa70510c5682570826a7a3f9629ec822f32d8d29" resname="User with the email address &quot;%email%&quot; is already registered">
+        <source>User with the email address "%email%" is already registered</source>
+        <target state="translated">L'utente con l'indirizzo email "%email%" è già registrato</target>
+        <note>key: User with the email address "%email%" is already registered</note>
+      </trans-unit>
+      <trans-unit id="84c29015de33e5d22422382a372caba5c58f8c01" resname="Username">
+        <source>Username</source>
+        <target state="translated">Nome utente</target>
+        <note>key: Username</note>
+      </trans-unit>
+      <trans-unit id="691b9f875c7cdd86155787a1b22e7cf0af565f7d" resname="Username / Email">
+        <source>Username / Email</source>
+        <target state="translated">Nome Utente / Email</target>
+        <note>key: Username / Email</note>
+      </trans-unit>
+      <trans-unit id="5f54ad7bf78bfc644706e5476b2bd927ca5322a9" resname="VAT">
+        <source>VAT</source>
+        <target state="translated">IVA</target>
+        <note>key: VAT</note>
+      </trans-unit>
+      <trans-unit id="cb25b923e28c4652e4d81620c0eddb1fd197c694" resname="VAT country code">
+        <source>VAT country code</source>
+        <target state="translated">Codice del paese IVA</target>
+        <note>key: VAT country code</note>
+      </trans-unit>
+      <trans-unit id="7a91dfae03f72cf829426d8230ae6c1893d99879" resname="VAT number">
+        <source>VAT number</source>
+        <target state="translated">Partita IVA</target>
+        <note>key: VAT number</note>
+      </trans-unit>
+      <trans-unit id="8dce170de238b1feda2ecd9674ea3ca0d068fbcb" resname="Value">
+        <source>Value</source>
+        <target state="translated">Valore</target>
+        <note>key: Value</note>
+      </trans-unit>
+      <trans-unit id="cc91b1ea2c16519ab22614ae2929960a271dbb5c" resname="Variant">
+        <source>Variant</source>
+        <target state="translated">Variante</target>
+        <note>key: Variant</note>
+      </trans-unit>
+      <trans-unit id="357f33df6031e37a87cbcb5403ca8cb36489ee31" resname="Variant code">
+        <source>Variant code</source>
+        <target state="translated">Codice variante</target>
+        <note>key: Variant code</note>
+      </trans-unit>
+      <trans-unit id="56b71e89fb1079caaadefd0889e9a22e8b0560e3" resname="Videos">
+        <source>Videos</source>
+        <target state="translated">Video</target>
+        <note>key: Videos</note>
+      </trans-unit>
+      <trans-unit id="0cfa5b3781259d24933e754a47d22b92c65150a1" resname="Video|search">
+        <source>Video</source>
+        <target state="translated">Video</target>
+        <note>key: Video|search</note>
+      </trans-unit>
+      <trans-unit id="03178bde170c854e18846dfc4fcf08f2e6468c33" resname="View this on YouTube">
+        <source>View this on YouTube</source>
+        <target state="translated">Visualizza questo su YouTube</target>
+        <note>key: View this on YouTube</note>
+      </trans-unit>
+      <trans-unit id="f8f3b6f931db7357358449f2e905d8470e3394cd" resname="Visitors">
+        <source>Visitors</source>
+        <target state="translated">Visitatori</target>
+        <note>key: Visitors</note>
+      </trans-unit>
+      <trans-unit id="4abae4e2938fdbe50967c4a167cda8cb3297125a" resname="We are happy to welcome you in our">
+        <source>We are happy to welcome you in our</source>
+        <target state="translated">Siamo felici di darvi il benvenuto nel nostro</target>
+        <note>key: We are happy to welcome you in our</note>
+      </trans-unit>
+      <trans-unit id="6ff33102b1c6673c9168ebef7e131ef7232411b8" resname="Wishlist">
+        <source>Wishlist</source>
+        <target state="translated">Lista dei desideri</target>
+        <note>key: Wishlist</note>
+      </trans-unit>
+      <trans-unit id="856e0e17cde5314a4ab18cf61aafb924651e4da8" resname="You already have a basket. Please go to basket page and remove it or order.">
+        <source>You already have a basket. Please go to basket page and remove it or order.</source>
+        <target state="translated">Hai già un carrello. Vai alla pagina del carrello e rimuovilo o ordina.</target>
+        <note>key: You already have a basket. Please go to basket page and remove it or order.</note>
+      </trans-unit>
+      <trans-unit id="c2d50c4d314b04e0d29452e0b57937d1b733acfb" resname="You are already logged in!">
+        <source>You are already logged in!</source>
+        <target state="translated">Sei già connesso!</target>
+        <note>key: You are already logged in!</note>
+      </trans-unit>
+      <trans-unit id="b85ae10c9ff6f39f2e5c563b237e5b066caffec9" resname="You can change the password within next %amount% %period%.">
+        <source>You can change the password within next %amount% %period%.</source>
+        <target state="translated">Puoi cambiare la password entro il prossimo% amount%% period%.</target>
+        <note>key: You can change the password within next %amount% %period%.</note>
+      </trans-unit>
+      <trans-unit id="c158bf98056bb400b66968a8ec670262a6b98c04" resname="You can register here!">
+        <source>You can register here!</source>
+        <target state="translated">Puoi registrarti qui!</target>
+        <note>key: You can register here!</note>
+      </trans-unit>
+      <trans-unit id="7a37305c813df31868a2760842bc9878b895022f" resname="You can use .csv file to fill your quickorder.">
+        <source>You can use .csv file to fill your quickorder.</source>
+        <target state="translated">Puoi utilizzare il file .csv per riempire il tuo ordine rapido.</target>
+        <note>key: You can use .csv file to fill your quickorder.</note>
+      </trans-unit>
+      <trans-unit id="4fe022a0e2bb0d32243b5add6a77d69b165ba5b4" resname="You did not make any changes.">
+        <source>You did not make any changes.</source>
+        <target state="translated">Non hai apportato alcuna modifica.</target>
+        <note>key: You did not make any changes.</note>
+      </trans-unit>
+      <trans-unit id="d863a31552c0caf38809ad6e0d3bed38b4bc4681" resname="You don't have access to see this page!">
+        <source>You don\'t have access to see this page!</source>
+        <target state="translated">Non hai accesso per vedere questa pagina!</target>
+        <note>key: You don't have access to see this page!</note>
+      </trans-unit>
+      <trans-unit id="cfb05d93be4cf562e14a436ace026207e12e8bfa" resname="You send us following message. We will take care of your request as soon as possible">
+        <source>You send us following message. We will take care of your request as soon as possible</source>
+        <target state="translated">Ci mandi il seguente messaggio. Ci prenderemo cura della tua richiesta il prima possibile</target>
+        <note>key: You send us following message. We will take care of your request as soon as possible</note>
+      </trans-unit>
+      <trans-unit id="6c80cd84097ddd9b81787badf0347046d67d1555" resname="Your Account|profile">
+        <source>Your Account</source>
+        <target state="translated">Il Tuo Account</target>
+        <note>key: Your Account|profile</note>
+      </trans-unit>
+      <trans-unit id="1daf07d35fedca698b42726c38591c02db35a4df" resname="Your Basket">
+        <source>Your Basket</source>
+        <target state="translated">Il tuo Carrello</target>
+        <note>key: Your Basket</note>
+      </trans-unit>
+      <trans-unit id="d447b63fbd8910a8b13fa7875c2d4725d146e8ba" resname="Your Basket is empty">
+        <source>Your Basket is empty</source>
+        <target state="translated">Il tuo carrello è vuoto</target>
+        <note>key: Your Basket is empty</note>
+      </trans-unit>
+      <trans-unit id="9c3f23f8bcbbc940bbe1a4da2d66bd31a7889eaa" resname="Your Comparison List is empty">
+        <source>Your Comparison List is empty</source>
+        <target state="translated">La tua lista di confronto è vuota</target>
+        <note>key: Your Comparison List is empty</note>
+      </trans-unit>
+      <trans-unit id="9b4d02785886e7be4e4e3e96138f2468ac30ecee" resname="Your List">
+        <source>Your List</source>
+        <target state="translated">La Tua Lista</target>
+        <note>key: Your List</note>
+      </trans-unit>
+      <trans-unit id="fdc7c20f26de0a2c804794551e5d03f52df38fe9" resname="Your account has been successfully activated.">
+        <source>Your account has been successfully activated.</source>
+        <target state="translated">Il tuo account è stato attivato correttamente.</target>
+        <note>key: Your account has been successfully activated.</note>
+      </trans-unit>
+      <trans-unit id="9f5676537fb930361cb4a7b30b9e206f676b20f0" resname="Your delivery addresses">
+        <source>Your delivery addresses</source>
+        <target state="translated">I tuoi indirizzi di consegna</target>
+        <note>key: Your delivery addresses</note>
+      </trans-unit>
+      <trans-unit id="9c8822fa058efd2be1bee158d200d8b52d3e2b02" resname="Your entered invoice and customer number combination was not found. Activation could not be done.">
+        <source>Your entered invoice and customer number combination was not found. Activation could not be done.</source>
+        <target state="translated">La combinazione di fattura e numero cliente immessa non è stata trovata. Impossibile eseguire l'attivazione.</target>
+        <note>key: Your entered invoice and customer number combination was not found. Activation could not be done.</note>
+      </trans-unit>
+      <trans-unit id="f190c98ece6a67328e369fcdfcf84eea73c94b7e" resname="Your message">
+        <source>Your message</source>
+        <target state="translated">Il tuo messaggio</target>
+        <note>key: Your message</note>
+      </trans-unit>
+      <trans-unit id="16a067af179c1f81645e2954ee05c68337fd773c" resname="Your price">
+        <source>Your price</source>
+        <target state="translated">Il tuo prezzo</target>
+        <note>key: Your price</note>
+      </trans-unit>
+      <trans-unit id="21d3b892fe22bffba900b42e1250390cf0f0c09b" resname="Your registration was sucessfull!">
+        <source>Your registration was sucessfull!</source>
+        <target state="translated">La tua registrazione è stata completa!</target>
+        <note>key: Your registration was sucessfull!</note>
+      </trans-unit>
+      <trans-unit id="f617fa00193d44d5d3c35e3b04f9349054a34cd6" resname="Your token is invalid.">
+        <source>Your token is invalid.</source>
+        <target state="translated">Il tuo token non è valido.</target>
+        <note>key: Your token is invalid.</note>
+      </trans-unit>
+      <trans-unit id="7c66bc738ca119c4e9f9548cc8ee3bd84f19c96d" resname="Your token is not valid.">
+        <source>Your token is not valid.</source>
+        <target state="translated">Il tuo token non è valido.</target>
+        <note>key: Your token is not valid.</note>
+      </trans-unit>
+      <trans-unit id="d9d220ab2925c9b97a98a9d9b35059f864dbe73a" resname="ZIP">
+        <source>ZIP</source>
+        <target state="translated">CAP</target>
+        <note>key: ZIP</note>
+      </trans-unit>
+      <trans-unit id="1ed01e7c71996c604337478270c81704193265d0" resname="ZIP code">
+        <source>ZIP code</source>
+        <target state="translated">Codice postale</target>
+        <note>key: ZIP code</note>
+      </trans-unit>
+      <trans-unit id="0b5351ada9d86b9b68449a983095e3deee465050" resname="admin.translations_onesky_intro">
+        <source>Static text can be edited in the translation platform OneSky. </source>
+        <target state="translated">Il testo statico può essere modificato nella piattaforma di traduzione OneSky.</target>
+        <note>key: admin.translations_onesky_intro</note>
+      </trans-unit>
+      <trans-unit id="97989bb4d4723ad78b09779f3f0f700261a7ac9e" resname="admin.translations_onesky_link">
+        <source>Open OneSky</source>
+        <target state="translated">Apri OneSky</target>
+        <note>key: admin.translations_onesky_link</note>
+      </trans-unit>
+      <trans-unit id="eb3c107f4b260b122216c378f76608c9e2f39d02" resname="admin.translations_textmodules">
+        <source>Textmodules offers a more sophisticated way to manage text modules for the shop.</source>
+        <target state="translated">Textmodules offre un modo più sofisticato per gestire i moduli di testo per il negozio.</target>
+        <note>key: admin.translations_textmodules</note>
+      </trans-unit>
+      <trans-unit id="a5f472cb89253205deeebce9c658d0ea34289087" resname="apply|search">
+        <source>Apply</source>
+        <target state="translated">Applica</target>
+        <note>key: apply|search</note>
+      </trans-unit>
+      <trans-unit id="38f4a00da016a5bc22f285a7e9faeb87893505a2" resname="back_to_catalog">
+        <source>back_to_catalog</source>
+        <target state="translated">torna al catalogo</target>
+        <note>key: back_to_catalog</note>
+      </trans-unit>
+      <trans-unit id="0899457f78642643c930ec5756e65543ddbd1bc6" resname="basket.minimum.pieces">
+        <source>Minimum %pieces% piece(s)</source>
+        <target state="translated">Minimo %pieces% pezzo(i)</target>
+        <note>key: basket.minimum.pieces</note>
+      </trans-unit>
+      <trans-unit id="f568e56f032761f7dfd5e8865281b21ac036e818" resname="bestsellers_intro_text">
+        <source>bestsellers_intro_text</source>
+        <target state="translated">testo introduttivo dei bestseller</target>
+        <note>key: bestsellers_intro_text</note>
+      </trans-unit>
+      <trans-unit id="df88b84d816d3358b3793a61b73d80e93913e627" resname="blocked">
+        <source>User account is blocked</source>
+        <target state="translated">L'account utente è bloccato</target>
+        <note>key: blocked</note>
+      </trans-unit>
       <trans-unit id="08141247b4323e69c3c9f389ad488f293860de29" resname="button.activate_voucher">
         <source>Activate</source>
         <target state="translated">Attiva</target>
