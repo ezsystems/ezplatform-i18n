@@ -1497,6 +1497,151 @@
         <target state="translated">A causa di problemi tecnici, l'indirizzo di consegna non è stato rimosso</target>
         <note>key: msg.delete_deliver_address_error</note>
       </trans-unit>
+      <trans-unit id="2bb4e633ae400b664dfc3e514d00e36d172f7efe" resname="msg.delete_deliver_address_success">
+        <source>Delivery address was successfully removed</source>
+        <target state="translated">L'indirizzo di consegna è stato rimosso con successo</target>
+        <note>key: msg.delete_deliver_address_success</note>
+      </trans-unit>
+      <trans-unit id="9e2a89268caf7dbebb5fbcc0244adb05c916d0d4" resname="msg.did_you_mean">
+        <source>Did you mean</source>
+        <target state="translated">Intendevi</target>
+        <note>key: msg.did_you_mean</note>
+      </trans-unit>
+      <trans-unit id="7e67c9a3584db61a43e9b80d712ebdc2da02f953" resname="msg.error_undelegation_process">
+        <source>Delegation could not be cancelled.</source>
+        <target state="translated">Impossibile annullare la delega.</target>
+        <note>key: msg.error_undelegation_process</note>
+      </trans-unit>
+      <trans-unit id="86ce7e2c45b3d6a4bfcb5bfe18a2ab450c872aff" resname="shipping_management.add_shipping">
+        <source>Add</source>
+        <target state="translated">Aggiungi</target>
+        <note>key: shipping_management.add_shipping</note>
+      </trans-unit>
+      <trans-unit id="a75dc4c2145855dd0841a5da02bf3714e6605d4e" resname="shipping_management.delete_shippment.button">
+        <source>Delete</source>
+        <target state="translated">Elimina</target>
+        <note>key: shipping_management.delete_shippment.button</note>
+      </trans-unit>
+      <trans-unit id="d2765262c00772a23e9e1e7e4f3648da01eb06ab" resname="show_facets|search">
+        <source>Show facets</source>
+        <target state="translated">Mostra sfaccettature</target>
+        <note>key: show_facets|search</note>
+      </trans-unit>
+      <trans-unit id="f8a229d649fc9416f550b5c95712cba1f73fa748" resname="show_less_facets|search">
+        <source>show less facets</source>
+        <target state="translated">mostra meno sfaccettature</target>
+        <note>key: show_less_facets|search</note>
+      </trans-unit>
+      <trans-unit id="be7dee000e2ea2bce1bb13e73914aa0f356b7cf7" resname="show_more_facets|search">
+        <source>show more facets</source>
+        <target state="translated">mostra più sfaccettature</target>
+        <note>key: show_more_facets|search</note>
+      </trans-unit>
+      <trans-unit id="4d541daf696224539f5c4b99411e177d503f36e0" resname="silversolutions_delegate|breadcrumb">
+        <source>Delegate</source>
+        <target state="translated">Delega</target>
+        <note>key: silversolutions_delegate|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="259266838546a2a0aa3aa8cec2cb340d1a4dbda7" resname="silversolutions_forms_user_choice|breadcrumb">
+        <source>Shop Registration</source>
+        <target state="translated">Registrazione Negozio</target>
+        <note>key: silversolutions_forms_user_choice|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="9279df85b1c0eafb49689998ec243f66f8d241b9" resname="silversolutions_password_change|breadcrumb">
+        <source>Change password</source>
+        <target state="translated">Cambia password</target>
+        <note>key: silversolutions_password_change|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="57974f7e8d28b4ec5884e6b4a5070c59ecadbe6f" resname="silversolutions_password_reminder|breadcrumb">
+        <source>Password Reminder</source>
+        <target state="translated">Promemoria Password</target>
+        <note>key: silversolutions_password_reminder|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="14950968e7bffff88eebce42816cdd2c453a6f8e" resname="silversolutions_profile|breadcrumb">
+        <source>Change my account</source>
+        <target state="translated">Cambia il mio account</target>
+        <note>key: silversolutions_profile|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="998cd97ddaa32f562f7400f85e6b7317c437eb39" resname="silversolutions_undelegate|breadcrumb">
+        <source>Delegate finished</source>
+        <target state="translated">Delegato terminato</target>
+        <note>key: silversolutions_undelegate|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="231b0beb563e4e61f1608a88a4597f4ef262dfb3" resname="stock_management.on_stock">
+        <source>On stock</source>
+        <target state="translated">In magazzino</target>
+        <note>key: stock_management.on_stock</note>
+      </trans-unit>
+      <trans-unit id="c647ca835347673e015c0fa527ba0a40bf7946f7" resname="stock_management.save">
+        <source>Save</source>
+        <target state="translated">Salva</target>
+        <note>key: stock_management.save</note>
+      </trans-unit>
+      <trans-unit id="17aa5eb3fb62622b7e00d4f9bf7a84512307c79f" resname="stock_management.sku">
+        <source>SKU</source>
+        <target state="translated">SKU</target>
+        <note>key: stock_management.sku</note>
+      </trans-unit>
+      <trans-unit id="b61bd861b86f97b578af8a4ba46c57567fc397f3" resname="stock_management.stock_text">
+        <source>Stock text</source>
+        <target state="translated">Testo stock</target>
+        <note>key: stock_management.stock_text</note>
+      </trans-unit>
+      <trans-unit id="b7304ae7d712baa91b98553f04ef7957863a9a3f" resname="stored_baskets_empty">
+        <source>You have no stored baskets</source>
+        <target state="translated">Non hai nessun carrello memorizzato</target>
+        <note>key: stored_baskets_empty</note>
+      </trans-unit>
+      <trans-unit id="5c4688773fee3bf0493d3a00b9f17add5462772d" resname="stored_baskets_list_intro_text">
+        <source>You can view or remove stored baskets. </source>
+        <target state="translated">È possibile visualizzare o rimuovere i cestini memorizzati. </target>
+        <note>key: stored_baskets_list_intro_text</note>
+      </trans-unit>
+      <trans-unit id="84badc888ac12f2220c9c2b6d58f9abce97f3f28" resname="subject.complete_registration">
+        <source>Complete registration</source>
+        <target state="translated">Completa la registrazione</target>
+        <note>key: subject.complete_registration</note>
+      </trans-unit>
+      <trans-unit id="4879d76e6912d12bf78241b764954130e480974e" resname="subject.registration_validation">
+        <source>Validate user registration</source>
+        <target state="translated">Convalida registrazione utente</target>
+        <note>key: subject.registration_validation</note>
+      </trans-unit>
+      <trans-unit id="4df056a0d74e8cf7893a63da08a15f03f00fa20e" resname="subscribe newsletter">
+        <source>subscribe newsletter</source>
+        <target state="translated">iscriviti alla newsletter</target>
+        <note>key: subscribe newsletter</note>
+      </trans-unit>
+      <trans-unit id="835aa3bec0bdca5c33e7dbe3d335e1c74b61567e" resname="success_address_create">
+        <source>The address has been stored.</source>
+        <target state="translated">L'indirizzo è stato memorizzato.</target>
+        <note>key: success_address_create</note>
+      </trans-unit>
+      <trans-unit id="baa0920bc2359b9d4252e97c00e2d27fba0cf372" resname="success_address_edit">
+        <source>The address has been modified.</source>
+        <target state="translated">L'indirizzo è stato modificato.</target>
+        <note>key: success_address_edit</note>
+      </trans-unit>
+      <trans-unit id="a0f562b97eb7adc68e551ada253f4843a9312341" resname="thereof">
+        <source>thereof</source>
+        <target state="translated">di ciò</target>
+        <note>key: thereof</note>
+      </trans-unit>
+      <trans-unit id="6a449ce1a87930173c85dfef7a2a2eea19e3c15f" resname="use_invoice_as_delivery">
+        <source>Use invoice address as delivery address</source>
+        <target state="translated">Usa l'indirizzo di fattura come indirizzo di consegna</target>
+        <note>key: use_invoice_as_delivery</note>
+      </trans-unit>
+      <trans-unit id="91697f138bc8ffe13d19a0c56cc2211bf623f482" resname="wishlist_stored_basket_intro_text">
+        <source>wishlist_stored_basket_intro_text</source>
+        <target state="translated">wishlist_stored_basket_intro_text</target>
+        <note>key: wishlist_stored_basket_intro_text</note>
+      </trans-unit>
+      <trans-unit id="b38c04cceab19c7157c475b3149eeed7aafc7f15" resname="your_choice|search">
+        <source>Your choice</source>
+        <target state="translated">La tua scelta</target>
+        <note>key: your_choice|search</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
