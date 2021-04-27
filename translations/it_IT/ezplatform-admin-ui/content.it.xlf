@@ -101,6 +101,21 @@
         <target state="translated">L'ultima bozza salvata era il %date%</target>
         <note>key: content_edit.last_saved</note>
       </trans-unit>
+      <trans-unit id="750bead6705b295c7b7d66c27b2768c1b9329ed5" resname="editing_details">
+        <source><![CDATA[<b>in</b> %language_name% <b>under</b> %location_name%]]></source>
+        <target state="translated"><![CDATA[<b> in </b>% language_name% <b> sotto </b>% location_name%]]></target>
+        <note>key: editing_details</note>
+      </trans-unit>
+      <trans-unit id="583285bb674e4f29b273ceb4b19dc700e44c4130" resname="tooltip.close_label">
+        <source>Close</source>
+        <target state="translated">Chiudi</target>
+        <note>key: tooltip.close_label</note>
+      </trans-unit>
+      <trans-unit id="f46c619c6bc5f16699d112b74f64b236898ff787" resname="tooltip.exit_label">
+        <source>Exit</source>
+        <target state="translated">Esci</target>
+        <note>key: tooltip.exit_label</note>
+      </trans-unit>
       <trans-unit id="4492a79e25635e7612f98971e02b4d0e6a408394" resname="user.delete.success">
         <source>User with login '%login%' deleted.</source>
         <target state="translated">Utente con login '%login%' cancellato.</target>
