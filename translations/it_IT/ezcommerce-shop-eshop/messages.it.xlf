@@ -563,6 +563,940 @@
         <target state="translated">Il Mio Account</target>
         <note>key: My Account</note>
       </trans-unit>
+      <trans-unit id="3dd5f84887e724584d4f1e0bf57b63298c12fdb4" resname="My Comparison List">
+        <source>My Comparison List</source>
+        <target state="translated">La mia lista di confronto</target>
+        <note>key: My Comparison List</note>
+      </trans-unit>
+      <trans-unit id="2f3df0a939fdd38f0e2152b32e778eadb937d821" resname="My profile">
+        <source>My profile</source>
+        <target state="translated">Il mio profilo</target>
+        <note>key: My profile</note>
+      </trans-unit>
+      <trans-unit id="ff842294e983715e11718eccba1bafe95de02b60" resname="My stored basket:">
+        <source>My stored basket:</source>
+        <target state="translated">Il mio carrello memorizzato:</target>
+        <note>key: My stored basket:</note>
+      </trans-unit>
+      <trans-unit id="dc032e04defad47f9350b9406cf37fd885ccf08b" resname="My stored baskets">
+        <source>My stored baskets</source>
+        <target state="translated">I miei carrelli immagazzinati</target>
+        <note>key: My stored baskets</note>
+      </trans-unit>
+      <trans-unit id="252f36ac0e05e41dfeafc7f4a61e7028e86e4ce5" resname="My wishlist">
+        <source>My wishlist</source>
+        <target state="translated">La mia lista dei desideri</target>
+        <note>key: My wishlist</note>
+      </trans-unit>
+      <trans-unit id="709a23220f2c3d64d1e1d6d18c4d5280f8d82fca" resname="Name">
+        <source>Name</source>
+        <target state="translated">Nome</target>
+        <note>key: Name</note>
+      </trans-unit>
+      <trans-unit id="4cf78143061548570a004a79a8243d821aac2e7f" resname="Name of the customer(s)">
+        <source>Name of the customer(s)</source>
+        <target state="translated">Nome del/dei cliente/i</target>
+        <note>key: Name of the customer(s)</note>
+      </trans-unit>
+      <trans-unit id="45205ef85b2f57922ab3c566402f2747eb51783a" resname="Name/Company">
+        <source>Name/Company</source>
+        <target state="translated">Nome/azienda</target>
+        <note>key: Name/Company</note>
+      </trans-unit>
+      <trans-unit id="6ffcdc92a33aa89f26c7cd8dce6c583abb019bcd" resname="Name/Company 2">
+        <source>Name/Company 2</source>
+        <target state="translated">Nome/Azienda 2</target>
+        <note>key: Name/Company 2</note>
+      </trans-unit>
+      <trans-unit id="1f617792a164749b476129f872803a8afaabcef2" resname="New business customer has registered. Please check these data:">
+        <source>New business customer has registered. Please check these data:</source>
+        <target state="translated">Nuovo cliente aziendale registrato. Si prega di controllare questi dati:</target>
+        <note>key: New business customer has registered. Please check these data:</note>
+      </trans-unit>
+      <trans-unit id="6ed05e720ccc3ef269db1b38201da8b873acc895" resname="Newsletter">
+        <source>Newsletter</source>
+        <target state="translated">Newsletter</target>
+        <note>key: Newsletter</note>
+      </trans-unit>
+      <trans-unit id="c3d5d945189a058eff172d7e46c4bb8dbb0daf13" resname="No attributes in local user data map">
+        <source>No attributes in local user data map</source>
+        <target state="translated">Nessun attributo nella mappa dati utente locale</target>
+        <note>key: No attributes in local user data map</note>
+      </trans-unit>
+      <trans-unit id="2b4cf591d61c644c4bef577944d6ac0d3a8d7a09" resname="No availability information for this product">
+        <source>No availability information for this product</source>
+        <target state="translated">Nessuna informazione sulla disponibilità per questo prodotto</target>
+        <note>key: No availability information for this product</note>
+      </trans-unit>
+      <trans-unit id="e33899926b0427c4e7fd8c5a530d736b52b61444" resname="No connection">
+        <source>No connection</source>
+        <target state="translated">Nessuna connessione</target>
+        <note>key: No connection</note>
+      </trans-unit>
+      <trans-unit id="133143619062d4e6b0c60095b438b49e6e73cae8" resname="No contact available">
+        <source>No contact available</source>
+        <target state="translated">Nessun contatto disponibile</target>
+        <note>key: No contact available</note>
+      </trans-unit>
+      <trans-unit id="4930b536bbf2b7a055b9ec1ad8eaac079bc485f0" resname="No new user created, cannot login.">
+        <source>No new user created, cannot login.</source>
+        <target state="translated">Nessun nuovo utente creato, impossibile effettuare il login.</target>
+        <note>key: No new user created, cannot login.</note>
+      </trans-unit>
+      <trans-unit id="b8b9f1367ad6269845f5ec54d66262066092883f" resname="No.">
+        <source>No.</source>
+        <target state="translated">No.</target>
+        <note>key: No.</note>
+      </trans-unit>
+      <trans-unit id="4028c0c8b470f54534e630835a4923212d2ed971" resname="Not Available">
+        <source>Not Available</source>
+        <target state="translated">Non Disponibile</target>
+        <note>key: Not Available</note>
+      </trans-unit>
+      <trans-unit id="8d7e18d9313728942bd3571a69ff8cd7d86e95ef" resname="Not Available in the amount: %amount%, Stock: %stockNumeric%">
+        <source>Not Available in the amount: %amount%, Stock: %stockNumeric%</source>
+        <target state="translated">Non disponibile nella quantità:% amount%, Stock:% stockNumeric%</target>
+        <note>key: Not Available in the amount: %amount%, Stock: %stockNumeric%</note>
+      </trans-unit>
+      <trans-unit id="2b10f497394ddf7f2ceead54d0005bffb2b7a326" resname="Not Available in this amount">
+        <source>Not Available in this amount</source>
+        <target state="translated">Non disponibile in questa quantità</target>
+        <note>key: Not Available in this amount</note>
+      </trans-unit>
+      <trans-unit id="53802e672d6d5a496e79cc598092291e80a23e1d" resname="Not logged in">
+        <source>Not logged in</source>
+        <target state="translated">Accesso non effettuato</target>
+        <note>key: Not logged in</note>
+      </trans-unit>
+      <trans-unit id="16d5f9dca5983670eecb9f80ff720b611795d1a3" resname="Occured in file %file% line %line%">
+        <source>Occured in file %file% line %line%</source>
+        <target state="translated">Si è verificato nel file% file% line% line%</target>
+        <note>key: Occured in file %file% line %line%</note>
+      </trans-unit>
+      <trans-unit id="5c4b1a4c0772cab30dbe8ee5128bd0657f3264bf" resname="Online-Shop">
+        <source>Online-Shop</source>
+        <target state="translated">Negozio online</target>
+        <note>key: Online-Shop</note>
+      </trans-unit>
+      <trans-unit id="78bb9ffefe80a37477a88105e5436d8e40701aa4" resname="Only differences">
+        <source>Only differences</source>
+        <target state="translated">Solo differenze</target>
+        <note>key: Only differences</note>
+      </trans-unit>
+      <trans-unit id="cded093321ddaa4c0eaf56ef36f84dd53a9527be" resname="Orders">
+        <source>Orders</source>
+        <target state="translated">Ordini</target>
+        <note>key: Orders</note>
+      </trans-unit>
+      <trans-unit id="74eb3dae0f866410a58aa70a0d9086e3aa333dde" resname="Our apologies but comparison feature is optimized for bigger screen size.">
+        <source>Our apologies but comparison feature is optimized for bigger screen size.</source>
+        <target state="translated">Ci scusiamo ma la funzione di confronto è ottimizzata per schermi di dimensioni maggiori.</target>
+        <note>key: Our apologies but comparison feature is optimized for bigger screen size.</note>
+      </trans-unit>
+      <trans-unit id="0efc2e6be4c23b9a513d7ce0dcff8ed80e8912e7" resname="Overview">
+        <source>Overview</source>
+        <target state="translated">Panoramica</target>
+        <note>key: Overview</note>
+      </trans-unit>
+      <trans-unit id="0f4d2a2d489ef8d6a4b56f1a9cec1bb845f83759" resname="Packaging Unit: %packageUnit%">
+        <source>Packaging Unit: %packageUnit%</source>
+        <target state="translated">Unità di imballaggio:% packageUnit%</target>
+        <note>key: Packaging Unit: %packageUnit%</note>
+      </trans-unit>
+      <trans-unit id="8be3c943b1609fffbfc51aad666d0a04adf83c9d" resname="Password">
+        <source>Password</source>
+        <target state="translated">Password</target>
+        <note>key: Password</note>
+      </trans-unit>
+      <trans-unit id="6640bb48d9541086a4de3d3c0fd0144f775a9695" resname="Password Change">
+        <source>Password Change</source>
+        <target state="translated">Cambio Password</target>
+        <note>key: Password Change</note>
+      </trans-unit>
+      <trans-unit id="175ff4b964ad8582a665ef32564e0058d99f2d20" resname="Password Reminder">
+        <source>Password Reminder</source>
+        <target state="translated">Promemoria Password</target>
+        <note>key: Password Reminder</note>
+      </trans-unit>
+      <trans-unit id="b41a92bed03261664717a6afdad4edf3d5d6ef6e" resname="Payment">
+        <source>Payment</source>
+        <target state="translated">Pagamento</target>
+        <note>key: Payment</note>
+      </trans-unit>
+      <trans-unit id="9a12bd83ab06265bab4af289bc112c3f7ce65aa9" resname="Personal data:">
+        <source>Personal data:</source>
+        <target state="translated">Dati personali:</target>
+        <note>key: Personal data:</note>
+      </trans-unit>
+      <trans-unit id="8961d3bf56ef1c18ef5c831ba0838e8b1f85e5de" resname="Phone number">
+        <source>Phone number</source>
+        <target state="translated">Numero di telefono</target>
+        <note>key: Phone number</note>
+      </trans-unit>
+      <trans-unit id="bdc89e68ce3be454804f0ddb343c0b28e41a389b" resname="Piece">
+        <source>Piece</source>
+        <target state="translated">Pezzo</target>
+        <note>key: Piece</note>
+      </trans-unit>
+      <trans-unit id="60f9b424d7b10f1a0fdf3eb9cd988cf6e44e6cc1" resname="Please check the registration document in attachment">
+        <source>Please check the registration document in attachment</source>
+        <target state="translated">Si prega di controllare il documento di registrazione in allegato</target>
+        <note>key: Please check the registration document in attachment</note>
+      </trans-unit>
+      <trans-unit id="610b9ed2ad34ee66fce92181208cdb223a5d2e3c" resname="Please click &lt;a href=&quot;%url%&quot;&gt;here&lt;/a&gt; to set a new password.">
+        <source><![CDATA[Please click <a href="%url%">here</a> to set a new password.]]></source>
+        <target state="translated"><![CDATA[Fare clic <a href="%url%"> qui </a> per impostare una nuova password.]]></target>
+        <note>key: Please click &lt;a href="%url%"&gt;here&lt;/a&gt; to set a new password.</note>
+      </trans-unit>
+      <trans-unit id="450998b73b3c93bc0a0c3b6165bdd74e7b8de3a8" resname="Please click here to set a new password:">
+        <source>Please click here to set a new password:</source>
+        <target state="translated">Fare clic qui per impostare una nuova password:</target>
+        <note>key: Please click here to set a new password:</note>
+      </trans-unit>
+      <trans-unit id="8e9e72712f5d184a7b3d7e1a6bb31a40f66ca65b" resname="Please enter between %min% and %max% chars">
+        <source>Please enter between %min% and %max% chars</source>
+        <target state="translated">Inserisci tra% min% e% max% caratteri</target>
+        <note>key: Please enter between %min% and %max% chars</note>
+      </trans-unit>
+      <trans-unit id="7e89cf439cfdfff50251e8e6d7190cb33f40d466" resname="Social media">
+        <source>Social media</source>
+        <target state="translated">Social media</target>
+        <note>key: Social media</note>
+      </trans-unit>
+      <trans-unit id="5b5417c8f809fb1fccf7945620486052abfadb17" resname="Sort Order">
+        <source>Sort Order</source>
+        <target state="translated">Ordinamento</target>
+        <note>key: Sort Order</note>
+      </trans-unit>
+      <trans-unit id="6da13addb000b67d42a6d66391713819e634149f" resname="Source">
+        <source>Source</source>
+        <target state="translated">Fonte</target>
+        <note>key: Source</note>
+      </trans-unit>
+      <trans-unit id="da4725a3306d8386ac42c90352ae668b0289c8ac" resname="State/County">
+        <source>State/County</source>
+        <target state="translated">Stato / Paese</target>
+        <note>key: State/County</note>
+      </trans-unit>
+      <trans-unit id="bcecf4562f1709b1448aff7c6b49edb6acecdb12" resname="Stock">
+        <source>Stock</source>
+        <target state="translated">Quantità</target>
+        <note>key: Stock</note>
+      </trans-unit>
+      <trans-unit id="2cdb068ff0ea4ecc77534d53bf3b42405d122e3a" resname="Stock: %stockNumeric%">
+        <source>Stock: %stockNumeric%</source>
+        <target state="translated">Magazzino: %stockNumeric%</target>
+        <note>key: Stock: %stockNumeric%</note>
+      </trans-unit>
+      <trans-unit id="b454109993438542163d132d897313eee1b480fa" resname="Street">
+        <source>Street</source>
+        <target state="translated">Street</target>
+        <note>key: Street</note>
+      </trans-unit>
+      <trans-unit id="f3da206c356c95cee46bc4b97bda41a6a444d48e" resname="Subcategories">
+        <source>Subcategories</source>
+        <target state="translated">Sottocategorie</target>
+        <note>key: Subcategories</note>
+      </trans-unit>
+      <trans-unit id="53f70fdb221410a4530627855d29b689b687b39b" resname="Subscribe to newsletter">
+        <source>Subscribe to newsletter</source>
+        <target state="translated">Iscriviti alla newsletter</target>
+        <note>key: Subscribe to newsletter</note>
+      </trans-unit>
+      <trans-unit id="0acb2980724ff0b69d3cd6866faba8ab8a58b2ca" resname="Supported file formats: PDF, max size 5MB">
+        <source>Supported file formats: PDF, max size 5MB</source>
+        <target state="translated">Formati di file supportati: PDF, dimensione massima 5 MB</target>
+        <note>key: Supported file formats: PDF, max size 5MB</note>
+      </trans-unit>
+      <trans-unit id="77dfca2a56f9b1ffc2b6687e230088cf86fbc074" resname="Surname">
+        <source>Surname</source>
+        <target state="translated">Cognome</target>
+        <note>key: Surname</note>
+      </trans-unit>
+      <trans-unit id="41fc0860886a6b0485dd7b2d88f44499177731d4" resname="Technical">
+        <source>Technical</source>
+        <target state="translated">Tecnico</target>
+        <note>key: Technical</note>
+      </trans-unit>
+      <trans-unit id="c4585d93fc5565e81f0c7276592ade51c453cd0e" resname="Technical information">
+        <source>Technical information</source>
+        <target state="translated">Informazioni tecniche</target>
+        <note>key: Technical information</note>
+      </trans-unit>
+      <trans-unit id="8c3913ae68ed9b3088b6964c563c5218a4dff93b" resname="The customer will send his registration document per Email">
+        <source>The customer will send his registration document per Email</source>
+        <target state="translated">Il cliente invierà il suo documento di registrazione tramite e-mail</target>
+        <note>key: The customer will send his registration document per Email</note>
+      </trans-unit>
+      <trans-unit id="a29d6d5aa5131805e60ceac186b93963b5647b68" resname="The password fields must match.">
+        <source>The password fields must match.</source>
+        <target state="translated">I campi della password devono corrispondere.
+
+</target>
+        <note>key: The password fields must match.</note>
+      </trans-unit>
+      <trans-unit id="24e5b6f07da345db23a8644be579629a265ab3c1" resname="There is a new request from the cancellation form:">
+        <source>There is a new request from the cancellation form:</source>
+        <target state="translated">C'è una nuova richiesta dal modulo di cancellazione:</target>
+        <note>key: There is a new request from the cancellation form:</note>
+      </trans-unit>
+      <trans-unit id="9eada39f42af2835d17d5fcae1cd6c7c83e0e268" resname="There is a new request from the contact form:">
+        <source>There is a new request from the contact form:</source>
+        <target state="translated">C'è una nuova richiesta dal modulo di contatto:</target>
+        <note>key: There is a new request from the contact form:</note>
+      </trans-unit>
+      <trans-unit id="543f4e2aa350f7bdd831afed4d516d73333eeb79" resname="There is a request to get a new password for your account. If the request is not from you, then please ignore this email.">
+        <source>There is a request to get a new password for your account. If the request is not from you, then please ignore this email.</source>
+        <target state="translated">C'è una richiesta per ottenere una nuova password per il tuo account. Se la richiesta non proviene da te, ignora questa email.</target>
+        <note>key: There is a request to get a new password for your account. If the request is not from you, then please ignore this email.</note>
+      </trans-unit>
+      <trans-unit id="7da4e21fe65af42442dc91e4c71202934f7de37f" resname="There is no information about availability for this product">
+        <source>There is no information about availability for this product</source>
+        <target state="translated">Non ci sono informazioni sulla disponibilità di questo prodotto</target>
+        <note>key: There is no information about availability for this product</note>
+      </trans-unit>
+      <trans-unit id="118a23a0538df2e5e0e8960ecb76a6179d18e970" resname="This List">
+        <source>This List</source>
+        <target state="translated">Questo Elenco</target>
+        <note>key: This List</note>
+      </trans-unit>
+      <trans-unit id="dd3333f635071c2ef0e27870bcabaa230e70b99b" resname="This is fallback template!">
+        <source>This is fallback template!</source>
+        <target state="translated">Questo è il modello di riserva!</target>
+        <note>key: This is fallback template!</note>
+      </trans-unit>
+      <trans-unit id="1b4785331db3b08cd8e3cfa4bd36216731a79e54" resname="This month">
+        <source>This month</source>
+        <target state="translated">Questo mese</target>
+        <note>key: This month</note>
+      </trans-unit>
+      <trans-unit id="8d5f69423c4dca81310ecfc3cc7b00d7de26030b" resname="This product is available for purchase">
+        <source>This product is available for purchase</source>
+        <target state="translated">Questo prodotto è disponibile per l'acquisto</target>
+        <note>key: This product is available for purchase</note>
+      </trans-unit>
+      <trans-unit id="f321df3a4817f7c29886d8936e9ff9b2b8f6b988" resname="This product is not available any more! Please go to basket and remove it.">
+        <source>This product is not available any more! Please go to basket and remove it.</source>
+        <target state="translated">Questo prodotto non è più disponibile! Vai al carrello e rimuovilo.</target>
+        <note>key: This product is not available any more! Please go to basket and remove it.</note>
+      </trans-unit>
+      <trans-unit id="60ff850af45b2e25a469867abc51568b36102893" resname="This product is not available any more! You can delete it here">
+        <source>This product is not available any more! You can delete it here</source>
+        <target state="translated">Questo prodotto non è più disponibile! Puoi eliminarlo qui</target>
+        <note>key: This product is not available any more! You can delete it here</note>
+      </trans-unit>
+      <trans-unit id="708b345d275095eab1bee593056a74b14e5eb108" resname="This product is not available for purchase">
+        <source>This product is not available for purchase</source>
+        <target state="translated">Questo prodotto non è disponibile per l'acquisto</target>
+        <note>key: This product is not available for purchase</note>
+      </trans-unit>
+      <trans-unit id="b06aa4cf24a942bee76bc81908cb45c37efe889d" resname="This product is not available for purchase in this amount">
+        <source>This product is not available for purchase in this amount</source>
+        <target state="translated">Questo prodotto non è disponibile per l'acquisto in questo importo</target>
+        <note>key: This product is not available for purchase in this amount</note>
+      </trans-unit>
+      <trans-unit id="7b72883e078a6858cf0c79bf3e93e72e765e9ada" resname="This week">
+        <source>This week</source>
+        <target state="translated">Questa settimana</target>
+        <note>key: This week</note>
+      </trans-unit>
+      <trans-unit id="56607bfe94e2cccb049056b6afa1c022e1869e89" resname="Token message not given">
+        <source>Token message not given</source>
+        <target state="translated">Messaggio token non fornito</target>
+        <note>key: Token message not given</note>
+      </trans-unit>
+      <trans-unit id="8451f54db0bf7d6cf01fbe36cb4b14686bdf0173" resname="Token object not given">
+        <source>Token object not given</source>
+        <target state="translated">Oggetto token non fornito</target>
+        <note>key: Token object not given</note>
+      </trans-unit>
+      <trans-unit id="6ada3d731100de63f1e30f6ee5a976ca6888ffa0" resname="Top 100 best search terms">
+        <source>Top 100 best search terms</source>
+        <target state="translated">Top 100 migliori termini di ricerca</target>
+        <note>key: Top 100 best search terms</note>
+      </trans-unit>
+      <trans-unit id="9b0fb13d96a5c05f4d020ee4c8df13df71d353f5" resname="Top 20 best clients of all time">
+        <source>Top 20 best clients of all time</source>
+        <target state="translated">I 20 migliori clienti migliori di tutti i tempi</target>
+        <note>key: Top 20 best clients of all time</note>
+      </trans-unit>
+      <trans-unit id="4823691530860e60dd75d4ce73871a9c4a981ed4" resname="Top 20 best selling products of all time">
+        <source>Top 20 best selling products of all time</source>
+        <target state="translated">I 20 migliori prodotti più venduti di tutti i tempi</target>
+        <note>key: Top 20 best selling products of all time</note>
+      </trans-unit>
+      <trans-unit id="11299853c80991b086327e0113d7dee96b7d2ffd" resname="Top search terms">
+        <source>Top search terms</source>
+        <target state="translated">Termini di ricerca principali</target>
+        <note>key: Top search terms</note>
+      </trans-unit>
+      <trans-unit id="b25928c69902557b0ef0a628490a3a1768d7b82f" resname="Total">
+        <source>Total</source>
+        <target state="translated">Totale</target>
+        <note>key: Total</note>
+      </trans-unit>
+      <trans-unit id="408fa7b3a97276f695b0c76d46f55258d581d8de" resname="Total Orders">
+        <source>Total Orders</source>
+        <target state="translated">Totale Ordini</target>
+        <note>key: Total Orders</note>
+      </trans-unit>
+      <trans-unit id="6f9d99c836e1cf3ae6293f28f86fa3f04d576be3" resname="Total Sales">
+        <source>Total Sales</source>
+        <target state="translated">Totale Vendite</target>
+        <note>key: Total Sales</note>
+      </trans-unit>
+      <trans-unit id="c7c90e62232bc2ad66f60f4007f4aa058a65493a" resname="Total no. of customers">
+        <source>Total no. of customers</source>
+        <target state="translated">Numero totale di clienti</target>
+        <note>key: Total no. of customers</note>
+      </trans-unit>
+      <trans-unit id="d5b20c7af6ff6c50c17dc30dc251d530f16e1f75" resname="Total no. of products">
+        <source>Total no. of products</source>
+        <target state="translated">Numero totale di prodotti</target>
+        <note>key: Total no. of products</note>
+      </trans-unit>
+      <trans-unit id="566891ab80257f558506498452e5123555c49fed" resname="Total price">
+        <source>Total price</source>
+        <target state="translated">Prezzo totale</target>
+        <note>key: Total price</note>
+      </trans-unit>
+      <trans-unit id="de5e04489960124e64989beec4a77fe46ae54315" resname="Trader">
+        <source>Trader</source>
+        <target state="translated">Commerciante</target>
+        <note>key: Trader</note>
+      </trans-unit>
+      <trans-unit id="d6680eb1cdb0c649301dae5bcc4ff0d4290d833d" resname="Trader / Retailer">
+        <source>Trader / Retailer</source>
+        <target state="translated">Commerciante / Rivenditore</target>
+        <note>key: Trader / Retailer</note>
+      </trans-unit>
+      <trans-unit id="88b33e4e12f75ac8bf792aebde41f1a090f3a612" resname="True">
+        <source>True</source>
+        <target state="translated">Vero</target>
+        <note>key: True</note>
+      </trans-unit>
+      <trans-unit id="f6b935ab337145efdeadda28cae18aa89a845e36" resname="Unit">
+        <source>Unit</source>
+        <target state="translated">Unità</target>
+        <note>key: Unit</note>
+      </trans-unit>
+      <trans-unit id="3c6c777f4d1ff38ba5b86b0edefedef411261f2d" resname="Unit price">
+        <source>Unit price</source>
+        <target state="translated">Prezzo unitario</target>
+        <note>key: Unit price</note>
+      </trans-unit>
+      <trans-unit id="5a6d9579f006b287acdbd9dab6008fc8122bdeda" resname="Unit: %unit%">
+        <source>Unit: %unit%</source>
+        <target state="translated">Unità: %unit%</target>
+        <note>key: Unit: %unit%</note>
+      </trans-unit>
+      <trans-unit id="daf13830ae9cd2d39e436e3dbd83863b07c2927c" resname="Update basket">
+        <source>Update basket</source>
+        <target state="translated">Aggiorna carrello</target>
+        <note>key: Update basket</note>
+      </trans-unit>
+      <trans-unit id="7e9f81de055a2b0489aa07ab5035112ef710b173" resname="Upload csv file">
+        <source>Upload csv file</source>
+        <target state="translated">Carica il file CSV</target>
+        <note>key: Upload csv file</note>
+      </trans-unit>
+      <trans-unit id="5f38c2b87329fd3807de43bf089556d344014068" resname="User Profile">
+        <source>User Profile</source>
+        <target state="translated">Profilo Utente</target>
+        <note>key: User Profile</note>
+      </trans-unit>
+      <trans-unit id="1d81eda8fda851e723a88a21fd4afea6913c6881" resname="User information">
+        <source>User information</source>
+        <target state="translated">Informazioni utente</target>
+        <note>key: User information</note>
+      </trans-unit>
+      <trans-unit id="08141247b4323e69c3c9f389ad488f293860de29" resname="button.activate_voucher">
+        <source>Activate</source>
+        <target state="translated">Attiva</target>
+        <note>key: button.activate_voucher</note>
+      </trans-unit>
+      <trans-unit id="cf12b665f8f4c5c2bff807b50e89c8b6b6e010a7" resname="button.add_address">
+        <source>Add Address</source>
+        <target state="translated">Aggiungi Indirizzo</target>
+        <note>key: button.add_address</note>
+      </trans-unit>
+      <trans-unit id="b4d50cc6b566c98675befda137d5b4fe2d8531e5" resname="button.manage_addresses">
+        <source>Manage addresses</source>
+        <target state="translated">Gestisci indirizzi</target>
+        <note>key: button.manage_addresses</note>
+      </trans-unit>
+      <trans-unit id="6eabf64efafbfe5e86a775b3c3322635fb3e4814" resname="button.remove_voucher">
+        <source>Remove voucher</source>
+        <target state="translated">Rimuovi voucher</target>
+        <note>key: button.remove_voucher</note>
+      </trans-unit>
+      <trans-unit id="7d63ca952fcf6fd587bc2719192bcdcec1cd77b0" resname="button.remove_vouchers">
+        <source>Remove vouchers</source>
+        <target state="translated">Rimuovi voucher</target>
+        <note>key: button.remove_vouchers</note>
+      </trans-unit>
+      <trans-unit id="8bfee4f06aa04ae6daf18cddd32ac6ffbae446f5" resname="buyer_intro_text">
+        <source>buyer_intro_text</source>
+        <target state="translated">testo introduttivo dell'acquirente</target>
+        <note>key: buyer_intro_text</note>
+      </trans-unit>
+      <trans-unit id="b3ce9594e19180c97e196c8f8b9d5adbd69b6036" resname="cancellation_intro_text">
+        <source>If you wish to withdraw from the contract, please fill out and submit the form below.</source>
+        <target state="translated">Se desideri recedere dal contratto, compila e invia il modulo sottostante.
+
+</target>
+        <note>key: cancellation_intro_text</note>
+      </trans-unit>
+      <trans-unit id="bbf4ebab74e669a310afbf102d0f3740ecaffcb4" resname="choose predefined">
+        <source>choose predefined</source>
+        <target state="translated">scegli predefinito</target>
+        <note>key: choose predefined</note>
+      </trans-unit>
+      <trans-unit id="5c2e3ac25bc0b8ecbb3ef28ac68fc4c0fdf6f356" resname="clear_all_filters|search">
+        <source>clear all filters</source>
+        <target state="translated">cancella tutti i filtri</target>
+        <note>key: clear_all_filters|search</note>
+      </trans-unit>
+      <trans-unit id="c992fa9f84e57059c1637359f65a4a5f9f9ff506" resname="common.back_to_my_profile">
+        <source>Back to my profile</source>
+        <target state="translated">Torna al mio profilo</target>
+        <note>key: common.back_to_my_profile</note>
+      </trans-unit>
+      <trans-unit id="0429db21ff61bce85a9c6e6197ef7e65c71d197c" resname="common.bestsellers">
+        <source>Our Bestsellers</source>
+        <target state="translated">I Nostri Bestseller</target>
+        <note>key: common.bestsellers</note>
+      </trans-unit>
+      <trans-unit id="b6e963e57eb6cb9186e6ddb73a3c0f412ba17965" resname="common.bestsellers_in">
+        <source>Our Bestsellers in</source>
+        <target state="translated">I nostri bestseller in</target>
+        <note>key: common.bestsellers_in</note>
+      </trans-unit>
+      <trans-unit id="65ab3c31b2d6abb71f2698444267180859506e43" resname="common.cancellation_email_intro_text">
+        <source>A customer is exercising the right of withdrawal and has filled the cancellation form.</source>
+        <target state="translated">Un cliente sta esercitando il diritto di recesso e ha compilato il modulo di annullamento.</target>
+        <note>key: common.cancellation_email_intro_text</note>
+      </trans-unit>
+      <trans-unit id="8c54541620bfa4316ce1a991666f870c055e221c" resname="common.cancellation_email_subject">
+        <source>Your cancellation request</source>
+        <target state="translated">La tua richiesta di cancellazione</target>
+        <note>key: common.cancellation_email_subject</note>
+      </trans-unit>
+      <trans-unit id="12a42294eda8e8c98d17b87a5ed187a1ccd2b864" resname="common.cancellation_header">
+        <source>Cancellation Policy</source>
+        <target state="translated">Politica Di Cancellazione</target>
+        <note>key: common.cancellation_header</note>
+      </trans-unit>
+      <trans-unit id="613febbcea4f0b500cb05b7de23899e6b4d1e8c8" resname="common.download_file">
+        <source>common.download_file</source>
+        <target state="translated">common.download_file</target>
+        <note>key: common.download_file</note>
+      </trans-unit>
+      <trans-unit id="88ddcc083f7fcb5282fdd76ae8967db7b132a3bc" resname="common.download_pdf">
+        <source>Download PDF version of this page</source>
+        <target state="translated">Scarica la versione PDF di questa pagina</target>
+        <note>key: common.download_pdf</note>
+      </trans-unit>
+      <trans-unit id="d0b176388088906cd9a09dfb6c63f21b0870cdf4" resname="common.download_video">
+        <source>Download video</source>
+        <target state="translated">Scarica video</target>
+        <note>key: common.download_video</note>
+      </trans-unit>
+      <trans-unit id="a39415f64d3f42a5bcaa38835c361a36efc15e47" resname="common.more_information">
+        <source>More information</source>
+        <target state="translated">Maggiori informazioni</target>
+        <note>key: common.more_information</note>
+      </trans-unit>
+      <trans-unit id="b97f73d44bbb969e90aa9021a57c122204fc4806" resname="common.newsletter_subscribed">
+        <source>Subscribed to newsletter</source>
+        <target state="translated">Iscritto alla newsletter</target>
+        <note>key: common.newsletter_subscribed</note>
+      </trans-unit>
+      <trans-unit id="d0f9ead584f5e3a49c130888656db8c3d1ee3541" resname="common.page_count_of_total">
+        <source>Page %current_page% of %total_pages%</source>
+        <target state="translated">Pagina% current_page% di% total_pages%</target>
+        <note>key: common.page_count_of_total</note>
+      </trans-unit>
+      <trans-unit id="0818c61742a2ab37df481113c9d48bb1605c3d7b" resname="common.rma_email_intro_text">
+        <source>common.rma_email_intro_text</source>
+        <target state="translated">common.rma_email_intro_text</target>
+        <note>key: common.rma_email_intro_text</note>
+      </trans-unit>
+      <trans-unit id="0ca7d0f47c2d1c262855de6f98e625a0efd9405f" resname="common.rma_email_subject">
+        <source>RMA request</source>
+        <target state="translated">Richiesta RMA</target>
+        <note>key: common.rma_email_subject</note>
+      </trans-unit>
+      <trans-unit id="1b7f53a15e91c23a212f6adc46c5c58b931493f5" resname="common.rma_header">
+        <source>RMA</source>
+        <target state="translated">RMA</target>
+        <note>key: common.rma_header</note>
+      </trans-unit>
+      <trans-unit id="e83a73a2d7378cbb35f3d4a33353b497a08297ab" resname="common.rma_intro_text">
+        <source>common.rma_intro_text</source>
+        <target state="translated">common.rma_intro_text</target>
+        <note>key: common.rma_intro_text</note>
+      </trans-unit>
+      <trans-unit id="d945ec7f97b66c0e45076a568da5c2d6f2a5e505" resname="common.silver_forms.address_create">
+        <source>Add Address</source>
+        <target state="translated">Aggiungi Indirizzo</target>
+        <note>key: common.silver_forms.address_create</note>
+      </trans-unit>
+      <trans-unit id="03cf2d55452abd6a049d4a194f4c82571caa553d" resname="common.silver_forms.address_edit">
+        <source>Edit Address</source>
+        <target state="translated">Modifica Indirizzo</target>
+        <note>key: common.silver_forms.address_edit</note>
+      </trans-unit>
+      <trans-unit id="82d976fa3dbb0c60052c48782b56e7ad817b360f" resname="common.silver_forms.business">
+        <source>Registration</source>
+        <target state="translated">Registrazione</target>
+        <note>key: common.silver_forms.business</note>
+      </trans-unit>
+      <trans-unit id="1fa6fd3acc4e8a57da57cc1f26c753bea12cf1c4" resname="common.silver_forms.business_activation">
+        <source>Account Activation</source>
+        <target state="translated">Attivazione Account</target>
+        <note>key: common.silver_forms.business_activation</note>
+      </trans-unit>
+      <trans-unit id="9501d8087eeae646bab3aab6dd90413f207e0581" resname="common.silver_forms.cancellation">
+        <source>Online Cancellation</source>
+        <target state="translated">Cancellazione Online</target>
+        <note>key: common.silver_forms.cancellation</note>
+      </trans-unit>
+      <trans-unit id="6e591a03276420fb5adc0afcfdccbfe9a63b795f" resname="common.silver_forms.contact">
+        <source>Contact</source>
+        <target state="translated">Contatto</target>
+        <note>key: common.silver_forms.contact</note>
+      </trans-unit>
+      <trans-unit id="6dac82f30a99c01e90978e6150b1d724d74e0dd9" resname="common.silver_forms.customer_center_activation">
+        <source>Account Activation</source>
+        <target state="translated">Attivazione Account</target>
+        <note>key: common.silver_forms.customer_center_activation</note>
+      </trans-unit>
+      <trans-unit id="59a106f8ff2a4e8d22f25a333d995d1557195ca3" resname="common.silver_forms.invoice">
+        <source>Update Invoice Address</source>
+        <target state="translated">Aggiorna Indirizzo Fattura</target>
+        <note>key: common.silver_forms.invoice</note>
+      </trans-unit>
+      <trans-unit id="8d2895d6f4375c83314d92f0d5f56c583e31bca8" resname="common.silver_forms.my_account">
+        <source>Update My Account</source>
+        <target state="translated">Aggiorna Il Mio Account</target>
+        <note>key: common.silver_forms.my_account</note>
+      </trans-unit>
+      <trans-unit id="8db5e0299f24bc70fc45164c1e946c02dcddd5a6" resname="common.silver_forms.password_change">
+        <source>Password Change</source>
+        <target state="translated">Cambio Password</target>
+        <note>key: common.silver_forms.password_change</note>
+      </trans-unit>
+      <trans-unit id="54b50fd34694a7db25eb1f3720421da1ebc0fd6c" resname="common.silver_forms.private">
+        <source>Registration</source>
+        <target state="translated">Registrazione</target>
+        <note>key: common.silver_forms.private</note>
+      </trans-unit>
+      <trans-unit id="107b83b1c621bd4d0585d719522b2e22e690cb53" resname="common.silver_forms.reminder">
+        <source>Password Reminder</source>
+        <target state="translated">Promemoria password</target>
+        <note>key: common.silver_forms.reminder</note>
+      </trans-unit>
+      <trans-unit id="e461f82db85746b0c590aecfb3ad9528b26f48fa" resname="common.silver_forms.rma">
+        <source>RMA</source>
+        <target state="translated">RMA</target>
+        <note>key: common.silver_forms.rma</note>
+      </trans-unit>
+      <trans-unit id="97eff35eb97cc147304290ce84b512e0d1d56326" resname="common.silver_module">
+        <source>common.silver_module</source>
+        <target state="translated">common.silver_module</target>
+        <note>key: common.silver_module</note>
+      </trans-unit>
+      <trans-unit id="48896dd521c599ee78a2e8fbeb05c2d8a63017d6" resname="common.silversolutions_address_book_list">
+        <source>Address Book</source>
+        <target state="translated">Rubrica Indirizzi</target>
+        <note>key: common.silversolutions_address_book_list</note>
+      </trans-unit>
+      <trans-unit id="a73f32020ed72cdd9a149aaea75d391e62376e30" resname="common.subscribe">
+        <source>subscribe</source>
+        <target state="translated">iscriviti</target>
+        <note>key: common.subscribe</note>
+      </trans-unit>
+      <trans-unit id="9fd9b06775ba37c1e7616d28175ca59fead43f21" resname="common.subscribe_newsletter_header">
+        <source>Subscribe to our newsletter now!</source>
+        <target state="translated">Iscriviti subito alla nostra newsletter!</target>
+        <note>key: common.subscribe_newsletter_header</note>
+      </trans-unit>
+      <trans-unit id="37fa1c9c05d93ad60204f91b3452b9b5d826a5e8" resname="common.subscribe_newsletter_intro">
+        <source>common.subscribe_newsletter_intro</source>
+        <target state="translated">common.subscribe_newsletter_intro</target>
+        <note>key: common.subscribe_newsletter_intro</note>
+      </trans-unit>
+      <trans-unit id="803dba91ef8df71bcf9bf036ed53aeab91aaadfa" resname="common.unsubscribe_newsletter">
+        <source>Unsubscribe from newsletter</source>
+        <target state="translated">Annulla l'iscrizione alla newsletter</target>
+        <note>key: common.unsubscribe_newsletter</note>
+      </trans-unit>
+      <trans-unit id="be50e8437c17f9863a1ffd2a4d2eee96faaa551a" resname="common.video_not_supported">
+        <source>  Sorry, your browser doesn't support embedded videos. Upgrade your browser or download the video and watch it in you favourite video player.</source>
+        <target state="translated">Spiacenti, il tuo browser non supporta i video incorporati. Aggiorna il tuo browser o scarica il video e guardalo nel tuo lettore video preferito.</target>
+        <note>key: common.video_not_supported</note>
+      </trans-unit>
+      <trans-unit id="8550ed5df251b73307c8c60990fd85b4bfadc94f" resname="common.voucher_redeemed">
+        <source>You have redeemed following voucher</source>
+        <target state="translated">Hai riscattato il seguente voucher</target>
+        <note>key: common.voucher_redeemed</note>
+      </trans-unit>
+      <trans-unit id="5443d7b39f91994bc30b29d0e71d03cccd8f4fbc" resname="compare results with former corresponding time period">
+        <source>compare results with former corresponding time period</source>
+        <target state="translated">confrontare i risultati con il precedente periodo di tempo corrispondente</target>
+        <note>key: compare results with former corresponding time period</note>
+      </trans-unit>
+      <trans-unit id="495fb695907565cb3f7e0cd10fbbc3da9be1bdb2" resname="configuration_settings.field.array.input.placeholder">
+        <source>Input Values</source>
+        <target state="translated">Valori di input</target>
+        <note>key: configuration_settings.field.array.input.placeholder</note>
+      </trans-unit>
+      <trans-unit id="87af5170681c287871bea043cb7f875ade55bf45" resname="configuration_settings.field.array.option.remote">
+        <source>Prices from ERP</source>
+        <target state="translated">Prezzi da ERP</target>
+        <note>key: configuration_settings.field.array.option.remote</note>
+      </trans-unit>
+      <trans-unit id="1656ee3381ce4e8b749f1a311282901935d8f221" resname="configuration_settings.field.array.option.shop">
+        <source>Local price engine</source>
+        <target state="translated">Motore di prezzo locale</target>
+        <note>key: configuration_settings.field.array.option.shop</note>
+      </trans-unit>
+      <trans-unit id="9931b4614e25ff3b95e1d88cac362efe8fa34116" resname="label.image_not_available">
+        <source>Image is not available</source>
+        <target state="translated">L'immagine non è disponibile</target>
+        <note>key: label.image_not_available</note>
+      </trans-unit>
+      <trans-unit id="6cb57cd680ae987d4cdea3e07605bc19f93536a8" resname="label.invoice_date">
+        <source>Invoice date</source>
+        <target state="translated">Data fattura</target>
+        <note>key: label.invoice_date</note>
+      </trans-unit>
+      <trans-unit id="c1cbb1a39d002bbc834f41c974dd217d630d2045" resname="label.invoice_sum">
+        <source>Total</source>
+        <target state="translated">Totale</target>
+        <note>key: label.invoice_sum</note>
+      </trans-unit>
+      <trans-unit id="c346ab7bba31999ae0aeb23699910784e7b23f31" resname="label.month">
+        <source>Month</source>
+        <target state="translated">Mese</target>
+        <note>key: label.month</note>
+      </trans-unit>
+      <trans-unit id="2b45a4918792783fe096d945edcde6126b7f4a3b" resname="label.number_of_products">
+        <source>Number of products</source>
+        <target state="translated">Numero di prodotti</target>
+        <note>key: label.number_of_products</note>
+      </trans-unit>
+      <trans-unit id="103324cbe09b6f39a27577221eaf3b37cf658914" resname="label.offcanvas_main_menu">
+        <source>Main Menu</source>
+        <target state="translated">Menu Principale</target>
+        <note>key: label.offcanvas_main_menu</note>
+      </trans-unit>
+      <trans-unit id="926c8482749a45fdd524273f99e55ced6a7b05d9" resname="label.one_star">
+        <source>1 star</source>
+        <target state="translated">1 stella</target>
+        <note>key: label.one_star</note>
+      </trans-unit>
+      <trans-unit id="b0b492cd3da48d2c1caa0f6bcb28712fd15f997c" resname="label.ordered_or_received_at">
+        <source>Ordered / received on</source>
+        <target state="translated">Ordinato / ricevuto il</target>
+        <note>key: label.ordered_or_received_at</note>
+      </trans-unit>
+      <trans-unit id="a234b1914e41f44b0d1452efe05293913b681704" resname="label.price_stock_tab">
+        <source>eCommerce</source>
+        <target state="translated">eCommerce</target>
+        <note>key: label.price_stock_tab</note>
+      </trans-unit>
+      <trans-unit id="2a1377423302b0d34c6223cd4f023389c4507c5a" resname="label.pricetoggle">
+        <source>Toggle prices</source>
+        <target state="translated">Cambia prezzi</target>
+        <note>key: label.pricetoggle</note>
+      </trans-unit>
+      <trans-unit id="28885543d205fa3d5a20e1d8940aaf04500560e5" resname="label.product_skus">
+        <source>Order/invoice number, concerned products (article number)</source>
+        <target state="translated">Numero ordine / fattura, prodotti interessati (numero articolo)</target>
+        <note>key: label.product_skus</note>
+      </trans-unit>
+      <trans-unit id="5cc49cce55fecdc49625d7e77f92649411833b98" resname="label.rate_review">
+        <source>Rate and Review Panel</source>
+        <target state="translated">Pannello di valutazione e revisione</target>
+        <note>key: label.rate_review</note>
+      </trans-unit>
+      <trans-unit id="5b9ff82a076e9f61e1a05d285bb76147998cd4d3" resname="label.real_customer_number">
+        <source>Your own customer number</source>
+        <target state="translated">Il tuo numero cliente</target>
+        <note>key: label.real_customer_number</note>
+      </trans-unit>
+      <trans-unit id="0e3f9eed3eb2f0d29cf285d26861a5f9466c3dcf" resname="label.registration">
+        <source>Private</source>
+        <target state="translated">Privato</target>
+        <note>key: label.registration</note>
+      </trans-unit>
+      <trans-unit id="c2de17f16435b7b5f91e72e4cb5d6ac4650ac649" resname="label.rma_products">
+        <source>Article number, article name and article quantity of the product/s</source>
+        <target state="translated">Numero dell'articolo, nome dell'articolo e quantità dell'articolo del prodotto / i</target>
+        <note>key: label.rma_products</note>
+      </trans-unit>
+      <trans-unit id="872b292981a988f2b7fb58624f2f8e52cb5f47a0" resname="label.rma_reason">
+        <source>RMA reason</source>
+        <target state="translated">Motivo RMA</target>
+        <note>key: label.rma_reason</note>
+      </trans-unit>
+      <trans-unit id="ad74ceec946f91bb9db11c20f17c254948cc9edd" resname="label.specifications">
+        <source>Technical information</source>
+        <target state="translated">Informazioni tecniche</target>
+        <note>key: label.specifications</note>
+      </trans-unit>
+      <trans-unit id="67a2be7edfb524f6de0ec445121804c1ce8da3c2" resname="label.stored_basket_name">
+        <source>Basket name</source>
+        <target state="translated">Nome del carrello</target>
+        <note>key: label.stored_basket_name</note>
+      </trans-unit>
+      <trans-unit id="d297e5e766d72cac5d1578188f5142d02471167b" resname="label.subtotal">
+        <source>Subtotal</source>
+        <target state="translated">Subtotale</target>
+        <note>key: label.subtotal</note>
+      </trans-unit>
+      <trans-unit id="fa7cfe4a5c85eb74235ba645d9740bc9f9620ce0" resname="label.three_star">
+        <source>3 star</source>
+        <target state="translated">3 stelle</target>
+        <note>key: label.three_star</note>
+      </trans-unit>
+      <trans-unit id="4260a3382d44ef9ea8ba659ee1b9fc226d09c419" resname="label.total_sum">
+        <source>Totals</source>
+        <target state="translated">Totali</target>
+        <note>key: label.total_sum</note>
+      </trans-unit>
+      <trans-unit id="e158ffd4438646ac554ad3ba0d5b09727b689932" resname="label.two_star">
+        <source>2 star</source>
+        <target state="translated">2 stelle</target>
+        <note>key: label.two_star</note>
+      </trans-unit>
+      <trans-unit id="fda8adca846a3d5af7f35dd7aa716a24671a13d1" resname="label.undelegate">
+        <source>End delegate</source>
+        <target state="translated">Fine delegato</target>
+        <note>key: label.undelegate</note>
+      </trans-unit>
+      <trans-unit id="f9aa5aed1b2f785ff33703a8b2c54af26582c5a1" resname="label.user_name">
+        <source>User name</source>
+        <target state="translated">Nome utente</target>
+        <note>key: label.user_name</note>
+      </trans-unit>
+      <trans-unit id="5dc65de550024866b7f682f7908de2dd6d77f862" resname="label.voucher_number">
+        <source>Voucher number</source>
+        <target state="translated">Numero buono sconto</target>
+        <note>key: label.voucher_number</note>
+      </trans-unit>
+      <trans-unit id="79120e549bf614207810d339e0f704659576431f" resname="label.year">
+        <source>Year</source>
+        <target state="translated">Anno</target>
+        <note>key: label.year</note>
+      </trans-unit>
+      <trans-unit id="264f39cab871e4cfd65b3a002f7255888bb5ed97" resname="line">
+        <source>line</source>
+        <target state="translated">linea</target>
+        <note>key: line</note>
+      </trans-unit>
+      <trans-unit id="eaf03301113a9f5b04236ae8e05cd1fdce85fce8" resname="link.activate_user">
+        <source>Activate and inform user</source>
+        <target state="translated">Attiva e informa l'utente</target>
+        <note>key: link.activate_user</note>
+      </trans-unit>
+      <trans-unit id="d9221e2ef86f0d3b7f192cb98b38c923e32a353c" resname="link.edit_user">
+        <source>Edit user</source>
+        <target state="translated">Modifica utente</target>
+        <note>key: link.edit_user</note>
+      </trans-unit>
+      <trans-unit id="9417c58415a125e3c995649e611ec0a46c8eef82" resname="login|breadcrumb">
+        <source>Login</source>
+        <target state="translated">Accedi</target>
+        <note>key: login|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="56c8ef357798e6cbae6f9f94ff26cb4967a4a28e" resname="logout|breadcrumb">
+        <source>Logout</source>
+        <target state="translated">Esci</target>
+        <note>key: logout|breadcrumb</note>
+      </trans-unit>
+      <trans-unit id="1d6e1cf70ec6f9ab28d3ea4b27a49a77654d370e" resname="mail">
+        <source>Mail</source>
+        <target state="translated">Mail</target>
+        <note>key: mail</note>
+      </trans-unit>
+      <trans-unit id="49fc5698c05bb7329c4cc1765d2e289f4dbc18d0" resname="mail_text.new_private_user_registration">
+        <source>A new user has registered. Please validate or add the user data. Then activate or contact the user.</source>
+        <target state="translated">Un nuovo utente è registrato. Si prega di convalidare o aggiungere i dati dell'utente. Quindi attivare o contattare l'utente.</target>
+        <note>key: mail_text.new_private_user_registration</note>
+      </trans-unit>
+      <trans-unit id="6f9b9af3cd6e8b8a73c2cdced37fe9f59226e27d" resname="message">
+        <source>message</source>
+        <target state="translated">messaggio</target>
+        <note>key: message</note>
+      </trans-unit>
+      <trans-unit id="04987fcab72ade3a87a64267b02a2ad9f8f22484" resname="minute">
+        <source>Minute</source>
+        <target state="translated">Minuto</target>
+        <note>key: minute</note>
+      </trans-unit>
+      <trans-unit id="be2e2bb698c7a42a8ff654d6025fa7c4c335bfc9" resname="minutes">
+        <source>Minutes</source>
+        <target state="translated">Minuti</target>
+        <note>key: minutes</note>
+      </trans-unit>
+      <trans-unit id="075ec2f00dc59057e42cc424f270d04520426084" resname="msg.address_book_empty">
+        <source>Your address book is empty!</source>
+        <target state="translated">La tua rubrica è vuota!</target>
+        <note>key: msg.address_book_empty</note>
+      </trans-unit>
+      <trans-unit id="8540fe0f8065b2584167e860911360baacbe1654" resname="msg.already_commented">
+        <source>You already reviewed this product</source>
+        <target state="translated">Hai già recensito questo prodotto</target>
+        <note>key: msg.already_commented</note>
+      </trans-unit>
+      <trans-unit id="78b018cf6bd1ced6e84332ccf2e0ed3991cea22d" resname="msg.cookie_notice">
+        <source>With your registration you accept our cookie policies</source>
+        <target state="translated">Con la tua registrazione accetti le nostre politiche sui cookie</target>
+        <note>key: msg.cookie_notice</note>
+      </trans-unit>
+      <trans-unit id="7cbdf35422f651da8b09e3f38573b51026ffe38a" resname="msg.customer_number_empty">
+        <source>The customer number is empty</source>
+        <target state="translated">Il numero del cliente è vuoto</target>
+        <note>key: msg.customer_number_empty</note>
+      </trans-unit>
+      <trans-unit id="92d330ac27c4463b15685429db33082ce8e3280d" resname="msg.delegate_customer_not_found">
+        <source>Delegate is not possible. Customer could not be found.</source>
+        <target state="translated">Delegare non è possibile. Impossibile trovare il cliente.</target>
+        <note>key: msg.delegate_customer_not_found</note>
+      </trans-unit>
+      <trans-unit id="892c4fe32dee4e6a7eb70e381cc6f72828809356" resname="msg.delegate_failed">
+        <source>Delegate failed.</source>
+        <target state="translated">Delegato non riuscito.</target>
+        <note>key: msg.delegate_failed</note>
+      </trans-unit>
+      <trans-unit id="eda9a1874f8e3c744078ddc7664169e89bb6b61d" resname="msg.delegate_intro_text">
+        <source>Use delegate option to work as a different user.</source>
+        <target state="translated">Usa l'opzione delegato per lavorare come un utente diverso.</target>
+        <note>key: msg.delegate_intro_text</note>
+      </trans-unit>
+      <trans-unit id="50cd2576c7043eb8e832ebbba63a31ae9b09a4ff" resname="msg.delegate_was_successful">
+        <source>Delegate was successful</source>
+        <target state="translated">Delegato ha avuto successo</target>
+        <note>key: msg.delegate_was_successful</note>
+      </trans-unit>
+      <trans-unit id="aa9f77a2dade986c76b8705f3e8effd1d9f95bb8" resname="msg.delegated">
+        <source>delegated</source>
+        <target state="translated">delegato</target>
+        <note>key: msg.delegated</note>
+      </trans-unit>
+      <trans-unit id="f53b62440efca5d93d12a4259188f51ff4b21cf5" resname="msg.delegation_stopped_successfully">
+        <source>Delegation was cancelled successfully.</source>
+        <target state="translated">La delega è stata annullata con successo.</target>
+        <note>key: msg.delegation_stopped_successfully</note>
+      </trans-unit>
+      <trans-unit id="80baabba06a9af2f220f9ebffca0fb55caece1f7" resname="msg.delete_deliver_address_error">
+        <source>Due to technical problems, the delivery address has not been removed</source>
+        <target state="translated">A causa di problemi tecnici, l'indirizzo di consegna non è stato rimosso</target>
+        <note>key: msg.delete_deliver_address_error</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
