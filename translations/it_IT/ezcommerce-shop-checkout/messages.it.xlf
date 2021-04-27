@@ -6,45 +6,141 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="43f4682efff5d5a58ca3d8acd666eb3ec93a4713" resname="Address2">
+        <source>Additional address line</source>
+        <target state="translated">Riga indirizzo aggiuntiva</target>
+        <note>key: Address2</note>
+      </trans-unit>
+      <trans-unit id="14bf2f86fe3ff46636bfc648aba65c4ea4284881" resname="Basket with ID: %basketId% not found">
+        <source>Basket with ID: %basketId% not found</source>
+        <target state="translated">Carrello con Id:% basketId% non trovato</target>
+        <note>key: Basket with ID: %basketId% not found</note>
+      </trans-unit>
+      <trans-unit id="4271627f4f0bef6104a95cca7bb21cda4d74503e" resname="City">
+        <source>City</source>
+        <target state="translated">Città</target>
+        <note>key: City</note>
+      </trans-unit>
+      <trans-unit id="153d7a58b3a3e898fcbdd04c462af308414bd09d" resname="Comment">
+        <source>Comment</source>
+        <target state="translated">Commento</target>
+        <note>key: Comment</note>
+      </trans-unit>
+      <trans-unit id="d523ebbd10146cdfd39dee077f04c9d08468d0bc" resname="Country">
+        <source>Country</source>
+        <target state="translated">Paese</target>
+        <note>key: Country</note>
+      </trans-unit>
+      <trans-unit id="ab2129b396fd2e0d481d6742801a8c01482b2478" resname="Delivery and invoice address are the same">
+        <source>Delivery and invoice address are the same</source>
+        <target state="translated">L'indirizzo di consegna e quello di fatturazione sono gli stessi</target>
+        <note>key: Delivery and invoice address are the same</note>
+      </trans-unit>
+      <trans-unit id="84add5b2952787581cb9a8851eef63d1ec75d22b" resname="Email">
+        <source>Email</source>
+        <target state="translated">Email</target>
+        <note>key: Email</note>
+      </trans-unit>
+      <trans-unit id="c25876cd811e3bbba92fe46bf0d80e1b9126f1fa" resname="Error: %error%">
+        <source>Error: %error%</source>
+        <target state="translated">Errore: %error%</target>
+        <note>key: Error: %error%</note>
+      </trans-unit>
+      <trans-unit id="45205ef85b2f57922ab3c566402f2747eb51783a" resname="Name/Company">
+        <source>Name/Company</source>
+        <target state="translated">Nome/azienda</target>
+        <note>key: Name/Company</note>
+      </trans-unit>
+      <trans-unit id="6ffcdc92a33aa89f26c7cd8dce6c583abb019bcd" resname="Name/Company 2">
+        <source>Name/Company 2</source>
+        <target state="translated">Nome / Azienda 2</target>
+        <note>key: Name/Company 2</note>
+      </trans-unit>
+      <trans-unit id="492dca19f68470a019592069af4d7da92ee5da51" resname="Order confirmation">
+        <source>Order confirmation</source>
+        <target state="translated">Conferma ordine</target>
+        <note>key: Order confirmation</note>
+      </trans-unit>
+      <trans-unit id="9d2a9f0a31db1c658c1c486cdbe3ff84da6e1f3a" resname="Order for basket: %basketId% has been deleted successfully.">
+        <source>Order for basket: %basketId% has been deleted successfully.</source>
+        <target state="translated">Ordine per il carrello:% basketId% è stato eliminato correttamente.</target>
+        <note>key: Order for basket: %basketId% has been deleted successfully.</note>
+      </trans-unit>
+      <trans-unit id="c95b4a4292a043e6e35b17abe3083e1a51c74b60" resname="Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%">
+        <source>Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</source>
+        <target state="translated">L'ordine per il carrello:% basketId% è stato elaborato correttamente, ID ordine:% orderId%</target>
+        <note>key: Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</note>
+      </trans-unit>
+      <trans-unit id="0e55fb3b04e225d83af1a64ec1cedc121fb61c32" resname="Payment method">
+        <source>Payment method</source>
+        <target state="translated">Metodo di pagamento</target>
+        <note>key: Payment method</note>
+      </trans-unit>
+      <trans-unit id="8961d3bf56ef1c18ef5c831ba0838e8b1f85e5de" resname="Phone number">
+        <source>Phone number</source>
+        <target state="translated">Numero di telefono</target>
+        <note>key: Phone number</note>
+      </trans-unit>
+      <trans-unit id="50c518cdf0faedd9bc5ce47a5799df55cb0f07c9" resname="Save on my address list">
+        <source>Save on my address list</source>
+        <target state="translated">Salva nel mio elenco di indirizzi</target>
+        <note>key: Save on my address list</note>
+      </trans-unit>
+      <trans-unit id="9d1aafa8abe0ba32db90de6a6ad0a81464151a19" resname="Shipping method">
+        <source>Shipping method</source>
+        <target state="translated">Metodo di spedizione</target>
+        <note>key: Shipping method</note>
+      </trans-unit>
+      <trans-unit id="da4725a3306d8386ac42c90352ae668b0289c8ac" resname="State/County">
+        <source>State/County</source>
+        <target state="translated">Stato/Paese</target>
+        <note>key: State/County</note>
+      </trans-unit>
+      <trans-unit id="bae7d5be70820ed56467bd9a63744e23b47bd711" resname="Status">
+        <source>Status</source>
+        <target state="translated">Stato</target>
+        <note>key: Status</note>
+      </trans-unit>
+      <trans-unit id="b454109993438542163d132d897313eee1b480fa" resname="Street">
+        <source>Street</source>
+        <target state="translated">Strada</target>
+        <note>key: Street</note>
+      </trans-unit>
+      <trans-unit id="d447b63fbd8910a8b13fa7875c2d4725d146e8ba" resname="Your Basket is empty">
+        <source>Your Basket is empty</source>
+        <target state="translated">Il tuo carrello è vuoto</target>
+        <note>key: Your Basket is empty</note>
+      </trans-unit>
+      <trans-unit id="c7d4efee746ed353828d435cc67f6bf174959dac" resname="Your order amount must reach at least: %amount% %currency%">
+        <source>Your order amount must reach at least: %amount% %currency%</source>
+        <target state="translated">L'importo del tuo ordine deve raggiungere almeno:% amount%% currency%</target>
+        <note>key: Your order amount must reach at least: %amount% %currency%</note>
+      </trans-unit>
+      <trans-unit id="98aa64de7bc791f7b8c35fe219bbf89820ebaf9e" resname="Your order number is">
+        <source>Your order number is</source>
+        <target state="translated">Il tuo numero d'ordine è</target>
+        <note>key: Your order number is</note>
+      </trans-unit>
+      <trans-unit id="1ed01e7c71996c604337478270c81704193265d0" resname="ZIP code">
+        <source>ZIP code</source>
+        <target state="translated">Codice postale</target>
+        <note>key: ZIP code</note>
+      </trans-unit>
+      <trans-unit id="1f2020156ebcd5b85dd7c025b829f7347fc7cd36" resname="common.sales_contact_mail_subject">
+        <source>Order confirmation for Sales Contact</source>
+        <target state="translated">Conferma dell'ordine per il contatto di vendita</target>
+        <note>key: common.sales_contact_mail_subject</note>
+      </trans-unit>
+      <trans-unit id="5350e9dd4078e80de250ba264db41368498fbc7e" resname="credit_card">
+        <source>Credit Card</source>
+        <target state="translated">Carta Di Credito</target>
+        <note>key: credit_card</note>
+      </trans-unit>
+      <trans-unit id="3c1f8aac10c311ec7575a25b550ba9195824b99d" resname="error_message_checkout_delivery_address">
+        <source>There are errors on the form. Please correct them before continuing.</source>
+        <target state="translated">Sono presenti errori nel modulo. Correggili prima di continuare.</target>
+        <note>key: error_message_checkout_delivery_address</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
