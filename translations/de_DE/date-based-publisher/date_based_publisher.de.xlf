@@ -308,6 +308,31 @@
         <target state="translated">Das geplante Ausblenden des Inhaltselements '% name%' wurde abgebrochen.</target>
         <note>key: schedule.content.cancel_schedule_hide.success</note>
       </trans-unit>
+      <trans-unit id="b39b5bde75009f11b771793c4f0196a5822db732" resname="schedule.content.hide_hidden.error">
+        <source>Cannot hide or schedule hiding the currently hidden content: '%name%'.</source>
+        <target state="translated">Der aktuell ausgeblendete Inhalt kann nicht ausgeblendet oder eingeblendet werden: '% name%'.</target>
+        <note>key: schedule.content.hide_hidden.error</note>
+      </trans-unit>
+      <trans-unit id="ac2dcf30629ea0f2974b4aeb8acefd4a15f1dd3c" resname="schedule.content.hide_now.success">
+        <source>Content item '%name%' hidden.</source>
+        <target state="translated">Inhaltselement '% name%' ausgeblendet.</target>
+        <note>key: schedule.content.hide_now.success</note>
+      </trans-unit>
+      <trans-unit id="e27df1a3f6785eacb845a7cbc6d620a33dbc123e" resname="schedule.content.schedule_hide.success">
+        <source>Scheduled Content item '%name%' to hide.</source>
+        <target state="translated">Geplantes Inhaltselement '% name%' zum Ausblenden.</target>
+        <note>key: schedule.content.schedule_hide.success</note>
+      </trans-unit>
+      <trans-unit id="f9c384926313f5ec7d6685f8a56b3f5c826eb1d8" resname="schedule_hide.date_and_time">
+        <source>Date and time</source>
+        <target state="translated">Datum und Uhrzeit</target>
+        <note>key: schedule_hide.date_and_time</note>
+      </trans-unit>
+      <trans-unit id="1c0613de0745baf0f3227f244656ef37218404cc" resname="schedule_hide.title">
+        <source>Schedule hiding</source>
+        <target state="translated">Planen Sie das Verstecken</target>
+        <note>key: schedule_hide.title</note>
+      </trans-unit>
       <trans-unit id="b618f3dd85270257ed32cca10210efa9f5faa9f5" resname="schedule_publish">
         <source>schedule_publish</source>
         <target state="translated">schedule_publish</target>
@@ -317,6 +342,11 @@
         <source>All scheduled</source>
         <target state="translated">Alle geplanten Inhalte</target>
         <note>key: tab.name.all_scheduled</note>
+      </trans-unit>
+      <trans-unit id="20a2c0c41c7091973e1490a65b2268e1f7794eda" resname="tab.name.my_scheduled">
+        <source>My scheduled content</source>
+        <target state="translated">Mein geplanter Inhalt</target>
+        <note>key: tab.name.my_scheduled</note>
       </trans-unit>
       <trans-unit id="49e01918c7a89ab888e3fea20cf0a9f7953b4908" resname="version.deleted">
         <source>Version deleted</source>
