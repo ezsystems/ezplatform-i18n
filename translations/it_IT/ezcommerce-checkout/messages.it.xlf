@@ -256,6 +256,81 @@
         <target state="translated">Prodotto: %sku%, %name% aggiunto al tuo carrello memorizzato</target>
         <note>key: Product: %sku%, %name% added to your %basketType%|storedBasket</note>
       </trans-unit>
+      <trans-unit id="e31bbe2dd462100e3c1f3a68c3527be932eaab0b" resname="Product: %sku%, %name% added to your %basketType%|wishList">
+        <source>Product: %sku%, %name% added to your wishlist</source>
+        <target state="translated">Prodotto:% sku%,% name% aggiunto alla tua lista dei desideri</target>
+        <note>key: Product: %sku%, %name% added to your %basketType%|wishList</note>
+      </trans-unit>
+      <trans-unit id="9286be6122025f408635f46bae18700124d893db" resname="Products were added to the basket">
+        <source>Products were added to the basket</source>
+        <target state="translated">I prodotti sono stati aggiunti al carrello</target>
+        <note>key: Products were added to the basket</note>
+      </trans-unit>
+      <trans-unit id="98c115a34fe9c270c0032fb5521719c2d646e4d3" resname="Products were added to your %basketType%|storedBasket">
+        <source>Products were added to your stored basket</source>
+        <target state="translated">I prodotti sono stati aggiunti al tuo carrello memorizzato</target>
+        <note>key: Products were added to your %basketType%|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="1c27b0196f566540a146f7449797ccc065a225ce" resname="Quantity is not valid.">
+        <source>Quantity is not valid.</source>
+        <target state="translated">La quantità non è valida.</target>
+        <note>key: Quantity is not valid.</note>
+      </trans-unit>
+      <trans-unit id="3cae3fbb4216ab78fdc8e432facd12c052318d89" resname="Remove product from stored basket|storedBasket">
+        <source>Remove product from stored basket</source>
+        <target state="translated">Rimuovere il prodotto dal carrello conservato</target>
+        <note>key: Remove product from stored basket|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="c93ac9d48a7a3dfdd2f6fcc3924b79e693827faf" resname="Remove product from stored basket|wishList">
+        <source>Remove product from wishlist</source>
+        <target state="translated">Rimuovi il prodotto dalla lista dei desideri</target>
+        <note>key: Remove product from stored basket|wishList</note>
+      </trans-unit>
+      <trans-unit id="50c518cdf0faedd9bc5ce47a5799df55cb0f07c9" resname="Save on my address list">
+        <source>Save on my address list</source>
+        <target state="translated">Salva nel mio elenco di indirizzi</target>
+        <note>key: Save on my address list</note>
+      </trans-unit>
+      <trans-unit id="8d15fc8a22a358a6b8d6c51a6d1fe1afa153a417" resname="Search in addresses">
+        <source>Search in addresses</source>
+        <target state="translated">Cerca negli indirizzi</target>
+        <note>key: Search in addresses</note>
+      </trans-unit>
+      <trans-unit id="9d1aafa8abe0ba32db90de6a6ad0a81464151a19" resname="Shipping method">
+        <source>Shipping method</source>
+        <target state="translated">Metodo di spedizione</target>
+        <note>key: Shipping method</note>
+      </trans-unit>
+      <trans-unit id="8bb329943eb487de65ee7bf6f52791483baccc72" resname="Sorry! You need an account to add items to your %basketType%|storedBasket">
+        <source>Sorry! You need an account to add items to your stored basket</source>
+        <target state="translated">Scusate! È necessario un account per aggiungere articoli al carrello memorizzato</target>
+        <note>key: Sorry! You need an account to add items to your %basketType%|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="95c15e34b8e9f6833c71dfa4cf38256d3242da0f" resname="Sorry! You need an account to add items to your %basketType%|wishList">
+        <source>Sorry! You need an account to add items to your wishlist</source>
+        <target state="translated">Scusate! Hai bisogno di un account per aggiungere articoli alla tua lista dei desideri</target>
+        <note>key: Sorry! You need an account to add items to your %basketType%|wishList</note>
+      </trans-unit>
+      <trans-unit id="7c0edbbcef0fd4e657c38d593a3e0fac11895917" resname="Sort Field">
+        <source>Sort Field</source>
+        <target state="translated">Ordina Campo</target>
+        <note>key: Sort Field</note>
+      </trans-unit>
+      <trans-unit id="da4725a3306d8386ac42c90352ae668b0289c8ac" resname="State/County">
+        <source>State/County</source>
+        <target state="translated">Stato / Paese</target>
+        <note>key: State/County</note>
+      </trans-unit>
+      <trans-unit id="bae7d5be70820ed56467bd9a63744e23b47bd711" resname="Status">
+        <source>Status</source>
+        <target state="translated">Stato</target>
+        <note>key: Status</note>
+      </trans-unit>
+      <trans-unit id="b454109993438542163d132d897313eee1b480fa" resname="Street">
+        <source>Street</source>
+        <target state="translated">Via</target>
+        <note>key: Street</note>
+      </trans-unit>
       <trans-unit id="0c79bd995df303f2bbd86361ffaac6fc20d82d06" resname="basket.page.table.stock">
         <source>Stock</source>
         <target state="translated">Scorta</target>
