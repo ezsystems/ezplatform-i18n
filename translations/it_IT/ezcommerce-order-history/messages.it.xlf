@@ -256,6 +256,171 @@
         <target state="translated">Consegna standard</target>
         <note>key: Standard delivery</note>
       </trans-unit>
+      <trans-unit id="0bb22d649cc96d83ae2eb211140bd73ca6fda463" resname="Start date must be lower than end date.">
+        <source>Start date must be lower than end date.</source>
+        <target state="translated">La data di inizio deve essere inferiore alla data di fine.</target>
+        <note>key: Start date must be lower than end date.</note>
+      </trans-unit>
+      <trans-unit id="5953ce67b5ea4de130831829a85481ac6624ae40" resname="Start typing to filter the table.">
+        <source>Start typing to filter the table.</source>
+        <target state="translated">Inizia a digitare per filtrare la tabella.</target>
+        <note>key: Start typing to filter the table.</note>
+      </trans-unit>
+      <trans-unit id="bae7d5be70820ed56467bd9a63744e23b47bd711" resname="Status">
+        <source>Status</source>
+        <target state="translated">Stato</target>
+        <note>key: Status</note>
+      </trans-unit>
+      <trans-unit id="fc9ce14b28c6f2c3b72caf056ca604b2b96f7d2b" resname="Sum">
+        <source>Sum</source>
+        <target state="translated">Somma</target>
+        <note>key: Sum</note>
+      </trans-unit>
+      <trans-unit id="01f6e77e146799ecb7bb921e2989935abe6538a7" resname="Sum exl.vat:">
+        <source>Sum excl. VAT:</source>
+        <target state="translated">Somma escl. I.V.A:</target>
+        <note>key: Sum exl.vat:</note>
+      </trans-unit>
+      <trans-unit id="3801c95bf2a869500c92bcf53a745066d4319eb6" resname="Sum incl.vat:">
+        <source>Sum incl. VAT:</source>
+        <target state="translated">Somma incl. I.V.A:</target>
+        <note>key: Sum incl.vat:</note>
+      </trans-unit>
+      <trans-unit id="c9c0002b470885b406a7cca4c3a91722591c1923" resname="TaxTotal_TaxAmount">
+        <source>VAT</source>
+        <target state="translated">I.V.A.</target>
+        <note>key: TaxTotal_TaxAmount</note>
+      </trans-unit>
+      <trans-unit id="7646afd3f96463a98cdf779b034d0a1cb6b4a367" resname="Terms of payment:">
+        <source>Terms of payment:</source>
+        <target state="translated">Modalità di pagamento:</target>
+        <note>key: Terms of payment:</note>
+      </trans-unit>
+      <trans-unit id="5b1e5a9ea6ee7e5b01857653f5faef9b75a160a0" resname="TrackingUrl">
+        <source>Tracking URL</source>
+        <target state="translated">Url Di Monitoraggio</target>
+        <note>key: TrackingUrl</note>
+      </trans-unit>
+      <trans-unit id="3f82659f3ceb2ada8c6ee9e74bfc0ee1ad9f5a7e" resname="VAT:">
+        <source>VAT:</source>
+        <target state="translated">I.V.A:</target>
+        <note>key: VAT:</note>
+      </trans-unit>
+      <trans-unit id="8295ecfb6d036a1258d759746492609c9d5899bf" resname="Wrong date format. Expected YYYY-MM-DD.">
+        <source>Wrong date format. Expected YYYY-MM-DD.</source>
+        <target state="translated">Formato data errato. Atteso AAAA-MM-GG</target>
+        <note>key: Wrong date format. Expected YYYY-MM-DD.</note>
+      </trans-unit>
+      <trans-unit id="2b6d92bedaccbf764bf9c2de9e2a3b761e132bfe" resname="Wrong date format. Expected:">
+        <source>Wrong date format. Expected:</source>
+        <target state="translated">Formato data errato. Atteso:</target>
+        <note>key: Wrong date format. Expected:</note>
+      </trans-unit>
+      <trans-unit id="6fb54410ba15daa43dde185e4d90f80d9ca0768c" resname="Your customer number:">
+        <source>Your customer number:</source>
+        <target state="translated">Il tuo numero cliente:</target>
+        <note>key: Your customer number:</note>
+      </trans-unit>
+      <trans-unit id="6df098171bd4eab1780847b6decaa2e743986c58" resname="Your reference:">
+        <source>Your reference:</source>
+        <target state="translated">Il tuo riferimento:</target>
+        <note>key: Your reference:</note>
+      </trans-unit>
+      <trans-unit id="6909bba19d03504561837c72b03f46f54ff2cf6e" resname="back to result list">
+        <source>back to result list</source>
+        <target state="translated">torna all'elenco dei risultati</target>
+        <note>key: back to result list</note>
+      </trans-unit>
+      <trans-unit id="5a528df8b96efd79ddfdb1f5734924ca71d47adb" resname="common.add_product_to_basket_tooltip">
+        <source>Add item to basket</source>
+        <target state="translated">Aggiungi elemento al carrello</target>
+        <note>key: common.add_product_to_basket_tooltip</note>
+      </trans-unit>
+      <trans-unit id="c8d1d18a98e1280af0f663914116f1e9050fbdf5" resname="common.additional_erp_data">
+        <source>Additional data from ERP</source>
+        <target state="translated">Dati aggiuntivi da ERP</target>
+        <note>key: common.additional_erp_data</note>
+      </trans-unit>
+      <trans-unit id="9331f44293bb6c7b5e513be118e000576a8c3648" resname="common.customer_relation_erp">
+        <source>Customer has a relation to the ERP</source>
+        <target state="translated">Il cliente ha una relazione con l'ERP</target>
+        <note>key: common.customer_relation_erp</note>
+      </trans-unit>
+      <trans-unit id="57b886d118eba9e688789006615de9c798c6f179" resname="credit_memo|orderhistory">
+        <source>Credit memo</source>
+        <target state="translated">Nota di credito</target>
+        <note>key: credit_memo|orderhistory</note>
+      </trans-unit>
+      <trans-unit id="e2baf0b6c0efea0ae2fc077eec79406fe1625daa" resname="delivery_note|orderhistory">
+        <source>Delivery note</source>
+        <target state="translated">Nota di consegna</target>
+        <note>key: delivery_note|orderhistory</note>
+      </trans-unit>
+      <trans-unit id="baeba7e7b9ec453e23b5bac313219285d6292358" resname="invoice">
+        <source>invoice</source>
+        <target state="translated">fattura</target>
+        <note>key: invoice</note>
+      </trans-unit>
+      <trans-unit id="0276022459b916b6a27d4b99c25fc0f23c567a29" resname="invoice|orderhistory">
+        <source>Invoice</source>
+        <target state="translated">Fattura</target>
+        <note>key: invoice|orderhistory</note>
+      </trans-unit>
+      <trans-unit id="e06757f7a1679219486bbea176f05cbfb35ac3a9" resname="label.invoice_address|order_history">
+        <source>Invoice Address</source>
+        <target state="translated">Indirizzo Fattura</target>
+        <note>key: label.invoice_address|order_history</note>
+      </trans-unit>
+      <trans-unit id="c1cbb1a39d002bbc834f41c974dd217d630d2045" resname="label.invoice_sum">
+        <source>Total</source>
+        <target state="translated">Totale</target>
+        <note>key: label.invoice_sum</note>
+      </trans-unit>
+      <trans-unit id="2e4a324e47557e8b46cc011ad0dad16c1e3ff238" resname="label.my_documents">
+        <source>Your documents</source>
+        <target state="translated">I tuoi documenti</target>
+        <note>key: label.my_documents</note>
+      </trans-unit>
+      <trans-unit id="d297e5e766d72cac5d1578188f5142d02471167b" resname="label.subtotal">
+        <source>Subtotal</source>
+        <target state="translated">Subtotale</target>
+        <note>key: label.subtotal</note>
+      </trans-unit>
+      <trans-unit id="65c4aaaab5989949a929cc5f7e96eb7017c2d9f4" resname="loading...">
+        <source>loading...</source>
+        <target state="translated">caricamento...</target>
+        <note>key: loading...</note>
+      </trans-unit>
+      <trans-unit id="b29439f90a1f1fdef8df8a91d4096649c4ac445b" resname="msg.no_order_permissions">
+        <source>You don't have the permission(s) to order.</source>
+        <target state="translated">Non hai il(i) permesso(i) per ordinare.</target>
+        <note>key: msg.no_order_permissions</note>
+      </trans-unit>
+      <trans-unit id="eae55ec1f7b6f43a2a55d98c85d3995d2f5ade03" resname="orderhistory_introtext">
+        <source>orderhistory_introtext</source>
+        <target state="translated">testo introduttivo della cronologia degli ordini</target>
+        <note>key: orderhistory_introtext</note>
+      </trans-unit>
+      <trans-unit id="aa4c942a007e815802915bb5c309a3bdcbe97ca2" resname="order|orderhistory">
+        <source>Order</source>
+        <target state="translated">Ordine</target>
+        <note>key: order|orderhistory</note>
+      </trans-unit>
+      <trans-unit id="6a8437dd0009e4aa220215ad24cf7c7d2e8c95c8" resname="plus">
+        <source>plus</source>
+        <target state="translated">più</target>
+        <note>key: plus</note>
+      </trans-unit>
+      <trans-unit id="a0f562b97eb7adc68e551ada253f4843a9312341" resname="thereof">
+        <source>thereof</source>
+        <target state="translated">di ciò</target>
+        <note>key: thereof</note>
+      </trans-unit>
+      <trans-unit id="6687cdd3613aa810d757d8e04eb4668797a35947" resname="|OrderHistoryStatus">
+        <source>|OrderHistoryStatus</source>
+        <target state="translated">| Stato cronologia ordini</target>
+        <note>key: |OrderHistoryStatus</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
