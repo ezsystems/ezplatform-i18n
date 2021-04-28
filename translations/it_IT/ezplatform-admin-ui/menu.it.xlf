@@ -186,24 +186,24 @@
         <target state="translated">Utenti</target>
         <note>key: main__admin__users</note>
       </trans-unit>
-      <trans-unit id="95e1979b41321209d200f2e75416fd47270954b4" resname="main__content">
+      <trans-unit id="95e1979b41321209d200f2e75416fd47270954b4" resname="main__content" approved="yes">
         <source>Content</source>
-        <target state="translated">Cntenuto</target>
+        <target state="final">Contenuto</target>
         <note>key: main__content</note>
       </trans-unit>
-      <trans-unit id="1dd8b693879304af831a7adaf4ca59c7d8cb31b9" resname="main__content__content_structure">
+      <trans-unit id="1dd8b693879304af831a7adaf4ca59c7d8cb31b9" resname="main__content__content_structure" approved="yes">
         <source>Content structure</source>
-        <target state="translated">Struttura Contenuti</target>
+        <target state="final">Struttura Contenuti</target>
         <note>key: main__content__content_structure</note>
       </trans-unit>
-      <trans-unit id="e8c5aefc86b31ee2bed9359787ddf0a2b1cad4a6" resname="main__content__media">
+      <trans-unit id="e8c5aefc86b31ee2bed9359787ddf0a2b1cad4a6" resname="main__content__media" approved="yes">
         <source>Media</source>
-        <target state="translated">Media</target>
+        <target state="final">Media</target>
         <note>key: main__content__media</note>
       </trans-unit>
-      <trans-unit id="1f5824f08c1b09cf6511dee2352e6f1681f94893" resname="main_admin">
+      <trans-unit id="1f5824f08c1b09cf6511dee2352e6f1681f94893" resname="main_admin" approved="yes">
         <source>Admin</source>
-        <target state="translated">Amministratore</target>
+        <target state="final">Amministrazione</target>
         <note>key: main_admin</note>
       </trans-unit>
       <trans-unit id="f3561dffc3e7e63e03f3f5d1a4e2b4eda80e051a" resname="object_state_create__sidebar_right__cancel">
