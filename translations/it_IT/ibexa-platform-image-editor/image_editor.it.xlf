@@ -6,119 +6,119 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      <trans-unit id="956eb63580c6ccafb6dbb9f891b08417451202be" resname="image_editor">
+      <trans-unit id="956eb63580c6ccafb6dbb9f891b08417451202be" resname="image_editor" approved="yes">
         <source>Image Editor</source>
-        <target state="translated">Editor Immagine</target>
+        <target state="final">Editor Immagine</target>
         <note>key: image_editor</note>
       </trans-unit>
-      <trans-unit id="3a84d148e1d745c9197d33618b721e38a8de7add" resname="image_editor.actions.crop.abbreviation.height">
+      <trans-unit id="3a84d148e1d745c9197d33618b721e38a8de7add" resname="image_editor.actions.crop.abbreviation.height" approved="yes">
         <source>H</source>
-        <target state="translated">H</target>
+        <target state="final">H</target>
         <note>key: image_editor.actions.crop.abbreviation.height</note>
       </trans-unit>
-      <trans-unit id="0e2b79d0b2ca4229dfbe407adce8886f1d08d3fc" resname="image_editor.actions.crop.abbreviation.width">
+      <trans-unit id="0e2b79d0b2ca4229dfbe407adce8886f1d08d3fc" resname="image_editor.actions.crop.abbreviation.width" approved="yes">
         <source>W</source>
-        <target state="translated">W</target>
+        <target state="final">W</target>
         <note>key: image_editor.actions.crop.abbreviation.width</note>
       </trans-unit>
-      <trans-unit id="e8a1110c060cdbf254f17e3570d112845e0be036" resname="image_editor.actions.crop.apply">
+      <trans-unit id="e8a1110c060cdbf254f17e3570d112845e0be036" resname="image_editor.actions.crop.apply" approved="yes">
         <source>Apply</source>
-        <target state="translated">Applica</target>
+        <target state="final">Applica</target>
         <note>key: image_editor.actions.crop.apply</note>
       </trans-unit>
-      <trans-unit id="efd41cbbf18ffdfc6f3aecfaa153d463e922ed46" resname="image_editor.actions.crop.crop_size">
+      <trans-unit id="efd41cbbf18ffdfc6f3aecfaa153d463e922ed46" resname="image_editor.actions.crop.crop_size" approved="yes">
         <source>Crop size</source>
-        <target state="translated">Dimensione ritaglio</target>
+        <target state="final">Dimensione ritaglio</target>
         <note>key: image_editor.actions.crop.crop_size</note>
       </trans-unit>
-      <trans-unit id="51c96b0d9b8e984c453b7a759bd7101775ff1e85" resname="image_editor.actions.crop.label">
+      <trans-unit id="51c96b0d9b8e984c453b7a759bd7101775ff1e85" resname="image_editor.actions.crop.label" approved="yes">
         <source>Crop</source>
-        <target state="translated">Ritaglia</target>
+        <target state="final">Ritaglia</target>
         <note>key: image_editor.actions.crop.label</note>
       </trans-unit>
-      <trans-unit id="843ae8783a9e710b7821363d582890cde2c8bfae" resname="image_editor.actions.crop.ratio">
+      <trans-unit id="843ae8783a9e710b7821363d582890cde2c8bfae" resname="image_editor.actions.crop.ratio" approved="yes">
         <source>Ratio</source>
-        <target state="translated">Rapporto</target>
+        <target state="final">Rapporto</target>
         <note>key: image_editor.actions.crop.ratio</note>
       </trans-unit>
-      <trans-unit id="1d5e0624d1f0017e449a0b043c2033619a33841b" resname="image_editor.actions.crop.remove">
+      <trans-unit id="1d5e0624d1f0017e449a0b043c2033619a33841b" resname="image_editor.actions.crop.remove" approved="yes">
         <source>Remove</source>
-        <target state="translated">Rimuovi</target>
+        <target state="final">Rimuovi</target>
         <note>key: image_editor.actions.crop.remove</note>
       </trans-unit>
-      <trans-unit id="15ed133ec163074eb0f215eb45e84294e8f150d3" resname="image_editor.actions.crop.warning">
+      <trans-unit id="15ed133ec163074eb0f215eb45e84294e8f150d3" resname="image_editor.actions.crop.warning" approved="yes">
         <source>Adjust the focal point, crop might change its parameters</source>
-        <target state="translated">Regolare il punto focale, ritaglio potrebbe cambiare i suoi parametri</target>
+        <target state="final">Regolare il punto focale, ritaglio potrebbe cambiare i suoi parametri</target>
         <note>key: image_editor.actions.crop.warning</note>
       </trans-unit>
-      <trans-unit id="134b698047fe264a2a211c55f0471ff12a299c58" resname="image_editor.actions.flip.horizontal">
+      <trans-unit id="134b698047fe264a2a211c55f0471ff12a299c58" resname="image_editor.actions.flip.horizontal" approved="yes">
         <source>Horizontal</source>
-        <target state="translated">Orizzontale</target>
+        <target state="final">Orizzontale</target>
         <note>key: image_editor.actions.flip.horizontal</note>
       </trans-unit>
-      <trans-unit id="8150fac19adea2fc1a9372b10c3ddc111796bc48" resname="image_editor.actions.flip.label">
+      <trans-unit id="8150fac19adea2fc1a9372b10c3ddc111796bc48" resname="image_editor.actions.flip.label" approved="yes">
         <source>Flip</source>
-        <target state="translated">Capovolgi</target>
+        <target state="final">Capovolgi</target>
         <note>key: image_editor.actions.flip.label</note>
       </trans-unit>
-      <trans-unit id="eae77c9127c6bf6971c8dd47f8fe5ae209da9aa3" resname="image_editor.actions.flip.vertical">
+      <trans-unit id="eae77c9127c6bf6971c8dd47f8fe5ae209da9aa3" resname="image_editor.actions.flip.vertical" approved="yes">
         <source>Vertical</source>
-        <target state="translated">Verticale</target>
+        <target state="final">Verticale</target>
         <note>key: image_editor.actions.flip.vertical</note>
       </trans-unit>
-      <trans-unit id="9219cc19507469abbd8222ab2d769a5509fd00f9" resname="image_editor.actions.focal_point.abbreviation.position_x">
+      <trans-unit id="9219cc19507469abbd8222ab2d769a5509fd00f9" resname="image_editor.actions.focal_point.abbreviation.position_x" approved="yes">
         <source>X</source>
-        <target state="translated">X</target>
+        <target state="final">X</target>
         <note>key: image_editor.actions.focal_point.abbreviation.position_x</note>
       </trans-unit>
-      <trans-unit id="ad7f4690be5c73361e2a2ed13628fdc5ae911137" resname="image_editor.actions.focal_point.abbreviation.position_y">
+      <trans-unit id="ad7f4690be5c73361e2a2ed13628fdc5ae911137" resname="image_editor.actions.focal_point.abbreviation.position_y" approved="yes">
         <source>Y</source>
-        <target state="translated">Y</target>
+        <target state="final">Y</target>
         <note>key: image_editor.actions.focal_point.abbreviation.position_y</note>
       </trans-unit>
-      <trans-unit id="2203c32d4bb3070d4a0162b68ef729f3c62b7100" resname="image_editor.actions.focal_point.label">
+      <trans-unit id="2203c32d4bb3070d4a0162b68ef729f3c62b7100" resname="image_editor.actions.focal_point.label" approved="yes">
         <source>Focal Point</source>
-        <target state="translated">Punto Focale</target>
+        <target state="final">Punto Focale</target>
         <note>key: image_editor.actions.focal_point.label</note>
       </trans-unit>
-      <trans-unit id="4eb81bfd61541fc302852a9551f10a21d095cc06" resname="image_editor.actions.focal_point.remove">
+      <trans-unit id="4eb81bfd61541fc302852a9551f10a21d095cc06" resname="image_editor.actions.focal_point.remove" approved="yes">
         <source>Remove</source>
-        <target state="translated">Rimuovi</target>
+        <target state="final">Rimuovi</target>
         <note>key: image_editor.actions.focal_point.remove</note>
       </trans-unit>
-      <trans-unit id="776866961a1df295f28beb7397126b4f6a412ed1" resname="image_editor.actions.focal_point.show">
+      <trans-unit id="776866961a1df295f28beb7397126b4f6a412ed1" resname="image_editor.actions.focal_point.show" approved="yes">
         <source>Show point</source>
-        <target state="translated">Mostra punto</target>
+        <target state="final">Mostra punto</target>
         <note>key: image_editor.actions.focal_point.show</note>
       </trans-unit>
-      <trans-unit id="07a21b5880f85bd6bac3ce4fb386416a791839bf" resname="image_editor.apply_to_all">
+      <trans-unit id="07a21b5880f85bd6bac3ce4fb386416a791839bf" resname="image_editor.apply_to_all" approved="yes">
         <source>Apply changes to all</source>
-        <target state="translated">Applica le modifiche a tutti</target>
+        <target state="final">Applica le modifiche a tutti</target>
         <note>key: image_editor.apply_to_all</note>
       </trans-unit>
-      <trans-unit id="8f18dae80b35c667f5078299dfef8eab35468e1f" resname="image_editor.cancel">
+      <trans-unit id="8f18dae80b35c667f5078299dfef8eab35468e1f" resname="image_editor.cancel" approved="yes">
         <source>Cancel</source>
-        <target state="translated">Annulla</target>
+        <target state="final">Annulla</target>
         <note>key: image_editor.cancel</note>
       </trans-unit>
-      <trans-unit id="663f0903b964c2ce77933a71874b5698671e9fac" resname="image_editor.close">
+      <trans-unit id="663f0903b964c2ce77933a71874b5698671e9fac" resname="image_editor.close" approved="yes">
         <source>Close</source>
-        <target state="translated">Chiudi</target>
+        <target state="final">Chiudi</target>
         <note>key: image_editor.close</note>
       </trans-unit>
-      <trans-unit id="9f4bce2356266e08e7fc658ef668bd94aca3130c" resname="image_editor.dimension">
+      <trans-unit id="9f4bce2356266e08e7fc658ef668bd94aca3130c" resname="image_editor.dimension" approved="yes">
         <source>Dimension</source>
-        <target state="translated">Dimensione</target>
+        <target state="final">Dimensione</target>
         <note>key: image_editor.dimension</note>
       </trans-unit>
-      <trans-unit id="1834d0a289e023d978daec2f01b8bba6bf703745" resname="image_editor.edit_mode">
+      <trans-unit id="1834d0a289e023d978daec2f01b8bba6bf703745" resname="image_editor.edit_mode" approved="yes">
         <source>Edit mode</source>
-        <target state="translated">Modalità di modifica</target>
+        <target state="final">Modalità di modifica</target>
         <note>key: image_editor.edit_mode</note>
       </trans-unit>
-      <trans-unit id="bd499e574059518dde520fd569e1afb7affc9f7c" resname="image_editor.redo">
+      <trans-unit id="bd499e574059518dde520fd569e1afb7affc9f7c" resname="image_editor.redo" approved="yes">
         <source>Redo</source>
-        <target state="translated">Ripeti</target>
+        <target state="final">Ripeti</target>
         <note>key: image_editor.redo</note>
       </trans-unit>
       <trans-unit id="ba9eda3a8dfc23e2a2d3b9d5a5406f473ae644a8" resname="image_editor.reset_image">
