@@ -331,6 +331,181 @@
         <target state="translated">Via</target>
         <note>key: Street</note>
       </trans-unit>
+      <trans-unit id="40771e32e1d5bb713945ce36cd59b40a39320ef7" resname="Subtotal %vat% VAT">
+        <source>Subtotal %vat% VAT</source>
+        <target state="translated">Subtotale% iva% IVA</target>
+        <note>key: Subtotal %vat% VAT</note>
+      </trans-unit>
+      <trans-unit id="6cad0cd1b5376fa52ed4fa0393099e9c7f4f149c" resname="Summary and Order Confirmation">
+        <source>Summary and Order Confirmation</source>
+        <target state="translated">Riepilogo e conferma d'ordine</target>
+        <note>key: Summary and Order Confirmation</note>
+      </trans-unit>
+      <trans-unit id="24a7814c5bbc472f769c917f50fa72ee373d6b26" resname="Summary and order overview">
+        <source>Summary and order overview</source>
+        <target state="translated">Riepilogo e panoramica dell' ordine</target>
+        <note>key: Summary and order overview</note>
+      </trans-unit>
+      <trans-unit id="1e7aee9fa1447f160ec79ac3bd1f948ca626aa66" resname="The %value% quantity is %quantity% for product: %name%, %sku% %variantCode%">
+        <source>The %value% quantity is %quantity% for product: %name%, %sku% %variantCode%</source>
+        <target state="translated">La quantità% value% quantità è% quantity% per il prodotto:% name%,% sku%% variantCode%</target>
+        <note>key: The %value% quantity is %quantity% for product: %name%, %sku% %variantCode%</note>
+      </trans-unit>
+      <trans-unit id="d7ccc00b30b7ab44e951979c8b08128afc11c007" resname="The given quantity %quantity% is not valid for product: %name%,  %sku% %variantCode%">
+        <source>The given quantity %quantity% is not valid for product: %name%,  %sku% %variantCode%</source>
+        <target state="translated">La quantità data% quantity% non è valida per il prodotto:% name%,% sku%% variantCode%</target>
+        <note>key: The given quantity %quantity% is not valid for product: %name%,  %sku% %variantCode%</note>
+      </trans-unit>
+      <trans-unit id="e2a5da6deecbf01f0a50ae697347132f92657621" resname="The item: %sku% %varCode% is discontinued and not available anymore. It was deleted from the basket.">
+        <source>The item: %sku% %varCode% is discontinued and not available anymore. It was deleted from the basket.</source>
+        <target state="translated">L'elemento:% sku%% varCode% è fuori produzione e non è più disponibile. È stato eliminato dal carrello.</target>
+        <note>key: The item: %sku% %varCode% is discontinued and not available anymore. It was deleted from the basket.</note>
+      </trans-unit>
+      <trans-unit id="af625a7f99719b4905074cc2afba437f67b65d4b" resname="The item: %sku% %varCode% is discontinued and only %quantity% items are available.">
+        <source>The item: %sku% %varCode% is discontinued and only %quantity% items are available.</source>
+        <target state="translated">L'articolo:% sku%% varCode% è fuori produzione e sono disponibili solo articoli% quantity%.</target>
+        <note>key: The item: %sku% %varCode% is discontinued and only %quantity% items are available.</note>
+      </trans-unit>
+      <trans-unit id="059562a6f3b143de49442d3189d4e8789187739b" resname="The packaging unit is %packagingUnit% for product:  %name%, %sku% %variantCode%">
+        <source>The packaging unit is %packagingUnit% for product:  %name%, %sku% %variantCode%</source>
+        <target state="translated">L'unità di imballaggio è% packagingUnit% per il prodotto:% name%,% sku%% variantCode%</target>
+        <note>key: The packaging unit is %packagingUnit% for product:  %name%, %sku% %variantCode%</note>
+      </trans-unit>
+      <trans-unit id="998e2021f1387d6dfa9a1ef977c06ba4514d96d8" resname="There is no information about the availability for: %sku% %varCode%, but this item is discontinued.">
+        <source>There is no information about the availability for: %sku% %varCode%, but this item is discontinued.</source>
+        <target state="translated">Non ci sono informazioni sulla disponibilità per:% sku%% varCode%, ma questo articolo è fuori produzione.</target>
+        <note>key: There is no information about the availability for: %sku% %varCode%, but this item is discontinued.</note>
+      </trans-unit>
+      <trans-unit id="d716be948f84dad3211817858851c09283290d34" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|comparison">
+        <source>You have already the product: %name, %sku% in your stored basket</source>
+        <target state="translated">Hai già il prodotto:% name,% sku% nel tuo carrello memorizzato</target>
+        <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|comparison</note>
+      </trans-unit>
+      <trans-unit id="06621dc0b722ae3008c93ff8a2efa763a978ec00" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|storedBasket">
+        <source>You have already the product: %name, %sku% in your wishlist</source>
+        <target state="translated">Hai già il prodotto:% name,% sku% nella tua lista dei desideri</target>
+        <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="2293f8e8c409db0febed97d76d90ccf113ac3c9f" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|wishList">
+        <source>You have already the product:  %name%, %sku% in your comparison list</source>
+        <target state="translated">Hai già il prodotto:% name%,% sku% nella tua lista di confronto</target>
+        <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|wishList</note>
+      </trans-unit>
+      <trans-unit id="3c52430eb9e6bb06cd337a822b52de305b7aa614" resname="You have already the product: %sku%, %name% in your %basketType%|comparison">
+        <source>You have already the product: %sku%, %name% in your comparison list</source>
+        <target state="translated">Hai già il prodotto:% sku%,% name% nella tua lista di confronto</target>
+        <note>key: You have already the product: %sku%, %name% in your %basketType%|comparison</note>
+      </trans-unit>
+      <trans-unit id="50dc8a71d117b77acf641c522b742dd896a3740c" resname="You have already the product: %sku%, %name% in your %basketType%|storedBasket">
+        <source>You already have product %sku%, %name% in your stored basket</source>
+        <target state="translated">Hai già il prodotto% sku%,% name% nel carrello memorizzato</target>
+        <note>key: You have already the product: %sku%, %name% in your %basketType%|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="96019b5781a6715a756a431751598410dcd4877d" resname="You have already the product: %sku%, %name% in your %basketType%|wishList">
+        <source>You have already the product: %sku%, %name% in your wishlist</source>
+        <target state="translated">Hai già il prodotto:% sku%,% name% nella tua lista dei desideri</target>
+        <note>key: You have already the product: %sku%, %name% in your %basketType%|wishList</note>
+      </trans-unit>
+      <trans-unit id="8d302598ac4b24c40a15f5ae55a739051039b0ac" resname="You have following items in your %basket_type%|storedBasket">
+        <source>You have following items in your stored basket</source>
+        <target state="translated">Hai i seguenti articoli nel tuo carrello immagazzinato</target>
+        <note>key: You have following items in your %basket_type%|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="cb3e419b92d6976b39094f86015b27aab1ce111c" resname="You have following items in your %basket_type%|wishList">
+        <source>You have following items in your wishlist</source>
+        <target state="translated">Hai i seguenti articoli nella tua lista dei desideri</target>
+        <note>key: You have following items in your %basket_type%|wishList</note>
+      </trans-unit>
+      <trans-unit id="ba8be5a8c07255c507e8c80b00454bdc3d55312e" resname="Your %basketType% is empty|comparison">
+        <source>Your comparison list is empty</source>
+        <target state="translated">La tua lista di confronto è vuota</target>
+        <note>key: Your %basketType% is empty|comparison</note>
+      </trans-unit>
+      <trans-unit id="3ad9ca4346f87231465d050bf9106892f0339397" resname="Your %basketType% is empty|storedBasket">
+        <source>Your stored basket is empty</source>
+        <target state="translated">Il carrello memorizzato è vuoto</target>
+        <note>key: Your %basketType% is empty|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="d3e9f3bd562ecc3801def7f791ed775e7eb8dee5" resname="Your %basketType% is empty|wishList">
+        <source>Your wishlist is empty</source>
+        <target state="translated">La tua lista dei desideri è vuota</target>
+        <note>key: Your %basketType% is empty|wishList</note>
+      </trans-unit>
+      <trans-unit id="d447b63fbd8910a8b13fa7875c2d4725d146e8ba" resname="Your Basket is empty">
+        <source>Your Basket is empty</source>
+        <target state="translated">Il tuo carrello è vuoto</target>
+        <note>key: Your Basket is empty</note>
+      </trans-unit>
+      <trans-unit id="8eb7a0d6cb42c6091923c77084d3d09ebb9cb2db" resname="Your comment">
+        <source>Your comment</source>
+        <target state="translated">Il tuo commento</target>
+        <note>key: Your comment</note>
+      </trans-unit>
+      <trans-unit id="c7d4efee746ed353828d435cc67f6bf174959dac" resname="Your order amount must reach at least: %amount% %currency%">
+        <source>Your order amount must reach at least: %amount% %currency%</source>
+        <target state="translated">L'importo del tuo ordine deve raggiungere almeno:% amount%% currency%</target>
+        <note>key: Your order amount must reach at least: %amount% %currency%</note>
+      </trans-unit>
+      <trans-unit id="98aa64de7bc791f7b8c35fe219bbf89820ebaf9e" resname="Your order number is">
+        <source>Your order number is</source>
+        <target state="translated">Il tuo numero d'ordine è</target>
+        <note>key: Your order number is</note>
+      </trans-unit>
+      <trans-unit id="1ed01e7c71996c604337478270c81704193265d0" resname="ZIP code">
+        <source>ZIP code</source>
+        <target state="translated">Codice postale</target>
+        <note>key: ZIP code</note>
+      </trans-unit>
+      <trans-unit id="87e38e3331cdb7d71a281257fbaf0de7a2561779" resname="basket.page.action.remove.basket">
+        <source>Remove basket</source>
+        <target state="translated">Rimuovi carrello</target>
+        <note>key: basket.page.action.remove.basket</note>
+      </trans-unit>
+      <trans-unit id="814ea6d4f85e65fa9626d561aaf1cc217a2d8be3" resname="basket.page.action.update.basket">
+        <source>Update basket</source>
+        <target state="translated">Aggiorna carrello</target>
+        <note>key: basket.page.action.update.basket</note>
+      </trans-unit>
+      <trans-unit id="d1f9b2f6ba844fc20b226d5edb697b8fd1b9f744" resname="basket.page.actions.back">
+        <source>Back</source>
+        <target state="translated">Indietro</target>
+        <note>key: basket.page.actions.back</note>
+      </trans-unit>
+      <trans-unit id="d190ac9ed65cc3c93c3cd2b0325b405a96976a2e" resname="basket.page.actions.checkout">
+        <source>Checkout</source>
+        <target state="translated">Checkout</target>
+        <note>key: basket.page.actions.checkout</note>
+      </trans-unit>
+      <trans-unit id="27eb4ffbf2e03afbdaea9264361e6a3a2c853a06" resname="basket.page.is.empty">
+        <source>Your Basket is empty!</source>
+        <target state="translated">Il tuo carrello è vuoto!</target>
+        <note>key: basket.page.is.empty</note>
+      </trans-unit>
+      <trans-unit id="37ca4c4d567edf49c5946b76c577ea954bd118e6" resname="basket.page.table.product">
+        <source>Product</source>
+        <target state="translated">Prodotto</target>
+        <note>key: basket.page.table.product</note>
+      </trans-unit>
+      <trans-unit id="0fb2f6a3dad4d3b3b7ff36967d99a8e2b1b51cb1" resname="basket.page.table.product.not.available">
+        <source>This product is not available any more! You can delete it here</source>
+        <target state="translated">Questo prodotto non è più disponibile! Puoi eliminarlo qui</target>
+        <note>key: basket.page.table.product.not.available</note>
+      </trans-unit>
+      <trans-unit id="e8b12e2224d0881533f5cffe47a786f66d93bad2" resname="basket.page.table.quantity">
+        <source>Quantity</source>
+        <target state="translated">Quantità</target>
+        <note>key: basket.page.table.quantity</note>
+      </trans-unit>
+      <trans-unit id="e4c9fe7d988127a11861dbb21bd35431ae364781" resname="basket.page.table.remove">
+        <source>Remove</source>
+        <target state="translated">Rimuovi</target>
+        <note>key: basket.page.table.remove</note>
+      </trans-unit>
+      <trans-unit id="c18e8bed77f973faa01527989e3715bd360458cb" resname="basket.page.table.sku">
+        <source>SKU</source>
+        <target state="translated">SKU</target>
+        <note>key: basket.page.table.sku</note>
+      </trans-unit>
       <trans-unit id="0c79bd995df303f2bbd86361ffaac6fc20d82d06" resname="basket.page.table.stock">
         <source>Stock</source>
         <target state="translated">Scorta</target>
@@ -580,6 +755,228 @@
         <source>Your order was placed succesfully.</source>
         <target state="translated">L'ordine è stato effettuato con successo.</target>
         <note>key: checkout.order.confirmation.title</note>
+      </trans-unit>
+      <trans-unit id="10f0f6e81dce998019fabfbebfc8c5d27109f578" resname="checkout.shipping.step_name">
+        <source>Shipping and Payment</source>
+        <target state="translated">Spedizione e Pagamento</target>
+        <note>key: checkout.shipping.step_name</note>
+      </trans-unit>
+      <trans-unit id="25236ad427171b8d9af3bf10a0de6badbc171396" resname="checkout.show">
+        <source>Show</source>
+        <target state="translated">Mostra</target>
+        <note>key: checkout.show</note>
+      </trans-unit>
+      <trans-unit id="06f50bc800f44ef774a6a85243f8088e2e972dcd" resname="checkout.step.1_5">
+        <source>1/5</source>
+        <target state="translated">1/5</target>
+        <note>key: checkout.step.1_5</note>
+      </trans-unit>
+      <trans-unit id="8e7cf8627a9ee60acc99c337d470edb2184603fe" resname="checkout.step.2_5">
+        <source>2/5</source>
+        <target state="translated">2/5</target>
+        <note>key: checkout.step.2_5</note>
+      </trans-unit>
+      <trans-unit id="520f84e205a47d9913701bfec161db9b3987ad4b" resname="checkout.step.3_5">
+        <source>3/5</source>
+        <target state="translated">3/5</target>
+        <note>key: checkout.step.3_5</note>
+      </trans-unit>
+      <trans-unit id="d8b9c49c9046a063099b0ba2c05762188e1aeebd" resname="checkout.step.4_5">
+        <source>4/5</source>
+        <target state="translated">4/5</target>
+        <note>key: checkout.step.4_5</note>
+      </trans-unit>
+      <trans-unit id="0fe088495ce22b981ae49f6921acc66989a634d7" resname="checkout.step.5_5">
+        <source>5/5</source>
+        <target state="translated">5/5</target>
+        <note>key: checkout.step.5_5</note>
+      </trans-unit>
+      <trans-unit id="aa5abf2197b320efad1297c1e882b5c8bac67157" resname="checkout.summary">
+        <source>Summary</source>
+        <target state="translated">Sommario</target>
+        <note>key: checkout.summary</note>
+      </trans-unit>
+      <trans-unit id="c8e2b9b26e37cfda958e280278c76d0fae73b655" resname="checkout.summary.add_a_comment">
+        <source>Add a comment</source>
+        <target state="translated">Aggiungi un commento</target>
+        <note>key: checkout.summary.add_a_comment</note>
+      </trans-unit>
+      <trans-unit id="3e890021ae43c5bc7bcc31b9e7f55ca808cdc118" resname="checkout.summary.header">
+        <source>Dear %user%</source>
+        <target state="translated">Gentile %user%</target>
+        <note>key: checkout.summary.header</note>
+      </trans-unit>
+      <trans-unit id="e8e38e48e567936b0cbf747e56d84d872b775ecc" resname="checkout.summary.redirect_info">
+        <source>After ordering, you might be (depends on choosen payment method) re-directed to the payment page.</source>
+        <target state="translated">Dopo l'ordine, potresti essere (dipende dal metodo di pagamento scelto) reindirizzato alla pagina di pagamento.</target>
+        <note>key: checkout.summary.redirect_info</note>
+      </trans-unit>
+      <trans-unit id="522cefdb4177888ac4e8289242a38589001896b8" resname="checkout.summary.step_name">
+        <source>Summary and Order Confirmation</source>
+        <target state="translated">Riepilogo e conferma d'ordine</target>
+        <note>key: checkout.summary.step_name</note>
+      </trans-unit>
+      <trans-unit id="11d120e5e200903b692d112cea580a05c6ba93f7" resname="checkout.summary.text">
+        <source>This is a summary of your order. If you have chosen an electronic payment method you will be redirected to the payment provider after clicking on the order button.</source>
+        <target state="translated">Questo è un riepilogo del tuo ordine. Se hai scelto un metodo di pagamento elettronico, verrai reindirizzato al fornitore di servizi di pagamento dopo aver fatto clic sul pulsante dell'ordine.</target>
+        <note>key: checkout.summary.text</note>
+      </trans-unit>
+      <trans-unit id="1f2020156ebcd5b85dd7c025b829f7347fc7cd36" resname="common.sales_contact_mail_subject">
+        <source>Order confirmation for Sales Contact</source>
+        <target state="translated">Conferma dell'ordine per il contatto di vendita</target>
+        <note>key: common.sales_contact_mail_subject</note>
+      </trans-unit>
+      <trans-unit id="5350e9dd4078e80de250ba264db41368498fbc7e" resname="credit_card">
+        <source>Credit Card</source>
+        <target state="translated">Carta Di Credito</target>
+        <note>key: credit_card</note>
+      </trans-unit>
+      <trans-unit id="b82cafafcea6328cd4669a893daff282944799db" resname="currently chosen address">
+        <source>currently chosen address</source>
+        <target state="translated">indirizzo attualmente scelto
+
+</target>
+        <note>key: currently chosen address</note>
+      </trans-unit>
+      <trans-unit id="aabd7393a241dbadbd20e2ebcf8892b732ddcfeb" resname="data_privacy_hint">
+        <source>data_privacy_hint</source>
+        <target state="translated">suggerimento sulla privacy dei dati</target>
+        <note>key: data_privacy_hint</note>
+      </trans-unit>
+      <trans-unit id="3c1f8aac10c311ec7575a25b550ba9195824b99d" resname="error_message_checkout_delivery_address">
+        <source>There are errors on the form. Please correct them before continuing.</source>
+        <target state="translated">Sono presenti errori nel modulo. Correggili prima di continuare.</target>
+        <note>key: error_message_checkout_delivery_address</note>
+      </trans-unit>
+      <trans-unit id="c9b1309d3f59a152e843efb5227d23ee6d259855" resname="error_message_checkout_invoice_address">
+        <source>There are errors on the form. Please correct them before continuing.</source>
+        <target state="translated">Sono presenti errori nel modulo. Correggili prima di continuare.</target>
+        <note>key: error_message_checkout_invoice_address</note>
+      </trans-unit>
+      <trans-unit id="72755923fdac4c9647d0fdae7a2b150c83cd3cc7" resname="error_message_checkout_shipping_payment">
+        <source>Please check the following error message.</source>
+        <target state="translated">Si prega di controllare il seguente messaggio di errore.</target>
+        <note>key: error_message_checkout_shipping_payment</note>
+      </trans-unit>
+      <trans-unit id="b33e66b85cec0b2fe5ff066bd1d5109911f52818" resname="express_delivery">
+        <source>Express delivery</source>
+        <target state="translated">Consegna rapida</target>
+        <note>key: express_delivery</note>
+      </trans-unit>
+      <trans-unit id="0756c032c5a4d2303d279aab72bf0932b4b57865" resname="introtext_order_summary">
+        <source>introtext_order_summary</source>
+        <target state="translated">testo introduttivo riepilogo dell'ordine</target>
+        <note>key: introtext_order_summary</note>
+      </trans-unit>
+      <trans-unit id="55b729627a9c8428bd82ba50a11920e4120378e4" resname="label.add_a_reference">
+        <source>Add a reference</source>
+        <target state="translated">Aggiungi un riferimento</target>
+        <note>key: label.add_a_reference</note>
+      </trans-unit>
+      <trans-unit id="22f4e56cdf190914e923d29c587b4a12c63a1026" resname="label.customer_reference">
+        <source>Customer Reference</source>
+        <target state="translated">Riferimento del cliente</target>
+        <note>key: label.customer_reference</note>
+      </trans-unit>
+      <trans-unit id="3daf1e8a865e1c3e869863090054a9f20ac88bc5" resname="label.force_address_agree">
+        <source>I want to proceed to next step using this address.</source>
+        <target state="translated">Voglio procedere al passaggio successivo utilizzando questo indirizzo.</target>
+        <note>key: label.force_address_agree</note>
+      </trans-unit>
+      <trans-unit id="6bc28554605dedbc71b0d35c9d89b60c9dd67564" resname="label.force_summary_agree">
+        <source>I agree and want to complete the order process</source>
+        <target state="translated">Accetto e desidero completare la procedura d'ordine</target>
+        <note>key: label.force_summary_agree</note>
+      </trans-unit>
+      <trans-unit id="523534def7203f4971f872df6add88d79f9d17fd" resname="label.stored_basket_back_to_list">
+        <source>Back to the list of stored baskets</source>
+        <target state="translated">Torna alla lista dei carrelli memorizzati</target>
+        <note>key: label.stored_basket_back_to_list</note>
+      </trans-unit>
+      <trans-unit id="0fd80622a281c66ad54fd8b88dfe5aef736ae7f5" resname="label.your_invoice_number">
+        <source>Your invoice number</source>
+        <target state="translated">Il numero della fattura</target>
+        <note>key: label.your_invoice_number</note>
+      </trans-unit>
+      <trans-unit id="7a078c46dc501209a48b88b6a86b74d370b5ba0f" resname="max|amount">
+        <source>maximum</source>
+        <target state="translated">massimo</target>
+        <note>key: max|amount</note>
+      </trans-unit>
+      <trans-unit id="7477e0186b8137c2bfe744647d9a833550114778" resname="min|amount">
+        <source>minimum</source>
+        <target state="translated">minimo</target>
+        <note>key: min|amount</note>
+      </trans-unit>
+      <trans-unit id="8e7be411ad89ade93d144531f3925d0bb4011004" resname="mr">
+        <source>Mr</source>
+        <target state="translated">Sig.</target>
+        <note>key: mr</note>
+      </trans-unit>
+      <trans-unit id="a9937de3c5d9a091a742e0696b2b64071260b30d" resname="mrs">
+        <source>Mrs</source>
+        <target state="translated">Sig.ra</target>
+        <note>key: mrs</note>
+      </trans-unit>
+      <trans-unit id="92ad826b7cf6907f33a2667aff3c965be3ce8be2" resname="msg.limit_of_characters">
+        <source>The number of characters is limited to</source>
+        <target state="translated">Il numero di caratteri è limitato a</target>
+        <note>key: msg.limit_of_characters</note>
+      </trans-unit>
+      <trans-unit id="67f2780c4e375d06c1737626c9f828052481a03a" resname="msg.max_amount_payment_error">
+        <source>Your order exceeded the maximum allowed amount of %maxAmount%. Please contact our customer support!</source>
+        <target state="translated">Il tuo ordine ha superato l'importo massimo consentito di% maxAmount%. Si prega di contattare il nostro servizio clienti!</target>
+        <note>key: msg.max_amount_payment_error</note>
+      </trans-unit>
+      <trans-unit id="7b52d1f558efee98c47e10c4595a6142e84d4399" resname="msg.order_button_accept_all">
+        <source>Please accept our terms and conditions, data protection and cancellation policies before you proceed with your order.</source>
+        <target state="translated">Si prega di accettare i nostri termini e condizioni, la protezione dei dati e le politiche di cancellazione prima di procedere con l'ordine.</target>
+        <note>key: msg.order_button_accept_all</note>
+      </trans-unit>
+      <trans-unit id="2eca188ee36e52f37db9fb42d3e453b5ef67ebf9" resname="msg.order_button_terms_and_conditions">
+        <source>Please accept our terms and conditions before you proceed with your order.</source>
+        <target state="translated">Si prega di accettare i nostri termini e condizioni prima di procedere con l'ordine.</target>
+        <note>key: msg.order_button_terms_and_conditions</note>
+      </trans-unit>
+      <trans-unit id="c49a8318ae253e81381b6a2347e9f37d3b5b86af" resname="msg.prices_changed_before_ordering">
+        <source><![CDATA[Attention, the price for the products: %skuList% has been changed in our system. Please visit your <a href='%basketUrl%'>basket</a>, where you can possibly delete them.]]></source>
+        <target state="translated"><![CDATA[Attenzione, il prezzo dei prodotti:% skuList% è stato modificato nel nostro sistema. Visita il tuo <a href='%basketUrl%'> carrello </a>, dove puoi eventualmente eliminarli.]]></target>
+        <note>key: msg.prices_changed_before_ordering</note>
+      </trans-unit>
+      <trans-unit id="17e113685d39d9a7b762319af9761a11152657dc" resname="msg.prices_changed_confirm_basket">
+        <source>The prices in your basket have been updated. Here you have the possibility to check them again.</source>
+        <target state="translated">I prezzi nel carrello sono stati aggiornati. Qui hai la possibilità di controllarli di nuovo.</target>
+        <note>key: msg.prices_changed_confirm_basket</note>
+      </trans-unit>
+      <trans-unit id="fd2b9a8677900a358fe0b775fc5280fcaf3ce755" resname="msg.prices_changed_return_basket">
+        <source><![CDATA[Please visit your <a href='%basketUrl%'>basket</a> and check your updated prices.]]></source>
+        <target state="translated"><![CDATA[Visita il tuo <a href='%basketUrl%'> carrello </a> e controlla i tuoi prezzi aggiornati.]]></target>
+        <note>key: msg.prices_changed_return_basket</note>
+      </trans-unit>
+      <trans-unit id="a389234aa210f8a8d899ed6789bcd4af422357f8" resname="paypal_express_checkout">
+        <source>Paypal</source>
+        <target state="translated">Paypal</target>
+        <note>key: paypal_express_checkout</note>
+      </trans-unit>
+      <trans-unit id="37eacc4cce2476ee33e7faaabc7e72740c2fb902" resname="send to this address">
+        <source>Send to this address</source>
+        <target state="translated">Invia a questo indirizzo</target>
+        <note>key: send to this address</note>
+      </trans-unit>
+      <trans-unit id="2cf78c9cf8e9afe4f1bf29d8756d66f749e4b3c2" resname="standard_mail">
+        <source>Standard mail</source>
+        <target state="translated">Posta standard</target>
+        <note>key: standard_mail</note>
+      </trans-unit>
+      <trans-unit id="2944eb4f675a888cafb0254877a38b0799b62636" resname="storedBasket">
+        <source>stored basket</source>
+        <target state="translated">carrello memorizzato</target>
+        <note>key: storedBasket</note>
+      </trans-unit>
+      <trans-unit id="b4420e24f76067870051aaed7dbf7388bf56cd46" resname="wishList">
+        <source>wishList</source>
+        <target state="translated">Lista dei desideri</target>
+        <note>key: wishList</note>
       </trans-unit>
     </body>
   </file>
