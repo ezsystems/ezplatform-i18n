@@ -11,6 +11,16 @@
         <target state="translated">Inhalt auswählen</target>
         <note>key: block.collection.select.content</note>
       </trans-unit>
+      <trans-unit id="09c5180f1ea143dcc29686f8b1e07a71d76be34c" resname="block.schedule.now_showing">
+        <source>Now showing</source>
+        <target state="translated">Jetzt zeigen</target>
+        <note>key: block.schedule.now_showing</note>
+      </trans-unit>
+      <trans-unit id="e18cee9ec72c04e9a963ad6f46412cbb20326e6e" resname="block.schedule.queue">
+        <source>Queue</source>
+        <target state="translated">Warteschlange</target>
+        <note>key: block.schedule.queue</note>
+      </trans-unit>
       <trans-unit id="8f471b1b27d61346fdea81d93fc467fe08637010" resname="page_builder.block_configuration.class">
         <source>Class</source>
         <target state="translated">Klasse</target>
