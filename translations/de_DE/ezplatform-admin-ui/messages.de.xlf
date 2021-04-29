@@ -31,6 +31,11 @@
         <target state="translated">Aus Sicherheitsgründen ist Ihr Kennwort abgelaufen und muss geändert werden. Eine E-Mail wurde mit Anweisungen an Sie gesendet.</target>
         <note>key: authentication.credentials_expired.message</note>
       </trans-unit>
+      <trans-unit id="2b3f00f63c14c6dc9300d54b42159218f6b5f260" resname="authentication.credentials_expired.reset_password">
+        <source>Reset password</source>
+        <target state="translated">Passwort zurücksetzen</target>
+        <note>key: authentication.credentials_expired.reset_password</note>
+      </trans-unit>
       <trans-unit id="d2293b387ecddbc6173fd579abd37873fcbc5e97" resname="authentication.forgot_password">
         <source>Forgot password?</source>
         <target state="translated">Passwort vergessen?</target>
@@ -71,6 +76,26 @@
         <target state="translated">Benutzereinstellungen</target>
         <note>key: breadcrumb.user_preferences</note>
       </trans-unit>
+      <trans-unit id="d23f0200b4769a69d2414de6d96117fed4601326" resname="character_counter.characters">
+        <source>characters</source>
+        <target state="translated">Zeichen</target>
+        <note>key: character_counter.characters</note>
+      </trans-unit>
+      <trans-unit id="b3640cba0a21cf24519f469dc0bf31c036efdc28" resname="character_counter.words">
+        <source>words</source>
+        <target state="translated">Wörter</target>
+        <note>key: character_counter.words</note>
+      </trans-unit>
+      <trans-unit id="22d5072ec8766c24df085f05aaeda403f02ec585" resname="content.hide.modal.cancel">
+        <source>Cancel</source>
+        <target state="translated">Abbrechen</target>
+        <note>key: content.hide.modal.cancel</note>
+      </trans-unit>
+      <trans-unit id="0d905b86763ff15a40c8c15f0960d6038bdfd008" resname="content.hide.modal.confirm">
+        <source>Confirm</source>
+        <target state="translated">Bestätigen</target>
+        <note>key: content.hide.modal.confirm</note>
+      </trans-unit>
       <trans-unit id="5c48055acad8df653edc1f8f65130d784fed3d88" resname="content.hide.modal.please_confirm_to_continue">
         <source>If you wish to continue, please click on Confirm.</source>
         <target state="translated">Wenn Sie fortfahren möchten, klicken Sie bitte auf Bestätigen.</target>
@@ -90,6 +115,26 @@
         <source>In Trash</source>
         <target state="translated">In Papierkorb</target>
         <note>key: content.in_trash</note>
+      </trans-unit>
+      <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
+        <source>%identifier%</source>
+        <target state="translated">%identifier%</target>
+        <note>key: content_type.breadcrumb.view</note>
+      </trans-unit>
+      <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
+        <source>%name%</source>
+        <target state="translated">%name%</target>
+        <note>key: content_type.view.view.title</note>
+      </trans-unit>
+      <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
+        <source>Content Types</source>
+        <target state="translated">Inhaltstypen</target>
+        <note>key: content_type_group.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
+        <source>%identifier%</source>
+        <target state="translated">%identifier%</target>
+        <note>key: content_type_group.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="fe1c876b1a9bcde155f03227bce4ae4fbd54c24f" resname="custom_url_alias_add_form.add">
         <source>Create</source>
@@ -258,6 +303,11 @@
         <source>Swap the content item at this location with another</source>
         <target state="translated">Tauschen des Inhalts mit einem anderen Ort</target>
         <note>key: tab.locations.swap_with_another</note>
+      </trans-unit>
+      <trans-unit id="1246bcf8752e249bdec2067d43cfae2a5103bc5f" resname="tab.view.preview">
+        <source>Preview</source>
+        <target state="translated">Vorschau</target>
+        <note>key: tab.view.preview</note>
       </trans-unit>
       <trans-unit id="4e7901a215220faba4d546cd3fb63f3e2a64e849" resname="trash.delete.all.confirm">
         <source>Are you sure you want to permanently delete %trashItemsCount% item(s)?</source>
