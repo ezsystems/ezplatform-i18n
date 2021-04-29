@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="c418f83922f6a4ea7412120a3b731a3e8665eead" resname="policy_create.update">
         <source>Update</source>
-        <target state="translated">Aktualisieren</target>
+        <target state="translated">Aktualisierung</target>
         <note>key: policy_create.update</note>
       </trans-unit>
       <trans-unit id="05cc1fd4658faa760de6e98cb71e1054157e63a0" resname="policy_delete.delete">
