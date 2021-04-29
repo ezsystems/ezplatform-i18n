@@ -61,9 +61,9 @@
         <target state="translated">Etichetta per il campo</target>
         <note>key: dashboard.table.name</note>
       </trans-unit>
-      <trans-unit id="783d5adc52cea6b0cc80c2083158297f31a8d59d" resname="dashboard.table.version">
+      <trans-unit id="783d5adc52cea6b0cc80c2083158297f31a8d59d" resname="dashboard.table.version" approved="yes">
         <source>Version</source>
-        <target state="translated">Versione</target>
+        <target state="final">Versione</target>
         <note>key: dashboard.table.version</note>
       </trans-unit>
       <trans-unit id="013cb5f0c7391fd9db25ef277f72bd0d3b62a0e3" resname="my.dashboard" approved="yes">
