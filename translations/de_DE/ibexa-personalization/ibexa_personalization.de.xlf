@@ -1822,6 +1822,398 @@
         <target state="translated">Bestehende Gruppen</target>
         <note>key: models.submodel.existing_groups</note>
       </trans-unit>
+      <trans-unit id="fe6da97faca39d83d4e9107003d9a7604dc7e29b" resname="models.submodel.existing_ranges">
+        <source>Interval ranges</source>
+        <target state="translated">Intervallbereiche</target>
+        <note>key: models.submodel.existing_ranges</note>
+      </trans-unit>
+      <trans-unit id="66edc6fbb25029de99a8e6cf994f4b45938ddfe4" resname="models.submodels.interval-ranges">
+        <source>Interval ranges</source>
+        <target state="translated">Intervallbereiche</target>
+        <note>key: models.submodels.interval-ranges</note>
+      </trans-unit>
+      <trans-unit id="45fd1ac5513c46503322f526685fbf38f352c0d9" resname="models.table_title">
+        <source>Models (%number_of_models%)</source>
+        <target state="translated">Modelle (% number_of_models%)</target>
+        <note>key: models.table_title</note>
+      </trans-unit>
+      <trans-unit id="112232a33b21f504ff84142346bc3159c744ba52" resname="models.udw_title">
+        <source>Select items</source>
+        <target state="translated">Gegenstände auswählen</target>
+        <note>key: models.udw_title</note>
+      </trans-unit>
+      <trans-unit id="957226291e073ca677e6d8832df124c10ca75005" resname="number.format.million_abbreviation">
+        <source>M</source>
+        <target state="translated">M</target>
+        <note>key: number.format.million_abbreviation</note>
+      </trans-unit>
+      <trans-unit id="a0880a6e534e9e8274303ceca4e82de53c2894ce" resname="number.format.thousand_abbreviation">
+        <source>K</source>
+        <target state="translated">K</target>
+        <note>key: number.format.thousand_abbreviation</note>
+      </trans-unit>
+      <trans-unit id="2450f91d0471b0d58b2328dbf2a6e8b4e8be3f63" resname="recommendation_engine_is_not_available">
+        <source>Recommendation engine is not available. Please try again later.</source>
+        <target state="translated">Empfehlungs-Engine ist nicht verfügbar. Bitte versuchen Sie es später noch einmal.</target>
+        <note>key: recommendation_engine_is_not_available</note>
+      </trans-unit>
+      <trans-unit id="eb4217fde2a12c79783d63d45ec301ef4f75e193" resname="sceanrio.create">
+        <source>Scenario create</source>
+        <target state="translated">Szenario erstellen</target>
+        <note>key: sceanrio.create</note>
+      </trans-unit>
+      <trans-unit id="f4e63e760ed8acfe83fe7bb8f0fe4cb0f5df174a" resname="sceanrio.edit">
+        <source>Scenario edit</source>
+        <target state="translated">Szenario bearbeiten</target>
+        <note>key: sceanrio.edit</note>
+      </trans-unit>
+      <trans-unit id="a622e8ae135f0a75929d972bb9e4d15b7775966e" resname="scenario.add_tooltip">
+        <source>Add scenario</source>
+        <target state="translated">Szenario hinzufügen</target>
+        <note>key: scenario.add_tooltip</note>
+      </trans-unit>
+      <trans-unit id="0822a677a1f1f08b54b364856fed6e26c196270c" resname="scenario.commerce_settings.do_not_recommend_if_price_unknown">
+        <source>Do not recommend if price unknown</source>
+        <target state="translated">Nicht empfehlen, wenn Preis unbekannt</target>
+        <note>key: scenario.commerce_settings.do_not_recommend_if_price_unknown</note>
+      </trans-unit>
+      <trans-unit id="e158a5de95cd44e2fef6d556108abe393fe57132" resname="scenario.commerce_settings.do_not_recommend_items_the_user_already_purchased">
+        <source>Do not recommend items the user already purchased</source>
+        <target state="translated">Empfehlen Sie keine Artikel, die der Benutzer bereits gekauft hat</target>
+        <note>key: scenario.commerce_settings.do_not_recommend_items_the_user_already_purchased</note>
+      </trans-unit>
+      <trans-unit id="e309221943467a614f28d6298bede4cf792e5542" resname="scenario.commerce_settings.item_price_should_equal_or_higher_than_the_price_of_the_context_item">
+        <source>Item price should equal or higher than the price of the context item</source>
+        <target state="translated">Der Artikelpreis sollte gleich oder höher sein als der Preis des Kontextartikels</target>
+        <note>key: scenario.commerce_settings.item_price_should_equal_or_higher_than_the_price_of_the_context_item</note>
+      </trans-unit>
+      <trans-unit id="a3cc484345546bc4f57f6d9660bbc435d685ac5c" resname="scenario.commerce_settings.minimum_price_of_the_recommended_product">
+        <source>Minimum price of the recommended product</source>
+        <target state="translated">Mindestpreis des empfohlenen Produkts</target>
+        <note>key: scenario.commerce_settings.minimum_price_of_the_recommended_product</note>
+      </trans-unit>
+      <trans-unit id="4108cf98b6abe211775013949207684f9e3b68ae" resname="scenario.commerce_settings.no_top_selling_items">
+        <source>No top-selling items</source>
+        <target state="translated">Keine meistverkauften Artikel</target>
+        <note>key: scenario.commerce_settings.no_top_selling_items</note>
+      </trans-unit>
+      <trans-unit id="d8197217fd483a87acdcbca16ba178604e08f6ea" resname="scenario.edit.general">
+        <source>General</source>
+        <target state="translated">Allgemeines</target>
+        <note>key: scenario.edit.general</note>
+      </trans-unit>
+      <trans-unit id="8298a563f955af99e2518cdc3457641c009211b3" resname="scenario.edit.startegy.models">
+        <source>Models</source>
+        <target state="translated">Modelle</target>
+        <note>key: scenario.edit.startegy.models</note>
+      </trans-unit>
+      <trans-unit id="f1cc5c8c3171ac0d39eb47bccfc540099c5ea56f" resname="scenario.edit.startegy.startegy">
+        <source>Strategy</source>
+        <target state="translated">Strategie</target>
+        <note>key: scenario.edit.startegy.startegy</note>
+      </trans-unit>
+      <trans-unit id="de9253aa04bc0ab8be4e0851ba3cc12dec3d7487" resname="scenario.edit.strategy">
+        <source>Strategy</source>
+        <target state="translated">Strategie</target>
+        <note>key: scenario.edit.strategy</note>
+      </trans-unit>
+      <trans-unit id="42cc1557b7e4cefd98a1be34903f1b81a139bcf8" resname="scenario.fail_safe_models">
+        <source>Fail safe</source>
+        <target state="translated">Fail safe</target>
+        <note>key: scenario.fail_safe_models</note>
+      </trans-unit>
+      <trans-unit id="07d18774e803e0bfc4ef8891b733e24f90d5318b" resname="scenario.identifier">
+        <source>Identifier</source>
+        <target state="translated">Kennung</target>
+        <note>key: scenario.identifier</note>
+      </trans-unit>
+      <trans-unit id="b0d7aa4b4044afdbd36954c30159cbc71c65da40" resname="scenario.input_type">
+        <source>Input type</source>
+        <target state="translated">Eingabetyp</target>
+        <note>key: scenario.input_type</note>
+      </trans-unit>
+      <trans-unit id="fd21013add7516ec3651ffe859a657139df441ab" resname="scenario.models">
+        <source>Models</source>
+        <target state="translated">Modelle</target>
+        <note>key: scenario.models</note>
+      </trans-unit>
+      <trans-unit id="3083439c9902ccfffb2ff72255ef411b19bca456" resname="scenario.name">
+        <source>Name</source>
+        <target state="translated">Name</target>
+        <note>key: scenario.name</note>
+      </trans-unit>
+      <trans-unit id="6695909a6c8e844c791c23966b14944ea7eb47a3" resname="scenario.no_of_calls">
+        <source>No. of calls</source>
+        <target state="translated">Anzahl der Anrufe</target>
+        <note>key: scenario.no_of_calls</note>
+      </trans-unit>
+      <trans-unit id="0aada337ced6d6927b27360e60e7dab84a46b821" resname="scenario.no_scenarios_found">
+        <source>No scenarios found</source>
+        <target state="translated">Keine Szenarien gefunden</target>
+        <note>key: scenario.no_scenarios_found</note>
+      </trans-unit>
+      <trans-unit id="d8df16553d118738193650285b6cbf2eeace1a07" resname="scenario.non_operational">
+        <source>non-operational</source>
+        <target state="translated">nicht betriebsbereit</target>
+        <note>key: scenario.non_operational</note>
+      </trans-unit>
+      <trans-unit id="96f4e9998929f7d5ab572e85b5d3b35b49543849" resname="scenario.operational">
+        <source>operational</source>
+        <target state="translated">betriebsbereit</target>
+        <note>key: scenario.operational</note>
+      </trans-unit>
+      <trans-unit id="9aaed75dcdd718cf02f0131e529fd584dee89b7a" resname="scenario.output_type">
+        <source>Output type</source>
+        <target state="translated">Ausgabetyp</target>
+        <note>key: scenario.output_type</note>
+      </trans-unit>
+      <trans-unit id="107c9129ae6652034044529556da977306ed8f50" resname="scenario.strategy.category_level_and_below">
+        <source>category level(s) and below</source>
+        <target state="translated">Kategorieebene (n) und darunter</target>
+        <note>key: scenario.strategy.category_level_and_below</note>
+      </trans-unit>
+      <trans-unit id="3dbd0107cf6aa0fa0e3879a67983c54363337740" resname="scenario.strategy.discard">
+        <source>Discard</source>
+        <target state="translated">Verwerfen</target>
+        <note>key: scenario.strategy.discard</note>
+      </trans-unit>
+      <trans-unit id="1ccee020b75348f4618bd5c3c6d664751ac85df9" resname="scenario.strategy.fail_safe">
+        <source>Fail-safe</source>
+        <target state="translated">Ausfallsicher</target>
+        <note>key: scenario.strategy.fail_safe</note>
+      </trans-unit>
+      <trans-unit id="49bec5eeb413d40d2553c1db56438d40986f1b13" resname="scenario.strategy.fallback_name">
+        <source>Fall-back</source>
+        <target state="translated">Zurückgreifen</target>
+        <note>key: scenario.strategy.fallback_name</note>
+      </trans-unit>
+      <trans-unit id="140981d2f6a8cfed9ffa92ee5386a8f6ea725d1c" resname="scenario.strategy.include_parent_category_and_subcategories">
+        <source>Also include the parent category and its subcategories</source>
+        <target state="translated">Schließen Sie auch die übergeordnete Kategorie und ihre Unterkategorien ein</target>
+        <note>key: scenario.strategy.include_parent_category_and_subcategories</note>
+      </trans-unit>
+      <trans-unit id="b5ac7094ba86de6ba7937f4eceb62c3b582697f5" resname="scenario.strategy.levels_up">
+        <source>level(s) up</source>
+        <target state="translated">Level (s) auf</target>
+        <note>key: scenario.strategy.levels_up</note>
+      </trans-unit>
+      <trans-unit id="9126ba347d953620c4df03f9ca32c1313b1f8702" resname="scenario.strategy.primary_models_name">
+        <source>Primary models</source>
+        <target state="translated">Primärmodelle</target>
+        <note>key: scenario.strategy.primary_models_name</note>
+      </trans-unit>
+      <trans-unit id="6c7d37f03ac54dc1dae5ce4267f7e28c8b043083" resname="scenario.strategy.recommend_items_from_same_category">
+        <source>Recommend items from the same category</source>
+        <target state="translated">Empfehlen Sie Artikel aus derselben Kategorie</target>
+        <note>key: scenario.strategy.recommend_items_from_same_category</note>
+      </trans-unit>
+      <trans-unit id="87e5d3204107b987171998db73732519da6c0467" resname="scenario.strategy.recommend_items_from_same_main_category_and_subcategories">
+        <source>Recommend items from the same main category and its subcategories</source>
+        <target state="translated">Empfehlen Sie Artikel aus derselben Hauptkategorie und ihren Unterkategorien</target>
+        <note>key: scenario.strategy.recommend_items_from_same_main_category_and_subcategories</note>
+      </trans-unit>
+      <trans-unit id="c28ab504e134d797dea65b13e4e3dfb74c6e38e9" resname="scenario.strategy.recommend_items_from_whole_site">
+        <source>Recommend items from the whole site</source>
+        <target state="translated">Empfehlen Sie Artikel von der gesamten Website</target>
+        <note>key: scenario.strategy.recommend_items_from_whole_site</note>
+      </trans-unit>
+      <trans-unit id="8c4cca6eaff42db3e1c8afa8ad54dbf86b20fb64" resname="scenario.strategy.save">
+        <source>Save</source>
+        <target state="translated">Speichern</target>
+        <note>key: scenario.strategy.save</note>
+      </trans-unit>
+      <trans-unit id="80dd45134e009a3446f7edd47881b631b1274136" resname="scenario.strategy.ultimately_fail_safe">
+        <source>Ultimately Fail-safe</source>
+        <target state="translated">Letztendlich ausfallsicher</target>
+        <note>key: scenario.strategy.ultimately_fail_safe</note>
+      </trans-unit>
+      <trans-unit id="e898621a4b60709756ebe7975a5a138b33b3495e" resname="scenario.strategy_fall_back">
+        <source>Fall-back models</source>
+        <target state="translated">Rückwärtsmodelle</target>
+        <note>key: scenario.strategy_fall_back</note>
+      </trans-unit>
+      <trans-unit id="2bccde9b875fb14154bc1dcf1582c4ebd53e9c5c" resname="scenario.strategy_model_context.automatic">
+        <source>Automatic</source>
+        <target state="translated">Automatisch</target>
+        <note>key: scenario.strategy_model_context.automatic</note>
+      </trans-unit>
+      <trans-unit id="69a5692016c7345acfa9c3609786e328f279c3c6" resname="scenario.strategy_model_context.basket_history">
+        <source>Basket History</source>
+        <target state="translated">Einkaufswagen Geschichte</target>
+        <note>key: scenario.strategy_model_context.basket_history</note>
+      </trans-unit>
+      <trans-unit id="4a1705839501095c591bd8ae405ff67653c24762" resname="scenario.strategy_model_context.buy_history">
+        <source>Buy History</source>
+        <target state="translated">Geschichte kaufen</target>
+        <note>key: scenario.strategy_model_context.buy_history</note>
+      </trans-unit>
+      <trans-unit id="44b194ebf7e71aa9e19d33bdc235395ed752f401" resname="scenario.strategy_model_context.click_history">
+        <source>Click History</source>
+        <target state="translated">Klicken Sie auf Verlauf</target>
+        <note>key: scenario.strategy_model_context.click_history</note>
+      </trans-unit>
+      <trans-unit id="3de7cd4c96bb6fba616f8a9deeb0cace9e82ecc8" resname="scenario.strategy_model_context.consume_history">
+        <source>Consume History</source>
+        <target state="translated">Geschichte verbrauchen</target>
+        <note>key: scenario.strategy_model_context.consume_history</note>
+      </trans-unit>
+      <trans-unit id="af4a226dbe1c9b3cfc58aac3c434d551e27e67db" resname="scenario.strategy_model_context.no_context">
+        <source>No context</source>
+        <target state="translated">Kein Kontext</target>
+        <note>key: scenario.strategy_model_context.no_context</note>
+      </trans-unit>
+      <trans-unit id="4b88491ba4470791efc4de43b5ea8eb544f6d26b" resname="scenario.strategy_model_context.page_context">
+        <source>Page Context</source>
+        <target state="translated">Seitenkontext</target>
+        <note>key: scenario.strategy_model_context.page_context</note>
+      </trans-unit>
+      <trans-unit id="19507ec33944fda4ba11fde0a2ec95921725cbad" resname="scenario.strategy_model_context.rate_history">
+        <source>Rate History</source>
+        <target state="translated">Bewertungsverlauf</target>
+        <note>key: scenario.strategy_model_context.rate_history</note>
+      </trans-unit>
+      <trans-unit id="793cca0d1d52f41c1c94b704661258da220fe9e3" resname="scenario.strategy_primary_models">
+        <source>Primary models</source>
+        <target state="translated">Primärmodelle</target>
+        <note>key: scenario.strategy_primary_models</note>
+      </trans-unit>
+      <trans-unit id="3c66f443e1262186fe4a4cc853b50f1da743b6e1" resname="scenario.strategy_ultimately_fail_safe">
+        <source>Ultimately Fail-safe</source>
+        <target state="translated">Letztendlich ausfallsicher</target>
+        <note>key: scenario.strategy_ultimately_fail_safe</note>
+      </trans-unit>
+      <trans-unit id="1c18b5e05f3859be35785ef62bf6e409c994ad62" resname="scenario.user_profile_settings.boost_item">
+        <source>Boost item, if a user has an attribute with the same value</source>
+        <target state="translated">Boost-Element, wenn ein Benutzer ein Attribut mit demselben Wert hat</target>
+        <note>key: scenario.user_profile_settings.boost_item</note>
+      </trans-unit>
+      <trans-unit id="b86c9a67a8c8aa01decdd751cc70566e3ec58e3c" resname="scenario.user_profile_settings.do_not_recommend_items_the_user_already_consumed">
+        <source>Do not recommend items the user already consumed</source>
+        <target state="translated">Empfehlen Sie keine Artikel, die der Benutzer bereits konsumiert hat</target>
+        <note>key: scenario.user_profile_settings.do_not_recommend_items_the_user_already_consumed</note>
+      </trans-unit>
+      <trans-unit id="c3068f9af427a358f24161fa2166476d4e6b9601" resname="scenario.user_profile_settings.do_not_recommend_the_item_currently_viewed">
+        <source>Do not recommend the item currently viewed</source>
+        <target state="translated">Empfehlen Sie den aktuell angezeigten Artikel nicht weiter</target>
+        <note>key: scenario.user_profile_settings.do_not_recommend_the_item_currently_viewed</note>
+      </trans-unit>
+      <trans-unit id="96eb1be0f79951ab878db92f25dc4278b4d2c6e7" resname="scenario.user_profile_settings.max_repeated_shows_of_identical_recommendation_per_session">
+        <source>Max. repeated shows of identical recommendations per session.</source>
+        <target state="translated">Max. wiederholte Shows identischer Empfehlungen pro Sitzung.
+
+</target>
+        <note>key: scenario.user_profile_settings.max_repeated_shows_of_identical_recommendation_per_session</note>
+      </trans-unit>
+      <trans-unit id="1980b9fa8e8bf0d104cc996e3ea9035e6a2cbae8" resname="scenario.user_profile_settings.user_attribute_has_different_name">
+        <source>User attribute has different name</source>
+        <target state="translated">Benutzerattribut hat einen anderen Namen</target>
+        <note>key: scenario.user_profile_settings.user_attribute_has_different_name</note>
+      </trans-unit>
+      <trans-unit id="c254d16c513c1602851e083143881a5b23ebd8ed" resname="scenarios">
+        <source>Scenarios</source>
+        <target state="translated">Szenarien</target>
+        <note>key: scenarios</note>
+      </trans-unit>
+      <trans-unit id="c0f835b914edd303384366f2440d18d56374da6d" resname="scenarios.preview.add_attribute_error">
+        <source>Fill attribute value</source>
+        <target state="translated">Attributwert füllen</target>
+        <note>key: scenarios.preview.add_attribute_error</note>
+      </trans-unit>
+      <trans-unit id="ef40a5d0aaf9edb8b92adf79055896b43096d442" resname="scenarios.preview.add_context_item_error">
+        <source>Fill context item value</source>
+        <target state="translated">Füllen Sie den Kontextelementwert aus</target>
+        <note>key: scenarios.preview.add_context_item_error</note>
+      </trans-unit>
+      <trans-unit id="c7bc8b0d733191b7128bbbe79b1c883ae157c90c" resname="scenarios.table_title">
+        <source>Scenarios (%number_of_scenarios%)</source>
+        <target state="translated">Szenarien (%number_of_scenarios%)</target>
+        <note>key: scenarios.table_title</note>
+      </trans-unit>
+      <trans-unit id="309c15d00bf4d8ba6998adfa12bbae21fe99ffd3" resname="settings.form.installation_key">
+        <source>Installation key</source>
+        <target state="translated">Installationsschlüssel</target>
+        <note>key: settings.form.installation_key</note>
+      </trans-unit>
+      <trans-unit id="7b60fe663504c123790a0b4d779d141fb7eee8aa" resname="settings.form.submit">
+        <source>Save</source>
+        <target state="translated">Speichern</target>
+        <note>key: settings.form.submit</note>
+      </trans-unit>
+      <trans-unit id="4211a967e3d409c7706659ececa942e83ea4475d" resname="welcome.description.leverage_personalization">
+        <source>Unified digital experiences can't be supported by data silos. Enrich your customer data by integrating Ibexa Personalization capabilities with existing business systems to boost the power of your personalized customer experiences.</source>
+        <target state="translated">Einheitliche digitale Erlebnisse können von Datensilos nicht unterstützt werden. Bereichern Sie Ihre Kundendaten durch die Integration von Ibexa Personalization-Funktionen in vorhandene Geschäftssysteme, um die Leistungsfähigkeit Ihrer personalisierten Kundenerlebnisse zu steigern.</target>
+        <note>key: welcome.description.leverage_personalization</note>
+      </trans-unit>
+      <trans-unit id="d474abac7f14c0c45306be8d7fa39d1bb1149ff8" resname="welcome.description.target_and_personalize">
+        <source>Listen to your users and capture their preferences and specific interests to offer personalized content. Empower your editorial and marketing teams to leverage this information to better target what content will be most relevant to each user.</source>
+        <target state="translated">Hören Sie Ihren Benutzern zu und erfassen Sie deren Vorlieben und spezifische Interessen, um personalisierte Inhalte anzubieten. Ermöglichen Sie Ihren Redaktions- und Marketingteams, diese Informationen zu nutzen, um besser zu bestimmen, welche Inhalte für jeden Benutzer am relevantesten sind.</target>
+        <note>key: welcome.description.target_and_personalize</note>
+      </trans-unit>
+      <trans-unit id="09d565452082f720af42e27a5494cc88dc915077" resname="welcome.form.invalid_installation_key">
+        <source>This installation key is not valid.</source>
+        <target state="translated">Dieser Installationsschlüssel ist ungültig.</target>
+        <note>key: welcome.form.invalid_installation_key</note>
+      </trans-unit>
+      <trans-unit id="26fe3943f55014fcf43f195f3b9fec2c07efc3f3" resname="welcome.link.developer_documentation">
+        <source>Developer documentation</source>
+        <target state="translated">Entwicklerdokumentation</target>
+        <note>key: welcome.link.developer_documentation</note>
+      </trans-unit>
+      <trans-unit id="15bd28c2e2c2ac4f19f21c2ea72901f04110a1fe" resname="welcome.link.product_description">
+        <source>Product description</source>
+        <target state="translated">Produktbeschreibung</target>
+        <note>key: welcome.link.product_description</note>
+      </trans-unit>
+      <trans-unit id="b871c85b6908215a4bf197e57b217dc2365a8be8" resname="welcome.link.user_documentation">
+        <source>User documentation</source>
+        <target state="translated">Benutzerdokumentation</target>
+        <note>key: welcome.link.user_documentation</note>
+      </trans-unit>
+      <trans-unit id="62e2122586e447622cf0b1bdf8acf7dc62f6600f" resname="welcome.subtitle">
+        <source>Personalize every part of your Customer Experience</source>
+        <target state="translated">Personalisieren Sie jeden Teil Ihrer Kundenerfahrung</target>
+        <note>key: welcome.subtitle</note>
+      </trans-unit>
+      <trans-unit id="4535cf1ab875d58841ddf3f2fadc87f84c6c5e68" resname="welcome.terms.accept">
+        <source>Accept</source>
+        <target state="translated">Akzeptieren</target>
+        <note>key: welcome.terms.accept</note>
+      </trans-unit>
+      <trans-unit id="099ebf8b2b9aa235a7dbcfb79fc0d522be42eb7d" resname="welcome.terms.download_pdf">
+        <source>Download PDF</source>
+        <target state="translated">PDF Herunterladen</target>
+        <note>key: welcome.terms.download_pdf</note>
+      </trans-unit>
+      <trans-unit id="3b055403c050c64d43114df3792df1ced71d84f3" resname="welcome.terms.table_of_contents">
+        <source>Table of contents</source>
+        <target state="translated">Inhaltsverzeichnis</target>
+        <note>key: welcome.terms.table_of_contents</note>
+      </trans-unit>
+      <trans-unit id="1fdb5ec00f03e84d7b41ffb68e5f77c10182196c" resname="welcome.terms.terms_and_conditions">
+        <source>Terms and conditions</source>
+        <target state="translated">Geschäftsbedingungen</target>
+        <note>key: welcome.terms.terms_and_conditions</note>
+      </trans-unit>
+      <trans-unit id="363496cd7f043616a71338c37d9464559580278b" resname="welcome.title">
+        <source>Welcome to Ibexa Personalization</source>
+        <target state="translated">Willkommen bei Ibexa Personalization</target>
+        <note>key: welcome.title</note>
+      </trans-unit>
+      <trans-unit id="80a2ba9054260eef7b96f8dcde4fd14b75381f32" resname="welcome.title.leverage_personalization">
+        <source>Leverage personalization data across your business</source>
+        <target state="translated">Nutzen Sie Personalisierungsdaten in Ihrem Unternehmen</target>
+        <note>key: welcome.title.leverage_personalization</note>
+      </trans-unit>
+      <trans-unit id="986596df65f1c63399c824776e40ff53320b68c0" resname="welcome.title.please_visit">
+        <source>To find out more, please visit</source>
+        <target state="translated">Um mehr zu erfahren, besuchen Sie bitte</target>
+        <note>key: welcome.title.please_visit</note>
+      </trans-unit>
+      <trans-unit id="2b8f74b3c839315414dc831a80c31d132a76b8eb" resname="welcome.title.target_and_personalize">
+        <source><![CDATA[Target & personalize with user choices]]></source>
+        <target state="translated"><![CDATA[Zielgruppe und Personalisierung mit Benutzerauswahl]]></target>
+        <note>key: welcome.title.target_and_personalize</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
