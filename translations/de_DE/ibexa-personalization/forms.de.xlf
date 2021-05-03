@@ -6,10 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
+      <trans-unit id="15c3ffad9d90e7d492d275a9ea05ecdcdedaace5" resname="role.policy.personalization">
+        <source>Personalization</source>
+        <target state="translated">Personalisierung</target>
+        <note>key: role.policy.personalization</note>
+      </trans-unit>
+      <trans-unit id="8adcce777544fc53bd13ae39edf718d764867cc2" resname="role.policy.personalization.all_functions">
+        <source>Personalization / All functions</source>
+        <target state="translated">Personalisierung / Alle Funktionen</target>
+        <note>key: role.policy.personalization.all_functions</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
