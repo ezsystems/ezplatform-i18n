@@ -16,6 +16,18 @@
         <target state="translated">Personalisierung / Alle Funktionen</target>
         <note>key: role.policy.personalization.all_functions</note>
       </trans-unit>
+      <trans-unit id="47b6be1f552d856d8dbea0a9956632d310887e11" resname="role.policy.personalization.edit">
+        <source>Personalization / Edit</source>
+        <target state="translated">Personalisierung / Bearbeiten
+
+</target>
+        <note>key: role.policy.personalization.edit</note>
+      </trans-unit>
+      <trans-unit id="bef74c3cccc66abd5825c05aa8f58b020270197f" resname="role.policy.personalization.view">
+        <source>Personalization / View</source>
+        <target state="translated">Personalisierung / Ansicht</target>
+        <note>key: role.policy.personalization.view</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
