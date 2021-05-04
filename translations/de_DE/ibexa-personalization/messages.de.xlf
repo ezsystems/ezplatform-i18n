@@ -11,6 +11,58 @@
         <target state="translated">Personalisierung</target>
         <note>key: breadcrumb.personalization</note>
       </trans-unit>
+      <trans-unit id="6dcacc6573defc140174ccec898eea76633f9857" resname="breadcrumb.settings">
+        <source>Settings</source>
+        <target state="translated"> Einstellungen</target>
+        <note>key: breadcrumb.settings</note>
+      </trans-unit>
+      <trans-unit id="7cf4c5c82eb9aa188d9b8514ef884df8eb46e807" resname="dashboard.charts.collected_events">
+        <source>Collected events</source>
+        <target state="translated">Gesammelte Ereignisse</target>
+        <note>key: dashboard.charts.collected_events</note>
+      </trans-unit>
+      <trans-unit id="b079a64eb2a0051a7dc0822897b34f12abea00e4" resname="dashboard.charts.conversion_rate">
+        <source>Conversion rate</source>
+        <target state="translated">Wechselkurs</target>
+        <note>key: dashboard.charts.conversion_rate</note>
+      </trans-unit>
+      <trans-unit id="5f43a79f6a532c2ecf1a83d43ca2aa30d1d845ea" resname="dashboard.charts.date_time_range">
+        <source>%start_date% to %end_date%</source>
+        <target state="translated">% start_date% bis% end_date%</target>
+        <note>key: dashboard.charts.date_time_range</note>
+      </trans-unit>
+      <trans-unit id="300d97f801a0a15e19477e68958304d82f5c7d6a" resname="dashboard.charts.items_purchased">
+        <source>Items purchased</source>
+        <target state="translated">Artikel gekauft</target>
+        <note>key: dashboard.charts.items_purchased</note>
+      </trans-unit>
+      <trans-unit id="3b2d2efac582e8c8d6eccb40d4499ecf9ee21f95" resname="dashboard.charts.no_data">
+        <source><![CDATA[No data collected<br/> for the selected period]]></source>
+        <target state="translated"><![CDATA[Keine Daten <br/> für den ausgewählten Zeitraum]]></target>
+        <note>key: dashboard.charts.no_data</note>
+      </trans-unit>
+      <trans-unit id="4005401b30938d46f88ea83a27a3c7cd37382bad" resname="dashboard.charts.recommendation_calls">
+        <source>Recommendation calls</source>
+        <target state="translated">Empfehlungsaufrufe</target>
+        <note>key: dashboard.charts.recommendation_calls</note>
+      </trans-unit>
+      <trans-unit id="398569322a5cf470a8d3baa0cbbf8d5a10ffb180" resname="dashboard.charts.revenue">
+        <source>Revenue</source>
+        <target state="translated">Einnahmen</target>
+        <note>key: dashboard.charts.revenue</note>
+      </trans-unit>
+      <trans-unit id="a986e297ff8c01767aad268379fa748bab9bb6f4" resname="dashboard.download_report">
+        <source>Download full report</source>
+        <target state="translated">Laden Sie den vollständigen Bericht herunter
+
+</target>
+        <note>key: dashboard.download_report</note>
+      </trans-unit>
+      <trans-unit id="d0c209024ce52170ac99fcd4e0f3426bf1b33927" resname="dashboard.products_purchased">
+        <source>Products purchased</source>
+        <target state="translated">Gekaufte Produkte</target>
+        <note>key: dashboard.products_purchased</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
