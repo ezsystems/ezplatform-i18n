@@ -326,7 +326,7 @@
       </trans-unit>
       <trans-unit id="4afaf19544597331fbc0eb01e75556a312d657ec" resname="field_definition.ezisbn.default_value">
         <source>Default value</source>
-        <target state="translated">Valeur par défaut</target>
+        <target state="translated">Valeurs par défaut</target>
         <note>key: field_definition.ezisbn.default_value</note>
         <jms:reference-file line="38">lib/FieldType/Mapper/ISBNFormMapper.php</jms:reference-file>
       </trans-unit>
@@ -344,7 +344,7 @@
       </trans-unit>
       <trans-unit id="1ae04670268864a185efbed749015b7ea14f079b" resname="field_definition.ezmedia.media_type">
         <source>Media type</source>
-        <target state="translated">Type de média</target>
+        <target state="translated">Types de média</target>
         <note>key: field_definition.ezmedia.media_type</note>
         <jms:reference-file line="42">lib/FieldType/Mapper/MediaFormMapper.php</jms:reference-file>
       </trans-unit>
