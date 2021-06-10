@@ -734,46 +734,6 @@ El atributo defer puede especificarse incluso si se especifica el atributo async
         <target state="translated">La URL apunta a su sistema Web-Connector instalado cerca de su sistema ERP. Utiliza una conexión https y asegúrate de que la tienda solo pueda acceder a esta ip y puerto!</target>
         <note>key: web_connector.service_location|description</note>
       </trans-unit>
-      <trans-unit id="a24aa0f5bca800b57b5f4d8c990192f04a419ed8" resname="webconnector.erpTimeout|config">
-        <source>Timeout towards the ERP-System in seconds</source>
-        <target state="translated">Tiempo de espera hacia el sistema ERP en segundos</target>
-        <note>key: webconnector.erpTimeout|config</note>
-      </trans-unit>
-      <trans-unit id="f580ef6f3d4e16a7ccbd8b830c0c783b4282f1d0" resname="webconnector.erpTimeout|description">
-        <source>Timeout (ERP) for the communication with the Web-Connector in seconds</source>
-        <target state="translated">Tiempo de espera (ERP) para la comunicación con Web-Connector en segundos</target>
-        <note>key: webconnector.erpTimeout|description</note>
-      </trans-unit>
-      <trans-unit id="be04d5758e8a6e52fb9781dda51e7434745c433f" resname="webconnector.password|config">
-        <source>Password (configured per Web-Connector)</source>
-        <target state="translated">Contraseña (configurada por Web-Connector)</target>
-        <note>key: webconnector.password|config</note>
-      </trans-unit>
-      <trans-unit id="5a5293d841200139604abc0f546adb475ca09411" resname="webconnector.password|description">
-        <source>Password for the communication with the Web-Connector service</source>
-        <target state="translated">Contraseña para la comunicación con el servicio Web-Connector</target>
-        <note>key: webconnector.password|description</note>
-      </trans-unit>
-      <trans-unit id="c9e44c78da84d5081a57a045c2d37d661b98988d" resname="webconnector.soapTimeout|config">
-        <source>SOAP Web-Service timeout in seconds</source>
-        <target state="translated">Tiempo de espera del servicio web SOAP en segundos</target>
-        <note>key: webconnector.soapTimeout|config</note>
-      </trans-unit>
-      <trans-unit id="80b1691407bb760879d4260092099481685ab3b1" resname="webconnector.soapTimeout|description">
-        <source>Timeout (Web-Service) for the communication with the Web-Connector in seconds</source>
-        <target state="translated">Tiempo de espera (Web-Service) para la comunicación con el Web-Connector en segundos</target>
-        <note>key: webconnector.soapTimeout|description</note>
-      </trans-unit>
-      <trans-unit id="32128065464dbc6f805b13f0287570e886902f56" resname="webconnector.username|config">
-        <source>User name (configured per Web-Connector)</source>
-        <target state="translated">Nombre de usuario (configurado por Web-Connector)</target>
-        <note>key: webconnector.username|config</note>
-      </trans-unit>
-      <trans-unit id="477f1d25cf2cf78a6f540d98847c2862564e0b91" resname="webconnector.username|description">
-        <source>User name for the communication with the Web-Connector service</source>
-        <target state="translated">Nombre de usuario para la comunicación con el servicio Web-Connector</target>
-        <note>key: webconnector.username|description</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>

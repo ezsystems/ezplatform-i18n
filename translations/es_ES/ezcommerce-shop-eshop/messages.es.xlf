@@ -201,11 +201,6 @@
         <target state="translated">id. Incremental de cesta</target>
         <note>key: Basket incremental ID</note>
       </trans-unit>
-      <trans-unit id="14bf2f86fe3ff46636bfc648aba65c4ea4284881" resname="Basket with ID: %basketId% not found">
-        <source>Basket with ID: %basketId% not found</source>
-        <target state="translated">No se ha encontrado la cesta con id.: %basketId%</target>
-        <note>key: Basket with ID: %basketId% not found</note>
-      </trans-unit>
       <trans-unit id="e11b80e40fef432a5b0557fa5d0bd77221430f26" resname="Best clients">
         <source>Best clients</source>
         <target state="translated">Mejores clientes</target>
@@ -691,11 +686,6 @@
         <target state="translated">Introduzca la entrada del archivo CSV</target>
         <note>key: Enter csv file input</note>
       </trans-unit>
-      <trans-unit id="11470e24a23c56cc3afe507f757b425a1867eea7" resname="Error for basket %basketId%: %error%">
-        <source>Error for basket %basketId%: %error%</source>
-        <target state="translated">Error en la cesta %basketId%: %error%</target>
-        <note>key: Error for basket %basketId%: %error%</note>
-      </trans-unit>
       <trans-unit id="47adebab22d7ae607e2a1a86410699ba1c378c68" resname="Error while processing this action">
         <source>Error while processing this action</source>
         <target state="translated">Error al procesar esta acción</target>
@@ -705,11 +695,6 @@
         <source>Error while processing your data</source>
         <target state="translated">Error al procesar sus datos</target>
         <note>key: Error while processing your data</note>
-      </trans-unit>
-      <trans-unit id="c25876cd811e3bbba92fe46bf0d80e1b9126f1fa" resname="Error: %error%">
-        <source>Error: %error%</source>
-        <target state="translated">Error %error%</target>
-        <note>key: Error: %error%</note>
       </trans-unit>
       <trans-unit id="d469baae0628495800672bc39fdc71f30fbf6f45" resname="Event|search">
         <source>Event</source>
@@ -1190,21 +1175,6 @@
         <source>Only differences</source>
         <target state="translated">Solo diferencias</target>
         <note>key: Only differences</note>
-      </trans-unit>
-      <trans-unit id="4a07dc6e4ef8ed64b594699494c3b6544b7c314b" resname="Order Management">
-        <source>Order Management</source>
-        <target state="translated">Gestión del pedido</target>
-        <note>key: Order Management</note>
-      </trans-unit>
-      <trans-unit id="9d2a9f0a31db1c658c1c486cdbe3ff84da6e1f3a" resname="Order for basket: %basketId% has been deleted successfully.">
-        <source>Order for basket: %basketId% has been deleted successfully.</source>
-        <target state="translated">El pedido para la cesta: %basketId% se ha eliminado correctamente.</target>
-        <note>key: Order for basket: %basketId% has been deleted successfully.</note>
-      </trans-unit>
-      <trans-unit id="c95b4a4292a043e6e35b17abe3083e1a51c74b60" resname="Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%">
-        <source>Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</source>
-        <target state="translated">El pedido para la cesta: %basketId% se ha procesado correctamente, id. del pedido: %orderId%</target>
-        <note>key: Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</note>
       </trans-unit>
       <trans-unit id="cded093321ddaa4c0eaf56ef36f84dd53a9527be" resname="Orders">
         <source>Orders</source>
@@ -2125,16 +2095,6 @@
         <source>More information</source>
         <target state="translated">Más información</target>
         <note>key: common.more_information</note>
-      </trans-unit>
-      <trans-unit id="69decf7cd8bc19f73cd561cf0a8ff9fc4d046976" resname="common.my_shop">
-        <source>My Shop</source>
-        <target state="translated">Mi tienda</target>
-        <note>key: common.my_shop</note>
-      </trans-unit>
-      <trans-unit id="d8cbcac6128b8cedd0fdd832e9aaa1669e0c3756" resname="common.my_shop_functions">
-        <source>Functions</source>
-        <target state="translated">Funciones</target>
-        <note>key: common.my_shop_functions</note>
       </trans-unit>
       <trans-unit id="b97f73d44bbb969e90aa9021a57c122204fc4806" resname="common.newsletter_subscribed">
         <source>Subscribed to newsletter</source>

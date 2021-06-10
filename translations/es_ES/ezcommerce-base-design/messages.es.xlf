@@ -46,26 +46,6 @@
         <target state="translated">Noticias</target>
         <note>key: News|search</note>
       </trans-unit>
-      <trans-unit id="ae88c1331a6d5c487fc1f5c44617269de7e549c8" resname="basket.widget.go.to.basket">
-        <source>Go to basket</source>
-        <target state="translated">Ir a la cesta</target>
-        <note>key: basket.widget.go.to.basket</note>
-      </trans-unit>
-      <trans-unit id="2bde7436885b67547448321302536183f3d9525b" resname="basket.widget.go.to.checkout">
-        <source>Go to checkout</source>
-        <target state="translated">Ir a caja</target>
-        <note>key: basket.widget.go.to.checkout</note>
-      </trans-unit>
-      <trans-unit id="e2d83dac01afb7600364eb2ae3c93099813e53cc" resname="basket.widget.shopping.basket">
-        <source>Shopping basket</source>
-        <target state="translated">Cesta de la compra</target>
-        <note>key: basket.widget.shopping.basket</note>
-      </trans-unit>
-      <trans-unit id="1e51172c998063eeeab701f00044088f8563492d" resname="basket.widget.total">
-        <source>Total</source>
-        <target state="translated">Total</target>
-        <note>key: basket.widget.total</note>
-      </trans-unit>
       <trans-unit id="a88b7dcd1a9e3e17770bbaa6d7515b31a2d7e85d" resname="email">
         <source>email</source>
         <target state="translated">Correo electrónico</target>
