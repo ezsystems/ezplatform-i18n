@@ -16,11 +16,6 @@
         <target state="translated">Apply</target>
         <note>key: search.apply</note>
       </trans-unit>
-      <trans-unit id="1d83218940b91b2cc81ae9d0a694682f6cb04813" resname="search.headline">
-        <source>Search</source>
-        <target state="translated">Search</target>
-        <note>key: search.headline</note>
-      </trans-unit>
       <trans-unit id="0ea91510ce49731de30d4d412dc62c83c91b359d" resname="search.modified">
         <source>Modified</source>
         <target state="translated">Modified</target>
