@@ -562,8 +562,8 @@
         <note>key: basket.widget.go.to.checkout</note>
       </trans-unit>
       <trans-unit id="e2d83dac01afb7600364eb2ae3c93099813e53cc" resname="basket.widget.shopping.basket">
-        <source>Shopping basket</source>
-        <target state="new">Shopping basket</target>
+        <source>Basket</source>
+        <target state="new">Basket</target>
         <note>key: basket.widget.shopping.basket</note>
       </trans-unit>
       <trans-unit id="1e51172c998063eeeab701f00044088f8563492d" resname="basket.widget.total">
