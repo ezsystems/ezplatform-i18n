@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="937a500a6ede32aeaf33dcc2bfc7233578c8e48c" resname="trash.creator">
         <source>Creator</source>
-        <target state="translated">Schöpfer</target>
+        <target state="translated">Ersteller</target>
         <note>key: trash.creator</note>
       </trans-unit>
       <trans-unit id="a05764fe660902e89eefa65d4834f03cf3954160" resname="trash.date">
