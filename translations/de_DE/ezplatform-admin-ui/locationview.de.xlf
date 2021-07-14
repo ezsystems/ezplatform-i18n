@@ -93,9 +93,7 @@
       </trans-unit>
       <trans-unit id="91b45af4dd219651dc8b1a7d050822b71f03fad3" resname="tab.details.creator.not_found">
         <source>Can't fetch creator</source>
-        <target state="translated">Ich kann den Schöpfer nicht abrufen
-
-</target>
+        <target state="translated">Ersteller kann nicht abgerufen werden</target>
         <note>key: tab.details.creator.not_found</note>
       </trans-unit>
       <trans-unit id="acc17a8db8d00036233faa9948ad9a496cd621b3" resname="tab.details.last_contributor">
