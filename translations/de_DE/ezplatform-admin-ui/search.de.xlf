@@ -38,7 +38,7 @@
       </trans-unit>
       <trans-unit id="a32fe0699ebb4545ab1a39bab0311633c3f92fc3" resname="search.creator">
         <source>Creator</source>
-        <target state="translated">Schöpfer</target>
+        <target state="translated">Ersteller</target>
         <note>key: search.creator</note>
       </trans-unit>
       <trans-unit id="3d9f547776de4846ff54fcd1cd173ac5937e5a46" resname="search.creator_input.placeholder">
