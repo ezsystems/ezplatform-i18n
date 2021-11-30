@@ -48,7 +48,7 @@
       </trans-unit>
       <trans-unit id="3edbcdd64ab409f29ba5c7fd3a91f98f3d868ea6" resname="dashboard.table.activity.edited_on_by_user">
         <source>Edited by %creatorName% %relativeTime%</source>
-        <target state="translated">Bearbeitet von %creatorname% %relativeTime%</target>
+        <target state="translated">Bearbeitet von %creatorName% %relativeTime%</target>
         <note>key: dashboard.table.activity.edited_on_by_user</note>
       </trans-unit>
       <trans-unit id="12689e8f5d888ba5fe75fa028d62a06a94e2881c" resname="dashboard.table.activity.edited_on_no_user">
