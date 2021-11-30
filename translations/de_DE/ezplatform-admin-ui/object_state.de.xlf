@@ -127,7 +127,7 @@
       </trans-unit>
       <trans-unit id="be3b8c4b5129a345fc2aafb9ff970dbe7669fa45" resname="object_state.view.edit.title">
         <source>Editing Object state '%name%'</source>
-        <target state="translated">Bearbeiten des Objektstatus '% name%'</target>
+        <target state="translated">Bearbeiten des Objektstatus '%name%'</target>
         <note>key: object_state.view.edit.title</note>
       </trans-unit>
       <trans-unit id="58983da8ad1a5982e81ddd1bb0ab9cc3e50d6a73" resname="object_state.view.information.title">
