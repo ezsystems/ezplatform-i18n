@@ -1834,7 +1834,7 @@
       </trans-unit>
       <trans-unit id="45fd1ac5513c46503322f526685fbf38f352c0d9" resname="models.table_title">
         <source>Models (%number_of_models%)</source>
-        <target state="translated">Modelle (% number_of_models%)</target>
+        <target state="translated">Modelle (%number_of_models%)</target>
         <note>key: models.table_title</note>
       </trans-unit>
       <trans-unit id="112232a33b21f504ff84142346bc3159c744ba52" resname="models.udw_title">
