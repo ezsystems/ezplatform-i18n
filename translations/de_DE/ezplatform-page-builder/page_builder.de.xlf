@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="2a2fe3def10e04d741369aa5ddf4d4ea00680ca6" resname="block.settings">
         <source>Block settings</source>
-        <target state="translated">Einstellungen blockieren</target>
+        <target state="translated">Blockeinstellungen</target>
         <note>key: block.settings</note>
       </trans-unit>
       <trans-unit id="27557cc8101e53aa465cdb6d32850673a348e953" resname="block_filter.placeholder">
