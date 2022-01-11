@@ -11,11 +11,6 @@
         <target state="translated">בחר שפה</target>
         <note>key: content.edit.select_language</note>
       </trans-unit>
-      <trans-unit id="9f897e0a8684c5fcf61d4d121bd7122a12f99c32" resname="infobar.author.name">
-        <source><![CDATA[by <span class="ez-content-details__author">%name%</span>]]></source>
-        <target state="translated"><![CDATA[<span class="ez-content-details__author">%name%</span>]]></target>
-        <note>key: infobar.author.name</note>
-      </trans-unit>
       <trans-unit id="e1027757af4cedb3577c7b7e63789ebd329fdb1e" resname="infobar.last_edited">
         <source>Last edited:</source>
         <target state="translated">נערך לאחרונה:</target>
