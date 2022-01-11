@@ -377,18 +377,18 @@
         <note>key: There is no information about the availability for: %sku% %varCode%, but this item is discontinued.</note>
       </trans-unit>
       <trans-unit id="d716be948f84dad3211817858851c09283290d34" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|comparison">
-        <source>You have already the product: %name, %sku% in your stored basket</source>
-        <target>crwdns227492:0%ncrwdnd227492:0%sku%crwdne227492:0</target>
+        <source>You have already the product:  %name%, %sku% in your comparison list</source>
+        <target>crwdns230835:0%name%crwdnd230835:0%sku%crwdne230835:0</target>
         <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|comparison</note>
       </trans-unit>
       <trans-unit id="06621dc0b722ae3008c93ff8a2efa763a978ec00" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|storedBasket">
-        <source>You have already the product: %name, %sku% in your wishlist</source>
-        <target>crwdns227494:0%ncrwdnd227494:0%sku%crwdne227494:0</target>
+        <source>You have already the product: %name%, %sku% in your stored basket</source>
+        <target>crwdns230837:0%name%crwdnd230837:0%sku%crwdne230837:0</target>
         <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|storedBasket</note>
       </trans-unit>
       <trans-unit id="2293f8e8c409db0febed97d76d90ccf113ac3c9f" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|wishList">
-        <source>You have already the product:  %name%, %sku% in your comparison list</source>
-        <target>crwdns227496:0%name%crwdnd227496:0%sku%crwdne227496:0</target>
+        <source>You have already the product: %name%, %sku% in your wishlist</source>
+        <target>crwdns230839:0%name%crwdnd230839:0%sku%crwdne230839:0</target>
         <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|wishList</note>
       </trans-unit>
       <trans-unit id="3c52430eb9e6bb06cd337a822b52de305b7aa614" resname="You have already the product: %sku%, %name% in your %basketType%|comparison">
