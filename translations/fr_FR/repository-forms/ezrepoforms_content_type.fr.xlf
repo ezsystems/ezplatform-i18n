@@ -288,7 +288,7 @@
       </trans-unit>
       <trans-unit id="4afaf19544597331fbc0eb01e75556a312d657ec" resname="field_definition.ezisbn.default_value">
         <source>Default value</source>
-        <target state="translated">Valeur par défaut</target>
+        <target state="translated">Valeurs par défaut</target>
         <note>key: field_definition.ezisbn.default_value</note>
       </trans-unit>
       <trans-unit id="461c05cd80b29eb37dc4f7e1f9e1d2454b380332" resname="field_definition.ezisbn.is_isbn13">
@@ -303,7 +303,7 @@
       </trans-unit>
       <trans-unit id="1ae04670268864a185efbed749015b7ea14f079b" resname="field_definition.ezmedia.media_type">
         <source>Media type</source>
-        <target state="translated">Type de média</target>
+        <target state="translated">Types de média</target>
         <note>key: field_definition.ezmedia.media_type</note>
       </trans-unit>
       <trans-unit id="adfb7d8a234a1500c70ea82dac5f6d8bebff4234" resname="field_definition.ezmedia.type_flash">
