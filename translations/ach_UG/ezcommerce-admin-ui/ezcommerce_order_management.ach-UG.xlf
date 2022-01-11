@@ -101,11 +101,6 @@
         <target>crwdns223804:0crwdne223804:0</target>
         <note>key: order_list.filters.payment_option</note>
       </trans-unit>
-      <trans-unit id="70362d855cb518b37d903375e88e781de7a4a8a1" resname="order_list.filters.payment_transaction_id">
-        <source>Payment transaction id</source>
-        <target>crwdns223806:0crwdne223806:0</target>
-        <note>key: order_list.filters.payment_transaction_id</note>
-      </trans-unit>
       <trans-unit id="098c4f5c135d526555679bbbd9dfd45dd782c873" resname="order_list.filters.select">
         <source>Select</source>
         <target>crwdns223808:0crwdne223808:0</target>
@@ -227,8 +222,8 @@
         <note>key: order_list.table.header.total</note>
       </trans-unit>
       <trans-unit id="badfe2a65058921dbb5f705ef4fc12598a10555a" resname="order_list.table.title">
-        <source>Order Management</source>
-        <target>crwdns223856:0crwdne223856:0</target>
+        <source>List</source>
+        <target>crwdns230813:0crwdne230813:0</target>
         <note>key: order_list.table.title</note>
       </trans-unit>
     </body>
