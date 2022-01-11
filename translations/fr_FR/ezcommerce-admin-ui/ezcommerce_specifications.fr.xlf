@@ -11,11 +11,6 @@
         <target state="translated">Supprimer</target>
         <note>key: specifications.delete</note>
       </trans-unit>
-      <trans-unit id="51b638dcb4038fcb79a52b8b84e04d148f6c2970" resname="specifications.label.actions">
-        <source>Actions</source>
-        <target state="translated">Actions</target>
-        <note>key: specifications.label.actions</note>
-      </trans-unit>
       <trans-unit id="e72c93e2f869bca8021c669b439b363af9cae1fb" resname="specifications.label.specification">
         <source>Specification</source>
         <target state="translated">Spécification</target>
