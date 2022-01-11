@@ -31,11 +31,6 @@
         <target state="translated">משהו השתבש</target>
         <note>key: error.message</note>
       </trans-unit>
-      <trans-unit id="9883bd31212048bc2352b92dcc30b541e6eac5b5" resname="layout_selector.close.label">
-        <source>Close</source>
-        <target state="translated">סגור</target>
-        <note>key: layout_selector.close.label</note>
-      </trans-unit>
       <trans-unit id="cacca78c6c00e60e652f42e41b6c404d76548a59" resname="layout_selector.create.title">
         <source>Page creation</source>
         <target state="translated">יצירת דף</target>
