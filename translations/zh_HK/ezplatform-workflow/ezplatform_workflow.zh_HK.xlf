@@ -11,11 +11,6 @@
         <target state="translated">從：</target>
         <note>key: content.review.from</note>
       </trans-unit>
-      <trans-unit id="48ec0a3b5f9bf96775a010f49c2ca83fa5a6d9d5" resname="content.review.read_more">
-        <source>Read more</source>
-        <target state="translated">瞭解更多</target>
-        <note>key: content.review.read_more</note>
-      </trans-unit>
       <trans-unit id="ae6d8d014d80092d6c7254b3baaa05e9a4cea7ae" resname="content.review.ready">
         <source>Content is ready for review</source>
         <target state="translated">內容已準備好供審閱</target>
@@ -140,11 +135,6 @@
         <source>Name</source>
         <target state="translated">名稱</target>
         <note>key: workflow.view.content_list.table.name</note>
-      </trans-unit>
-      <trans-unit id="20ad53e76ebb459ccc386fcc1e142f9a3cffcbcc" resname="workflow.view.content_list.table.viewing_page">
-        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[查看 <strong>%viewing%</strong> 除<strong>%total%</strong>之外的内容项]]></target>
-        <note>key: workflow.view.content_list.table.viewing_page</note>
       </trans-unit>
       <trans-unit id="1c7c17941fd081fc0d090a50133fcef9b5ea163e" resname="workflow.view.tab.details">
         <source>Details</source>
