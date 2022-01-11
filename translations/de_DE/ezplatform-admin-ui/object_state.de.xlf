@@ -80,9 +80,7 @@
       </trans-unit>
       <trans-unit id="9fc13c2d1fd12500855a381a919451e75a693858" resname="object_state.list.empty">
         <source>There are no Object states yet. Object states you create will show up here.</source>
-        <target state="translated">Es gibt noch keine Objektzustände. Von Ihnen erstellte Objektzustände werden hier angezeigt.
-
-</target>
+        <target state="translated">Es gibt noch keine Objektzustände. Von Ihnen erstellte Objektzustände werden hier angezeigt.</target>
         <note>key: object_state.list.empty</note>
       </trans-unit>
       <trans-unit id="2331731a1072a77f20ceef81614545768fc1d446" resname="object_state.modal.message">
