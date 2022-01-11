@@ -28,9 +28,7 @@
       </trans-unit>
       <trans-unit id="be4c13cda3e93a1e8cb05145c0dc6c3780c40c66" resname="authentication.credentials_expired.message">
         <source>Your password has expired and must be changed. You will receive an email with instructions how to reset your password.</source>
-        <target state="translated">La tua password è scaduta e deve essere modificata. Riceverai un'e-mail con le istruzioni su come reimpostare la password.
-
-</target>
+        <target state="translated">La tua password è scaduta e deve essere modificata. Riceverai un'e-mail con le istruzioni su come reimpostare la password.</target>
         <note>key: authentication.credentials_expired.message</note>
       </trans-unit>
       <trans-unit id="2b3f00f63c14c6dc9300d54b42159218f6b5f260" resname="authentication.credentials_expired.reset_password">
