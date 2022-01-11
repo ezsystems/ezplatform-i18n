@@ -31,11 +31,6 @@
         <target state="translated">Sélectionner une langue</target>
         <note>key: content.edit.select_language</note>
       </trans-unit>
-      <trans-unit id="9f897e0a8684c5fcf61d4d121bd7122a12f99c32" resname="infobar.author.name">
-        <source><![CDATA[by <span class="ez-content-details__author">%name%</span>]]></source>
-        <target state="translated"><![CDATA[par <span class="ez-content-details__author">%name%</span>]]></target>
-        <note>key: infobar.author.name</note>
-      </trans-unit>
       <trans-unit id="4fe48dd2501989467cec918b66ccdf0e89c274f3" resname="infobar.create">
         <source>Create</source>
         <target state="translated">Créer</target>
