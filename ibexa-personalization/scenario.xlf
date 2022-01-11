@@ -66,50 +66,55 @@
         <target state="new"><![CDATA[User attribute has different name <strong>%attr_name%</strong>]]></target>
         <note>key: ibexa_personalization.scenario.user_attribute_has_different_name</note>
       </trans-unit>
-      <trans-unit id="51dae687367d3979c98400d6b93fad3b8f774dfd" resname="preview.gallery.no_recommendations">
-        <source>No recomendations available</source>
-        <target state="new">No recomendations available</target>
-        <note>key: preview.gallery.no_recommendations</note>
-      </trans-unit>
-      <trans-unit id="8400357d8373649767321ac2086afcf5b44b947d" resname="preview.generate_recommendation_call">
-        <source>Generate recommendation call</source>
-        <target state="new">Generate recommendation call</target>
-        <note>key: preview.generate_recommendation_call</note>
+      <trans-unit id="6cd8333da58d5be29fb9a255c0f5bf51afadd86a" resname="preview.action_name">
+        <source>Preview</source>
+        <target state="new">Preview</target>
+        <note>key: preview.action_name</note>
       </trans-unit>
       <trans-unit id="625f527678ea5c31afdaf96e4d79d4fbff7da961" resname="preview.generated_url">
         <source>Generated url</source>
         <target state="new">Generated url</target>
         <note>key: preview.generated_url</note>
       </trans-unit>
-      <trans-unit id="f7fdc2f5ad9fadf93c65ddf827a7c44f0ae7aecc" resname="preview.hide_json">
-        <source>Hide</source>
-        <target state="new">Hide</target>
-        <note>key: preview.hide_json</note>
+      <trans-unit id="a78422aaea106eeaf7ae4309b20c87cbcb1a1322" resname="preview.no_recommenations.text">
+        <source>No recommendations available</source>
+        <target state="new">No recommendations available</target>
+        <note>key: preview.no_recommenations.text</note>
       </trans-unit>
-      <trans-unit id="8154028527057fde968ab6eca0e24ea5f2f539e3" resname="preview.recommendation_response">
+      <trans-unit id="934cce1488b5d3dcb5a9412c64a6abe1b1aee00c" resname="preview.response.card.header.title">
+        <source>Header</source>
+        <target state="new">Header</target>
+        <note>key: preview.response.card.header.title</note>
+      </trans-unit>
+      <trans-unit id="09ce9cb6e8aca233e6c4b9f10f6b9b6125a6de23" resname="preview.response.title">
         <source>Recommendation response</source>
         <target state="new">Recommendation response</target>
-        <note>key: preview.recommendation_response</note>
+        <note>key: preview.response.title</note>
       </trans-unit>
-      <trans-unit id="0a1edadd261d980d2b77d4e9c5a316e5d0b71a76" resname="preview.recommendation_response_description">
-        <source>The way how recommendations are rendered is only an example. It could differ from the actual approach used by the customer on the website</source>
-        <target state="new">The way how recommendations are rendered is only an example. It could differ from the actual approach used by the customer on the website</target>
-        <note>key: preview.recommendation_response_description</note>
+      <trans-unit id="74a146bbd3dc21ef09999804dadfe29b3c5c1bd1" resname="preview.response.toggler.hide">
+        <source>Hide response code</source>
+        <target state="new">Hide response code</target>
+        <note>key: preview.response.toggler.hide</note>
       </trans-unit>
-      <trans-unit id="c9097b20c289b6157e6762c030438edb8ffac4c1" resname="preview.scenario">
-        <source>Scenario preview</source>
-        <target state="new">Scenario preview</target>
-        <note>key: preview.scenario</note>
+      <trans-unit id="5987fd4da1710f0d892dba51b629328c379d6c8d" resname="preview.response.toggler.show">
+        <source>Show response code</source>
+        <target state="new">Show response code</target>
+        <note>key: preview.response.toggler.show</note>
       </trans-unit>
       <trans-unit id="f6b27e1c34d4f1dbb53abc36293d7ebb09ae5337" resname="preview.send_request">
         <source>Send request</source>
         <target state="new">Send request</target>
         <note>key: preview.send_request</note>
       </trans-unit>
-      <trans-unit id="3c875a08456b699ed4a27b8ff97c40b100bb67c4" resname="preview.show_json">
-        <source>See response code</source>
-        <target state="new">See response code</target>
-        <note>key: preview.show_json</note>
+      <trans-unit id="da514a07b30cee2d7ce54a546cb5ffb04c03d06b" resname="preview.settings">
+        <source>Settings</source>
+        <target state="new">Settings</target>
+        <note>key: preview.settings</note>
+      </trans-unit>
+      <trans-unit id="eeebc2fdf1bcb0d22bd731d7b13f5501e84e9026" resname="preview.title">
+        <source>Also clicked</source>
+        <target state="new">Also clicked</target>
+        <note>key: preview.title</note>
       </trans-unit>
     </body>
   </file>

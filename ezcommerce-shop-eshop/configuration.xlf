@@ -222,6 +222,11 @@
         <target state="new">Date</target>
         <note>key: label.date</note>
       </trans-unit>
+      <trans-unit id="edfc86d3150a29ba32a54ddefc0e9fe106a56b91" resname="label.filter_userEmail">
+        <source>User email</source>
+        <target state="new">User email</target>
+        <note>key: label.filter_userEmail</note>
+      </trans-unit>
       <trans-unit id="23bd0a6fd6c3c773c44530f6a3afb8d61f0d69f3" resname="label.filter_userId">
         <source>User Id</source>
         <target state="new">User Id</target>

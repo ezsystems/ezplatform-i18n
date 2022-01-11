@@ -26,11 +26,6 @@
         <target state="new">Size</target>
         <note>key: , Size|search</note>
       </trans-unit>
-      <trans-unit id="d35ab02ef1f00725ee21e2a9e9875e39c5f8f051" resname="404_page">
-        <source>404_page</source>
-        <target state="new">404_page</target>
-        <note>key: 404_page</note>
-      </trans-unit>
       <trans-unit id="1c929480aa0c0f37b0145e1222722e1758de1d71" resname="A customer has edited his profile. Please, check these data:">
         <source>A customer has edited his profile. Please, check these data:</source>
         <target state="new">A customer has edited his profile. Please, check these data:</target>
@@ -47,8 +42,8 @@
         <note>key: Accept terms and conditions</note>
       </trans-unit>
       <trans-unit id="543beca5f8d4001627a6e9551a79a0d49738b8dd" resname="Account:|profile">
-        <source>Account:|profile</source>
-        <target state="new">Account:|profile</target>
+        <source>Account:</source>
+        <target state="new">Account:</target>
         <note>key: Account:|profile</note>
       </trans-unit>
       <trans-unit id="92ef08325a4813563a3110359906076374683282" resname="Activate">
@@ -201,16 +196,6 @@
         <target state="new">Basket incremental ID</target>
         <note>key: Basket incremental ID</note>
       </trans-unit>
-      <trans-unit id="e11b80e40fef432a5b0557fa5d0bd77221430f26" resname="Best clients">
-        <source>Best clients</source>
-        <target state="new">Best clients</target>
-        <note>key: Best clients</note>
-      </trans-unit>
-      <trans-unit id="83b8e400c77a27ad6489143d6c1ec78cfb0ecf48" resname="Bestsellers">
-        <source>Bestsellers</source>
-        <target state="new">Bestsellers</target>
-        <note>key: Bestsellers</note>
-      </trans-unit>
       <trans-unit id="94cac684119b86220a4aef50584ce15a39849625" resname="Blog post|search">
         <source>Blog post</source>
         <target state="new">Blog post</target>
@@ -305,11 +290,6 @@
         <source>Code</source>
         <target state="new">Code</target>
         <note>key: Code</note>
-      </trans-unit>
-      <trans-unit id="1d0c8304baedcf8e3a78982c2e7c0b04622bf2a0" resname="Color">
-        <source>Color</source>
-        <target state="new">Color</target>
-        <note>key: Color</note>
       </trans-unit>
       <trans-unit id="a9d0f51814323921cf082721e6f10a0c66d53e9b" resname="Commercial register city">
         <source>Commercial register city</source>
@@ -615,11 +595,6 @@
         <source>Discount</source>
         <target state="new">Discount</target>
         <note>key: Discount</note>
-      </trans-unit>
-      <trans-unit id="a479c9c34e878d07b4d67a73a48f432ad7dc53c8" resname="Download">
-        <source>Download</source>
-        <target state="new">Download</target>
-        <note>key: Download</note>
       </trans-unit>
       <trans-unit id="2fe0aa2d6a2cb76c255f5841f7c85d1f877993f0" resname="Download|search">
         <source>Download file</source>
@@ -961,16 +936,6 @@
         <target state="new">Last name</target>
         <note>key: Last name</note>
       </trans-unit>
-      <trans-unit id="a42ff237e83d1e3b296282c38f92367f8da68bf3" resname="Last orders">
-        <source>Last orders</source>
-        <target state="new">Last orders</target>
-        <note>key: Last orders</note>
-      </trans-unit>
-      <trans-unit id="4ce67915d586630e555ba272abd5c4d5d54a1835" resname="Last search terms">
-        <source>Last search terms</source>
-        <target state="new">Last search terms</target>
-        <note>key: Last search terms</note>
-      </trans-unit>
       <trans-unit id="f342510df3e7baa9ba4fe79dd5895061575cb883" resname="Last viewed products">
         <source>Last viewed products</source>
         <target state="new">Last viewed products</target>
@@ -1026,21 +991,6 @@
         <target state="new">Logout</target>
         <note>key: Logout</note>
       </trans-unit>
-      <trans-unit id="18db59f31464766fdc98a66b87b9b223a47fe474" resname="Manuals">
-        <source>Manuals</source>
-        <target state="new">Manuals</target>
-        <note>key: Manuals</note>
-      </trans-unit>
-      <trans-unit id="7adfcd13b3b01de0d8750e7aba16d529b1adb342" resname="Manufacturer">
-        <source>Manufacturer</source>
-        <target state="new">Manufacturer</target>
-        <note>key: Manufacturer</note>
-      </trans-unit>
-      <trans-unit id="f2d7c3437f39d1531bbf79a5aff7ee212acce5e1" resname="Manufacturer SKU">
-        <source>Manufacturer SKU</source>
-        <target state="new">Manufacturer SKU</target>
-        <note>key: Manufacturer SKU</note>
-      </trans-unit>
       <trans-unit id="68f4145fee7dde76afceb910165924ad14cf0d00" resname="Message">
         <source>Message</source>
         <target state="new">Message</target>
@@ -1050,11 +1000,6 @@
         <source>Min quantity</source>
         <target state="new">Min quantity</target>
         <note>key: Min quantity</note>
-      </trans-unit>
-      <trans-unit id="ad91bd7ca681c4b3fd046ef617f086d52810700c" resname="Most searched terms with less hits">
-        <source>Most searched terms with less hits</source>
-        <target state="new">Most searched terms with less hits</target>
-        <note>key: Most searched terms with less hits</note>
       </trans-unit>
       <trans-unit id="b51b2b0d62c7e20b8d8a956fed9a940fed0677d6" resname="My Account">
         <source>My Account</source>
@@ -1211,11 +1156,6 @@
         <target state="new">Password Change</target>
         <note>key: Password Change</note>
       </trans-unit>
-      <trans-unit id="175ff4b964ad8582a665ef32564e0058d99f2d20" resname="Password Reminder">
-        <source>Password Reminder</source>
-        <target state="new">Password Reminder</target>
-        <note>key: Password Reminder</note>
-      </trans-unit>
       <trans-unit id="b41a92bed03261664717a6afdad4edf3d5d6ef6e" resname="Payment">
         <source>Payment</source>
         <target state="new">Payment</target>
@@ -1270,11 +1210,6 @@
         <source>Please log in to use this feature</source>
         <target state="new">Please log in to use this feature</target>
         <note>key: Please log in to use this feature</note>
-      </trans-unit>
-      <trans-unit id="d480d238b2046a98cd6356440a5c8659f9f4c5e7" resname="Please make a choice">
-        <source>Please make a choice</source>
-        <target state="new">Please make a choice</target>
-        <note>key: Please make a choice</note>
       </trans-unit>
       <trans-unit id="253f27abf5cf4ac13590b23620d739c6a5f1505f" resname="Please repeat your password">
         <source>Please repeat your password</source>
@@ -1400,11 +1335,6 @@
         <source>Remove product from basket</source>
         <target state="new">Remove product from basket</target>
         <note>key: Remove product from basket</note>
-      </trans-unit>
-      <trans-unit id="e1c64e73894ba97c6065f015fdd65d01dc125d7b" resname="Remove product from stored basket">
-        <source>Remove product from stored basket</source>
-        <target state="new">Remove product from stored basket</target>
-        <note>key: Remove product from stored basket</note>
       </trans-unit>
       <trans-unit id="bab9bc458f38d4d574e5baa63c72341db6ddaa30" resname="Repeat Password">
         <source>Repeat Password</source>
@@ -1566,11 +1496,6 @@
         <target state="new">Technical</target>
         <note>key: Technical</note>
       </trans-unit>
-      <trans-unit id="c4585d93fc5565e81f0c7276592ade51c453cd0e" resname="Technical information">
-        <source>Technical information</source>
-        <target state="new">Technical information</target>
-        <note>key: Technical information</note>
-      </trans-unit>
       <trans-unit id="8c3913ae68ed9b3088b6964c563c5218a4dff93b" resname="The customer will send his registration document per Email">
         <source>The customer will send his registration document per Email</source>
         <target state="new">The customer will send his registration document per Email</target>
@@ -1671,11 +1596,6 @@
         <target state="new">Top 20 best selling products of all time</target>
         <note>key: Top 20 best selling products of all time</note>
       </trans-unit>
-      <trans-unit id="11299853c80991b086327e0113d7dee96b7d2ffd" resname="Top search terms">
-        <source>Top search terms</source>
-        <target state="new">Top search terms</target>
-        <note>key: Top search terms</note>
-      </trans-unit>
       <trans-unit id="b25928c69902557b0ef0a628490a3a1768d7b82f" resname="Total">
         <source>Total</source>
         <target state="new">Total</target>
@@ -1761,20 +1681,10 @@
         <target state="new">User menu</target>
         <note>key: User menu</note>
       </trans-unit>
-      <trans-unit id="9c986a39aaffc5e0efbc76c73d7d9ddd22203d56" resname="User not found.">
-        <source>User not found.</source>
-        <target state="new">User not found.</target>
-        <note>key: User not found.</note>
-      </trans-unit>
       <trans-unit id="1c2ef28888cc23312bf6cbe331161af86991ba7f" resname="User object not given">
         <source>User object not given</source>
         <target state="new">User object not given</target>
         <note>key: User object not given</note>
-      </trans-unit>
-      <trans-unit id="2e413206787cf4458590f53f6d3ced32effbc5cb" resname="User was not found.">
-        <source>User was not found.</source>
-        <target state="new">User was not found.</target>
-        <note>key: User was not found.</note>
       </trans-unit>
       <trans-unit id="aa70510c5682570826a7a3f9629ec822f32d8d29" resname="User with the email address &quot;%email%&quot; is already registered">
         <source>User with the email address "%email%" is already registered</source>
@@ -1821,20 +1731,10 @@
         <target state="new">Variant code</target>
         <note>key: Variant code</note>
       </trans-unit>
-      <trans-unit id="56b71e89fb1079caaadefd0889e9a22e8b0560e3" resname="Videos">
-        <source>Videos</source>
-        <target state="new">Videos</target>
-        <note>key: Videos</note>
-      </trans-unit>
       <trans-unit id="0cfa5b3781259d24933e754a47d22b92c65150a1" resname="Video|search">
         <source>Video</source>
         <target state="new">Video</target>
         <note>key: Video|search</note>
-      </trans-unit>
-      <trans-unit id="03178bde170c854e18846dfc4fcf08f2e6468c33" resname="View this on YouTube">
-        <source>View this on YouTube</source>
-        <target state="new">View this on YouTube</target>
-        <note>key: View this on YouTube</note>
       </trans-unit>
       <trans-unit id="f8f3b6f931db7357358449f2e905d8470e3394cd" resname="Visitors">
         <source>Visitors</source>
@@ -1855,11 +1755,6 @@
         <source>You already have a basket. Please go to basket page and remove it or order.</source>
         <target state="new">You already have a basket. Please go to basket page and remove it or order.</target>
         <note>key: You already have a basket. Please go to basket page and remove it or order.</note>
-      </trans-unit>
-      <trans-unit id="c2d50c4d314b04e0d29452e0b57937d1b733acfb" resname="You are already logged in!">
-        <source>You are already logged in!</source>
-        <target state="new">You are already logged in!</target>
-        <note>key: You are already logged in!</note>
       </trans-unit>
       <trans-unit id="b85ae10c9ff6f39f2e5c563b237e5b066caffec9" resname="You can change the password within next %amount% %period%.">
         <source>You can change the password within next %amount% %period%.</source>
@@ -1967,13 +1862,13 @@
         <note>key: ZIP code</note>
       </trans-unit>
       <trans-unit id="0b5351ada9d86b9b68449a983095e3deee465050" resname="admin.translations_onesky_intro">
-        <source>Static text can be edited in the translation platform OneSky. </source>
-        <target state="new">Static text can be edited in the translation platform OneSky. </target>
+        <source>Static text can be edited in the translation platform IbexaCommerceOneSky. </source>
+        <target state="new">Static text can be edited in the translation platform IbexaCommerceOneSky. </target>
         <note>key: admin.translations_onesky_intro</note>
       </trans-unit>
       <trans-unit id="97989bb4d4723ad78b09779f3f0f700261a7ac9e" resname="admin.translations_onesky_link">
-        <source>Open OneSky</source>
-        <target state="new">Open OneSky</target>
+        <source>Open IbexaCommerceOneSky</source>
+        <target state="new">Open IbexaCommerceOneSky</target>
         <note>key: admin.translations_onesky_link</note>
       </trans-unit>
       <trans-unit id="eb3c107f4b260b122216c378f76608c9e2f39d02" resname="admin.translations_textmodules">
@@ -1985,16 +1880,6 @@
         <source>Apply</source>
         <target state="new">Apply</target>
         <note>key: apply|search</note>
-      </trans-unit>
-      <trans-unit id="38f4a00da016a5bc22f285a7e9faeb87893505a2" resname="back_to_catalog">
-        <source>back_to_catalog</source>
-        <target state="new">back_to_catalog</target>
-        <note>key: back_to_catalog</note>
-      </trans-unit>
-      <trans-unit id="0899457f78642643c930ec5756e65543ddbd1bc6" resname="basket.minimum.pieces">
-        <source>Minimum %pieces% piece(s)</source>
-        <target state="new">Minimum %pieces% piece(s)</target>
-        <note>key: basket.minimum.pieces</note>
       </trans-unit>
       <trans-unit id="f568e56f032761f7dfd5e8865281b21ac036e818" resname="bestsellers_intro_text">
         <source>bestsellers_intro_text</source>
@@ -2030,11 +1915,6 @@
         <source>Remove vouchers</source>
         <target state="new">Remove vouchers</target>
         <note>key: button.remove_vouchers</note>
-      </trans-unit>
-      <trans-unit id="8bfee4f06aa04ae6daf18cddd32ac6ffbae446f5" resname="buyer_intro_text">
-        <source>buyer_intro_text</source>
-        <target state="new">buyer_intro_text</target>
-        <note>key: buyer_intro_text</note>
       </trans-unit>
       <trans-unit id="b3ce9594e19180c97e196c8f8b9d5adbd69b6036" resname="cancellation_intro_text">
         <source>If you wish to withdraw from the contract, please fill out and submit the form below.</source>
@@ -2081,11 +1961,6 @@
         <target state="new">Cancellation Policy</target>
         <note>key: common.cancellation_header</note>
       </trans-unit>
-      <trans-unit id="613febbcea4f0b500cb05b7de23899e6b4d1e8c8" resname="common.download_file">
-        <source>common.download_file</source>
-        <target state="new">common.download_file</target>
-        <note>key: common.download_file</note>
-      </trans-unit>
       <trans-unit id="88ddcc083f7fcb5282fdd76ae8967db7b132a3bc" resname="common.download_pdf">
         <source>Download PDF version of this page</source>
         <target state="new">Download PDF version of this page</target>
@@ -2110,11 +1985,6 @@
         <source>Page %current_page% of %total_pages%</source>
         <target state="new">Page %current_page% of %total_pages%</target>
         <note>key: common.page_count_of_total</note>
-      </trans-unit>
-      <trans-unit id="0818c61742a2ab37df481113c9d48bb1605c3d7b" resname="common.rma_email_intro_text">
-        <source>common.rma_email_intro_text</source>
-        <target state="new">common.rma_email_intro_text</target>
-        <note>key: common.rma_email_intro_text</note>
       </trans-unit>
       <trans-unit id="0ca7d0f47c2d1c262855de6f98e625a0efd9405f" resname="common.rma_email_subject">
         <source>RMA request</source>
@@ -2376,85 +2246,15 @@
         <target state="new">Hide facets</target>
         <note>key: hide_facets|search</note>
       </trans-unit>
-      <trans-unit id="52ab86a87214a453d9f82538264f190854915247" resname="hour">
-        <source>Hour</source>
-        <target state="new">Hour</target>
-        <note>key: hour</note>
-      </trans-unit>
-      <trans-unit id="5aedee0964c6b2b3fc2c57843d266e138c2f128a" resname="hours">
-        <source>Hours</source>
-        <target state="new">Hours</target>
-        <note>key: hours</note>
-      </trans-unit>
-      <trans-unit id="4efe2fe55f600d3f4f371aa0d02dfda50f285bda" resname="import_export.download_price.button">
-        <source>Download prices</source>
-        <target state="new">Download prices</target>
-        <note>key: import_export.download_price.button</note>
-      </trans-unit>
-      <trans-unit id="92e4fc275a2924b5a6cb3f1cf6b14583e894718d" resname="import_export.download_stock.button">
-        <source>Download stock</source>
-        <target state="new">Download stock</target>
-        <note>key: import_export.download_stock.button</note>
-      </trans-unit>
-      <trans-unit id="1c4f84911c3484cc227ec130b6b1111dd6fe5ce7" resname="import_export.search.button">
-        <source>Search</source>
-        <target state="new">Search</target>
-        <note>key: import_export.search.button</note>
-      </trans-unit>
-      <trans-unit id="d0a9dc00b98d9a28d9620f61ad4a1968a1daa200" resname="import_export.upload.file">
-        <source>Upload file</source>
-        <target state="new">Upload file</target>
-        <note>key: import_export.upload.file</note>
-      </trans-unit>
-      <trans-unit id="4293a143ead93d63181697ff77b22224d71e613d" resname="import_export.upload.info">
-        <source>Select a CSV file to import</source>
-        <target state="new">Select a CSV file to import</target>
-        <note>key: import_export.upload.info</note>
-      </trans-unit>
-      <trans-unit id="6714ddf2d068d5c816e9de2e6bc357d877a7c578" resname="import_export.upload.note">
-        <source>Note: It might take some time until the CSV file has been imported.</source>
-        <target state="new">Note: It might take some time until the CSV file has been imported.</target>
-        <note>key: import_export.upload.note</note>
-      </trans-unit>
-      <trans-unit id="08085ebe18a266bb43a80fb7a39656ee074d4374" resname="import_export.upload_price.button">
-        <source>Upload prices</source>
-        <target state="new">Upload prices</target>
-        <note>key: import_export.upload_price.button</note>
-      </trans-unit>
-      <trans-unit id="f28c451c8cbdfff329b23ebf7fcae5e5ee45c7d7" resname="import_export.upload_price.title">
-        <source>Upload new price list</source>
-        <target state="new">Upload new price list</target>
-        <note>key: import_export.upload_price.title</note>
-      </trans-unit>
-      <trans-unit id="4d7b48745842e85bb036c0b8a7b115e6b063ffbb" resname="import_export.upload_stock.button">
-        <source>Upload stock</source>
-        <target state="new">Upload stock</target>
-        <note>key: import_export.upload_stock.button</note>
-      </trans-unit>
-      <trans-unit id="0801784c9fa26bcff82bc9d3e886ec656dad36e3" resname="import_export.upload_stock.title">
-        <source>Upload new stock list</source>
-        <target state="new">Upload new stock list</target>
-        <note>key: import_export.upload_stock.title</note>
-      </trans-unit>
       <trans-unit id="fdb6e1bfedc82b77216a18760f68a9350241bdb0" resname="info.current_customer_data">
         <source>Current customer information after delegate</source>
         <target state="new">Current customer information after delegate</target>
         <note>key: info.current_customer_data</note>
       </trans-unit>
-      <trans-unit id="badeea028470072ebd283497c8fee6eef92e433f" resname="invoice_generation_error">
-        <source>invoice_generation_error</source>
-        <target state="new">invoice_generation_error</target>
-        <note>key: invoice_generation_error</note>
-      </trans-unit>
       <trans-unit id="73c34d6109927241cce0c6de8b06d4c0bc52e5e8" resname="invoice_intro_text">
         <source>Here you can change your invoice address</source>
         <target state="new">Here you can change your invoice address</target>
         <note>key: invoice_intro_text</note>
-      </trans-unit>
-      <trans-unit id="5ad14270f24fc8983ffc783464ccee0d9514d1e9" resname="label._reviews">
-        <source>Reviews</source>
-        <target state="new">Reviews</target>
-        <note>key: label._reviews</note>
       </trans-unit>
       <trans-unit id="75d70155f70a11da1cc02220babc7ed7ce50889f" resname="label.bestsellers_link">
         <source>Show all bestsellers</source>
@@ -2586,11 +2386,6 @@
         <target state="new">RMA reason</target>
         <note>key: label.rma_reason</note>
       </trans-unit>
-      <trans-unit id="ad74ceec946f91bb9db11c20f17c254948cc9edd" resname="label.specifications">
-        <source>Technical information</source>
-        <target state="new">Technical information</target>
-        <note>key: label.specifications</note>
-      </trans-unit>
       <trans-unit id="67a2be7edfb524f6de0ec445121804c1ce8da3c2" resname="label.stored_basket_name">
         <source>Basket name</source>
         <target state="new">Basket name</target>
@@ -2675,16 +2470,6 @@
         <source>message</source>
         <target state="new">message</target>
         <note>key: message</note>
-      </trans-unit>
-      <trans-unit id="04987fcab72ade3a87a64267b02a2ad9f8f22484" resname="minute">
-        <source>Minute</source>
-        <target state="new">Minute</target>
-        <note>key: minute</note>
-      </trans-unit>
-      <trans-unit id="be2e2bb698c7a42a8ff654d6025fa7c4c335bfc9" resname="minutes">
-        <source>Minutes</source>
-        <target state="new">Minutes</target>
-        <note>key: minutes</note>
       </trans-unit>
       <trans-unit id="075ec2f00dc59057e42cc424f270d04520426084" resname="msg.address_book_empty">
         <source>Your address book is empty!</source>
@@ -2781,21 +2566,6 @@
         <target state="new">out of 5 stars</target>
         <note>key: msg.out_of_five_stars</note>
       </trans-unit>
-      <trans-unit id="b5652181d2181766c23391cee6c7961d35c571c3" resname="msg.product_type_cant_add_basket">
-        <source>msg.product_type_cant_add_basket</source>
-        <target state="new">msg.product_type_cant_add_basket</target>
-        <note>key: msg.product_type_cant_add_basket</note>
-      </trans-unit>
-      <trans-unit id="849c21158c53f25b1829bffa78a1f6d15f9809e7" resname="msg.product_type_cant_add_comparison">
-        <source>msg.product_type_cant_add_comparison</source>
-        <target state="new">msg.product_type_cant_add_comparison</target>
-        <note>key: msg.product_type_cant_add_comparison</note>
-      </trans-unit>
-      <trans-unit id="315414ba51b1e8524a57f6472faf3daaac4751e5" resname="msg.product_type_cant_add_wishlist">
-        <source>msg.product_type_cant_add_wishlist</source>
-        <target state="new">msg.product_type_cant_add_wishlist</target>
-        <note>key: msg.product_type_cant_add_wishlist</note>
-      </trans-unit>
       <trans-unit id="0f65e5fba5a642d2966f90adeba8c3d67debddd6" resname="msg.products_processed">
         <source>Products were processed</source>
         <target state="new">Products were processed</target>
@@ -2820,16 +2590,6 @@
         <source>Delegate option is not used.</source>
         <target state="new">Delegate option is not used.</target>
         <note>key: msg.undelegate_intro_text</note>
-      </trans-unit>
-      <trans-unit id="aa9c1c41452fb9ce6e4fea76d7d89bbf41ebdd92" resname="my_account_intro_text">
-        <source>my_account_intro_text</source>
-        <target state="new">my_account_intro_text</target>
-        <note>key: my_account_intro_text</note>
-      </trans-unit>
-      <trans-unit id="80eef59458d877fcffc69da9d252b18f0703acbd" resname="my_profile_intro_text">
-        <source>my_profile_intro_text</source>
-        <target state="new">my_profile_intro_text</target>
-        <note>key: my_profile_intro_text</note>
       </trans-unit>
       <trans-unit id="2e3cd52f4b42b3058a746221ef1dbcc6d6eb9410" resname="new_delivery">
         <source>New delivery address</source>
@@ -2921,15 +2681,80 @@
         <target state="new">Offer price</target>
         <note>key: price_management.offer_price</note>
       </trans-unit>
-      <trans-unit id="8c61cfa34565ff704950cc228bee5b98e700d156" resname="price_management.save">
-        <source>Save</source>
-        <target state="new">Save</target>
-        <note>key: price_management.save</note>
-      </trans-unit>
       <trans-unit id="7e9100796092cda3d8b24a610e0c786d37aa5040" resname="price_management.sku">
         <source>SKU</source>
         <target state="new">SKU</target>
         <note>key: price_management.sku</note>
+      </trans-unit>
+      <trans-unit id="7e3555fc949d9bfd1047e8fdb99609b49b4c7829" resname="profile.data.address.add.new.address">
+        <source>Add</source>
+        <target state="new">Add</target>
+        <note>key: profile.data.address.add.new.address</note>
+      </trans-unit>
+      <trans-unit id="3b6c314ca265e56e0881061d03acab32fbeb0ef7" resname="profile.data.address.additional.address.line">
+        <source>Additional address line</source>
+        <target state="new">Additional address line</target>
+        <note>key: profile.data.address.additional.address.line</note>
+      </trans-unit>
+      <trans-unit id="e4b4d7577aca4e6f1eb3a5d395d989295f1c3400" resname="profile.data.address.buyer.label">
+        <source>Buyer address</source>
+        <target state="new">Buyer address</target>
+        <note>key: profile.data.address.buyer.label</note>
+      </trans-unit>
+      <trans-unit id="ff2276b0ef29f4f3a80b58ca995269a6ed7e7f48" resname="profile.data.address.city">
+        <source>City</source>
+        <target state="new">City</target>
+        <note>key: profile.data.address.city</note>
+      </trans-unit>
+      <trans-unit id="aaac22534510e00ba57e21095f09bbc99d69b5e0" resname="profile.data.address.contact.email">
+        <source>Contact E-Mail</source>
+        <target state="new">Contact E-Mail</target>
+        <note>key: profile.data.address.contact.email</note>
+      </trans-unit>
+      <trans-unit id="7d7a237c81fe9a627d9201ac6de3c36d79386f24" resname="profile.data.address.contact.fax">
+        <source>Contact Fax</source>
+        <target state="new">Contact Fax</target>
+        <note>key: profile.data.address.contact.fax</note>
+      </trans-unit>
+      <trans-unit id="94cac8a2f8418b64252c6ffa8f3b0e2de4da481b" resname="profile.data.address.contact.telephone">
+        <source>Contact Telephone</source>
+        <target state="new">Contact Telephone</target>
+        <note>key: profile.data.address.contact.telephone</note>
+      </trans-unit>
+      <trans-unit id="c1664a8e4e5e4b0c829fd7ec46bbe0a3e1b29e3c" resname="profile.data.address.country.code">
+        <source>Country code</source>
+        <target state="new">Country code</target>
+        <note>key: profile.data.address.country.code</note>
+      </trans-unit>
+      <trans-unit id="e0f26f8d4c2bd4c7a4f3d25709a727c1209828d9" resname="profile.data.address.delivery.label">
+        <source>Delivery addresses</source>
+        <target state="new">Delivery addresses</target>
+        <note>key: profile.data.address.delivery.label</note>
+      </trans-unit>
+      <trans-unit id="4a5f9b6ca9963548d6eb287cdd660c5f4ea04622" resname="profile.data.address.name.company">
+        <source>Name/Company</source>
+        <target state="new">Name/Company</target>
+        <note>key: profile.data.address.name.company</note>
+      </trans-unit>
+      <trans-unit id="46e720744aeacd0fff1a97259dc6ca17d4bcd708" resname="profile.data.address.name.company.2">
+        <source>Name/Company 2</source>
+        <target state="new">Name/Company 2</target>
+        <note>key: profile.data.address.name.company.2</note>
+      </trans-unit>
+      <trans-unit id="86b919be8fba85f45d556b9c0bcddad49eb90595" resname="profile.data.address.street">
+        <source>Street</source>
+        <target state="new">Street</target>
+        <note>key: profile.data.address.street</note>
+      </trans-unit>
+      <trans-unit id="220e2047061f2c3f64304253476d89f791d6a08b" resname="profile.data.address.zip.code">
+        <source>ZIP code</source>
+        <target state="new">ZIP code</target>
+        <note>key: profile.data.address.zip.code</note>
+      </trans-unit>
+      <trans-unit id="63f8d285fcb7adee4bf53870667b4121acfe8aee" resname="profile.data.button.trash">
+        <source>Remove address</source>
+        <target state="new">Remove address</target>
+        <note>key: profile.data.button.trash</note>
       </trans-unit>
       <trans-unit id="49d53daa0498e9b68995714269155bc3a3290631" resname="quickorder_introtext">
         <source>quickorder_introtext</source>
@@ -2960,61 +2785,6 @@
         <source>send commercial register document per email</source>
         <target state="new">send commercial register document per email</target>
         <note>key: send commercial register document per email</note>
-      </trans-unit>
-      <trans-unit id="b7d3f8c2a60e3713da7740c9740d2cb2f8da5e3b" resname="shipping.save">
-        <source>Save</source>
-        <target state="new">Save</target>
-        <note>key: shipping.save</note>
-      </trans-unit>
-      <trans-unit id="662fdb1f211d6dbec0e6d2444e14ace35ac46510" resname="shipping.table.country">
-        <source>Country</source>
-        <target state="new">Country</target>
-        <note>key: shipping.table.country</note>
-      </trans-unit>
-      <trans-unit id="aa2451fd509c97bfca37096f01bed28adf18ca40" resname="shipping.table.currency">
-        <source>Currency</source>
-        <target state="new">Currency</target>
-        <note>key: shipping.table.currency</note>
-      </trans-unit>
-      <trans-unit id="eee8f9c5621f395e0f646cb9104a660af7960b9e" resname="shipping.table.shipping_cost">
-        <source>Shipping cost</source>
-        <target state="new">Shipping cost</target>
-        <note>key: shipping.table.shipping_cost</note>
-      </trans-unit>
-      <trans-unit id="8c74ef667f8b8d3c9d4196fb096ca7b707911fc2" resname="shipping.table.shipping_method">
-        <source>Shipping method</source>
-        <target state="new">Shipping method</target>
-        <note>key: shipping.table.shipping_method</note>
-      </trans-unit>
-      <trans-unit id="862f234b4891a5491553c5f3e7ed0154a425d49e" resname="shipping.table.state">
-        <source>State</source>
-        <target state="new">State</target>
-        <note>key: shipping.table.state</note>
-      </trans-unit>
-      <trans-unit id="c8fb7152c064c2597b7c551d76279520041a5d09" resname="shipping.table.title">
-        <source>Manage shipping costs</source>
-        <target state="new">Manage shipping costs</target>
-        <note>key: shipping.table.title</note>
-      </trans-unit>
-      <trans-unit id="29385a6c82a9d3ab9759aad1565bc9bdd3e38f9e" resname="shipping.table.value">
-        <source>Value of goods</source>
-        <target state="new">Value of goods</target>
-        <note>key: shipping.table.value</note>
-      </trans-unit>
-      <trans-unit id="77b74c11e52aea191d71dca583c6c66a5b3843f7" resname="shipping.table.zip">
-        <source>ZIP</source>
-        <target state="new">ZIP</target>
-        <note>key: shipping.table.zip</note>
-      </trans-unit>
-      <trans-unit id="86ce7e2c45b3d6a4bfcb5bfe18a2ab450c872aff" resname="shipping_management.add_shipping">
-        <source>Add</source>
-        <target state="new">Add</target>
-        <note>key: shipping_management.add_shipping</note>
-      </trans-unit>
-      <trans-unit id="a75dc4c2145855dd0841a5da02bf3714e6605d4e" resname="shipping_management.delete_shippment.button">
-        <source>Delete</source>
-        <target state="new">Delete</target>
-        <note>key: shipping_management.delete_shippment.button</note>
       </trans-unit>
       <trans-unit id="d2765262c00772a23e9e1e7e4f3648da01eb06ab" resname="show_facets|search">
         <source>Show facets</source>
@@ -3065,11 +2835,6 @@
         <source>On stock</source>
         <target state="new">On stock</target>
         <note>key: stock_management.on_stock</note>
-      </trans-unit>
-      <trans-unit id="c647ca835347673e015c0fa527ba0a40bf7946f7" resname="stock_management.save">
-        <source>Save</source>
-        <target state="new">Save</target>
-        <note>key: stock_management.save</note>
       </trans-unit>
       <trans-unit id="17aa5eb3fb62622b7e00d4f9bf7a84512307c79f" resname="stock_management.sku">
         <source>SKU</source>
@@ -3125,11 +2890,6 @@
         <source>Use invoice address as delivery address</source>
         <target state="new">Use invoice address as delivery address</target>
         <note>key: use_invoice_as_delivery</note>
-      </trans-unit>
-      <trans-unit id="91697f138bc8ffe13d19a0c56cc2211bf623f482" resname="wishlist_stored_basket_intro_text">
-        <source>wishlist_stored_basket_intro_text</source>
-        <target state="new">wishlist_stored_basket_intro_text</target>
-        <note>key: wishlist_stored_basket_intro_text</note>
       </trans-unit>
       <trans-unit id="b38c04cceab19c7157c475b3149eeed7aafc7f15" resname="your_choice|search">
         <source>Your choice</source>

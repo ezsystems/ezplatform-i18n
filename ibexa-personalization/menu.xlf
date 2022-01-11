@@ -31,10 +31,15 @@
         <target state="new">Scenarios</target>
         <note>key: main__personalization__scenarios</note>
       </trans-unit>
-      <trans-unit id="b2dbb456239263e863d42b34ed48f1d8e6424de7" resname="main__personalization__settings">
-        <source>Settings</source>
-        <target state="new">Settings</target>
-        <note>key: main__personalization__settings</note>
+      <trans-unit id="6bc82f75a31450fd71f04991c30b832ffadcc00d" resname="model_edit__sidebar_right__save">
+        <source>Save</source>
+        <target state="new">Save</target>
+        <note>key: model_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="ff2272b1d250c9040b35a76ff7396a956ec3339e" resname="model_edit__sidebar_right__save_and_close">
+        <source>Save and close</source>
+        <target state="new">Save and close</target>
+        <note>key: model_edit__sidebar_right__save_and_close</note>
       </trans-unit>
       <trans-unit id="bb50202605dd9a666dec38fc77048a1fac02f0d8" resname="scenario_create__sidebar_right__create">
         <source>Save</source>
