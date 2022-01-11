@@ -66,11 +66,6 @@
         <target>crwdns226794:0%name%crwdne226794:0</target>
         <note>key: segment.update.success</note>
       </trans-unit>
-      <trans-unit id="84987c1330d341b95bac668156c0e2b1db2db644" resname="segment_group.action.delete">
-        <source>Delete Segment Group</source>
-        <target>crwdns226796:0crwdne226796:0</target>
-        <note>key: segment_group.action.delete</note>
-      </trans-unit>
       <trans-unit id="7e946592cc59b778faf63d3a840e42d87ff00a26" resname="segment_group.create.success">
         <source>Segment Group '%segment_group%' created.</source>
         <target>crwdns226798:0%segment_group%crwdne226798:0</target>
@@ -91,16 +86,6 @@
         <target>crwdns226804:0crwdne226804:0</target>
         <note>key: segment_group.information.header</note>
       </trans-unit>
-      <trans-unit id="2f42a4f8fa3a217529074f75426da8389861fc28" resname="segment_group.list.segment_group.action.bulk_delete">
-        <source>Delete Segment Groups</source>
-        <target>crwdns226806:0crwdne226806:0</target>
-        <note>key: segment_group.list.segment_group.action.bulk_delete</note>
-      </trans-unit>
-      <trans-unit id="60df443de6933bced3dabfca8975fd8c6b914606" resname="segment_group.list.segment_group_bulk_delete.modal.message">
-        <source>Do you want to delete the Segment Group(s)?</source>
-        <target>crwdns226808:0crwdne226808:0</target>
-        <note>key: segment_group.list.segment_group_bulk_delete.modal.message</note>
-      </trans-unit>
       <trans-unit id="9231de10dd9ebb9bc47e04a139a229ca95f689a3" resname="segment_group.modal.message">
         <source>Do you want to delete the Segment Group?</source>
         <target>crwdns226810:0crwdne226810:0</target>
@@ -110,11 +95,6 @@
         <source>Name</source>
         <target>crwdns226812:0crwdne226812:0</target>
         <note>key: segment_group.name</note>
-      </trans-unit>
-      <trans-unit id="19ab5f0c6609bb92b289c06030f11a152fbef9b4" resname="segment_group.segment.add">
-        <source>Add Segment</source>
-        <target>crwdns226814:0crwdne226814:0</target>
-        <note>key: segment_group.segment.add</note>
       </trans-unit>
       <trans-unit id="206290d4a51d48f1a4c35414013c8ed23855c09f" resname="segment_group.segment.identifier">
         <source>Segment identifier</source>
@@ -126,11 +106,6 @@
         <target>crwdns226818:0crwdne226818:0</target>
         <note>key: segment_group.segment.name</note>
       </trans-unit>
-      <trans-unit id="796351668b467f2aa69799c7fb03a85a725c678c" resname="segment_group.segment.remove">
-        <source>Remove Segment</source>
-        <target>crwdns226820:0crwdne226820:0</target>
-        <note>key: segment_group.segment.remove</note>
-      </trans-unit>
       <trans-unit id="06b27025428818eb225cf1550f4eeafbc096af0d" resname="segment_group.segments.header">
         <source>Segment(s) under this group</source>
         <target>crwdns226822:0crwdne226822:0</target>
@@ -140,21 +115,6 @@
         <source>Segment Group '%segment_group%' updated.</source>
         <target>crwdns226824:0%segment_group%crwdne226824:0</target>
         <note>key: segment_group.update.success</note>
-      </trans-unit>
-      <trans-unit id="0c13dd5fadc3aee3d6e71563202f46f75f8b9dcd" resname="segment_group.view.segment_bulk_delete.modal.message">
-        <source>Do you want to delete the Segment(s)?</source>
-        <target>crwdns226826:0crwdne226826:0</target>
-        <note>key: segment_group.view.segment_bulk_delete.modal.message</note>
-      </trans-unit>
-      <trans-unit id="321ebffb584bc412cd9ba377d9f0a78f7de48ccc" resname="segment_group.view.segments.action.delete">
-        <source>Delete Segments</source>
-        <target>crwdns226828:0crwdne226828:0</target>
-        <note>key: segment_group.view.segments.action.delete</note>
-      </trans-unit>
-      <trans-unit id="e330402a8463adc29f61dabc01a87d9db4ff9843" resname="segment_groups.list.create">
-        <source>Create segment group</source>
-        <target>crwdns226830:0crwdne226830:0</target>
-        <note>key: segment_groups.list.create</note>
       </trans-unit>
       <trans-unit id="49ca1e24e1c1c2758509d7a8ce79e314d08b954d" resname="segment_groups.list.empty">
         <source>No Segment Groups.</source>
@@ -195,6 +155,11 @@
         <source>Select content</source>
         <target>crwdns226846:0crwdne226846:0</target>
         <note>key: select.content</note>
+      </trans-unit>
+      <trans-unit id="25638252c36c08f88974b99ac4fb484b52b168b8" resname="site.list.title">
+        <source>Sites (%count%)</source>
+        <target>crwdns231557:0%count%crwdne231557:0</target>
+        <note>key: site.list.title</note>
       </trans-unit>
       <trans-unit id="2f4ae38b817b0291bceb1e3f360098c6d48f4345" resname="tab.segments">
         <source>Segments</source>
