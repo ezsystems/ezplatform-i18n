@@ -26,11 +26,6 @@
         <target state="translated">Modifica</target>
         <note>key: editing</note>
       </trans-unit>
-      <trans-unit id="669edeb37bec7cf4ec99288b90b02ba65e84b4cf" resname="errors.in.the.form">
-        <source>Cannot save the form. Check required Fields or validation errors.</source>
-        <target state="translated">Impossibile salvare il modulo. Controlla i campi obbligatori o gli errori di convalida.</target>
-        <note>key: errors.in.the.form</note>
-      </trans-unit>
       <trans-unit id="009667fab56f0bec66634f009a75ffd9425f2987" resname="fieldtype.translation_is_disabled">
         <source>Translating the %fieldName% Field is disabled. See Content Type definition for details.</source>
         <target state="translated">La traduzione del campo% fieldName% è disabilitata. Vedere la definizione del tipo di contenuto per i dettagli.</target>
