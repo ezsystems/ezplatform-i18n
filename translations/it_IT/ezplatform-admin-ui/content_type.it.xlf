@@ -238,9 +238,7 @@
       </trans-unit>
       <trans-unit id="08c573b0f90eddd499911819f24a58632ceec79b" resname="content_type.sort_field.5">
         <source>Location depth</source>
-        <target state="translated">Profondità della posizione
-
-</target>
+        <target state="translated">Profondità della posizione</target>
         <note>key: content_type.sort_field.5</note>
       </trans-unit>
       <trans-unit id="f75919a228809d6de255e3fd535c4eaaf8789241" resname="content_type.sort_field.6">
