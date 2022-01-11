@@ -11,46 +11,6 @@
         <target state="translated">Centre de contrôle</target>
         <note>key: Control center</note>
       </trans-unit>
-      <trans-unit id="74a0a1f1378464d065954caae7ce69feb20bad8e" resname="field_type.add_variant">
-        <source>Add variant</source>
-        <target state="translated">Ajouter une variante</target>
-        <note>key: field_type.add_variant</note>
-      </trans-unit>
-      <trans-unit id="e4b4d7577aca4e6f1eb3a5d395d989295f1c3400" resname="profile.data.address.buyer.label">
-        <source>Buyer address</source>
-        <target state="translated">Adresse de l'acheteur</target>
-        <note>key: profile.data.address.buyer.label</note>
-      </trans-unit>
-      <trans-unit id="ff2276b0ef29f4f3a80b58ca995269a6ed7e7f48" resname="profile.data.address.city" approved="yes">
-        <source>City</source>
-        <target state="final">Ville</target>
-        <note>key: profile.data.address.city</note>
-      </trans-unit>
-      <trans-unit id="c1664a8e4e5e4b0c829fd7ec46bbe0a3e1b29e3c" resname="profile.data.address.country.code">
-        <source>Country code</source>
-        <target state="translated">Code pays</target>
-        <note>key: profile.data.address.country.code</note>
-      </trans-unit>
-      <trans-unit id="e0f26f8d4c2bd4c7a4f3d25709a727c1209828d9" resname="profile.data.address.delivery.label">
-        <source>Delivery addresses</source>
-        <target state="translated">Adresses de livraison</target>
-        <note>key: profile.data.address.delivery.label</note>
-      </trans-unit>
-      <trans-unit id="4a5f9b6ca9963548d6eb287cdd660c5f4ea04622" resname="profile.data.address.name.company">
-        <source>Name/Company</source>
-        <target state="translated">Nom/Entreprise</target>
-        <note>key: profile.data.address.name.company</note>
-      </trans-unit>
-      <trans-unit id="220e2047061f2c3f64304253476d89f791d6a08b" resname="profile.data.address.zip.code">
-        <source>ZIP code</source>
-        <target state="translated">Code postal</target>
-        <note>key: profile.data.address.zip.code</note>
-      </trans-unit>
-      <trans-unit id="63f8d285fcb7adee4bf53870667b4121acfe8aee" resname="profile.data.button.trash">
-        <source>Remove address</source>
-        <target state="translated">Supprimer l'adresse</target>
-        <note>key: profile.data.button.trash</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
