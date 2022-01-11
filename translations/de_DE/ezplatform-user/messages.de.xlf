@@ -18,9 +18,7 @@
       </trans-unit>
       <trans-unit id="ffb6990d5e75fe6dc86e94166b77e40a79e4e2a3" resname="ezplatform.forgot_user_password.login">
         <source>This email is connected with several accounts. Please enter your login.</source>
-        <target state="translated">Diese E-Mail ist mit mehreren Konten verbunden. Bitte geben Sie Ihren Login ein.
-
-</target>
+        <target state="translated">Diese E-Mail ist mit mehreren Konten verbunden. Bitte geben Sie Ihren Login ein.</target>
         <note>key: ezplatform.forgot_user_password.login</note>
       </trans-unit>
       <trans-unit id="db6dd97ed4776bb0e9843554c48e3962327e8f50" resname="ezplatform.forgot_user_password.message">
