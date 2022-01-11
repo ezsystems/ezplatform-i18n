@@ -41,11 +41,6 @@
         <target>crwdns223894:0crwdne223894:0</target>
         <note>key: field_types.vat.label</note>
       </trans-unit>
-      <trans-unit id="5ffae01e3d3ff475e137242bfd54eaf639ad63db" resname="profile_data.error">
-        <source>Some required inputs in %fieldName% are missing</source>
-        <target>crwdns223896:0%fieldName%crwdne223896:0</target>
-        <note>key: profile_data.error</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
