@@ -63,9 +63,7 @@
       </trans-unit>
       <trans-unit id="9b6504d133b0a02fd337aa91d724723c927e4e96" resname="settings.full_datetime_format.value.title">
         <source>Long date and time format</source>
-        <target state="translated">Formato data e ora lungo
-
-</target>
+        <target state="translated">Formato data e ora lungo</target>
         <note>key: settings.full_datetime_format.value.title</note>
       </trans-unit>
       <trans-unit id="3a4946ea2a7aaa360112cf1e657617e7ce7c7d9b" resname="settings.language.value.description">
