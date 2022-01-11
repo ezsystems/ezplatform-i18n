@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="68d3c56957f36f507e2c3deedaad40f75ba5f18e" resname="ezplatform_page_manager">
-        <source>Page</source>
-        <target>crwdns215758:0crwdne215758:0</target>
+        <source>Sites</source>
+        <target>crwdns231519:0crwdne231519:0</target>
         <note>key: ezplatform_page_manager</note>
       </trans-unit>
     </body>
