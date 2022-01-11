@@ -228,12 +228,12 @@
       </trans-unit>
       <trans-unit id="dbfe48152c3022f68affdb8798eaa36f07dcb147" resname="ezuser.password_expires_in">
         <source><![CDATA[Current password <b>expires in %count% days</b>]]></source>
-        <target state="translated"><![CDATA[Das aktuelle Passwort <b> läuft in% count% days </ b> ab]]></target>
+        <target state="translated"><![CDATA[Das aktuelle Passwort <b>läuft in %count% days</b> ab]]></target>
         <note>key: ezuser.password_expires_in</note>
       </trans-unit>
       <trans-unit id="7771c9e2b90e9636e8fbb858cf7e5204ada687e9" resname="ezuser.password_expires_today">
         <source><![CDATA[Current password <b>expires today</b>]]></source>
-        <target state="translated"><![CDATA[Das aktuelle Passwort <b> läuft heute ab </ b>]]></target>
+        <target state="translated"><![CDATA[Das aktuelle Passwort <b>läuft heute ab</b>]]></target>
         <note>key: ezuser.password_expires_today</note>
       </trans-unit>
       <trans-unit id="fc4b6b718b2cee2f8a91703c070fd69756d5c4cd" resname="ezuser.username">
