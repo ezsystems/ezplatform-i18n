@@ -46,6 +46,11 @@
         <target>crwdns223054:0crwdne223054:0</target>
         <note>key: block.schedule.select_content.label</note>
       </trans-unit>
+      <trans-unit id="da113ef6997dd899852e9f2fde59a357d0f78631" resname="block.schedule.select_content.wrapper.label">
+        <source>Content items</source>
+        <target>crwdns231501:0crwdne231501:0</target>
+        <note>key: block.schedule.select_content.wrapper.label</note>
+      </trans-unit>
       <trans-unit id="ce63f0ad9dc60242493136bc6a34a24eb7e69de5" resname="change.airtime">
         <source>Change airtime</source>
         <target>crwdns223056:0crwdne223056:0</target>
