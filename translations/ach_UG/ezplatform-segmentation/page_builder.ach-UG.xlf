@@ -11,6 +11,16 @@
         <target>crwdns226870:0crwdne226870:0</target>
         <note>key: config_form.widgets.segmentation.udw.title</note>
       </trans-unit>
+      <trans-unit id="dc92ad9147001702dc7997c3615d4ee244a943c4" resname="segments.config_panel.none_option.label">
+        <source>None</source>
+        <target>crwdns231575:0crwdne231575:0</target>
+        <note>key: segments.config_panel.none_option.label</note>
+      </trans-unit>
+      <trans-unit id="0d02f7c061f6d2fb3c38bad4b43ba4035486a0e6" resname="segments.config_panel.title">
+        <source>Segments</source>
+        <target>crwdns231577:0crwdne231577:0</target>
+        <note>key: segments.config_panel.title</note>
+      </trans-unit>
       <trans-unit id="5b8a9a5fceb4991b77b50983c34df8a18a900a09" resname="select_location.error">
         <source>Cannot find children Locations with ID %idList%</source>
         <target>crwdns226872:0%idList%crwdne226872:0</target>
@@ -20,6 +30,11 @@
         <source>No segments defined. Create Segments in the Admin panel to use this block.</source>
         <target>crwdns226874:0crwdne226874:0</target>
         <note>key: targeted_content_map.no_configuration</note>
+      </trans-unit>
+      <trans-unit id="4b70ae03eb9f3d1a03af779f706a9c4a22cc12b5" resname="visibility.action_btn.title">
+        <source>Visibility</source>
+        <target>crwdns231579:0crwdne231579:0</target>
+        <note>key: visibility.action_btn.title</note>
       </trans-unit>
     </body>
   </file>
