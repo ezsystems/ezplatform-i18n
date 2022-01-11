@@ -42,9 +42,7 @@
         <source><![CDATA[Unfortunately %release% has reached <a target="_blank" href="%service_life_url%">end of life</a>,
                 please plan to upgrade. If you need assistance, don't hesitate to <a target="_blank" href="%contact_url%">contact eZ</a>.]]></source>
         <target state="translated"><![CDATA[Sfortunatamente% release% ha raggiunto la <a target="_blank" href="%service_life_url%"> fine vita </a>,
-                si prega di pianificare l'aggiornamento. Se hai bisogno di assistenza, non esitare a <a target="_blank" href="%contact_url%"> contattare eZ </a>.
-
-]]></target>
+                si prega di pianificare l'aggiornamento. Se hai bisogno di assistenza, non esitare a <a target="_blank" href="%contact_url%"> contattare eZ </a>.]]></target>
         <note>key: dashboard.ez_version.end_of_life_upgrade</note>
       </trans-unit>
       <trans-unit id="d620cc5d1f36ef74cbf6c042e07c0ad89bf47d9f" resname="dashboard.ez_version.trial_end_of_maintenance">
