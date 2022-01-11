@@ -11,11 +11,6 @@
         <target>crwdns216890:0crwdne216890:0</target>
         <note>key: content.review.from</note>
       </trans-unit>
-      <trans-unit id="48ec0a3b5f9bf96775a010f49c2ca83fa5a6d9d5" resname="content.review.read_more">
-        <source>Read more</source>
-        <target>crwdns217258:0crwdne217258:0</target>
-        <note>key: content.review.read_more</note>
-      </trans-unit>
       <trans-unit id="ae6d8d014d80092d6c7254b3baaa05e9a4cea7ae" resname="content.review.ready">
         <source>Content is ready for review</source>
         <target>crwdns216894:0crwdne216894:0</target>
@@ -25,6 +20,21 @@
         <source>Content review request</source>
         <target>crwdns223188:0crwdne223188:0</target>
         <note>key: content.review.request</note>
+      </trans-unit>
+      <trans-unit id="7c6e325dd52179c8f9262c5321f93788b6fe7f8c" resname="content.review.title">
+        <source>Title:</source>
+        <target>crwdns231651:0crwdne231651:0</target>
+        <note>key: content.review.title</note>
+      </trans-unit>
+      <trans-unit id="b7578d210bb0a2f0f03a30ee0fc33a0e377cc227" resname="content.unlock.accept">
+        <source>Accept</source>
+        <target>crwdns231653:0crwdne231653:0</target>
+        <note>key: content.unlock.accept</note>
+      </trans-unit>
+      <trans-unit id="40824da1203ecd7402887434c46c4107d02f85d7" resname="content.unlock.request">
+        <source>Unlock request</source>
+        <target>crwdns231655:0crwdne231655:0</target>
+        <note>key: content.unlock.request</note>
       </trans-unit>
       <trans-unit id="c682e81e5f634fa80a21c654aa254f8aea97eb59" resname="content_edit.component.events">
         <source>Event(s)</source>
@@ -37,9 +47,14 @@
         <note>key: dashboard.block.review_queue.title</note>
       </trans-unit>
       <trans-unit id="03b3eebd6de51e6ab83ae31dd89afb4be4d487aa" resname="dashboard.tab.my_drafts_under_review.empty">
-        <source>No content to review. Content item(s) you or your User group can review will show up here.</source>
-        <target>crwdns223190:0crwdne223190:0</target>
+        <source>No content to review.</source>
+        <target>crwdns231657:0crwdne231657:0</target>
         <note>key: dashboard.tab.my_drafts_under_review.empty</note>
+      </trans-unit>
+      <trans-unit id="af4a30229997bc086a9e66b1d3551c98a07b6fad" resname="dashboard.tab.my_drafts_under_review.empty.action_text">
+        <source>Content item(s) you or your User group can review will show up here.</source>
+        <target>crwdns231659:0crwdne231659:0</target>
+        <note>key: dashboard.tab.my_drafts_under_review.empty.action_text</note>
       </trans-unit>
       <trans-unit id="a878bd15386bacea4af5e3356c731640710d3618" resname="dashboard.table.activity">
         <source>Activity</source>
@@ -56,6 +71,16 @@
         <target>crwdns216902:0%relativeTime%crwdne216902:0</target>
         <note>key: dashboard.table.activity.edited_on_no_user</note>
       </trans-unit>
+      <trans-unit id="4a1d2c697ba3a33846c2d9ecaea722b6144820b6" resname="dashboard.table.activity.locked">
+        <source>%user% has been assigned to this draft %relativeTime%</source>
+        <target>crwdns231661:0%user%crwdnd231661:0%relativeTime%crwdne231661:0</target>
+        <note>key: dashboard.table.activity.locked</note>
+      </trans-unit>
+      <trans-unit id="d096efa85dcf934eff6c290ce3d7d36d6302a654" resname="dashboard.table.assigned_to">
+        <source>Assigned to</source>
+        <target>crwdns231663:0crwdne231663:0</target>
+        <note>key: dashboard.table.assigned_to</note>
+      </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content Type</source>
         <target>crwdns216774:0crwdne216774:0</target>
@@ -71,6 +96,16 @@
         <target>crwdns216778:0crwdne216778:0</target>
         <note>key: dashboard.table.draft.transition.list</note>
       </trans-unit>
+      <trans-unit id="149b6c8f2d0d25c74fbcb7f242e7a71e9fdd6ea8" resname="dashboard.table.draft.unlock">
+        <source>Unlock</source>
+        <target>crwdns231665:0crwdne231665:0</target>
+        <note>key: dashboard.table.draft.unlock</note>
+      </trans-unit>
+      <trans-unit id="eb02a089823e8728654697a70ee8dddfbfb2903c" resname="dashboard.table.draft.unlock.ask">
+        <source>Request access</source>
+        <target>crwdns231667:0crwdne231667:0</target>
+        <note>key: dashboard.table.draft.unlock.ask</note>
+      </trans-unit>
       <trans-unit id="0ccebfdea2e8be0bcae0f3cab3f3db5ef47d71c8" resname="dashboard.table.modified_language">
         <source>Modified language</source>
         <target>crwdns223194:0crwdne223194:0</target>
@@ -85,6 +120,21 @@
         <source>Status</source>
         <target>crwdns216786:0crwdne216786:0</target>
         <note>key: dashboard.table.status</note>
+      </trans-unit>
+      <trans-unit id="06db78bf8a5c250a54b5915335ca8b37b04ef7d1" resname="draft.edit.locked">
+        <source>This content is now assigned to you for review. It will unlock when you exit this screen.</source>
+        <target>crwdns231669:0crwdne231669:0</target>
+        <note>key: draft.edit.locked</note>
+      </trans-unit>
+      <trans-unit id="d9842006a04cc421f6c53ae0a7a7ae74e4d41f7c" resname="draft.edit.locked.notification">
+        <source>Version is assigned to another user (%name%).</source>
+        <target>crwdns231671:0%name%crwdne231671:0</target>
+        <note>key: draft.edit.locked.notification</note>
+      </trans-unit>
+      <trans-unit id="ffe14749c2f509a9f17abedfcb859431f9fa5c4c" resname="draft.unlock.ask.notification">
+        <source>Request access has been sent</source>
+        <target>crwdns231673:0crwdne231673:0</target>
+        <note>key: draft.unlock.ask.notification</note>
       </trans-unit>
       <trans-unit id="ce7ec27cb7ed669df0c7863ccf9d7059b804bbeb" resname="location_view.tab.versions.column.workflow">
         <source>Workflow</source>
@@ -120,6 +170,11 @@
         <source>Event timeline</source>
         <target>crwdns216904:0crwdne216904:0</target>
         <note>key: modal.transition.list.title</note>
+      </trans-unit>
+      <trans-unit id="4b66d4ba05f56aa2be819bdc8f75010d3a78d093" resname="policy.limitation.versionlock.assigned_only">
+        <source>Assigned only</source>
+        <target>crwdns231675:0crwdne231675:0</target>
+        <note>key: policy.limitation.versionlock.assigned_only</note>
       </trans-unit>
       <trans-unit id="ed129ea3c9e2f6f00bc2ab26aa664d8ca17d3636" resname="tab.name.my_drafts_under_review">
         <source>Drafts to review</source>
@@ -227,14 +282,9 @@
         <note>key: workflow.view.content_list.table.name</note>
       </trans-unit>
       <trans-unit id="7fd29e64293f361faa1f436ccb8f03064058d790" resname="workflow.view.content_list.table.title">
-        <source>Content in %stageName% stage (%count%)</source>
-        <target>crwdns223226:0%stageName%crwdnd223226:0%count%crwdne223226:0</target>
+        <source>Content in %stage_name% stage (%count%)</source>
+        <target>crwdns231677:0%stage_name%crwdnd231677:0%count%crwdne231677:0</target>
         <note>key: workflow.view.content_list.table.title</note>
-      </trans-unit>
-      <trans-unit id="20ad53e76ebb459ccc386fcc1e142f9a3cffcbcc" resname="workflow.view.content_list.table.viewing_page">
-        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target><![CDATA[crwdns217140:0%viewing%crwdnd217140:0%total%crwdne217140:0]]></target>
-        <note>key: workflow.view.content_list.table.viewing_page</note>
       </trans-unit>
       <trans-unit id="f47c31349e59ab533fb5d0cab02364c7405470f4" resname="workflow.view.diagram">
         <source>Workflow diagram</source>
