@@ -71,6 +71,11 @@
         <target>crwdns229116:0crwdne229116:0</target>
         <note>key: policy.limitation.identifier.personalizationaccess</note>
       </trans-unit>
+      <trans-unit id="af73694f5c5e5868af7948fb04f0d6bfe7ee6ad4" resname="policy.limitation.identifier.producttype">
+        <source>ProductType</source>
+        <target>crwdns230977:0crwdne230977:0</target>
+        <note>key: policy.limitation.identifier.producttype</note>
+      </trans-unit>
       <trans-unit id="bb77b27363dad566197a200290f0f0b18baa4705" resname="policy.limitation.identifier.section">
         <source>Section</source>
         <target>crwdns221226:0crwdne221226:0</target>
@@ -100,6 +105,11 @@
         <source>Subtree</source>
         <target>crwdns221234:0crwdne221234:0</target>
         <note>key: policy.limitation.identifier.subtree</note>
+      </trans-unit>
+      <trans-unit id="ae8d9836b92dd7d303929104953d877fa9c14fed" resname="policy.limitation.identifier.versionlock">
+        <source>VersionLock</source>
+        <target>crwdns230979:0crwdne230979:0</target>
+        <note>key: policy.limitation.identifier.versionlock</note>
       </trans-unit>
       <trans-unit id="920f6a0525d6ba93ff83f46e22baa981ff0b483c" resname="policy.limitation.identifier.workflowstage">
         <source>WorkflowStage</source>
