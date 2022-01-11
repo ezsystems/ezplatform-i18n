@@ -46,11 +46,6 @@
         <target state="translated">L'importazione è stata annullata: customerGroup% group% non valido nella riga% line% per lo sku:% sku%</target>
         <note>key: Import was canceled: invalid customerGroup %group% in line %line% for sku: %sku%</note>
       </trans-unit>
-      <trans-unit id="df84747dfab1a2d359641c7790d1d64e11f1fe42" resname="Price and stock management">
-        <source>Price and stock management</source>
-        <target state="translated">Gestione dei prezzi e delle scorte</target>
-        <note>key: Price and stock management</note>
-      </trans-unit>
       <trans-unit id="70ebe9c865ca3d6beb2eeb14e6d05429fc3ed4e0" resname="message.product_not_found">
         <source>Product not found</source>
         <target state="translated">Prodotto non trovato</target>
