@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="221444732b869f8a1a4139d1fa9eb119698c1e54" resname="dashboard.pagination.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Anzeigen von <strong>% Anzeigen von% </ strong> von <strong>% gesamt% </ strong> Elementen]]></target>
+        <target state="translated"><![CDATA[<strong>%viewing%</strong> von <strong>%total%</strong> Elementen werden angezeigt]]></target>
         <note>key: dashboard.pagination.viewing</note>
       </trans-unit>
       <trans-unit id="a878bd15386bacea4af5e3356c731640710d3618" resname="dashboard.table.activity">
@@ -43,12 +43,12 @@
       </trans-unit>
       <trans-unit id="3edbcdd64ab409f29ba5c7fd3a91f98f3d868ea6" resname="dashboard.table.activity.edited_on_by_user">
         <source>Edited by %creatorName% %relativeTime%</source>
-        <target state="translated">Bearbeitet von% creatorname %% relativeTime%</target>
+        <target state="translated">Bearbeitet von %creatorName% %relativeTime%</target>
         <note>key: dashboard.table.activity.edited_on_by_user</note>
       </trans-unit>
       <trans-unit id="12689e8f5d888ba5fe75fa028d62a06a94e2881c" resname="dashboard.table.activity.edited_on_no_user">
         <source>Edited %relativeTime%</source>
-        <target state="translated">% RelativeTime% bearbeitet</target>
+        <target state="translated">%RelativeTime% bearbeitet</target>
         <note>key: dashboard.table.activity.edited_on_no_user</note>
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="c77999d76931ead1fedf62e15d68ce0a5ad8be17" resname="location_view.tab.versions.pagination.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Anzeigen von <strong>% Anzeigen von% </ strong> von <strong>% gesamt% </ strong> Elementen]]></target>
+        <target state="translated"><![CDATA[<strong>%viewing%</strong> von <strong>%total%</strong> Elementen werden angezeigt]]></target>
         <note>key: location_view.tab.versions.pagination.viewing</note>
       </trans-unit>
       <trans-unit id="f19d765219df9973b16f4c4fec04284643ae4413" resname="matcher.content_status">
@@ -113,7 +113,7 @@
       </trans-unit>
       <trans-unit id="db84cfaed6f2b9a52d159b6d9b12e41bdf2c27bf" resname="transition.list.entry.title">
         <source>Stage changed to %stageNames%</source>
-        <target state="translated">Stage wurde in% stageNames% geändert</target>
+        <target state="translated">Stage wurde in %stageNames% geändert</target>
         <note>key: transition.list.entry.title</note>
       </trans-unit>
       <trans-unit id="80d070fe8257420d8f890afbf18c47475f7ddc24" resname="workflow.list.limitations">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="60defc14349bf190fd343945bba1ea4a5257e96f" resname="workflow.list.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Anzeigen von <strong>% Anzeigen von% </ strong> von <strong>% gesamt% </ strong> Elementen]]></target>
+        <target state="translated"><![CDATA[<strong>%viewing%</strong> von <strong>%total%</strong> Elementen werden angezeigt]]></target>
         <note>key: workflow.list.viewing</note>
       </trans-unit>
       <trans-unit id="434e7197d8ef9a80bded55e3eeec99ed5d1b28eb" resname="workflow.view.content_list.table.content_type">
@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="20ad53e76ebb459ccc386fcc1e142f9a3cffcbcc" resname="workflow.view.content_list.table.viewing_page">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Anzeigen von <strong>% Anzeigen von% </ strong> von <strong>% gesamt% </ strong> Elementen]]></target>
+        <target state="translated"><![CDATA[<strong>%viewing%</strong> von <strong>%total%</strong> Artikeln werden angezeigt]]></target>
         <note>key: workflow.view.content_list.table.viewing_page</note>
       </trans-unit>
       <trans-unit id="1c7c17941fd081fc0d090a50133fcef9b5ea163e" resname="workflow.view.tab.details">
