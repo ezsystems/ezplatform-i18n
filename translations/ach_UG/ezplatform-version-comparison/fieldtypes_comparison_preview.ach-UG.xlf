@@ -151,6 +151,11 @@
         <target>crwdns221876:0crwdne221876:0</target>
         <note>key: ezurl.text</note>
       </trans-unit>
+      <trans-unit id="4c6c52e859ac63f2403af879ec879b00dfdbef19" resname="field.columns">
+        <source>Columns</source>
+        <target>crwdns231643:0crwdne231643:0</target>
+        <note>key: field.columns</note>
+      </trans-unit>
       <trans-unit id="977cb55c24b1708d46ccbd753c2cea745976ae21" resname="fieldview.field.empty">
         <source>This field is empty</source>
         <target>crwdns221878:0crwdne221878:0</target>
