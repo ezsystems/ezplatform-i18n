@@ -123,9 +123,7 @@
       </trans-unit>
       <trans-unit id="ed129ea3c9e2f6f00bc2ab26aa664d8ca17d3636" resname="tab.name.my_drafts_under_review">
         <source>Drafts to review</source>
-        <target state="translated">Entwürfe zur Überprüfung
-
-</target>
+        <target state="translated">Entwürfe zur Überprüfung</target>
         <note>key: tab.name.my_drafts_under_review</note>
       </trans-unit>
       <trans-unit id="b098881c168c540aaa9e23417fa38934a70300d6" resname="tab.versions.draft_under_edit">
