@@ -153,7 +153,7 @@
       </trans-unit>
       <trans-unit id="20ad53e76ebb459ccc386fcc1e142f9a3cffcbcc" resname="workflow.view.content_list.table.viewing_page">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Visualizzazione di <strong>%viewing%</strong> fuori da <strong>%total%</strong> oggetti]]></target>
+        <target state="translated"><![CDATA[Visualizzazione di <strong>%loaded%</strong> fuori da<strong>%total%</strong> elementi]]></target>
         <note>key: workflow.view.content_list.table.viewing_page</note>
       </trans-unit>
       <trans-unit id="1c7c17941fd081fc0d090a50133fcef9b5ea163e" resname="workflow.view.tab.details">
