@@ -218,7 +218,7 @@
       </trans-unit>
       <trans-unit id="20ad53e76ebb459ccc386fcc1e142f9a3cffcbcc" resname="workflow.view.content_list.table.viewing_page" approved="yes">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="final"><![CDATA[Affichage de <strong>%viewing%</strong> éléments sur <strong>%total%</strong>]]></target>
+        <target state="final"><![CDATA[Affichage de <strong>%viewing%</strong> sur <strong>%total%</strong> éléments]]></target>
         <note>key: workflow.view.content_list.table.viewing_page</note>
       </trans-unit>
       <trans-unit id="f47c31349e59ab533fb5d0cab02364c7405470f4" resname="workflow.view.diagram">
