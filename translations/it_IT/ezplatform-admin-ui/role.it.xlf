@@ -133,7 +133,7 @@
       </trans-unit>
       <trans-unit id="da907b734c3ae3df8e9c570dd8e9e7e6d0799105" resname="role.view.add.title">
         <source>Creating a new Role</source>
-        <target state="translated">Creare un nuovo ruolo</target>
+        <target state="translated">Creazione di un nuovo ruolo</target>
         <note>key: role.view.add.title</note>
       </trans-unit>
       <trans-unit id="88d7426f344cc9d85b90903dad013d5806b82faa" resname="role.view.list.action.add">
