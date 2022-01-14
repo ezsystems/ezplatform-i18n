@@ -89,7 +89,7 @@
       </trans-unit>
       <trans-unit id="34ced944f5d7159b0597b98279e73be045c0ccd9" resname="fielddefinition.interval.day">
         <source>%default% %day% day(s)</source>
-        <target state="translated">%default% %day% giorno (i)</target>
+        <target state="translated">%default% %day% giorno(i)</target>
         <note>key: fielddefinition.interval.day</note>
         <jms:reference-file line="79">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
