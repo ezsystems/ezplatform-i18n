@@ -6,31 +6,41 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="90b461f5d439b5748027ffca60afdd893fcd1eb7" resname="product.add.to.basket">
+        <source>Add to basket</source>
+        <target state="translated">Ajouter au panier</target>
+        <note>key: product.add.to.basket</note>
+      </trans-unit>
+      <trans-unit id="ddb940b7de58a24952a7f3d2152a3b12bf60d12c" resname="product.availability">
+        <source>Availability</source>
+        <target state="translated">Disponibilité</target>
+        <note>key: product.availability</note>
+      </trans-unit>
+      <trans-unit id="ddfefe22135be9ba5bf78c4d573cb3b103f9fe9c" resname="product.color">
+        <source>Color</source>
+        <target state="translated">Couleur </target>
+        <note>key: product.color</note>
+      </trans-unit>
+      <trans-unit id="c86b37d628f69870dfa3d1ba3fe422c37e59c52e" resname="product.country.of.origin">
+        <source>Country of Origin</source>
+        <target state="translated">Pays d'origine</target>
+        <note>key: product.country.of.origin</note>
+      </trans-unit>
+      <trans-unit id="0613c555e203c625b8d7bf118088bbcc14de200b" resname="product.description">
+        <source>Description</source>
+        <target state="translated">Description</target>
+        <note>key: product.description</note>
+      </trans-unit>
+      <trans-unit id="0212b791d9a2db33c790f01d2c5e3fff16409a5b" resname="product.price">
+        <source>Price</source>
+        <target state="translated">Prix</target>
+        <note>key: product.price</note>
+      </trans-unit>
+      <trans-unit id="4cb37620891b922b268bc6e27ec3d9df4156ff17" resname="product.specification">
+        <source>Specification</source>
+        <target state="translated">Spécification</target>
+        <note>key: product.specification</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
