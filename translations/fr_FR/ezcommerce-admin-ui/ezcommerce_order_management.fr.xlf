@@ -121,6 +121,11 @@
         <target state="translated">Nouvelle</target>
         <note>key: order_list.filters.state.new</note>
       </trans-unit>
+      <trans-unit id="6825392714a126f46b6452cad3e5af9cea9a4420" resname="order_list.filters.state.ordered_failed">
+        <source>Order transfer failed</source>
+        <target state="translated">Echec du transfert de la commande</target>
+        <note>key: order_list.filters.state.ordered_failed</note>
+      </trans-unit>
       <trans-unit id="8c798e9328e2fef2f4780e6ea6f95316cb198a0d" resname="order_list.filters.state.payed">
         <source>Payed</source>
         <target state="translated">Payée</target>
@@ -146,6 +151,16 @@
         <target state="translated">Gestion des commandes</target>
         <note>key: order_list.page_title</note>
       </trans-unit>
+      <trans-unit id="d8cb3b65816e753164119fd96f22b19cd1074d34" resname="order_list.pager.viewing">
+        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
+        <target state="translated"><![CDATA[Affichage de <strong>%viewing%</strong> sur <strong>%total%</strong> éléments]]></target>
+        <note>key: order_list.pager.viewing</note>
+      </trans-unit>
+      <trans-unit id="9743e22fccf2e904c07888b2936563871a18a432" resname="order_list.table.action.delete">
+        <source>Remove lost order</source>
+        <target state="translated">Supprimer la commande perdue</target>
+        <note>key: order_list.table.action.delete</note>
+      </trans-unit>
       <trans-unit id="84bbcc191781038d10ff568106295f31137a7f4b" resname="order_list.table.action.details">
         <source>Details</source>
         <target state="translated">Détails</target>
@@ -155,6 +170,16 @@
         <source>Transfer to ERP</source>
         <target state="translated">Transférer vers ERP</target>
         <note>key: order_list.table.action.transfer</note>
+      </trans-unit>
+      <trans-unit id="b1f26043bebf6c4a7c6dad0d85de265a1839ebb5" resname="order_list.table.empty">
+        <source>No orders were found matching your criteria.</source>
+        <target state="translated">Aucune commande n'a été trouvée correspondant à vos critères de recherche.</target>
+        <note>key: order_list.table.empty</note>
+      </trans-unit>
+      <trans-unit id="354b1da22517286c270ab53e77c1a7e7c6673e0a" resname="order_list.table.header.basket_id">
+        <source>Basket ID</source>
+        <target state="translated">ID Panier</target>
+        <note>key: order_list.table.header.basket_id</note>
       </trans-unit>
       <trans-unit id="9a8b2fc6af915fc73cee42384d318301cf6c3753" resname="order_list.table.header.customer_name">
         <source>Customer name</source>
@@ -171,6 +196,11 @@
         <target state="translated">Facture</target>
         <note>key: order_list.table.header.invoice</note>
       </trans-unit>
+      <trans-unit id="aa97108a2f8d88d261f703ec5983367495953dfd" resname="order_list.table.header.shop">
+        <source>Shop</source>
+        <target state="translated">Boutique</target>
+        <note>key: order_list.table.header.shop</note>
+      </trans-unit>
       <trans-unit id="abc7f303cbc3f6b0c96c4b47443d75842af0cf24" resname="order_list.table.header.state">
         <source>State</source>
         <target state="translated">État</target>
@@ -180,6 +210,11 @@
         <source>Total</source>
         <target state="translated">Total</target>
         <note>key: order_list.table.header.total</note>
+      </trans-unit>
+      <trans-unit id="badfe2a65058921dbb5f705ef4fc12598a10555a" resname="order_list.table.title">
+        <source>List</source>
+        <target state="translated">Liste</target>
+        <note>key: order_list.table.title</note>
       </trans-unit>
     </body>
   </file>
