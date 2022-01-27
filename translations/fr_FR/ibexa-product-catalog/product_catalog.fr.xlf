@@ -61,6 +61,31 @@
         <target state="translated">%count% résultats</target>
         <note>key: attribute_definition.list.count_results</note>
       </trans-unit>
+      <trans-unit id="9cbd920f83ef0b74bf3b8a29a855485a36fbcff2" resname="attribute_definition.pre_create.add">
+        <source>Add</source>
+        <target state="translated">Ajouter</target>
+        <note>key: attribute_definition.pre_create.add</note>
+      </trans-unit>
+      <trans-unit id="c01193d8561769321dc5f8effe9aed85d3c2965f" resname="attribute_definition.pre_create.cancel">
+        <source>Cancel</source>
+        <target state="translated">Annuler</target>
+        <note>key: attribute_definition.pre_create.cancel</note>
+      </trans-unit>
+      <trans-unit id="ed581114c1259c6a02df3ffc2e78c7048352805e" resname="attribute_definition.updating">
+        <source>Updating</source>
+        <target state="translated">Mise à jour</target>
+        <note>key: attribute_definition.updating</note>
+      </trans-unit>
+      <trans-unit id="d706859ada946c49c4ad12e42f83ecb88f465717" resname="attribute_group.breadcrumb.view">
+        <source>%name%</source>
+        <target state="translated">%name%</target>
+        <note>key: attribute_group.breadcrumb.view</note>
+      </trans-unit>
+      <trans-unit id="30312f90a8509d0f1768ceff1d2cfe8e9a03129d" resname="attribute_group.list.column.identifier">
+        <source>Identifier</source>
+        <target state="translated">Identifiant</target>
+        <note>key: attribute_group.list.column.identifier</note>
+      </trans-unit>
       <trans-unit id="57cef6a5c587f7a9e3887a0ef3ad21ab2f669d24" resname="attribute_group.list.column.name">
         <source>Name</source>
         <target state="translated">Nom</target>
@@ -76,10 +101,75 @@
         <target state="translated">%number_of_results% résultats</target>
         <note>key: attribute_group.list.number_of_results</note>
       </trans-unit>
+      <trans-unit id="d5308d391de5aad3682768b97bb68f280bfe43f3" resname="attribute_group.no_search_results.action_text">
+        <source>Try again with new search criteria</source>
+        <target state="translated">Essayez à nouveau avec d'autres critères de recherche</target>
+        <note>key: attribute_group.no_search_results.action_text</note>
+      </trans-unit>
       <trans-unit id="16bf539c61720387fa41396be436aa74c5430821" resname="attribute_group.no_search_results.info_text">
         <source>Sorry, there are no attribute groups for your search</source>
         <target state="translated">Désolé, il n'y a aucun groupe d'attributs pour votre recherche</target>
         <note>key: attribute_group.no_search_results.info_text</note>
+      </trans-unit>
+      <trans-unit id="489e900a6b4a75d87e8b575dd624049a309bbafd" resname="attribute_group.view.add_attribute">
+        <source>Add attribute</source>
+        <target state="translated">Ajouter un attribut</target>
+        <note>key: attribute_group.view.add_attribute</note>
+      </trans-unit>
+      <trans-unit id="592b7f7b39973e8d577fb8ceddf3002be195af8d" resname="attribute_group.view.delete">
+        <source>Delete</source>
+        <target state="translated">Supprimer</target>
+        <note>key: attribute_group.view.delete</note>
+      </trans-unit>
+      <trans-unit id="d8b7b9089b8352da099325a822eb6a63154d810a" resname="attribute_group.view.edit">
+        <source>Edit</source>
+        <target state="translated">Modifier</target>
+        <note>key: attribute_group.view.edit</note>
+      </trans-unit>
+      <trans-unit id="52d704c7032af7334debbf6bffacaf015cdea7b8" resname="attribute_group.view.identifier">
+        <source>Identifier</source>
+        <target state="translated">Identifiant</target>
+        <note>key: attribute_group.view.identifier</note>
+      </trans-unit>
+      <trans-unit id="0c7a61a8376f871c3ac93ac580cf3a2c39d3b0d0" resname="attribute_group.view.name">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: attribute_group.view.name</note>
+      </trans-unit>
+      <trans-unit id="14864666c347a98cf1f2984abe7cdec9d1374b00" resname="attribute_group.view.position">
+        <source>Position</source>
+        <target state="translated">Position</target>
+        <note>key: attribute_group.view.position</note>
+      </trans-unit>
+      <trans-unit id="cc8c59b97e382065f7ad2d4054c722fa06e962af" resname="attribute_group.view.title">
+        <source>%name%</source>
+        <target state="translated">%name%</target>
+        <note>key: attribute_group.view.title</note>
+      </trans-unit>
+      <trans-unit id="cc850a1061ddedb8e8be9deea26660f1b97fe731" resname="attribute_group_translation_add_form.add">
+        <source>Create</source>
+        <target state="translated">Créer</target>
+        <note>key: attribute_group_translation_add_form.add</note>
+      </trans-unit>
+      <trans-unit id="73c94795f6aea4c968427b19b9070448350992df" resname="attribute_group_translation_remove_form.remove">
+        <source>Remove translation</source>
+        <target state="translated">Supprimer la traduction</target>
+        <note>key: attribute_group_translation_remove_form.remove</note>
+      </trans-unit>
+      <trans-unit id="2da3a62682c9985ab10302dcfc2451954ed3cfd8" resname="currencies.list.title">
+        <source>Currencies</source>
+        <target state="translated">Devises</target>
+        <note>key: currencies.list.title</note>
+      </trans-unit>
+      <trans-unit id="e0599aae4ca54ac7f5c94b436908fa7291e1782c" resname="currency.creating.action_name">
+        <source>Creating new currency</source>
+        <target state="translated">Création d'une nouvelle devise</target>
+        <note>key: currency.creating.action_name</note>
+      </trans-unit>
+      <trans-unit id="579d803cb65fc830655353d738f751dd81afc5c3" resname="currency.creating.title">
+        <source>New currency</source>
+        <target state="translated">Nouvelle devise</target>
+        <note>key: currency.creating.title</note>
       </trans-unit>
     </body>
   </file>
