@@ -171,6 +171,11 @@
         <target state="translated">Nouvelle devise</target>
         <note>key: currency.creating.title</note>
       </trans-unit>
+      <trans-unit id="9ecb5118c32cc5c08ed8b3164afb8cd627fe8c6a" resname="currency.delete.success">
+        <source>{1}Currency %deletedCodes% removed|]1,Inf[ Currencies %deletedCodes% removed</source>
+        <target state="translated">{1}Devise %deletedCodes% supprimée|]1,Inf[ Devises %deletedCodes% supprimées</target>
+        <note>key: currency.delete.success</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
