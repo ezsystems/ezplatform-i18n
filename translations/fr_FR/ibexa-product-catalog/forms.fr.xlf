@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="268c741bdf4f818f950cd022b562c079744cfdca" resname="error.required.field">
+        <source>%fieldName% Field is required</source>
+        <target state="translated">Le champ %fieldName% est requis</target>
+        <note>key: error.required.field</note>
+      </trans-unit>
       <trans-unit id="3551d9a7a066b2a0941f244fa91f766c089fd063" resname="role.policy.commerce">
         <source>Commerce</source>
         <target state="translated">Commerce</target>
@@ -65,6 +70,16 @@
         <source>Product Type</source>
         <target state="translated">Type de produit</target>
         <note>key: role.policy.product_type</note>
+      </trans-unit>
+      <trans-unit id="7da7c8e897757512eee1e32cbd44aacffb67a4f9" resname="role.policy.product_type.delete">
+        <source>Product Type / Delete</source>
+        <target state="translated">Type de Produit / Supprimer</target>
+        <note>key: role.policy.product_type.delete</note>
+      </trans-unit>
+      <trans-unit id="4ef2f329a551dac823ad95fa7579b3b78db83a0b" resname="role.policy.product_type.edit">
+        <source>Product Type / Edit</source>
+        <target state="translated">Type de Produit / Modifier</target>
+        <note>key: role.policy.product_type.edit</note>
       </trans-unit>
     </body>
   </file>
