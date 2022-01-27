@@ -61,6 +61,26 @@
         <target state="translated">%count% résultats</target>
         <note>key: attribute_definition.list.count_results</note>
       </trans-unit>
+      <trans-unit id="57cef6a5c587f7a9e3887a0ef3ad21ab2f669d24" resname="attribute_group.list.column.name">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: attribute_group.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="e9b6984aa83a1ccd4ce040f59e2ff1d3f67a29c7" resname="attribute_group.list.column.position">
+        <source>Position</source>
+        <target state="translated">Position</target>
+        <note>key: attribute_group.list.column.position</note>
+      </trans-unit>
+      <trans-unit id="2358230344910f644235f963ebb304115dd88d20" resname="attribute_group.list.number_of_results">
+        <source>%number_of_results% Results</source>
+        <target state="translated">%number_of_results% résultats</target>
+        <note>key: attribute_group.list.number_of_results</note>
+      </trans-unit>
+      <trans-unit id="16bf539c61720387fa41396be436aa74c5430821" resname="attribute_group.no_search_results.info_text">
+        <source>Sorry, there are no attribute groups for your search</source>
+        <target state="translated">Désolé, il n'y a aucun groupe d'attributs pour votre recherche</target>
+        <note>key: attribute_group.no_search_results.info_text</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
