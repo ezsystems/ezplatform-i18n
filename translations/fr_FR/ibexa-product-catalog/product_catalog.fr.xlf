@@ -6,204 +6,61 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="8b71654474e718dd23bc5cd4b8a82369c4352241" resname="attribute_definition.breadcrumb.list">
+        <source>Attributes</source>
+        <target state="translated">Attributs </target>
+        <note>key: attribute_definition.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="a6a0c9054131c39ed69ed5ef964f5ae5484d640f" resname="attribute_definition.information.column.group">
+        <source>Group</source>
+        <target state="translated">Groupe</target>
+        <note>key: attribute_definition.information.column.group</note>
+      </trans-unit>
+      <trans-unit id="4c3096f45e6a55c6ec6133d3e8483c1fc25aa969" resname="attribute_definition.information.column.identifier">
+        <source>Identifier</source>
+        <target state="translated">Identifiant</target>
+        <note>key: attribute_definition.information.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="8d1623a0f8d90530a2ca0a8408f9b550bbfde20b" resname="attribute_definition.information.column.name">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: attribute_definition.information.column.name</note>
+      </trans-unit>
+      <trans-unit id="3d642babd754bb866fffea8913e82c20d231eb53" resname="attribute_definition.information.column.position">
+        <source>Position</source>
+        <target state="translated">Position</target>
+        <note>key: attribute_definition.information.column.position</note>
+      </trans-unit>
+      <trans-unit id="d2ef844cc07c898fa2c6e9d95650f4cfc855253b" resname="attribute_definition.information.column.type">
+        <source>Type</source>
+        <target state="translated">Type</target>
+        <note>key: attribute_definition.information.column.type</note>
+      </trans-unit>
+      <trans-unit id="2147df5bf8c3356ef8cfe196ebd40984b8e72f6c" resname="attribute_definition.list.column.attribute_type">
+        <source>Type</source>
+        <target state="translated">Type</target>
+        <note>key: attribute_definition.list.column.attribute_type</note>
+      </trans-unit>
+      <trans-unit id="ca1ef7ad45f0c2fa70abd4b0ef24e47a551a4dc2" resname="attribute_definition.list.column.identifier">
+        <source>Identifier</source>
+        <target state="translated">Identifiant</target>
+        <note>key: attribute_definition.list.column.identifier</note>
+      </trans-unit>
+      <trans-unit id="ffa0c6d02e35c3a39917710550a79632338debd0" resname="attribute_definition.list.column.name">
+        <source>Name</source>
+        <target state="translated">Nom</target>
+        <note>key: attribute_definition.list.column.name</note>
+      </trans-unit>
+      <trans-unit id="a1cec4bdf687750b84989eab8b3f82e55724da7f" resname="attribute_definition.list.column.position">
+        <source>Position</source>
+        <target state="translated">Position</target>
+        <note>key: attribute_definition.list.column.position</note>
+      </trans-unit>
+      <trans-unit id="cb5f9f215ccd69315935656a89c7e408b89f0cc6" resname="attribute_definition.list.count_results">
+        <source>%count% results</source>
+        <target state="translated">%count% résultats</target>
+        <note>key: attribute_definition.list.count_results</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
