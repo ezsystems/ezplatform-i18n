@@ -46,6 +46,16 @@
         <target state="translated">Cette liste</target>
         <note>key: this_list</note>
       </trans-unit>
+      <trans-unit id="0e1d14a2180a6234ff47e1903faa5dbd7b45697b" resname="variant">
+        <source>Variant</source>
+        <target state="translated">Variante</target>
+        <note>key: variant</note>
+      </trans-unit>
+      <trans-unit id="ce03e226f116f44414462668272a92de48f83e7d" resname="your_list">
+        <source>Your List</source>
+        <target state="translated">Votre Liste</target>
+        <note>key: your_list</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
