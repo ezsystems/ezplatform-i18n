@@ -101,6 +101,11 @@
         <target state="translated">Quantité</target>
         <note>key: product.quantity</note>
       </trans-unit>
+      <trans-unit id="f516f43b7995b659a236f9cf9ea940f643fcd78f" resname="product.sku">
+        <source>SKU: %sku%</source>
+        <target state="translated">SKU : %sku%</target>
+        <note>key: product.sku</note>
+      </trans-unit>
       <trans-unit id="4cb37620891b922b268bc6e27ec3d9df4156ff17" resname="product.specification">
         <source>Specification</source>
         <target state="translated">Spécification</target>
