@@ -6,31 +6,51 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="6c8a8ec4c48f4606b8d73b65efeaa1d814aee20b" resname="add_to_basket">
+        <source>Add to basket</source>
+        <target state="translated">Ajouter au panier</target>
+        <note>key: add_to_basket</note>
+      </trans-unit>
+      <trans-unit id="a39415f64d3f42a5bcaa38835c361a36efc15e47" resname="common.more_information">
+        <source>More information</source>
+        <target state="translated">Plus d'informations</target>
+        <note>key: common.more_information</note>
+      </trans-unit>
+      <trans-unit id="8db3d8101fd7f3b99d5c05cf309b2afb801d3d78" resname="delete_quickorder">
+        <source>Delete quickorder</source>
+        <target state="translated">Supprimer la commande rapide</target>
+        <note>key: delete_quickorder</note>
+      </trans-unit>
+      <trans-unit id="b95fd60012e6fed442601fe58df327125bc9092d" resname="enter_csv_input">
+        <source>Enter CSV file input</source>
+        <target state="translated">Saisir un fichier CSV</target>
+        <note>key: enter_csv_input</note>
+      </trans-unit>
+      <trans-unit id="0273bc2c2952daf5ba47a03e680559a7b893304c" resname="enter_per_line_csv">
+        <source>Enter %params% per line. After every line press enter.</source>
+        <target state="translated">Entrez %params% par ligne. Après chaque ligne, appuyez sur entrée.</target>
+        <note>key: enter_per_line_csv</note>
+      </trans-unit>
+      <trans-unit id="f3acce247faff36de39e9ee2f7d244c87ceed765" resname="exclude">
+        <source>Excl.</source>
+        <target state="translated">Excl.</target>
+        <note>key: exclude</note>
+      </trans-unit>
+      <trans-unit id="7aec9744ba1554e4d38febae4278e74a5e764414" resname="fill">
+        <source>Fill quickorder</source>
+        <target state="translated">Remplir la commande rapide</target>
+        <note>key: fill</note>
+      </trans-unit>
+      <trans-unit id="00f554d678f26112aad9d51d7a8d2d590eb74801" resname="included">
+        <source>Inc.</source>
+        <target state="translated">Inc.</target>
+        <note>key: included</note>
+      </trans-unit>
+      <trans-unit id="59bd0a3ff43b32849b319e645d4798d8a5d1e889" resname="info">
+        <source>Info</source>
+        <target state="translated">Information</target>
+        <note>key: info</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
