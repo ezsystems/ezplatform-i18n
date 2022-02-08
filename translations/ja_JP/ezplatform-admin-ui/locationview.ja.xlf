@@ -31,6 +31,11 @@
         <target state="translated">翻訳言語</target>
         <note>key: tab.details.translations</note>
       </trans-unit>
+      <trans-unit id="8eb3feb6461dacdbd425ef30fc4848a94ab3db0d" resname="tab.locations.action.add">
+        <source>Add new</source>
+        <target state="translated">ロケーションの追加</target>
+        <note>key: tab.locations.action.add</note>
+      </trans-unit>
       <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path">
         <source>Path</source>
         <target state="translated">パス</target>
