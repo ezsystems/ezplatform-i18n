@@ -31,6 +31,11 @@
         <target state="translated">Reimposta password</target>
         <note>key: authentication.credentials_expired.reset_password</note>
       </trans-unit>
+      <trans-unit id="d2293b387ecddbc6173fd579abd37873fcbc5e97" resname="authentication.forgot_password">
+        <source>Forgot your password?</source>
+        <target state="translated">Password dimenticata?</target>
+        <note>key: authentication.forgot_password</note>
+      </trans-unit>
       <trans-unit id="a56a6630cc335b8a63f8632263aef6625f731929" resname="authentication.login">
         <source>Login</source>
         <target state="translated">Login</target>
@@ -55,6 +60,11 @@
         <source>Get to know Ibexa DXP</source>
         <target state="translated">Conosci Ibexa DXP</target>
         <note>key: base.need_assistance</note>
+      </trans-unit>
+      <trans-unit id="34e898c4a61c4925b523416b0c7ecd9574d8e48b" resname="base.visit_support">
+        <source><![CDATA[See the %ibexa_documentation_link%<br/>or %ibexa_contact_link%]]></source>
+        <target state="translated"><![CDATA[Visita la documentazione ufficiale% ez_documentation_link% <br/> o contattaci:% ez_contact_link%]]></target>
+        <note>key: base.visit_support</note>
       </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
@@ -116,10 +126,60 @@
         <target state="translated">Cancella</target>
         <note>key: custom_url_alias_add_form.remove</note>
       </trans-unit>
+      <trans-unit id="7cb40cbc703336ab1285e81ebf100b82b05a0e27" resname="error.page.403.actions">
+        <source><![CDATA[Contact your administrator to request access.<br/>Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></source>
+        <target state="translated"><![CDATA[Contatta il tuo amministratore per richiedere l'accesso a questo contenuto o modificare il tuo profilo. <br/> Altrimenti, torna alla <a class="error-page__link" href="%dashboard%"> dashboard </a> o <a class = "error-page__link" href = "% search%"> cerca </a> un altro elemento di contenuto.]]></target>
+        <note>key: error.page.403.actions</note>
+      </trans-unit>
+      <trans-unit id="d0b5337e551b64f59973449bbdcf7914c2102a6c" resname="error.page.403.sub_title">
+        <source>Sorry but you don't have permission to access this page.</source>
+        <target state="translated">Non è possibile recuperare o accedere a questa pagina.</target>
+        <note>key: error.page.403.sub_title</note>
+      </trans-unit>
+      <trans-unit id="b1712cfa4c13874debdcc0f1f4a3b9fa4af3c966" resname="error.page.403.title">
+        <source>Access denied</source>
+        <target state="translated">Non hai il permesso</target>
+        <note>key: error.page.403.title</note>
+      </trans-unit>
+      <trans-unit id="638be721c063eee72e70484fe99a25b2a990bb18" resname="error.page.404.actions">
+        <source><![CDATA[Check the URL is spelled correctly and try again.<br/>Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></source>
+        <target state="translated"><![CDATA[Controlla l'URL per un errore di battitura e riprova. <br/> In caso contrario, torna alla <a class="error-page__link" href="%dashboard%"> dashboard </a> o <a class = "error- page__link "href ="% search% "> cerca </a> un altro elemento di contenuto.]]></target>
+        <note>key: error.page.404.actions</note>
+      </trans-unit>
+      <trans-unit id="ffa7f20226d38a989f6c931264bd4cf485b435e6" resname="error.page.404.sub_title">
+        <source>The link may be broken, or the page may have been removed.</source>
+        <target state="translated">Probabilmente non ti aspettavi di atterrare qui.</target>
+        <note>key: error.page.404.sub_title</note>
+      </trans-unit>
+      <trans-unit id="156b8a7f797412e60bdba432064e2dade6d4a7af" resname="error.page.404.title">
+        <source>Sorry, this page isn't available</source>
+        <target state="translated">Pagina non trovata</target>
+        <note>key: error.page.404.title</note>
+      </trans-unit>
+      <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
+        <source><![CDATA[Contact you Administrator to report the problem.<br/>Go back to the <a href="%dashboard%">dashboard</a> or reload the application.]]></source>
+        <target state="translated"><![CDATA[<b> Contatta il tuo amministratore e informalo in merito </b> <br/> l'ora in cui si è verificato l'errore, l'URL nella finestra del browser e qualsiasi cosa correlata <br/> che pensi possa aver causato l'errore. <br / > Puoi anche tornare indietro o provare a ricaricare l'applicazione.]]></target>
+        <note>key: error.page.default.actions</note>
+      </trans-unit>
+      <trans-unit id="37404d823f9c9b5ee00f26e4783e5e98d2955750" resname="error.page.default.sub_title">
+        <source>Sorry, we are having a problem with our system.</source>
+        <target state="translated">Ci scusiamo per l'errore interno del server.</target>
+        <note>key: error.page.default.sub_title</note>
+      </trans-unit>
       <trans-unit id="889ba15bcc2f87bfac9b80282f659eaeb7c175d4" resname="error.page.default.title">
         <source>Something went wrong</source>
         <target state="translated">Qualcosa è andato storto</target>
         <note>key: error.page.default.title</note>
+      </trans-unit>
+      <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
+        <source>Add</source>
+        <target state="translated">Aggiungi autore</target>
+        <note>key: ezauthor.action.add</note>
+      </trans-unit>
+      <trans-unit id="3a0389d073f00ef9a968a5cdc60e2794b434b381" resname="ezauthor.action.delete">
+        <source>Delete</source>
+        <target state="translated">Rimuovi autore</target>
+        <note>key: ezauthor.action.delete</note>
       </trans-unit>
       <trans-unit id="8c3f0606ebb870dd8113cca42da7510414c5a0a8" resname="ezplatform.forgot_password.reset_your_password.reason.migration">
         <source>Your password has expired, change it.</source>
@@ -272,6 +332,11 @@
         <source>Close</source>
         <target state="translated">Chiudi</target>
         <note>key: trash.modal.close</note>
+      </trans-unit>
+      <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
+        <source>Do you want to delete the selected item(s) from Trash?</source>
+        <target state="translated">Sei sicuro di voler inviare questo elemento di contenuto al Cestino?</target>
+        <note>key: trash.modal.message</note>
       </trans-unit>
       <trans-unit id="bd97a738137e75de44544db1104bab3a46222791" resname="trash_asset.modal.message_body">
         <source>If you wish to delete these assets too, first make sure they are not used by other content. To check, go to the asset preview and look at its content Relations in the Relations tab.</source>
