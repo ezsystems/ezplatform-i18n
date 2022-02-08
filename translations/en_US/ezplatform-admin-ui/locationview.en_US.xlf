@@ -41,6 +41,11 @@
         <target state="translated">Translations</target>
         <note>key: tab.details.translations</note>
       </trans-unit>
+      <trans-unit id="8eb3feb6461dacdbd425ef30fc4848a94ab3db0d" resname="tab.locations.action.add">
+        <source>Add new</source>
+        <target state="translated">Add Location</target>
+        <note>key: tab.locations.action.add</note>
+      </trans-unit>
       <trans-unit id="64554d66c71f33e7d3ac52c75b17717c334ef9dd" resname="tab.locations.main">
         <source>Main</source>
         <target state="translated">Main</target>
