@@ -31,6 +31,11 @@
         <target state="translated">Réinitialiser le mot de passe</target>
         <note>key: authentication.credentials_expired.reset_password</note>
       </trans-unit>
+      <trans-unit id="d2293b387ecddbc6173fd579abd37873fcbc5e97" resname="authentication.forgot_password" approved="yes">
+        <source>Forgot your password?</source>
+        <target state="final">Mot de passe oublié ?</target>
+        <note>key: authentication.forgot_password</note>
+      </trans-unit>
       <trans-unit id="a56a6630cc335b8a63f8632263aef6625f731929" resname="authentication.login" approved="yes">
         <source>Login</source>
         <target state="final">Ouvrir une session</target>
@@ -110,6 +115,21 @@
         <source>Delete</source>
         <target state="translated">Supprimer</target>
         <note>key: custom_url_alias_add_form.remove</note>
+      </trans-unit>
+      <trans-unit id="638be721c063eee72e70484fe99a25b2a990bb18" resname="error.page.404.actions">
+        <source><![CDATA[Check the URL is spelled correctly and try again.<br/>Go back to the <a href="%dashboard%">dashboard</a> or <a href="%search%">search</a> for another item.]]></source>
+        <target state="translated"><![CDATA[Vérifiez s'il n'y a pas de faute de frappe dans l'URL et réessayez.<br/>Sinon, retournez au tableau de bord <a class="error-page__link" href="%dashboard%"></a> ou <a class="error-page__link" href="%search%">recherchez</a> un autre élément de Contenu.]]></target>
+        <note>key: error.page.404.actions</note>
+      </trans-unit>
+      <trans-unit id="86a1d081394a7faba471dc5eaa4b1c112e9ff03a" resname="ezauthor.action.add">
+        <source>Add</source>
+        <target state="translated">Ajouter un auteur</target>
+        <note>key: ezauthor.action.add</note>
+      </trans-unit>
+      <trans-unit id="3a0389d073f00ef9a968a5cdc60e2794b434b381" resname="ezauthor.action.delete">
+        <source>Delete</source>
+        <target state="translated">Supprimer l'auteur</target>
+        <note>key: ezauthor.action.delete</note>
       </trans-unit>
       <trans-unit id="f73d03811ba3033d6b44986d55ca728c5a88b168" resname="ezplatform.forgot_user_password.contact_administrator">
         <source>If you do not remember your login, contact your Administrator.</source>
@@ -252,6 +272,11 @@
         <source>Close</source>
         <target state="translated">Fermer</target>
         <note>key: trash.modal.close</note>
+      </trans-unit>
+      <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
+        <source>Do you want to delete the selected item(s) from Trash?</source>
+        <target state="translated">Êtes-vous sûr de vouloir déplacer cet élément de contenu à la Corbeille?</target>
+        <note>key: trash.modal.message</note>
       </trans-unit>
       <trans-unit id="bd97a738137e75de44544db1104bab3a46222791" resname="trash_asset.modal.message_body">
         <source>If you wish to delete these assets too, first make sure they are not used by other content. To check, go to the asset preview and look at its content Relations in the Relations tab.</source>
