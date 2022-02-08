@@ -81,6 +81,11 @@
         <target state="translated">None</target>
         <note>key: form_builder.validator.regex.pattern.none</note>
       </trans-unit>
+      <trans-unit id="4ca91a461622421947258e5e7e305704088e4b7b" resname="no.fields.in.form">
+        <source>There are no fields in this form.</source>
+        <target state="translated">此表單中沒有欄位。創建表單。</target>
+        <note>key: no.fields.in.form</note>
+      </trans-unit>
       <trans-unit id="e2ec5b398adced7f94883c30e3e73e58026ea12e" resname="redirecting">
         <source>Redirecting ...</source>
         <target state="translated">重 定向...</target>
