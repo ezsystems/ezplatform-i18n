@@ -96,6 +96,11 @@
         <target state="translated">Czy na pewno chcesz usunąć tę witrynę i wszystkie powiązane elementy?</target>
         <note>key: site.modal.delete.message</note>
       </trans-unit>
+      <trans-unit id="5369420ba17d5d62a4ebebfade4873d2b82cf591" resname="site.update.success">
+        <source>Site '%name%' has been updated.</source>
+        <target state="translated">Witryna '%name%' została zaktualizowana.</target>
+        <note>key: site.update.success</note>
+      </trans-unit>
       <trans-unit id="54c847d70c86d68aa2a4c739cc3380d5082ceb15" resname="site.view.create.global_properties">
         <source>Global properties</source>
         <target state="translated">Globalne właściwości</target>
