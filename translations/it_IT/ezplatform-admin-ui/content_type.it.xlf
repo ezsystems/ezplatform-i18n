@@ -401,6 +401,11 @@
         <target state="translated">Modifica del gruppo di tipi di contenuto '% identifier%'</target>
         <note>key: content_type_group.view.edit.title</note>
       </trans-unit>
+      <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
+        <source>Create</source>
+        <target state="translated">Crea un gruppo di Tipo di Contenuto</target>
+        <note>key: content_type_group.view.list.action.add</note>
+      </trans-unit>
       <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
         <source>Edit</source>
         <target state="translated">Modifica</target>
