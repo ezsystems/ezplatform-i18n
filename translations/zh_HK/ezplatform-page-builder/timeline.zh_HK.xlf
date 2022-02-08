@@ -6,11 +6,16 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
+      <trans-unit id="4ff3eb43aa4a55f256abee7ac4351dce58fa1685" resname="back_to_current_time.info.text">
+        <source>Back to current time</source>
+        <target state="translated">返回到目前時間</target>
+        <note>key: back_to_current_time.info.text</note>
+      </trans-unit>
+      <trans-unit id="258c0c6baf5618d7e07897b16e391bbfb59096d9" resname="back_to_current_time.warning.text">
+        <source>Previewing in the future</source>
+        <target state="translated">預覽未來的內容</target>
+        <note>key: back_to_current_time.warning.text</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
