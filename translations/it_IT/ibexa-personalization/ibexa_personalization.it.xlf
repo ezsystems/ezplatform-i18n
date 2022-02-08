@@ -186,6 +186,11 @@
         <target state="translated">Descrizione del modello</target>
         <note>key: model.details.description</note>
       </trans-unit>
+      <trans-unit id="706d5289d4105fd8b6e076852cb8e8df8eeb1642" resname="model.details.event_history">
+        <source>Relevant event history</source>
+        <target state="translated">Eventi storici rilevanti</target>
+        <note>key: model.details.event_history</note>
+      </trans-unit>
       <trans-unit id="5349670bc14607a7d0b20eef5707d8de59d065a8" resname="model.details.general">
         <source>General</source>
         <target state="translated">Generale</target>
@@ -1311,6 +1316,11 @@
         <target state="translated">Elenco editoriale</target>
         <note>key: models.name.editor_2</note>
       </trans-unit>
+      <trans-unit id="01ee003af705ab57cf224511065971151c5060bc" resname="models.name.editor_blacklist">
+        <source>Blacklist</source>
+        <target state="translated">Lista nera</target>
+        <note>key: models.name.editor_blacklist</note>
+      </trans-unit>
       <trans-unit id="05516103632d862df8a3735e6f2053f6789d85df" resname="models.name.editorial_list">
         <source>Editorial list</source>
         <target state="translated">Elenco editoriale</target>
@@ -1761,6 +1771,11 @@
         <target state="translated">Intervalli di intervallo</target>
         <note>key: models.submodels.interval-ranges</note>
       </trans-unit>
+      <trans-unit id="45fd1ac5513c46503322f526685fbf38f352c0d9" resname="models.table_title">
+        <source>List (%number_of_models%)</source>
+        <target state="translated">Modelli (%number_of_models%)</target>
+        <note>key: models.table_title</note>
+      </trans-unit>
       <trans-unit id="112232a33b21f504ff84142346bc3159c744ba52" resname="models.udw_title">
         <source>Select items</source>
         <target state="translated">Seleziona articoli</target>
@@ -1810,6 +1825,11 @@
         <source>No top-selling items</source>
         <target state="translated">No articoli più venduti</target>
         <note>key: scenario.commerce_settings.no_top_selling_items</note>
+      </trans-unit>
+      <trans-unit id="42cc1557b7e4cefd98a1be34903f1b81a139bcf8" resname="scenario.fail_safe_models">
+        <source>Fallback level 2</source>
+        <target state="translated">Sicurezza fallita</target>
+        <note>key: scenario.fail_safe_models</note>
       </trans-unit>
       <trans-unit id="07d18774e803e0bfc4ef8891b733e24f90d5318b" resname="scenario.identifier">
         <source>Identifier</source>
@@ -1866,6 +1886,16 @@
         <target state="translated">Scarta</target>
         <note>key: scenario.strategy.discard</note>
       </trans-unit>
+      <trans-unit id="1ccee020b75348f4618bd5c3c6d664751ac85df9" resname="scenario.strategy.fail_safe">
+        <source>Fallback level 2</source>
+        <target state="translated">A prova di errore</target>
+        <note>key: scenario.strategy.fail_safe</note>
+      </trans-unit>
+      <trans-unit id="49bec5eeb413d40d2553c1db56438d40986f1b13" resname="scenario.strategy.fallback_name">
+        <source>Fallback level 1</source>
+        <target state="translated">Ripiegare</target>
+        <note>key: scenario.strategy.fallback_name</note>
+      </trans-unit>
       <trans-unit id="140981d2f6a8cfed9ffa92ee5386a8f6ea725d1c" resname="scenario.strategy.include_parent_category_and_subcategories">
         <source>Also include the parent category and its subcategories</source>
         <target state="translated">Includere anche la categoria madre e le sue sottocategorie</target>
@@ -1900,6 +1930,16 @@
         <source>Save</source>
         <target state="translated">Salva</target>
         <note>key: scenario.strategy.save</note>
+      </trans-unit>
+      <trans-unit id="80dd45134e009a3446f7edd47881b631b1274136" resname="scenario.strategy.ultimately_fail_safe">
+        <source>Fail-safe</source>
+        <target state="translated">In definitiva a prova di errore</target>
+        <note>key: scenario.strategy.ultimately_fail_safe</note>
+      </trans-unit>
+      <trans-unit id="e898621a4b60709756ebe7975a5a138b33b3495e" resname="scenario.strategy_fall_back">
+        <source>Fallback level 1</source>
+        <target state="translated">Modelli fall - back</target>
+        <note>key: scenario.strategy_fall_back</note>
       </trans-unit>
       <trans-unit id="2bccde9b875fb14154bc1dcf1582c4ebd53e9c5c" resname="scenario.strategy_model_context.automatic">
         <source>Automatic</source>
@@ -1946,6 +1986,11 @@
         <target state="translated">Modelli primari</target>
         <note>key: scenario.strategy_primary_models</note>
       </trans-unit>
+      <trans-unit id="3c66f443e1262186fe4a4cc853b50f1da743b6e1" resname="scenario.strategy_ultimately_fail_safe">
+        <source>Fail-safe</source>
+        <target state="translated">In definitiva a prova di errore</target>
+        <note>key: scenario.strategy_ultimately_fail_safe</note>
+      </trans-unit>
       <trans-unit id="1c18b5e05f3859be35785ef62bf6e409c994ad62" resname="scenario.user_profile_settings.boost_item">
         <source>Boost item, if a user has an attribute with the same value</source>
         <target state="translated">Potenziare l'oggetto, se un utente ha un attributo con lo stesso valore.</target>
@@ -1980,6 +2025,11 @@
         <source>Fill attribute value</source>
         <target state="translated">Riempi valore attributo</target>
         <note>key: scenarios.preview.add_attribute_error</note>
+      </trans-unit>
+      <trans-unit id="c7bc8b0d733191b7128bbbe79b1c883ae157c90c" resname="scenarios.table_title">
+        <source>List (%number_of_scenarios%)</source>
+        <target state="translated">Scenari (%number_of_scenarios%)</target>
+        <note>key: scenarios.table_title</note>
       </trans-unit>
       <trans-unit id="309c15d00bf4d8ba6998adfa12bbae21fe99ffd3" resname="settings.form.installation_key">
         <source>Installation key</source>
