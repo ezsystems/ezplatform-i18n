@@ -46,6 +46,11 @@
         <target state="translated">La vista previa no está disponible.</target>
         <note>key: form.no_preview</note>
       </trans-unit>
+      <trans-unit id="8803c513c5b29257e5e622f1d74b7b32007ab42c" resname="form.remove">
+        <source>Delete</source>
+        <target state="translated">Eliminar</target>
+        <note>key: form.remove</note>
+      </trans-unit>
       <trans-unit id="9d9a3840f5ab21538b5df82ff8dc176cc9d8a06e" resname="form_builder.attribute.action.message.label">
         <source>Message to display</source>
         <target state="translated">Mensaje por mostrar</target>
@@ -115,6 +120,11 @@
         <source>Moved field data does not exist.</source>
         <target state="translated">La información de campo movida no existe.</target>
         <note>key: moved.field.data.not.exists</note>
+      </trans-unit>
+      <trans-unit id="4ca91a461622421947258e5e7e305704088e4b7b" resname="no.fields.in.form">
+        <source>There are no fields in this form.</source>
+        <target state="translated">No existen campos en este formulario. Cree su formulario.</target>
+        <note>key: no.fields.in.form</note>
       </trans-unit>
       <trans-unit id="e2ec5b398adced7f94883c30e3e73e58026ea12e" resname="redirecting">
         <source>Redirecting ...</source>
