@@ -11,6 +11,11 @@
         <target state="translated">Centre de contrôle</target>
         <note>key: Control center</note>
       </trans-unit>
+      <trans-unit id="74a0a1f1378464d065954caae7ce69feb20bad8e" resname="field_type.add_variant">
+        <source>Add</source>
+        <target state="translated">Ajouter une variante</target>
+        <note>key: field_type.add_variant</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
