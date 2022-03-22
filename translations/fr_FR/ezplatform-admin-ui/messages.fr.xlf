@@ -6,6 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="745e494cf948637a3eb9f3a3d43454da0f063fbc" resname="anchor_navigation.back">
+        <source>Back</source>
+        <target state="translated">Retour</target>
+        <note>key: anchor_navigation.back</note>
+      </trans-unit>
       <trans-unit id="8ace6daf300d4e12a28054d996c185db9ce7fe91" resname="authentication.credentials_expire_in.warning">
         <source>Your current password will expire in %days% day(s). You can change it in User Settings/My Account Settings.</source>
         <target state="translated">Votre mot de passe actuel expirera dans %days% jour(s). Vous pouvez le modifier dans : Paramètres utilisateur/Mon compte.</target>
@@ -50,6 +55,11 @@
         <source>Reset your password</source>
         <target state="translated">Réinitialiser votre mot de passe</target>
         <note>key: authentication.reset_your_password</note>
+      </trans-unit>
+      <trans-unit id="f7771b5d011f529e37d3b4c94319f52e709256c3" resname="authentication.reset_your_password.back">
+        <source>Back</source>
+        <target state="translated">Retour</target>
+        <note>key: authentication.reset_your_password.back</note>
       </trans-unit>
       <trans-unit id="9143793289ea0e20c3dc9f752d43cc727f2dba01" resname="authentication.username" approved="yes">
         <source>Username</source>
