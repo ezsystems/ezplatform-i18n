@@ -21,6 +21,11 @@
         <target state="translated">Impossible de créer le type de contenu. Impossible de trouver la langue avec l'identifiant '%languageCode%'</target>
         <note>key: content_type.add.missing_language</note>
       </trans-unit>
+      <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
+        <source>%identifier%</source>
+        <target state="translated">%identifier%</target>
+        <note>key: content_type.breadcrumb.view</note>
+      </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
         <target state="translated">Conteneur</target>
@@ -105,6 +110,11 @@
         <source>Draft of Content Type '%name%' already exists and is locked by '%userContentName%'</source>
         <target state="translated">Un brouillon du Type de Contenu '%name%' existe déjà et est verrouillé par l'utilisateur '%userContentName%'</target>
         <note>key: content_type.edit.error.already_exists</note>
+      </trans-unit>
+      <trans-unit id="bafafe330e90f8d93a41e93801984fed4c79512e" resname="content_type.edit.error.no_added_fields_definition">
+        <source>You have to add at least one field definition</source>
+        <target state="translated">Vous devez ajouter au moins une définition de champ</target>
+        <note>key: content_type.edit.error.no_added_fields_definition</note>
       </trans-unit>
       <trans-unit id="f0338ef34826caa021c41ff85413e48601af30b7" resname="content_type.edit.select_language">
         <source>Select a language:</source>
@@ -341,6 +351,11 @@
         <target state="translated">Types de contenu dans %identifier%</target>
         <note>key: content_type.view.list.title</note>
       </trans-unit>
+      <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
+        <source>%name%</source>
+        <target state="translated">%name%</target>
+        <note>key: content_type.view.view.title</note>
+      </trans-unit>
       <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
         <source>Content Types</source>
         <target state="translated">Types de Contenu</target>
@@ -365,6 +380,11 @@
         <source>Created Content Type group '%name%'.</source>
         <target state="translated">Groupe de type de contenu '%name%' créé.</target>
         <note>key: content_type_group.create.success</note>
+      </trans-unit>
+      <trans-unit id="59f3d7c7674d76f2854970e9c63a8db856b1229f" resname="content_type_group.creating">
+        <source>Creating</source>
+        <target state="translated">Création en cours</target>
+        <note>key: content_type_group.creating</note>
       </trans-unit>
       <trans-unit id="eec79e4a9109f28892797768f085eab39eaedc31" resname="content_type_group.delete.submit">
         <source>Delete</source>
@@ -435,6 +455,11 @@
         <source>%identifier%</source>
         <target state="final">%identifier%</target>
         <note>key: content_type_group.view.view.title</note>
+      </trans-unit>
+      <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
+        <source>Editing</source>
+        <target state="translated">En cours d'édition</target>
+        <note>key: editing</note>
       </trans-unit>
       <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description">
         <source>Description</source>
@@ -536,6 +561,11 @@
         <target state="translated">Valeur minimale</target>
         <note>key: field_definition.ezfloat.min_value</note>
       </trans-unit>
+      <trans-unit id="5e8015fbf9269d3ee1bbb99b09005cf6b165ab53" resname="field_definition.ezimage.is_alternative_text_required">
+        <source>Alternative text is required</source>
+        <target state="translated">Le texte alternatif est requis</target>
+        <note>key: field_definition.ezimage.is_alternative_text_required</note>
+      </trans-unit>
       <trans-unit id="5b275c762831def3c6ea393e3e0c25762e0844b3" resname="field_definition.ezimage.max_file_size">
         <source>Maximum file size (MB)</source>
         <target state="translated">Taille de fichier maximale (MB)</target>
@@ -620,6 +650,11 @@
         <source>Starting Location</source>
         <target state="translated">Emplacement de départ</target>
         <note>key: field_definition.ezobjectrelation.selection_root</note>
+      </trans-unit>
+      <trans-unit id="fde392a84bc4f5ab5afef425e9e3bb353313e9d6" resname="field_definition.ezobjectrelation.selection_root_reset_title">
+        <source>Reset starting location</source>
+        <target state="translated">Réinitialiser l'emplacement de départ</target>
+        <note>key: field_definition.ezobjectrelation.selection_root_reset_title</note>
       </trans-unit>
       <trans-unit id="e03e262fad0802fdee49aac136644b35450e1eab" resname="field_definition.ezobjectrelation.selection_root_udw_button">
         <source>Select starting Location</source>
