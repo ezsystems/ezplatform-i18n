@@ -36,6 +36,11 @@
         <target state="translated">Aucune URL joker.</target>
         <note>key: url_wildcard.empty</note>
       </trans-unit>
+      <trans-unit id="921c295cb79d59f1703cfdfae6f1fcdb581451cf" resname="url_wildcard.label.alias">
+        <source>URL alias wildcard</source>
+        <target state="translated">URL alias joker</target>
+        <note>key: url_wildcard.label.alias</note>
+      </trans-unit>
       <trans-unit id="906de07fde9ac052d30b57ea68d7c3ffa70375aa" resname="url_wildcard.label.destination">
         <source>Destination</source>
         <target state="translated">Destination</target>
