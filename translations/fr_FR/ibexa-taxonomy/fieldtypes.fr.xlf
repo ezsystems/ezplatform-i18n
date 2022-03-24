@@ -6,7 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
+      <trans-unit id="f462bb4e23b965531eada2e739418fdc2f4b60f3" resname="ibexa_tag.name">
+        <source>Taxonomy Entry</source>
+        <target state="translated">Entrée de taxonomie</target>
+        <note>key: ibexa_tag.name</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
