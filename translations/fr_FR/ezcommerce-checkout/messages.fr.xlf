@@ -6,200 +6,226 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="eaffec78401451424652480dc382235348ce1b66" resname="ASC">
+        <source>ascend</source>
+        <target state="translated">Ascendant</target>
+        <note>key: ASC</note>
+      </trans-unit>
+      <trans-unit id="3e18361540b6479942c0d50d74ce2def3025fae4" resname="Add a comment">
+        <source>Add a comment</source>
+        <target state="translated">Ajouter un commentaire</target>
+        <note>key: Add a comment</note>
+      </trans-unit>
+      <trans-unit id="531e5c229e541de937c09d780f8d9b872c1cb788" resname="Add products to stored basket">
+        <source>Add to stored basket</source>
+        <target state="translated">Ajouter au panier enregistré</target>
+        <note>key: Add products to stored basket</note>
+      </trans-unit>
+      <trans-unit id="43f4682efff5d5a58ca3d8acd666eb3ec93a4713" resname="Address2">
+        <source>Additional address line</source>
+        <target state="translated">Ligne d'adresse supplémentaire</target>
+        <note>key: Address2</note>
+      </trans-unit>
+      <trans-unit id="14bf2f86fe3ff46636bfc648aba65c4ea4284881" resname="Basket with ID: %basketId% not found">
+        <source>Basket with ID: %basketId% not found</source>
+        <target state="translated">Panier avec ID: %basketId% introuvable</target>
+        <note>key: Basket with ID: %basketId% not found</note>
+      </trans-unit>
+      <trans-unit id="90ca26538127d49610edcef0bc6f52cba1027d82" resname="Basket with basket id %basketid% was deleted.">
+        <source>Basket with basket id %basketid% was deleted.</source>
+        <target state="translated">Le panier avec l'id du panier %basketid% a été supprimé.</target>
+        <note>key: Basket with basket id %basketid% was deleted.</note>
+      </trans-unit>
+      <trans-unit id="7d7f408d7c2f5a7b086f59c33d239dbfeb4f78c5" resname="Browse...">
+        <source>Browse...</source>
+        <target state="translated">Parcourir...</target>
+        <note>key: Browse...</note>
+      </trans-unit>
+      <trans-unit id="3ac8e9e58c5abaddbf9d265d4965b9b8f0a3b787" resname="Checkout">
+        <source>Checkout</source>
+        <target state="translated">Vérification</target>
+        <note>key: Checkout</note>
+      </trans-unit>
+      <trans-unit id="cffb6fcd24744790d25909bbb2d028ed9304b661" resname="Choose one of your stored baskets:">
+        <source>Choose one of your stored baskets:</source>
+        <target state="translated">Choisissez l'un de vos paniers enregistrés:</target>
+        <note>key: Choose one of your stored baskets:</note>
+      </trans-unit>
+      <trans-unit id="4271627f4f0bef6104a95cca7bb21cda4d74503e" resname="City">
+        <source>City</source>
+        <target state="translated">Ville</target>
+        <note>key: City</note>
+      </trans-unit>
+      <trans-unit id="153d7a58b3a3e898fcbdd04c462af308414bd09d" resname="Comment">
+        <source>Comment</source>
+        <target state="translated">Commentaire</target>
+        <note>key: Comment</note>
+      </trans-unit>
+      <trans-unit id="d523ebbd10146cdfd39dee077f04c9d08468d0bc" resname="Country">
+        <source>Country</source>
+        <target state="translated">Pays</target>
+        <note>key: Country</note>
+      </trans-unit>
+      <trans-unit id="d8acfdc82b94b500a1f0339dfafd320256d5eaef" resname="Currently, an individual calculation of prices and shipping costs is not possible due to technical problems.">
+        <source>Currently, an individual calculation of prices and shipping costs is not possible due to technical problems.</source>
+        <target state="translated">À l'heure actuelle, un calcul individuel des prix et des frais d'expédition n'est pas possible en raison de problèmes techniques.</target>
+        <note>key: Currently, an individual calculation of prices and shipping costs is not possible due to technical problems.</note>
+      </trans-unit>
+      <trans-unit id="b5093023417eb749513563ec16d8c0c821aa5aff" resname="DESC">
+        <source>descend</source>
+        <target state="translated">descendant</target>
+        <note>key: DESC</note>
+      </trans-unit>
+      <trans-unit id="33b75c543132c988295bb686cd71b9194b1fdfdc" resname="Dear %user%">
+        <source>Dear %user%</source>
+        <target state="translated">Cher(ère) %user%</target>
+        <note>key: Dear %user%</note>
+      </trans-unit>
+      <trans-unit id="1f63936b6c4cd6daac3f49f931bccdbe8736648b" resname="Delivery Address">
+        <source>Delivery Address</source>
+        <target state="translated">Adresse de livraison</target>
+        <note>key: Delivery Address</note>
+      </trans-unit>
+      <trans-unit id="ab2129b396fd2e0d481d6742801a8c01482b2478" resname="Delivery and invoice address are the same">
+        <source>Delivery and invoice address are the same</source>
+        <target state="translated">Les adresses de livraison et de facturation sont identiques</target>
+        <note>key: Delivery and invoice address are the same</note>
+      </trans-unit>
+      <trans-unit id="84b2b7dfbc58c87830acec6cce5cc865a5aab10d" resname="Due to technical problems, the prices have not been updated.">
+        <source>Due to technical problems, the prices have not been updated.</source>
+        <target state="translated">En raison de problèmes techniques, les prix n'ont pas été mis à jour.</target>
+        <note>key: Due to technical problems, the prices have not been updated.</note>
+      </trans-unit>
+      <trans-unit id="84add5b2952787581cb9a8851eef63d1ec75d22b" resname="Email">
+        <source>Email</source>
+        <target state="translated">E-mail</target>
+        <note>key: Email</note>
+      </trans-unit>
+      <trans-unit id="4620d948534bcc23636b916903de6ba867adc1cb" resname="Enter a new basket name!">
+        <source>Enter a new basket name!</source>
+        <target state="translated">Entrez un nouveau nom de panier !</target>
+        <note>key: Enter a new basket name!</note>
+      </trans-unit>
+      <trans-unit id="347c957e225255abb1ea7807e0a8e87e49c9ce26" resname="Error occurred! Basket name must be set.">
+        <source>Error occurred! Basket name must be set.</source>
+        <target state="translated">Une erreur s'est produite ! Le nom du panier doit être défini.</target>
+        <note>key: Error occurred! Basket name must be set.</note>
+      </trans-unit>
+      <trans-unit id="c9d8eb05f19a7ac6e71e6356dd7369b4d450ac74" resname="Error occurred! Basket type incorrect.">
+        <source>Error occurred! Basket type incorrect.</source>
+        <target state="translated">Une erreur s'est produite ! Le type de panier doit être défini.</target>
+        <note>key: Error occurred! Basket type incorrect.</note>
+      </trans-unit>
+      <trans-unit id="c25876cd811e3bbba92fe46bf0d80e1b9126f1fa" resname="Error: %error%">
+        <source>Error: %error%</source>
+        <target state="translated">Erreur : %{error}</target>
+        <note>key: Error: %error%</note>
+      </trans-unit>
+      <trans-unit id="349bf73c47f56fed9cd7b72c896dac6334190f94" resname="Following errors occurred:">
+        <source>Following errors occurred:</source>
+        <target state="translated">Les erreurs suivantes se sont produites:</target>
+        <note>key: Following errors occurred:</note>
+      </trans-unit>
+      <trans-unit id="c3dc574c1fb74872fbe7144f7ea1cf072afa49eb" resname="Invoice Address">
+        <source>Invoice Address</source>
+        <target state="translated">Adresse de facturation</target>
+        <note>key: Invoice Address</note>
+      </trans-unit>
+      <trans-unit id="0d995dada89eb0906777db28fa29bac15139879c" resname="More Products">
+        <source>More Products</source>
+        <target state="translated">Plus de produits</target>
+        <note>key: More Products</note>
+      </trans-unit>
+      <trans-unit id="473710d327804e484c1863690d91c3751e2c7c98" resname="More details">
+        <source>More details</source>
+        <target state="translated">Plus de détails</target>
+        <note>key: More details</note>
+      </trans-unit>
+      <trans-unit id="216585e29a7c365fb5ffc1a25f5532f89a24a60e" resname="Mr.">
+        <source>Mr.</source>
+        <target state="translated">M.</target>
+        <note>key: Mr.</note>
+      </trans-unit>
+      <trans-unit id="37861bd65e4c2345a9cbcdcbfb928f49b68ed547" resname="Mrs.">
+        <source>Mrs.</source>
+        <target state="translated">Mme</target>
+        <note>key: Mrs.</note>
+      </trans-unit>
+      <trans-unit id="45205ef85b2f57922ab3c566402f2747eb51783a" resname="Name/Company">
+        <source>Name/Company</source>
+        <target state="translated">Nom/Entreprise</target>
+        <note>key: Name/Company</note>
+      </trans-unit>
+      <trans-unit id="6ffcdc92a33aa89f26c7cd8dce6c583abb019bcd" resname="Name/Company 2">
+        <source>Name/Company 2</source>
+        <target state="translated">Nom/Entreprise 2</target>
+        <note>key: Name/Company 2</note>
+      </trans-unit>
+      <trans-unit id="492dca19f68470a019592069af4d7da92ee5da51" resname="Order confirmation">
+        <source>Order confirmation</source>
+        <target state="translated">Confirmation de commande</target>
+        <note>key: Order confirmation</note>
+      </trans-unit>
+      <trans-unit id="9d2a9f0a31db1c658c1c486cdbe3ff84da6e1f3a" resname="Order for basket: %basketId% has been deleted successfully.">
+        <source>Order for basket: %basketId% has been deleted successfully.</source>
+        <target state="translated">La commande pour le panier : %basketId% a été supprimée avec succès.</target>
+        <note>key: Order for basket: %basketId% has been deleted successfully.</note>
+      </trans-unit>
+      <trans-unit id="c95b4a4292a043e6e35b17abe3083e1a51c74b60" resname="Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%">
+        <source>Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</source>
+        <target state="translated">La commande pour le panier : %basketId% a été traitée avec succès, Numéro de commande : %orderId%</target>
+        <note>key: Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</note>
+      </trans-unit>
+      <trans-unit id="0e55fb3b04e225d83af1a64ec1cedc121fb61c32" resname="Payment method">
+        <source>Payment method</source>
+        <target state="translated">Mode de paiement</target>
+        <note>key: Payment method</note>
+      </trans-unit>
+      <trans-unit id="8961d3bf56ef1c18ef5c831ba0838e8b1f85e5de" resname="Phone number">
+        <source>Phone number</source>
+        <target state="translated">Numéro de téléphone</target>
+        <note>key: Phone number</note>
+      </trans-unit>
+      <trans-unit id="c3cb27ea83980effb04b04bed4eff2585b48468b" resname="Please choose a variant">
+        <source>Please choose a variant</source>
+        <target state="translated">Veuillez choisir une variante</target>
+        <note>key: Please choose a variant</note>
+      </trans-unit>
+      <trans-unit id="d480d238b2046a98cd6356440a5c8659f9f4c5e7" resname="Please make a choice">
+        <source>Please make a choice</source>
+        <target state="translated">Veuillez faire un choix</target>
+        <note>key: Please make a choice</note>
+      </trans-unit>
+      <trans-unit id="8bc1ebf512569e098d6e59cac4c33676bdf3b9b6" resname="Prices can not be calculated for %sku% %variantCode%!">
+        <source>Prices can not be calculated for %sku% %variantCode%!</source>
+        <target state="translated">Les prix ne peuvent pas être calculés pour %sku% %variantCode%!</target>
+        <note>key: Prices can not be calculated for %sku% %variantCode%!</note>
+      </trans-unit>
+      <trans-unit id="9456d3ce22ab335b9351bce2061f8a54de663703" resname="Proceed to checkout">
+        <source>Proceed to checkout</source>
+        <target state="translated">Passer à la validation de commande</target>
+        <note>key: Proceed to checkout</note>
+      </trans-unit>
+      <trans-unit id="42c90aba6188659277788fc74caad78e589d0eb3" resname="Product added: %name%, %sku% %variantCode%">
+        <source>Product added: %name%, %sku% %variantCode%</source>
+        <target state="translated">Produit ajouté : %name%, %sku% %variantCode%</target>
+        <note>key: Product added: %name%, %sku% %variantCode%</note>
+      </trans-unit>
+      <trans-unit id="e0910cb2bfcb8538d85c1a960055fa3ff3df08f2" resname="Product removed: %name%, %sku% %variantCode%">
+        <source>Product removed: %name%, %sku% %variantCode%</source>
+        <target state="translated">Produit supprimé : %name%, %sku% %variantCode%</target>
+        <note>key: Product removed: %name%, %sku% %variantCode%</note>
+      </trans-unit>
+      <trans-unit id="af9eb1592fdde38ae9e024ad14f9e7beba3040b9" resname="Product was added to the basket">
+        <source>Product was added to the basket</source>
+        <target state="translated">Le produit a été ajouté au panier</target>
+        <note>key: Product was added to the basket</note>
+      </trans-unit>
+      <trans-unit id="8e187b45401542dc387caa0e5238c3644ac219e4" resname="Product with the SKU %sku% not found">
+        <source>Product with the SKU %sku% not found</source>
+        <target state="translated">Le produit avec le SKU %sku% est introuvable</target>
+        <note>key: Product with the SKU %sku% not found</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
