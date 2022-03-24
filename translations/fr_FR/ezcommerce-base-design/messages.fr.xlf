@@ -16,6 +16,11 @@
         <target state="translated">Allemagne</target>
         <note>key: DE</note>
       </trans-unit>
+      <trans-unit id="30baa24967e08965d1594408031f0324ae11ccac" resname="Folder">
+        <source>Folder</source>
+        <target state="translated">Dossier</target>
+        <note>key: Folder</note>
+      </trans-unit>
       <trans-unit id="d2e269273a451b6887ce930a00282453b864f784" resname="Folder|search">
         <source>Folder</source>
         <target state="translated">Dossier</target>
