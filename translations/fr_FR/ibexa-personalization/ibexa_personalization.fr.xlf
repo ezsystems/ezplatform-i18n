@@ -371,6 +371,26 @@
         <target state="translated">Modèle aléatoire</target>
         <note>key: models.description.RANDOM_DOMAINx</note>
       </trans-unit>
+      <trans-unit id="7d69995534aa896d5b450e04f6a0c422d2b0477d" resname="models.description.STEREOTYPES_CFx">
+        <source>Enables personalized recommendation based on clusters from user behaviour or content information</source>
+        <target state="translated">Active la recommandation personnalisée basée sur les grappes à partir du comportement de l'utilisateur ou des informations de contenu</target>
+        <note>key: models.description.STEREOTYPES_CFx</note>
+      </trans-unit>
+      <trans-unit id="5920550d09090e87ff1bbb4b2ce6cbf256f224d0" resname="models.description._todelete_also_purchased">
+        <source>User who bought this item (movie, etc.), also bought the following items</source>
+        <target state="translated">L'utilisateur qui a acheté cet article (film, etc.), a également acheté les objets suivants</target>
+        <note>key: models.description._todelete_also_purchased</note>
+      </trans-unit>
+      <trans-unit id="41af10423a07bc1202ed5872f1811ae962a60f54" resname="models.description._todelete_top_selling">
+        <source>Most popular content (product, article, etc.) based on a weighted purchase history</source>
+        <target state="translated">Contenu le plus populaire (produit, article, etc.) basé sur un historique d'achat pondéré</target>
+        <note>key: models.description._todelete_top_selling</note>
+      </trans-unit>
+      <trans-unit id="5a6aec6b3022fc799ba1272fd14aa9c6efd3a671" resname="models.description._todelete_ultimately_bought">
+        <source>User who clicked on this content (articles, images, etc), also bought the following products</source>
+        <target state="translated">L'utilisateur qui a cliqué sur ce contenu (article, image, etc.), a également acheté sur les produits suivants</target>
+        <note>key: models.description._todelete_ultimately_bought</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
