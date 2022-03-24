@@ -56,6 +56,11 @@
         <target state="translated">Type</target>
         <note>key: order_list.details.type</note>
       </trans-unit>
+      <trans-unit id="0525573be87655dc7344c78e9d4875a8d9183d4c" resname="order_list.details.variant">
+        <source>Variant</source>
+        <target state="translated">Variante</target>
+        <note>key: order_list.details.variant</note>
+      </trans-unit>
       <trans-unit id="cc2260093992b93e7c5ce72f41c90ff1fa081606" resname="order_list.filters.apply">
         <source>Apply</source>
         <target state="translated">Appliquer</target>
@@ -120,6 +125,11 @@
         <source>New</source>
         <target state="translated">Nouvelle</target>
         <note>key: order_list.filters.state.new</note>
+      </trans-unit>
+      <trans-unit id="ba4f5102624c22c80dbc273ba96aac1b8b171263" resname="order_list.filters.state.offered">
+        <source>Offered</source>
+        <target state="translated">Offert</target>
+        <note>key: order_list.filters.state.offered</note>
       </trans-unit>
       <trans-unit id="6825392714a126f46b6452cad3e5af9cea9a4420" resname="order_list.filters.state.ordered_failed">
         <source>Order transfer failed</source>
