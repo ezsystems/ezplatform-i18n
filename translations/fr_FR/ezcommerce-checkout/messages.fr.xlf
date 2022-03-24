@@ -226,6 +226,376 @@
         <target state="translated">Le produit avec le SKU %sku% est introuvable</target>
         <note>key: Product with the SKU %sku% not found</note>
       </trans-unit>
+      <trans-unit id="e8003dd9fe377ed6eb3f8f90d4afaef026f54964" resname="Product with the sku: %sku% not found">
+        <source>Product with the sku: %sku% not found</source>
+        <target state="translated">Le produit avec le SKU %sku% est introuvable</target>
+        <note>key: Product with the sku: %sku% not found</note>
+      </trans-unit>
+      <trans-unit id="db63462f5ed519ed4109044238bffb2400890bf6" resname="Product: %name%, %sku% %variantCode% added to your %basketType%|comparison">
+        <source>Product: %name%, %sku% %variantCode% added to your comparison list</source>
+        <target state="translated">Produit : %name%, %sku% %variantCode% ajouté à votre liste de comparaison</target>
+        <note>key: Product: %name%, %sku% %variantCode% added to your %basketType%|comparison</note>
+      </trans-unit>
+      <trans-unit id="81ba5ff04c492336bd6bf949fae906c5a9980014" resname="Product: %name%, %sku% %variantCode% added to your %basketType%|storedBasket">
+        <source>Product: %name%, %sku% %variantCode% added to your stored basket</source>
+        <target state="translated">Produit : %name%, %sku% %variantCode% stocké dans votre panier</target>
+        <note>key: Product: %name%, %sku% %variantCode% added to your %basketType%|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="f4734643c5603ab5c7dee20436acf7294f6ee5c5" resname="Product: %name%, %sku% %variantCode% added to your %basketType%|wishList">
+        <source>Product: %name%, %sku% %variantCode% added to your wishlist</source>
+        <target state="translated">Produit : %name%, %sku% %variantCode% ajouté à votre liste d'envies</target>
+        <note>key: Product: %name%, %sku% %variantCode% added to your %basketType%|wishList</note>
+      </trans-unit>
+      <trans-unit id="c18d2752de749f23f5a3154eb722863739feeacf" resname="Product: %sku%, %name% added to your %basketType%|comparison">
+        <source>Product: %sku%, %name% added to your comparison list</source>
+        <target state="translated">Produit : %name%, %sku% %variantCode% ajouté à votre liste de comparaison</target>
+        <note>key: Product: %sku%, %name% added to your %basketType%|comparison</note>
+      </trans-unit>
+      <trans-unit id="1458d8232c5cb923d9ff488ffb972311963dbab1" resname="Product: %sku%, %name% added to your %basketType%|storedBasket">
+        <source>Product: %sku%, %name% added to your stored basket</source>
+        <target state="translated">Produit : %name%, %sku% %variantCode% stocké dans votre panier</target>
+        <note>key: Product: %sku%, %name% added to your %basketType%|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="e31bbe2dd462100e3c1f3a68c3527be932eaab0b" resname="Product: %sku%, %name% added to your %basketType%|wishList">
+        <source>Product: %sku%, %name% added to your wishlist</source>
+        <target state="translated">Produit : %sku%, %name% ajouté à votre liste d'envies</target>
+        <note>key: Product: %sku%, %name% added to your %basketType%|wishList</note>
+      </trans-unit>
+      <trans-unit id="9286be6122025f408635f46bae18700124d893db" resname="Products were added to the basket">
+        <source>Products were added to the basket</source>
+        <target state="translated">Les produits ont été ajoutés au panier</target>
+        <note>key: Products were added to the basket</note>
+      </trans-unit>
+      <trans-unit id="98c115a34fe9c270c0032fb5521719c2d646e4d3" resname="Products were added to your %basketType%|storedBasket">
+        <source>Products were added to your stored basket</source>
+        <target state="translated">Les produits ont été stockés dans votre panier</target>
+        <note>key: Products were added to your %basketType%|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="1c27b0196f566540a146f7449797ccc065a225ce" resname="Quantity is not valid.">
+        <source>Quantity is not valid.</source>
+        <target state="translated">La quantité n'est pas valide</target>
+        <note>key: Quantity is not valid.</note>
+      </trans-unit>
+      <trans-unit id="3cae3fbb4216ab78fdc8e432facd12c052318d89" resname="Remove product from stored basket|storedBasket">
+        <source>Remove product from stored basket</source>
+        <target state="translated">Retirer le produit du panier stocké</target>
+        <note>key: Remove product from stored basket|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="c93ac9d48a7a3dfdd2f6fcc3924b79e693827faf" resname="Remove product from stored basket|wishList">
+        <source>Remove product from wishlist</source>
+        <target state="translated">Retirer le produit de la liste d'envies </target>
+        <note>key: Remove product from stored basket|wishList</note>
+      </trans-unit>
+      <trans-unit id="50c518cdf0faedd9bc5ce47a5799df55cb0f07c9" resname="Save on my address list">
+        <source>Save on my address list</source>
+        <target state="translated">Enregistrer dans ma liste d'adresses</target>
+        <note>key: Save on my address list</note>
+      </trans-unit>
+      <trans-unit id="8d15fc8a22a358a6b8d6c51a6d1fe1afa153a417" resname="Search in addresses">
+        <source>Search in addresses</source>
+        <target state="translated">Rechercher des adresses</target>
+        <note>key: Search in addresses</note>
+      </trans-unit>
+      <trans-unit id="9d1aafa8abe0ba32db90de6a6ad0a81464151a19" resname="Shipping method">
+        <source>Shipping method</source>
+        <target state="translated">Méthode de livraison</target>
+        <note>key: Shipping method</note>
+      </trans-unit>
+      <trans-unit id="8bb329943eb487de65ee7bf6f52791483baccc72" resname="Sorry! You need an account to add items to your %basketType%|storedBasket">
+        <source>Sorry! You need an account to add items to your stored basket</source>
+        <target state="translated">Désolé ! Vous avez besoin d'un compte pour ajouter des articles à votre panier</target>
+        <note>key: Sorry! You need an account to add items to your %basketType%|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="95c15e34b8e9f6833c71dfa4cf38256d3242da0f" resname="Sorry! You need an account to add items to your %basketType%|wishList">
+        <source>Sorry! You need an account to add items to your wishlist</source>
+        <target state="translated">Désolé ! Vous avez besoin d'un compte pour ajouter des articles à votre liste de souhaits</target>
+        <note>key: Sorry! You need an account to add items to your %basketType%|wishList</note>
+      </trans-unit>
+      <trans-unit id="7c0edbbcef0fd4e657c38d593a3e0fac11895917" resname="Sort Field">
+        <source>Sort Field</source>
+        <target state="translated">Champs de tri</target>
+        <note>key: Sort Field</note>
+      </trans-unit>
+      <trans-unit id="da4725a3306d8386ac42c90352ae668b0289c8ac" resname="State/County">
+        <source>State/County</source>
+        <target state="translated">Région / Province</target>
+        <note>key: State/County</note>
+      </trans-unit>
+      <trans-unit id="bae7d5be70820ed56467bd9a63744e23b47bd711" resname="Status">
+        <source>Status</source>
+        <target state="translated">Statut</target>
+        <note>key: Status</note>
+      </trans-unit>
+      <trans-unit id="b454109993438542163d132d897313eee1b480fa" resname="Street">
+        <source>Street</source>
+        <target state="translated">Rue</target>
+        <note>key: Street</note>
+      </trans-unit>
+      <trans-unit id="40771e32e1d5bb713945ce36cd59b40a39320ef7" resname="Subtotal %vat% VAT">
+        <source>Subtotal %vat% VAT</source>
+        <target state="translated">Sous-total %vat% TVA</target>
+        <note>key: Subtotal %vat% VAT</note>
+      </trans-unit>
+      <trans-unit id="6cad0cd1b5376fa52ed4fa0393099e9c7f4f149c" resname="Summary and Order Confirmation">
+        <source>Summary and Order Confirmation</source>
+        <target state="translated">Résumé et confirmation de commande</target>
+        <note>key: Summary and Order Confirmation</note>
+      </trans-unit>
+      <trans-unit id="24a7814c5bbc472f769c917f50fa72ee373d6b26" resname="Summary and order overview">
+        <source>Summary and order overview</source>
+        <target state="translated">Résumé et aperçu des commandes</target>
+        <note>key: Summary and order overview</note>
+      </trans-unit>
+      <trans-unit id="1e7aee9fa1447f160ec79ac3bd1f948ca626aa66" resname="The %value% quantity is %quantity% for product: %name%, %sku% %variantCode%">
+        <source>The %value% quantity is %quantity% for product: %name%, %sku% %variantCode%</source>
+        <target state="translated">La quantité %value% est %quantity% pour le produit : %name%, %sku% %variantCode%</target>
+        <note>key: The %value% quantity is %quantity% for product: %name%, %sku% %variantCode%</note>
+      </trans-unit>
+      <trans-unit id="d7ccc00b30b7ab44e951979c8b08128afc11c007" resname="The given quantity %quantity% is not valid for product: %name%,  %sku% %variantCode%">
+        <source>The given quantity %quantity% is not valid for product: %name%,  %sku% %variantCode%</source>
+        <target state="translated">La quantité %quantity% n'est pas valide pour le produit : %name%,  %sku% %variantCode%</target>
+        <note>key: The given quantity %quantity% is not valid for product: %name%,  %sku% %variantCode%</note>
+      </trans-unit>
+      <trans-unit id="e2a5da6deecbf01f0a50ae697347132f92657621" resname="The item: %sku% %varCode% is discontinued and not available anymore. It was deleted from the basket.">
+        <source>The item: %sku% %varCode% is discontinued and not available anymore. It was deleted from the basket.</source>
+        <target state="translated">L'article : %sku% %varCode% est interrompu et n'est plus disponible. Il a été supprimé du panier.</target>
+        <note>key: The item: %sku% %varCode% is discontinued and not available anymore. It was deleted from the basket.</note>
+      </trans-unit>
+      <trans-unit id="af625a7f99719b4905074cc2afba437f67b65d4b" resname="The item: %sku% %varCode% is discontinued and only %quantity% items are available.">
+        <source>The item: %sku% %varCode% is discontinued and only %quantity% items are available.</source>
+        <target state="translated">L'élément : %sku% %varCode% est interrompu et seuls %quantity% éléments sont disponibles.</target>
+        <note>key: The item: %sku% %varCode% is discontinued and only %quantity% items are available.</note>
+      </trans-unit>
+      <trans-unit id="059562a6f3b143de49442d3189d4e8789187739b" resname="The packaging unit is %packagingUnit% for product:  %name%, %sku% %variantCode%">
+        <source>The packaging unit is %packagingUnit% for product:  %name%, %sku% %variantCode%</source>
+        <target state="translated">L'unité d'emballage est %packagingUnit% pour le produit :  %name%, %sku% %variantCode%</target>
+        <note>key: The packaging unit is %packagingUnit% for product:  %name%, %sku% %variantCode%</note>
+      </trans-unit>
+      <trans-unit id="998e2021f1387d6dfa9a1ef977c06ba4514d96d8" resname="There is no information about the availability for: %sku% %varCode%, but this item is discontinued.">
+        <source>There is no information about the availability for: %sku% %varCode%, but this item is discontinued.</source>
+        <target state="translated">Il n'y a aucune information sur la disponibilité pour: %sku% %varCode%, mais cet élément est interrompu.</target>
+        <note>key: There is no information about the availability for: %sku% %varCode%, but this item is discontinued.</note>
+      </trans-unit>
+      <trans-unit id="d716be948f84dad3211817858851c09283290d34" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|comparison">
+        <source>You have already the product:  %name%, %sku% in your comparison list</source>
+        <target state="translated">Vous avez déjà le produit :  %name%, %sku% dans votre liste de comparaison</target>
+        <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|comparison</note>
+      </trans-unit>
+      <trans-unit id="06621dc0b722ae3008c93ff8a2efa763a978ec00" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|storedBasket">
+        <source>You have already the product: %name%, %sku% in your stored basket</source>
+        <target state="translated">Vous avez déjà le produit : %name%, %sku% dans votre panier stocké</target>
+        <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="2293f8e8c409db0febed97d76d90ccf113ac3c9f" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|wishList">
+        <source>You have already the product: %name%, %sku% in your wishlist</source>
+        <target state="translated">Vous avez déjà le produit : %name%, %sku% dans votre liste de souhaits</target>
+        <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|wishList</note>
+      </trans-unit>
+      <trans-unit id="3c52430eb9e6bb06cd337a822b52de305b7aa614" resname="You have already the product: %sku%, %name% in your %basketType%|comparison">
+        <source>You have already the product: %sku%, %name% in your comparison list</source>
+        <target state="translated">Vous avez déjà le produit : %sku%, %name% dans votre liste de comparaison</target>
+        <note>key: You have already the product: %sku%, %name% in your %basketType%|comparison</note>
+      </trans-unit>
+      <trans-unit id="50dc8a71d117b77acf641c522b742dd896a3740c" resname="You have already the product: %sku%, %name% in your %basketType%|storedBasket">
+        <source>You already have product %sku%, %name% in your stored basket</source>
+        <target state="translated">Vous avez déjà le produit %sku%, %name% dans votre panier</target>
+        <note>key: You have already the product: %sku%, %name% in your %basketType%|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="96019b5781a6715a756a431751598410dcd4877d" resname="You have already the product: %sku%, %name% in your %basketType%|wishList">
+        <source>You have already the product: %sku%, %name% in your wishlist</source>
+        <target state="translated">Vous avez déjà le produit : %name%, %sku% dans votre liste de souhaits</target>
+        <note>key: You have already the product: %sku%, %name% in your %basketType%|wishList</note>
+      </trans-unit>
+      <trans-unit id="8d302598ac4b24c40a15f5ae55a739051039b0ac" resname="You have following items in your %basket_type%|storedBasket">
+        <source>You have following items in your stored basket</source>
+        <target state="translated">Vous avez les produits suivants dans votre panier stocké</target>
+        <note>key: You have following items in your %basket_type%|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="cb3e419b92d6976b39094f86015b27aab1ce111c" resname="You have following items in your %basket_type%|wishList">
+        <source>You have following items in your wishlist</source>
+        <target state="translated">Vous avez les produits suivants dans votre liste de souhaits</target>
+        <note>key: You have following items in your %basket_type%|wishList</note>
+      </trans-unit>
+      <trans-unit id="ba8be5a8c07255c507e8c80b00454bdc3d55312e" resname="Your %basketType% is empty|comparison">
+        <source>Your comparison list is empty</source>
+        <target state="translated">Votre liste de comparaison est vide!</target>
+        <note>key: Your %basketType% is empty|comparison</note>
+      </trans-unit>
+      <trans-unit id="3ad9ca4346f87231465d050bf9106892f0339397" resname="Your %basketType% is empty|storedBasket">
+        <source>Your stored basket is empty</source>
+        <target state="translated">Votre panier stocké est vide</target>
+        <note>key: Your %basketType% is empty|storedBasket</note>
+      </trans-unit>
+      <trans-unit id="d3e9f3bd562ecc3801def7f791ed775e7eb8dee5" resname="Your %basketType% is empty|wishList">
+        <source>Your wishlist is empty</source>
+        <target state="translated">La liste de souhaits est vide !</target>
+        <note>key: Your %basketType% is empty|wishList</note>
+      </trans-unit>
+      <trans-unit id="d447b63fbd8910a8b13fa7875c2d4725d146e8ba" resname="Your Basket is empty">
+        <source>Your Basket is empty</source>
+        <target state="translated">Votre panier est vide</target>
+        <note>key: Your Basket is empty</note>
+      </trans-unit>
+      <trans-unit id="8eb7a0d6cb42c6091923c77084d3d09ebb9cb2db" resname="Your comment">
+        <source>Your comment</source>
+        <target state="translated">Votre commentaire</target>
+        <note>key: Your comment</note>
+      </trans-unit>
+      <trans-unit id="c7d4efee746ed353828d435cc67f6bf174959dac" resname="Your order amount must reach at least: %amount% %currency%">
+        <source>Your order amount must reach at least: %amount% %currency%</source>
+        <target state="translated">Le montant de votre commande doit atteindre au moins : %amount% %currency%</target>
+        <note>key: Your order amount must reach at least: %amount% %currency%</note>
+      </trans-unit>
+      <trans-unit id="98aa64de7bc791f7b8c35fe219bbf89820ebaf9e" resname="Your order number is">
+        <source>Your order number is</source>
+        <target state="translated">Votre numéro de commande est</target>
+        <note>key: Your order number is</note>
+      </trans-unit>
+      <trans-unit id="1ed01e7c71996c604337478270c81704193265d0" resname="ZIP code">
+        <source>ZIP code</source>
+        <target state="translated">Code postal</target>
+        <note>key: ZIP code</note>
+      </trans-unit>
+      <trans-unit id="87e38e3331cdb7d71a281257fbaf0de7a2561779" resname="basket.page.action.remove.basket">
+        <source>Remove basket</source>
+        <target state="translated">Supprimer le panier</target>
+        <note>key: basket.page.action.remove.basket</note>
+      </trans-unit>
+      <trans-unit id="814ea6d4f85e65fa9626d561aaf1cc217a2d8be3" resname="basket.page.action.update.basket">
+        <source>Update basket</source>
+        <target state="translated">Mettre à jour le panier</target>
+        <note>key: basket.page.action.update.basket</note>
+      </trans-unit>
+      <trans-unit id="d1f9b2f6ba844fc20b226d5edb697b8fd1b9f744" resname="basket.page.actions.back">
+        <source>Back</source>
+        <target state="translated">Précédent</target>
+        <note>key: basket.page.actions.back</note>
+      </trans-unit>
+      <trans-unit id="d190ac9ed65cc3c93c3cd2b0325b405a96976a2e" resname="basket.page.actions.checkout">
+        <source>Checkout</source>
+        <target state="translated">Validation de commande</target>
+        <note>key: basket.page.actions.checkout</note>
+      </trans-unit>
+      <trans-unit id="27eb4ffbf2e03afbdaea9264361e6a3a2c853a06" resname="basket.page.is.empty">
+        <source>Your Basket is empty!</source>
+        <target state="translated">Votre panier est vide</target>
+        <note>key: basket.page.is.empty</note>
+      </trans-unit>
+      <trans-unit id="37ca4c4d567edf49c5946b76c577ea954bd118e6" resname="basket.page.table.product">
+        <source>Product</source>
+        <target state="translated">Produit</target>
+        <note>key: basket.page.table.product</note>
+      </trans-unit>
+      <trans-unit id="0fb2f6a3dad4d3b3b7ff36967d99a8e2b1b51cb1" resname="basket.page.table.product.not.available">
+        <source>This product is not available any more! You can delete it here</source>
+        <target state="translated">Ce produit n'est plus disponible ! Vous pouvez le supprimer ici</target>
+        <note>key: basket.page.table.product.not.available</note>
+      </trans-unit>
+      <trans-unit id="e8b12e2224d0881533f5cffe47a786f66d93bad2" resname="basket.page.table.quantity">
+        <source>Quantity</source>
+        <target state="translated">Quantité</target>
+        <note>key: basket.page.table.quantity</note>
+      </trans-unit>
+      <trans-unit id="e4c9fe7d988127a11861dbb21bd35431ae364781" resname="basket.page.table.remove">
+        <source>Remove</source>
+        <target state="translated">Supprimer</target>
+        <note>key: basket.page.table.remove</note>
+      </trans-unit>
+      <trans-unit id="c18e8bed77f973faa01527989e3715bd360458cb" resname="basket.page.table.sku">
+        <source>SKU</source>
+        <target state="translated">Référence</target>
+        <note>key: basket.page.table.sku</note>
+      </trans-unit>
+      <trans-unit id="0c79bd995df303f2bbd86361ffaac6fc20d82d06" resname="basket.page.table.stock">
+        <source>Stock</source>
+        <target state="translated">Stock</target>
+        <note>key: basket.page.table.stock</note>
+      </trans-unit>
+      <trans-unit id="675749f36e6a19e60e4e18b1ce5fd33b8fa1fe71" resname="basket.page.table.stock.available">
+        <source>Available</source>
+        <target state="translated">Disponible</target>
+        <note>key: basket.page.table.stock.available</note>
+      </trans-unit>
+      <trans-unit id="db515d29f50794c75e02ff01b755e5073ded4598" resname="basket.page.table.stock.no.data">
+        <source>No data</source>
+        <target state="translated">Pas de données</target>
+        <note>key: basket.page.table.stock.no.data</note>
+      </trans-unit>
+      <trans-unit id="e19b071e8cbafc0d564de0505ab92a15f40fd711" resname="basket.page.table.stock.not available">
+        <source>Not available</source>
+        <target state="translated">Non disponible</target>
+        <note>key: basket.page.table.stock.not available</note>
+      </trans-unit>
+      <trans-unit id="f386ff39def38e1216fb6f66a64aec8c7338b68a" resname="basket.page.table.stock.parially.available">
+        <source>Partially available (stock out of quantity)</source>
+        <target state="translated">Partiellement disponible (stock en rupture de quantité)</target>
+        <note>key: basket.page.table.stock.parially.available</note>
+      </trans-unit>
+      <trans-unit id="6a8bc1717363f46f0da9e81ef6a637f6029adb33" resname="basket.page.table.total.actions">
+        <source>Actions</source>
+        <target state="translated">Actions</target>
+        <note>key: basket.page.table.total.actions</note>
+      </trans-unit>
+      <trans-unit id="236a998f75fe9b37d1c9c85ac9b3ea4f00bc29e2" resname="basket.page.table.total.price">
+        <source>Total price</source>
+        <target state="translated">Prix total</target>
+        <note>key: basket.page.table.total.price</note>
+      </trans-unit>
+      <trans-unit id="2735993df2c16fa362d05d2fefebc1794d5ad759" resname="basket.page.table.unit.price">
+        <source>Unit price</source>
+        <target state="translated">Prix unitaire</target>
+        <note>key: basket.page.table.unit.price</note>
+      </trans-unit>
+      <trans-unit id="d7f373578bb58b0bfa234766ed31c8f4162f9e2a" resname="basket.page.table.variant">
+        <source>Variant</source>
+        <target state="translated">Variante</target>
+        <note>key: basket.page.table.variant</note>
+      </trans-unit>
+      <trans-unit id="ae88c1331a6d5c487fc1f5c44617269de7e549c8" resname="basket.widget.go.to.basket">
+        <source>Go to basket</source>
+        <target state="translated">Se rendre au panier</target>
+        <note>key: basket.widget.go.to.basket</note>
+      </trans-unit>
+      <trans-unit id="2bde7436885b67547448321302536183f3d9525b" resname="basket.widget.go.to.checkout">
+        <source>Go to checkout</source>
+        <target state="translated">Passer la commande</target>
+        <note>key: basket.widget.go.to.checkout</note>
+      </trans-unit>
+      <trans-unit id="e2d83dac01afb7600364eb2ae3c93099813e53cc" resname="basket.widget.shopping.basket">
+        <source>Basket</source>
+        <target state="translated">Panier</target>
+        <note>key: basket.widget.shopping.basket</note>
+      </trans-unit>
+      <trans-unit id="1e51172c998063eeeab701f00044088f8563492d" resname="basket.widget.total">
+        <source>Total</source>
+        <target state="translated">Total</target>
+        <note>key: basket.widget.total</note>
+      </trans-unit>
+      <trans-unit id="a5fd5550d4ca82c1196a67799c723548517fdec7" resname="basket_summary.total">
+        <source>Total</source>
+        <target state="translated">Total</target>
+        <note>key: basket_summary.total</note>
+      </trans-unit>
+      <trans-unit id="e87b2f769f04e37c2910ea516ce9d139502a47ef" resname="basket_summary.vat">
+        <source>VAT (%vat%%)</source>
+        <target state="translated">TVA (%vat%%)</target>
+        <note>key: basket_summary.vat</note>
+      </trans-unit>
+      <trans-unit id="230715946215cec7028ddf24fcef779ccbd0daf9" resname="button.order">
+        <source>Purchase now</source>
+        <target state="translated">Acheter maintenant</target>
+        <note>key: button.order</note>
+      </trans-unit>
+      <trans-unit id="d5491e7e7124a22dd73fa746ba129c59f9dc6d5d" resname="checkout">
+        <source>Checkout</source>
+        <target state="translated">Validation de commande</target>
+        <note>key: checkout</note>
+      </trans-unit>
+      <trans-unit id="aab7d33d8dfa5bcad497e2ebbdf6270ae95662e5" resname="checkout.delivery.address">
+        <source>Delivery Address</source>
+        <target state="translated">Adresse de livraison</target>
+        <note>key: checkout.delivery.address</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
