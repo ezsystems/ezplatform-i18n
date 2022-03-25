@@ -596,6 +596,51 @@
         <target state="translated">Adresse de livraison</target>
         <note>key: checkout.delivery.address</note>
       </trans-unit>
+      <trans-unit id="3bee7544adbbb7e40c87b16d2bdea3ffbde997b1" resname="checkout.delivery.search_in_addresses">
+        <source>Search in addresses</source>
+        <target state="translated">Rechercher des adresses</target>
+        <note>key: checkout.delivery.search_in_addresses</note>
+      </trans-unit>
+      <trans-unit id="a56a8fde997987b3b84c53d1859ed1a03fcc8917" resname="checkout.delivery.send">
+        <source>Send to this address</source>
+        <target state="translated">Envoyer à cette adresse</target>
+        <note>key: checkout.delivery.send</note>
+      </trans-unit>
+      <trans-unit id="c8ce2d90d128eb271b54a64db9ade9805ae6388a" resname="checkout.delivery.step_name">
+        <source>Delivery Address</source>
+        <target state="translated">Adresse de livraison</target>
+        <note>key: checkout.delivery.step_name</note>
+      </trans-unit>
+      <trans-unit id="36c9717ee5d931919f14db7187c43d2251956bae" resname="checkout.edit.basket">
+        <source>Edit basket</source>
+        <target state="translated">Modifier le panier</target>
+        <note>key: checkout.edit.basket</note>
+      </trans-unit>
+      <trans-unit id="e6f27c895fc1f8ed122f941c29e94206c5da0b8a" resname="checkout.invoice.address">
+        <source>Invoice Address</source>
+        <target state="translated">Adresse de facturation</target>
+        <note>key: checkout.invoice.address</note>
+      </trans-unit>
+      <trans-unit id="8ac2495d6f9d172b933f4711b4b40c6a733c2b2c" resname="checkout.invoice.step_name">
+        <source>Invoice Address</source>
+        <target state="translated">Adresse de facturation</target>
+        <note>key: checkout.invoice.step_name</note>
+      </trans-unit>
+      <trans-unit id="2ac266ce9e24c677ceeeaf4ebd5250a17c788dc3" resname="checkout.login.already_a_customer">
+        <source>Already a customer?</source>
+        <target state="translated">Déjà client ?</target>
+        <note>key: checkout.login.already_a_customer</note>
+      </trans-unit>
+      <trans-unit id="395245d37f5050d1ba19dfd9dc17180dfba78853" resname="checkout.login.business">
+        <source>Business customer</source>
+        <target state="translated">Client professionnel</target>
+        <note>key: checkout.login.business</note>
+      </trans-unit>
+      <trans-unit id="bbf01fdc1627b7a10fc7e742dd49ec184b0114a1" resname="checkout.login.email">
+        <source>Email address</source>
+        <target state="translated">Adresse E-mail</target>
+        <note>key: checkout.login.email</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
