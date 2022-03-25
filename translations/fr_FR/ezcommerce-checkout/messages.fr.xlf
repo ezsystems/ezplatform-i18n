@@ -641,6 +641,131 @@
         <target state="translated">Adresse E-mail</target>
         <note>key: checkout.login.email</note>
       </trans-unit>
+      <trans-unit id="0a836f4526cbe9e4fd7e75963c41766b2390c556" resname="checkout.login.existing">
+        <source>Existing customer</source>
+        <target state="translated">Client existant</target>
+        <note>key: checkout.login.existing</note>
+      </trans-unit>
+      <trans-unit id="44da67bf842494a4a58359479b3a4033c4443607" resname="checkout.login.existing.header">
+        <source>If you are an existing customer, please click here:</source>
+        <target state="translated">Si vous êtes un client existant, veuillez cliquer ici :</target>
+        <note>key: checkout.login.existing.header</note>
+      </trans-unit>
+      <trans-unit id="f629846a5c9d2dc6b760ba5d8eaf961ebb11eb85" resname="checkout.login.forgot_password">
+        <source>Forgot your password?</source>
+        <target state="translated">Mot de passe oublié ?</target>
+        <note>key: checkout.login.forgot_password</note>
+      </trans-unit>
+      <trans-unit id="0bc41e4eef700eda9f85744b506df96ead899d7d" resname="checkout.login.no_registration">
+        <source>I want to buy as a guest</source>
+        <target state="translated">Je veux acheter en tant qu'invité</target>
+        <note>key: checkout.login.no_registration</note>
+      </trans-unit>
+      <trans-unit id="9699cbacf3c8d027f411863185eb4eb967616a06" resname="checkout.login.no_registration.header">
+        <source>If you prefer to order without registration please choose this option:</source>
+        <target state="translated">Si vous préférez commander sans inscription, veuillez choisir cette option :</target>
+        <note>key: checkout.login.no_registration.header</note>
+      </trans-unit>
+      <trans-unit id="3aa04aff5ed9723b484a578e1572af57bdb9d579" resname="checkout.login.not_a_customer">
+        <source>Not a customer yet?</source>
+        <target state="translated">Pas encore client ?</target>
+        <note>key: checkout.login.not_a_customer</note>
+      </trans-unit>
+      <trans-unit id="d38097475824c20866caf402dd11649a99c5b0b1" resname="checkout.login.not_a_customer.desc">
+        <source>If you are a new customer, please choose if you are private or business:</source>
+        <target state="translated">Si vous êtes un nouveau client, veuillez choisir si vous êtes particulier ou professionnel :</target>
+        <note>key: checkout.login.not_a_customer.desc</note>
+      </trans-unit>
+      <trans-unit id="f5293ee608f63cb2585127066db9d99cb925f18f" resname="checkout.login.password">
+        <source>Your password</source>
+        <target state="translated">Votre mot de passe</target>
+        <note>key: checkout.login.password</note>
+      </trans-unit>
+      <trans-unit id="780fe6df3bdcae6860e14216b6c93341a657b447" resname="checkout.login.private">
+        <source>Private customer</source>
+        <target state="translated">Client particulier</target>
+        <note>key: checkout.login.private</note>
+      </trans-unit>
+      <trans-unit id="ebcdf4d4ae028d814106433bda4cb92cee3b226e" resname="checkout.login.step_name">
+        <source>Login or register</source>
+        <target state="translated">Se connecter ou s'inscrire</target>
+        <note>key: checkout.login.step_name</note>
+      </trans-unit>
+      <trans-unit id="1e73bc536c526360909927a85ec5eff3cbf839af" resname="checkout.login.submit">
+        <source>Login</source>
+        <target state="translated">Connexion</target>
+        <note>key: checkout.login.submit</note>
+      </trans-unit>
+      <trans-unit id="b47f6d3f2e25c21961a40f5c1f052782b6804665" resname="checkout.next.step">
+        <source>Next step</source>
+        <target state="translated">Prochaine étape</target>
+        <note>key: checkout.next.step</note>
+      </trans-unit>
+      <trans-unit id="9d58e0f4e2bfd20e479c0946508a92e44f52d615" resname="checkout.order.confirmation">
+        <source>Order Confirmation</source>
+        <target state="translated">Confirmation de commande</target>
+        <note>key: checkout.order.confirmation</note>
+      </trans-unit>
+      <trans-unit id="e89e611b05fad85e0b236afa771877c48a4e5e50" resname="checkout.order.confirmation.delivery">
+        <source>Delivery</source>
+        <target state="translated">Livraison</target>
+        <note>key: checkout.order.confirmation.delivery</note>
+      </trans-unit>
+      <trans-unit id="31f2c4430b564e3d9d8921269757b3a3951a28fb" resname="checkout.order.confirmation.delivery.title">
+        <source>Delivery Address</source>
+        <target state="translated">Adresse de livraison</target>
+        <note>key: checkout.order.confirmation.delivery.title</note>
+      </trans-unit>
+      <trans-unit id="da235fe2d4597bb9b0f3e0eabdedae956e752b65" resname="checkout.order.confirmation.email">
+        <source>Confirmation email has been sent to this address: %email%</source>
+        <target state="translated">Un e-mail de confirmation a été envoyé à cette adresse e-mail : %email%</target>
+        <note>key: checkout.order.confirmation.email</note>
+      </trans-unit>
+      <trans-unit id="994a058a2c89495d97bf37cdace109715097b0f3" resname="checkout.order.confirmation.invoice.title">
+        <source>Invoice Address</source>
+        <target state="translated">Adresse de facturation</target>
+        <note>key: checkout.order.confirmation.invoice.title</note>
+      </trans-unit>
+      <trans-unit id="56d7922ccab3c67db27fd804da9a65cf10038bec" resname="checkout.order.confirmation.not.found">
+        <source>No confirmation was found</source>
+        <target state="translated">Aucune confirmation n'a été trouvée</target>
+        <note>key: checkout.order.confirmation.not.found</note>
+      </trans-unit>
+      <trans-unit id="492e80e06c3e5a2915a4359a7453e819ccb5a8a4" resname="checkout.order.confirmation.payment">
+        <source>Payment</source>
+        <target state="translated">Paiement</target>
+        <note>key: checkout.order.confirmation.payment</note>
+      </trans-unit>
+      <trans-unit id="2f7ff1ca2b893daecacad63f324f6b7ce0b2115b" resname="checkout.order.confirmation.print">
+        <source>Print this page.</source>
+        <target state="translated">Imprimer cette page.</target>
+        <note>key: checkout.order.confirmation.print</note>
+      </trans-unit>
+      <trans-unit id="b7ce868c98556f2de8417e814fe28d97a1c2d9e0" resname="checkout.order.confirmation.shipping.title">
+        <source>Shipping and Payment</source>
+        <target state="translated">Livraison et paiement</target>
+        <note>key: checkout.order.confirmation.shipping.title</note>
+      </trans-unit>
+      <trans-unit id="3300c10cd2e204376be6bb4e1bc59d4ab87b3a96" resname="checkout.order.confirmation.subheader">
+        <source>Thank you for using our shop.</source>
+        <target state="translated">Merci d'utiliser notre boutique.</target>
+        <note>key: checkout.order.confirmation.subheader</note>
+      </trans-unit>
+      <trans-unit id="7be31288357f088daec8c5dffef8fabd44ee91d9" resname="checkout.order.confirmation.title">
+        <source>Your order was placed succesfully.</source>
+        <target state="translated">Votre commande a été passée avec succès.</target>
+        <note>key: checkout.order.confirmation.title</note>
+      </trans-unit>
+      <trans-unit id="10f0f6e81dce998019fabfbebfc8c5d27109f578" resname="checkout.shipping.step_name">
+        <source>Shipping and Payment</source>
+        <target state="translated">Livraison et paiement</target>
+        <note>key: checkout.shipping.step_name</note>
+      </trans-unit>
+      <trans-unit id="25236ad427171b8d9af3bf10a0de6badbc171396" resname="checkout.show">
+        <source>Show</source>
+        <target state="translated">Afficher</target>
+        <note>key: checkout.show</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
