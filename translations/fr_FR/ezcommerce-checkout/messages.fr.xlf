@@ -766,6 +766,81 @@
         <target state="translated">Afficher</target>
         <note>key: checkout.show</note>
       </trans-unit>
+      <trans-unit id="06f50bc800f44ef774a6a85243f8088e2e972dcd" resname="checkout.step.1_5">
+        <source>1/5</source>
+        <target state="translated">1/5</target>
+        <note>key: checkout.step.1_5</note>
+      </trans-unit>
+      <trans-unit id="8e7cf8627a9ee60acc99c337d470edb2184603fe" resname="checkout.step.2_5">
+        <source>2/5</source>
+        <target state="translated">2/5</target>
+        <note>key: checkout.step.2_5</note>
+      </trans-unit>
+      <trans-unit id="520f84e205a47d9913701bfec161db9b3987ad4b" resname="checkout.step.3_5">
+        <source>3/5</source>
+        <target state="translated">3/5</target>
+        <note>key: checkout.step.3_5</note>
+      </trans-unit>
+      <trans-unit id="d8b9c49c9046a063099b0ba2c05762188e1aeebd" resname="checkout.step.4_5">
+        <source>4/5</source>
+        <target state="translated">4/5</target>
+        <note>key: checkout.step.4_5</note>
+      </trans-unit>
+      <trans-unit id="0fe088495ce22b981ae49f6921acc66989a634d7" resname="checkout.step.5_5">
+        <source>5/5</source>
+        <target state="translated">5/5</target>
+        <note>key: checkout.step.5_5</note>
+      </trans-unit>
+      <trans-unit id="aa5abf2197b320efad1297c1e882b5c8bac67157" resname="checkout.summary">
+        <source>Summary</source>
+        <target state="translated">Résumé</target>
+        <note>key: checkout.summary</note>
+      </trans-unit>
+      <trans-unit id="c8e2b9b26e37cfda958e280278c76d0fae73b655" resname="checkout.summary.add_a_comment">
+        <source>Add a comment</source>
+        <target state="translated">Ajouter un commentaire</target>
+        <note>key: checkout.summary.add_a_comment</note>
+      </trans-unit>
+      <trans-unit id="3e890021ae43c5bc7bcc31b9e7f55ca808cdc118" resname="checkout.summary.header">
+        <source>Dear %user%</source>
+        <target state="translated">Cher(ère) %user%</target>
+        <note>key: checkout.summary.header</note>
+      </trans-unit>
+      <trans-unit id="e8e38e48e567936b0cbf747e56d84d872b775ecc" resname="checkout.summary.redirect_info">
+        <source>After ordering, you might be (depends on choosen payment method) re-directed to the payment page.</source>
+        <target state="translated">Après avoir commandé, vous pouvez être (selon le mode de paiement) redirigé vers la page de paiement.</target>
+        <note>key: checkout.summary.redirect_info</note>
+      </trans-unit>
+      <trans-unit id="522cefdb4177888ac4e8289242a38589001896b8" resname="checkout.summary.step_name">
+        <source>Summary and Order Confirmation</source>
+        <target state="translated">Résumé et confirmation de commande</target>
+        <note>key: checkout.summary.step_name</note>
+      </trans-unit>
+      <trans-unit id="11d120e5e200903b692d112cea580a05c6ba93f7" resname="checkout.summary.text">
+        <source>This is a summary of your order. If you have chosen an electronic payment method you will be redirected to the payment provider after clicking on the order button.</source>
+        <target state="translated">Ceci est un résumé de votre commande. Si vous avez choisi une méthode de paiement électronique, vous serez redirigé vers le fournisseur de paiement après avoir cliqué sur le bouton de commande.</target>
+        <note>key: checkout.summary.text</note>
+      </trans-unit>
+      <trans-unit id="1f2020156ebcd5b85dd7c025b829f7347fc7cd36" resname="common.sales_contact_mail_subject">
+        <source>Order confirmation for Sales Contact</source>
+        <target state="translated">Confirmation de commande pour le contact commercial</target>
+        <note>key: common.sales_contact_mail_subject</note>
+      </trans-unit>
+      <trans-unit id="5350e9dd4078e80de250ba264db41368498fbc7e" resname="credit_card">
+        <source>Credit Card</source>
+        <target state="translated">Carte de crédit</target>
+        <note>key: credit_card</note>
+      </trans-unit>
+      <trans-unit id="b82cafafcea6328cd4669a893daff282944799db" resname="currently chosen address">
+        <source>currently chosen address</source>
+        <target state="translated">adresse actuellement choisie</target>
+        <note>key: currently chosen address</note>
+      </trans-unit>
+      <trans-unit id="3c1f8aac10c311ec7575a25b550ba9195824b99d" resname="error_message_checkout_delivery_address">
+        <source>There are errors on the form. Please correct them before continuing.</source>
+        <target state="translated">Il y a des erreurs sur le formulaire. Veuillez les corriger avant de continuer.</target>
+        <note>key: error_message_checkout_delivery_address</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
