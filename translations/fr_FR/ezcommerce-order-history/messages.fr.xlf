@@ -311,6 +311,11 @@
         <target state="translated">Format de date incorrect. AAAA-MM-JJ attendu.</target>
         <note>key: Wrong date format. Expected YYYY-MM-DD.</note>
       </trans-unit>
+      <trans-unit id="2b6d92bedaccbf764bf9c2de9e2a3b761e132bfe" resname="Wrong date format. Expected:">
+        <source>Wrong date format. Expected:</source>
+        <target state="translated">Format de date incorrect. Attendu:</target>
+        <note>key: Wrong date format. Expected:</note>
+      </trans-unit>
       <trans-unit id="baeba7e7b9ec453e23b5bac313219285d6292358" resname="invoice">
         <source>invoice</source>
         <target state="translated">facture</target>
