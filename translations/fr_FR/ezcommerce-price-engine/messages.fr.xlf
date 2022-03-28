@@ -21,6 +21,11 @@
         <target state="translated">Code devise</target>
         <note>key: CurrencyCode</note>
       </trans-unit>
+      <trans-unit id="f7e87d605f0fba1aff077d1cea1aac22ab9badf6" resname="CustomerPriceGroup">
+        <source>Customer price group</source>
+        <target state="translated">Groupe de prix client</target>
+        <note>key: CustomerPriceGroup</note>
+      </trans-unit>
       <trans-unit id="e30cc3fcf33b1618b1d9bb2bb5642626317a6cad" resname="Group A">
         <source>Group A</source>
         <target state="translated">Groupe A</target>
@@ -30,6 +35,21 @@
         <source>Group B</source>
         <target state="translated">Groupe B</target>
         <note>key: Group B</note>
+      </trans-unit>
+      <trans-unit id="0a392cbd3e5f19e311136ecdea282b94cf66ca54" resname="Import was canceled: invalid currency %currency% in line %line% for sku: %sku%">
+        <source>Import was canceled: invalid currency %currency% in line %line% for sku: %sku%</source>
+        <target state="translated">L'importation a été annulée : devise %currency% invalide à la ligne %line% pour le SKU : %sku%</target>
+        <note>key: Import was canceled: invalid currency %currency% in line %line% for sku: %sku%</note>
+      </trans-unit>
+      <trans-unit id="a98a0122e89b10b5ed590388383e0dc4a6756a14" resname="Import was canceled: invalid customerGroup %group% in line %line% for sku: %sku%">
+        <source>Import was canceled: invalid customerGroup %group% in line %line% for sku: %sku%</source>
+        <target state="translated">L'importation a été annulée : Groupe de clients %group% invalide à la ligne %line% pour le SKU : %sku%</target>
+        <note>key: Import was canceled: invalid customerGroup %group% in line %line% for sku: %sku%</note>
+      </trans-unit>
+      <trans-unit id="70ebe9c865ca3d6beb2eeb14e6d05429fc3ed4e0" resname="message.product_not_found">
+        <source>Product not found</source>
+        <target state="translated">Le produit n'a pas été trouvé</target>
+        <note>key: message.product_not_found</note>
       </trans-unit>
       <trans-unit id="97cbdc2c3940676a237282d433f4257e055f84b9" resname="message.sku_not_set">
         <source>SKU not set</source>
