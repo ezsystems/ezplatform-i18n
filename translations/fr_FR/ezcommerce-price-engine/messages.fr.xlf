@@ -31,6 +31,41 @@
         <target state="translated">Groupe B</target>
         <note>key: Group B</note>
       </trans-unit>
+      <trans-unit id="97cbdc2c3940676a237282d433f4257e055f84b9" resname="message.sku_not_set">
+        <source>SKU not set</source>
+        <target state="translated">SKU non défini</target>
+        <note>key: message.sku_not_set</note>
+      </trans-unit>
+      <trans-unit id="01c4ece8574bc929697fe54c0cca66fc720730a9" resname="msg.error_duplicate_entry">
+        <source>Duplicate entry found in line %line% of CSV file</source>
+        <target state="translated">Entrée dupliquée trouvée à la ligne %line% du fichier CSV</target>
+        <note>key: msg.error_duplicate_entry</note>
+      </trans-unit>
+      <trans-unit id="6a7d854bff9e6fc4fa657508489592b935288644" resname="msg.error_upload_price_gt_zero_%line%_%sku%">
+        <source>Column basic_price must be greater than 0! (line=%line% SKU=%sku%)</source>
+        <target state="translated">La valeur de la colonne basic_price doit être supérieur à 0! (ligne=%line%  SKU=%sku%)</target>
+        <note>key: msg.error_upload_price_gt_zero_%line%_%sku%</note>
+      </trans-unit>
+      <trans-unit id="7970e170e8ad711d92d1bda378fac5cc6335aedc" resname="msg.error_upload_sku_empty_%line%">
+        <source>SKU must not be empty! (line=%line%)</source>
+        <target state="translated">Le SKU ne doit pas être vide ! (ligne=%line%)</target>
+        <note>key: msg.error_upload_sku_empty_%line%</note>
+      </trans-unit>
+      <trans-unit id="f47128f3617cd23aeecdb72609d3717c6cb7f3fa" resname="msg.error_upload_stock_not_negative_%line%_%sku%">
+        <source>Column stock must not be negative! (line=%line% SKU=%sku%)%</source>
+        <target state="translated">La valeur de la colonne stock ne doit pas être négative ! (ligne=%line% SKU=%sku%)%</target>
+        <note>key: msg.error_upload_stock_not_negative_%line%_%sku%</note>
+      </trans-unit>
+      <trans-unit id="c5e3939b2c0f5ea30e97997cd12f8f0cc803c356" resname="msg.no_price_found">
+        <source>No price was found</source>
+        <target state="translated">Aucun prix n'a été trouvé</target>
+        <note>key: msg.no_price_found</note>
+      </trans-unit>
+      <trans-unit id="f6e4bd90d4a36e9af2a24f459f5838c7bd3b8dad" resname="msg.shipping_cost_name">
+        <source>Delivery costs %method% to %country%</source>
+        <target state="translated">Frais de livraison de %method% à %country%</target>
+        <note>key: msg.shipping_cost_name</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
