@@ -836,10 +836,145 @@
         <target state="translated">adresse actuellement choisie</target>
         <note>key: currently chosen address</note>
       </trans-unit>
+      <trans-unit id="aabd7393a241dbadbd20e2ebcf8892b732ddcfeb" resname="data_privacy_hint">
+        <source>data_privacy_hint</source>
+        <target state="translated">indice de confidentialité des données</target>
+        <note>key: data_privacy_hint</note>
+      </trans-unit>
       <trans-unit id="3c1f8aac10c311ec7575a25b550ba9195824b99d" resname="error_message_checkout_delivery_address">
         <source>There are errors on the form. Please correct them before continuing.</source>
         <target state="translated">Il y a des erreurs sur le formulaire. Veuillez les corriger avant de continuer.</target>
         <note>key: error_message_checkout_delivery_address</note>
+      </trans-unit>
+      <trans-unit id="c9b1309d3f59a152e843efb5227d23ee6d259855" resname="error_message_checkout_invoice_address">
+        <source>There are errors on the form. Please correct them before continuing.</source>
+        <target state="translated">Il y a des erreurs sur le formulaire. Veuillez les corriger avant de continuer.</target>
+        <note>key: error_message_checkout_invoice_address</note>
+      </trans-unit>
+      <trans-unit id="72755923fdac4c9647d0fdae7a2b150c83cd3cc7" resname="error_message_checkout_shipping_payment">
+        <source>Please check the following error message.</source>
+        <target state="translated">Veuillez vérifier le message d'erreur suivant.</target>
+        <note>key: error_message_checkout_shipping_payment</note>
+      </trans-unit>
+      <trans-unit id="b33e66b85cec0b2fe5ff066bd1d5109911f52818" resname="express_delivery">
+        <source>Express delivery</source>
+        <target state="translated">Livraison express</target>
+        <note>key: express_delivery</note>
+      </trans-unit>
+      <trans-unit id="0756c032c5a4d2303d279aab72bf0932b4b57865" resname="introtext_order_summary">
+        <source>introtext_order_summary</source>
+        <target state="translated">Récapitulatif de la commande</target>
+        <note>key: introtext_order_summary</note>
+      </trans-unit>
+      <trans-unit id="55b729627a9c8428bd82ba50a11920e4120378e4" resname="label.add_a_reference">
+        <source>Add a reference</source>
+        <target state="translated">Ajouter une référence</target>
+        <note>key: label.add_a_reference</note>
+      </trans-unit>
+      <trans-unit id="22f4e56cdf190914e923d29c587b4a12c63a1026" resname="label.customer_reference">
+        <source>Customer Reference</source>
+        <target state="translated">Référence client</target>
+        <note>key: label.customer_reference</note>
+      </trans-unit>
+      <trans-unit id="3daf1e8a865e1c3e869863090054a9f20ac88bc5" resname="label.force_address_agree">
+        <source>I want to proceed to next step using this address.</source>
+        <target state="translated">Je veux passer à l'étape suivante en utilisant cette adresse.</target>
+        <note>key: label.force_address_agree</note>
+      </trans-unit>
+      <trans-unit id="6bc28554605dedbc71b0d35c9d89b60c9dd67564" resname="label.force_summary_agree">
+        <source>I agree and want to complete the order process</source>
+        <target state="translated">J'accepte et je veux terminer le processus de commande</target>
+        <note>key: label.force_summary_agree</note>
+      </trans-unit>
+      <trans-unit id="523534def7203f4971f872df6add88d79f9d17fd" resname="label.stored_basket_back_to_list">
+        <source>Back to the list of stored baskets</source>
+        <target state="translated">Retour à la liste des paniers stockés</target>
+        <note>key: label.stored_basket_back_to_list</note>
+      </trans-unit>
+      <trans-unit id="0fd80622a281c66ad54fd8b88dfe5aef736ae7f5" resname="label.your_invoice_number">
+        <source>Your invoice number</source>
+        <target state="translated">Votre numéro de facture</target>
+        <note>key: label.your_invoice_number</note>
+      </trans-unit>
+      <trans-unit id="7a078c46dc501209a48b88b6a86b74d370b5ba0f" resname="max|amount">
+        <source>maximum</source>
+        <target state="translated">Maximum</target>
+        <note>key: max|amount</note>
+      </trans-unit>
+      <trans-unit id="7477e0186b8137c2bfe744647d9a833550114778" resname="min|amount">
+        <source>minimum</source>
+        <target state="translated">Minimum</target>
+        <note>key: min|amount</note>
+      </trans-unit>
+      <trans-unit id="8e7be411ad89ade93d144531f3925d0bb4011004" resname="mr">
+        <source>Mr</source>
+        <target state="translated">M.</target>
+        <note>key: mr</note>
+      </trans-unit>
+      <trans-unit id="a9937de3c5d9a091a742e0696b2b64071260b30d" resname="mrs">
+        <source>Mrs</source>
+        <target state="translated">Mme</target>
+        <note>key: mrs</note>
+      </trans-unit>
+      <trans-unit id="92ad826b7cf6907f33a2667aff3c965be3ce8be2" resname="msg.limit_of_characters">
+        <source>The number of characters is limited to</source>
+        <target state="translated">Le nombre de caractères est limité à</target>
+        <note>key: msg.limit_of_characters</note>
+      </trans-unit>
+      <trans-unit id="67f2780c4e375d06c1737626c9f828052481a03a" resname="msg.max_amount_payment_error">
+        <source>Your order exceeded the maximum allowed amount of %maxAmount%. Please contact our customer support!</source>
+        <target state="translated">Votre commande a dépassé le montant maximum autorisé de %maxAmount%. Veuillez contacter notre service client !</target>
+        <note>key: msg.max_amount_payment_error</note>
+      </trans-unit>
+      <trans-unit id="7b52d1f558efee98c47e10c4595a6142e84d4399" resname="msg.order_button_accept_all">
+        <source>Please accept our terms and conditions, data protection and cancellation policies before you proceed with your order.</source>
+        <target state="translated">Veuillez accepter nos conditions générales, notre politique de protection des données et d'annulation avant de procéder à votre commande.</target>
+        <note>key: msg.order_button_accept_all</note>
+      </trans-unit>
+      <trans-unit id="2eca188ee36e52f37db9fb42d3e453b5ef67ebf9" resname="msg.order_button_terms_and_conditions">
+        <source>Please accept our terms and conditions before you proceed with your order.</source>
+        <target state="translated">Veuillez accepter nos conditions générales avant de procéder à votre commande.</target>
+        <note>key: msg.order_button_terms_and_conditions</note>
+      </trans-unit>
+      <trans-unit id="c49a8318ae253e81381b6a2347e9f37d3b5b86af" resname="msg.prices_changed_before_ordering">
+        <source><![CDATA[Attention, the price for the products: %skuList% has been changed in our system. Please visit your <a href='%basketUrl%'>basket</a>, where you can possibly delete them.]]></source>
+        <target state="translated"><![CDATA[Attention, le prix des produits : %skuList% a été modifié dans notre système. Veuillez visiter votre <a href='%basketUrl%'>panier</a>, où vous pouvez éventuellement les supprimer.]]></target>
+        <note>key: msg.prices_changed_before_ordering</note>
+      </trans-unit>
+      <trans-unit id="17e113685d39d9a7b762319af9761a11152657dc" resname="msg.prices_changed_confirm_basket">
+        <source>The prices in your basket have been updated. Here you have the possibility to check them again.</source>
+        <target state="translated">Les prix dans votre panier ont été mis à jour. Ici, vous avez la possibilité de les vérifier à nouveau.</target>
+        <note>key: msg.prices_changed_confirm_basket</note>
+      </trans-unit>
+      <trans-unit id="fd2b9a8677900a358fe0b775fc5280fcaf3ce755" resname="msg.prices_changed_return_basket">
+        <source><![CDATA[Please visit your <a href='%basketUrl%'>basket</a> and check your updated prices.]]></source>
+        <target state="translated"><![CDATA[Veuillez visiter votre <a href='%basketUrl%'>panier</a> et vérifier vos prix actualisés.]]></target>
+        <note>key: msg.prices_changed_return_basket</note>
+      </trans-unit>
+      <trans-unit id="a389234aa210f8a8d899ed6789bcd4af422357f8" resname="paypal_express_checkout">
+        <source>Paypal</source>
+        <target state="translated">PayPal</target>
+        <note>key: paypal_express_checkout</note>
+      </trans-unit>
+      <trans-unit id="37eacc4cce2476ee33e7faaabc7e72740c2fb902" resname="send to this address">
+        <source>Send to this address</source>
+        <target state="translated">Envoyer à cette adresse</target>
+        <note>key: send to this address</note>
+      </trans-unit>
+      <trans-unit id="2cf78c9cf8e9afe4f1bf29d8756d66f749e4b3c2" resname="standard_mail">
+        <source>Standard mail</source>
+        <target state="translated">Courrier standard</target>
+        <note>key: standard_mail</note>
+      </trans-unit>
+      <trans-unit id="2944eb4f675a888cafb0254877a38b0799b62636" resname="storedBasket">
+        <source>stored basket</source>
+        <target state="translated">Panier enregistré</target>
+        <note>key: storedBasket</note>
+      </trans-unit>
+      <trans-unit id="b4420e24f76067870051aaed7dbf7388bf56cd46" resname="wishList">
+        <source>wishList</source>
+        <target state="translated">Liste d'envies</target>
+        <note>key: wishList</note>
       </trans-unit>
     </body>
   </file>
