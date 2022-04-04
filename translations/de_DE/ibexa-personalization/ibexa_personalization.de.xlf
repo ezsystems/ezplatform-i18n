@@ -53,17 +53,17 @@
       </trans-unit>
       <trans-unit id="1b342e813cbd98471e1b97aea18a6bbdf486b0b3" resname="dashboard.recommendation_performance.recommendations_performance">
         <source>Recommendations performance</source>
-        <target state="translated">Empfehlungen Leistung</target>
+        <target state="translated">Auswertung der Empfehlungen</target>
         <note>key: dashboard.recommendation_performance.recommendations_performance</note>
       </trans-unit>
       <trans-unit id="0a2cad7b32b2fd520c38b3e99022483de29829df" resname="dashboard.summary.clicked_recommendations">
         <source>Clicked recommendations</source>
-        <target state="translated">Empfehlungen angeklickt</target>
+        <target state="translated">Angeklickte Empfehlungen</target>
         <note>key: dashboard.summary.clicked_recommendations</note>
       </trans-unit>
       <trans-unit id="1d394377348ceddf640dab041bcb6064728f2c61" resname="dashboard.summary.events_collected">
         <source>Events collected</source>
-        <target state="translated">Ereignisse gesammelt</target>
+        <target state="translated">Gesammelte Ereignisse</target>
         <note>key: dashboard.summary.events_collected</note>
       </trans-unit>
       <trans-unit id="fa5d338931ac1946b90dc9604feec22256fe6dad" resname="dashboard.summary.full_import">
