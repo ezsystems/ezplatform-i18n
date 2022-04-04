@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="b079a64eb2a0051a7dc0822897b34f12abea00e4" resname="dashboard.charts.conversion_rate">
         <source>Conversion rate</source>
-        <target state="translated">Wechselkurs</target>
+        <target state="translated">Konversionsrate</target>
         <note>key: dashboard.charts.conversion_rate</note>
       </trans-unit>
       <trans-unit id="5f43a79f6a532c2ecf1a83d43ca2aa30d1d845ea" resname="dashboard.charts.date_time_range">
