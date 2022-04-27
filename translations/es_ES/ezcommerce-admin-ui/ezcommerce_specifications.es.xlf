@@ -7,7 +7,7 @@
     </header>
     <body>
       <trans-unit id="d6c2c600ec3a2d6e5d279f17291c11d000479fa3" resname="specifications.add.value">
-        <source>Add value</source>
+        <source>Add</source>
         <target state="translated">Agregar valor</target>
         <note>key: specifications.add.value</note>
       </trans-unit>
@@ -16,20 +16,10 @@
         <target state="translated">Personalizado</target>
         <note>key: specifications.custom</note>
       </trans-unit>
-      <trans-unit id="8a3020bc90af82e525c4eb111aeb5dce8ee9c108" resname="specifications.data">
-        <source>Data</source>
-        <target state="translated">Datos</target>
-        <note>key: specifications.data</note>
-      </trans-unit>
       <trans-unit id="d138a3a5c3235f233f6c85a1a622a2ce77082f75" resname="specifications.delete">
         <source>Delete</source>
         <target state="translated">Eliminar</target>
         <note>key: specifications.delete</note>
-      </trans-unit>
-      <trans-unit id="51b638dcb4038fcb79a52b8b84e04d148f6c2970" resname="specifications.label.actions">
-        <source>Actions</source>
-        <target state="translated">Acciones</target>
-        <note>key: specifications.label.actions</note>
       </trans-unit>
       <trans-unit id="e72c93e2f869bca8021c669b439b363af9cae1fb" resname="specifications.label.specification">
         <source>Specification</source>

@@ -42,12 +42,12 @@
         <note>key: code.280_complete</note>
       </trans-unit>
       <trans-unit id="74a0a1f1378464d065954caae7ce69feb20bad8e" resname="field_type.add_variant">
-        <source>Add variant</source>
+        <source>Add</source>
         <target state="translated">Añadir variante</target>
         <note>key: field_type.add_variant</note>
       </trans-unit>
       <trans-unit id="cbc1f44be5f6d1cff762774712d8ccbfd796f6ec" resname="field_types.variants.button.trash">
-        <source>Remove variant</source>
+        <source>Delete</source>
         <target state="translated">Eliminar variante</target>
         <note>key: field_types.variants.button.trash</note>
       </trans-unit>
@@ -75,76 +75,6 @@
         <source>Stock for %products% products imported successfully</source>
         <target state="translated">La existencia del producto %products% se ha importado con éxito</target>
         <note>key: msg.stock_upload_success</note>
-      </trans-unit>
-      <trans-unit id="7e3555fc949d9bfd1047e8fdb99609b49b4c7829" resname="profile.data.address.add.new.address">
-        <source>Add a new Address</source>
-        <target state="translated">Añadir nueva dirección</target>
-        <note>key: profile.data.address.add.new.address</note>
-      </trans-unit>
-      <trans-unit id="3b6c314ca265e56e0881061d03acab32fbeb0ef7" resname="profile.data.address.additional.address.line">
-        <source>Additional address line</source>
-        <target state="translated">Dirección adicional</target>
-        <note>key: profile.data.address.additional.address.line</note>
-      </trans-unit>
-      <trans-unit id="e4b4d7577aca4e6f1eb3a5d395d989295f1c3400" resname="profile.data.address.buyer.label">
-        <source>Buyer address</source>
-        <target state="translated">Dirección del comprador</target>
-        <note>key: profile.data.address.buyer.label</note>
-      </trans-unit>
-      <trans-unit id="ff2276b0ef29f4f3a80b58ca995269a6ed7e7f48" resname="profile.data.address.city">
-        <source>City</source>
-        <target state="translated">Ciudad</target>
-        <note>key: profile.data.address.city</note>
-      </trans-unit>
-      <trans-unit id="aaac22534510e00ba57e21095f09bbc99d69b5e0" resname="profile.data.address.contact.email">
-        <source>Contact E-Mail</source>
-        <target state="translated">Correo electrónico de contacto</target>
-        <note>key: profile.data.address.contact.email</note>
-      </trans-unit>
-      <trans-unit id="7d7a237c81fe9a627d9201ac6de3c36d79386f24" resname="profile.data.address.contact.fax">
-        <source>Contact Fax</source>
-        <target state="translated">Fax de contacto</target>
-        <note>key: profile.data.address.contact.fax</note>
-      </trans-unit>
-      <trans-unit id="94cac8a2f8418b64252c6ffa8f3b0e2de4da481b" resname="profile.data.address.contact.telephone">
-        <source>Contact Telephone</source>
-        <target state="translated">Teléfono de contacto</target>
-        <note>key: profile.data.address.contact.telephone</note>
-      </trans-unit>
-      <trans-unit id="c1664a8e4e5e4b0c829fd7ec46bbe0a3e1b29e3c" resname="profile.data.address.country.code">
-        <source>Country code</source>
-        <target state="translated">Código del país</target>
-        <note>key: profile.data.address.country.code</note>
-      </trans-unit>
-      <trans-unit id="e0f26f8d4c2bd4c7a4f3d25709a727c1209828d9" resname="profile.data.address.delivery.label">
-        <source>Delivery addresses</source>
-        <target state="translated">Direcciones de entrega</target>
-        <note>key: profile.data.address.delivery.label</note>
-      </trans-unit>
-      <trans-unit id="4a5f9b6ca9963548d6eb287cdd660c5f4ea04622" resname="profile.data.address.name.company">
-        <source>Name/Company</source>
-        <target state="translated">Nombre/Empresa</target>
-        <note>key: profile.data.address.name.company</note>
-      </trans-unit>
-      <trans-unit id="46e720744aeacd0fff1a97259dc6ca17d4bcd708" resname="profile.data.address.name.company.2">
-        <source>Name/Company 2</source>
-        <target state="translated">Nombre/Empresa 2</target>
-        <note>key: profile.data.address.name.company.2</note>
-      </trans-unit>
-      <trans-unit id="86b919be8fba85f45d556b9c0bcddad49eb90595" resname="profile.data.address.street">
-        <source>Street</source>
-        <target state="translated">Calle</target>
-        <note>key: profile.data.address.street</note>
-      </trans-unit>
-      <trans-unit id="220e2047061f2c3f64304253476d89f791d6a08b" resname="profile.data.address.zip.code">
-        <source>ZIP code</source>
-        <target state="translated">Código postal</target>
-        <note>key: profile.data.address.zip.code</note>
-      </trans-unit>
-      <trans-unit id="63f8d285fcb7adee4bf53870667b4121acfe8aee" resname="profile.data.button.trash">
-        <source>Remove address</source>
-        <target state="translated">Eliminar dirección</target>
-        <note>key: profile.data.button.trash</note>
       </trans-unit>
     </body>
   </file>
