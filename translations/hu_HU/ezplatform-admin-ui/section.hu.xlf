@@ -36,11 +36,6 @@
         <target state="final">%name% szekció létrehozva</target>
         <note>key: section.create.success</note>
       </trans-unit>
-      <trans-unit id="48a0071d3b889cbfef3ff4ee5af8cf83b1e8b7f6" resname="section.delete" approved="yes">
-        <source>Delete Section</source>
-        <target state="final">Szekció törlése</target>
-        <note>key: section.delete</note>
-      </trans-unit>
       <trans-unit id="663e1bfb8478f95028221190755c01441b2a8fde" resname="section.delete.success" approved="yes">
         <source>Section '%name%' removed.</source>
         <target state="final">%name% szekció eltávolítva.</target>
@@ -60,11 +55,6 @@
         <source>Identifier</source>
         <target state="final">Azonosító</target>
         <note>key: section.identifier</note>
-      </trans-unit>
-      <trans-unit id="105a971e4f7e75ad6066301cedc90bd4acf0ae12" resname="section.information.header" approved="yes">
-        <source>Section information</source>
-        <target state="final">Szekció információ</target>
-        <note>key: section.information.header</note>
       </trans-unit>
       <trans-unit id="1f9b6e37416ff607de9d4fa280dce2f734ea622c" resname="section.list" approved="yes">
         <source>Sections</source>
