@@ -21,11 +21,6 @@
         <target state="translated">Rozwiń pasek boczny</target>
         <note>key: calendar.expand.sidebar</note>
       </trans-unit>
-      <trans-unit id="ef16e74e63f02a8ae701704b5c31b1513da922be" resname="calendar.filters">
-        <source>Filters</source>
-        <target state="translated">Filtry</target>
-        <note>key: calendar.filters</note>
-      </trans-unit>
       <trans-unit id="e93e7556391e67ee7308e321a271d224c6bdf58b" resname="calendar.filters.all_langauges">
         <source>All languages</source>
         <target state="translated">Wszystkie języki</target>
@@ -36,30 +31,10 @@
         <target state="translated">Zmodyfikowany język</target>
         <note>key: calendar.filters.modified_langauge</note>
       </trans-unit>
-      <trans-unit id="f4a9c72023d74a25f22147c3ab173e737e7f1510" resname="calendar.list.view">
-        <source>List view</source>
-        <target state="translated">Widok listy</target>
-        <note>key: calendar.list.view</note>
-      </trans-unit>
       <trans-unit id="64d3a43bd33767824e15aad2cf7c193be3dbf845" resname="calendar.list_view.no_events">
         <source>No events to show.</source>
         <target state="translated">Brak wydarzeń do wyświetlenia</target>
         <note>key: calendar.list_view.no_events</note>
-      </trans-unit>
-      <trans-unit id="8a03b37261c52255f64f53ed75ef0f82536727e1" resname="calendar.list_view.table_header.details">
-        <source>Details</source>
-        <target state="translated">Szczegóły</target>
-        <note>key: calendar.list_view.table_header.details</note>
-      </trans-unit>
-      <trans-unit id="274a700b5bc60b7990c75259b98bb49bbeb0b5b0" resname="calendar.list_view.table_header.name">
-        <source>Name</source>
-        <target state="translated">Nazwa</target>
-        <note>key: calendar.list_view.table_header.name</note>
-      </trans-unit>
-      <trans-unit id="bfb752680366439e23bba2928865c84dae54cac8" resname="calendar.list_view.table_header.time">
-        <source>Time</source>
-        <target state="translated">Czas</target>
-        <note>key: calendar.list_view.table_header.time</note>
       </trans-unit>
       <trans-unit id="899ff3697336ae3d29665eab91848c0681cc8a6b" resname="calendar.load_more_btn.label">
         <source>Load More</source>
@@ -80,21 +55,6 @@
         <source>Refresh list</source>
         <target state="translated">Odśwież listę</target>
         <note>key: calendar.selection_confirmation_popup.confirm.btn</note>
-      </trans-unit>
-      <trans-unit id="5a3e06bdfd7deed040b6ed3bc41e5b53c3c48b37" resname="calendar.tooltips.day">
-        <source>Day view</source>
-        <target state="translated">Widok dnia (Automatic Translation)</target>
-        <note>key: calendar.tooltips.day</note>
-      </trans-unit>
-      <trans-unit id="94ddc4162ee7f00136d3762b904a8d65d243b043" resname="calendar.tooltips.month">
-        <source>Month view</source>
-        <target state="translated">Widok miesiąca</target>
-        <note>key: calendar.tooltips.month</note>
-      </trans-unit>
-      <trans-unit id="9efc548cd2c43473f61939293edcaa989b33334c" resname="calendar.tooltips.week">
-        <source>Week view</source>
-        <target state="translated">Widok tygodnia</target>
-        <note>key: calendar.tooltips.week</note>
       </trans-unit>
       <trans-unit id="d4cddd2ef20d8cd6eaa68a8b317d8123ef7ff7b0" resname="calendar.view_switcher.day">
         <source>Day</source>
