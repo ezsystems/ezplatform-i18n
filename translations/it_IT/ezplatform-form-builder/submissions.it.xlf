@@ -8,9 +8,7 @@
     <body>
       <trans-unit id="2cbdbd8a31d4b7f5b991f1a3b35814051b24d77e" resname="submission.delete.success">
         <source>Removed submission from '%name%'.</source>
-        <target state="translated">Invio rimosso da '% name%'.
-
-</target>
+        <target state="translated">Invio rimosso da '% name%'.</target>
         <note>key: submission.delete.success</note>
       </trans-unit>
       <trans-unit id="6e2039400ce3ef8466238211710d65725846940b" resname="submissions.details.header">

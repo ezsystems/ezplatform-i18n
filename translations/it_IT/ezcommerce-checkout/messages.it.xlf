@@ -377,17 +377,17 @@
         <note>key: There is no information about the availability for: %sku% %varCode%, but this item is discontinued.</note>
       </trans-unit>
       <trans-unit id="d716be948f84dad3211817858851c09283290d34" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|comparison">
-        <source>You have already the product: %name, %sku% in your stored basket</source>
+        <source>You have already the product:  %name%, %sku% in your comparison list</source>
         <target state="translated">Hai già il prodotto:% name,% sku% nel tuo carrello memorizzato</target>
         <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|comparison</note>
       </trans-unit>
       <trans-unit id="06621dc0b722ae3008c93ff8a2efa763a978ec00" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|storedBasket">
-        <source>You have already the product: %name, %sku% in your wishlist</source>
+        <source>You have already the product: %name%, %sku% in your stored basket</source>
         <target state="translated">Hai già il prodotto:% name,% sku% nella tua lista dei desideri</target>
         <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|storedBasket</note>
       </trans-unit>
       <trans-unit id="2293f8e8c409db0febed97d76d90ccf113ac3c9f" resname="You have already the product: %name%, %sku% %variantCode% in your %basketType%|wishList">
-        <source>You have already the product:  %name%, %sku% in your comparison list</source>
+        <source>You have already the product: %name%, %sku% in your wishlist</source>
         <target state="translated">Hai già il prodotto:% name%,% sku% nella tua lista di confronto</target>
         <note>key: You have already the product: %name%, %sku% %variantCode% in your %basketType%|wishList</note>
       </trans-unit>

@@ -11,11 +11,6 @@
         <target state="translated">Carrello con ID:% basketId% non trovato</target>
         <note>key: Basket with ID: %basketId% not found</note>
       </trans-unit>
-      <trans-unit id="b56631bc8890459851f4998909f97b253a715c89" resname="Cockpit">
-        <source>Cockpit</source>
-        <target state="translated">Cockpit</target>
-        <note>key: Cockpit</note>
-      </trans-unit>
       <trans-unit id="817971873a6ee985fdba4953592bc9f617c46dbb" resname="Control center">
         <source>Control center</source>
         <target state="translated">Centro di controllo</target>
@@ -35,11 +30,6 @@
         <source>Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</source>
         <target state="translated">L'ordine per il carrello:% basketId% è stato elaborato correttamente, Id ordine:% orderId%</target>
         <note>key: Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</note>
-      </trans-unit>
-      <trans-unit id="df84747dfab1a2d359641c7790d1d64e11f1fe42" resname="Price and stock management">
-        <source>Price and stock management</source>
-        <target state="translated">Gestione dei prezzi e delle scorte</target>
-        <note>key: Price and stock management</note>
       </trans-unit>
       <trans-unit id="5392f37b938a3fec5bc6fc366cdbd759343f07cb" resname="code.120_complete">
         <source>Request BEFORE mapping.</source>
@@ -72,12 +62,12 @@
         <note>key: code.280_complete</note>
       </trans-unit>
       <trans-unit id="74a0a1f1378464d065954caae7ce69feb20bad8e" resname="field_type.add_variant">
-        <source>Add variant</source>
+        <source>Add</source>
         <target state="translated">Aggiungi variante</target>
         <note>key: field_type.add_variant</note>
       </trans-unit>
       <trans-unit id="cbc1f44be5f6d1cff762774712d8ccbfd796f6ec" resname="field_types.variants.button.trash">
-        <source>Remove variant</source>
+        <source>Delete</source>
         <target state="translated">Rimuovi variante</target>
         <note>key: field_types.variants.button.trash</note>
       </trans-unit>

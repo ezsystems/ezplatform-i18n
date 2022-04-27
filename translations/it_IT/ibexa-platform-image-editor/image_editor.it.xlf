@@ -21,11 +21,6 @@
         <target state="final">W</target>
         <note>key: image_editor.actions.crop.abbreviation.width</note>
       </trans-unit>
-      <trans-unit id="e8a1110c060cdbf254f17e3570d112845e0be036" resname="image_editor.actions.crop.apply" approved="yes">
-        <source>Apply</source>
-        <target state="final">Applica</target>
-        <note>key: image_editor.actions.crop.apply</note>
-      </trans-unit>
       <trans-unit id="efd41cbbf18ffdfc6f3aecfaa153d463e922ed46" resname="image_editor.actions.crop.crop_size" approved="yes">
         <source>Crop size</source>
         <target state="final">Dimensione ritaglio</target>
@@ -40,11 +35,6 @@
         <source>Ratio</source>
         <target state="final">Rapporto</target>
         <note>key: image_editor.actions.crop.ratio</note>
-      </trans-unit>
-      <trans-unit id="1d5e0624d1f0017e449a0b043c2033619a33841b" resname="image_editor.actions.crop.remove" approved="yes">
-        <source>Remove</source>
-        <target state="final">Rimuovi</target>
-        <note>key: image_editor.actions.crop.remove</note>
       </trans-unit>
       <trans-unit id="15ed133ec163074eb0f215eb45e84294e8f150d3" resname="image_editor.actions.crop.warning" approved="yes">
         <source>Adjust the focal point, crop might change its parameters</source>
@@ -101,20 +91,15 @@
         <target state="final">Annulla</target>
         <note>key: image_editor.cancel</note>
       </trans-unit>
-      <trans-unit id="663f0903b964c2ce77933a71874b5698671e9fac" resname="image_editor.close" approved="yes">
-        <source>Close</source>
-        <target state="final">Chiudi</target>
-        <note>key: image_editor.close</note>
-      </trans-unit>
       <trans-unit id="9f4bce2356266e08e7fc658ef668bd94aca3130c" resname="image_editor.dimension" approved="yes">
         <source>Dimension</source>
         <target state="final">Dimensione</target>
         <note>key: image_editor.dimension</note>
       </trans-unit>
-      <trans-unit id="1834d0a289e023d978daec2f01b8bba6bf703745" resname="image_editor.edit_mode" approved="yes">
-        <source>Edit mode</source>
+      <trans-unit id="1834d0a289e023d978daec2f01b8bba6bf703745" resname="image_editor.edit_image" approved="yes">
+        <source>Edit image</source>
         <target state="final">Modalità di modifica</target>
-        <note>key: image_editor.edit_mode</note>
+        <note>key: image_editor.edit_image</note>
       </trans-unit>
       <trans-unit id="bd499e574059518dde520fd569e1afb7affc9f7c" resname="image_editor.redo" approved="yes">
         <source>Redo</source>

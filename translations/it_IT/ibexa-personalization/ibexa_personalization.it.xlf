@@ -176,11 +176,6 @@
         <target state="translated">Articoli importati</target>
         <note>key: import.table_title</note>
       </trans-unit>
-      <trans-unit id="5a342c5f54743c82e0c74540d6ebb3a3ea37998f" resname="model.details">
-        <source>Model details</source>
-        <target state="translated">Dettagli del modello</target>
-        <note>key: model.details</note>
-      </trans-unit>
       <trans-unit id="b26cf18f4600baa01b7fecd963f893ca3424a2e6" resname="model.details.active">
         <source>Active</source>
         <target state="translated">Attivo</target>
@@ -192,7 +187,7 @@
         <note>key: model.details.description</note>
       </trans-unit>
       <trans-unit id="706d5289d4105fd8b6e076852cb8e8df8eeb1642" resname="model.details.event_history">
-        <source>Relevant event histor</source>
+        <source>Relevant event history</source>
         <target state="translated">Eventi storici rilevanti</target>
         <note>key: model.details.event_history</note>
       </trans-unit>
@@ -216,11 +211,6 @@
         <target state="translated">Nome</target>
         <note>key: model.details.name</note>
       </trans-unit>
-      <trans-unit id="9aba3f49645a0abdc34dc18ae35c8d63aad4a5a5" resname="model.details.nominal_submodel_name">
-        <source>[ABC][%attribut_source%] %key%</source>
-        <target state="translated">[ABC][%attribut_source%] %key%</target>
-        <note>key: model.details.nominal_submodel_name</note>
-      </trans-unit>
       <trans-unit id="3d4bab614e2bf0348a662ba0345c2d1df14eadbd" resname="model.details.not_active">
         <source>Not active</source>
         <target state="translated">Non attivo</target>
@@ -231,25 +221,10 @@
         <target state="translated">Numero di raccomandazioni</target>
         <note>key: model.details.number_recommendations</note>
       </trans-unit>
-      <trans-unit id="80c957555e73ba53940e0f48357a73373bcebdd5" resname="model.details.numeric_submodel_name">
-        <source>[123][%attribut_source%] %key%</source>
-        <target state="translated">[ABC][%attribut_source%] %key%</target>
-        <note>key: model.details.numeric_submodel_name</note>
-      </trans-unit>
-      <trans-unit id="0ddc3c62ef88ff9bc48096cc7f5867bf4fbb0e0c" resname="model.details.relevant_history">
-        <source>Relevant history</source>
-        <target state="translated">Storia rilevante</target>
-        <note>key: model.details.relevant_history</note>
-      </trans-unit>
       <trans-unit id="ec2e77c833369d396a2b23edaae6fb57a3e6d752" resname="model.details.status">
         <source>Status</source>
         <target state="translated">Stato</target>
         <note>key: model.details.status</note>
-      </trans-unit>
-      <trans-unit id="fcfa9bf497c6d6a9879668a344218de96d883ccb" resname="model.details.submodel_type">
-        <source>Submodel type</source>
-        <target state="translated">Tipo di sotto-modello</target>
-        <note>key: model.details.submodel_type</note>
       </trans-unit>
       <trans-unit id="c1e495f258d614d6a0f42eb02d225a1a6b161779" resname="model.details.submodels">
         <source>Submodels</source>
@@ -260,21 +235,6 @@
         <source>Used in scenario</source>
         <target state="translated">Utilizzato nello scenario</target>
         <note>key: model.details.used_scenario</note>
-      </trans-unit>
-      <trans-unit id="274f5497c7d6602942a6c7825153b50e05a26e1f" resname="model.edit">
-        <source>Model edit</source>
-        <target state="translated">Modifica modello</target>
-        <note>key: model.edit</note>
-      </trans-unit>
-      <trans-unit id="2dd245119c6868d4dd48e9a8c523c10db12b9e07" resname="model.edit.save">
-        <source>Save</source>
-        <target state="translated">Salva</target>
-        <note>key: model.edit.save</note>
-      </trans-unit>
-      <trans-unit id="3b05e108592e91d6dbff680fe6ca7e2801ff842d" resname="model.edit.save_close">
-        <source>Save and close</source>
-        <target state="translated">Salva e chiudi</target>
-        <note>key: model.edit.save_close</note>
       </trans-unit>
       <trans-unit id="c6c09cc40d11ab92207f295720712bf55f19087b" resname="model.edit_short">
         <source>Edit</source>
@@ -1041,11 +1001,6 @@
         <target state="translated">Ultima costruzione</target>
         <note>key: models.list.last_built</note>
       </trans-unit>
-      <trans-unit id="abfca488116bc5586eaa2396179f789316a4bbfa" resname="models.list.more">
-        <source>(+ %number% more)</source>
-        <target state="translated">(+ %number% in più)</target>
-        <note>key: models.list.more</note>
-      </trans-unit>
       <trans-unit id="f5b3e6591ee4be3aafb6c35234b3592b0b67d86b" resname="models.list.name">
         <source>Model name</source>
         <target state="translated">Nome del modello</target>
@@ -1362,7 +1317,7 @@
         <note>key: models.name.editor_2</note>
       </trans-unit>
       <trans-unit id="01ee003af705ab57cf224511065971151c5060bc" resname="models.name.editor_blacklist">
-        <source>Black list</source>
+        <source>Blacklist</source>
         <target state="translated">Lista nera</target>
         <note>key: models.name.editor_blacklist</note>
       </trans-unit>
@@ -1817,7 +1772,7 @@
         <note>key: models.submodels.interval-ranges</note>
       </trans-unit>
       <trans-unit id="45fd1ac5513c46503322f526685fbf38f352c0d9" resname="models.table_title">
-        <source>Models (%number_of_models%)</source>
+        <source>List (%number_of_models%)</source>
         <target state="translated">Modelli (%number_of_models%)</target>
         <note>key: models.table_title</note>
       </trans-unit>
@@ -1841,20 +1796,10 @@
         <target state="translated">Il motore di raccomandazione non è disponibile. Per favore riprova più tardi.</target>
         <note>key: recommendation_engine_is_not_available</note>
       </trans-unit>
-      <trans-unit id="eb4217fde2a12c79783d63d45ec301ef4f75e193" resname="sceanrio.create">
-        <source>Scenario create</source>
-        <target state="translated">Crea scenario</target>
-        <note>key: sceanrio.create</note>
-      </trans-unit>
-      <trans-unit id="f4e63e760ed8acfe83fe7bb8f0fe4cb0f5df174a" resname="sceanrio.edit">
-        <source>Scenario edit</source>
-        <target state="translated">Modifica scenario</target>
-        <note>key: sceanrio.edit</note>
-      </trans-unit>
-      <trans-unit id="a622e8ae135f0a75929d972bb9e4d15b7775966e" resname="scenario.add_tooltip">
+      <trans-unit id="a622e8ae135f0a75929d972bb9e4d15b7775966e" resname="scenario.add_scenario">
         <source>Add scenario</source>
         <target state="translated">Aggiungi scenario</target>
-        <note>key: scenario.add_tooltip</note>
+        <note>key: scenario.add_scenario</note>
       </trans-unit>
       <trans-unit id="0822a677a1f1f08b54b364856fed6e26c196270c" resname="scenario.commerce_settings.do_not_recommend_if_price_unknown">
         <source>Do not recommend if price unknown</source>
@@ -1881,28 +1826,8 @@
         <target state="translated">No articoli più venduti</target>
         <note>key: scenario.commerce_settings.no_top_selling_items</note>
       </trans-unit>
-      <trans-unit id="d8197217fd483a87acdcbca16ba178604e08f6ea" resname="scenario.edit.general">
-        <source>General</source>
-        <target state="translated">Generale</target>
-        <note>key: scenario.edit.general</note>
-      </trans-unit>
-      <trans-unit id="8298a563f955af99e2518cdc3457641c009211b3" resname="scenario.edit.startegy.models">
-        <source>Models</source>
-        <target state="translated">Modelli</target>
-        <note>key: scenario.edit.startegy.models</note>
-      </trans-unit>
-      <trans-unit id="f1cc5c8c3171ac0d39eb47bccfc540099c5ea56f" resname="scenario.edit.startegy.startegy">
-        <source>Strategy</source>
-        <target state="translated">Strategia</target>
-        <note>key: scenario.edit.startegy.startegy</note>
-      </trans-unit>
-      <trans-unit id="de9253aa04bc0ab8be4e0851ba3cc12dec3d7487" resname="scenario.edit.strategy">
-        <source>Strategy</source>
-        <target state="translated">Strategia</target>
-        <note>key: scenario.edit.strategy</note>
-      </trans-unit>
       <trans-unit id="42cc1557b7e4cefd98a1be34903f1b81a139bcf8" resname="scenario.fail_safe_models">
-        <source>Fail safe</source>
+        <source>Fallback level 2</source>
         <target state="translated">Sicurezza fallita</target>
         <note>key: scenario.fail_safe_models</note>
       </trans-unit>
@@ -1962,12 +1887,12 @@
         <note>key: scenario.strategy.discard</note>
       </trans-unit>
       <trans-unit id="1ccee020b75348f4618bd5c3c6d664751ac85df9" resname="scenario.strategy.fail_safe">
-        <source>Fail-safe</source>
+        <source>Fallback level 2</source>
         <target state="translated">A prova di errore</target>
         <note>key: scenario.strategy.fail_safe</note>
       </trans-unit>
       <trans-unit id="49bec5eeb413d40d2553c1db56438d40986f1b13" resname="scenario.strategy.fallback_name">
-        <source>Fall-back</source>
+        <source>Fallback level 1</source>
         <target state="translated">Ripiegare</target>
         <note>key: scenario.strategy.fallback_name</note>
       </trans-unit>
@@ -2007,12 +1932,12 @@
         <note>key: scenario.strategy.save</note>
       </trans-unit>
       <trans-unit id="80dd45134e009a3446f7edd47881b631b1274136" resname="scenario.strategy.ultimately_fail_safe">
-        <source>Ultimately Fail-safe</source>
+        <source>Fail-safe</source>
         <target state="translated">In definitiva a prova di errore</target>
         <note>key: scenario.strategy.ultimately_fail_safe</note>
       </trans-unit>
       <trans-unit id="e898621a4b60709756ebe7975a5a138b33b3495e" resname="scenario.strategy_fall_back">
-        <source>Fall-back models</source>
+        <source>Fallback level 1</source>
         <target state="translated">Modelli fall - back</target>
         <note>key: scenario.strategy_fall_back</note>
       </trans-unit>
@@ -2062,7 +1987,7 @@
         <note>key: scenario.strategy_primary_models</note>
       </trans-unit>
       <trans-unit id="3c66f443e1262186fe4a4cc853b50f1da743b6e1" resname="scenario.strategy_ultimately_fail_safe">
-        <source>Ultimately Fail-safe</source>
+        <source>Fail-safe</source>
         <target state="translated">In definitiva a prova di errore</target>
         <note>key: scenario.strategy_ultimately_fail_safe</note>
       </trans-unit>
@@ -2101,13 +2026,8 @@
         <target state="translated">Riempi valore attributo</target>
         <note>key: scenarios.preview.add_attribute_error</note>
       </trans-unit>
-      <trans-unit id="ef40a5d0aaf9edb8b92adf79055896b43096d442" resname="scenarios.preview.add_context_item_error">
-        <source>Fill context item value</source>
-        <target state="translated">Riempi il valore dell'elemento contestuale</target>
-        <note>key: scenarios.preview.add_context_item_error</note>
-      </trans-unit>
       <trans-unit id="c7bc8b0d733191b7128bbbe79b1c883ae157c90c" resname="scenarios.table_title">
-        <source>Scenarios (%number_of_scenarios%)</source>
+        <source>List (%number_of_scenarios%)</source>
         <target state="translated">Scenari (%number_of_scenarios%)</target>
         <note>key: scenarios.table_title</note>
       </trans-unit>
