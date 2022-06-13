@@ -203,7 +203,7 @@
       </trans-unit>
       <trans-unit id="e704444c07d73c053f58f427ebcc0b6b2042c63d" resname="tab.locations.modal.message">
         <source>Do you want to delete Location?</source>
-        <target state="translated">Möchten Sie den Ort entfernen?</target>
+        <target state="translated">Möchten Sie den Speicherort löschen?  Unterelemente dieses Speicherorts werden an den Papierkorb gesendet.</target>
         <note>key: tab.locations.modal.message</note>
       </trans-unit>
       <trans-unit id="7514a2a1e82c82fa3a197dc3da8be56a9c68f136" resname="tab.locations.path">
