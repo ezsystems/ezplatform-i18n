@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="bbf7b43821e5ac0ce57d977a3ce156baf9a9d7b7" resname="content__sidebar_right__reveal">
         <source>Reveal</source>
-        <target state="translated">Verraten</target>
+        <target state="translated">Einblenden</target>
         <note>key: content__sidebar_right__reveal</note>
       </trans-unit>
       <trans-unit id="9445b360492505d3a8d7be4c316e2cc62f381e03" resname="content__sidebar_right__send_to_trash">
@@ -196,6 +196,11 @@
         <target state="translated">Benutzer</target>
         <note>key: main__admin__users</note>
       </trans-unit>
+      <trans-unit id="f68c5be5c002f6858b89d2dc5156d725425e31db" resname="main__bookmarks">
+        <source>Bookmarks</source>
+        <target state="translated">Lesezeichen</target>
+        <note>key: main__bookmarks</note>
+      </trans-unit>
       <trans-unit id="95e1979b41321209d200f2e75416fd47270954b4" resname="main__content">
         <source>Content</source>
         <target state="translated">Inhalt</target>
@@ -206,10 +211,25 @@
         <target state="translated">Inhaltstruktur</target>
         <note>key: main__content__content_structure</note>
       </trans-unit>
+      <trans-unit id="17346107dfddb344b04c455b071d001dadf80d6f" resname="main__content__group_settings">
+        <source>Settings</source>
+        <target state="translated">Einstellungen</target>
+        <note>key: main__content__group_settings</note>
+      </trans-unit>
       <trans-unit id="e8c5aefc86b31ee2bed9359787ddf0a2b1cad4a6" resname="main__content__media">
         <source>Media</source>
         <target state="translated">Medien</target>
         <note>key: main__content__media</note>
+      </trans-unit>
+      <trans-unit id="4c2cca32be18ada279b3562d2b96acc4a908083e" resname="main__dashboard">
+        <source>Dashboard</source>
+        <target state="translated">Dashboard</target>
+        <note>key: main__dashboard</note>
+      </trans-unit>
+      <trans-unit id="5376b08940439deec5b89c3df17b09ab8f4ed252" resname="main__trash">
+        <source>Trash</source>
+        <target state="translated">Papierkorb</target>
+        <note>key: main__trash</note>
       </trans-unit>
       <trans-unit id="f3561dffc3e7e63e03f3f5d1a4e2b4eda80e051a" resname="object_state_create__sidebar_right__cancel">
         <source>Discard changes</source>
