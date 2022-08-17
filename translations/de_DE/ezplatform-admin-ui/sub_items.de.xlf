@@ -6,10 +6,60 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
+      <trans-unit id="8d9e2f3fb15679717338a9f8ba95640c4b6b2e66" resname="add_locations_btn.label">
+        <source>Add Locations</source>
+        <target state="translated">Orte hinzufügen</target>
+        <note>key: add_locations_btn.label</note>
+      </trans-unit>
+      <trans-unit id="ca61c6a680354ca0ca27b53f63d9d30ba35eee2a" resname="bulk_action.error.more_info">
+        <source><![CDATA[<u><a class='ibexa-notification-btn ibexa-notification-btn--show-modal'>Click here for more information.</a></u><br>]]></source>
+        <target state="translated"><![CDATA[<u><a class='ibexa-notification-btn ibexa-notification-btn--show-modal'>Klicken Sie hier für weitere Informationen.</a></u><br>]]></target>
+        <note>key: bulk_action.error.more_info</note>
+      </trans-unit>
+      <trans-unit id="aa8f660d8cae16394e7cd4421e6b604e031ad04b" resname="bulk_action.popup.cancel">
+        <source>Cancel</source>
+        <target state="translated">Abbrechen</target>
+        <note>key: bulk_action.popup.cancel</note>
+      </trans-unit>
+      <trans-unit id="d61a87779a34732e3d0cc00482224d99dd95676a" resname="bulk_delete.error.modal.table_title.users">
+        <source>%itemsCount% User(s) cannot be deleted</source>
+        <target state="translated">%itemsCount% Benutzer kann/können nicht gelöscht werden</target>
+        <note>key: bulk_delete.error.modal.table_title.users</note>
+      </trans-unit>
+      <trans-unit id="530f5b1097af7206fdabc3a51ac334c933ab4909" resname="bulk_delete.popup.confirm.nonusers">
+        <source>Send to Trash</source>
+        <target state="translated">In den Papierkorb verschieben</target>
+        <note>key: bulk_delete.popup.confirm.nonusers</note>
+      </trans-unit>
+      <trans-unit id="4953b415cbb1e81833664d96e7051d0a7e3d90c8" resname="bulk_delete.popup.confirm.users_and_users_with_nonusers">
+        <source>Delete</source>
+        <target state="translated">Löschen</target>
+        <note>key: bulk_delete.popup.confirm.users_and_users_with_nonusers</note>
+      </trans-unit>
+      <trans-unit id="d6c81bfffab0f8d928eb10911ca60a107c407989" resname="bulk_delete.success.message.users">
+        <source>User(s) deleted.</source>
+        <target state="translated">Benutzer gelöscht.</target>
+        <note>key: bulk_delete.success.message.users</note>
+      </trans-unit>
+      <trans-unit id="540d45bd030bab3e5bec8b9c1433ff4d9998c73e" resname="bulk_hide.popup.confirm">
+        <source>Hide</source>
+        <target state="translated">Ausblenden</target>
+        <note>key: bulk_hide.popup.confirm</note>
+      </trans-unit>
+      <trans-unit id="16c240de3cfc07b8e56d008357706abefad3e3ae" resname="bulk_unhide.popup.confirm">
+        <source>Reveal</source>
+        <target state="translated">Einblenden</target>
+        <note>key: bulk_unhide.popup.confirm</note>
+      </trans-unit>
       <trans-unit id="5e1792d4a193550fe8afd9a4be6d0a8c3f6596e9" resname="edit_item_btn.label">
         <source>Edit</source>
         <target state="translated">Bearbeiten</target>
         <note>key: edit_item_btn.label</note>
+      </trans-unit>
+      <trans-unit id="0f2106150fc552b94658eee2125a4c4680f3564c" resname="hide_locations_btn.label">
+        <source>Hide</source>
+        <target state="translated">Ausblenden</target>
+        <note>key: hide_locations_btn.label</note>
       </trans-unit>
       <trans-unit id="2a9e4002be191374ee14674d2e67eb9fe2d631d2" resname="items_list.title">
         <source>Sub-items</source>
@@ -20,6 +70,21 @@
         <source>Content type</source>
         <target state="translated">Inhaltstyp</target>
         <note>key: items_table.header.content_type</note>
+      </trans-unit>
+      <trans-unit id="d8bac590d6c8bf7c4e58ad1d7dbe4aad57e54e43" resname="items_table.header.contributor">
+        <source>Contributor</source>
+        <target state="translated">Beitragender</target>
+        <note>key: items_table.header.contributor</note>
+      </trans-unit>
+      <trans-unit id="0cc77521bf45c4018b51099ec6e7faa02892be10" resname="items_table.header.creator">
+        <source>Creator</source>
+        <target state="translated">Ersteller</target>
+        <note>key: items_table.header.creator</note>
+      </trans-unit>
+      <trans-unit id="1cb1922ab4f684747ddabe1a1b1277893e31006d" resname="items_table.header.filters">
+        <source>Filters</source>
+        <target state="translated">Filter</target>
+        <note>key: items_table.header.filters</note>
       </trans-unit>
       <trans-unit id="8f1583d031a1cc60061659b8a55291496f0a40c6" resname="items_table.header.modified">
         <source>Modified</source>
@@ -36,10 +101,40 @@
         <target state="translated">Priorität</target>
         <note>key: items_table.header.priority</note>
       </trans-unit>
+      <trans-unit id="9194a0b943ca204c20acd7695c577b976ce4c964" resname="items_table.header.pubished">
+        <source>Published</source>
+        <target state="translated">Veröffentlicht</target>
+        <note>key: items_table.header.pubished</note>
+      </trans-unit>
+      <trans-unit id="ed4e5502d8ec6f16e9e87bdd0704d0a5af38dcc5" resname="items_table.header.section">
+        <source>Section</source>
+        <target state="translated">Sektion</target>
+        <note>key: items_table.header.section</note>
+      </trans-unit>
       <trans-unit id="2efb1da52dd6f25dd90474e85b5c73761adb4183" resname="items_table.header.translations">
         <source>Translations</source>
         <target state="translated">Übersetzungen</target>
         <note>key: items_table.header.translations</note>
+      </trans-unit>
+      <trans-unit id="9f055743ae2bf600810c4935ab10873ca4dac6d9" resname="items_table.header.visibility">
+        <source>Visibility</source>
+        <target state="translated">Sichtbarkeit</target>
+        <note>key: items_table.header.visibility</note>
+      </trans-unit>
+      <trans-unit id="0d59826a85ae0f5cc7f6d56efa18d2b9cbe7c687" resname="items_table.row.not_visible.label">
+        <source>Not Visible</source>
+        <target state="translated">Nicht sichtbar</target>
+        <note>key: items_table.row.not_visible.label</note>
+      </trans-unit>
+      <trans-unit id="e971be69cde4dc46bcceb65cd0cb255ced2b9bba" resname="items_table.row.visible.label">
+        <source>Visible</source>
+        <target state="translated">Sichtbar</target>
+        <note>key: items_table.row.visible.label</note>
+      </trans-unit>
+      <trans-unit id="c509fd3a9e7282070fa03f793bb932863c45d8f6" resname="languages.modal.label">
+        <source>Select language</source>
+        <target state="translated">Sprache auswählen</target>
+        <note>key: languages.modal.label</note>
       </trans-unit>
       <trans-unit id="276a7024903672cd0476c82ba8845453e13db95e" resname="no_items.message">
         <source>This location has no sub-items</source>
