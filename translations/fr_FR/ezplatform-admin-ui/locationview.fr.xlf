@@ -43,16 +43,18 @@
       </trans-unit>
       <trans-unit id="9c91d85bc7658ec7dc6bbb07b720979177c0846a" resname="content.view.subitems">
         <source>Sub-items</source>
-        <target state="translated">Sous-éléments</target>
+        <target state="translated">Sous-élements</target>
         <note>key: content.view.subitems</note>
-        <alt-trans>
-          <target>Sous-élements</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4f1f7e7763187d69da3f75ebfb74d391a451cec6" resname="content.view.subitems.bulk_action.limited_permissions">
         <source>Limited user permissions</source>
         <target state="translated">Permissions utilisateur limitées</target>
         <note>key: content.view.subitems.bulk_action.limited_permissions</note>
+      </trans-unit>
+      <trans-unit id="1141888f8212e6140ea4bac1a5fba11c02e94d13" resname="dashboard.table.relation.unauthorized">
+        <source>User does not have access to '%function%' '%module%' with content ID: %contentId%</source>
+        <target state="translated">L'utilisateur n'a pas accès à '%function%' '%module%' avec le Contenu dont l'ID est %contentId%</target>
+        <note>key: dashboard.table.relation.unauthorized</note>
       </trans-unit>
       <trans-unit id="eeb49235f0e3b40e651725430b85a2885174bd2b" resname="location.bookmark.add">
         <source>Add to Bookmarks</source>
