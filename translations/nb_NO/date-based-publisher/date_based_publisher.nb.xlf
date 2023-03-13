@@ -25,9 +25,6 @@
         <source>Future publication canceled</source>
         <target state="translated">Framtidig publikasjon er avbrutt</target>
         <note>key: content.scheduled.canceled</note>
-        <alt-trans>
-          <target>Planlagt publikasjon er avbrutt</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="34b402006eccad0bda15c91d1c25af637419d933" resname="content.scheduled.published">
         <source>Future publication published</source>
@@ -53,20 +50,11 @@
         <source>No content scheduled for publish.</source>
         <target state="translated">Ingen publisering av innhold er planlagt.</target>
         <note>key: dashboard.tab.all_scheduled.empty</note>
-        <alt-trans>
-          <target>Ingen publisering av innhold er satt opp.</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Intet innhold er planlagt publisert.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9264d8cfa846c33592bb9c75fc27d3746b79b069" resname="dashboard.tab.my_scheduled.empty">
         <source>No content scheduled for publish.</source>
         <target state="translated">Ingen publisering av innhold er planlagt.</target>
         <note>key: dashboard.tab.my_scheduled.empty</note>
-        <alt-trans>
-          <target>Ingen publisering av innhold er satt opp.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content Type</source>
