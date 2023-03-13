@@ -212,9 +212,6 @@
         <target state="final">RealPlayer</target>
         <note>key: fielddefinition.media-player-type.real_player</note>
         <jms:reference-file line="186">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Real Player</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4ad14874021f1b806f9c93b41ef195b12fe5ab3f" resname="fielddefinition.media-player-type.silverlight" approved="yes">
         <source>Silverlight</source>
