@@ -35,17 +35,11 @@
         <source>Editing - %contentName% in %languageName%</source>
         <target state="translated">編輯 - %languageName%中的%contentName%</target>
         <note>key: editing_in_language</note>
-        <alt-trans>
-          <target>編輯 - ％languageName％中的％contentName％</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4e46e160f661315fed793049088d1426ae440b56" resname="editing_in_language_based_on">
         <source>Editing - %contentName% in %languageName% based on %baseLanguageName%</source>
         <target state="translated">編輯 - 基於%baseLanguageName%的%languageName%中的%contentName%</target>
         <note>key: editing_in_language_based_on</note>
-        <alt-trans>
-          <target>編輯 - 基於％baseLanguageName％的％languageName％中的％contentName％</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="669edeb37bec7cf4ec99288b90b02ba65e84b4cf" resname="errors.in.the.form">
         <source>Looks like something went wrong. Please check for required fields or errors and correct them</source>
@@ -56,9 +50,6 @@
         <source>Translation for %fieldName% is disabled</source>
         <target state="translated">%fieldName%的翻譯被禁用</target>
         <note>key: fieldtype.translation_is_disabled</note>
-        <alt-trans>
-          <target>％fieldName％的翻譯被禁用</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="876d7bdba03c72251ec4c2dc827fc54af7889091" resname="location_id">
         <source>Location ID: %locationId%</source>
