@@ -16,6 +16,11 @@
         <target state="translated">Contenido enviado para revisión</target>
         <note>key: content.in_review</note>
       </trans-unit>
+      <trans-unit id="efeb6a6207370ab249436a8d9e0eaff02a5efb79" resname="content.publish_later.read_more">
+        <source>Read more</source>
+        <target state="translated">Leer más</target>
+        <note>key: content.publish_later.read_more</note>
+      </trans-unit>
       <trans-unit id="057746443dd8e7aff0175db05603443dec7df180" resname="content.published">
         <source>Content published</source>
         <target state="translated">Contenido publicado</target>
@@ -23,12 +28,12 @@
       </trans-unit>
       <trans-unit id="d3271090e4c7db6a79d168181876891a6577fa19" resname="content.scheduled.canceled">
         <source>Future publication canceled</source>
-        <target state="translated">La publicació a futuro se ha cancelado</target>
+        <target state="translated">Próxima publicación cancelada</target>
         <note>key: content.scheduled.canceled</note>
       </trans-unit>
       <trans-unit id="34b402006eccad0bda15c91d1c25af637419d933" resname="content.scheduled.published">
         <source>Future publication published</source>
-        <target state="translated">La publicación a futuro se ha efectuado</target>
+        <target state="translated">Próxima publicación realizada</target>
         <note>key: content.scheduled.published</note>
       </trans-unit>
       <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title">
@@ -38,7 +43,7 @@
       </trans-unit>
       <trans-unit id="d72a29b32751f629c33f6223c5b6477308a0ebb4" resname="content.trashed">
         <source>Content moved to trash</source>
-        <target state="translated">Contenido movido a papelera</target>
+        <target state="translated">Contenido movido a la Papelera</target>
         <note>key: content.trashed</note>
       </trans-unit>
       <trans-unit id="242a195e1172964f09692a16fc39ccb8a2b69605" resname="content.updated">
@@ -48,22 +53,22 @@
       </trans-unit>
       <trans-unit id="382ab608837ac7a3db830601fd7566b42f2e3fa1" resname="dashboard.tab.all_scheduled.empty">
         <source>No content scheduled for publish.</source>
-        <target state="translated">No hay contenido programado para publicar.</target>
+        <target state="translated">No hay contenido programado para publicarse.</target>
         <note>key: dashboard.tab.all_scheduled.empty</note>
       </trans-unit>
       <trans-unit id="9264d8cfa846c33592bb9c75fc27d3746b79b069" resname="dashboard.tab.my_scheduled.empty">
         <source>No content scheduled for publish.</source>
-        <target state="translated">No hay contenido programado para publicar.</target>
+        <target state="translated">No hay contenido programado para publicarse.</target>
         <note>key: dashboard.tab.my_scheduled.empty</note>
       </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
       <trans-unit id="841a1c1c491e1adec03ce7e9476879c4bb32edb7" resname="dashboard.table.contributor">
         <source>Contributor</source>
-        <target state="translated">Contribuidor</target>
+        <target state="translated">Colaborador</target>
         <note>key: dashboard.table.contributor</note>
       </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
@@ -88,18 +93,23 @@
       </trans-unit>
       <trans-unit id="7994323666a7722986c24f7f724e4862f9bbf9a6" resname="date_based_publisher.error.discard.publish_later">
         <source>Cannot discard scheduled publication date: %reason%</source>
-        <target state="translated">No puede descartar la fecha de publicación prevista: %reason%</target>
+        <target state="translated">No se puede descartar la fecha de publicación prevista: %reason%</target>
         <note>key: date_based_publisher.error.discard.publish_later</note>
       </trans-unit>
       <trans-unit id="f99f89ba09246220d9b545d89a5c6ba76ff7b977" resname="date_based_publisher.error.publish_later">
         <source>Cannot schedule content: %reason%</source>
-        <target state="translated">No puede programar la publicación del contenido: %reason%</target>
+        <target state="translated">No se puede programar la publicación del contenido: %reason%</target>
         <note>key: date_based_publisher.error.publish_later</note>
       </trans-unit>
       <trans-unit id="5e2950ca93ce5670c04559781714521d3c64e5ad" resname="date_based_publisher.success.publish_later">
         <source>Content scheduled for publishing.</source>
         <target state="translated">Contenido programado para su publicación.</target>
         <note>key: date_based_publisher.success.publish_later</note>
+      </trans-unit>
+      <trans-unit id="7d074c91468b3c1f9e6302ea0432306fef788e95" resname="discard_schedule_publish">
+        <source>discard_schedule_publish</source>
+        <target state="translated">discard_schedule_publish</target>
+        <note>key: discard_schedule_publish</note>
       </trans-unit>
       <trans-unit id="dcb8f016db59563b21714e4ba0688f7650fc6995" resname="menu.date_based_publisher">
         <source>Publish later</source>
@@ -108,7 +118,7 @@
       </trans-unit>
       <trans-unit id="c9d2f1516b204c6e1a54e65850b843f5cc4d7650" resname="menu.date_based_publisher.discard">
         <source>Discard publish later</source>
-        <target state="translated">Descartar publicación a futuro</target>
+        <target state="translated">Descartar publicación más tarde</target>
         <note>key: menu.date_based_publisher.discard</note>
       </trans-unit>
       <trans-unit id="4c1883ba5e2eb4e3a70391d122a474304c1d95df" resname="publish_later.confirm">
@@ -123,8 +133,13 @@
       </trans-unit>
       <trans-unit id="556b388819e694acae15637989c32827c445faed" resname="publish_later.settings">
         <source>Future publication settings</source>
-        <target state="translated">Configuración de publicación a futuro</target>
+        <target state="translated">Ajustes de próxima publicación</target>
         <note>key: publish_later.settings</note>
+      </trans-unit>
+      <trans-unit id="b618f3dd85270257ed32cca10210efa9f5faa9f5" resname="schedule_publish">
+        <source>schedule_publish</source>
+        <target state="translated">schedule_publish</target>
+        <note>key: schedule_publish</note>
       </trans-unit>
       <trans-unit id="e5a66fd1e539dbf81f810d2022a3d8ee67a7a17c" resname="tab.name.all_scheduled">
         <source>All scheduled</source>
@@ -133,7 +148,7 @@
       </trans-unit>
       <trans-unit id="20a2c0c41c7091973e1490a65b2268e1f7794eda" resname="tab.name.my_scheduled">
         <source>My scheduled</source>
-        <target state="translated">Mi calendario</target>
+        <target state="translated">Mis programaciones</target>
         <note>key: tab.name.my_scheduled</note>
       </trans-unit>
       <trans-unit id="49e01918c7a89ab888e3fea20cf0a9f7953b4908" resname="version.deleted">
