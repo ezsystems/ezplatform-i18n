@@ -15,12 +15,6 @@
         <source>Main location for '%name%' updated.</source>
         <target state="translated">Hovedplasseringen for '%name%' oppdatert.</target>
         <note>key: content.main_location_update.success</note>
-        <alt-trans>
-          <target>Hoveplassering for '%name%' oppdatert.</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Hoved lokasjon for '%name%' oppdatert.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4492a79e25635e7612f98971e02b4d0e6a408394" resname="user.delete.success">
         <source>User with login '%login%' deleted.</source>
