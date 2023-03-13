@@ -10,9 +10,6 @@
         <source>Add field definition</source>
         <target state="final">Ajouter la définition du champ</target>
         <note>key: content_type.add_field_definition</note>
-        <alt-trans>
-          <target>Ajouter la définition de champ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create" approved="yes">
         <source>Create a content type</source>
@@ -23,9 +20,6 @@
         <source>Default content availability</source>
         <target state="final">Disponibilité du contenu par défaut</target>
         <note>key: content_type.default_always_available</note>
-        <alt-trans>
-          <target>Disponibilité de contenu par défaut</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b29f5d9c32e10776ec9fd36c35c4aefc96732cb2" resname="content_type.default_sort_field" approved="yes">
         <source>Default field for sorting children</source>
@@ -71,9 +65,6 @@
         <source>Save</source>
         <target state="final">Enregistrer</target>
         <note>key: content_type.group.save</note>
-        <alt-trans>
-          <target>Sauvegarder</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="238db0c5dee8ec13199b073f7cc78728f53ffa36" resname="content_type.identifier" approved="yes">
         <source>Identifier</source>
@@ -94,9 +85,6 @@
         <source>Content name pattern</source>
         <target state="final">Modèle de nom de contenu</target>
         <note>key: content_type.name_schema</note>
-        <alt-trans>
-          <target>Gabarit de nom de contenu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="49e5f320e6e37cbd53a5d290e3ffd48788226852" resname="content_type.publish" approved="yes">
         <source>OK</source>
@@ -107,9 +95,6 @@
         <source>Cancel</source>
         <target state="final">Annuler le brouillon</target>
         <note>key: content_type.remove_draft</note>
-        <alt-trans>
-          <target>Annuler</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5fa42f2a0ef1fee12efaa4cdb1c35bbed35e9b7e" resname="content_type.remove_field_definitions" approved="yes">
         <source>Remove selected field definitions</source>
@@ -175,17 +160,11 @@
         <source>Ascending</source>
         <target state="translated">Croissant</target>
         <note>key: content_type.sort_order.1</note>
-        <alt-trans>
-          <target>Ordre croissant</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
         <source>URL alias name pattern</source>
         <target state="translated">Modèle de génération de l'URL</target>
         <note>key: content_type.url_alias_schema</note>
-        <alt-trans>
-          <target>Modèle de génération d'alias d'URL</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description">
         <source>Description</source>
@@ -211,9 +190,6 @@
         <source>Maximum file size (MB)</source>
         <target state="translated">Taille de fichier maximale (MB)</target>
         <note>key: field_definition.ezbinaryfile.max_file_size</note>
-        <alt-trans>
-          <target>Taille de fichier maximale (Mo)</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5ae9eea988dc249d137d285ec360214b238efc26" resname="field_definition.ezboolean.default_value">
         <source>Default value</source>
@@ -229,25 +205,16 @@
         <source>Multiple choice</source>
         <target state="translated">Choix multiple</target>
         <note>key: field_definition.ezcountry.is_multiple</note>
-        <alt-trans>
-          <target>Choix multiples</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="18a5846deb7a3d7dcc9fbd0a2de28d609c2a55c2" resname="field_definition.ezdate.default_type">
         <source>Default value</source>
         <target state="translated">Valeur par défaut</target>
         <note>key: field_definition.ezdate.default_type</note>
-        <alt-trans>
-          <target>Valeur par defaut</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="eb97ae8058956f1babf75555dbdba76c8e409bf1" resname="field_definition.ezdate.default_type_current">
         <source>Current date</source>
         <target state="translated">Date courante</target>
         <note>key: field_definition.ezdate.default_type_current</note>
-        <alt-trans>
-          <target>Date actuelle</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="df532a4ad5878fd0bc3f7842fb6907078efe76f9" resname="field_definition.ezdate.default_type_empty">
         <source>Empty</source>
@@ -321,7 +288,7 @@
       </trans-unit>
       <trans-unit id="4afaf19544597331fbc0eb01e75556a312d657ec" resname="field_definition.ezisbn.default_value">
         <source>Default value</source>
-        <target state="translated">Valeur par défaut</target>
+        <target state="translated">Valeurs par défaut</target>
         <note>key: field_definition.ezisbn.default_value</note>
       </trans-unit>
       <trans-unit id="461c05cd80b29eb37dc4f7e1f9e1d2454b380332" resname="field_definition.ezisbn.is_isbn13">
@@ -333,13 +300,10 @@
         <source>Maximum file size (MB)</source>
         <target state="translated">Taille de fichier maximale (MB)</target>
         <note>key: field_definition.ezmedia.max_file_size</note>
-        <alt-trans>
-          <target>Taille de fichier maximale (Mo)</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1ae04670268864a185efbed749015b7ea14f079b" resname="field_definition.ezmedia.media_type">
         <source>Media type</source>
-        <target state="translated">Type de média</target>
+        <target state="translated">Types de média</target>
         <note>key: field_definition.ezmedia.media_type</note>
       </trans-unit>
       <trans-unit id="adfb7d8a234a1500c70ea82dac5f6d8bebff4234" resname="field_definition.ezmedia.type_flash">
@@ -377,9 +341,9 @@
         <target state="final">Windows Media Player</target>
         <note>key: field_definition.ezmedia.type_windows_media_player</note>
       </trans-unit>
-      <trans-unit id="fabc9be57b82439dac2f612b9c2a171eb7ce6e04" resname="field_definition.ezobjectrelation.selection_content_types">
+      <trans-unit id="fabc9be57b82439dac2f612b9c2a171eb7ce6e04" resname="field_definition.ezobjectrelation.selection_content_types" approved="yes">
         <source>Allowed content types</source>
-        <target state="translated">Types de Contenu autorisés</target>
+        <target state="final">Types de contenu autorisés</target>
         <note>key: field_definition.ezobjectrelation.selection_content_types</note>
       </trans-unit>
       <trans-unit id="440d8fe80bb8a07b62f17d843721285b2cf8a4d5" resname="field_definition.ezobjectrelation.selection_root" approved="yes">
@@ -406,9 +370,6 @@
         <source>Default location</source>
         <target state="final">Emplacement par défaut</target>
         <note>key: field_definition.ezobjectrelationlist.selection_default_location</note>
-        <alt-trans>
-          <target>Localisation par défaut</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="14274feead6c1e1a98261c8df42d6e2e2210cb6f" resname="field_definition.ezobjectrelationlist.selection_limit">
         <source>Selection limit</source>
@@ -419,25 +380,16 @@
         <source>Select location</source>
         <target state="final">Sélectionner l'emplacement</target>
         <note>key: field_definition.ezobjectrelationlist.selection_root_udw_button</note>
-        <alt-trans>
-          <target>Localisation par défaut</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="17d8f3e8bbd5b5f0f5b4b02ddaeaf2af82b0d222" resname="field_definition.ezobjectrelationlist.selection_root_udw_title" approved="yes">
         <source>Select a start location for browsing for relations</source>
         <target state="final">Sélectionnez un emplacement initial pour rechercher une relation</target>
         <note>key: field_definition.ezobjectrelationlist.selection_root_udw_title</note>
-        <alt-trans>
-          <target>Sélectonnez un emplacement initial pour rechercher une relation</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8c89d231e7f1b33a8e0b84ad81fc964785a59cbd" resname="field_definition.ezpage.default_layout" approved="yes">
         <source>Default layout</source>
         <target state="final">Mise en page par défaut</target>
         <note>key: field_definition.ezpage.default_layout</note>
-        <alt-trans>
-          <target>Layout par défaut</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="14a95e986cd6b94301e0f44fd5ef2d5e7cdf90a4" resname="field_definition.ezselection.add_option" approved="yes">
         <source>Add an option</source>
@@ -448,9 +400,6 @@
         <source>Multiple choice</source>
         <target state="final">Choix multiples</target>
         <note>key: field_definition.ezselection.is_multiple</note>
-        <alt-trans>
-          <target>Choix multiple</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ac85420bb89c319433f4d0e8e988b6fa8363e8b9" resname="field_definition.ezselection.options" approved="yes">
         <source>Options</source>
@@ -461,25 +410,16 @@
         <source>Remove selected options</source>
         <target state="final">Supprimer les options sélectionnées</target>
         <note>key: field_definition.ezselection.remove_selected_options</note>
-        <alt-trans>
-          <target>Supprimer les options sélectionnés</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e8ede1605bfed09023397f8662ca28c40e7c460a" resname="field_definition.ezstring.default_value" approved="yes">
         <source>Default value</source>
         <target state="final">Valeur par defaut</target>
         <note>key: field_definition.ezstring.default_value</note>
-        <alt-trans>
-          <target>Valeur par défaut</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="aeb5a467102cac589770bb08efe1ae15c2845cca" resname="field_definition.ezstring.max_length" approved="yes">
         <source>Maximum length</source>
         <target state="final">Longueur maximum</target>
         <note>key: field_definition.ezstring.max_length</note>
-        <alt-trans>
-          <target>Longueur maximale</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b3ccbbb1d949cd2ce5971857c15d8c972ee82691" resname="field_definition.ezstring.min_length" approved="yes">
         <source>Minimum length</source>
@@ -535,6 +475,21 @@
         <source>Password must contain at least one uppercase letter</source>
         <target state="translated">Le mot de passe doit contenir au moins 1 lettre majuscule</target>
         <note>key: field_definition.ezuser.require_at_least_one_upper_case_character</note>
+      </trans-unit>
+      <trans-unit id="b3a4113222154dde9c8d136f4bea80217129b739" resname="field_definition.ezuser.password_ttl">
+        <source>Days before password expires</source>
+        <target state="translated">Jours avant l'expiration du mot de passe</target>
+        <note>key: field_definition.ezuser.password_ttl</note>
+      </trans-unit>
+      <trans-unit id="cd2c70b2a3594f4de7adca0e84da6f106790ae8c" resname="field_definition.ezuser.password_ttl_warning">
+        <source>Days before a user is notified about expiration</source>
+        <target state="translated">Nombre de jours avant qu'un utilisateur ne soit informé de son expiration</target>
+        <note>key: field_definition.ezuser.password_ttl_warning</note>
+      </trans-unit>
+      <trans-unit id="c196b953a8bc8966aeeb771c2c9e653bbe8062bb" resname="field_definition.ezuser.require_new_password">
+        <source>Prevent reusing old password</source>
+        <target state="translated">Empêche la réutilisation de l'ancien mot de passe</target>
+        <note>key: field_definition.ezuser.require_new_password</note>
       </trans-unit>
       <trans-unit id="92d9243bb9fac540233dc376b41a3bcd41615ccc" resname="field_definition.field_group" approved="yes">
         <source>Category</source>
