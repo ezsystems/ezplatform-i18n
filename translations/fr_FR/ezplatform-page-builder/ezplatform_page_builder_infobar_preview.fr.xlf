@@ -80,9 +80,6 @@
         <source>Published</source>
         <target state="translated">Publiée</target>
         <note>key: versions.published</note>
-        <alt-trans>
-          <target>Publié</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="352c05c19e5fab7c657850858ea40d49e5fb831a" resname="versions.status">
         <source>Status</source>
