@@ -183,7 +183,7 @@
       </trans-unit>
       <trans-unit id="837d1179e58011e51733e1420a6f868f94fb9b16" resname="field_definition.ezauthor.default_user_empty">
         <source>Empty</source>
-        <target state="translated">Empty</target>
+        <target state="translated">空</target>
         <note>key: field_definition.ezauthor.default_user_empty</note>
       </trans-unit>
       <trans-unit id="41f781284e4bae2abbb6cfdf1126cc90b48dd35b" resname="field_definition.ezbinaryfile.max_file_size">
@@ -350,9 +350,6 @@
         <source>Default selection item</source>
         <target state="translated">預設選擇項目</target>
         <note>key: field_definition.ezobjectrelation.selection_root</note>
-        <alt-trans>
-          <target>默認選擇項目</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e03e262fad0802fdee49aac136644b35450e1eab" resname="field_definition.ezobjectrelation.selection_root_udw_button">
         <source>Select item</source>
@@ -423,9 +420,6 @@
         <source>Maximum length</source>
         <target state="translated">最大長度</target>
         <note>key: field_definition.ezstring.max_length</note>
-        <alt-trans>
-          <target>最大长度</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b3ccbbb1d949cd2ce5971857c15d8c972ee82691" resname="field_definition.ezstring.min_length">
         <source>Minimum length</source>
