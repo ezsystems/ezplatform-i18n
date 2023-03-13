@@ -15,17 +15,11 @@
         <source>Field type is not editable</source>
         <target state="translated">Ce type de champ n’est pas modifiable</target>
         <note>key: content.field.non_editable</note>
-        <alt-trans>
-          <target>Type de champ n’est pas modifiable</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="07d6fb7c02b8730592a3bb68a315caa63031d44e" resname="content.published.success">
         <source>Content published.</source>
         <target state="translated">Contenu publié.</target>
         <note>key: content.published.success</note>
-        <alt-trans>
-          <target>Le contenu a été publié.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6a2083913f3647b44f205204e369f764e83233b1" resname="content_id">
         <source>Content ID: %contentId%</source>
