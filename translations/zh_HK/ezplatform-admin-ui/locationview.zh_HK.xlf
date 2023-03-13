@@ -25,9 +25,6 @@
         <source>Select Content Type</source>
         <target state="translated">選擇內容類型</target>
         <note>key: content.create.select_content_type</note>
-        <alt-trans>
-          <target>選擇內容項</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8b5180d90c79245ed3e491e6f682842daaa0bec5" resname="content.create.select_language">
         <source>Select language</source>
@@ -46,7 +43,7 @@
       </trans-unit>
       <trans-unit id="9c91d85bc7658ec7dc6bbb07b720979177c0846a" resname="content.view.subitems">
         <source>Sub-items</source>
-        <target state="translated">子項</target>
+        <target state="translated">子項目</target>
         <note>key: content.view.subitems</note>
       </trans-unit>
       <trans-unit id="4f1f7e7763187d69da3f75ebfb74d391a451cec6" resname="content.view.subitems.bulk_action.limited_permissions">
@@ -68,9 +65,6 @@
         <source>Remove from Bookmarks</source>
         <target state="translated">從書籤中移除。</target>
         <note>key: location.bookmark.remove</note>
-        <alt-trans>
-          <target>移除書籤。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4fd9a40170cf4bc5acff719c14eaf2d15fc9942d" resname="tab.details.change_section ">
         <source>Change section</source>
@@ -116,9 +110,6 @@
         <source>Can’t fetch last contributor</source>
         <target state="translated">無法獲取上次的合作者</target>
         <note>key: tab.details.last_contributor.not_found</note>
-        <alt-trans>
-          <target>無法獲取最後的合作者</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="671c2d4e91244548b29e8f293cd8d4d97a3c23bd" resname="tab.details.location_id">
         <source>Location ID</source>
