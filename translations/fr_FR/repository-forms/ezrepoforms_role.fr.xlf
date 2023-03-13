@@ -20,9 +20,6 @@
         <source>Delete assignment</source>
         <target state="final">Supprimer l'assignation</target>
         <note>key: role.assignment.form.delete</note>
-        <alt-trans>
-          <target>Supprimer l'assignement</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2055432dd7586fdb260245c2eee60e3869bc5b23" resname="role.cancel" approved="yes">
         <source>Cancel</source>
@@ -48,9 +45,6 @@
         <source>All functions</source>
         <target state="final">Toutes les fonctions</target>
         <note>key: role.policy.all_functions</note>
-        <alt-trans>
-          <target>Toutes fonctions</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d29c07272fff793138cbb6f7dbb41b08a16ff815" resname="role.policy.all_modules">
         <source>All modules</source>
@@ -71,25 +65,16 @@
         <source>Delete policy</source>
         <target state="final">Supprimer la règle</target>
         <note>key: role.policy.form.delete</note>
-        <alt-trans>
-          <target>Supprimer la politique</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0eda0d605bd42eb8989a82e546d09ace8bc1b4d9" resname="role.policy.limitation.location.udw_button" approved="yes">
         <source>Select locations</source>
         <target state="final">Sélectionnez les emplacements</target>
         <note>key: role.policy.limitation.location.udw_button</note>
-        <alt-trans>
-          <target>Emplacements</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title" approved="yes">
         <source>Select locations to use as policy limitation</source>
         <target state="final">Sélectionnez les emplacements à utiliser pour la règle de restriction</target>
         <note>key: role.policy.limitation.location.udw_title</note>
-        <alt-trans>
-          <target>Sélectionnez les emplacements de la restriction</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="be8159ab7985797bd281cb0f7f58bb4d2c925159" resname="role.policy.limitation.not_implemented" approved="yes">
         <source>Limitation edition for '%limitationTypeIdentifier%' is not implemented yet.</source>
@@ -100,25 +85,16 @@
         <source>Save</source>
         <target state="final">Enregistrer</target>
         <note>key: role.policy.save</note>
-        <alt-trans>
-          <target>Sauvegarder</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cab53821c4e3d4cc647df19c3c1f1541e86b4a54" resname="role.policy.save_and_add_limitation" approved="yes">
         <source>Save and add limitations</source>
         <target state="final">Enregistrer et ajouter les limitations</target>
         <note>key: role.policy.save_and_add_limitation</note>
-        <alt-trans>
-          <target>Sauvegarder et ajouter la limitation</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type" approved="yes">
         <source>Policy type</source>
         <target state="final">Type de règle</target>
         <note>key: role.policy.type</note>
-        <alt-trans>
-          <target>Type de politique</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose" approved="yes">
         <source>Choose a combination of module/function</source>
@@ -134,9 +110,6 @@
         <source>Save</source>
         <target state="final">Enregistrer</target>
         <note>key: role.save</note>
-        <alt-trans>
-          <target>Sauvegarder</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
