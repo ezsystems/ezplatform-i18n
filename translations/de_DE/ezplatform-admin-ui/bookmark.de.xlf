@@ -25,9 +25,6 @@
         <source>Content Type</source>
         <target state="translated">Inhaltstyp</target>
         <note>key: bookmark.list.content_type</note>
-        <alt-trans>
-          <target>Content-Typ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e55cc61e6e0bcd97f329c00790704a381212f55b" resname="bookmark.list.empty">
         <source>The bookmark list is empty. Any Content item you bookmark will end up here.</source>
@@ -38,9 +35,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: bookmark.list.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fa0e2c8d987f0282f85003e05398c602de5da17b" resname="bookmark.list.path">
         <source>Path</source>
