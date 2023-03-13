@@ -20,9 +20,6 @@
         <source>Address</source>
         <target state="translated">地址</target>
         <note>key: content.field_type.ezgmaplocation.address</note>
-        <alt-trans>
-          <target>地址:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2fcb1cae76dae0c5ddda6446822bf2d656e84601" resname="content.field_type.ezgmaplocation.latitude">
         <source>Latitude</source>
