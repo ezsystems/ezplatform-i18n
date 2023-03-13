@@ -45,9 +45,6 @@
         <source>Type</source>
         <target state="final">Typ</target>
         <note>key: database.type</note>
-        <alt-trans>
-          <target>Rodzaj bazy danych</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="512e470f98391ba6e8140ef7a85e27c71af6e6bc" resname="database.username" approved="yes">
         <source>Username</source>
@@ -113,9 +110,6 @@
         <source>Symfony Kernel</source>
         <target state="final">Kernel Symfony</target>
         <note>key: symfony_kernel</note>
-        <alt-trans>
-          <target>Jądro Symfony</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="dbc3d622a5e78844eeb75f3e9477b90357984ad7" resname="symfony_kernel.bundles.empty" approved="yes">
         <source>No bundles installed.</source>
@@ -126,9 +120,6 @@
         <source>Cache directory</source>
         <target state="final">Katalog cache</target>
         <note>key: symfony_kernel.cacheDir</note>
-        <alt-trans>
-          <target>Ścieżka cache</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="74d0f849585c3bfe67e3477d0773fd8f097bd54d" resname="symfony_kernel.charset" approved="yes">
         <source>Character set</source>
