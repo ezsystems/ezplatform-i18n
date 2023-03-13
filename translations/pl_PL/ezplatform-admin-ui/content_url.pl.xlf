@@ -10,17 +10,11 @@
         <source>Add Custom URL</source>
         <target state="final">Dodaj niestandardowy URL</target>
         <note>key: tab.urls.action.add</note>
-        <alt-trans>
-          <target>Dodaj własny URL</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9b4504fd2e75dffb2c22283be3e9816e8142538a" resname="tab.urls.action.delete" approved="yes">
         <source>Delete Custom URL</source>
         <target state="final">Usuń niestandardowy URL</target>
         <note>key: tab.urls.action.delete</note>
-        <alt-trans>
-          <target>Usuń własny URL</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2398a15c604fd353b25fc8f558e2d099a6afeb33" resname="tab.urls.add.cancel" approved="yes">
         <source>Cancel</source>
@@ -41,58 +35,36 @@
         <source>Alias should redirect to its destination</source>
         <target state="final">Alias powinien przekierowywać do adresu docelowego</target>
         <note>key: tab.urls.add.redirect</note>
-        <alt-trans>
-          <target>Alias powinien przekierowywać do adresu docelowego:</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Alias powinien przekierowywać do przeznaczonego miejsca</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e84da49f6798548a0e09f5f7d5095788257f0119" resname="tab.urls.add.redirect.helper.checked" approved="yes">
         <source>Checked will redirect to the destination using an HTTP 301 response.</source>
         <target state="final">Zaznaczony przekierowuje przy użyciu odpowiedzi HTTP 301.</target>
         <note>key: tab.urls.add.redirect.helper.checked</note>
-        <alt-trans>
-          <target>Zaznaczenie spowoduje przekierowanie przy użyciu odpowiedzi HTTP 301</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bccfa7be40c2932ae04a50767aee2184bd5ca4d5" resname="tab.urls.add.redirect.helper.unchecked" approved="yes">
         <source>Unchecked will not redirect to the destination and the URL will stay the same.</source>
         <target state="final">Odznaczony nie przekieruje pod docelowy adres, a URL pozostanie ten sam.</target>
         <note>key: tab.urls.add.redirect.helper.unchecked</note>
-        <alt-trans>
-          <target>Odznaczenie  nie spowoduje przekierowania pod docelowy adres, a URL pozostanie ten sam.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9ef990fca45f612ab2d3af7b21968803d76d5d77" resname="tab.urls.add.site_root" approved="yes">
         <source>Place alias at the site root</source>
         <target state="final">Utwórz alias w katalogu głównym strony</target>
         <note>key: tab.urls.add.site_root</note>
-        <alt-trans>
-          <target>Umieść alias w katalogu głównym strony</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Umieść alias w katalogu głównym serwisu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9fc6fbd86b58ee883321610dd1726551772edaf1" resname="tab.urls.add.site_root.helper.checked" approved="yes">
         <source>Checked will create the alias at the site root.</source>
         <target state="final">Zaznaczony utworzy alias w katalogu głównym strony.</target>
         <note>key: tab.urls.add.site_root.helper.checked</note>
-        <alt-trans>
-          <target>Zaznaczenie spowoduje utworzenie aliasu w katalogu głównym serwisu.</target>
-        </alt-trans>
+      </trans-unit>
+      <trans-unit id="cf65d6c865f18c51e3edcd90c6779079b994595c" resname="tab.urls.add.site_root.helper.no_parent_name">
+        <source>Unchecked will create the new alias under the parent of this location</source>
+        <target state="translated">Odznaczony utworzy nowy alias pod rodzicem tej lokalizacji</target>
+        <note>key: tab.urls.add.site_root.helper.no_parent_name</note>
       </trans-unit>
       <trans-unit id="db531fb5f993263b5ea57393101781b9d731a738" resname="tab.urls.add.site_root.helper.unchecked" approved="yes">
         <source>Unchecked will create the new alias under %parent_name%</source>
         <target state="final">Odznaczony utworzy nowy alias pod %parent_name%.</target>
         <note>key: tab.urls.add.site_root.helper.unchecked</note>
-        <alt-trans>
-          <target>Odznaczony utworzy nowy alias pod %parent_name%</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Odznaczenie utworzy nowy alias pod %parent_name%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="25badd959ce69714e8eb349ebddbbbe126c14458" resname="tab.urls.add.title" approved="yes">
         <source>Create new URL alias</source>
@@ -103,9 +75,6 @@
         <source>Custom URL aliases for %contentName%</source>
         <target state="final">Dodatkowe aliasy URL dla %contentName%</target>
         <note>key: tab.urls.custom_url_aliases</note>
-        <alt-trans>
-          <target>Własne aliasy URL dla %contentName%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5a1947624cf55689d80d38b7583bac538da641bb" resname="tab.urls.language" approved="yes">
         <source>Language</source>
@@ -116,9 +85,6 @@
         <source>Do you want to delete selected Custom URLs?</source>
         <target state="final">Czy chcesz usunąć wybrane adresy URL?</target>
         <note>key: tab.urls.modal.message</note>
-        <alt-trans>
-          <target>Czy chcesz usunąć wybrane własne adresy URL?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="777d1a83ab6a6c4644dd31409906e48a0a7a4a51" resname="tab.urls.modal_close" approved="yes">
         <source>Close</source>
@@ -129,12 +95,6 @@
         <source>This content item has no custom url aliases.</source>
         <target state="final">Ten element nie posiada dodatkowych aliasów URL.</target>
         <note>key: tab.urls.no_custom_urls</note>
-        <alt-trans>
-          <target>Ten obiekt nie posiada dodatkowych aliasów URL.</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Ten obiekt nie posiada dodatkowych własnych aliasów URL.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c9fdd1434b44a4592626e8fe493c19141aab24d5" resname="tab.urls.no_system_urls" approved="yes">
         <source>This content item has no system urls.</source>
