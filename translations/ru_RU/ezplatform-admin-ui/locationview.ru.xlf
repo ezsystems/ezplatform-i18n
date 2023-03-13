@@ -65,9 +65,6 @@
         <source>Can’t fetch creator</source>
         <target state="translated">Не удалось загрузить создателя</target>
         <note>key: tab.details.creator.not_found</note>
-        <alt-trans>
-          <target>Не удалось загрузить редактор</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="acc17a8db8d00036233faa9948ad9a496cd621b3" resname="tab.details.last_contributor">
         <source>Last contributor</source>
