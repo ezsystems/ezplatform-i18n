@@ -40,9 +40,6 @@
         <source>Created</source>
         <target state="translated">Erstellt</target>
         <note>key: url.label.created</note>
-        <alt-trans>
-          <target>Erzeugt</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9f504bd4b4d9667acd04b788b3b0dbb4d7d9500f" resname="url.label.last_checked">
         <source>Last checked</source>
@@ -123,9 +120,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: url.usages.column.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="194bc7ae0ad8f96bbd8ad91fe58cc02ce1e465fc" resname="url.usages.column.status">
         <source>Status</source>
