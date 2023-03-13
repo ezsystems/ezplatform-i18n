@@ -75,9 +75,6 @@
         <source>User Preferences</source>
         <target state="translated">用户首選項</target>
         <note>key: breadcrumb.user_preferences</note>
-        <alt-trans>
-          <target>用户/首選項</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d23f0200b4769a69d2414de6d96117fed4601326" resname="character_counter.characters">
         <source>characters</source>
@@ -113,9 +110,6 @@
         <source>This item is being used by other content item(s). To avoid errors, please update or remove all related objects listed in the Relations tab.</source>
         <target state="translated">其他內容項正在使用此項。請刪除所有實例, 以避免404錯誤。</target>
         <note>key: content.hide.modal.warning_content_used_by_other_content</note>
-        <alt-trans>
-          <target>其他內容項正在使用該項。 為避免錯誤，請更新或刪除“關係”選項卡中列出的所有相關對象。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash">
         <source>In Trash</source>
@@ -171,9 +165,6 @@
         <source><![CDATA[Check the URL, in case there would be an error in there.<br/>If not, go to the <a class="error-page__link" href="%dashboard%">dashboard</a> or <a class="error-page__link" href="%search%">search</a> for specific content.]]></source>
         <target state="translated"><![CDATA[檢查URL，以防出現錯誤。<br/>如果沒有，請轉到<a class="error-page__link" href="%dashboard%">面板</a>或<a class =“error-page__link” href =“%search%”>搜索</a>的具體內容。]]></target>
         <note>key: error.page.404.actions</note>
-        <alt-trans>
-          <target><![CDATA[檢查URL，以防出現錯誤。<br/>如果沒有，請轉到<a class="error-page__link" href="%dashboard%">面板</a>或<a class =“error-page__link” href =“％search％”>搜索</a>的具體內容。]]></target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7027b2adcf028b82111334763e40823cd85a52fa" resname="error.page.404.message">
         <source><![CDATA[It’s an error 404. The page you requested was not found.<br/>It might have been deleted or might be temporarily unavailable.]]></source>
@@ -322,9 +313,6 @@
         <source>Are you sure you want to permanently delete %trashItemsCount% item(s)?</source>
         <target state="translated">您確定要永久刪除%trashItemsCount%項嗎？</target>
         <note>key: trash.delete.all.confirm</note>
-        <alt-trans>
-          <target>您確定要永久刪除％trashItemsCount％項嗎？</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="48e20c2b09b340ca2e2020edaa30a57c8bc3f26b" resname="trash.delete.all.info">
         <source>This action cannot be reversed</source>
@@ -360,9 +348,6 @@
         <source>You have the option to delete %content_name% (%content_type%) only or to also delete the assets it is using. Make your choice:</source>
         <target state="translated">您可以選擇僅刪除%content_name%（%content_type%），也可以刪除正在使用的资源。 做出你的選擇：</target>
         <note>key: trash_asset_single.modal.message</note>
-        <alt-trans>
-          <target>您可以選擇僅刪除％content_name％（％content_type％），也可以刪除正在使用的资源。 做出你的選擇：</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ff537a1e092270edf7497dc13ce051cdb458958b" resname="trash_asset_single.modal.message_main">
         <source>You are about to delete a content with one or several asset(s) field(s).</source>
@@ -373,9 +358,6 @@
         <source>Deleting %content_name% will also delete its sub-items, under its location(s). To confirm, please check below</source>
         <target state="translated">刪除%content_name%及其位置下的子項。要確認，請在下面查看</target>
         <note>key: trash_container.modal.message_main</note>
-        <alt-trans>
-          <target>刪除％content_name％及其位置下的子項。要確認，請在下面查看</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
