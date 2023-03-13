@@ -15,9 +15,6 @@
         <source>Bookmarks</source>
         <target state="translated">पूस्तकचीन</target>
         <note>key: bookmark.headline</note>
-        <alt-trans>
-          <target>बुकमार्क्स</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5001931b6bf98acefb5138b1cdba97d97fed4844" resname="bookmark.list.content.edit">
         <source>Edit Content</source>
@@ -28,9 +25,6 @@
         <source>Content Type</source>
         <target state="translated">कांटेंट टाइप</target>
         <note>key: bookmark.list.content_type</note>
-        <alt-trans>
-          <target>कांटेंट प्रकार</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e55cc61e6e0bcd97f329c00790704a381212f55b" resname="bookmark.list.empty">
         <source>The bookmark list is empty. Any Content item you bookmark will end up here.</source>
