@@ -10,41 +10,26 @@
         <source>Content type description cannot exceed 255 characters.</source>
         <target state="final">ContentType description cannot exceed 255 characters.</target>
         <note>key: ez.content_type.descriptions</note>
-        <alt-trans>
-          <target>Content Type description cannot exceed 255 characters.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="73aad2fb9c8f9a2103bf60d6e9221a619f261f9c" resname="ez.content_type.identifier.pattern" approved="yes">
         <source>Content type identifier may only contain letters from "a" to "z", numbers and underscores.</source>
         <target state="final">ContentType identifier may only contain letters from "a" to "z", numbers, and underscores.</target>
         <note>key: ez.content_type.identifier.pattern</note>
-        <alt-trans>
-          <target>Content Type Identifier may only contain letters from "a" to "z", numbers and underscores.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7ecfa6bd2c1993d18d067f3abe3acebeb9c2458c" resname="ez.content_type.names" approved="yes">
         <source>Content type name cannot be blank and cannot exceed 255 characters.</source>
         <target state="final">ContentType name cannot be blank, and cannot exceed 255 characters.</target>
         <note>key: ez.content_type.names</note>
-        <alt-trans>
-          <target>Content Type name cannot be blank and cannot exceed 255 characters.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="95f7490a739fd599a8d1d8f2ddec862744a71faa" resname="ez.field_definition.descriptions" approved="yes">
         <source>Field definition description cannot exceed 255 characters.</source>
         <target state="final">FieldDefinition description cannot exceed 255 characters.</target>
         <note>key: ez.field_definition.descriptions</note>
-        <alt-trans>
-          <target>Field Definition description cannot exceed 255 characters.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0f7d936836760a506042c4d25cd38c5a30c3d9de" resname="ez.field_definition.names" approved="yes">
         <source>Field definition name cannot be blank cannot exceed 255 characters.</source>
         <target state="final">FieldDefinition name cannot be blank, and cannot exceed 255 characters.</target>
         <note>key: ez.field_definition.names</note>
-        <alt-trans>
-          <target>Field Definition name cannot be blank cannot exceed 255 characters.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8666b9bac694063a73e477fed0531653db9577cf" resname="ez.language.code.unique">
         <source>The language code "%language_code%" is used by another language. You must enter a unique language code.</source>
@@ -60,9 +45,6 @@
         <source>Section identifier may only contain letters from "a" to "z", numbers and underscores.</source>
         <target state="final">Section identifier may only contain letters from "a" to "z", numbers, and underscores.</target>
         <note>key: ez.section.identifier.format</note>
-        <alt-trans>
-          <target>Section Identifier may only contain letters from "a" to "z", numbers and underscores.</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
