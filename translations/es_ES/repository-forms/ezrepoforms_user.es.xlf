@@ -18,7 +18,7 @@
       </trans-unit>
       <trans-unit id="eb38155e104e6d4ebc123884d6052104032a34d7" resname="user.enabled">
         <source>Enabled</source>
-        <target state="translated">Activo</target>
+        <target state="translated">Activado</target>
         <note>key: user.enabled</note>
       </trans-unit>
       <trans-unit id="35f124029a019e1546ec5545a6ffa4968f9e4418" resname="user.update">
