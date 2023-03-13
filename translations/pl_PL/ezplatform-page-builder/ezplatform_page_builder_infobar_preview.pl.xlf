@@ -55,9 +55,6 @@
         <source>Can’t fetch contributor</source>
         <target state="final">Nie można pobrać autora</target>
         <note>key: versions.cant.fetch.contributor</note>
-        <alt-trans>
-          <target>Nie można pobrać współautora</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="db9d866f6bcc68c3fe4832b03061be4485efaad9" resname="versions.create" approved="yes">
         <source>Created</source>
