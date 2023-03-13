@@ -35,9 +35,6 @@
         <source>Editing - %contentName% in %languageName%</source>
         <target state="translated">Redigerer - %contentName% i %languageName%</target>
         <note>key: editing_in_language</note>
-        <alt-trans>
-          <target>Rediger - %contentName% i %languageName%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4e46e160f661315fed793049088d1426ae440b56" resname="editing_in_language_based_on">
         <source>Editing - %contentName% in %languageName% based on %baseLanguageName%</source>
