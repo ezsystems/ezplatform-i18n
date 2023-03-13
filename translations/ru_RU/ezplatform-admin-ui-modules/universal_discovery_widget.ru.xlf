@@ -155,9 +155,6 @@
         <source>Previous</source>
         <target state="translated">Назад</target>
         <note>key: pagination.prev</note>
-        <alt-trans>
-          <target>Предыдущий</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="446c59c15f6d865a1d0ddd1c86711a7fc276cbb8" resname="search.content_table.title">
         <source>Search results</source>
