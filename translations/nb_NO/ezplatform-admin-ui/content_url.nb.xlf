@@ -40,17 +40,11 @@
         <source>Checked will redirect to the destination using an HTTP 301 response.</source>
         <target state="translated">Om avmerket vil viderekoble til målet med en HTTP 301 respons.</target>
         <note>key: tab.urls.add.redirect.helper.checked</note>
-        <alt-trans>
-          <target>Om valgt vil viderekoble til målet med en HTTP 301 respons.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bccfa7be40c2932ae04a50767aee2184bd5ca4d5" resname="tab.urls.add.redirect.helper.unchecked">
         <source>Unchecked will not redirect to the destination and the URL will stay the same.</source>
         <target state="translated">Ikke avmerket vil ikke viderekoble til målet, og URL vil forbli den samme.</target>
         <note>key: tab.urls.add.redirect.helper.unchecked</note>
-        <alt-trans>
-          <target>Ikke valgt vil ikke viderekoble til målet, og URL vil forbli den samme.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9ef990fca45f612ab2d3af7b21968803d76d5d77" resname="tab.urls.add.site_root">
         <source>Place alias at the site root</source>
@@ -61,9 +55,6 @@
         <source>Checked will create the alias at the site root.</source>
         <target state="translated">Om avmerket vil opprette aliaset nettstedet rot adresse.</target>
         <note>key: tab.urls.add.site_root.helper.checked</note>
-        <alt-trans>
-          <target>Om valgt vil opprette aliaset nettstedet rot adresse.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cf65d6c865f18c51e3edcd90c6779079b994595c" resname="tab.urls.add.site_root.helper.no_parent_name">
         <source>Unchecked will create the new alias under the parent of this location</source>
