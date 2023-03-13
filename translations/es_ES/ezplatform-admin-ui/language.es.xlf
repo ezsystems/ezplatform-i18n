@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="670884ed109bd22b18847ccb016a0faf72470640" resname="language.code.label">
         <source>Language code</source>
-        <target state="translated">Código de lenguaje</target>
+        <target state="translated">Código de idioma</target>
         <note>key: language.code.label</note>
       </trans-unit>
       <trans-unit id="4f04e19e68e7ce4a6948c0b95bee0e28900b274a" resname="language.create.success">
@@ -63,12 +63,12 @@
       </trans-unit>
       <trans-unit id="acf6ff41e3b9acb2cbbcd4a8e908cf52c08b86af" resname="language.id">
         <source>ID</source>
-        <target state="translated">ID</target>
+        <target state="translated">id.</target>
         <note>key: language.id</note>
       </trans-unit>
       <trans-unit id="60c35c78d83e0e32173bc6eda1bd696d223b49bd" resname="language.id.label">
         <source>ID</source>
-        <target state="translated">ID</target>
+        <target state="translated">id.</target>
         <note>key: language.id.label</note>
       </trans-unit>
       <trans-unit id="463ac52ab0cf571550389494d38d1318acab44c1" resname="language.information.header">
@@ -123,7 +123,7 @@
       </trans-unit>
       <trans-unit id="a46aeb190cbc586a29c72689dfc5d88a3e21d2f9" resname="language.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Viendo <strong>%viewing%</strong> de <strong>%total%</strong> elementos]]></target>
+        <target state="translated"><![CDATA[Visualizando <strong>%viewing%</strong> de <strong>%total%</strong> ítems]]></target>
         <note>key: language.viewing</note>
       </trans-unit>
     </body>
