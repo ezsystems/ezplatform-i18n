@@ -10,9 +10,6 @@
         <source>content.published</source>
         <target state="final">Opublikowano element</target>
         <note>key: content.published</note>
-        <alt-trans>
-          <target>Treść opublikowana</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
