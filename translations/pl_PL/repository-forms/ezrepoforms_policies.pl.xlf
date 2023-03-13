@@ -45,9 +45,6 @@
         <source>Content Type of Parent</source>
         <target state="final">Typ elementu nadrzędnego</target>
         <note>key: policy.limitation.identifier.parentclass</note>
-        <alt-trans>
-          <target>Typ treści elementu nadrzędnego</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="39bf0d9c1e0e8b64193bf09d83fbd89c2dac3421" resname="policy.limitation.identifier.parentdepth" approved="yes">
         <source>Parent Depth</source>
@@ -58,9 +55,6 @@
         <source>Content Type Group of Parent</source>
         <target state="final">Grupa typów elementu nadrzędnego</target>
         <note>key: policy.limitation.identifier.parentgroup</note>
-        <alt-trans>
-          <target>Grupa typów treści elementu nadrzędnego</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6208b97847450b255559e4a56c51ff06b76a08dd" resname="policy.limitation.identifier.parentowner" approved="yes">
         <source>Owner of Parent</source>
