@@ -11,6 +11,11 @@
         <target state="translated">Cestino</target>
         <note>key: trash</note>
       </trans-unit>
+      <trans-unit id="49df4e6f73344ab17f4dfd94818974848f74f53a" resname="trash.button.restore">
+        <source>Restore</source>
+        <target state="translated">Ripristina</target>
+        <note>key: trash.button.restore</note>
+      </trans-unit>
       <trans-unit id="7ffaa1444a83e959f8de3c2410bb65acdd3e3ff0" resname="trash.delete">
         <source>Delete</source>
         <target state="translated">Cancella</target>
@@ -20,6 +25,11 @@
         <source>Trash</source>
         <target state="translated">Cestino</target>
         <note>key: trash.headline</note>
+      </trans-unit>
+      <trans-unit id="5d4b7350cb3bfc77e9edd02190eb530d866c7565" resname="trash.item.ancesor_in_trash">
+        <source>Ancestor is in the Trash</source>
+        <target state="translated">L'antenato è nel cestino</target>
+        <note>key: trash.item.ancesor_in_trash</note>
       </trans-unit>
       <trans-unit id="34525fc5da381111c2104d20a55021eb8b698c7c" resname="trash.name">
         <source>Name</source>
