@@ -30,9 +30,6 @@
         <source>Field definition description cannot exceed 255 characters.</source>
         <target state="translated">Beschreibung der Felddefinition darf 255 Zeichen nicht überschreiten.</target>
         <note>key: ez.field_definition.descriptions</note>
-        <alt-trans>
-          <target>Content-Type Beschreibung darf 255 Zeichen nicht überschreiten.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0f7d936836760a506042c4d25cd38c5a30c3d9de" resname="ez.field_definition.names">
         <source>Field definition name cannot be blank cannot exceed 255 characters.</source>
