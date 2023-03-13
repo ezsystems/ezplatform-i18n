@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="he" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="d678f06484db09b324fcc056117c6f2d8b6637a5" resname="action.redirect.udw.title">
+        <source>Select content</source>
+        <target state="translated">בחר תוכן</target>
+        <note>key: action.redirect.udw.title</note>
+      </trans-unit>
+      <trans-unit id="e547acc3be35f3a52f9abf815375f3e14f14228e" resname="attribute.location.empty">
+        <source>No location selected</source>
+        <target state="translated">מיקום לא נבחר</target>
+        <note>key: attribute.location.empty</note>
+      </trans-unit>
+      <trans-unit id="362c9f7f2a6fca0d86cb30506368f7e461dc7a06" resname="attribute.location.select_location">
+        <source>Select location</source>
+        <target state="translated">בחר מיקום</target>
+        <note>key: attribute.location.select_location</note>
+      </trans-unit>
+      <trans-unit id="81feac9c1754220f9ea3354d88cf49d263c09941" resname="field.remove">
+        <source>Remove</source>
+        <target state="translated">הסר</target>
+        <note>key: field.remove</note>
+      </trans-unit>
+      <trans-unit id="b2df64a559c6f9166c782a24eee835d78f4f402b" resname="field.settings">
+        <source>Settings</source>
+        <target state="translated">הגדרות</target>
+        <note>key: field.settings</note>
+      </trans-unit>
+      <trans-unit id="99c07fbdbe0c40a68138652eb91532d9737ed7b2" resname="form.no_preview">
+        <source>Preview is not available.</source>
+        <target state="translated">תצוגה מקדימה לא זמינה</target>
+        <note>key: form.no_preview</note>
+      </trans-unit>
+      <trans-unit id="9d9a3840f5ab21538b5df82ff8dc176cc9d8a06e" resname="form_builder.attribute.action.message.label">
+        <source>Message to display</source>
+        <target state="translated">הודעות לתצוגה</target>
+        <note>key: form_builder.attribute.action.message.label</note>
+      </trans-unit>
+      <trans-unit id="fceee88c1cb6fb09b447c17e4202c73e556791ed" resname="form_builder.attribute.action.url.label">
+        <source>Redirection URL</source>
+        <target state="translated">URL להפניה מחדש</target>
+        <note>key: form_builder.attribute.action.url.label</note>
+      </trans-unit>
+      <trans-unit id="cbee6bba404b084caf023187307292057b5bf510" resname="form_builder.attribute.button.action.message">
+        <source>Show a message</source>
+        <target state="translated">הצג הודעה</target>
+        <note>key: form_builder.attribute.button.action.message</note>
+      </trans-unit>
+      <trans-unit id="43674c0b8bc95876a42040af25012c52eed5cc8a" resname="form_builder.attribute.button.action.url">
+        <source>Redirect to a URL</source>
+        <target state="translated">כתובת הפניה</target>
+        <note>key: form_builder.attribute.button.action.url</note>
+      </trans-unit>
+      <trans-unit id="f476b2afcc5cefebd29d6d0136ad8c1f0d721194" resname="form_builder.submission.boolean.false">
+        <source>False</source>
+        <target state="translated">לא נכון</target>
+        <note>key: form_builder.submission.boolean.false</note>
+      </trans-unit>
+      <trans-unit id="a99073f43bf62086e850220f5cb59f030dafd4b7" resname="form_builder.submission.boolean.true">
+        <source>True</source>
+        <target state="translated">נכון</target>
+        <note>key: form_builder.submission.boolean.true</note>
+      </trans-unit>
+      <trans-unit id="c5df2f428976997cfd702d1795b54e6967b5dab3" resname="form_builder.validator.regex.pattern.alnum">
+        <source>Alphanumeric</source>
+        <target state="translated">אלפאנומרי</target>
+        <note>key: form_builder.validator.regex.pattern.alnum</note>
+      </trans-unit>
+      <trans-unit id="0afed63453cf94e289b83788d8051a84c0477de0" resname="form_builder.validator.regex.pattern.alpha">
+        <source>Alphabets</source>
+        <target state="translated">אלפאבית</target>
+        <note>key: form_builder.validator.regex.pattern.alpha</note>
+      </trans-unit>
+      <trans-unit id="71c3e1f8784415b29443d47570d96485d35675cd" resname="form_builder.validator.regex.pattern.custom">
+        <source>Custom</source>
+        <target state="translated">מותאם</target>
+        <note>key: form_builder.validator.regex.pattern.custom</note>
+      </trans-unit>
+      <trans-unit id="a794978c8a73ee98bb2b7499d370b4c057dd6da8" resname="remove.item">
+        <source>Remove item</source>
+        <target state="translated">הסרת פריט</target>
+        <note>key: remove.item</note>
+      </trans-unit>
+      <trans-unit id="391b814dc27a7b6065e56676a1d6a3fc17bb7b95" resname="select.content">
+        <source>Select content</source>
+        <target state="translated">בחר תוכן</target>
+        <note>key: select.content</note>
+      </trans-unit>
+      <trans-unit id="fea3ad9d846ad8a0a3d3ff18e1882df57ef4ea73" resname="select.content.item">
+        <source>Select content item</source>
+        <target state="translated">בחר תוכן הפריטים</target>
+        <note>key: select.content.item</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
