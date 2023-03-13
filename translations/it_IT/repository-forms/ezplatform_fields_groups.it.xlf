@@ -10,9 +10,11 @@
         <source>Content</source>
         <target state="translated">Contenuto</target>
         <note>key: content</note>
-        <alt-trans>
-          <target>Cntenuto</target>
-        </alt-trans>
+      </trans-unit>
+      <trans-unit id="4c24b2612e94e2ae622e54397663f2b7bf0a2e17" resname="metadata">
+        <source>Metadata</source>
+        <target state="translated">Metadati</target>
+        <note>key: metadata</note>
       </trans-unit>
     </body>
   </file>
