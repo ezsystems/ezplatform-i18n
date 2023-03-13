@@ -8,17 +8,22 @@
     <body>
       <trans-unit id="1020ca59a2c9fa207ebe162fd6727fd1a81027c0" resname="draft.conflict.choice">
         <source>You can either edit any of your existing draft(s) or add a new one.</source>
-        <target state="translated">Puede elegir entre editar uno de los borradores existentes o añadir uno nuevo.</target>
+        <target state="translated">Puedes editar uno de los borradores existentes o añadir uno nuevo.</target>
         <note>key: draft.conflict.choice</note>
+      </trans-unit>
+      <trans-unit id="051e6a67518db4bc613d03a2cbfc5516c539ad8f" resname="draft.conflict.choice_content_is_user">
+        <source>You can edit any of your existing draft(s)</source>
+        <target state="translated">Puedes editar cualquiera de los borradores existentes.</target>
+        <note>key: draft.conflict.choice_content_is_user</note>
       </trans-unit>
       <trans-unit id="57ae8e493adef8a884a3f0c5e9e4501b7f2ec395" resname="draft.conflict.header">
         <source>Draft conflict when editing</source>
-        <target state="translated">Conflicto de borradores al editar</target>
+        <target state="translated">Problemas de borradores al editar</target>
         <note>key: draft.conflict.header</note>
       </trans-unit>
       <trans-unit id="d5fdbb680e6950e955c933e05f15f861c2020517" resname="draft.conflict.number">
         <source>{1}There are %number% draft for this content item.|]1,Inf[ There are %number% drafts for this content item</source>
-        <target state="translated">{1}hay %number% borrador para este elemento de contenido. |] 1, Inf [hay %number% borradores para este elemento de contenido</target>
+        <target state="translated">{1}Hay %number% borradores para este ítem de contenido. |]1,Inf[ Hay %number% borradores para este ítem de contenido</target>
         <note>key: draft.conflict.number</note>
       </trans-unit>
       <trans-unit id="a4297fe31e8eb3307caa2cf855328056c3b98962" resname="tab.versions.action.delete">
