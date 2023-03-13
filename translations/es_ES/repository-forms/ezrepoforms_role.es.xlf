@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="f6b396a2d7ba20e291c364b91a3189b672c4d4b9" resname="policy.limitation.group.self">
         <source>Self</source>
-        <target state="translated">Self</target>
+        <target state="translated">Auto</target>
         <note>key: policy.limitation.group.self</note>
       </trans-unit>
       <trans-unit id="cc7c597ffa43ef724b881b127a4124fd35c8c6f6" resname="policy.limitation.owner.self">
         <source>Self</source>
-        <target state="translated">Self</target>
+        <target state="translated">Auto</target>
         <note>key: policy.limitation.owner.self</note>
       </trans-unit>
       <trans-unit id="8199e9b3c9cfe019c9a9c07424abe35374ff0321" resname="role.assignment.form.delete">
@@ -63,17 +63,17 @@
       </trans-unit>
       <trans-unit id="45237c152148c31c2b8c58cd43466caf30c7ea6a" resname="role.policy.form.delete">
         <source>Delete policy</source>
-        <target state="translated">Eliminar la politica</target>
+        <target state="translated">Eliminar la política</target>
         <note>key: role.policy.form.delete</note>
       </trans-unit>
       <trans-unit id="0eda0d605bd42eb8989a82e546d09ace8bc1b4d9" resname="role.policy.limitation.location.udw_button">
         <source>Select locations</source>
-        <target state="translated">Escoger localizaciones</target>
+        <target state="translated">Seleccionar ubicaciones</target>
         <note>key: role.policy.limitation.location.udw_button</note>
       </trans-unit>
       <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title">
         <source>Select locations to use as policy limitation</source>
-        <target state="translated">Seleccione ubicaciones para las cuales se aplicarán las políticas</target>
+        <target state="translated">Selecciona ubicaciones a las que se aplicarán las políticas</target>
         <note>key: role.policy.limitation.location.udw_title</note>
       </trans-unit>
       <trans-unit id="be8159ab7985797bd281cb0f7f58bb4d2c925159" resname="role.policy.limitation.not_implemented">
@@ -93,7 +93,7 @@
       </trans-unit>
       <trans-unit id="d3c70d265ab037db5ade02a8b738b5981353c7ac" resname="role.policy.type">
         <source>Policy type</source>
-        <target state="translated">Tipo de politica</target>
+        <target state="translated">Tipo de política</target>
         <note>key: role.policy.type</note>
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
