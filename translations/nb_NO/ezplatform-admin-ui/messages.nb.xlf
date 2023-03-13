@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="156b8a7f797412e60bdba432064e2dade6d4a7af" resname="error.page.404.title">
         <source>Something went wrong. Sorry!</source>
-        <target state="translated">Beklager, men noe gikk galt!</target>
+        <target state="translated">Noe gikk galt. Beklager!</target>
         <note>key: error.page.404.title</note>
       </trans-unit>
       <trans-unit id="a599d59a63814826906caa9842f0b3c33db24d09" resname="error.page.default.actions">
@@ -142,15 +142,6 @@
         <br /><br />
  Hvis du ikke har bedt om å tilbakestille passordet, vennligst ignorere denne eposten og passordet vil forbli den samme.]]></target>
         <note>key: ezplatform.forgot_user_password.message</note>
-        <alt-trans>
-          <target><![CDATA[Hei,
-        <br /><br />
-        vi har mottatt en forespørsel om å tilbakestille passordet for din konto. Klikk "tilbakestille passord" nedenfor for å velge et nytt passord:
-        <br /><br />
-        <a href="%reset_password%">Tilbakestille passord<a/>
-        <br /><br />
- Hvis du ikke har bedt om å tilbakestille passordet, vennligst ignorere denne eposten, og passordet vil forbli den samme.]]></target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="801ba7693e80ca58fbf2a9da2b735bf3f324fd27" resname="ezplatform.forgot_user_password.reset_your_password">
         <source>Reset your password</source>
