@@ -15,9 +15,6 @@
         <source>Save</source>
         <target state="final">Enregistrer</target>
         <note>key: section.form.save</note>
-        <alt-trans>
-          <target>Sauvegarder</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
