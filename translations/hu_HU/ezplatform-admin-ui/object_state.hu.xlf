@@ -10,20 +10,11 @@
         <source>Content object state '%name%' updated.</source>
         <target state="final">Content object state '%name%' updated.</target>
         <note>key: content_object_state.update.success</note>
-        <alt-trans>
-          <target>%name% tartalom állapot frissítve</target>
-        </alt-trans>
-        <alt-trans>
-          <target>%name% tartalom objektum állapot frissítve</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bd73283563c378ed123d629e000e2f45dc85811f" resname="object_state.breadcrumb.add" approved="yes">
         <source>Creating a new Object State</source>
         <target state="final">Creating a new Object State</target>
         <note>key: object_state.breadcrumb.add</note>
-        <alt-trans>
-          <target>Új tárgyállapot</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9277526e17b01de899c93f0fdbb5ab6515e5399f" resname="object_state.breadcrumb.edit" approved="yes">
         <source>Editing Object State: %name%</source>
@@ -34,11 +25,6 @@
         <source>Object State: %name%</source>
         <target state="final">Object State: %name%</target>
         <note>key: object_state.breadcrumb.view</note>
-      </trans-unit>
-      <trans-unit id="c57bed7c172c50ab41d70434d7846bb97375895f" resname="object_state.bulk_delete.delete" approved="yes">
-        <source>Delete Object State </source>
-        <target state="final">Delete Object State </target>
-        <note>key: object_state.bulk_delete.delete</note>
       </trans-unit>
       <trans-unit id="3f83af98ac201931eaf0055972d467c386ab72ef" resname="object_state.button.set" approved="yes">
         <source>Set</source>
@@ -99,11 +85,6 @@
         <source>Object state name</source>
         <target state="final">Object state name</target>
         <note>key: object_state.name</note>
-      </trans-unit>
-      <trans-unit id="85cbd870cb6255f3d3d481ece6c23e6e2117e91e" resname="object_state.new" approved="yes">
-        <source>Create a new Object State </source>
-        <target state="final">Create a new Object State </target>
-        <note>key: object_state.new</note>
       </trans-unit>
       <trans-unit id="fabfbcda1358cae555b0b005a386cf6b20ade908" resname="object_state.update.identifier" approved="yes">
         <source>Identifier</source>
