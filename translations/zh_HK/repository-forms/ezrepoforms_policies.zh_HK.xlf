@@ -50,12 +50,6 @@
         <source>Parent Depth</source>
         <target state="translated">父項深度</target>
         <note>key: policy.limitation.identifier.parentdepth</note>
-        <alt-trans>
-          <target>父級深度</target>
-        </alt-trans>
-        <alt-trans>
-          <target>父深度</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cb52ff8582459d1bc981e9f98cf1c79876f83a1e" resname="policy.limitation.identifier.parentgroup">
         <source>Content Type Group of Parent</source>
