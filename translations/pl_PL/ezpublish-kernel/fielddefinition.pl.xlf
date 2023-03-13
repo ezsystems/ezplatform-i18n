@@ -67,9 +67,6 @@
         <jms:reference-file line="105">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
         <jms:reference-file line="116">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
         <jms:reference-file line="81">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Puste</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ad6776fd58e0ae4b2ba44ff014986ec6b1ec4de4" resname="fielddefinition.default-value.label" approved="yes">
         <source>Default value:</source>
@@ -95,9 +92,6 @@
         <target state="final">%default% %day% dni</target>
         <note>key: fielddefinition.interval.day</note>
         <jms:reference-file line="89">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>%default% %day% dzień/dni</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4b31f5a6cfde5d347f3ad264daa7db77e704a5e0" resname="fielddefinition.interval.hour" approved="yes">
         <source>%default% %hour% hour(s)</source>
@@ -335,9 +329,6 @@
         <target state="final">W oparciu o szablon, wielokrotnego wyboru</target>
         <note>key: fielddefinition.selection-method.multi_template</note>
         <jms:reference-file line="244">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>W oparciu o szablon, pojedyncze</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1095b3a335cbfeed0e396f081895affe81e7b7fd" resname="fielddefinition.selection-method.multiple_list" approved="yes">
         <source>Multiple selection list</source>
