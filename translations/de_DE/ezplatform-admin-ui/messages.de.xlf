@@ -11,6 +11,31 @@
         <target state="translated">Schließen</target>
         <note>key: alert.close</note>
       </trans-unit>
+      <trans-unit id="8ace6daf300d4e12a28054d996c185db9ce7fe91" resname="authentication.credentials_expire_in.warning">
+        <source>Your password will expire in %days% days. Consider updating it in User Settings/My Account Settings.</source>
+        <target state="translated">Ihr Kennwort läuft in %days% Tagen ab. Bitte aktualisieren Sie es in den Benutzereinstellungen/Meine Kontoeinstellungen.</target>
+        <note>key: authentication.credentials_expire_in.warning</note>
+      </trans-unit>
+      <trans-unit id="e524fb7941a99d5c26d355dbf015226241e807a7" resname="authentication.credentials_expire_today.warning">
+        <source>Your password will expire today. Consider updating it in User Settings/My Account Settings.</source>
+        <target state="translated">Ihr Kennwort läuft heute Tagen ab. Bitte aktualisieren Sie es in den Benutzereinstellungen/Meine Kontoeinstellungen.</target>
+        <note>key: authentication.credentials_expire_today.warning</note>
+      </trans-unit>
+      <trans-unit id="c9a7a0dd7518550634ea6873dcc815d4ec30c1e2" resname="authentication.credentials_expired">
+        <source>Your password has expired</source>
+        <target state="translated">Ihr Kennwort ist abgelaufen.</target>
+        <note>key: authentication.credentials_expired</note>
+      </trans-unit>
+      <trans-unit id="be4c13cda3e93a1e8cb05145c0dc6c3780c40c66" resname="authentication.credentials_expired.message">
+        <source>For security reasons, your password has expired and needs to be changed. An email has been sent to you with instructions.</source>
+        <target state="translated">Aus Sicherheitsgründen ist Ihr Kennwort abgelaufen und muss geändert werden. Eine E-Mail wurde mit Anweisungen an Sie gesendet.</target>
+        <note>key: authentication.credentials_expired.message</note>
+      </trans-unit>
+      <trans-unit id="2b3f00f63c14c6dc9300d54b42159218f6b5f260" resname="authentication.credentials_expired.reset_password">
+        <source>Reset password</source>
+        <target state="translated">Passwort zurücksetzen</target>
+        <note>key: authentication.credentials_expired.reset_password</note>
+      </trans-unit>
       <trans-unit id="d2293b387ecddbc6173fd579abd37873fcbc5e97" resname="authentication.forgot_password">
         <source>Forgot password?</source>
         <target state="translated">Passwort vergessen?</target>
@@ -36,6 +61,11 @@
         <target state="translated">Benutzername</target>
         <note>key: authentication.username</note>
       </trans-unit>
+      <trans-unit id="b1b04388859d233f757e4f6376af3fc317d4baa6" resname="base.footer_copyright">
+        <source>eZ Platform ©1999-%current_year% %ez_link_open%eZ Systems AS%ez_link_close% and others.</source>
+        <target state="translated">eZ Plattform ©1999-%current_year% %ez_link_open%eZ Systeme AS%ez_link_close% und andere.</target>
+        <note>key: base.footer_copyright</note>
+      </trans-unit>
       <trans-unit id="d21d07085caa55b0fee2fc054a6878bbdb24ae78" resname="breadcrumb.admin">
         <source>Admin</source>
         <target state="translated">Admin</target>
@@ -46,10 +76,65 @@
         <target state="translated">Benutzereinstellungen</target>
         <note>key: breadcrumb.user_preferences</note>
       </trans-unit>
+      <trans-unit id="d23f0200b4769a69d2414de6d96117fed4601326" resname="character_counter.characters">
+        <source>characters</source>
+        <target state="translated">Zeichen</target>
+        <note>key: character_counter.characters</note>
+      </trans-unit>
+      <trans-unit id="b3640cba0a21cf24519f469dc0bf31c036efdc28" resname="character_counter.words">
+        <source>words</source>
+        <target state="translated">Wörter</target>
+        <note>key: character_counter.words</note>
+      </trans-unit>
+      <trans-unit id="22d5072ec8766c24df085f05aaeda403f02ec585" resname="content.hide.modal.cancel">
+        <source>Cancel</source>
+        <target state="translated">Abbrechen</target>
+        <note>key: content.hide.modal.cancel</note>
+      </trans-unit>
+      <trans-unit id="0d905b86763ff15a40c8c15f0960d6038bdfd008" resname="content.hide.modal.confirm">
+        <source>Confirm</source>
+        <target state="translated">Bestätigen</target>
+        <note>key: content.hide.modal.confirm</note>
+      </trans-unit>
+      <trans-unit id="5c48055acad8df653edc1f8f65130d784fed3d88" resname="content.hide.modal.please_confirm_to_continue">
+        <source>If you wish to continue, please click on Confirm.</source>
+        <target state="translated">Wenn Sie fortfahren möchten, klicken Sie bitte auf Bestätigen.</target>
+        <note>key: content.hide.modal.please_confirm_to_continue</note>
+      </trans-unit>
+      <trans-unit id="7932e7fd6d6b90a8264cf5805586cab3294290ed" resname="content.hide.modal.title">
+        <source>Conflict when hiding content item</source>
+        <target state="translated">Konflikt beim Verstecken von Inhaltselementen</target>
+        <note>key: content.hide.modal.title</note>
+      </trans-unit>
+      <trans-unit id="0f260745fb36618170e86bd6407bb2facd3a05a1" resname="content.hide.modal.warning_content_used_by_other_content">
+        <source>This item is being used by other content item(s). To avoid errors, please update or remove all related objects listed in the Relations tab.</source>
+        <target state="translated">Dieses Element wird von anderen Inhaltselemente(n) verwendet. Um Fehler zu vermeiden, aktualisieren oder entfernen Sie bitte alle verknüpften Objekte, die im Reiter Beziehungen aufgelistet sind.</target>
+        <note>key: content.hide.modal.warning_content_used_by_other_content</note>
+      </trans-unit>
       <trans-unit id="fb19ae886e63bac3aa3b851ac00aae8a3b777992" resname="content.in_trash">
         <source>In Trash</source>
         <target state="translated">In Papierkorb</target>
         <note>key: content.in_trash</note>
+      </trans-unit>
+      <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
+        <source>%identifier%</source>
+        <target state="translated">%identifier%</target>
+        <note>key: content_type.breadcrumb.view</note>
+      </trans-unit>
+      <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
+        <source>%name%</source>
+        <target state="translated">%name%</target>
+        <note>key: content_type.view.view.title</note>
+      </trans-unit>
+      <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
+        <source>Content Types</source>
+        <target state="translated">Inhaltstypen</target>
+        <note>key: content_type_group.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
+        <source>%identifier%</source>
+        <target state="translated">%identifier%</target>
+        <note>key: content_type_group.breadcrumb.view</note>
       </trans-unit>
       <trans-unit id="fe1c876b1a9bcde155f03227bce4ae4fbd54c24f" resname="custom_url_alias_add_form.add">
         <source>Create</source>
@@ -219,6 +304,11 @@
         <target state="translated">Tauschen des Inhalts mit einem anderen Ort</target>
         <note>key: tab.locations.swap_with_another</note>
       </trans-unit>
+      <trans-unit id="1246bcf8752e249bdec2067d43cfae2a5103bc5f" resname="tab.view.preview">
+        <source>Preview</source>
+        <target state="translated">Vorschau</target>
+        <note>key: tab.view.preview</note>
+      </trans-unit>
       <trans-unit id="4e7901a215220faba4d546cd3fb63f3e2a64e849" resname="trash.delete.all.confirm">
         <source>Are you sure you want to permanently delete %trashItemsCount% item(s)?</source>
         <target state="translated">Sind Sie sicher, dass Sie %trashItemsCount% Element(e) dauerhaft löschen möchten?</target>
@@ -243,6 +333,31 @@
         <source>Are you sure you want to send this content item to trash?</source>
         <target state="translated">Sind Sie sicher, dass Sie dieses Inhaltselement in den Papierkorb verschieben möchten?</target>
         <note>key: trash.modal.message</note>
+      </trans-unit>
+      <trans-unit id="bd97a738137e75de44544db1104bab3a46222791" resname="trash_asset.modal.message_body">
+        <source>If you wish to delete this(/these) asset(s) too, first make sure they are not used by other content. You can check these content going to the asset(s) and looking at their content relations in the Relation tab.</source>
+        <target state="translated">Wenn Sie auch diese(n) Asset(s) löschen möchten, stellen Sie zuerst sicher, dass sie nicht von anderen Inhalten verwendet werden. Sie können diese Inhalte überprüfen, die zu den Asset(s) gehen und ihre Inhaltsbeziehungen in der Registerkarte Beziehung betrachten.</target>
+        <note>key: trash_asset.modal.message_body</note>
+      </trans-unit>
+      <trans-unit id="17c7abad79d72d771a25b064e0de38b72fc6c926" resname="trash_asset.modal.message_header">
+        <source>You are about to delete a content that has one or several asset(s) field(s) used by other content items. These assets will remain available in system.</source>
+        <target state="translated">Sie sind dabei, einen Inhalt zu löschen, der ein oder mehrere Asset(s) hat, die von anderen Inhaltselementen verwendet werden. Diese(s) Asset(s) werden weiterhin im System verfügbar bleiben.</target>
+        <note>key: trash_asset.modal.message_header</note>
+      </trans-unit>
+      <trans-unit id="e81a14f38ebe272cb11ef90e2948a8c6602307ca" resname="trash_asset_single.modal.message">
+        <source>You have the option to delete %content_name% (%content_type%) only or to also delete the assets it is using. Make your choice:</source>
+        <target state="translated">Sie haben die Möglichkeit, nur %content_name% (%content_type%) oder die zu verwendenden Assets zu löschen. Wählen Sie:</target>
+        <note>key: trash_asset_single.modal.message</note>
+      </trans-unit>
+      <trans-unit id="ff537a1e092270edf7497dc13ce051cdb458958b" resname="trash_asset_single.modal.message_main">
+        <source>You are about to delete a content with one or several asset(s) field(s).</source>
+        <target state="translated">Sie sind dabei, einen Inhalt mit einem oder mehreren Asset(s) Felder(n) zu löschen.</target>
+        <note>key: trash_asset_single.modal.message_main</note>
+      </trans-unit>
+      <trans-unit id="1e6a1d97cca01a288e47d2d14479274b90e6c6c1" resname="trash_container.modal.message_main">
+        <source>Deleting %content_name% will also delete its sub-items, under its location(s). To confirm, please check below</source>
+        <target state="translated">Das Löschen von %content_name% löscht auch seine Unterelemente, unter seinem Standort(n). Bitte bestätigen Sie und prüfen sie hier</target>
+        <note>key: trash_container.modal.message_main</note>
       </trans-unit>
     </body>
   </file>
