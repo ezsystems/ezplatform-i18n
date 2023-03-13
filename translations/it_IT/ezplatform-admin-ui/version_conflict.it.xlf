@@ -11,6 +11,11 @@
         <target state="translated">Annulla</target>
         <note>key: version.conflict.form.cancel</note>
       </trans-unit>
+      <trans-unit id="c70ab0acdd2b67e3043949422191e75e6e09440e" resname="version.conflict.form.continue">
+        <source>Continue</source>
+        <target state="translated">Continua</target>
+        <note>key: version.conflict.form.continue</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
