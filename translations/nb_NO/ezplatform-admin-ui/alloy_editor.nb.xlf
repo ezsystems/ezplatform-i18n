@@ -10,9 +10,6 @@
         <source>Center</source>
         <target state="translated">Midtstill</target>
         <note>key: block_text_align_center_btn.label</note>
-        <alt-trans>
-          <target>Sentrer</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e9151d069b51a054185d5a9183626cb6995e3607" resname="blocktext_align_justify_btn.label">
         <source>Justify</source>
@@ -173,9 +170,6 @@
         <source>Remove block</source>
         <target state="translated">Fjern blokken</target>
         <note>key: remove_block_btn.title</note>
-        <alt-trans>
-          <target>Fjern denne blokken</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e51c80180acbd8d90c95344dbdfb0f6a3ada456e" resname="table_btn.label">
         <source>Table</source>
