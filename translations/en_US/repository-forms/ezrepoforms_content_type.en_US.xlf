@@ -15,9 +15,6 @@
         <source>Create a content type</source>
         <target state="final">Create a ContentType</target>
         <note>key: content_type.create</note>
-        <alt-trans>
-          <target>Create a Content Type</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7b64ebcf792d888de957eaee1c3734c97c80db98" resname="content_type.default_always_available" approved="yes">
         <source>Default content availability</source>
@@ -48,17 +45,11 @@
         <source>Content field definitions</source>
         <target state="final">ContentField Definitions</target>
         <note>key: content_type.field_definitions_data</note>
-        <alt-trans>
-          <target>Content Field Definitions</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a43bfd2651eb1f3357e3398286afd5b6e17c101e" resname="content_type.field_type_selection" approved="yes">
         <source>Field type selection</source>
         <target state="final">FieldType Selection</target>
         <note>key: content_type.field_type_selection</note>
-        <alt-trans>
-          <target>Field Type Selection</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="368a6ffa173a2e9605371392e99e565d9b247382" resname="content_type.group.delete" approved="yes">
         <source>Delete</source>
@@ -99,9 +90,6 @@
         <source>OK</source>
         <target state="final">Ok</target>
         <note>key: content_type.publish</note>
-        <alt-trans>
-          <target>OK</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="701cbaa7ea48016d7b0eb5940e810cacd16c19b3" resname="content_type.remove_draft" approved="yes">
         <source>Cancel</source>
@@ -112,9 +100,6 @@
         <source>Remove selected field definitions</source>
         <target state="translated">Remove Selected Field Definitions</target>
         <note>key: content_type.remove_field_definitions</note>
-        <alt-trans>
-          <target>Remove selected Field Definitions</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="946ba9e49beabdacd143e10e343f852736c081d8" resname="content_type.save" approved="yes">
         <source>Apply</source>
@@ -186,6 +171,16 @@
         <target state="final">Description</target>
         <note>key: field_definition.description</note>
       </trans-unit>
+      <trans-unit id="60b0ee9222a502c38adf1be704d4984564190e8e" resname="field_definition.ezauthor.default_author">
+        <source>Default value</source>
+        <target state="translated">Default Value</target>
+        <note>key: field_definition.ezauthor.default_author</note>
+      </trans-unit>
+      <trans-unit id="837d1179e58011e51733e1420a6f868f94fb9b16" resname="field_definition.ezauthor.default_user_empty" approved="yes">
+        <source>Empty</source>
+        <target state="final">Empty</target>
+        <note>key: field_definition.ezauthor.default_user_empty</note>
+      </trans-unit>
       <trans-unit id="41f781284e4bae2abbb6cfdf1126cc90b48dd35b" resname="field_definition.ezbinaryfile.max_file_size" approved="yes">
         <source>Maximum file size (MB)</source>
         <target state="final">Maximum File Size (MB)</target>
@@ -200,9 +195,6 @@
         <source>Select which countries by default</source>
         <target state="final">Select Default Countries</target>
         <note>key: field_definition.ezcountry.default_value</note>
-        <alt-trans>
-          <target>Select which Countries by Default</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="027f35cf66e5ea571cc7b600dad0ab5ceea20cd6" resname="field_definition.ezcountry.is_multiple" approved="yes">
         <source>Multiple choice</source>
@@ -228,9 +220,6 @@
         <source>Current date and time adjusted by</source>
         <target state="final">Current Date and Time adjusted by</target>
         <note>key: field_definition.ezdatetime.date_interval</note>
-        <alt-trans>
-          <target>Current Date and Time Adjusted by</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7b4f4729ec64de6f20356ad40f768c98c27590fb" resname="field_definition.ezdatetime.default_type" approved="yes">
         <source>Default value</source>
@@ -241,17 +230,11 @@
         <source>Adjusted current datetime</source>
         <target state="final">Adjusted Current DateTime</target>
         <note>key: field_definition.ezdatetime.default_type_adjusted</note>
-        <alt-trans>
-          <target>Adjusted Current Datetime</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="24ac7fa5478172475d86a2d16829ece8a5e5f59f" resname="field_definition.ezdatetime.default_type_current" approved="yes">
         <source>Current datetime</source>
         <target state="final">Current DateTime</target>
         <note>key: field_definition.ezdatetime.default_type_current</note>
-        <alt-trans>
-          <target>Current Datetime</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0119e6a5f0c829a61263c3a8a37dda53b9da8dce" resname="field_definition.ezdatetime.default_type_empty" approved="yes">
         <source>Empty</source>
@@ -277,6 +260,11 @@
         <source>Minimum value</source>
         <target state="final">Minimum Value</target>
         <note>key: field_definition.ezfloat.min_value</note>
+      </trans-unit>
+      <trans-unit id="5b275c762831def3c6ea393e3e0c25762e0844b3" resname="field_definition.ezimage.max_file_size" approved="yes">
+        <source>Maximum file size (MB)</source>
+        <target state="final">Maximum File Size (MB)</target>
+        <note>key: field_definition.ezimage.max_file_size</note>
       </trans-unit>
       <trans-unit id="8a95f664895f9c72e5ca52ea43908ad3d54c8966" resname="field_definition.ezinteger.default_value">
         <source>Default value</source>
@@ -347,6 +335,11 @@
         <source>Windows Media Player</source>
         <target state="translated">Window Media Player</target>
         <note>key: field_definition.ezmedia.type_windows_media_player</note>
+      </trans-unit>
+      <trans-unit id="fabc9be57b82439dac2f612b9c2a171eb7ce6e04" resname="field_definition.ezobjectrelation.selection_content_types">
+        <source>Allowed content types</source>
+        <target state="translated">Allowed Content Types</target>
+        <note>key: field_definition.ezobjectrelation.selection_content_types</note>
       </trans-unit>
       <trans-unit id="440d8fe80bb8a07b62f17d843721285b2cf8a4d5" resname="field_definition.ezobjectrelation.selection_root">
         <source>Default selection item</source>
