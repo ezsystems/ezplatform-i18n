@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="a4b9e9b4898dd285237fc60130970ce7ed988871" resname="content.create.choose_content_type">
         <source>Choose content type</source>
-        <target state="translated">Elegir un tipo de contenido</target>
+        <target state="translated">Elige un tipo de contenido</target>
         <note>key: content.create.choose_content_type</note>
       </trans-unit>
       <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type">
@@ -43,7 +43,7 @@
       </trans-unit>
       <trans-unit id="8187f29c44b9b28df27456f5667aa9d0c26bb1cb" resname="infobar.mode.viewing">
         <source>Viewing</source>
-        <target state="translated">Viendo</target>
+        <target state="translated">Visualizando</target>
         <note>key: infobar.mode.viewing</note>
       </trans-unit>
       <trans-unit id="0037583914dd6b96fb00416feb97ab193dbb36cc" resname="versions.archived">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="fdacd4e9889756946f3c71ec738cd4235e19d2d1" resname="versions.cant.fetch.contributor">
         <source>Can’t fetch contributor</source>
-        <target state="translated">No se puede obtener los datos del contribuidor</target>
+        <target state="translated">No se pueden obtener los datos del colaborador</target>
         <note>key: versions.cant.fetch.contributor</note>
       </trans-unit>
       <trans-unit id="db9d866f6bcc68c3fe4832b03061be4485efaad9" resname="versions.create">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="c5da841c5cfb95ad344560906b3704a2761fc9e8" resname="versions.owner">
         <source>Owner</source>
-        <target state="translated">Proprietario</target>
+        <target state="translated">Propietario</target>
         <note>key: versions.owner</note>
       </trans-unit>
       <trans-unit id="522ee1a38689c552703013e97d25490e259e8e5c" resname="versions.published">
@@ -98,7 +98,7 @@
       </trans-unit>
       <trans-unit id="42d18b1c2cf26b097b795edf09a81ad466f06c19" resname="versions.viewing">
         <source>VIEWING</source>
-        <target state="translated">VIENDO</target>
+        <target state="translated">VISUALIZANDO</target>
         <note>key: versions.viewing</note>
       </trans-unit>
     </body>
