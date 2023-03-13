@@ -45,9 +45,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: object_state.create.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a09f3880fa454b1445b72488509cd05e68acd2e6" resname="object_state.create.submit">
         <source>Create</source>
@@ -108,9 +105,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: object_state.update.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="17a0ecad5fb1c32a36bbc7ffc406f9797cd73896" resname="object_state.update.submit">
         <source>Save</source>
@@ -161,17 +155,11 @@
         <source>Creating a new Object State Group</source>
         <target state="translated">Erstellung einer neuen Objekt Zustand Gruppe</target>
         <note>key: object_state_group.breadcrumb.add</note>
-        <alt-trans>
-          <target>Erstellung einer neuen Objekt Zustands Gruppe</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e0710939fade4e106062c2ea356338ab305e3f35" resname="object_state_group.breadcrumb.edit">
         <source>Editing Object State Group: %name%</source>
         <target state="translated">Bearbeitung Objekt Zustand Gruppe: %name%</target>
         <note>key: object_state_group.breadcrumb.edit</note>
-        <alt-trans>
-          <target>Bearbeitung Objekt Zustands Gruppe: %name%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="089afe4fc7c6c1b22bcc1b7cb702282d983133f6" resname="object_state_group.breadcrumb.list">
         <source>Object States</source>
@@ -182,17 +170,11 @@
         <source>Object State Group: %name%</source>
         <target state="translated">Objekt Zustand Gruppe: %name%</target>
         <note>key: object_state_group.breadcrumb.view</note>
-        <alt-trans>
-          <target>Objekt Zustände Gruppe: %name%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8e72c01409fbfb837c2a6ddb1a9455baada03057" resname="object_state_group.bulk_delete.delete">
         <source>Delete Object State Group</source>
         <target state="translated">Objekt Zustand Gruppe löschen</target>
         <note>key: object_state_group.bulk_delete.delete</note>
-        <alt-trans>
-          <target>Objekt Zustände Gruppe löschen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f87d9f18a93e3ce9f164386ee0255d53d4c5227e" resname="object_state_group.create.identifier">
         <source>Identifier</source>
@@ -203,14 +185,16 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: object_state_group.create.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fbca6e1bbb6f1b3ba0ed71a55eba49d24820bfe0" resname="object_state_group.create.submit">
         <source>Create</source>
         <target state="translated">Erstellen</target>
         <note>key: object_state_group.create.submit</note>
+      </trans-unit>
+      <trans-unit id="0b3303ec319a0c482f87d38b1a422288d9f1712b" resname="object_state_group.create.success">
+        <source>Object state group '%name%' created.</source>
+        <target state="translated">Objektstatusgruppe '%name%' erstellt.</target>
+        <note>key: object_state_group.create.success</note>
       </trans-unit>
       <trans-unit id="0f857d4dff9c8232ede300a39010d289d31c2937" resname="object_state_group.delete.bulk_delete.submit">
         <source>Delete Object State Group</source>
@@ -221,6 +205,11 @@
         <source>Delete</source>
         <target state="translated">Löschen</target>
         <note>key: object_state_group.delete.submit</note>
+      </trans-unit>
+      <trans-unit id="f33647d41b6e4ddd150317c9ef8cf2b3bd8d8b4b" resname="object_state_group.delete.success">
+        <source>Object state group '%name%' deleted.</source>
+        <target state="translated">Objektstatusgruppe '%name%' gelöscht.</target>
+        <note>key: object_state_group.delete.success</note>
       </trans-unit>
       <trans-unit id="940f19a907923467a0fc0084f21dc689a18ab804" resname="object_state_group.id">
         <source>ID</source>
