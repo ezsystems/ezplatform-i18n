@@ -60,9 +60,6 @@
         <source>You are on the fallback language</source>
         <target state="translated">你在後備語言上</target>
         <note>key: infobar.translation.using_fallback_language</note>
-        <alt-trans>
-          <target>你沒有後備語言</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>
