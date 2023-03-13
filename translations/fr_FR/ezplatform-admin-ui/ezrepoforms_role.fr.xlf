@@ -8,11 +8,8 @@
     <body>
       <trans-unit id="34ba9078fe178bd49df6ada9d8357455ee8ff7b3" resname="policy_create.save">
         <source>Update</source>
-        <target state="translated">Mise à jour</target>
+        <target state="translated">Mettre à jour</target>
         <note>key: policy_create.save</note>
-        <alt-trans>
-          <target>Mettre à jour</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c418f83922f6a4ea7412120a3b731a3e8665eead" resname="policy_create.update">
         <source>Update</source>
@@ -31,11 +28,8 @@
       </trans-unit>
       <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title">
         <source>Select locations to use as policy limitation</source>
-        <target state="translated">Sélectionnez les emplacements à utiliser pour la règle de limitation</target>
+        <target state="translated">Sélectionnez les emplacements à utiliser comme règle de limitation</target>
         <note>key: role.policy.limitation.location.udw_title</note>
-        <alt-trans>
-          <target>Sélectionnez les emplacements à utiliser pour la règle de restriction</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="be8159ab7985797bd281cb0f7f58bb4d2c925159" resname="role.policy.limitation.not_implemented">
         <source>Editing limitations for '%limitationTypeIdentifier%' is not implemented yet.</source>
@@ -49,7 +43,7 @@
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
         <source>Choose a type</source>
-        <target state="translated">Choisissez une politique</target>
+        <target state="translated">Choisissez un type</target>
         <note>key: role.policy.type.choose</note>
       </trans-unit>
     </body>
