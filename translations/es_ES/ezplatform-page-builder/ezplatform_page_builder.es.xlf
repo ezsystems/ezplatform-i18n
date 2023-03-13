@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="1ac530659b5b57d48cf6d95bc51ead90f1a2ac6d" resname="javascript.enable">
         <source>javascript.enable</source>
-        <target state="translated">Javascript habilitado</target>
+        <target state="translated">javascript.enable</target>
         <note>key: javascript.enable</note>
       </trans-unit>
     </body>
