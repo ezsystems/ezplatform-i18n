@@ -20,9 +20,6 @@
         <source>Add a Reviewer</source>
         <target state="translated">Dodaj pregledavatelja</target>
         <note>key: content.review.add_reviewer</note>
-        <alt-trans>
-          <target>Dodaj recenzenta</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="eca0d518c25ac61553a436334389d163e15790cb" resname="content.review.from">
         <source>From:</source>
