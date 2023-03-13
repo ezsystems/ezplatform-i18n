@@ -75,9 +75,6 @@
         <source>Last Saved</source>
         <target state="translated">Изменено</target>
         <note>key: dashboard.table.last_saved</note>
-        <alt-trans>
-          <target>Последний раз сохранено</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ec988391649c3e25028a629b4e38dc426f4c4615" resname="dashboard.table.media.edit">
         <source>Edit Media</source>
@@ -88,9 +85,6 @@
         <source>Modified Language</source>
         <target state="translated">Язык</target>
         <note>key: dashboard.table.modified_language</note>
-        <alt-trans>
-          <target>Измененный язык</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8ba6a26d5deb87771ede293eccde417dfafb8c67" resname="dashboard.table.name">
         <source>Name</source>
