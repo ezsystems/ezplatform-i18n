@@ -420,9 +420,6 @@
         <source>Maximum length</source>
         <target state="translated">Maksimumslengde</target>
         <note>key: field_definition.ezstring.max_length</note>
-        <alt-trans>
-          <target>Maksimal lengde</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b3ccbbb1d949cd2ce5971857c15d8c972ee82691" resname="field_definition.ezstring.min_length">
         <source>Minimum length</source>
