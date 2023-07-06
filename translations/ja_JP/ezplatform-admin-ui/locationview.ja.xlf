@@ -32,7 +32,7 @@
         <note>key: tab.details.translations</note>
       </trans-unit>
       <trans-unit id="8eb3feb6461dacdbd425ef30fc4848a94ab3db0d" resname="tab.locations.action.add">
-        <source>Add new</source>
+        <source>Add Location</source>
         <target state="translated">ロケーションの追加</target>
         <note>key: tab.locations.action.add</note>
       </trans-unit>
