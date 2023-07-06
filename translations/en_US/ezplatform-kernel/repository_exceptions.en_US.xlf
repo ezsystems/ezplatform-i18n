@@ -10,105 +10,105 @@
         <source>'%actualValue%' is wrong value</source>
         <target state="final">'%actualValue%' is an incorrect value</target>
         <note>key: '%actualValue%' is wrong value</note>
-        <jms:reference-file line="32">src/lib/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
+        <jms:reference-file line="32">eZ/Publish/Core/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="7a87971cc45ac957c7db1a4907f8e7f4325e3e32" resname="'%actualValue%' is wrong value in class '%className%'" approved="yes">
         <source>'%actualValue%' is wrong value in class '%className%'</source>
         <target state="final">'%actualValue%' is an incorrect value in class '%className%'</target>
         <note>key: '%actualValue%' is wrong value in class '%className%'</note>
-        <jms:reference-file line="34">src/lib/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
+        <jms:reference-file line="34">eZ/Publish/Core/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="894070fe84612fd5871c1b09bc79f85c2e17d384" resname="A value is set for non translatable field definition '%identifier%' with language '%languageCode%'" approved="yes">
         <source>A value is set for non translatable field definition '%identifier%' with language '%languageCode%'</source>
         <target state="final">A value is set for a non-translatable Field Definition identifier '%identifier%' with language code '%languageCode%'</target>
         <note>key: A value is set for non translatable field definition '%identifier%' with language '%languageCode%'</note>
-        <jms:reference-file line="1410">src/lib/Repository/ContentService.php</jms:reference-file>
-        <jms:reference-file line="770">src/lib/Repository/ContentService.php</jms:reference-file>
+        <jms:reference-file line="1410">eZ/Publish/Core/Repository/ContentService.php</jms:reference-file>
+        <jms:reference-file line="770">eZ/Publish/Core/Repository/ContentService.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="ebf71981c65ff4930b2b3f704b9e5383e92e06a6" resname="Content type cannot be unlinked from the only remaining group">
         <source>Content type cannot be unlinked from the only remaining group</source>
         <target state="translated">Content Type cannot be unlinked from the only remaining group</target>
         <note>key: Content type cannot be unlinked from the only remaining group</note>
-        <jms:reference-file line="857">src/lib/REST/Server/Controller/ContentType.php</jms:reference-file>
+        <jms:reference-file line="857">eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="632a0a349b256b80469d59a604d24a52eea93c56" resname="Content type is already linked to provided group">
         <source>Content type is already linked to provided group</source>
         <target state="translated">Content Type is already linked to provided group</target>
         <note>key: Content type is already linked to provided group</note>
-        <jms:reference-file line="811">src/lib/REST/Server/Controller/ContentType.php</jms:reference-file>
+        <jms:reference-file line="811">eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="2b84fad03f5a98d0fa25c78b1d3717ba108835e6" resname="Could not find class '%className%'">
         <source>Could not find class '%className%'</source>
         <target state="translated">Could not find Class '%className%'</target>
         <note>key: Could not find class '%className%'</note>
-        <jms:reference-file line="39">src/lib/Base/Exceptions/MissingClass.php</jms:reference-file>
+        <jms:reference-file line="39">eZ/Publish/Core/Base/Exceptions/MissingClass.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="2f4e9f3ca70239ade7c9789a3da3c26b1216fb16" resname="Current version is already in status DRAFT" approved="yes">
         <source>Current version is already in status DRAFT</source>
         <target state="final">Current version is already in DRAFT status</target>
         <note>key: Current version is already in status DRAFT</note>
-        <jms:reference-file line="410">src/lib/REST/Server/Controller/Content.php</jms:reference-file>
+        <jms:reference-file line="410">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="577ff380f946adc384c1ca853ac1e7c21a0cba41" resname="Empty content type draft cannot be published">
         <source>Empty content type draft cannot be published</source>
         <target state="translated">Empty Content Type draft cannot be published</target>
         <note>key: Empty content type draft cannot be published</note>
-        <jms:reference-file line="708">src/lib/REST/Server/Controller/ContentType.php</jms:reference-file>
+        <jms:reference-file line="708">eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="64614c5387b9921b33bfe34d6a6d88283a97d119" resname="Field definition '%identifier%' does not exist in given ContentType">
         <source>Field definition '%identifier%' does not exist in given ContentType</source>
         <target state="translated">Field Definition '%identifier%' does not exist in given ContentType</target>
         <note>key: Field definition '%identifier%' does not exist in given ContentType</note>
-        <jms:reference-file line="1394">src/lib/Repository/ContentService.php</jms:reference-file>
-        <jms:reference-file line="756">src/lib/Repository/ContentService.php</jms:reference-file>
+        <jms:reference-file line="1394">eZ/Publish/Core/Repository/ContentService.php</jms:reference-file>
+        <jms:reference-file line="756">eZ/Publish/Core/Repository/ContentService.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="097b8a2bc1db5e54deb4aa00b0e0483fe1af27a4" resname="FieldType '%fieldType%' not found, needs to be implemented or configured to use FieldType\Null\Type">
         <source>FieldType '%fieldType%' not found, needs to be implemented or configured to use FieldType\Null\Type</source>
         <target state="translated">FieldType '%fieldType%' not found, needs to be implemented or configured to use FieldType\Null\Type (%ezpublish.fieldType.eznull.class%)</target>
         <note>key: FieldType '%fieldType%' not found, needs to be implemented or configured to use FieldType\Null\Type</note>
-        <jms:reference-file line="32">src/lib/Base/Exceptions/NotFound/FieldTypeNotFoundException.php</jms:reference-file>
+        <jms:reference-file line="32">eZ/Publish/Core/Base/Exceptions/NotFound/FieldTypeNotFoundException.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="b592a161a19d303272498874fb27a71626461be7" resname="Limitation '%limitation%' not found, needs to be implemented or configured to use Limitation\BlockingLimitationType">
         <source>Limitation '%limitation%' not found, needs to be implemented or configured to use Limitation\BlockingLimitationType</source>
         <target state="translated">Limitation '%limitation%' not found, needs to be implemented or configured to use Limitation\BlockingLimitationType (%ezpublish.api.role.limitation_type.blocking.class%</target>
         <note>key: Limitation '%limitation%' not found, needs to be implemented or configured to use Limitation\BlockingLimitationType</note>
-        <jms:reference-file line="32">src/lib/Base/Exceptions/NotFound/LimitationNotFoundException.php</jms:reference-file>
+        <jms:reference-file line="32">eZ/Publish/Core/Base/Exceptions/NotFound/LimitationNotFoundException.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="f915c78ee350c1b4fb3d3adac7584a12fcc0cfdf" resname="Only empty content type groups can be deleted">
         <source>Only empty content type groups can be deleted</source>
         <target state="translated">Only empty Content Type Groups can be deleted</target>
         <note>key: Only empty content type groups can be deleted</note>
-        <jms:reference-file line="141">src/lib/REST/Server/Controller/ContentType.php</jms:reference-file>
+        <jms:reference-file line="141">eZ/Publish/Core/REST/Server/Controller/ContentType.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="87b49727a4d83168066183cbed772c1bbdfb63f8" resname="Only version in status DRAFT can be published" approved="yes">
         <source>Only version in status DRAFT can be published</source>
         <target state="final">Only versions in DRAFT status can be published</target>
         <note>key: Only version in status DRAFT can be published</note>
-        <jms:reference-file line="513">src/lib/REST/Server/Controller/Content.php</jms:reference-file>
+        <jms:reference-file line="513">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="d750946e6e0689d003a701bf1db100b12a742c4f" resname="Provided content type does not contain ezuser field type">
         <source>Provided content type does not contain ezuser field type</source>
         <target state="translated">Provided Content Type does not contain ezuser Field Type</target>
         <note>key: Provided content type does not contain ezuser field type</note>
-        <jms:reference-file line="422">src/lib/Repository/UserService.php</jms:reference-file>
+        <jms:reference-file line="422">eZ/Publish/Core/Repository/UserService.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="c13178e601c4bf79ad9ef57efe468ed438a9b167" resname="Relation is not of type COMMON">
         <source>Relation is not of type COMMON</source>
         <target state="translated">Relation is not of Type COMMON</target>
         <note>key: Relation is not of type COMMON</note>
-        <jms:reference-file line="645">src/lib/REST/Server/Controller/Content.php</jms:reference-file>
+        <jms:reference-file line="645">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="8da63ffae0f9707c46ca02d66e9074e7f9f538d6" resname="Relation of type COMMON can only be added to drafts">
         <source>Relation of type COMMON can only be added to drafts</source>
         <target state="translated">Relation of Type COMMON can only be added to drafts</target>
         <note>key: Relation of type COMMON can only be added to drafts</note>
-        <jms:reference-file line="684">src/lib/REST/Server/Controller/Content.php</jms:reference-file>
+        <jms:reference-file line="684">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="30ea10f44d07a5752ed9c57a8458b3579b8dd421" resname="Relation of type COMMON to selected destination content ID already exists">
         <source>Relation of type COMMON to selected destination content ID already exists</source>
         <target state="translated">Relation of Type COMMON to selected destination content ID already exists</target>
         <note>key: Relation of type COMMON to selected destination content ID already exists</note>
-        <jms:reference-file line="696">src/lib/REST/Server/Controller/Content.php</jms:reference-file>
+        <jms:reference-file line="696">eZ/Publish/Core/REST/Server/Controller/Content.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="f80f674916004d986500fe18b36ff55286191490" resname="expected value to be of type '%expectedType%'">
         <source>expected value to be of type '%expectedType%'</source>
