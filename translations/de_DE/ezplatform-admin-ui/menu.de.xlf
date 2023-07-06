@@ -366,11 +366,6 @@
         <target state="translated">Speichern</target>
         <note>key: url_edit__sidebar_right__save</note>
       </trans-unit>
-      <trans-unit id="8acab9e005da20efe4001fac5f84ff2c835bb7c8" resname="user__bookmark">
-        <source>Bookmarks</source>
-        <target state="translated">Lesezeichen</target>
-        <note>key: user__bookmark</note>
-      </trans-unit>
       <trans-unit id="da5c7f4f526c2dd5b1e1f51ab5238ef4ba86d421" resname="user__change_password">
         <source>Change password</source>
         <target state="translated">Passwort ändern</target>
