@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="8343cec7024fb459d738278aca82b39710b89c50" resname="content.create_draft.success">
-        <source>New Version Draft for '%name%' created.</source>
-        <target xml:lang="ach">crwdns215724:0%name%crwdne215724:0</target>
+        <source>Created new draft version of '%name%'.</source>
+        <target>crwdns223062:0%name%crwdne223062:0</target>
         <note>key: content.create_draft.success</note>
       </trans-unit>
     </body>
