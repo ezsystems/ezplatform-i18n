@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file date="2021-05-24T10:05:23Z" source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="1c5d787a5d5f4b2e3d9e14dcfe0cc9c78ee5939a" resname="breadcrumb.personalization">
+        <source>Personalization</source>
+        <target>crwdns228612:0crwdne228612:0</target>
+        <note>key: breadcrumb.personalization</note>
+        <jms:reference-file line="8">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/settings/edit.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="6dcacc6573defc140174ccec898eea76633f9857" resname="breadcrumb.settings">
+        <source>Settings</source>
+        <target>crwdns249451:0crwdne249451:0</target>
+        <note>key: breadcrumb.settings</note>
+        <jms:reference-file line="9">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/settings/edit.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7cf4c5c82eb9aa188d9b8514ef884df8eb46e807" resname="dashboard.charts.collected_events">
+        <source>Collected events</source>
+        <target>crwdns228616:0crwdne228616:0</target>
+        <note>key: dashboard.charts.collected_events</note>
+        <jms:reference-file line="3">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/collected_events.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b079a64eb2a0051a7dc0822897b34f12abea00e4" resname="dashboard.charts.conversion_rate">
+        <source>Conversion rate</source>
+        <target>crwdns228618:0crwdne228618:0</target>
+        <note>key: dashboard.charts.conversion_rate</note>
+        <jms:reference-file line="3">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/conversion_rate.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="5f43a79f6a532c2ecf1a83d43ca2aa30d1d845ea" resname="dashboard.charts.date_time_range">
+        <source>%start_date% to %end_date%</source>
+        <target>crwdns229226:0%start_date%crwdnd229226:0%end_date%crwdne229226:0</target>
+        <note>key: dashboard.charts.date_time_range</note>
+        <jms:reference-file line="8">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="300d97f801a0a15e19477e68958304d82f5c7d6a" resname="dashboard.charts.items_purchased">
+        <source>Items purchased</source>
+        <target>crwdns249453:0crwdne249453:0</target>
+        <note>key: dashboard.charts.items_purchased</note>
+        <jms:reference-file line="11">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/revenue.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3b2d2efac582e8c8d6eccb40d4499ecf9ee21f95" resname="dashboard.charts.no_data">
+        <source><![CDATA[No data collected<br/> for the selected period]]></source>
+        <target><![CDATA[crwdns249455:0crwdne249455:0]]></target>
+        <note>key: dashboard.charts.no_data</note>
+        <jms:reference-file line="30">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="4005401b30938d46f88ea83a27a3c7cd37382bad" resname="dashboard.charts.recommendation_calls">
+        <source>Recommendation calls</source>
+        <target>crwdns229228:0crwdne229228:0</target>
+        <note>key: dashboard.charts.recommendation_calls</note>
+        <jms:reference-file line="3">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/recommendation_calls.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="398569322a5cf470a8d3baa0cbbf8d5a10ffb180" resname="dashboard.charts.revenue">
+        <source>Revenue</source>
+        <target>crwdns228626:0crwdne228626:0</target>
+        <note>key: dashboard.charts.revenue</note>
+        <jms:reference-file line="18">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/revenue.html.twig</jms:reference-file>
+        <jms:reference-file line="3">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/revenue.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a986e297ff8c01767aad268379fa748bab9bb6f4" resname="dashboard.download_report">
+        <source>Download full report</source>
+        <target>crwdns228628:0crwdne228628:0</target>
+        <note>key: dashboard.download_report</note>
+        <jms:reference-file line="18">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/form.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d0c209024ce52170ac99fcd4e0f3426bf1b33927" resname="dashboard.products_purchased">
+        <source>Products purchased</source>
+        <target>crwdns228630:0crwdne228630:0</target>
+        <note>key: dashboard.products_purchased</note>
+        <jms:reference-file line="38">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/commerce.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="25267996ff06c639aa3d9146f290d3fdef0b4139" resname="dashboard.summary.total">
+        <source>Total</source>
+        <target>crwdns249457:0crwdne249457:0</target>
+        <note>key: dashboard.summary.total</note>
+        <jms:reference-file line="16">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/collected_events.html.twig</jms:reference-file>
+        <jms:reference-file line="16">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/conversion_rate.html.twig</jms:reference-file>
+        <jms:reference-file line="16">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart/recommendation_calls.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d37965f56d091b0b4abdcfb2d55500cf2da0f090" resname="ibexa_personalization.dashboard.time_period">
+        <source>Time period</source>
+        <target>crwdns249459:0crwdne249459:0</target>
+        <note>key: ibexa_personalization.dashboard.time_period</note>
+        <jms:reference-file line="7">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/form.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2f1c5eeea5e27f7221e63ee2d39fc3dea707e33f" resname="ibexa_personalization.date_time_range.last_24h">
+        <source>Last 24h</source>
+        <target>crwdns228650:0crwdne228650:0</target>
+        <note>key: ibexa_personalization.date_time_range.last_24h</note>
+        <jms:reference-file line="1">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/chart.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8c7eb09b4326c7c04b214d941b1d9552ddd28f94" resname="ibexa_personalization.scenario.commerce_settings">
+        <source>Commerce settings</source>
+        <target>crwdns228652:0crwdne228652:0</target>
+        <note>key: ibexa_personalization.scenario.commerce_settings</note>
+        <jms:reference-file line="94">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="2b0d80953c40e5424aa4c482cca1e5742adc3a07" resname="ibexa_personalization.scenario.description">
+        <source>Scenario description</source>
+        <target>crwdns228654:0crwdne228654:0</target>
+        <note>key: ibexa_personalization.scenario.description</note>
+        <jms:reference-file line="40">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="94104f5f11945854392d47db58284a39437bdc85" resname="ibexa_personalization.scenario.edit_short">
+        <source>Edit</source>
+        <target>crwdns229230:0crwdne229230:0</target>
+        <note>key: ibexa_personalization.scenario.edit_short</note>
+        <jms:reference-file line="15">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="85b37c2cbbb5e23e751b309a184cc4cb8ea23536" resname="ibexa_personalization.scenario.id">
+        <source>Scenario ID</source>
+        <target>crwdns228658:0crwdne228658:0</target>
+        <note>key: ibexa_personalization.scenario.id</note>
+        <jms:reference-file line="32">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="89e671883aca6d0a3662cf8ed62769108969577c" resname="ibexa_personalization.scenario.input_type">
+        <source>Input type</source>
+        <target>crwdns228660:0crwdne228660:0</target>
+        <note>key: ibexa_personalization.scenario.input_type</note>
+        <jms:reference-file line="49">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cf899da8652f04a34a0a8cb932446109606d84ad" resname="ibexa_personalization.scenario.output_type">
+        <source>Output type</source>
+        <target>crwdns228662:0crwdne228662:0</target>
+        <note>key: ibexa_personalization.scenario.output_type</note>
+        <jms:reference-file line="58">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="7b510d8a02e634f345215388e04b20e9861e3033" resname="ibexa_personalization.scenario.scenario_details">
+        <source>Scenario details:</source>
+        <target>crwdns249461:0crwdne249461:0</target>
+        <note>key: ibexa_personalization.scenario.scenario_details</note>
+        <jms:reference-file line="5">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="e86ef0faafc7f616719382f8775c93f654e4ff0a" resname="ibexa_personalization.scenario.scenario_name">
+        <source>Scenario name</source>
+        <target>crwdns228666:0crwdne228666:0</target>
+        <note>key: ibexa_personalization.scenario.scenario_name</note>
+        <jms:reference-file line="26">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cd5bce5ba0adfa62b8aba0814b6ad94c61a4ccaa" resname="ibexa_personalization.scenario.strategy">
+        <source>Strategy</source>
+        <target>crwdns228668:0crwdne228668:0</target>
+        <note>key: ibexa_personalization.scenario.strategy</note>
+        <jms:reference-file line="105">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="836be051596f7132ce48db43b554e00455255fe9" resname="ibexa_personalization.scenario.trash.cancel">
+        <source>No</source>
+        <target>crwdns229232:0crwdne229232:0</target>
+        <note>key: ibexa_personalization.scenario.trash.cancel</note>
+        <jms:reference-file line="24">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
+        <jms:reference-file line="37">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="c9b3d0815397004b0e39e31da4f14f8981963e62" resname="ibexa_personalization.scenario.trash.close">
+        <source>Close</source>
+        <target>crwdns229234:0crwdne229234:0</target>
+        <note>key: ibexa_personalization.scenario.trash.close</note>
+        <jms:reference-file line="4">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="3dab96d8b22cc7a46c023b4bac3b243f638b2634" resname="ibexa_personalization.scenario.trash.confirm">
+        <source>Yes</source>
+        <target>crwdns229236:0crwdne229236:0</target>
+        <note>key: ibexa_personalization.scenario.trash.confirm</note>
+        <jms:reference-file line="20">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
+        <jms:reference-file line="34">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cc0a11e4bd240e70176f949aa3a1031f1243cd76" resname="ibexa_personalization.scenario.trash.modal.message">
+        <source><![CDATA[Are you sure you want to delete scenario <b>%scenarion_name%</b>?]]></source>
+        <target><![CDATA[crwdns229238:0%scenarion_name%crwdne229238:0]]></target>
+        <note>key: ibexa_personalization.scenario.trash.modal.message</note>
+        <jms:reference-file line="13">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="ca28b20d3fb0258a224cff53a0c367de985ba706" resname="ibexa_personalization.scenario.trash.modal.message.new_scenario">
+        <source>Are you sure you want to delete new scenario?</source>
+        <target>crwdns229240:0crwdne229240:0</target>
+        <note>key: ibexa_personalization.scenario.trash.modal.message.new_scenario</note>
+        <jms:reference-file line="30">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/parts/remove_scenario_modal.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a12bb101b80ee4a2f65ff4072fc9d89c87b65883" resname="ibexa_personalization.scenario.user_profile_setting">
+        <source>User profile setting</source>
+        <target>crwdns228680:0crwdne228680:0</target>
+        <note>key: ibexa_personalization.scenario.user_profile_setting</note>
+        <jms:reference-file line="75">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/details.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="cc172eeb772f56ea0d29fdd15efa076bbbf7129f" resname="scenario.edit.boost_item">
+        <source>Boost item, if a user has an attribute with the same value.</source>
+        <target>crwdns249463:0crwdne249463:0</target>
+        <note>key: scenario.edit.boost_item</note>
+        <jms:reference-file line="118">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/form_fields/edit.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="b2fbf7d00a11deb7f74d922ccc6154ab08d9e371" resname="scenario.edit.boost_item_inputs">
+        <source>Attribute name %attribute% boost by %position% positions.</source>
+        <target>crwdns249465:0%attribute%crwdnd249465:0%position%crwdne249465:0</target>
+        <note>key: scenario.edit.boost_item_inputs</note>
+        <jms:reference-file line="121">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/form_fields/edit.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d6d9cb1457e10f9fd7f647869f142cf41c1f7eb2" resname="scenario.edit.exclude_minimal_item_price">
+        <source>%value% Minimum price of the recommended product</source>
+        <target>crwdns249467:0%value%crwdne249467:0</target>
+        <note>key: scenario.edit.exclude_minimal_item_price</note>
+        <jms:reference-file line="176">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/form_fields/edit.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d3c1bd357b04ed2bdbe72fe05c0e9ecb347ade9d" resname="scenario.edit.exclude_repeated_recommendations">
+        <source>%value% Max. repeated shows of identical recommendations per session.</source>
+        <target>crwdns249469:0%value%crwdne249469:0</target>
+        <note>key: scenario.edit.exclude_repeated_recommendations</note>
+        <jms:reference-file line="97">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/form_fields/edit.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="039c68a13a6b98e56db8a37385dbfc13d3bbb500" resname="scenario.edit.strategies">
+        <source>Strategies</source>
+        <target>crwdns249471:0crwdne249471:0</target>
+        <note>key: scenario.edit.strategies</note>
+        <jms:reference-file line="35">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/tabs/general_edit.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d0d43d3599208e43af3a077e5b64093ce9de34e8" resname="scenario.edit.user_attribute_name">
+        <source>User attribute has different name %value%</source>
+        <target>crwdns249473:0%value%crwdne249473:0</target>
+        <note>key: scenario.edit.user_attribute_name</note>
+        <jms:reference-file line="153">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/form_fields/edit.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="682d7b00a8f2a1b59ead6a40c97d3da403bcb12d" resname="scenarios.add_items">
+        <source>Add Items</source>
+        <target>crwdns231815:0crwdne231815:0</target>
+        <note>key: scenarios.add_items</note>
+        <jms:reference-file line="71">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/form_fields/preview.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="9d4ea6678bcead68121b2301d07a0789210a8af7" resname="scenarios.select_items_udw_title">
+        <source>Select items</source>
+        <target>crwdns231819:0crwdne231819:0</target>
+        <note>key: scenarios.select_items_udw_title</note>
+        <jms:reference-file line="68">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/form_fields/preview.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="81ddd959f97960774ae68f7ad34063806e48589f" resname="scenarios.select_path">
+        <source>Select path</source>
+        <target>crwdns249475:0crwdne249475:0</target>
+        <note>key: scenarios.select_path</note>
+        <jms:reference-file line="48">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/form_fields/preview.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8f11c3f956488357f3af7b1cfd4a344e30b589f1" resname="scenarios.select_path_udw_title">
+        <source>Select path</source>
+        <target>crwdns249477:0crwdne249477:0</target>
+        <note>key: scenarios.select_path_udw_title</note>
+        <jms:reference-file line="45">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/scenarios/form_fields/preview.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f32993c555744e5c203137f3ee0e380d27e9cfef" resname="search.date.range">
+        <source>From date - to date</source>
+        <target>crwdns228760:0crwdne228760:0</target>
+        <note>key: search.date.range</note>
+        <jms:reference-file line="29">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/dashboard/parts/form.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="62ec13a1f01d14bda50e2f4deb98ae7e1a5efd4c" resname="welcome.activation_status.question">
+        <source><![CDATA[<b>Got a question?</b> We'd love to hear from you. Send us message to support@ibexa.co and we'll get in touch with you soon.]]></source>
+        <target><![CDATA[crwdns228762:0crwdne228762:0]]></target>
+        <note>key: welcome.activation_status.question</note>
+        <jms:reference-file line="12">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/welcome/acceptance.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="f597251cbca2d421dccccf82ed867b0adbf70a66" resname="welcome.activation_status.subtitle">
+        <source>Your request was sent by %name% and is being processed.</source>
+        <target>crwdns228764:0%name%crwdne228764:0</target>
+        <note>key: welcome.activation_status.subtitle</note>
+        <jms:reference-file line="9">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/welcome/acceptance.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="607843716588d2e47b295b490af80a2019647351" resname="welcome.activation_status.title">
+        <source>Activation status</source>
+        <target>crwdns228766:0crwdne228766:0</target>
+        <note>key: welcome.activation_status.title</note>
+        <jms:reference-file line="7">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/welcome/acceptance.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="152bb836a684191c6bb76588a609237b284bf59b" resname="welcome.form.subtitle">
+        <source>Please fill in the form to send in your request to activate Ibexa Personalization services. Please be advised that you need to have an active Ibexa DXP Subscription before you can activate the services.</source>
+        <target>crwdns229242:0crwdne229242:0</target>
+        <note>key: welcome.form.subtitle</note>
+        <jms:reference-file line="17">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/welcome/acceptance.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="a40e9d8b438b39336b4d1cf6729aad7e5d485bbc" resname="welcome.form.tems_accept">
+        <source><![CDATA[I have read and agree to the <a class='ez-welcome-content__show-modal-button' href='#'>Terms and Conditions.</a>]]></source>
+        <target><![CDATA[crwdns249479:0crwdne249479:0]]></target>
+        <note>key: welcome.form.tems_accept</note>
+        <jms:reference-file line="10">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/welcome/form_fields.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="8ca1884015c59d5115a04c940d0eaa0cb6d938b6" resname="welcome.form.tems_accept_description">
+        <source>If you are accepting these terms on behalf of another person or company or other legal entity. You represent and warrant that you have full authority to bind that person, company or legal entity to these terms.</source>
+        <target>crwdns228774:0crwdne228774:0</target>
+        <note>key: welcome.form.tems_accept_description</note>
+        <jms:reference-file line="14">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/welcome/form_fields.html.twig</jms:reference-file>
+      </trans-unit>
+      <trans-unit id="d1c4b3ce2e03e5b5fbed54d72c1db4a938eca745" resname="welcome.form.title">
+        <source>Request for account activation</source>
+        <target>crwdns228776:0crwdne228776:0</target>
+        <note>key: welcome.form.title</note>
+        <jms:reference-file line="15">/vendor/ezsystems/ezplatform-personalization/src/bundle/DependencyInjection/../../../src/bundle/Resources/views/themes/admin/personalization/welcome/acceptance.html.twig</jms:reference-file>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
