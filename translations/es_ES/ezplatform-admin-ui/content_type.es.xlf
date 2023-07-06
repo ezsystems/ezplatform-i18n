@@ -21,6 +21,11 @@
         <target state="translated">No se pudo crear el tipo de contenido. No se pudo encontrar el idioma con el identificador '%languageCode%'</target>
         <note>key: content_type.add.missing_language</note>
       </trans-unit>
+      <trans-unit id="0aef83746d192c9b507ecabebe250aeb684cc210" resname="content_type.breadcrumb.create">
+        <source>Creating a new Content Type</source>
+        <target state="translated">Creando un nuevo tipo de contenido</target>
+        <note>key: content_type.breadcrumb.create</note>
+      </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
         <target state="translated">Contenedor</target>
@@ -30,6 +35,11 @@
         <source>Content Field definitions</source>
         <target state="translated">Definiciones de los campos de contenido</target>
         <note>key: content_type.content_field_definitions</note>
+      </trans-unit>
+      <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type">
+        <source>Content Type</source>
+        <target state="translated">Tipo de contenido</target>
+        <note>key: content_type.content_type</note>
       </trans-unit>
       <trans-unit id="e7a6e28719e705ca85e715114370d15deee0cd59" resname="content_type.copy.error">
         <source>Error occoured while copying the '%name%' Content Type.</source>
@@ -301,6 +311,11 @@
         <target state="translated">otro usuario</target>
         <note>key: content_type.user_name.can_not_be_fetched</note>
       </trans-unit>
+      <trans-unit id="4f63ade40ae91a9ad39e4be7b9e4f51003f1f4b3" resname="content_type.view.create.title">
+        <source>Creating a new Content Type</source>
+        <target state="translated">Creando un nuevo tipo de contenido</target>
+        <note>key: content_type.view.create.title</note>
+      </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
         <source>Field definitions</source>
         <target state="translated">Definiciones de campo</target>
@@ -315,6 +330,16 @@
         <source>Some of the Fields are disabled when translating a Content Type. To modify them, edit the Content Type in the main language.</source>
         <target state="translated">Algunos campos están desactivados al traducir un tipo de contenido. Para modificarlos, edita el tipo de contenido en el idioma principal.</target>
         <note>key: content_type.view.edit.notranslatable_fields_disabled</note>
+      </trans-unit>
+      <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
+        <source>Create a Content Type</source>
+        <target state="translated">Crear un tipo de contenido</target>
+        <note>key: content_type.view.list.action.add</note>
+      </trans-unit>
+      <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
+        <source>Delete Content Type</source>
+        <target state="translated">Eliminar tipo de contenido</target>
+        <note>key: content_type.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
         <source>ID</source>
@@ -400,11 +425,6 @@
         <source>Editing Content Type group '%identifier%'</source>
         <target state="translated">Editando grupo de tipo de contenido '%identifier%'</target>
         <note>key: content_type_group.view.edit.title</note>
-      </trans-unit>
-      <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
-        <source>Create</source>
-        <target state="translated">Crear un grupo de tipo de contenido</target>
-        <note>key: content_type_group.view.list.action.add</note>
       </trans-unit>
       <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
         <source>Edit</source>
