@@ -21,11 +21,6 @@
         <target state="final">Tworzenie nowego typu treści</target>
         <note>key: content_type.breadcrumb.create</note>
       </trans-unit>
-      <trans-unit id="7dd9e32add81dba08bfbaefaac9442a7e7dbb6ae" resname="content_type.breadcrumb.edit" approved="yes">
-        <source>%identifier%</source>
-        <target state="final">%identifier%</target>
-        <note>key: content_type.breadcrumb.edit</note>
-      </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container" approved="yes">
         <source>Container</source>
         <target state="final">Może zawierać podelementy</target>
