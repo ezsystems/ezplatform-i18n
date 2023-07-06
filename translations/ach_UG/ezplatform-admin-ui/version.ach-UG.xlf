@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="885ec7aab950e05f729031321cddbb6d7f9c3246" resname="version.delete.success">
-        <source>Versions removed from '%name%' content.</source>
-        <target xml:lang="ach">crwdns215542:0%name%crwdne215542:0</target>
+        <source>Removed version(s) from '%name%'.</source>
+        <target>crwdns222986:0%name%crwdne222986:0</target>
         <note>key: version.delete.success</note>
       </trans-unit>
     </body>
