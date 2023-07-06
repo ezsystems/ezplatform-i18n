@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="43f4682efff5d5a58ca3d8acd666eb3ec93a4713" resname="Address2">
+        <source>Additional address line</source>
+        <target>crwdns224338:0crwdne224338:0</target>
+        <note>key: Address2</note>
+      </trans-unit>
+      <trans-unit id="14bf2f86fe3ff46636bfc648aba65c4ea4284881" resname="Basket with ID: %basketId% not found">
+        <source>Basket with ID: %basketId% not found</source>
+        <target>crwdns224340:0%basketId%crwdne224340:0</target>
+        <note>key: Basket with ID: %basketId% not found</note>
+      </trans-unit>
+      <trans-unit id="4271627f4f0bef6104a95cca7bb21cda4d74503e" resname="City">
+        <source>City</source>
+        <target>crwdns224342:0crwdne224342:0</target>
+        <note>key: City</note>
+      </trans-unit>
+      <trans-unit id="153d7a58b3a3e898fcbdd04c462af308414bd09d" resname="Comment">
+        <source>Comment</source>
+        <target>crwdns224344:0crwdne224344:0</target>
+        <note>key: Comment</note>
+      </trans-unit>
+      <trans-unit id="d523ebbd10146cdfd39dee077f04c9d08468d0bc" resname="Country">
+        <source>Country</source>
+        <target>crwdns224346:0crwdne224346:0</target>
+        <note>key: Country</note>
+      </trans-unit>
+      <trans-unit id="ab2129b396fd2e0d481d6742801a8c01482b2478" resname="Delivery and invoice address are the same">
+        <source>Delivery and invoice address are the same</source>
+        <target>crwdns224348:0crwdne224348:0</target>
+        <note>key: Delivery and invoice address are the same</note>
+      </trans-unit>
+      <trans-unit id="84add5b2952787581cb9a8851eef63d1ec75d22b" resname="Email">
+        <source>Email</source>
+        <target>crwdns224350:0crwdne224350:0</target>
+        <note>key: Email</note>
+      </trans-unit>
+      <trans-unit id="c25876cd811e3bbba92fe46bf0d80e1b9126f1fa" resname="Error: %error%">
+        <source>Error: %error%</source>
+        <target>crwdns224352:0%error%crwdne224352:0</target>
+        <note>key: Error: %error%</note>
+      </trans-unit>
+      <trans-unit id="45205ef85b2f57922ab3c566402f2747eb51783a" resname="Name/Company">
+        <source>Name/Company</source>
+        <target>crwdns224354:0crwdne224354:0</target>
+        <note>key: Name/Company</note>
+      </trans-unit>
+      <trans-unit id="6ffcdc92a33aa89f26c7cd8dce6c583abb019bcd" resname="Name/Company 2">
+        <source>Name/Company 2</source>
+        <target>crwdns224356:0crwdne224356:0</target>
+        <note>key: Name/Company 2</note>
+      </trans-unit>
+      <trans-unit id="492dca19f68470a019592069af4d7da92ee5da51" resname="Order confirmation">
+        <source>Order confirmation</source>
+        <target>crwdns224358:0crwdne224358:0</target>
+        <note>key: Order confirmation</note>
+      </trans-unit>
+      <trans-unit id="9d2a9f0a31db1c658c1c486cdbe3ff84da6e1f3a" resname="Order for basket: %basketId% has been deleted successfully.">
+        <source>Order for basket: %basketId% has been deleted successfully.</source>
+        <target>crwdns224360:0%basketId%crwdne224360:0</target>
+        <note>key: Order for basket: %basketId% has been deleted successfully.</note>
+      </trans-unit>
+      <trans-unit id="c95b4a4292a043e6e35b17abe3083e1a51c74b60" resname="Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%">
+        <source>Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</source>
+        <target>crwdns224362:0%basketId%crwdnd224362:0%orderId%crwdne224362:0</target>
+        <note>key: Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</note>
+      </trans-unit>
+      <trans-unit id="0e55fb3b04e225d83af1a64ec1cedc121fb61c32" resname="Payment method">
+        <source>Payment method</source>
+        <target>crwdns224364:0crwdne224364:0</target>
+        <note>key: Payment method</note>
+      </trans-unit>
+      <trans-unit id="8961d3bf56ef1c18ef5c831ba0838e8b1f85e5de" resname="Phone number">
+        <source>Phone number</source>
+        <target>crwdns224366:0crwdne224366:0</target>
+        <note>key: Phone number</note>
+      </trans-unit>
+      <trans-unit id="50c518cdf0faedd9bc5ce47a5799df55cb0f07c9" resname="Save on my address list">
+        <source>Save on my address list</source>
+        <target>crwdns224368:0crwdne224368:0</target>
+        <note>key: Save on my address list</note>
+      </trans-unit>
+      <trans-unit id="9d1aafa8abe0ba32db90de6a6ad0a81464151a19" resname="Shipping method">
+        <source>Shipping method</source>
+        <target>crwdns224370:0crwdne224370:0</target>
+        <note>key: Shipping method</note>
+      </trans-unit>
+      <trans-unit id="da4725a3306d8386ac42c90352ae668b0289c8ac" resname="State/County">
+        <source>State/County</source>
+        <target>crwdns224372:0crwdne224372:0</target>
+        <note>key: State/County</note>
+      </trans-unit>
+      <trans-unit id="bae7d5be70820ed56467bd9a63744e23b47bd711" resname="Status">
+        <source>Status</source>
+        <target>crwdns224374:0crwdne224374:0</target>
+        <note>key: Status</note>
+      </trans-unit>
+      <trans-unit id="b454109993438542163d132d897313eee1b480fa" resname="Street">
+        <source>Street</source>
+        <target>crwdns224376:0crwdne224376:0</target>
+        <note>key: Street</note>
+      </trans-unit>
+      <trans-unit id="d447b63fbd8910a8b13fa7875c2d4725d146e8ba" resname="Your Basket is empty">
+        <source>Your Basket is empty</source>
+        <target>crwdns224378:0crwdne224378:0</target>
+        <note>key: Your Basket is empty</note>
+      </trans-unit>
+      <trans-unit id="c7d4efee746ed353828d435cc67f6bf174959dac" resname="Your order amount must reach at least: %amount% %currency%">
+        <source>Your order amount must reach at least: %amount% %currency%</source>
+        <target>crwdns224380:0%amount%crwdnd224380:0%currency%crwdne224380:0</target>
+        <note>key: Your order amount must reach at least: %amount% %currency%</note>
+      </trans-unit>
+      <trans-unit id="98aa64de7bc791f7b8c35fe219bbf89820ebaf9e" resname="Your order number is">
+        <source>Your order number is</source>
+        <target>crwdns224382:0crwdne224382:0</target>
+        <note>key: Your order number is</note>
+      </trans-unit>
+      <trans-unit id="1ed01e7c71996c604337478270c81704193265d0" resname="ZIP code">
+        <source>ZIP code</source>
+        <target>crwdns224384:0crwdne224384:0</target>
+        <note>key: ZIP code</note>
+      </trans-unit>
+      <trans-unit id="1f2020156ebcd5b85dd7c025b829f7347fc7cd36" resname="common.sales_contact_mail_subject">
+        <source>Order confirmation for Sales Contact</source>
+        <target>crwdns224386:0crwdne224386:0</target>
+        <note>key: common.sales_contact_mail_subject</note>
+      </trans-unit>
+      <trans-unit id="5350e9dd4078e80de250ba264db41368498fbc7e" resname="credit_card">
+        <source>Credit Card</source>
+        <target>crwdns224388:0crwdne224388:0</target>
+        <note>key: credit_card</note>
+      </trans-unit>
+      <trans-unit id="3c1f8aac10c311ec7575a25b550ba9195824b99d" resname="error_message_checkout_delivery_address">
+        <source>There are errors on the form. Please correct them before continuing.</source>
+        <target>crwdns224390:0crwdne224390:0</target>
+        <note>key: error_message_checkout_delivery_address</note>
+      </trans-unit>
+      <trans-unit id="c9b1309d3f59a152e843efb5227d23ee6d259855" resname="error_message_checkout_invoice_address">
+        <source>There are errors on the form. Please correct them before continuing.</source>
+        <target>crwdns224392:0crwdne224392:0</target>
+        <note>key: error_message_checkout_invoice_address</note>
+      </trans-unit>
+      <trans-unit id="72755923fdac4c9647d0fdae7a2b150c83cd3cc7" resname="error_message_checkout_shipping_payment">
+        <source>Please check the following error message.</source>
+        <target>crwdns224394:0crwdne224394:0</target>
+        <note>key: error_message_checkout_shipping_payment</note>
+      </trans-unit>
+      <trans-unit id="b33e66b85cec0b2fe5ff066bd1d5109911f52818" resname="express_delivery">
+        <source>Express delivery</source>
+        <target>crwdns224396:0crwdne224396:0</target>
+        <note>key: express_delivery</note>
+      </trans-unit>
+      <trans-unit id="22f4e56cdf190914e923d29c587b4a12c63a1026" resname="label.customer_reference">
+        <source>Customer Reference</source>
+        <target>crwdns224398:0crwdne224398:0</target>
+        <note>key: label.customer_reference</note>
+      </trans-unit>
+      <trans-unit id="3daf1e8a865e1c3e869863090054a9f20ac88bc5" resname="label.force_address_agree">
+        <source>I want to proceed to next step using this address.</source>
+        <target>crwdns224400:0crwdne224400:0</target>
+        <note>key: label.force_address_agree</note>
+      </trans-unit>
+      <trans-unit id="6bc28554605dedbc71b0d35c9d89b60c9dd67564" resname="label.force_summary_agree">
+        <source>I agree and want to complete the order process</source>
+        <target>crwdns224402:0crwdne224402:0</target>
+        <note>key: label.force_summary_agree</note>
+      </trans-unit>
+      <trans-unit id="67f2780c4e375d06c1737626c9f828052481a03a" resname="msg.max_amount_payment_error">
+        <source>Your order exceeded the maximum allowed amount of %maxAmount%. Please contact our customer support!</source>
+        <target>crwdns224404:0%maxAmount%crwdne224404:0</target>
+        <note>key: msg.max_amount_payment_error</note>
+      </trans-unit>
+      <trans-unit id="c49a8318ae253e81381b6a2347e9f37d3b5b86af" resname="msg.prices_changed_before_ordering">
+        <source><![CDATA[Attention, the price for the products: %skuList% has been changed in our system. Please visit your <a href='%basketUrl%'>basket</a>, where you can possibly delete them.]]></source>
+        <target><![CDATA[crwdns224406:0%skuList%crwdnd224406:0%basketUrl%crwdne224406:0]]></target>
+        <note>key: msg.prices_changed_before_ordering</note>
+      </trans-unit>
+      <trans-unit id="17e113685d39d9a7b762319af9761a11152657dc" resname="msg.prices_changed_confirm_basket">
+        <source>The prices in your basket have been updated. Here you have the possibility to check them again.</source>
+        <target>crwdns224408:0crwdne224408:0</target>
+        <note>key: msg.prices_changed_confirm_basket</note>
+      </trans-unit>
+      <trans-unit id="fd2b9a8677900a358fe0b775fc5280fcaf3ce755" resname="msg.prices_changed_return_basket">
+        <source><![CDATA[Please visit your <a href='%basketUrl%'>basket</a> and check your updated prices.]]></source>
+        <target><![CDATA[crwdns224410:0%basketUrl%crwdne224410:0]]></target>
+        <note>key: msg.prices_changed_return_basket</note>
+      </trans-unit>
+      <trans-unit id="a389234aa210f8a8d899ed6789bcd4af422357f8" resname="paypal_express_checkout">
+        <source>Paypal</source>
+        <target>crwdns224412:0crwdne224412:0</target>
+        <note>key: paypal_express_checkout</note>
+      </trans-unit>
+      <trans-unit id="2cf78c9cf8e9afe4f1bf29d8756d66f749e4b3c2" resname="standard_mail">
+        <source>Standard mail</source>
+        <target>crwdns224414:0crwdne224414:0</target>
+        <note>key: standard_mail</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
