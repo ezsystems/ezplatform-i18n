@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="663d5cd498c0849675ac4fd684d4270a1a3f1acb" resname="pagination.viewing">
-        <source>Viewing %viewing% out of %total% items</source>
-        <target state="translated">查看 &lt;strong&gt;%viewing%&lt;/strong&gt; 除&lt;strong&gt;%total%&lt;/strong&gt;之外的内容项</target>
+        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
+        <target state="translated"><![CDATA[查看 <strong>%viewing%</strong> 除<strong>%total%</strong>之外的内容项]]></target>
         <note>key: pagination.viewing</note>
       </trans-unit>
     </body>
