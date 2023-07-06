@@ -21,11 +21,6 @@
         <target state="translated">Création d’un nouveau Type de Contenu</target>
         <note>key: content_type.breadcrumb.create</note>
       </trans-unit>
-      <trans-unit id="7dd9e32add81dba08bfbaefaac9442a7e7dbb6ae" resname="content_type.breadcrumb.edit">
-        <source>%identifier%</source>
-        <target state="translated">%identifier%</target>
-        <note>key: content_type.breadcrumb.edit</note>
-      </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
         <target state="translated">Conteneur</target>
