@@ -11,10 +11,20 @@
         <target state="translated">עריכה</target>
         <note>key: content_type.action.edit</note>
       </trans-unit>
+      <trans-unit id="0aef83746d192c9b507ecabebe250aeb684cc210" resname="content_type.breadcrumb.create">
+        <source>Creating a new Content Type</source>
+        <target state="translated">יצירת סוג תוכן חדש</target>
+        <note>key: content_type.breadcrumb.create</note>
+      </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
         <target state="translated">קונטיינר</target>
         <note>key: content_type.container</note>
+      </trans-unit>
+      <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type">
+        <source>Content Type</source>
+        <target state="translated">סוג תוכן</target>
+        <note>key: content_type.content_type</note>
       </trans-unit>
       <trans-unit id="529a1012c7fe5ca6fafdb5d070ac8ececfe94af6" resname="content_type.create">
         <source>Create a Content Type</source>
@@ -45,6 +55,16 @@
         <source>another user</source>
         <target state="translated">משתמש אחר</target>
         <note>key: content_type.user_name.can_not_be_fetched</note>
+      </trans-unit>
+      <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
+        <source>Create a Content Type</source>
+        <target state="translated">יצירת סוג תוכן חדש</target>
+        <note>key: content_type.view.list.action.add</note>
+      </trans-unit>
+      <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
+        <source>Delete Content Type</source>
+        <target state="translated">מחק תוכן</target>
+        <note>key: content_type.view.list.action.delete</note>
       </trans-unit>
     </body>
   </file>
