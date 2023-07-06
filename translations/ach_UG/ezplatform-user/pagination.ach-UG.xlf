@@ -8,7 +8,7 @@
     <body>
       <trans-unit id="663d5cd498c0849675ac4fd684d4270a1a3f1acb" resname="pagination.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target xml:lang="ach"><![CDATA[crwdns217170:0%viewing%crwdnd217170:0%total%crwdne217170:0]]></target>
+        <target><![CDATA[crwdns249389:0%viewing%crwdnd249389:0%total%crwdne249389:0]]></target>
         <note>key: pagination.viewing</note>
       </trans-unit>
     </body>
