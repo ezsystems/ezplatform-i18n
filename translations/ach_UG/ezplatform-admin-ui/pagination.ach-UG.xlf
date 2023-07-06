@@ -8,17 +8,17 @@
     <body>
       <trans-unit id="0173399db18eb7fe3a297f66fac4bf3a98378733" resname="pagination.next_message">
         <source>Next</source>
-        <target xml:lang="ach">crwdns215772:0crwdne215772:0</target>
+        <target>crwdns249075:0crwdne249075:0</target>
         <note>key: pagination.next_message</note>
       </trans-unit>
       <trans-unit id="ccf59d9760c08875a8b87b5fac62105841415c40" resname="pagination.prev_message">
         <source>Back</source>
-        <target xml:lang="ach">crwdns215333:0crwdne215333:0</target>
+        <target>crwdns249077:0crwdne249077:0</target>
         <note>key: pagination.prev_message</note>
       </trans-unit>
       <trans-unit id="663d5cd498c0849675ac4fd684d4270a1a3f1acb" resname="pagination.viewing">
-        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target xml:lang="ach"><![CDATA[crwdns215334:0%viewing%crwdnd215334:0%total%crwdne215334:0]]></target>
+        <source>Viewing %viewing% out of %total% items</source>
+        <target>crwdns227118:0%viewing%crwdnd227118:0%total%crwdne227118:0</target>
         <note>key: pagination.viewing</note>
       </trans-unit>
     </body>
