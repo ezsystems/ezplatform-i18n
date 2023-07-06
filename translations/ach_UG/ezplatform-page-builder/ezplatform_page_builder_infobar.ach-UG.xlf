@@ -8,58 +8,83 @@
     <body>
       <trans-unit id="9f897e0a8684c5fcf61d4d121bd7122a12f99c32" resname="infobar.author.name">
         <source><![CDATA[by <span class="ez-content-details__author">%name%</span>]]></source>
-        <target xml:lang="ach"><![CDATA[crwdns215728:0%name%crwdne215728:0]]></target>
+        <target><![CDATA[crwdns249263:0%name%crwdne249263:0]]></target>
         <note>key: infobar.author.name</note>
       </trans-unit>
       <trans-unit id="144ac8aaa8994ed0736a29a4eefb8f719bbbe9f2" resname="infobar.author.not_found">
-        <source>Can’t fetch author</source>
-        <target xml:lang="ach">crwdns216476:0crwdne216476:0</target>
+        <source>Can't fetch author</source>
+        <target>crwdns249265:0crwdne249265:0</target>
         <note>key: infobar.author.not_found</note>
       </trans-unit>
       <trans-unit id="42181870d2894db7dece01830473f18bcf2ad9c3" resname="infobar.form.and.page.field.type.error.message">
-        <source>Not all blocks were properly configured. Please, update missing data. Switch to the Field view and fill in the other required fields</source>
-        <target xml:lang="ach">crwdns215781:0crwdne215781:0</target>
+        <source>Update missing configuration both in Block and Field view.</source>
+        <target>crwdns223072:0crwdne223072:0</target>
         <note>key: infobar.form.and.page.field.type.error.message</note>
       </trans-unit>
       <trans-unit id="6d037e40791b42019dc9de45a770945c4ec905cb" resname="infobar.form.error.message">
-        <source>Switch to the Field view and fill in the required fields</source>
-        <target xml:lang="ach">crwdns215782:0crwdne215782:0</target>
+        <source>Update missing information in the Field view.</source>
+        <target>crwdns223074:0crwdne223074:0</target>
         <note>key: infobar.form.error.message</note>
       </trans-unit>
       <trans-unit id="e1027757af4cedb3577c7b7e63789ebd329fdb1e" resname="infobar.last_edited">
         <source>Last edited:</source>
-        <target xml:lang="ach">crwdns215730:0crwdne215730:0</target>
+        <target>crwdns249267:0crwdne249267:0</target>
         <note>key: infobar.last_edited</note>
       </trans-unit>
       <trans-unit id="c44f4d68657d6efb26691c0b96788fd1e2020133" resname="infobar.mode.preview_language.in">
         <source>in</source>
-        <target xml:lang="ach">crwdns215731:0crwdne215731:0</target>
+        <target>crwdns249269:0crwdne249269:0</target>
         <note>key: infobar.mode.preview_language.in</note>
       </trans-unit>
       <trans-unit id="8187f29c44b9b28df27456f5667aa9d0c26bb1cb" resname="infobar.mode.viewing">
         <source>Viewing</source>
-        <target xml:lang="ach">crwdns215732:0crwdne215732:0</target>
+        <target>crwdns249271:0crwdne249271:0</target>
         <note>key: infobar.mode.viewing</note>
       </trans-unit>
       <trans-unit id="e6010c4a8967391fc3c84fae454468a4eb5f9a72" resname="infobar.page.field.type.error.message">
-        <source>Not all blocks were properly configured. Please, update missing data</source>
-        <target xml:lang="ach">crwdns215783:0crwdne215783:0</target>
+        <source>Update missing configuration in the Block view</source>
+        <target>crwdns223076:0crwdne223076:0</target>
         <note>key: infobar.page.field.type.error.message</note>
+      </trans-unit>
+      <trans-unit id="20112d83a10239c0d1a262d26773887d4c73c703" resname="infobar.page.fields.switcher">
+        <source>Page fields switcher</source>
+        <target>crwdns249273:0crwdne249273:0</target>
+        <note>key: infobar.page.fields.switcher</note>
+      </trans-unit>
+      <trans-unit id="25f32c541336f865a36461a626f335a752c95a16" resname="infobar.page.layout.error.label">
+        <source>The layout of this landing page is no longer available and you cannot publish it. Please select a different layout.</source>
+        <target>crwdns231511:0crwdne231511:0</target>
+        <note>key: infobar.page.layout.error.label</note>
+      </trans-unit>
+      <trans-unit id="e09a44f57fa983de405609e6bbb065e386650336" resname="infobar.preview.switcher">
+        <source>Preview switcher</source>
+        <target>crwdns249275:0crwdne249275:0</target>
+        <note>key: infobar.preview.switcher</note>
+      </trans-unit>
+      <trans-unit id="3cd2629de3e6baae6395f4a2e30702380db52c39" resname="infobar.timeline">
+        <source>Timeline</source>
+        <target>crwdns223082:0crwdne223082:0</target>
+        <note>key: infobar.timeline</note>
       </trans-unit>
       <trans-unit id="1739daaed5307ca22b5e2f1729a1746c6de8c346" resname="infobar.translation.add">
         <source>Add new translation</source>
-        <target xml:lang="ach">crwdns215733:0crwdne215733:0</target>
+        <target>crwdns215733:0crwdne215733:0</target>
         <note>key: infobar.translation.add</note>
       </trans-unit>
       <trans-unit id="60ccc34e85fea1e10d1340926cd10d2d692e75b3" resname="infobar.translation.no_fallback_language">
         <source>You do not have a fallback language</source>
-        <target xml:lang="ach">crwdns215734:0crwdne215734:0</target>
+        <target>crwdns215734:0crwdne215734:0</target>
         <note>key: infobar.translation.no_fallback_language</note>
       </trans-unit>
       <trans-unit id="2cc4e79efc4101503a381a2440fd864e2cac93a1" resname="infobar.translation.using_fallback_language">
         <source>You are on the fallback language</source>
-        <target xml:lang="ach">crwdns215735:0crwdne215735:0</target>
+        <target>crwdns215735:0crwdne215735:0</target>
         <note>key: infobar.translation.using_fallback_language</note>
+      </trans-unit>
+      <trans-unit id="3c89575cd3d84b611b233f4e1c5c6b6e8799066f" resname="infobar.view.edit.switcher">
+        <source>View edit switcher</source>
+        <target>crwdns249277:0crwdne249277:0</target>
+        <note>key: infobar.view.edit.switcher</note>
       </trans-unit>
     </body>
   </file>
