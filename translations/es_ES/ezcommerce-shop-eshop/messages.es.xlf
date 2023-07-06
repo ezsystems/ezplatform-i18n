@@ -41,11 +41,6 @@
         <target state="translated">Aceptar términos y condiciones</target>
         <note>key: Accept terms and conditions</note>
       </trans-unit>
-      <trans-unit id="543beca5f8d4001627a6e9551a79a0d49738b8dd" resname="Account:|profile">
-        <source>Account:</source>
-        <target state="translated">Cuenta:|perfil</target>
-        <note>key: Account:|profile</note>
-      </trans-unit>
       <trans-unit id="92ef08325a4813563a3110359906076374683282" resname="Activate">
         <source>Activate</source>
         <target state="translated">Activar</target>
@@ -1855,16 +1850,6 @@
         <source>ZIP code</source>
         <target state="translated">Código postal</target>
         <note>key: ZIP code</note>
-      </trans-unit>
-      <trans-unit id="0b5351ada9d86b9b68449a983095e3deee465050" resname="admin.translations_onesky_intro">
-        <source>Static text can be edited in the translation platform IbexaCommerceOneSky. </source>
-        <target state="translated">El texto estático se puede editar en la plataforma de traducción OneSky. </target>
-        <note>key: admin.translations_onesky_intro</note>
-      </trans-unit>
-      <trans-unit id="97989bb4d4723ad78b09779f3f0f700261a7ac9e" resname="admin.translations_onesky_link">
-        <source>Open IbexaCommerceOneSky</source>
-        <target state="translated">Abrir OneSky</target>
-        <note>key: admin.translations_onesky_link</note>
       </trans-unit>
       <trans-unit id="eb3c107f4b260b122216c378f76608c9e2f39d02" resname="admin.translations_textmodules">
         <source>Textmodules offers a more sophisticated way to manage text modules for the shop.</source>
