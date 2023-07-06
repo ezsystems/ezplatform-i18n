@@ -21,10 +21,10 @@
         <target state="translated">Impossible de créer le type de contenu. Impossible de trouver la langue avec l'identifiant '%languageCode%'</target>
         <note>key: content_type.add.missing_language</note>
       </trans-unit>
-      <trans-unit id="5626938e64bdad8be0c090d0018c868960859d0a" resname="content_type.breadcrumb.view">
-        <source>%identifier%</source>
-        <target state="translated">%identifier%</target>
-        <note>key: content_type.breadcrumb.view</note>
+      <trans-unit id="0aef83746d192c9b507ecabebe250aeb684cc210" resname="content_type.breadcrumb.create">
+        <source>Creating a new Content Type</source>
+        <target state="translated">Création d’un nouveau Type de Contenu</target>
+        <note>key: content_type.breadcrumb.create</note>
       </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
@@ -35,6 +35,11 @@
         <source>Content Field definitions</source>
         <target state="translated">Définitions de champ de contenu</target>
         <note>key: content_type.content_field_definitions</note>
+      </trans-unit>
+      <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type">
+        <source>Content Type</source>
+        <target state="translated">Type de Contenu</target>
+        <note>key: content_type.content_type</note>
       </trans-unit>
       <trans-unit id="e7a6e28719e705ca85e715114370d15deee0cd59" resname="content_type.copy.error">
         <source>Error occoured while copying the '%name%' Content Type.</source>
@@ -110,11 +115,6 @@
         <source>Draft of Content Type '%name%' already exists and is locked by '%userContentName%'</source>
         <target state="translated">Un brouillon du Type de Contenu '%name%' existe déjà et est verrouillé par l'utilisateur '%userContentName%'</target>
         <note>key: content_type.edit.error.already_exists</note>
-      </trans-unit>
-      <trans-unit id="bafafe330e90f8d93a41e93801984fed4c79512e" resname="content_type.edit.error.no_added_fields_definition">
-        <source>You have to add at least one field definition</source>
-        <target state="translated">Vous devez ajouter au moins une définition de champ</target>
-        <note>key: content_type.edit.error.no_added_fields_definition</note>
       </trans-unit>
       <trans-unit id="f0338ef34826caa021c41ff85413e48601af30b7" resname="content_type.edit.select_language">
         <source>Select a language:</source>
@@ -311,6 +311,11 @@
         <target state="translated">autre utilisateur</target>
         <note>key: content_type.user_name.can_not_be_fetched</note>
       </trans-unit>
+      <trans-unit id="4f63ade40ae91a9ad39e4be7b9e4f51003f1f4b3" resname="content_type.view.create.title">
+        <source>Creating a new Content Type</source>
+        <target state="translated">Création d’un nouveau Type de Contenu</target>
+        <note>key: content_type.view.create.title</note>
+      </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
         <source>Field definitions</source>
         <target state="translated">Définitions de champs</target>
@@ -325,6 +330,16 @@
         <source>Some of the Fields are disabled when translating a Content Type. To modify them, edit the Content Type in the main language.</source>
         <target state="translated">Certains champs sont désactivés lors de la traduction d'un type de contenu. Pour les modifier, éditez le type de contenu dans sa langue principale.</target>
         <note>key: content_type.view.edit.notranslatable_fields_disabled</note>
+      </trans-unit>
+      <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
+        <source>Create a Content Type</source>
+        <target state="translated">Créer un type de contenu</target>
+        <note>key: content_type.view.list.action.add</note>
+      </trans-unit>
+      <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
+        <source>Delete Content Type</source>
+        <target state="translated">Supprimer le type de contenu</target>
+        <note>key: content_type.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
         <source>ID</source>
@@ -351,11 +366,6 @@
         <target state="translated">Types de contenu dans %identifier%</target>
         <note>key: content_type.view.list.title</note>
       </trans-unit>
-      <trans-unit id="dc7335e54d834bb6a342bf0bcb113850de4b69f9" resname="content_type.view.view.title">
-        <source>%name%</source>
-        <target state="translated">%name%</target>
-        <note>key: content_type.view.view.title</note>
-      </trans-unit>
       <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
         <source>Content Types</source>
         <target state="translated">Types de Contenu</target>
@@ -380,11 +390,6 @@
         <source>Created Content Type group '%name%'.</source>
         <target state="translated">Groupe de type de contenu '%name%' créé.</target>
         <note>key: content_type_group.create.success</note>
-      </trans-unit>
-      <trans-unit id="59f3d7c7674d76f2854970e9c63a8db856b1229f" resname="content_type_group.creating">
-        <source>Creating</source>
-        <target state="translated">Création en cours</target>
-        <note>key: content_type_group.creating</note>
       </trans-unit>
       <trans-unit id="eec79e4a9109f28892797768f085eab39eaedc31" resname="content_type_group.delete.submit">
         <source>Delete</source>
@@ -421,11 +426,6 @@
         <target state="translated">Édition du groupe de type de contenu '%identifier%'</target>
         <note>key: content_type_group.view.edit.title</note>
       </trans-unit>
-      <trans-unit id="8eb8668549f90436db605805680144f4b87c7fc0" resname="content_type_group.view.list.action.add">
-        <source>Create</source>
-        <target state="translated">Créer un groupe de type de contenu</target>
-        <note>key: content_type_group.view.list.action.add</note>
-      </trans-unit>
       <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
         <source>Edit</source>
         <target state="translated">Modifier</target>
@@ -455,11 +455,6 @@
         <source>%identifier%</source>
         <target state="final">%identifier%</target>
         <note>key: content_type_group.view.view.title</note>
-      </trans-unit>
-      <trans-unit id="f34946beab1da2af6535a8e4a88145e9557de0aa" resname="editing">
-        <source>Editing</source>
-        <target state="translated">En cours d'édition</target>
-        <note>key: editing</note>
       </trans-unit>
       <trans-unit id="f99cc628dc4d82c5ee69eae79039a2f449eec064" resname="field_definition.description">
         <source>Description</source>
