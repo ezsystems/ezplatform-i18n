@@ -8,22 +8,22 @@
     <body>
       <trans-unit id="efeb6a6207370ab249436a8d9e0eaff02a5efb79" resname="content.publish_later.read_more">
         <source><![CDATA[Read more>>]]></source>
-        <target xml:lang="ach"><![CDATA[crwdns215681:0crwdne215681:0]]></target>
+        <target><![CDATA[crwdns248573:0crwdne248573:0]]></target>
         <note>key: content.publish_later.read_more</note>
       </trans-unit>
       <trans-unit id="d3271090e4c7db6a79d168181876891a6577fa19" resname="content.scheduled.canceled">
-        <source>Future publication canceled</source>
-        <target xml:lang="ach">crwdns215682:0crwdne215682:0</target>
+        <source>Canceled scheduled publication</source>
+        <target>crwdns248575:0crwdne248575:0</target>
         <note>key: content.scheduled.canceled</note>
       </trans-unit>
       <trans-unit id="34b402006eccad0bda15c91d1c25af637419d933" resname="content.scheduled.published">
-        <source>Future publication published</source>
-        <target xml:lang="ach">crwdns215683:0crwdne215683:0</target>
+        <source>Published scheduled content</source>
+        <target>crwdns248577:0crwdne248577:0</target>
         <note>key: content.scheduled.published</note>
       </trans-unit>
       <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title">
         <source>Title:</source>
-        <target xml:lang="ach">crwdns215684:0crwdne215684:0</target>
+        <target>crwdns248579:0crwdne248579:0</target>
         <note>key: content.scheduled.title</note>
       </trans-unit>
     </body>
