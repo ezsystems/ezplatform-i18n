@@ -10,125 +10,125 @@
         <source>Default layout:</source>
         <target state="translated">デフォルトのレイアウト:</target>
         <note>key: fielddefinition.default-layout.label</note>
-        <jms:reference-file line="273">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="273">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="3410f38fd1f44cb841ec374c13daca04dcc5910b" resname="fielddefinition.default-value.current_date">
         <source>Current date</source>
         <target state="translated">現在の日付</target>
         <note>key: fielddefinition.default-value.current_date</note>
-        <jms:reference-file line="107">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="107">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="d3cda4b47dfae160f1e7f982570b8b544a494701" resname="fielddefinition.default-value.current_datetime">
         <source>Current datetime</source>
         <target state="translated">現在の日時</target>
         <note>key: fielddefinition.default-value.current_datetime</note>
-        <jms:reference-file line="83">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="83">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="baf973c669d404a5aa072edce1d84deaaf936a0f" resname="fielddefinition.default-value.current_time">
         <source>Current time</source>
         <target state="translated">現在の時刻</target>
         <note>key: fielddefinition.default-value.current_time</note>
-        <jms:reference-file line="118">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="118">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="fa5a2f0bf185c7e872f77b81a24867afb9ef0ec7" resname="fielddefinition.default-value.empty">
         <source>Empty</source>
         <target state="translated">空</target>
         <note>key: fielddefinition.default-value.empty</note>
-        <jms:reference-file line="105">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <jms:reference-file line="116">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <jms:reference-file line="81">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="105">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="116">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="81">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="ad6776fd58e0ae4b2ba44ff014986ec6b1ec4de4" resname="fielddefinition.default-value.label">
         <source>Default value:</source>
         <target state="translated">デフォルト値:</target>
         <note>key: fielddefinition.default-value.label</note>
-        <jms:reference-file line="347">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <jms:reference-file line="66">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="347">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="66">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="34ced944f5d7159b0597b98279e73be045c0ccd9" resname="fielddefinition.interval.day">
         <source>%default% %day% day(s)</source>
         <target state="translated">%default% %day% 日</target>
         <note>key: fielddefinition.interval.day</note>
-        <jms:reference-file line="89">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="89">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="4b31f5a6cfde5d347f3ad264daa7db77e704a5e0" resname="fielddefinition.interval.hour">
         <source>%default% %hour% hour(s)</source>
         <target state="translated">%default% %hour% 時間</target>
         <note>key: fielddefinition.interval.hour</note>
-        <jms:reference-file line="90">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="90">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="388ff2c36717a410a72060911657dce61108ed3c" resname="fielddefinition.interval.minute">
         <source>%default% %minute% minute(s)</source>
         <target state="translated">%default% %minute% 分</target>
         <note>key: fielddefinition.interval.minute</note>
-        <jms:reference-file line="91">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="91">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="b93b6a1548ffa873b1ef5a95c727f93d7be2fd0c" resname="fielddefinition.interval.month">
         <source>%default% %month% month(s)</source>
         <target state="translated">%default% %month% 月</target>
         <note>key: fielddefinition.interval.month</note>
-        <jms:reference-file line="88">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="88">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="c410f54bc82c293dcce4b252928dc4a020ab1705" resname="fielddefinition.interval.second">
         <source>%default% %second% second(s)</source>
         <target state="translated">%default% %second% 秒</target>
         <note>key: fielddefinition.interval.second</note>
-        <jms:reference-file line="92">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="92">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="c88fa282a777c6f3a778f513fc9e46800ffe0198" resname="fielddefinition.interval.year">
         <source>%default% %year% year(s)</source>
         <target state="translated">%default% %year% 年</target>
         <note>key: fielddefinition.interval.year</note>
-        <jms:reference-file line="87">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="87">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="c963dbac20e5526d70d08b17ebffdaaf44e1c2c3" resname="fielddefinition.max-length.label">
         <source>Max string length:</source>
         <target state="translated">最大文字数:</target>
         <note>key: fielddefinition.max-length.label</note>
-        <jms:reference-file line="28">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="28">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="9a3d23487e45edf331407c501ead33d70461f9e3" resname="fielddefinition.max-length.value">
         <source>%max% characters</source>
         <target state="translated">%max% 文字</target>
         <note>key: fielddefinition.max-length.value</note>
-        <jms:reference-file line="31">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="31">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="11e7b0a01edea69919ea6191acdbd5ad7c2bf279" resname="fielddefinition.max-value.label">
         <source>Maximum value:</source>
         <target state="translated">最大値:</target>
         <note>key: fielddefinition.max-value.label</note>
-        <jms:reference-file line="373">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="373">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="63f939a170c5c3675f13ca3e330ea981d4a5540c" resname="fielddefinition.maximum-file-size.label">
         <source>Maximum file size:</source>
         <target state="translated">最大ファイルサイズ:</target>
         <note>key: fielddefinition.maximum-file-size.label</note>
-        <jms:reference-file line="308">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="308">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="1c31870437c9baa0d08c67140d35fa54c6223922" resname="fielddefinition.media-player-type.html5_audio">
         <source>HTML5 Audio</source>
         <target state="translated">HTML5 オーディオ</target>
         <note>key: fielddefinition.media-player-type.html5_audio</note>
-        <jms:reference-file line="194">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="194">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="22881c3ebee12191bc6f269d943c1140eea4bfb1" resname="fielddefinition.media-player-type.html5_video">
         <source>HTML5 Video</source>
         <target state="translated">HTML5 ビデオ</target>
         <note>key: fielddefinition.media-player-type.html5_video</note>
-        <jms:reference-file line="192">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="192">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="1feb12108139bb4d34877c40ade8362c0872b528" resname="fielddefinition.min-value.label">
         <source>Minimum value:</source>
         <target state="translated">最小値:</target>
         <note>key: fielddefinition.min-value.label</note>
-        <jms:reference-file line="360">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="360">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="cd94d6146477b427bdc6dbbe19be20bd6db31542" resname="fielddefinition.selection-method.list">
         <source>Drop-down list</source>
         <target state="translated">ドロップダウンリスト</target>
         <note>key: fielddefinition.selection-method.list</note>
-        <jms:reference-file line="217">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <jms:reference-file line="236">src/bundle/Core/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="217">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
+        <jms:reference-file line="236">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
     </body>
   </file>
