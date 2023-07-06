@@ -141,11 +141,6 @@
         <target state="translated">Subárbol</target>
         <note>key: filters.subtree</note>
       </trans-unit>
-      <trans-unit id="92d63a744c29f4be477f21fc81dd19b74ebb7bf2" resname="filters.tag_view_select.select">
-        <source>Select content</source>
-        <target state="translated">Seleccionar contenido</target>
-        <note>key: filters.tag_view_select.select</note>
-      </trans-unit>
       <trans-unit id="2d4febe56a341671c069ff47b6e6adfd2bba005c" resname="limitation.pick.error">
         <source>Could not fetch content names</source>
         <target state="translated">No se pudo obtener nombres de contenido</target>
@@ -200,11 +195,6 @@
         <source>Search</source>
         <target state="translated">Buscar</target>
         <note>key: search.label</note>
-      </trans-unit>
-      <trans-unit id="8a3a6b538d81237dcb9533496c691a7685e456de" resname="search.no_results">
-        <source>No results found for %query%</source>
-        <target state="translated">Lo sentimos, no hay resultados para</target>
-        <note>key: search.no_results</note>
       </trans-unit>
       <trans-unit id="6ffbb9b14f98e94b8dda5418ef3910942b42c44e" resname="search.search">
         <source>Search</source>
