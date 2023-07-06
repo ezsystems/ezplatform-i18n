@@ -36,6 +36,21 @@
         <target state="translated">Speichert eine Beziehung zu einem Content-Element.</target>
         <note>key: ezobjectrelation.helper</note>
       </trans-unit>
+      <trans-unit id="9a8153d976ff4a6805e00fa7945d153f01bc61a8" resname="ezobjectrelationlist.cta.limit.multi">
+        <source>Set up multiple Relations with one or several Content items</source>
+        <target state="translated">Mehrere Beziehungen zu einem oder mehreren Inhaltselementen einrichten</target>
+        <note>key: ezobjectrelationlist.cta.limit.multi</note>
+      </trans-unit>
+      <trans-unit id="6589b9cece0e96f6430a994e1b4e9db1ee5f8139" resname="ezobjectrelationlist.cta.limit.single">
+        <source>Set up a Relation with one Content item</source>
+        <target state="translated">Beziehung zu einem Inhaltselement einrichten</target>
+        <note>key: ezobjectrelationlist.cta.limit.single</note>
+      </trans-unit>
+      <trans-unit id="df33d5cc8c00514b2c50d4949b872cc3cd99284c" resname="ezobjectrelationlist.cta.select">
+        <source>Select content</source>
+        <target state="translated">Inhaltselement auswählen</target>
+        <note>key: ezobjectrelationlist.cta.select</note>
+      </trans-unit>
       <trans-unit id="52005ae63462da5d58857a144007d81cd7375fc2" resname="ezobjectrelationlist.helper">
         <source>Stores Relations to other Content items.</source>
         <target state="translated">Speichert Beziehungen zu anderen Inhaltselementen.</target>
@@ -70,6 +85,16 @@
         <source>Upload file</source>
         <target state="translated">Datei hochladen</target>
         <note>key: fieldtype.binary_base.upload_file</note>
+      </trans-unit>
+      <trans-unit id="dcf8a820f28bd6b955d76c6d3b95a2661d2b7540" resname="fieldtype.ezimageasset.select.label">
+        <source>Select from your Repository</source>
+        <target state="translated">Wählen Sie aus Ihrem Repository</target>
+        <note>key: fieldtype.ezimageasset.select.label</note>
+      </trans-unit>
+      <trans-unit id="bf1b649ad290a62f1192ee5b4fb58f7bdfc8e50d" resname="fieldtype.ezimageasset.upload.label">
+        <source>Upload image</source>
+        <target state="translated">Bild hochladen</target>
+        <note>key: fieldtype.ezimageasset.upload.label</note>
       </trans-unit>
     </body>
   </file>
