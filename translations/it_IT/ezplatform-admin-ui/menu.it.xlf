@@ -356,11 +356,6 @@
         <target state="translated">Salva</target>
         <note>key: url_edit__sidebar_right__save</note>
       </trans-unit>
-      <trans-unit id="8acab9e005da20efe4001fac5f84ff2c835bb7c8" resname="user__bookmark">
-        <source>Bookmarks</source>
-        <target state="translated">Segnalibri</target>
-        <note>key: user__bookmark</note>
-      </trans-unit>
       <trans-unit id="06accb26fbb1b72012942af2b3e03f7c138e28c3" resname="user__content">
         <source>Logout</source>
         <target state="translated">Esci</target>
