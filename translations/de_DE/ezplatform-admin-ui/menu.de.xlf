@@ -16,6 +16,11 @@
         <target state="translated">Teilbaum kopieren</target>
         <note>key: content__sidebar_right__copy_subtree</note>
       </trans-unit>
+      <trans-unit id="a2fafde1538959ee924436a6d4bbd8269c1ac412" resname="content__sidebar_right__create">
+        <source>Create</source>
+        <target state="translated">Erstellen</target>
+        <note>key: content__sidebar_right__create</note>
+      </trans-unit>
       <trans-unit id="b3937ec2d3ae4980f8ae00ed20818d92bfab3407" resname="content__sidebar_right__delete">
         <source>Delete</source>
         <target state="translated">Löschen</target>
@@ -375,6 +380,11 @@
         <source>Save</source>
         <target state="translated">Speichern</target>
         <note>key: url_wildcard_edit__sidebar_right__save</note>
+      </trans-unit>
+      <trans-unit id="8acab9e005da20efe4001fac5f84ff2c835bb7c8" resname="user__bookmark">
+        <source>Bookmarks</source>
+        <target state="translated">Lesezeichen</target>
+        <note>key: user__bookmark</note>
       </trans-unit>
       <trans-unit id="06accb26fbb1b72012942af2b3e03f7c138e28c3" resname="user__content">
         <source>Logout</source>
