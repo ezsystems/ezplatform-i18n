@@ -16,6 +16,11 @@
         <target state="translated">コンテナー</target>
         <note>key: content_type.container</note>
       </trans-unit>
+      <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type">
+        <source>Content Type</source>
+        <target state="translated">コンテンツタイプ</target>
+        <note>key: content_type.content_type</note>
+      </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
         <source>Description</source>
         <target state="translated">説明</target>
