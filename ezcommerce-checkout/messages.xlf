@@ -571,6 +571,11 @@
         <target state="new">Total</target>
         <note>key: basket.widget.total</note>
       </trans-unit>
+      <trans-unit id="71b1794ecbe708cf42f04c1c0295d0c4f75b7333" resname="basket_summary.delivery">
+        <source>Delivery (%name%)</source>
+        <target state="new">Delivery (%name%)</target>
+        <note>key: basket_summary.delivery</note>
+      </trans-unit>
       <trans-unit id="a5fd5550d4ca82c1196a67799c723548517fdec7" resname="basket_summary.total">
         <source>Total</source>
         <target state="new">Total</target>

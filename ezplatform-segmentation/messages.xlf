@@ -21,46 +21,6 @@
         <target state="new">Admin</target>
         <note>key: breadcrumb.admin</note>
       </trans-unit>
-      <trans-unit id="84987c1330d341b95bac668156c0e2b1db2db644" resname="segment_group.action.delete">
-        <source>Delete Segment Group</source>
-        <target state="new">Delete Segment Group</target>
-        <note>key: segment_group.action.delete</note>
-      </trans-unit>
-      <trans-unit id="2f42a4f8fa3a217529074f75426da8389861fc28" resname="segment_group.list.segment_group.action.bulk_delete">
-        <source>Delete</source>
-        <target state="new">Delete</target>
-        <note>key: segment_group.list.segment_group.action.bulk_delete</note>
-      </trans-unit>
-      <trans-unit id="60df443de6933bced3dabfca8975fd8c6b914606" resname="segment_group.list.segment_group_bulk_delete.modal.message">
-        <source>Do you want to delete the Segment Group(s)?</source>
-        <target state="new">Do you want to delete the Segment Group(s)?</target>
-        <note>key: segment_group.list.segment_group_bulk_delete.modal.message</note>
-      </trans-unit>
-      <trans-unit id="19ab5f0c6609bb92b289c06030f11a152fbef9b4" resname="segment_group.segment.add">
-        <source>Add Segment</source>
-        <target state="new">Add Segment</target>
-        <note>key: segment_group.segment.add</note>
-      </trans-unit>
-      <trans-unit id="796351668b467f2aa69799c7fb03a85a725c678c" resname="segment_group.segment.remove">
-        <source>Remove Segment</source>
-        <target state="new">Remove Segment</target>
-        <note>key: segment_group.segment.remove</note>
-      </trans-unit>
-      <trans-unit id="0c13dd5fadc3aee3d6e71563202f46f75f8b9dcd" resname="segment_group.view.segment_bulk_delete.modal.message">
-        <source>Do you want to delete the Segment(s)?</source>
-        <target state="new">Do you want to delete the Segment(s)?</target>
-        <note>key: segment_group.view.segment_bulk_delete.modal.message</note>
-      </trans-unit>
-      <trans-unit id="321ebffb584bc412cd9ba377d9f0a78f7de48ccc" resname="segment_group.view.segments.action.delete">
-        <source>Delete Segments</source>
-        <target state="new">Delete Segments</target>
-        <note>key: segment_group.view.segments.action.delete</note>
-      </trans-unit>
-      <trans-unit id="e330402a8463adc29f61dabc01a87d9db4ff9843" resname="segment_groups.list.create">
-        <source>Create</source>
-        <target state="new">Create</target>
-        <note>key: segment_groups.list.create</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -32,8 +32,8 @@
         <note>key: content.edit.select_language</note>
       </trans-unit>
       <trans-unit id="9f897e0a8684c5fcf61d4d121bd7122a12f99c32" resname="infobar.author.name">
-        <source><![CDATA[by <span class="ibexa-content-details__author">%name%</span>]]></source>
-        <target><![CDATA[by <span class="ibexa-content-details__author">%name%</span>]]></target>
+        <source><![CDATA[by <span class="ez-content-details__author">%name%</span>]]></source>
+        <target><![CDATA[by <span class="ez-content-details__author">%name%</span>]]></target>
         <note>key: infobar.author.name</note>
       </trans-unit>
       <trans-unit id="4fe48dd2501989467cec918b66ccdf0e89c274f3" resname="infobar.create">

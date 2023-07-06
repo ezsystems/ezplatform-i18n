@@ -11,16 +11,6 @@
         <target state="new">Creating</target>
         <note>key: creating</note>
       </trans-unit>
-      <trans-unit id="dc4350a333918edfe4527d71857a144a5ee95a38" resname="customer_group.breadcrumb.list">
-        <source>List</source>
-        <target state="new">List</target>
-        <note>key: customer_group.breadcrumb.list</note>
-      </trans-unit>
-      <trans-unit id="54b9cd13b122fd8532e1cad6bb12ef92103e9594" resname="edit.close">
-        <source>Close</source>
-        <target state="new">Close</target>
-        <note>key: edit.close</note>
-      </trans-unit>
       <trans-unit id="8a848dd69c514b773958b84bc5973ce638a8c0c3" resname="edit_site">
         <source>Site "%name%"</source>
         <target state="new">Site "%name%"</target>
@@ -46,10 +36,10 @@
         <target state="new">List view</target>
         <note>key: header.list_view</note>
       </trans-unit>
-      <trans-unit id="12f7c467aa956e11af390f81d26d0f7f44c3649a" resname="new_site_title">
-        <source>Creating New Site</source>
-        <target state="new">Creating New Site</target>
-        <note>key: new_site_title</note>
+      <trans-unit id="d1e4928cb58cd886efb326dfa99d120d4dee0264" resname="new_site">
+        <source>New Site</source>
+        <target state="new">New Site</target>
+        <note>key: new_site</note>
       </trans-unit>
       <trans-unit id="6fa93ef4dfbce97076a254427bb30bf7c5819c5d" resname="search.perform">
         <source>Search</source>
@@ -76,20 +66,25 @@
         <target state="new">Site settings</target>
         <note>key: site.action.settings</note>
       </trans-unit>
-      <trans-unit id="ae3390c07e2efcc430398fdd9ebf4035f95c5e11" resname="site.breadcrumb.list">
-        <source>Sites</source>
-        <target state="new">Sites</target>
-        <note>key: site.breadcrumb.list</note>
-      </trans-unit>
       <trans-unit id="a9fb803a701f3226aff42f2d5ad2b87c4a5fbac3" resname="site.create.success">
         <source>Site '%name%' has been created.</source>
         <target state="new">Site '%name%' has been created.</target>
         <note>key: site.create.success</note>
       </trans-unit>
+      <trans-unit id="c9d452254d19fafeec83d25b6b537cb3d8362f91" resname="site.creating">
+        <source>Creating a new Site</source>
+        <target state="new">Creating a new Site</target>
+        <note>key: site.creating</note>
+      </trans-unit>
       <trans-unit id="d0276207f7c538aa63b6aa105be2fc682ed8ec60" resname="site.delete.success">
         <source>Site '%name%' removed.</source>
         <target state="new">Site '%name%' removed.</target>
         <note>key: site.delete.success</note>
+      </trans-unit>
+      <trans-unit id="007ba6d0de07ea286428b4fc70e7dc1f7387efe5" resname="site.edit">
+        <source>Editing Site "%name%"</source>
+        <target state="new">Editing Site "%name%"</target>
+        <note>key: site.edit</note>
       </trans-unit>
       <trans-unit id="aef7dfbda52feec2df0703dc800138796d3b7bfd" resname="site.factory.page.status.building">
         <source>Building...</source>
@@ -111,11 +106,6 @@
         <target state="new">Sites</target>
         <note>key: site.list</note>
       </trans-unit>
-      <trans-unit id="89d0c7b6270f68d1a44de718c59a3d8b63b9cd5f" resname="site.list.create">
-        <source>Create</source>
-        <target state="new">Create</target>
-        <note>key: site.list.create</note>
-      </trans-unit>
       <trans-unit id="8b94081bbe2854988afb5e47ea8362219f08942e" resname="site.modal.delete.message">
         <source>Are you sure you want to delete this site and all the related elements?</source>
         <target state="new">Are you sure you want to delete this site and all the related elements?</target>
@@ -125,6 +115,26 @@
         <source>Site '%name%' has been updated.</source>
         <target state="new">Site '%name%' has been updated.</target>
         <note>key: site.update.success</note>
+      </trans-unit>
+      <trans-unit id="f8743f73809e6c5aeae34e151e0f9ce5fa7066ce" resname="site.view.create">
+        <source>Create</source>
+        <target state="new">Create</target>
+        <note>key: site.view.create</note>
+      </trans-unit>
+      <trans-unit id="fb67639d775ccef0abfcb2033c503519e40cf113" resname="site.view.create.access.label">
+        <source>Domain name</source>
+        <target state="new">Domain name</target>
+        <note>key: site.view.create.access.label</note>
+      </trans-unit>
+      <trans-unit id="7958da3e9d68781fe74243b5d3f88cfc33383cb7" resname="site.view.create.access.path.label">
+        <source>Path</source>
+        <target state="new">Path</target>
+        <note>key: site.view.create.access.path.label</note>
+      </trans-unit>
+      <trans-unit id="1f538c5067011e42905b5dfa1fb7e977f6fdab72" resname="site.view.create.design.selected.theme">
+        <source>Selected theme</source>
+        <target state="new">Selected theme</target>
+        <note>key: site.view.create.design.selected.theme</note>
       </trans-unit>
       <trans-unit id="54c847d70c86d68aa2a4c739cc3380d5082ceb15" resname="site.view.create.global_properties">
         <source>Global properties</source>
@@ -136,15 +146,20 @@
         <target state="new">Add language</target>
         <note>key: site.view.create.languages.add.language</note>
       </trans-unit>
+      <trans-unit id="76dcecdd92571da6749c099ff53b2b25ec903466" resname="site.view.create.languages.list.title">
+        <source>Select language</source>
+        <target state="new">Select language</target>
+        <note>key: site.view.create.languages.list.title</note>
+      </trans-unit>
       <trans-unit id="58145f540d76ee074532ff6c3dc82a5697cfd77c" resname="site.view.create.public_access">
         <source>Public access</source>
         <target state="new">Public access</target>
         <note>key: site.view.create.public_access</note>
       </trans-unit>
-      <trans-unit id="d65595de6f19312712dcec874774aed93c745ce8" resname="site.view.edit.choose_language">
-        <source>Choose language</source>
-        <target state="new">Choose language</target>
-        <note>key: site.view.edit.choose_language</note>
+      <trans-unit id="6efc361f26cc0edcb91942503a700c1a1ed571a0" resname="site.view.create.select_location.label">
+        <source>Select location</source>
+        <target state="new">Select location</target>
+        <note>key: site.view.create.select_location.label</note>
       </trans-unit>
       <trans-unit id="d350120908ef264419df59262d47c9e8c1fbdf6e" resname="site.view.global_properties.design">
         <source>Design</source>
@@ -160,11 +175,6 @@
         <source>Name</source>
         <target state="new">Name</target>
         <note>key: site.view.global_properties.name</note>
-      </trans-unit>
-      <trans-unit id="b533729d7bf9b90ebbf94ef027efdcf4b0d41df0" resname="site.view.new_domain">
-        <source>New domain</source>
-        <target state="new">New domain</target>
-        <note>key: site.view.new_domain</note>
       </trans-unit>
       <trans-unit id="f9500a5a4a226256446513269ad1f0b17598d12c" resname="site.view.public_access.list.identifier">
         <source>Identifier</source>
@@ -190,6 +200,11 @@
         <source>Public access</source>
         <target state="new">Public access</target>
         <note>key: site.view.public_access.list.title</note>
+      </trans-unit>
+      <trans-unit id="c44803be556bb169a71de2d6830f3a626375f39f" resname="site.view.remove">
+        <source>Remove</source>
+        <target state="new">Remove</target>
+        <note>key: site.view.remove</note>
       </trans-unit>
     </body>
   </file>

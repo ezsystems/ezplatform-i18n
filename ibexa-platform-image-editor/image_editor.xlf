@@ -21,6 +21,11 @@
         <target state="new">W</target>
         <note>key: image_editor.actions.crop.abbreviation.width</note>
       </trans-unit>
+      <trans-unit id="e8a1110c060cdbf254f17e3570d112845e0be036" resname="image_editor.actions.crop.apply">
+        <source>Apply</source>
+        <target state="new">Apply</target>
+        <note>key: image_editor.actions.crop.apply</note>
+      </trans-unit>
       <trans-unit id="efd41cbbf18ffdfc6f3aecfaa153d463e922ed46" resname="image_editor.actions.crop.crop_size">
         <source>Crop size</source>
         <target state="new">Crop size</target>
@@ -35,6 +40,11 @@
         <source>Ratio</source>
         <target state="new">Ratio</target>
         <note>key: image_editor.actions.crop.ratio</note>
+      </trans-unit>
+      <trans-unit id="1d5e0624d1f0017e449a0b043c2033619a33841b" resname="image_editor.actions.crop.remove">
+        <source>Remove</source>
+        <target state="new">Remove</target>
+        <note>key: image_editor.actions.crop.remove</note>
       </trans-unit>
       <trans-unit id="15ed133ec163074eb0f215eb45e84294e8f150d3" resname="image_editor.actions.crop.warning">
         <source>Adjust the focal point, crop might change its parameters</source>
@@ -76,11 +86,6 @@
         <target state="new">Remove</target>
         <note>key: image_editor.actions.focal_point.remove</note>
       </trans-unit>
-      <trans-unit id="da83bd9dc2bb70378a6d992e1ec5afb537d6c0f1" resname="image_editor.actions.focal_point.settings.title">
-        <source>Position</source>
-        <target state="new">Position</target>
-        <note>key: image_editor.actions.focal_point.settings.title</note>
-      </trans-unit>
       <trans-unit id="776866961a1df295f28beb7397126b4f6a412ed1" resname="image_editor.actions.focal_point.show">
         <source>Show point</source>
         <target state="new">Show point</target>
@@ -91,25 +96,25 @@
         <target state="new">Apply changes to all</target>
         <note>key: image_editor.apply_to_all</note>
       </trans-unit>
-      <trans-unit id="55ffc35113c5f37fa09a25ce222163c042e3ba14" resname="image_editor.back">
-        <source>Back</source>
-        <target state="new">Back</target>
-        <note>key: image_editor.back</note>
-      </trans-unit>
       <trans-unit id="8f18dae80b35c667f5078299dfef8eab35468e1f" resname="image_editor.cancel">
         <source>Cancel</source>
         <target state="new">Cancel</target>
         <note>key: image_editor.cancel</note>
+      </trans-unit>
+      <trans-unit id="663f0903b964c2ce77933a71874b5698671e9fac" resname="image_editor.close">
+        <source>Close</source>
+        <target state="new">Close</target>
+        <note>key: image_editor.close</note>
       </trans-unit>
       <trans-unit id="9f4bce2356266e08e7fc658ef668bd94aca3130c" resname="image_editor.dimension">
         <source>Dimension</source>
         <target state="new">Dimension</target>
         <note>key: image_editor.dimension</note>
       </trans-unit>
-      <trans-unit id="1834d0a289e023d978daec2f01b8bba6bf703745" resname="image_editor.edit_image">
-        <source>Edit image</source>
-        <target state="new">Edit image</target>
-        <note>key: image_editor.edit_image</note>
+      <trans-unit id="1834d0a289e023d978daec2f01b8bba6bf703745" resname="image_editor.edit_mode">
+        <source>Edit mode</source>
+        <target state="new">Edit mode</target>
+        <note>key: image_editor.edit_mode</note>
       </trans-unit>
       <trans-unit id="bd499e574059518dde520fd569e1afb7affc9f7c" resname="image_editor.redo">
         <source>Redo</source>

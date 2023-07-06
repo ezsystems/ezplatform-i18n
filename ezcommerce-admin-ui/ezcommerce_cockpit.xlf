@@ -241,11 +241,6 @@
         <target state="new">Status</target>
         <note>key: cockpit.tabs.status.title</note>
       </trans-unit>
-      <trans-unit id="272e650f8667b4f4fcb7032b85b98ef4a9974f0f" resname="dropdown.search">
-        <source>Search...</source>
-        <target state="new">Search...</target>
-        <note>key: dropdown.search</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>

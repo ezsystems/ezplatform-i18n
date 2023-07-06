@@ -11,6 +11,16 @@
         <target state="new">Select content</target>
         <note>key: action.redirect.udw.title</note>
       </trans-unit>
+      <trans-unit id="e547acc3be35f3a52f9abf815375f3e14f14228e" resname="attribute.location.empty">
+        <source>No Location selected</source>
+        <target state="new">No Location selected</target>
+        <note>key: attribute.location.empty</note>
+      </trans-unit>
+      <trans-unit id="362c9f7f2a6fca0d86cb30506368f7e461dc7a06" resname="attribute.location.select_location">
+        <source>Select Location</source>
+        <target state="new">Select Location</target>
+        <note>key: attribute.location.select_location</note>
+      </trans-unit>
       <trans-unit id="eba0da3aab2eda230b1843d6167e1d721346979b" resname="build.form">
         <source>Build form</source>
         <target state="new">Build form</target>
@@ -21,25 +31,20 @@
         <target state="new">Build form</target>
         <note>key: building.form</note>
       </trans-unit>
-      <trans-unit id="f1e1b8bb7e1d4a685e7dd441f107206a8e2505aa" resname="create.form">
-        <source>Create your form.</source>
-        <target state="new">Create your form.</target>
-        <note>key: create.form</note>
-      </trans-unit>
       <trans-unit id="3f906d4d0bd35a175f501ab96fc7d4c2b2c3ec71" resname="drag.drop.call.to.action">
         <source>Create a form by dragging elements here</source>
         <target state="new">Create a form by dragging elements here</target>
         <note>key: drag.drop.call.to.action</note>
       </trans-unit>
-      <trans-unit id="2f108f0f306c6aa52bad5f1569f8616dadc13918" resname="drag.drop.empty.zone.headline">
-        <source>Build your form</source>
-        <target state="new">Build your form</target>
-        <note>key: drag.drop.empty.zone.headline</note>
+      <trans-unit id="de3ac21778e51de199438300e1a9f816c618d33a" resname="exit">
+        <source>Exit</source>
+        <target state="new">Exit</target>
+        <note>key: exit</note>
       </trans-unit>
-      <trans-unit id="a3a9c6fc7591e6a73154fe376ab3b569ec6297b8" resname="drag.drop.empty.zone.message">
-        <source>Drag and drop item from library to build form</source>
-        <target state="new">Drag and drop item from library to build form</target>
-        <note>key: drag.drop.empty.zone.message</note>
+      <trans-unit id="511e68af2de52872af1c2d07215631d54d5df0a1" resname="field.invalid">
+        <source>Field has invalid configuration</source>
+        <target state="new">Field has invalid configuration</target>
+        <note>key: field.invalid</note>
       </trans-unit>
       <trans-unit id="81feac9c1754220f9ea3354d88cf49d263c09941" resname="field.remove">
         <source>Remove</source>
@@ -50,11 +55,6 @@
         <source>Settings</source>
         <target state="new">Settings</target>
         <note>key: field.settings</note>
-      </trans-unit>
-      <trans-unit id="f6d6d2131b7089293faa991cd48f5bbe44ce394d" resname="form.back">
-        <source>Back</source>
-        <target state="new">Back</target>
-        <note>key: form.back</note>
       </trans-unit>
       <trans-unit id="1ef0657bf94b6c1594d67f719920c7fb66d51ed6" resname="form.cannot.be.empty">
         <source>Form field is required</source>
@@ -72,8 +72,8 @@
         <note>key: form.no_preview</note>
       </trans-unit>
       <trans-unit id="8803c513c5b29257e5e622f1d74b7b32007ab42c" resname="form.remove">
-        <source>Delete</source>
-        <target state="new">Delete</target>
+        <source>Remove</source>
+        <target state="new">Remove</target>
         <note>key: form.remove</note>
       </trans-unit>
       <trans-unit id="9d9a3840f5ab21538b5df82ff8dc176cc9d8a06e" resname="form_builder.attribute.action.message.label">
@@ -147,19 +147,9 @@
         <note>key: moved.field.data.not.exists</note>
       </trans-unit>
       <trans-unit id="4ca91a461622421947258e5e7e305704088e4b7b" resname="no.fields.in.form">
-        <source>There are no fields in this form.</source>
-        <target state="new">There are no fields in this form.</target>
+        <source>There are no fields in this form. Create your form.</source>
+        <target state="new">There are no fields in this form. Create your form.</target>
         <note>key: no.fields.in.form</note>
-      </trans-unit>
-      <trans-unit id="c40a2e3f1570ca5c4aa1cd2e068691ad1b7e52e2" resname="option.add">
-        <source>Add</source>
-        <target state="new">Add</target>
-        <note>key: option.add</note>
-      </trans-unit>
-      <trans-unit id="5d82996cbebc558c2732e513337c747a7d966f50" resname="option.headline">
-        <source>Add option values</source>
-        <target state="new">Add option values</target>
-        <note>key: option.headline</note>
       </trans-unit>
       <trans-unit id="e2ec5b398adced7f94883c30e3e73e58026ea12e" resname="redirecting">
         <source>Redirecting ...</source>
@@ -176,35 +166,10 @@
         <target state="new">Select content</target>
         <note>key: select.content</note>
       </trans-unit>
-      <trans-unit id="ecd39f5f51085813a2ee59a9801b8dc2a7a93b87" resname="select.content.item.created_date">
-        <source>Created</source>
-        <target state="new">Created</target>
-        <note>key: select.content.item.created_date</note>
-      </trans-unit>
-      <trans-unit id="66fe51277fc59cd5cf5f56feaf51ccf873eedf4f" resname="select.content.item.headline">
-        <source>Set up a Relation with one Item</source>
-        <target state="new">Set up a Relation with one Item</target>
-        <note>key: select.content.item.headline</note>
-      </trans-unit>
-      <trans-unit id="adeb39923f4d5d49076afb0685646baeb996b104" resname="select.content.item.info">
+      <trans-unit id="fea3ad9d846ad8a0a3d3ff18e1882df57ef4ea73" resname="select.content.item">
         <source>Select a Content item</source>
         <target state="new">Select a Content item</target>
-        <note>key: select.content.item.info</note>
-      </trans-unit>
-      <trans-unit id="aa27c57d534c5738d4fbda86ffd671fa70507422" resname="select.content.item.name">
-        <source>Name</source>
-        <target state="new">Name</target>
-        <note>key: select.content.item.name</note>
-      </trans-unit>
-      <trans-unit id="eb7f06d788027fe9673c51ffd8a33b0c4b753fa8" resname="select.content.item.type">
-        <source>Type</source>
-        <target state="new">Type</target>
-        <note>key: select.content.item.type</note>
-      </trans-unit>
-      <trans-unit id="a222ac7eb0b12403933b1910feef92899ca7db08" resname="sidebar.fields">
-        <source>Fields</source>
-        <target state="new">Fields</target>
-        <note>key: sidebar.fields</note>
+        <note>key: select.content.item</note>
       </trans-unit>
       <trans-unit id="cc90fcb1fe96f887d06d7148fd31b9a26de1bfaf" resname="type.different.field.name">
         <source>Field name '%oldFieldName%' is already in use.</source>

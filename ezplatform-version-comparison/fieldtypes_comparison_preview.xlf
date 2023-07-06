@@ -126,6 +126,11 @@
         <target state="new">Single relation</target>
         <note>key: ezobjectrelation.single_relation</note>
       </trans-unit>
+      <trans-unit id="6e9daae620a603c0ae30c9f97f7c1963f51f261a" resname="ezobjectrelation.version_created">
+        <source>Version created</source>
+        <target state="new">Version created</target>
+        <note>key: ezobjectrelation.version_created</note>
+      </trans-unit>
       <trans-unit id="61c7580e3e4d4547527322089f577eca2ff1ea5b" resname="ezobjectrelationlist.content_type">
         <source>Content Type</source>
         <target state="new">Content Type</target>
@@ -141,6 +146,11 @@
         <target state="new">Name</target>
         <note>key: ezobjectrelationlist.name</note>
       </trans-unit>
+      <trans-unit id="bc5660c5a80b1e77cb6bbe8fe9040ff5fb6b0bec" resname="ezobjectrelationlist.version_created">
+        <source>Version created</source>
+        <target state="new">Version created</target>
+        <note>key: ezobjectrelationlist.version_created</note>
+      </trans-unit>
       <trans-unit id="96af58f2bb1ab9fbf0a4cf8857f5dc594c74b361" resname="ezurl.link">
         <source>URL</source>
         <target>URL</target>
@@ -150,11 +160,6 @@
         <source>Text</source>
         <target>Text</target>
         <note>key: ezurl.text</note>
-      </trans-unit>
-      <trans-unit id="4c6c52e859ac63f2403af879ec879b00dfdbef19" resname="field.columns">
-        <source>Columns</source>
-        <target state="new">Columns</target>
-        <note>key: field.columns</note>
       </trans-unit>
       <trans-unit id="977cb55c24b1708d46ccbd753c2cea745976ae21" resname="fieldview.field.empty">
         <source>This field is empty</source>

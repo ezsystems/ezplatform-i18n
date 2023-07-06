@@ -16,16 +16,6 @@
         <target state="new">Delete</target>
         <note>key: delete</note>
       </trans-unit>
-      <trans-unit id="f60b504e4b5465ca8ef5322de7068f70a5f633b7" resname="header.grid_view">
-        <source>Grid view</source>
-        <target state="new">Grid view</target>
-        <note>key: header.grid_view</note>
-      </trans-unit>
-      <trans-unit id="fec12680d0d0abaf9fd42b13e090ae0529a02018" resname="header.list_view">
-        <source>List view</source>
-        <target state="new">List view</target>
-        <note>key: header.list_view</note>
-      </trans-unit>
       <trans-unit id="f2b182ac0f78d68d059e24c6d0364dac9bba1f79" resname="site.action.domain">
         <source>Open link in browser</source>
         <target state="new">Open link in browser</target>
@@ -61,25 +51,15 @@
         <target state="new">Delete Site</target>
         <note>key: site.list.action.delete</note>
       </trans-unit>
-      <trans-unit id="fe8a976fe946a1a248b13f520f1781bac44ec729" resname="site.list.count_results">
-        <source>%count% results</source>
-        <target state="new">%count% results</target>
-        <note>key: site.list.count_results</note>
-      </trans-unit>
-      <trans-unit id="6283b1a55392feb5035f4362b61a96b263728164" resname="site.list.delete">
-        <source>Delete</source>
-        <target state="new">Delete</target>
-        <note>key: site.list.delete</note>
-      </trans-unit>
       <trans-unit id="9c4befbbe23d5f95db84568be39e30a6c9479881" resname="site.list.no_sites">
         <source>-</source>
         <target state="new">-</target>
         <note>key: site.list.no_sites</note>
       </trans-unit>
-      <trans-unit id="3b47022140f30bddcdb94c9a70d40cb28f2a4c29" resname="site.list.view">
-        <source>View</source>
-        <target state="new">View</target>
-        <note>key: site.list.view</note>
+      <trans-unit id="25638252c36c08f88974b99ac4fb484b52b168b8" resname="site.list.title">
+        <source>Sites (%count%)</source>
+        <target state="new">Sites (%count%)</target>
+        <note>key: site.list.title</note>
       </trans-unit>
       <trans-unit id="f2f1dd53787cf1ab3289b6c1f1aa4c9b0ead41e4" resname="site.locked">
         <source>Edit the site in config files</source>
@@ -95,36 +75,6 @@
         <source>Jump to Page Builder</source>
         <target state="new">Jump to Page Builder</target>
         <note>key: site.page_builder</note>
-      </trans-unit>
-      <trans-unit id="224958e1c5cbe332ebc239e5083a14036407323d" resname="site.view.add_domains">
-        <source>Add domains</source>
-        <target state="new">Add domains</target>
-        <note>key: site.view.add_domains</note>
-      </trans-unit>
-      <trans-unit id="e9480475bf75134fde3504b523de2f8e2971f9d7" resname="site.view.add_new_domain">
-        <source>Add new</source>
-        <target state="new">Add new</target>
-        <note>key: site.view.add_new_domain</note>
-      </trans-unit>
-      <trans-unit id="fb67639d775ccef0abfcb2033c503519e40cf113" resname="site.view.create.access.label">
-        <source>Domain name</source>
-        <target state="new">Domain name</target>
-        <note>key: site.view.create.access.label</note>
-      </trans-unit>
-      <trans-unit id="54c847d70c86d68aa2a4c739cc3380d5082ceb15" resname="site.view.create.global_properties">
-        <source>Global properties</source>
-        <target state="new">Global properties</target>
-        <note>key: site.view.create.global_properties</note>
-      </trans-unit>
-      <trans-unit id="58145f540d76ee074532ff6c3dc82a5697cfd77c" resname="site.view.create.public_access">
-        <source>Public access</source>
-        <target state="new">Public access</target>
-        <note>key: site.view.create.public_access</note>
-      </trans-unit>
-      <trans-unit id="87251807b10d307d313a1b078390e5dd78537d5e" resname="site.view.delete">
-        <source>Delete</source>
-        <target state="new">Delete</target>
-        <note>key: site.view.delete</note>
       </trans-unit>
     </body>
   </file>
