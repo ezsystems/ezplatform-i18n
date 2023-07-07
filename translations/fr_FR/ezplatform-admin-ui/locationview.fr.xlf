@@ -311,6 +311,11 @@
         <target state="translated">Lien</target>
         <note>key: tab.relations.table.relation_type.link</note>
       </trans-unit>
+      <trans-unit id="492cea0fd67c4af8e41d21710668239c9db66cfc" resname="tab.translations.action.add">
+        <source>Add translation</source>
+        <target state="translated">Ajouter une traduction</target>
+        <note>key: tab.translations.action.add</note>
+      </trans-unit>
       <trans-unit id="8c29b038407b67badc381aca362d4770d299df8b" resname="tab.translations.action.delete">
         <source>Delete Translation</source>
         <target state="translated">Supprimer la traduction</target>
