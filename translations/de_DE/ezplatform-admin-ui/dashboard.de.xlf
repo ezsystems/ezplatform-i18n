@@ -55,9 +55,6 @@
         <source>Content Type</source>
         <target state="translated">Inhaltstyp</target>
         <note>key: dashboard.table.content_type</note>
-        <alt-trans>
-          <target>Content-Typ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="841a1c1c491e1adec03ce7e9476879c4bb32edb7" resname="dashboard.table.contributor">
         <source>Contributor</source>
@@ -68,14 +65,16 @@
         <source>Can’t fetch contributor</source>
         <target state="translated">Beitragender kann nicht angezeigt werden</target>
         <note>key: dashboard.table.contributor.not_found</note>
-        <alt-trans>
-          <target>Beitragender wurde nicht gefunden</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
         <source>Edit Draft</source>
         <target state="translated">Entwurf bearbeiten</target>
         <note>key: dashboard.table.draft.edit</note>
+      </trans-unit>
+      <trans-unit id="5c6a58e397b164610db6371fe26b4e79aa3962f8" resname="dashboard.table.draft.unauthorized">
+        <source>User does not have access to '%function%' '%module%' with content ID: %contentId%</source>
+        <target state="translated">Der Benutzer hat keinen Zugriff auf '%function%' '%module%' mit der content ID: '%contentId% </target>
+        <note>key: dashboard.table.draft.unauthorized</note>
       </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
         <source>Last Saved</source>
@@ -96,9 +95,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: dashboard.table.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="783d5adc52cea6b0cc80c2083158297f31a8d59d" resname="dashboard.table.version">
         <source>Version</source>

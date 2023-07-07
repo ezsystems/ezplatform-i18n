@@ -10,9 +10,6 @@
         <source>You cannot preview this translation: there is no site available for this language. Please contact the website administrator.</source>
         <target state="translated">Sie können keine Vorschau für diese Übersetzung erhalten: Für diese Sprache gibt es keine Webseite. Bitte kontaktieren Sie den Administrator der Webseite.</target>
         <note>key: preview_unavailable</note>
-        <alt-trans>
-          <target>Sie können keine Vorschau für diese Übersetzung erhalten: für diese Sprache gibt es keine Webseite. Bitte kontaktieren Sie den Administrator der Webseite.</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>

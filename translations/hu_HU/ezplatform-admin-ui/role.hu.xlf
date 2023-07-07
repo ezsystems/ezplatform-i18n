@@ -208,7 +208,7 @@
       </trans-unit>
       <trans-unit id="18990f93cd60432ec47a75934185b7edbd3d17bf" resname="role.view.list.action.assign_to_users_or_groups" approved="yes">
         <source>Assign to Users/Groups</source>
-        <target state="final">Hozzárendelés felhasználókhoz / csoportokhoz </target>
+        <target state="final">Hozzárendelés felhasználókhoz / csoportokhoz</target>
         <note>key: role.view.list.action.assign_to_users_or_groups</note>
       </trans-unit>
       <trans-unit id="e0b49df6c6b235f7eb4d03019d1f9505dd77a135" resname="role.view.list.action.delete" approved="yes">

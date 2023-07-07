@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="aad076367e603aee68bb8577f35436abfb369136" resname="content.field_type.ezgmaplocation.set_current_location">
         <source>Set current location</source>
-        <target state="translated">Establecer localización actual</target>
+        <target state="translated">Establecer ubicación actual</target>
         <note>key: content.field_type.ezgmaplocation.set_current_location</note>
       </trans-unit>
       <trans-unit id="9cadbe380acedd355a84784a1c98cc7aca8897c6" resname="content.field_type.ezimage.img_alt">
@@ -21,9 +21,14 @@
         <target state="translated">Imagen guardada en el campo '%label%'</target>
         <note>key: content.field_type.ezimage.img_alt</note>
       </trans-unit>
+      <trans-unit id="03ebd0d1e50c8323be782f1095d9d4d7f9edffa4" resname="content.field_type.ezimageasset.img_alt">
+        <source>Image stored in field '%label%'</source>
+        <target state="translated">Imagen guardada en el campo '%label%'</target>
+        <note>key: content.field_type.ezimageasset.img_alt</note>
+      </trans-unit>
       <trans-unit id="093c498e82bd382a4732e4bb8356c7d88b671f25" resname="content.field_type.ezmedia.player_settings">
         <source>Player settings</source>
-        <target state="translated">Configuración del reproductor</target>
+        <target state="translated">Ajustes del reproductor</target>
         <note>key: content.field_type.ezmedia.player_settings</note>
       </trans-unit>
       <trans-unit id="b244ed2b3b30d53cd73ea9d25c21c7d938e97973" resname="ezbinaryfile.action.preview">
@@ -43,17 +48,17 @@
       </trans-unit>
       <trans-unit id="f95e95b9cb063f060b0e8ea74c0e11409643316d" resname="ezobjectrelationlist.cta.limit">
         <source>Set up multiple relations with up to %limit% content items</source>
-        <target state="translated">Establecer relación múltiple con un límite de %limit% contenidos</target>
+        <target state="translated">Establecer múltiples relaciones con hasta %limit% ítems de contenido.</target>
         <note>key: ezobjectrelationlist.cta.limit</note>
       </trans-unit>
       <trans-unit id="df33d5cc8c00514b2c50d4949b872cc3cd99284c" resname="ezobjectrelationlist.cta.select">
         <source>Select content</source>
-        <target state="translated">Seleccione contenido</target>
+        <target state="translated">Seleccionar contenido</target>
         <note>key: ezobjectrelationlist.cta.select</note>
       </trans-unit>
       <trans-unit id="91cee9d11eeed40768d4e5270d91cd5165f4562f" resname="ezobjectrelationlist.limit">
         <source>Limit %limit% max</source>
-        <target state="translated">Límite %limit% máx</target>
+        <target state="translated">Límite máximo de %limit%</target>
         <note>key: ezobjectrelationlist.limit</note>
       </trans-unit>
       <trans-unit id="4ab30b13084b6d6bff3b8fd7dc9ab5879b35097c" resname="ezobjectrelationlist.relations">
@@ -63,7 +68,7 @@
       </trans-unit>
       <trans-unit id="97e94752cba8892136d56b07057f0cac9344cb56" resname="ezobjectrelationlist.table.row.content_type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: ezobjectrelationlist.table.row.content_type</note>
       </trans-unit>
       <trans-unit id="13034b18b2f4c315e7fbfe4b4735259f6db82bb8" resname="ezobjectrelationlist.table.row.created">
@@ -78,16 +83,13 @@
       </trans-unit>
       <trans-unit id="0254a0c716b5d598484130bb3431d278a7be11d8" resname="ezobjectrelationlist.table.row.order">
         <source>Order</source>
-        <target state="translated">Órden</target>
+        <target state="translated">Pedido</target>
         <note>key: ezobjectrelationlist.table.row.order</note>
       </trans-unit>
       <trans-unit id="1a3bc0622c5d839ed1a8ef9f32bd5dd9e5cfb479" resname="fieldtype.binary_base.drag_drop">
         <source>Drag and drop your files on browser window or upload them</source>
-        <target state="translated">Arrastrar y soltar los archivos en la ventana del navegador o subirlos desde su disco</target>
+        <target state="translated">Arrastra y suelta tus archivos a la ventana del navegador o súbelos</target>
         <note>key: fieldtype.binary_base.drag_drop</note>
-        <alt-trans>
-          <target>Arrastrar y soltar los archivos en la ventana del navegador o subirlas</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="858c986173f1ef87d7acda017535b86f01bca87d" resname="fieldtype.binary_base.max_file_size">
         <source>Max file size: %size%</source>
@@ -98,6 +100,16 @@
         <source>Upload file</source>
         <target state="translated">Subir archivo</target>
         <note>key: fieldtype.binary_base.upload_file</note>
+      </trans-unit>
+      <trans-unit id="dcf8a820f28bd6b955d76c6d3b95a2661d2b7540" resname="fieldtype.ezimageasset.select.label">
+        <source>Select from your repository</source>
+        <target state="translated">Seleccionar desde repositorio</target>
+        <note>key: fieldtype.ezimageasset.select.label</note>
+      </trans-unit>
+      <trans-unit id="bf1b649ad290a62f1192ee5b4fb58f7bdfc8e50d" resname="fieldtype.ezimageasset.upload.label">
+        <source>Upload image</source>
+        <target state="translated">Subir una imagen</target>
+        <note>key: fieldtype.ezimageasset.upload.label</note>
       </trans-unit>
     </body>
   </file>

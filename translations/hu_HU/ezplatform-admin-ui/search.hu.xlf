@@ -90,9 +90,6 @@
         <source>Last month</source>
         <target state="final">Előző hónap</target>
         <note>key: search.last_month</note>
-        <alt-trans>
-          <target>Utolsó hónap</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="967e0a47af2b621d7e8fa29b2429a30644f8d6bb" resname="search.last_week" approved="yes">
         <source>Last week</source>

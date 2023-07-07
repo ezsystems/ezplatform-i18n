@@ -15,14 +15,6 @@
         <source>Creating a new Content Type</source>
         <target state="translated">Criando um novo Tipo de Conteúdo</target>
         <note>key: content_type.breadcrumb.create</note>
-        <alt-trans>
-          <target>Criando um novo Content Type</target>
-        </alt-trans>
-      </trans-unit>
-      <trans-unit id="7dd9e32add81dba08bfbaefaac9442a7e7dbb6ae" resname="content_type.breadcrumb.edit">
-        <source>%identifier%</source>
-        <target state="translated">%identifier%</target>
-        <note>key: content_type.breadcrumb.edit</note>
       </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
@@ -38,9 +30,6 @@
         <source>Content Type</source>
         <target state="translated">Tipo de Conteúdo</target>
         <note>key: content_type.content_type</note>
-        <alt-trans>
-          <target>Tipo do conteúdo</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="693f9ade0c2bb6a7c19b6f9b818d96aa23f1e013" resname="content_type.default_availability">
         <source>Default content availability</source>
@@ -71,9 +60,6 @@
         <source>Content type '%name%' deleted.</source>
         <target state="translated">Tipo de Conteúdo '%name%' apagado.</target>
         <note>key: content_type.delete.success</note>
-        <alt-trans>
-          <target>Content type '%name%' apagado.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description">
         <source>Description</source>
@@ -84,12 +70,6 @@
         <source>Draft of the Content Type '%name%' already exists and is locked by '%userContentName%'</source>
         <target state="translated">Já existe um rascunho do Tipo de Conteúdo '%name%' e está bloqueado por '%userContentName%'</target>
         <note>key: content_type.edit.error.already_exists</note>
-        <alt-trans>
-          <target>Já existe um rascunho do Content Type '%name%' e está bloqueado por '%userContentName%'</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Já existe um rascunho do Content Type '%name%' e está bloquado por '%userContentName%'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9eb89a2f51954babc5ff51f9060cbcda91dcf408" resname="content_type.field_definitions.modal.message">
         <source>Do you want to delete selected field definitions?</source>
@@ -110,9 +90,6 @@
         <source>Do you want to delete Content Type?</source>
         <target state="translated">Deseja apagar Tipo de Conteúdo?</target>
         <note>key: content_type.modal.message</note>
-        <alt-trans>
-          <target>Deseja apagar Content Type?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
         <source>Name</source>
@@ -133,9 +110,6 @@
         <source>Content ID</source>
         <target state="translated">ID de Conteúdo</target>
         <note>key: content_type.sort_field.content_id</note>
-        <alt-trans>
-          <target>Content ID</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth">
         <source>Location depth</source>
@@ -151,9 +125,6 @@
         <source>Location ID</source>
         <target state="translated">ID de Localização</target>
         <note>key: content_type.sort_field.location_id</note>
-        <alt-trans>
-          <target>Location ID de Localização</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="187a5f274b61172d6e478830081210a75b9f916d" resname="content_type.sort_field.location_path">
         <source>Location path</source>
@@ -189,9 +160,6 @@
         <source>Content type '%name%' updated.</source>
         <target state="translated">Tipo de Conteúdo '%name%' actualizado.</target>
         <note>key: content_type.update.success</note>
-        <alt-trans>
-          <target>Actualizado Tipo de Conteúdo '%name%'.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema">
         <source>URL alias name pattern</source>
@@ -307,9 +275,6 @@
         <source>Content type group '%name%' created.</source>
         <target state="translated">Grupo de Tipo de Conteúdo '%name%' criado.</target>
         <note>key: content_type_group.create.success</note>
-        <alt-trans>
-          <target>Criado grupo de Tipo de Conteúdo '%name%'.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="eec79e4a9109f28892797768f085eab39eaedc31" resname="content_type_group.delete.submit">
         <source>Delete</source>
@@ -320,17 +285,11 @@
         <source>Content type group '%name%' deleted.</source>
         <target state="translated">Grupo de Tipo de Conteúdo '%name%' apagado.</target>
         <note>key: content_type_group.delete.success</note>
-        <alt-trans>
-          <target>Apagado grupo de Tipo de Conteúdo '%name%'.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message">
         <source>Do you want to delete Content Type Group?</source>
         <target state="translated">Deseja apagar o Grupo de Tipo de Conteúdo?</target>
         <note>key: content_type_group.modal.message</note>
-        <alt-trans>
-          <target>Deseja apagar o grupo de Tipo de Conteúdo?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4c6dfb0b81f5b9d70fed0dda3840f0677ece9570" resname="content_type_group.update.name">
         <source>Name</source>

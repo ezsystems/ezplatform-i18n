@@ -10,9 +10,6 @@
         <source>Section '%name%' has been assigned to subtree</source>
         <target state="translated">區段'%name%'已分配給子樹</target>
         <note>key: location.assign_section.success</note>
-        <alt-trans>
-          <target>區段'％name％'已分配給子樹</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7f616359fa64ad9a44aba2d7eeebfde7aac7f16f" resname="location.copy.success">
         <source>'%name%' copied to '%location%'</source>
@@ -33,9 +30,6 @@
         <source>Location '%name%' removed.</source>
         <target state="translated">位置'%name%'已删除。</target>
         <note>key: location.delete.success</note>
-        <alt-trans>
-          <target>位置'％name％'已删除。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9d5d2fb830ae5b1806bcb908c01f115c93de4eda" resname="location.move.success">
         <source>'%name%' moved to '%location%'</source>
@@ -56,9 +50,6 @@
         <source>Location '%name%' updated.</source>
         <target state="translated">位置'%name%'已更新。</target>
         <note>key: location.update.success</note>
-        <alt-trans>
-          <target>位置'％name％'已更新。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="fd862d4fb8a866fe95bf0435080f9f1091f99551" resname="location.update_success.success.hidden">
         <source>Location '%name%' hidden.</source>

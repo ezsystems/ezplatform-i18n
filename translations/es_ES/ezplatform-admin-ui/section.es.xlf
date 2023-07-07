@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="84413bc1ae3385c0aac1af7ea5665cb0c1eaf3ba" resname="section.assign_content">
         <source>Assign content</source>
-        <target state="translated">Asignar a contenido</target>
+        <target state="translated">Asignar contenido</target>
         <note>key: section.assign_content</note>
       </trans-unit>
       <trans-unit id="2a6caa13cfd67503e2250af8e36f26a2f835a4a0" resname="section.assign_content.success">
         <source>%contentItemsCount% content items were assigned to '%name%'</source>
-        <target state="translated">%contentItemsCount% contenido(s) fueron asignados a '%name% '</target>
+        <target state="translated">%contentItemsCount% contenidos fueron asignados a '%name% '</target>
         <note>key: section.assign_content.success</note>
       </trans-unit>
       <trans-unit id="bbcee03105f9504c94923b141d067d28d1d7ec54" resname="section.assigned.content">
@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="e04ac63bba940de331146dac711b1633407e5ce9" resname="section.assigned_content.empty">
         <source>No content items.</source>
-        <target state="translated">Sin contenidos.</target>
+        <target state="translated">Sin ítems de contenido.</target>
         <note>key: section.assigned_content.empty</note>
       </trans-unit>
       <trans-unit id="d40d7fd957935deb539c21b9b49f34d4016c69d0" resname="section.assigned_content.empty_desc">
@@ -53,7 +53,7 @@
       </trans-unit>
       <trans-unit id="741d668d8a98bbaa2195e996de4402f24ef7d60e" resname="section.assigned_content.type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: section.assigned_content.type</note>
       </trans-unit>
       <trans-unit id="0a6c7f3919b09caa9eee957a4949d3c9b6dce16e" resname="section.create.success">
@@ -78,7 +78,7 @@
       </trans-unit>
       <trans-unit id="bcb0a8eedc29344eb4ad95a02dd684438aae1df6" resname="section.id">
         <source>ID</source>
-        <target state="translated">ID</target>
+        <target state="translated">id.</target>
         <note>key: section.id</note>
       </trans-unit>
       <trans-unit id="54e249fceb2f506942f7f0ae30107a734b9b3fe5" resname="section.identifier">
@@ -103,7 +103,7 @@
       </trans-unit>
       <trans-unit id="6a17e9f4ed416563fc8c3e188509b8eec8a6f7c0" resname="section.modal.message">
         <source>Do you want to delete Section?</source>
-        <target state="translated">¿Quiere eliminar la sección?</target>
+        <target state="translated">¿Deseas eliminar la sección?</target>
         <note>key: section.modal.message</note>
       </trans-unit>
       <trans-unit id="376986256605f27a204911de172c7bca4bd8e3b6" resname="section.name">
@@ -138,7 +138,7 @@
       </trans-unit>
       <trans-unit id="71f8af5e83f31ae3c618ff2b0d55b63ac131cfa3" resname="section.viewing">
         <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
-        <target state="translated"><![CDATA[Viendo <strong>%viewing%</strong> de <strong>%total%</strong> elementos]]></target>
+        <target state="translated"><![CDATA[Visualizando <strong>%viewing%</strong> de <strong>%total%</strong> ítems]]></target>
         <note>key: section.viewing</note>
       </trans-unit>
     </body>

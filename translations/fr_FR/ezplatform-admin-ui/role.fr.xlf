@@ -160,9 +160,6 @@
         <source>Roles</source>
         <target state="translated">Rôles</target>
         <note>key: role.breadcrumb.list</note>
-        <alt-trans>
-          <target>Roles</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9756b39574125051ae4fcd1916f5ba8b065eceb9" resname="role.breadcrumb.view">
         <source>%identifier%</source>
@@ -238,9 +235,6 @@
         <source>Roles</source>
         <target state="translated">Rôles</target>
         <note>key: role.view.list.title</note>
-        <alt-trans>
-          <target>Roles</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ed20cb1159498f2085d5df44b0d43c977abaa791" resname="role.view.view.title">
         <source>Role "%identifier%"</source>

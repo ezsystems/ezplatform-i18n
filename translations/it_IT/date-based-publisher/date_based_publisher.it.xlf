@@ -33,7 +33,7 @@
       </trans-unit>
       <trans-unit id="34b402006eccad0bda15c91d1c25af637419d933" resname="content.scheduled.published">
         <source>Future publication published</source>
-        <target state="translated">Futura pubblicazione pubblicata</target>
+        <target state="translated">Pubblicazione futura pubblicata</target>
         <note>key: content.scheduled.published</note>
       </trans-unit>
       <trans-unit id="16f7bbbd6e5ee28d30d0104f38019a0ed0ceaf46" resname="content.scheduled.title">
@@ -68,7 +68,7 @@
       </trans-unit>
       <trans-unit id="841a1c1c491e1adec03ce7e9476879c4bb32edb7" resname="dashboard.table.contributor">
         <source>Contributor</source>
-        <target state="translated">Contribuente</target>
+        <target state="translated">Collaboratore</target>
         <note>key: dashboard.table.contributor</note>
       </trans-unit>
       <trans-unit id="3a857cc58c009830e22845ef1edbd43794206aed" resname="dashboard.table.last_saved">
@@ -90,9 +90,6 @@
         <source>Scheduled publication date discarded.</source>
         <target state="translated">Data di pubblicazione prevista scartata.</target>
         <note>key: date_based_publisher.discard.publish_later</note>
-        <alt-trans>
-          <target>Data di pubblicazione pianificata scartata.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7994323666a7722986c24f7f724e4862f9bbf9a6" resname="date_based_publisher.error.discard.publish_later">
         <source>Cannot discard scheduled publication date: %reason%</source>

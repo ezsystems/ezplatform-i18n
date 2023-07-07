@@ -40,9 +40,6 @@
         <source>Submissions (%count%)</source>
         <target state="translated">提交（%count%）</target>
         <note>key: tab.submissions.submissions</note>
-        <alt-trans>
-          <target>提交（％count％）</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d2178a01fdad0041ecfa1f20b2ac6fa2f75a06c2" resname="tab.submissions.time">
         <source>Time</source>

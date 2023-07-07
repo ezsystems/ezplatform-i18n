@@ -13,12 +13,12 @@
       </trans-unit>
       <trans-unit id="f561064964d324f7697c98336f2e4ef5a247e7db" resname="url.action.item.edit">
         <source>Edit Item</source>
-        <target state="translated">Editar elemento</target>
+        <target state="translated">Editar ítem</target>
         <note>key: url.action.item.edit</note>
       </trans-unit>
       <trans-unit id="6a23ab14fca2c76fe7ea84f53221ed5caf907f45" resname="url.detail">
         <source>Link detail</source>
-        <target state="translated">Detalle del enlace</target>
+        <target state="translated">Detalles del enlace</target>
         <note>key: url.detail</note>
       </trans-unit>
       <trans-unit id="23bfb0e222eeac1bfa481ba09c5b4aea1d0295da" resname="url.edit">
@@ -73,7 +73,7 @@
       </trans-unit>
       <trans-unit id="24a0b301998be73b299ac86967952ef729264dec" resname="url.list.title">
         <source>Links (%count%)</source>
-        <target state="translated">(%count%) Enlaces</target>
+        <target state="translated">(%count%) enlaces</target>
         <note>key: url.list.title</note>
       </trans-unit>
       <trans-unit id="126d1ac5ef68809c1a2bfdd3872470d7aafaacc3" resname="url.open">

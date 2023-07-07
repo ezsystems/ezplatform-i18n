@@ -30,9 +30,6 @@
         <source>Adding - Policy type</source>
         <target state="final">Typ nowej reguły</target>
         <note>key: policy.add.policy.title</note>
-        <alt-trans>
-          <target>Dodawanie - typ reguły</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="df3bafbf431f3c222cebeaec45da0a089cf63736" resname="policy.add.set_limitation" approved="yes">
         <source>Now you can set limitations for the policy.</source>
@@ -58,9 +55,6 @@
         <source>Policies in role '%role%' removed.</source>
         <target state="final">Usunięto reguły dla roli '%role%'.</target>
         <note>key: policy.delete.success</note>
-        <alt-trans>
-          <target>Reguły dla roli '%role%' zostały usunięte.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9c322357fb302e5b708bc1c11c287d8a4e4859ec" resname="policy.edit.no_limitations" approved="yes">
         <source>Policy type '%policy%' does not contain limitations.</source>
@@ -86,9 +80,6 @@
         <source>Policies in role '%role%' updated.</source>
         <target state="final">Zaktualizowano reguły dla roli '%role%'.</target>
         <note>key: policy.update.success</note>
-        <alt-trans>
-          <target>Reguły dla roli '%role%' zostały zaktualizowane.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1ac24fa007363b4280663fba53f7a3b436ed4c8f" resname="policy.view.add.title" approved="yes">
         <source>Adding a new Policy</source>
@@ -144,9 +135,6 @@
         <source>Editing - Policy type</source>
         <target state="final">Typ edytowanej reguły</target>
         <note>key: policy.view.policy.title</note>
-        <alt-trans>
-          <target>Edycja - typ reguły</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e2b7ae0acb75f99dc7943574a63b36abbb6c42bf" resname="role.assignment_create.success" approved="yes">
         <source>Assignments on role '%role%' created.</source>
@@ -187,17 +175,11 @@
         <source>Role '%role%' created.</source>
         <target state="final">Utworzono rolę '%role%'.</target>
         <note>key: role.create.success</note>
-        <alt-trans>
-          <target>Rola '%role%' została utworzona.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="20c6318c88508393b9cb8413a6d7e61649f80ab3" resname="role.delete.success" approved="yes">
         <source>Role '%role%' removed.</source>
         <target state="final">Usunięto rolę '%role%'.</target>
         <note>key: role.delete.success</note>
-        <alt-trans>
-          <target>Rola '%role%' została usunięta.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b8faa90fed74479d8cdb01dc2c0e1af8a79cf9b1" resname="role.modal.message" approved="yes">
         <source>Do you want to delete Role?</source>
@@ -208,9 +190,6 @@
         <source>Role '%role%' updated.</source>
         <target state="final">Zaktualizowano rolę '%role%'.</target>
         <note>key: role.update.success</note>
-        <alt-trans>
-          <target>Rola '%role%' została zaktualizowana.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="da907b734c3ae3df8e9c570dd8e9e7e6d0799105" resname="role.view.add.title" approved="yes">
         <source>Creating a new Role</source>

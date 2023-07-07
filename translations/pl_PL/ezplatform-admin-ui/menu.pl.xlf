@@ -91,6 +91,11 @@
         <target state="final">Zapisz</target>
         <note>key: content_edit__sidebar_right__save_draft</note>
       </trans-unit>
+      <trans-unit id="3b59d1cdd9c85ff781a3a442345bb648cc49dd31" resname="content_type__sidebar_right__edit">
+        <source>Edit</source>
+        <target state="translated">Edytuj</target>
+        <note>key: content_type__sidebar_right__edit</note>
+      </trans-unit>
       <trans-unit id="750939fc55f9a3143db99bed66680e8646e029a0" resname="content_type_create__sidebar_right__cancel" approved="yes">
         <source>Discard changes</source>
         <target state="final">Odrzuć zmiany</target>
@@ -195,9 +200,6 @@
         <source>Content structure</source>
         <target state="final">Struktura</target>
         <note>key: main__content__content_structure</note>
-        <alt-trans>
-          <target>Struktura treści</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2887dd09dcb0f287e947da3e735133c540991df1" resname="main__content__linkmanager" approved="yes">
         <source>Link Manager</source>
@@ -333,9 +335,6 @@
         <source>Browse</source>
         <target state="final">Przeglądaj</target>
         <note>key: sidebar_left__browse</note>
-        <alt-trans>
-          <target>Przeglądanie</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e3401271f3c6a0f8c88b0fa500d2c97eb5e33ff0" resname="sidebar_left__search" approved="yes">
         <source>Search</source>
@@ -367,11 +366,6 @@
         <target state="final">Zapisz</target>
         <note>key: url_edit__sidebar_right__save</note>
       </trans-unit>
-      <trans-unit id="8acab9e005da20efe4001fac5f84ff2c835bb7c8" resname="user__bookmark" approved="yes">
-        <source>Bookmarks</source>
-        <target state="final">Zakładki</target>
-        <note>key: user__bookmark</note>
-      </trans-unit>
       <trans-unit id="da5c7f4f526c2dd5b1e1f51ab5238ef4ba86d421" resname="user__change_password" approved="yes">
         <source>Change password</source>
         <target state="final">Zmień hasło</target>
@@ -381,6 +375,16 @@
         <source>Logout</source>
         <target state="final">Wyloguj się</target>
         <note>key: user__content</note>
+      </trans-unit>
+      <trans-unit id="22a2aa3863b8f6a0ab24403998badeb4bb196254" resname="user__drafts">
+        <source>Drafts</source>
+        <target state="translated">Szkice</target>
+        <note>key: user__drafts</note>
+      </trans-unit>
+      <trans-unit id="d4a0cfb90774164e94f11e2a4f019a2538faebcf" resname="user__settings">
+        <source>User Settings</source>
+        <target state="translated">Ustawienia użytkownika</target>
+        <note>key: user__settings</note>
       </trans-unit>
       <trans-unit id="40679174821cfa2ce3d3a4dc046f0ef65df6f483" resname="user_create__sidebar_right__cancel" approved="yes">
         <source>Cancel</source>

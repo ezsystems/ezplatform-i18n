@@ -26,18 +26,15 @@
       </trans-unit>
       <trans-unit id="becaad6a0d63182875b2bc7d21b0c6a801ba764f" resname="fielddefinition.default-layout.none">
         <source>None</source>
-        <target state="translated">Ninguno</target>
+        <target state="translated">Nada</target>
         <note>key: fielddefinition.default-layout.none</note>
         <jms:reference-file line="274">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="eb0eeb83b3f40e1293f0edd593a8cce658d9f35d" resname="fielddefinition.default-value.checked">
         <source>Checked</source>
-        <target state="translated">Chequeado</target>
+        <target state="translated">Comprobado</target>
         <note>key: fielddefinition.default-value.checked</note>
         <jms:reference-file line="69">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Revisado</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3410f38fd1f44cb841ec374c13daca04dcc5910b" resname="fielddefinition.default-value.current_date">
         <source>Current date</source>
@@ -65,7 +62,7 @@
       </trans-unit>
       <trans-unit id="fa5a2f0bf185c7e872f77b81a24867afb9ef0ec7" resname="fielddefinition.default-value.empty">
         <source>Empty</source>
-        <target state="translated">Vacio</target>
+        <target state="translated">Vacío</target>
         <note>key: fielddefinition.default-value.empty</note>
         <jms:reference-file line="105">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
         <jms:reference-file line="116">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
@@ -80,7 +77,7 @@
       </trans-unit>
       <trans-unit id="232dd99b54158ff1f3be77113aae16e691ce406a" resname="fielddefinition.default-value.unchecked">
         <source>Unchecked</source>
-        <target state="translated">No chequeado</target>
+        <target state="translated">Sin comprobar</target>
         <note>key: fielddefinition.default-value.unchecked</note>
         <jms:reference-file line="71">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
@@ -194,7 +191,7 @@
       </trans-unit>
       <trans-unit id="22881c3ebee12191bc6f269d943c1140eea4bfb1" resname="fielddefinition.media-player-type.html5_video">
         <source>HTML5 Video</source>
-        <target state="translated">Video HTML5</target>
+        <target state="translated">Video de HTML5</target>
         <note>key: fielddefinition.media-player-type.html5_video</note>
         <jms:reference-file line="192">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>
@@ -230,7 +227,7 @@
       </trans-unit>
       <trans-unit id="61d9fc8a2cbcb067d39496dba7e884caf51cf245" resname="fielddefinition.media-player-type.windows_media_player">
         <source>Window Media Player</source>
-        <target state="translated">Windows Media Player</target>
+        <target state="translated">Window Media Player</target>
         <note>key: fielddefinition.media-player-type.windows_media_player</note>
         <jms:reference-file line="190">eZ/Bundle/EzPublishCoreBundle/Resources/views/fielddefinition_settings.html.twig</jms:reference-file>
       </trans-unit>

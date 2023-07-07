@@ -13,7 +13,7 @@
       </trans-unit>
       <trans-unit id="256aa0fda9b1de1a73ee0b7106b95efada81b5d6" resname="group_id">
         <source>Group ID: %groupId%</source>
-        <target state="translated">ID de Grupo: %groupId%</target>
+        <target state="translated">Id. de grupo: %groupId%</target>
         <note>key: group_id</note>
       </trans-unit>
       <trans-unit id="32d50c07b2eacd6fa72742ff1c1f5963c26a251d" resname="new_content_item">

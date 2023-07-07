@@ -23,7 +23,7 @@
       </trans-unit>
       <trans-unit id="c682e81e5f634fa80a21c654aa254f8aea97eb59" resname="content_edit.component.events">
         <source>Event(s)</source>
-        <target state="translated">Eventos</target>
+        <target state="translated">Evento(s)</target>
         <note>key: content_edit.component.events</note>
       </trans-unit>
       <trans-unit id="2643fa671d83192c257a6228677c5686691ce3c3" resname="dashboard.block.review_queue.title">
@@ -31,19 +31,39 @@
         <target state="translated">Cola de revisión</target>
         <note>key: dashboard.block.review_queue.title</note>
       </trans-unit>
+      <trans-unit id="221444732b869f8a1a4139d1fa9eb119698c1e54" resname="dashboard.pagination.viewing">
+        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
+        <target state="translated"><![CDATA[Visualizando <strong>%viewing%</strong> de <strong>%total%</strong> ítems]]></target>
+        <note>key: dashboard.pagination.viewing</note>
+      </trans-unit>
+      <trans-unit id="03b3eebd6de51e6ab83ae31dd89afb4be4d487aa" resname="dashboard.tab.my_drafts_under_review.empty">
+        <source>No content item(s) under review. Any content item under review by you or your user group will appear here.</source>
+        <target state="translated">Ningún ítem de contenido en revisión. Cualquier ítem de contenido en revisión aparecerá aquí.</target>
+        <note>key: dashboard.tab.my_drafts_under_review.empty</note>
+      </trans-unit>
       <trans-unit id="a878bd15386bacea4af5e3356c731640710d3618" resname="dashboard.table.activity">
         <source>Activity</source>
         <target state="translated">Actividad</target>
         <note>key: dashboard.table.activity</note>
       </trans-unit>
+      <trans-unit id="3edbcdd64ab409f29ba5c7fd3a91f98f3d868ea6" resname="dashboard.table.activity.edited_on_by_user">
+        <source>Edited by %creatorName% %relativeTime%</source>
+        <target state="translated">Editado por %creatorName% %relativeTime%</target>
+        <note>key: dashboard.table.activity.edited_on_by_user</note>
+      </trans-unit>
+      <trans-unit id="12689e8f5d888ba5fe75fa028d62a06a94e2881c" resname="dashboard.table.activity.edited_on_no_user">
+        <source>Edited %relativeTime%</source>
+        <target state="translated">Editado %relativeTime%</target>
+        <note>key: dashboard.table.activity.edited_on_no_user</note>
+      </trans-unit>
       <trans-unit id="e17a8999c9e44b7e8ea1ba0f5cff596ece264da5" resname="dashboard.table.content_type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: dashboard.table.content_type</note>
       </trans-unit>
       <trans-unit id="93a5fc53032106ea0ae1658261fd187e5c9c6a94" resname="dashboard.table.draft.edit">
         <source>Edit Draft</source>
-        <target state="translated">Editar el borrador</target>
+        <target state="translated">Editar borrador</target>
         <note>key: dashboard.table.draft.edit</note>
       </trans-unit>
       <trans-unit id="3854d449547263e6056997c3ed9135006b158de8" resname="dashboard.table.draft.transition.list">
@@ -71,6 +91,16 @@
         <target state="translated">Estado</target>
         <note>key: location_view.tab.versions.column.status</note>
       </trans-unit>
+      <trans-unit id="52e8c5a5cf9e9e8b37a631e8e04e88ea295f960b" resname="location_view.tab.versions.draft_under_edit">
+        <source>Draft under review: %workflowName%</source>
+        <target state="translated">Borrador en edición: %workflowName%</target>
+        <note>key: location_view.tab.versions.draft_under_edit</note>
+      </trans-unit>
+      <trans-unit id="c77999d76931ead1fedf62e15d68ce0a5ad8be17" resname="location_view.tab.versions.pagination.viewing">
+        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
+        <target state="translated"><![CDATA[Visualizando <strong>%viewing%</strong> de <strong>%total%</strong> ítems]]></target>
+        <note>key: location_view.tab.versions.pagination.viewing</note>
+      </trans-unit>
       <trans-unit id="f19d765219df9973b16f4c4fec04284643ae4413" resname="matcher.content_status">
         <source>Content status</source>
         <target state="translated">Estado del contenido</target>
@@ -78,17 +108,17 @@
       </trans-unit>
       <trans-unit id="c712d6d1fad65a495b837720601dd7b2f6732d8a" resname="matcher.content_type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: matcher.content_type</note>
       </trans-unit>
       <trans-unit id="d397c8abb0ffe2c4dda1ff9faea015d9c99f9f8d" resname="matcher.none">
         <source>None</source>
-        <target state="translated">Ninguno</target>
+        <target state="translated">Nada</target>
         <note>key: matcher.none</note>
       </trans-unit>
       <trans-unit id="3966df7d25826e3f6c5313b625810c1334559e7c" resname="modal.transition.list.title">
         <source>Event timeline</source>
-        <target state="translated">Cronograma del evento</target>
+        <target state="translated">Cronología del evento</target>
         <note>key: modal.transition.list.title</note>
       </trans-unit>
       <trans-unit id="ed129ea3c9e2f6f00bc2ab26aa664d8ca17d3636" resname="tab.name.my_drafts_under_review">
@@ -98,8 +128,18 @@
       </trans-unit>
       <trans-unit id="ada0fcebefac344a2447069bba0039e73865b67d" resname="transition.list.entry.author">
         <source>by %name%</source>
-        <target state="translated">por nombre</target>
+        <target state="translated">por %name%</target>
         <note>key: transition.list.entry.author</note>
+      </trans-unit>
+      <trans-unit id="86c591b194c7849d9efaacc4c3f19f5722ace8e9" resname="transition.list.entry.date">
+        <source>on %date%</source>
+        <target state="translated">en %date%</target>
+        <note>key: transition.list.entry.date</note>
+      </trans-unit>
+      <trans-unit id="db84cfaed6f2b9a52d159b6d9b12e41bdf2c27bf" resname="transition.list.entry.title">
+        <source>Stage changed to %stageNames%</source>
+        <target state="translated">Estado cambiado a %stageNames%</target>
+        <note>key: transition.list.entry.title</note>
       </trans-unit>
       <trans-unit id="3c190ea2e3bb750d29e646512ef8902bca079d61" resname="widget.leave_comment">
         <source>Leave a comment</source>
@@ -113,13 +153,18 @@
       </trans-unit>
       <trans-unit id="d2411b1cef3e71d41a6da0e837ba7c5aee6dba07" resname="widget.message_placeholder">
         <source>Type your message...</source>
-        <target state="translated">Escriba su mensaje...</target>
+        <target state="translated">Escribe tu mensaje...</target>
         <note>key: widget.message_placeholder</note>
       </trans-unit>
       <trans-unit id="3bffad6f39729eebf93f44554e1f5fb348b82354" resname="widget.submit">
         <source>Submit</source>
         <target state="translated">Enviar</target>
         <note>key: widget.submit</note>
+      </trans-unit>
+      <trans-unit id="2be785be35c3a8f0ade224cfa68292614a943d78" resname="workflow.list.empty">
+        <source>The Workflow list is empty. Any Workflow will end up here.</source>
+        <target state="translated">El flujo de trabajo está vacío. Cualquier flujo de trabajo aparecerá aquí.</target>
+        <note>key: workflow.list.empty</note>
       </trans-unit>
       <trans-unit id="80d070fe8257420d8f890afbf18c47475f7ddc24" resname="workflow.list.limitations">
         <source>Limitations</source>
@@ -131,15 +176,30 @@
         <target state="translated">Nombre</target>
         <note>key: workflow.list.name</note>
       </trans-unit>
+      <trans-unit id="4634ff400c5742cfe2c3985fcfb966e6b9a622a9" resname="workflow.list.stages">
+        <source>Stages</source>
+        <target state="translated">Estados</target>
+        <note>key: workflow.list.stages</note>
+      </trans-unit>
       <trans-unit id="101b75a4d7cd2e88611810107868fdf7ee813937" resname="workflow.list.title">
         <source>Workflow</source>
         <target state="translated">Flujo de trabajo</target>
         <note>key: workflow.list.title</note>
       </trans-unit>
+      <trans-unit id="60defc14349bf190fd343945bba1ea4a5257e96f" resname="workflow.list.viewing">
+        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
+        <target state="translated"><![CDATA[Visualizando <strong>%viewing%</strong> de <strong>%total%</strong> ítems]]></target>
+        <note>key: workflow.list.viewing</note>
+      </trans-unit>
       <trans-unit id="434e7197d8ef9a80bded55e3eeec99ed5d1b28eb" resname="workflow.view.content_list.table.content_type">
         <source>Content Type</source>
-        <target state="translated">Tipo de Contenido</target>
+        <target state="translated">Tipo de contenido</target>
         <note>key: workflow.view.content_list.table.content_type</note>
+      </trans-unit>
+      <trans-unit id="0ce5b99c4ebf3a06b4291b9cc7587a01c0c54a73" resname="workflow.view.content_list.table.empty">
+        <source>No content item(s) under review. Any content item under review in the %stageName% stage will appear here.</source>
+        <target state="translated">Ningún ítem de contenido en revisión. Cualquier contenido en revisión en el estado %stageName% aparecerá aquí.</target>
+        <note>key: workflow.view.content_list.table.empty</note>
       </trans-unit>
       <trans-unit id="a460d78b8223b8833763f45da7e70b6f7cc250cc" resname="workflow.view.content_list.table.modified_language">
         <source>Modified langauge</source>
@@ -151,10 +211,25 @@
         <target state="translated">Nombre</target>
         <note>key: workflow.view.content_list.table.name</note>
       </trans-unit>
+      <trans-unit id="7fd29e64293f361faa1f436ccb8f03064058d790" resname="workflow.view.content_list.table.title">
+        <source>Content item(s) in %stageName% stage (%count%)</source>
+        <target state="translated">Ítems de contenido en estado %stageName% (%count%)</target>
+        <note>key: workflow.view.content_list.table.title</note>
+      </trans-unit>
+      <trans-unit id="20ad53e76ebb459ccc386fcc1e142f9a3cffcbcc" resname="workflow.view.content_list.table.viewing_page">
+        <source><![CDATA[Viewing <strong>%viewing%</strong> out of <strong>%total%</strong> items]]></source>
+        <target state="translated"><![CDATA[Visualizando <strong>%viewing%</strong> de <strong>%total%</strong> ítems]]></target>
+        <note>key: workflow.view.content_list.table.viewing_page</note>
+      </trans-unit>
       <trans-unit id="f47c31349e59ab533fb5d0cab02364c7405470f4" resname="workflow.view.diagram">
         <source>Workflow Diagram</source>
         <target state="translated">Diagrama de flujo de trabajo</target>
         <note>key: workflow.view.diagram</note>
+      </trans-unit>
+      <trans-unit id="2852fd5a9fd7bc497fa5fe26d6f0f0ad3cb0cdf4" resname="workflow.view.tab.content_list">
+        <source>Content item(s) under review</source>
+        <target state="translated">Ítems de contenido en revisión</target>
+        <note>key: workflow.view.tab.content_list</note>
       </trans-unit>
       <trans-unit id="1c7c17941fd081fc0d090a50133fcef9b5ea163e" resname="workflow.view.tab.details">
         <source>Details</source>

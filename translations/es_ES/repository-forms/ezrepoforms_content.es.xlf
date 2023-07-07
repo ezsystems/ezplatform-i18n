@@ -45,25 +45,16 @@
         <source>Password</source>
         <target state="translated">Contraseña:</target>
         <note>key: content.field_type.ezuser.password</note>
-        <alt-trans>
-          <target>Contraseña</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d2fe533f4032896195d524038c3abeb2209adece" resname="content.field_type.ezuser.password_confirm">
         <source>Confirm password</source>
-        <target state="translated">Confirmar contraseña:</target>
+        <target state="translated">Confirmar contraseña</target>
         <note>key: content.field_type.ezuser.password_confirm</note>
-        <alt-trans>
-          <target>Confirmar la contraseña</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d1f5c5fcee7eb206e496dd5073b0f95427431a1c" resname="content.field_type.ezuser.username">
         <source>Username</source>
         <target state="translated">Nombre de usuario:</target>
         <note>key: content.field_type.ezuser.username</note>
-        <alt-trans>
-          <target>Nombre de usuario</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1120fc646c853c462aa4cdf634f476004846fc1b" resname="content.publish_button">
         <source>Publish</source>

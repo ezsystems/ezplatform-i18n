@@ -50,12 +50,6 @@
         <source>Field type selection</source>
         <target state="translated">Segli il tipo di field</target>
         <note>key: content_type.field_type_selection</note>
-        <alt-trans>
-          <target>Segli il tipo di field da aggiungere</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Segli il tipo di field da aggiungere alla classe</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="368a6ffa173a2e9605371392e99e565d9b247382" resname="content_type.group.delete">
         <source>Delete</source>
@@ -177,6 +171,16 @@
         <target state="translated">Descrizione</target>
         <note>key: field_definition.description</note>
       </trans-unit>
+      <trans-unit id="60b0ee9222a502c38adf1be704d4984564190e8e" resname="field_definition.ezauthor.default_author">
+        <source>Default value</source>
+        <target state="translated">Valore di default</target>
+        <note>key: field_definition.ezauthor.default_author</note>
+      </trans-unit>
+      <trans-unit id="837d1179e58011e51733e1420a6f868f94fb9b16" resname="field_definition.ezauthor.default_user_empty">
+        <source>Empty</source>
+        <target state="translated">Vuoto</target>
+        <note>key: field_definition.ezauthor.default_user_empty</note>
+      </trans-unit>
       <trans-unit id="41f781284e4bae2abbb6cfdf1126cc90b48dd35b" resname="field_definition.ezbinaryfile.max_file_size">
         <source>Maximum file size (MB)</source>
         <target state="translated">Dimensiona massima del file (MB)</target>
@@ -226,9 +230,6 @@
         <source>Adjusted current datetime</source>
         <target state="translated">Datatime corrente regolata</target>
         <note>key: field_definition.ezdatetime.default_type_adjusted</note>
-        <alt-trans>
-          <target>Data/ora corrente regolata</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="24ac7fa5478172475d86a2d16829ece8a5e5f59f" resname="field_definition.ezdatetime.default_type_current">
         <source>Current datetime</source>
@@ -259,6 +260,11 @@
         <source>Minimum value</source>
         <target state="translated">Valore minimo</target>
         <note>key: field_definition.ezfloat.min_value</note>
+      </trans-unit>
+      <trans-unit id="5b275c762831def3c6ea393e3e0c25762e0844b3" resname="field_definition.ezimage.max_file_size">
+        <source>Maximum file size (MB)</source>
+        <target state="translated">Dimensiona massima del file (MB)</target>
+        <note>key: field_definition.ezimage.max_file_size</note>
       </trans-unit>
       <trans-unit id="8a95f664895f9c72e5ca52ea43908ad3d54c8966" resname="field_definition.ezinteger.default_value">
         <source>Default value</source>
@@ -329,6 +335,11 @@
         <source>Windows Media Player</source>
         <target state="translated">Window Media Player</target>
         <note>key: field_definition.ezmedia.type_windows_media_player</note>
+      </trans-unit>
+      <trans-unit id="fabc9be57b82439dac2f612b9c2a171eb7ce6e04" resname="field_definition.ezobjectrelation.selection_content_types">
+        <source>Allowed content types</source>
+        <target state="translated">Tipi di contenuto permessi</target>
+        <note>key: field_definition.ezobjectrelation.selection_content_types</note>
       </trans-unit>
       <trans-unit id="440d8fe80bb8a07b62f17d843721285b2cf8a4d5" resname="field_definition.ezobjectrelation.selection_root">
         <source>Default selection item</source>

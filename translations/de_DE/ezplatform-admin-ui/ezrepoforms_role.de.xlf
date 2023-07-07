@@ -23,16 +23,13 @@
       </trans-unit>
       <trans-unit id="0eda0d605bd42eb8989a82e546d09ace8bc1b4d9" resname="role.policy.limitation.location.udw_button">
         <source>Select locations</source>
-        <target state="translated">Locations auswählen</target>
+        <target state="translated">Ort auswählen</target>
         <note>key: role.policy.limitation.location.udw_button</note>
       </trans-unit>
       <trans-unit id="73a82ac42476a68fb0216ebecd04f01f11bf44b2" resname="role.policy.limitation.location.udw_title">
         <source>Select locations to use as policy limitation</source>
         <target state="translated">Locations für Policy-Einschränkungen auswählen</target>
         <note>key: role.policy.limitation.location.udw_title</note>
-        <alt-trans>
-          <target>Locations für Policy Einschränkungen auswählen</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="be8159ab7985797bd281cb0f7f58bb4d2c925159" resname="role.policy.limitation.not_implemented">
         <source>Editing limitations for '%limitationTypeIdentifier%' is not implemented yet.</source>
@@ -46,7 +43,7 @@
       </trans-unit>
       <trans-unit id="ca6964415cb051927cf1d4092e4a6f49de0748c0" resname="role.policy.type.choose">
         <source>Choose a type</source>
-        <target state="translated">Typ auswählen</target>
+        <target state="translated">Wählen Sie einen Typ</target>
         <note>key: role.policy.type.choose</note>
       </trans-unit>
     </body>

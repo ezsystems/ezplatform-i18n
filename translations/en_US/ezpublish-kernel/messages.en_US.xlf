@@ -36,9 +36,6 @@
         <target state="final">User ID:</target>
         <note>key: Username:</note>
         <jms:reference-file line="17">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>Username:</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>

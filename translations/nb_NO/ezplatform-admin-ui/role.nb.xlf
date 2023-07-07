@@ -16,6 +16,11 @@
         <target state="translated">Seksjoner</target>
         <note>key: limitation_type.section</note>
       </trans-unit>
+      <trans-unit id="196c8d4eec96ca42ccdd3605621d51e2b34b6d85" resname="policy.breadcrumb.add">
+        <source>Adding a new Policy</source>
+        <target state="translated">Legger til nytt vilkår</target>
+        <note>key: policy.breadcrumb.add</note>
+      </trans-unit>
       <trans-unit id="8a7079c136f19a37dc42a6192fb94a11d19105ad" resname="policy.breadcrumb.edit">
         <source>Edit limitations</source>
         <target state="translated">Rediger begrensninger</target>

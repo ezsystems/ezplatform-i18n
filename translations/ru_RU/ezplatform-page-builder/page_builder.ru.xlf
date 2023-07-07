@@ -30,9 +30,6 @@
         <source>Some blocks are missing proper configuration</source>
         <target state="translated">Некоторые блоки не сконфигурированы</target>
         <note>key: fieldtype.landing_page.missing_proper_configuration.error.message</note>
-        <alt-trans>
-          <target>Некоторые блоки несконфигурированы</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9883bd31212048bc2352b92dcc30b541e6eac5b5" resname="layout_selector.close.label">
         <source>Close</source>

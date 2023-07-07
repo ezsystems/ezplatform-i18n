@@ -60,9 +60,6 @@
         <source>Delete Object State</source>
         <target state="final">Usuń stan obiektów</target>
         <note>key: object_state.delete.bulk_delete.submit</note>
-        <alt-trans>
-          <target>Usuń stanu obiektów</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cd20ab0806780f115ec08655d9e44e0c31d0fecd" resname="object_state.delete.success" approved="yes">
         <source>Object state '%name%' deleted.</source>
@@ -83,9 +80,6 @@
         <source>No Object State configured. Object States you'll create will appear here.</source>
         <target state="final">Nie skonfigurowano żadnego stanu obiektów. Tutaj pojawią się utworzone stany obiektów.</target>
         <note>key: object_state.list.empty</note>
-        <alt-trans>
-          <target>Nie skonfigurowano żadnego stanu obiektu. Tutaj pojawią się utworzone stany obiektów.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2331731a1072a77f20ceef81614545768fc1d446" resname="object_state.modal.message" approved="yes">
         <source>Do you want to delete Object State?</source>
@@ -197,6 +191,11 @@
         <target state="final">Utwórz</target>
         <note>key: object_state_group.create.submit</note>
       </trans-unit>
+      <trans-unit id="0b3303ec319a0c482f87d38b1a422288d9f1712b" resname="object_state_group.create.success">
+        <source>Object state group '%name%' created.</source>
+        <target state="translated">Utworzono grupę stanów obiektu '%name%'.</target>
+        <note>key: object_state_group.create.success</note>
+      </trans-unit>
       <trans-unit id="0f857d4dff9c8232ede300a39010d289d31c2937" resname="object_state_group.delete.bulk_delete.submit" approved="yes">
         <source>Delete Object State Group</source>
         <target state="final">Usuń grupę stanów obiektów</target>
@@ -206,6 +205,11 @@
         <source>Delete</source>
         <target state="final">Usuń</target>
         <note>key: object_state_group.delete.submit</note>
+      </trans-unit>
+      <trans-unit id="f33647d41b6e4ddd150317c9ef8cf2b3bd8d8b4b" resname="object_state_group.delete.success">
+        <source>Object state group '%name%' deleted.</source>
+        <target state="translated">Usunięto grupę stanów obiektu %name%. </target>
+        <note>key: object_state_group.delete.success</note>
       </trans-unit>
       <trans-unit id="940f19a907923467a0fc0084f21dc689a18ab804" resname="object_state_group.id" approved="yes">
         <source>ID</source>

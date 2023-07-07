@@ -10,9 +10,6 @@
         <source>Base this translation on an existing translation</source>
         <target state="final">Bazuj na istniejącym tłumaczeniu</target>
         <note>key: tab.translations.add.base_language</note>
-        <alt-trans>
-          <target>Wzoruj to tłumaczenie na już istniejącym</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c22e9f75640384f917cc76e6736b3a6e91d70f1d" resname="tab.translations.add.cancel" approved="yes">
         <source>Cancel</source>

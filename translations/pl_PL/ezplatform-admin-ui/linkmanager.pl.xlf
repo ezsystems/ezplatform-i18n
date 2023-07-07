@@ -55,9 +55,6 @@
         <source>Modified</source>
         <target state="final">Modyfikowany</target>
         <note>key: url.label.modified</note>
-        <alt-trans>
-          <target>Modyfikowano</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="323936a3e831f2a2db95bbf5f9a857b56ddc9c8a" resname="url.label.status" approved="yes">
         <source>Status</source>
@@ -73,9 +70,6 @@
         <source>No URLs</source>
         <target state="final">Brak URL-i</target>
         <note>key: url.list.no_urls</note>
-        <alt-trans>
-          <target>Brak URLi</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="24a0b301998be73b299ac86967952ef729264dec" resname="url.list.title" approved="yes">
         <source>Links (%count%)</source>
@@ -96,9 +90,6 @@
         <source>Search for URLs</source>
         <target state="final">Szukaj URL-i</target>
         <note>key: url.search.placeholder</note>
-        <alt-trans>
-          <target>Szukaj URLi</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3e0d8fcb74e476fcae45da9c4c7b0b261118c7a3" resname="url.status.invalid" approved="yes">
         <source>Invalid</source>
@@ -139,9 +130,6 @@
         <source>Draft</source>
         <target state="final">Szkic</target>
         <note>key: url.usages.content_status.draft</note>
-        <alt-trans>
-          <target>Draft</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d831a1a74184672a12e3b9ae099692d1b4fd55b1" resname="url.usages.content_status.published" approved="yes">
         <source>Published</source>

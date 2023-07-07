@@ -10,9 +10,6 @@
         <source>New Version Draft for '%name%' created.</source>
         <target state="final">Utworzono nowy szkic wersji dla "%name%".</target>
         <note>key: content.create_draft.success</note>
-        <alt-trans>
-          <target>Utworzono nową wersję szkicu dla '%name%'.</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>

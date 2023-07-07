@@ -15,31 +15,16 @@
         <source>No content items. Content items you create will appear here</source>
         <target state="translated">Ingen innholdselementer. Innhold du oppretter vil vises her</target>
         <note>key: dashboard.tab.all_content.empty</note>
-        <alt-trans>
-          <target>Ingen innholdselementer, innhold du oppretter vil vises her</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Ingen innholdselementer, Innhold du oppretter vil vises her</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="50e7fa5609748dabc694245d5a54a77e9d5c7c1f" resname="dashboard.tab.all_media.empty">
         <source>No content items. Media items you create will appear here</source>
         <target state="translated">Ingen innholdselementer. Media innhold du oppretter vil vises her</target>
         <note>key: dashboard.tab.all_media.empty</note>
-        <alt-trans>
-          <target>Ingen innholdselementer. Media du oppretter vil vises her</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Ingen innholdselementer, media du oppretter vil vises her</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="9c6f10545440752bc7bc2e8142cbea5d265403cd" resname="dashboard.tab.my_content.empty">
         <source>No content items. Content items you create will appear here</source>
         <target state="translated">Ingen innholdselementer. Innhold du oppretter vil vises her</target>
         <note>key: dashboard.tab.my_content.empty</note>
-        <alt-trans>
-          <target>Ingen innholdselementer, innhold du oppretter vil vises her</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cf10aced822b4dfb2cb519a82ed0adabaa4e480e" resname="dashboard.tab.my_drafts.empty">
         <source>No content items. Draft items you create will appear here</source>
@@ -60,9 +45,6 @@
         <source>Edit Media</source>
         <target state="translated">Redigere media</target>
         <note>key: dashboard.table.all.media.edit</note>
-        <alt-trans>
-          <target>Redigere Media</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f0adf5df30310686ce6864bef32325c9a6988b49" resname="dashboard.table.content.edit">
         <source>Edit Content</source>

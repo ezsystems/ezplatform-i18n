@@ -15,9 +15,6 @@
         <source>Browse content</source>
         <target state="final">Przeglądaj treści</target>
         <note>key: browse.title</note>
-        <alt-trans>
-          <target>Przeglądaj treść</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2833f6d1654708301ec537add9ff0b14744c24a3" resname="copy.title" approved="yes">
         <source>Select location</source>
@@ -28,17 +25,11 @@
         <source>Create your content</source>
         <target state="final">Utwórz element</target>
         <note>key: dashboard.create.title</note>
-        <alt-trans>
-          <target>Utwórz własną treść</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="005c6256355de38d3f5cb90b08945053ac28cf9e" resname="ezobjectrelationlist.title" approved="yes">
         <source>Select content</source>
         <target state="final">Wybierz element</target>
         <note>key: ezobjectrelationlist.title</note>
-        <alt-trans>
-          <target>Wybierz treść</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="56faf4ff9f2deaae1d34c1abcecae0413dc24a78" resname="move.title" approved="yes">
         <source>Select destination</source>
@@ -49,9 +40,6 @@
         <source>Select a location to restore you content item(s)</source>
         <target state="final">Wybierz lokalizację, aby przywrócić wybrane elementy</target>
         <note>key: restore_under_new_location.title</note>
-        <alt-trans>
-          <target>Wybierz lokalizację, aby przywrócić wybrane treści</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="987330c357d2475b80942e5c449e4215b623a459" resname="subtree.title" approved="yes">
         <source>Select location</source>
@@ -67,9 +55,6 @@
         <source>Select location to be swapped with</source>
         <target state="final">Wybierz lokalizację do zamiany miejscami</target>
         <note>key: swap.title</note>
-        <alt-trans>
-          <target>Wybierz lokalizację, aby zmienić miejscami</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>

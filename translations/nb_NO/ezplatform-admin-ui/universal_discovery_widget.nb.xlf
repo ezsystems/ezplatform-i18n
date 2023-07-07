@@ -15,9 +15,6 @@
         <source>Browse content</source>
         <target state="translated">Bla i innhold</target>
         <note>key: browse.title</note>
-        <alt-trans>
-          <target>Bla til innhold</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2833f6d1654708301ec537add9ff0b14744c24a3" resname="copy.title">
         <source>Select location</source>

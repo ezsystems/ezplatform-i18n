@@ -15,9 +15,6 @@
         <source>No content items. Content items you create will appear here</source>
         <target state="final">Nincsenek tartalmak. A létrehozott tartalmak jelennek meg itt.</target>
         <note>key: dashboard.tab.all_content.empty</note>
-        <alt-trans>
-          <target>Nincsenek tartalmak. A létrehozott tartalmak megjelennek itt.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="50e7fa5609748dabc694245d5a54a77e9d5c7c1f" resname="dashboard.tab.all_media.empty" approved="yes">
         <source>No content items. Media items you create will appear here</source>

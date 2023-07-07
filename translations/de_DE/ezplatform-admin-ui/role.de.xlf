@@ -230,9 +230,6 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: role.view.list.column.name</note>
-        <alt-trans>
-          <target>Nom</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a0c33e3728b23f13b825e36808834a6930551873" resname="role.view.list.title">
         <source>Roles</source>
@@ -254,10 +251,30 @@
         <target state="translated">Einschränkungen</target>
         <note>key: role_assignment.view.add.panel.limitations.title</note>
       </trans-unit>
+      <trans-unit id="049589ee01907c1397c6a43f2743b040573debad" resname="role_assignment.view.add.panel.users_and_groups.groups.udw_title">
+        <source>Select groups for role assignment</source>
+        <target state="translated">Gruppen für Rollenzuordnung auswählen</target>
+        <note>key: role_assignment.view.add.panel.users_and_groups.groups.udw_title</note>
+      </trans-unit>
+      <trans-unit id="1ee375a8da2c2fe9b5b0a9c6b12bba981dfdb895" resname="role_assignment.view.add.panel.users_and_groups.select_groups_btn.label">
+        <source>Select groups</source>
+        <target state="translated">Gruppen auswählen</target>
+        <note>key: role_assignment.view.add.panel.users_and_groups.select_groups_btn.label</note>
+      </trans-unit>
+      <trans-unit id="f26210f27528dbbea87cf71c5479a0afd713bece" resname="role_assignment.view.add.panel.users_and_groups.select_users_btn.label">
+        <source>Select users</source>
+        <target state="translated">Benutzer auswählen:</target>
+        <note>key: role_assignment.view.add.panel.users_and_groups.select_users_btn.label</note>
+      </trans-unit>
       <trans-unit id="f9465b09774c22747e887ffe9e6300fd02420546" resname="role_assignment.view.add.panel.users_and_groups.title">
         <source>Users and Groups</source>
         <target state="translated">Benutzer und Gruppen</target>
         <note>key: role_assignment.view.add.panel.users_and_groups.title</note>
+      </trans-unit>
+      <trans-unit id="9328ffe3a5dcac34b985d43cf691f1c790d2ba28" resname="role_assignment.view.add.panel.users_and_groups.users.udw_title">
+        <source>Select users for role assignment</source>
+        <target state="translated">Benutzer für die Rollenzuweisung auswählen</target>
+        <note>key: role_assignment.view.add.panel.users_and_groups.users.udw_title</note>
       </trans-unit>
       <trans-unit id="61a5ec154d3f0620ec619d196611b011996128ff" resname="role_assignment.view.add.title">
         <source>Assigning to Users/Groups</source>

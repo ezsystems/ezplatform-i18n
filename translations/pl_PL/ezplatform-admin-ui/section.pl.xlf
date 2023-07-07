@@ -60,9 +60,6 @@
         <source>Section '%name%' created.</source>
         <target state="final">Utworzono sekcję '%name%'.</target>
         <note>key: section.create.success</note>
-        <alt-trans>
-          <target>Sekcja '%name%' została utworzona.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="48a0071d3b889cbfef3ff4ee5af8cf83b1e8b7f6" resname="section.delete" approved="yes">
         <source>Delete Section</source>
@@ -73,9 +70,6 @@
         <source>Section '%name%' removed.</source>
         <target state="final">Usunięto sekcję '%name%'.</target>
         <note>key: section.delete.success</note>
-        <alt-trans>
-          <target>Sekcja '%name%' została usunięta.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7c2d7a21eb806db794990d728749dde1592be63e" resname="section.edit" approved="yes">
         <source>Edit</source>
@@ -111,9 +105,6 @@
         <source>Do you want to delete Section?</source>
         <target state="final">Czy na pewno chcesz usunąć tę sekcję?</target>
         <note>key: section.modal.message</note>
-        <alt-trans>
-          <target>Czy na pewno chcesz usunąć tą sekcję?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="376986256605f27a204911de172c7bca4bd8e3b6" resname="section.name" approved="yes">
         <source>Name</source>
@@ -134,9 +125,6 @@
         <source>Section '%name%' updated.</source>
         <target state="final">Zaktualizowano sekcję '%name%'.</target>
         <note>key: section.update.success</note>
-        <alt-trans>
-          <target>Section '%name%' została zaktualizowana.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2bfeef4370b18e469fba6df1d4d2888f9252c764" resname="section.update.title" approved="yes">
         <source>Editing Section "%identifier%"</source>

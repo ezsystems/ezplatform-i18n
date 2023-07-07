@@ -20,12 +20,6 @@
         <source>Language '%name%' created.</source>
         <target state="translated">語言'%name%'已删除。</target>
         <note>key: language.create.success</note>
-        <alt-trans>
-          <target>語言'％name％'已創建。</target>
-        </alt-trans>
-        <alt-trans>
-          <target>已創建語言'％name％'。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8390c7c1adbff8a264583f6f060256c993023787" resname="language.delete">
         <source>Delete Language</source>
@@ -36,9 +30,6 @@
         <source>Language '%name%' removed.</source>
         <target state="translated">語言'%name%'已删除。</target>
         <note>key: language.delete.success</note>
-        <alt-trans>
-          <target>語言'％name％'已删除。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0c028c20c9b353fbd7b71bfef8b4ae3dcbd0d7e4" resname="language.disabled">
         <source>Disabled</source>

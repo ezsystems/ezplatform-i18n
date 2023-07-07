@@ -11,6 +11,51 @@
         <target state="translated">ez.section.identifier.format</target>
         <note>key: ez.section.identifier.format</note>
       </trans-unit>
+      <trans-unit id="631da4c4fb5b000ee7f5c0c422e830ca192341a6" resname="ezplatform.copy_subtree.limit_exceeded">
+        <source>Copy subtree limit exceeded. Current limit: %currentLimit%</source>
+        <target state="translated">Limite della sottostruttura di copia superato. Limite di corrente:% currentLimit%</target>
+        <note>key: ezplatform.copy_subtree.limit_exceeded</note>
+      </trans-unit>
+      <trans-unit id="cf558f546b83d94f1272929f81c64bd33d2997bc" resname="js.error.address_not_found">
+        <source>Provided address does not exist</source>
+        <target state="translated">L'indirizzo fornito non esiste</target>
+        <note>key: js.error.address_not_found</note>
+      </trans-unit>
+      <trans-unit id="3ff026ea6e244dbbf70509ebf0a71c5f46cef0e0" resname="js.error.invalid_email">
+        <source>A valid email address is required</source>
+        <target state="translated">È richiesto un indirizzo email valido</target>
+        <note>key: js.error.invalid_email</note>
+      </trans-unit>
+      <trans-unit id="5c26acfa4532917d4763c44d5b7ec8dd180b98a4" resname="js.error.invalid_file_size">
+        <source>{fieldName}: Cannot upload. File exceeds file size limit.</source>
+        <target state="translated">{fieldName}: Impossibile caricare. Il file supera il limite di dimensione del file.</target>
+        <note>key: js.error.invalid_file_size</note>
+      </trans-unit>
+      <trans-unit id="21c38818d1cb73ff54f0dc0b184d6de25058f24d" resname="js.error.invalid_url">
+        <source>A valid URL is required</source>
+        <target state="translated">È richiesto un URL valido</target>
+        <note>key: js.error.invalid_url</note>
+      </trans-unit>
+      <trans-unit id="3923eef870a213df547b7792f8ae52af887fd165" resname="js.error.not_same_passwords">
+        <source>Passwords do not match</source>
+        <target state="translated">Le password non corrispondono</target>
+        <note>key: js.error.not_same_passwords</note>
+      </trans-unit>
+      <trans-unit id="fff2e4db98c86a312a0a3fd9861781e511d24d79" resname="js.error.provide_latitude_value">
+        <source>Provide latitude value in the Latitude field</source>
+        <target state="translated">Fornisci il valore della latitudine nel campo Latitudine</target>
+        <note>key: js.error.provide_latitude_value</note>
+      </trans-unit>
+      <trans-unit id="ed724243af56a0ff1a761c6ac10bffee055c7a47" resname="js.error.provide_longitude_value">
+        <source>Provide longitude value in the Longitude field</source>
+        <target state="translated">Fornire il valore di longitudine nel campo Longitudine</target>
+        <note>key: js.error.provide_longitude_value</note>
+      </trans-unit>
+      <trans-unit id="f52d0870dd7bdbff2c2728c2b6ec708aa5cb240b" resname="validator.define_subtree_or_section_limitation">
+        <source>Define a Subtree or Section limitation</source>
+        <target state="translated">Definire una sottostruttura o una limitazione di sezione</target>
+        <note>key: validator.define_subtree_or_section_limitation</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

@@ -70,9 +70,6 @@
         <source>ezrepoforms.content.fields</source>
         <target state="translated">Polja iz sadržaja</target>
         <note>key: ezrepoforms.content.fields</note>
-        <alt-trans>
-          <target>Polja iz contenta</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>

@@ -11,21 +11,12 @@
         <target state="final">'%actualValue%' é um valor incorrecto</target>
         <note>key: '%actualValue%' is wrong value</note>
         <jms:reference-file line="32">eZ/Publish/Core/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
-        <alt-trans>
-          <target>'%actualValue%' é um valor incorreto</target>
-        </alt-trans>
-        <alt-trans>
-          <target>'%actualValue%' é o valor incorreto</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7a87971cc45ac957c7db1a4907f8e7f4325e3e32" resname="'%actualValue%' is wrong value in class '%className%'" approved="yes">
         <source>'%actualValue%' is wrong value in class '%className%'</source>
         <target state="final">'%actualValue%' é um valor incorrecto na classe '%className%'</target>
         <note>key: '%actualValue%' is wrong value in class '%className%'</note>
         <jms:reference-file line="34">eZ/Publish/Core/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
-        <alt-trans>
-          <target>'%actualValue%' é um valor incorreto na classe '%className%'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="894070fe84612fd5871c1b09bc79f85c2e17d384" resname="A value is set for non translatable field definition '%identifier%' with language '%languageCode%'" approved="yes">
         <source>A value is set for non translatable field definition '%identifier%' with language '%languageCode%'</source>
@@ -51,36 +42,24 @@
         <target state="final">Argumento '%argumentName%' é inválido: espera-se que o valor seja do tipo '%expectedType%'</target>
         <note>key: Argument '%argumentName%' is invalid: expected value to be of type '%expectedType%'</note>
         <jms:reference-file line="31">eZ/Publish/Core/Base/Exceptions/InvalidArgumentType.php</jms:reference-file>
-        <alt-trans>
-          <target>Argumento '%argumentName%' é inválido: valor é esperado ser do tipo '%expectedType%'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="77a999c48ddb299d4c8af74d195bdf44dda4883c" resname="Argument '%argumentName%' is invalid: expected value to be of type '%expectedType%', got '%actualType%'" approved="yes">
         <source>Argument '%argumentName%' is invalid: expected value to be of type '%expectedType%', got '%actualType%'</source>
         <target state="final">Argumento '%argumentName%' é inválido: espera-se que o valor seja do tipo '%expectedType%', mas é '%actualType%'</target>
         <note>key: Argument '%argumentName%' is invalid: expected value to be of type '%expectedType%', got '%actualType%'</note>
         <jms:reference-file line="33">eZ/Publish/Core/Base/Exceptions/InvalidArgumentType.php</jms:reference-file>
-        <alt-trans>
-          <target>Argumento '%argumentName%' é inválido: valor é esperado ser do tipo '%expectedType%', mas é '%actualType%'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6a5a5e4df0f09cc7587d11571aa90c31e68c15c6" resname="Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, binary file ids can not begin with a '/'" approved="yes">
         <source>Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, binary file ids can not begin with a '/'</source>
         <target state="final">Argumento 'BinaryFile::id' é inválido: '%id%' é um valor inválido, ids de ficheiros binários não podem começar por um '/'</target>
         <note>key: Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, binary file ids can not begin with a '/'</note>
         <jms:reference-file line="17">eZ/Publish/Core/IO/Exception/InvalidBinaryAbsolutePathException.php</jms:reference-file>
-        <alt-trans>
-          <target>Argumento 'BinaryFile::id' é inválido: '%id%' é um valor errado, ids de ficheiros binários não podem começar por um '/'</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0afe736d44da00b87ed3fe777775661ddf10a455" resname="Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, it does not contain prefix '%prefix%'. Is 'var_dir' config correct?" approved="yes">
         <source>Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, it does not contain prefix '%prefix%'. Is 'var_dir' config correct?</source>
         <target state="final">Argumento 'BinaryFile::id' é inválido: '%id%' é um valor inválido, pois não contém o prefixo '%prefix%'. A configuração 'var_dir' estará correcta?</target>
         <note>key: Argument 'BinaryFile::id' is invalid: '%id%' is wrong value, it does not contain prefix '%prefix%'. Is 'var_dir' config correct?</note>
         <jms:reference-file line="17">eZ/Publish/Core/IO/Exception/InvalidBinaryPrefixException.php</jms:reference-file>
-        <alt-trans>
-          <target>Argumento 'BinaryFile::id' é inválido: '%id%' é um valor errado, pois não contém o prefixo '%prefix%'. A configuração 'var_dir' estará correcta?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8967aa151e1b84f60c505163d42350eb6a96e948" resname="Content fields did not validate" approved="yes">
         <source>Content fields did not validate</source>
@@ -195,21 +174,6 @@
         <target state="final">Os espaços reservados não correspondem aos caracteres universais.</target>
         <note>key: Placeholders are not matching with wildcards.</note>
         <jms:reference-file line="102">eZ/Publish/Core/Repository/URLWildcardService.php</jms:reference-file>
-        <alt-trans>
-          <target>Os espaços reservados não correspondem aos caracteres de substituição.</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Os espaços reservados não correspondem aos caracteres de susbtituição.</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Os espaços reservados não correspondem aos wildcards.</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Os espaços reservados não estão a coincidir com os wildcards.</target>
-        </alt-trans>
-        <alt-trans>
-          <target>Os espaços reservados não coincidem com wildcards.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d750946e6e0689d003a701bf1db100b12a742c4f" resname="Provided content type does not contain ezuser field type" approved="yes">
         <source>Provided content type does not contain ezuser field type</source>

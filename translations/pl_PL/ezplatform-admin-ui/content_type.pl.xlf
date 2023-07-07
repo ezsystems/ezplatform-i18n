@@ -21,18 +21,15 @@
         <target state="final">Tworzenie nowego typu treści</target>
         <note>key: content_type.breadcrumb.create</note>
       </trans-unit>
-      <trans-unit id="7dd9e32add81dba08bfbaefaac9442a7e7dbb6ae" resname="content_type.breadcrumb.edit" approved="yes">
+      <trans-unit id="7dd9e32add81dba08bfbaefaac9442a7e7dbb6ae" resname="content_type.breadcrumb.edit">
         <source>%identifier%</source>
-        <target state="final">%identifier%</target>
+        <target state="translated">%identifier%</target>
         <note>key: content_type.breadcrumb.edit</note>
       </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container" approved="yes">
         <source>Container</source>
         <target state="final">Może zawierać podelementy</target>
         <note>key: content_type.container</note>
-        <alt-trans>
-          <target>Może posiadać elementy podrzędne</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="694d6cbecfee848cf42a300c0b310f45ece6a09b" resname="content_type.content_field_definitions" approved="yes">
         <source>Content field definitions</source>
@@ -56,16 +53,13 @@
       </trans-unit>
       <trans-unit id="d14799b2ac8854ab3f0bb9976258c3db39213d09" resname="content_type.default_availability.value" approved="yes">
         <source>{0} Not available|{1} Available</source>
-        <target state="final">{0} Dostępne|{1} Niedostępne</target>
+        <target state="final">{0} Niedostępne|{1} Dostępne</target>
         <note>key: content_type.default_availability.value</note>
       </trans-unit>
       <trans-unit id="5ebf6515da27060877064931a5ac1d5a8540e28d" resname="content_type.default_children_sorting" approved="yes">
         <source>Default field for sorting children</source>
         <target state="final">Domyślne pole do sortowania podelementów</target>
         <note>key: content_type.default_children_sorting</note>
-        <alt-trans>
-          <target>Domyślne pole używane do sortowania elementów podrzędnych</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cefc13177fd81d4c9df6f8e86eb5278fccbe5a5a" resname="content_type.default_sort" approved="yes">
         <source>Default sort order</source>
@@ -76,9 +70,6 @@
         <source>Content type '%name%' deleted.</source>
         <target state="final">Usunięto typ treści "%name%".</target>
         <note>key: content_type.delete.success</note>
-        <alt-trans>
-          <target>Typ treści "%name%" został usunięty.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f2a3cc77cdadcff8883b0022e006e24918307687" resname="content_type.description" approved="yes">
         <source>Description</source>
@@ -90,6 +81,11 @@
         <target state="final">Szkic typu treści "%name%" już istnieje i jest zablokowany przez użytkownika "%userContentName%"</target>
         <note>key: content_type.edit.error.already_exists</note>
       </trans-unit>
+      <trans-unit id="f0338ef34826caa021c41ff85413e48601af30b7" resname="content_type.edit.select_language">
+        <source>Select language</source>
+        <target state="translated">Wybierz język</target>
+        <note>key: content_type.edit.select_language</note>
+      </trans-unit>
       <trans-unit id="9eb89a2f51954babc5ff51f9060cbcda91dcf408" resname="content_type.field_definitions.modal.message" approved="yes">
         <source>Do you want to delete selected field definitions?</source>
         <target state="final">Czy chcesz usunąć zaznaczone definicje pól?</target>
@@ -99,9 +95,6 @@
         <source>Global properties</source>
         <target state="final">Właściwości ogólne</target>
         <note>key: content_type.global_properties</note>
-        <alt-trans>
-          <target>Globalne właściwości</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="238db0c5dee8ec13199b073f7cc78728f53ffa36" resname="content_type.identifier" approved="yes">
         <source>Identifier</source>
@@ -122,9 +115,6 @@
         <source>Content name pattern</source>
         <target state="final">Schemat tworzenia nazwy</target>
         <note>key: content_type.name_schema</note>
-        <alt-trans>
-          <target>Schemat budowania nazw dla tego typu treści</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="da59e6ae77cae375a30d7285970b1b2d9690049e" resname="content_type.sort_field.ascending" approved="yes">
         <source>Ascending</source>
@@ -135,9 +125,6 @@
         <source>Content ID</source>
         <target state="final">ID elementu</target>
         <note>key: content_type.sort_field.content_id</note>
-        <alt-trans>
-          <target>ID obiektu</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth" approved="yes">
         <source>Location depth</source>
@@ -188,17 +175,11 @@
         <source>Content type '%name%' updated.</source>
         <target state="final">Zaktualizowano typ treści "%name%".</target>
         <note>key: content_type.update.success</note>
-        <alt-trans>
-          <target>Typ treści "%name%" został uaktualniony.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="6ab7362c77b22ff8bc0d14eeaae8514b0a683473" resname="content_type.url_alias_schema" approved="yes">
         <source>URL alias name pattern</source>
         <target state="final">Schemat tworzenia nazwy aliasu URL</target>
         <note>key: content_type.url_alias_schema</note>
-        <alt-trans>
-          <target>Szablon aliasu URL</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="30f5ddb258e0ab8c31381ec10d9a90f7071bbf6f" resname="content_type.user_name.can_not_be_fetched" approved="yes">
         <source>another user</source>
@@ -214,9 +195,6 @@
         <source>Global properties</source>
         <target state="final">Właściwości ogólne</target>
         <note>key: content_type.view.create.global_properties</note>
-        <alt-trans>
-          <target>Globalne właściwości</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="4f63ade40ae91a9ad39e4be7b9e4f51003f1f4b3" resname="content_type.view.create.title" approved="yes">
         <source>Creating a new Content Type</source>
@@ -237,9 +215,11 @@
         <source>Global properties</source>
         <target state="final">Właściwości ogólne</target>
         <note>key: content_type.view.edit.global_properties</note>
-        <alt-trans>
-          <target>Globalne właściwości</target>
-        </alt-trans>
+      </trans-unit>
+      <trans-unit id="36fb0205d165f72c996205435b5a06ba42695bb6" resname="content_type.view.edit.notranslatable_fields_disabled">
+        <source>Some of the fields are disabled when translating a Content Type. To modify them, please edit the Content Type in the main language</source>
+        <target state="translated">Niektóre pola są wyłączone podczas tłumaczenia typu treści. Aby je zmodyfikować, edytuj typ treści w głównym języku</target>
+        <note>key: content_type.view.edit.notranslatable_fields_disabled</note>
       </trans-unit>
       <trans-unit id="7eee653a60490713df6bcf4b847853020b79a1ee" resname="content_type.view.edit.title" approved="yes">
         <source>Editing Content Type: %name%</source>
@@ -285,9 +265,6 @@
         <source>Creating a new Content Type Group</source>
         <target state="final">Tworzenie nowej grupy typów treści</target>
         <note>key: content_type_group.breadcrumb.add</note>
-        <alt-trans>
-          <target>Tworzenie nowej grupy dla typów treści</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="20ee2fba1b6d560dd296bbe696975e92b78ce578" resname="content_type_group.breadcrumb.edit" approved="yes">
         <source>Editing Content Type Group "%identifier%"</source>
@@ -318,9 +295,6 @@
         <source>Content type group '%name%' created.</source>
         <target state="final">Utworzono grupę "%name%".</target>
         <note>key: content_type_group.create.success</note>
-        <alt-trans>
-          <target>Grupa "%name%" została utworzona.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="eec79e4a9109f28892797768f085eab39eaedc31" resname="content_type_group.delete.submit" approved="yes">
         <source>Delete</source>
@@ -331,9 +305,6 @@
         <source>Content type group '%name%' deleted.</source>
         <target state="final">Usunięto grupę "%name%".</target>
         <note>key: content_type_group.delete.success</note>
-        <alt-trans>
-          <target>Grupa "%name%" została usunięta.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="09f63694559a9149fb1297e33be843cf54788b95" resname="content_type_group.modal.message" approved="yes">
         <source>Do you want to delete Content Type Group?</source>
@@ -354,17 +325,11 @@
         <source>Content type group '%name%' updated.</source>
         <target state="final">Zaktualizowano grupę "%name%".</target>
         <note>key: content_type_group.update.success</note>
-        <alt-trans>
-          <target>Grupa "%name%" została uaktualniona.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1bd4c745d76ae79ef7e95baea27281fff04e77f6" resname="content_type_group.view.add.title" approved="yes">
         <source>Creating a new Content Type Group</source>
         <target state="final">Tworzenie nowej grupy typów treści</target>
         <note>key: content_type_group.view.add.title</note>
-        <alt-trans>
-          <target>Tworzenie nowej grupy dla typów treści</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="1b6ebace1ed08d4e8de6a84a5523e19b53dfd443" resname="content_type_group.view.edit.title" approved="yes">
         <source>Editing Content Type Group "%identifier%"</source>
@@ -375,9 +340,6 @@
         <source>Create a Content Type Group</source>
         <target state="final">Utwórz nową grupę typów treści</target>
         <note>key: content_type_group.view.list.action.add</note>
-        <alt-trans>
-          <target>Utwórz nową grupę dla typów treści</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ceb2e962eccd99d66a600df886fb1ff3253c2f16" resname="content_type_group.view.list.action.delete" approved="yes">
         <source>Delete Content Type Group</source>
@@ -393,9 +355,6 @@
         <source>Content Types count</source>
         <target state="final">Liczba typów treści</target>
         <note>key: content_type_group.view.list.column.content_types_count</note>
-        <alt-trans>
-          <target>Ilość typów treści</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="cd462ce30cd4d0b21393e24ca2c9e974369c1f57" resname="content_type_group.view.list.column.id" approved="yes">
         <source>ID</source>
@@ -441,6 +400,16 @@
         <source>Delete</source>
         <target state="final">Usuń</target>
         <note>key: modal.delete</note>
+      </trans-unit>
+      <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
+        <source>Translations</source>
+        <target state="translated">Tłumaczenia</target>
+        <note>key: tab.name.translations</note>
+      </trans-unit>
+      <trans-unit id="eb3b504a0281951f15692e888226579aa99bb512" resname="tab.name.view">
+        <source>View</source>
+        <target state="translated">Widok</target>
+        <note>key: tab.name.view</note>
       </trans-unit>
       <trans-unit id="3e9deeb426f08a404990a6926d70558955272593" resname="yes_no" approved="yes">
         <source>{0}No|{1}Yes</source>

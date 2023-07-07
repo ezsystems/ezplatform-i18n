@@ -10,9 +10,6 @@
         <source>Versions removed from '%name%' content.</source>
         <target state="final">Wersje usunięte z elementu '%name%'.</target>
         <note>key: version.delete.success</note>
-        <alt-trans>
-          <target>Wersje usunięte z treści '%name%'.</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>

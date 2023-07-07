@@ -106,6 +106,16 @@
         <target state="translated">विवरण</target>
         <note>key: field_definition.description</note>
       </trans-unit>
+      <trans-unit id="60b0ee9222a502c38adf1be704d4984564190e8e" resname="field_definition.ezauthor.default_author">
+        <source>Default value</source>
+        <target state="translated">डिफ़ॉल्ट मूल्य</target>
+        <note>key: field_definition.ezauthor.default_author</note>
+      </trans-unit>
+      <trans-unit id="837d1179e58011e51733e1420a6f868f94fb9b16" resname="field_definition.ezauthor.default_user_empty">
+        <source>Empty</source>
+        <target state="translated">खाली</target>
+        <note>key: field_definition.ezauthor.default_user_empty</note>
+      </trans-unit>
       <trans-unit id="5ae9eea988dc249d137d285ec360214b238efc26" resname="field_definition.ezboolean.default_value">
         <source>Default value</source>
         <target state="translated">डिफ़ॉल्ट मूल्य</target>

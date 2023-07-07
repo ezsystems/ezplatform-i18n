@@ -20,17 +20,11 @@
         <source>Language '%name%' created.</source>
         <target state="translated">Språk '%name%' opprettet.</target>
         <note>key: language.create.success</note>
-        <alt-trans>
-          <target>Språk '%name%' skapt.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="8390c7c1adbff8a264583f6f060256c993023787" resname="language.delete">
         <source>Delete Language</source>
         <target state="translated">Slett språk</target>
         <note>key: language.delete</note>
-        <alt-trans>
-          <target>Slettet språk</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="7c8fcdc1c11d3c1cf2a4380f440ef3d157b68c12" resname="language.delete.success">
         <source>Language '%name%' removed.</source>
@@ -51,9 +45,6 @@
         <source>Editing Language "%language%"</source>
         <target state="translated">Redigerer språk "%language%"</target>
         <note>key: language.edit.identifier</note>
-        <alt-trans>
-          <target>Redigerer språket "%language%"</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="065fdff561c25266ec49bbdaf8c5d0bdd6e9dd7f" resname="language.enabled">
         <source>Enabled</source>

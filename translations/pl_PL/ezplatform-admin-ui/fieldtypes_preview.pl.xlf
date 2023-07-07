@@ -16,6 +16,11 @@
         <target state="final">tak</target>
         <note>key: ezboolean.yes</note>
       </trans-unit>
+      <trans-unit id="a871dec7f18c06b9061bc2aae9af1aafe1ad1600" resname="ezdatetime.useseconds.enabled">
+        <source>`The date format is based on your user preferences and does not include seconds even if the field allows it`</source>
+        <target state="translated">`Format daty jest oparty na Twoich ustawieniach użytkownika i nie zawiera sekund, nawet jeśli pole na to pozwala`</target>
+        <note>key: ezdatetime.useseconds.enabled</note>
+      </trans-unit>
       <trans-unit id="bf1525899659fa5ea6c18aa4bf63d596fecbf97e" resname="ezgmaplocation.address" approved="yes">
         <source>Address</source>
         <target state="final">Adres</target>
@@ -30,9 +35,6 @@
         <source>Location properties</source>
         <target state="final">Właściwości lokalizacji</target>
         <note>key: ezgmaplocation.location_properties</note>
-        <alt-trans>
-          <target>Włąściwości lokalizacji</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="ba4a253dc02df12654dabc50ef81b428ee888bcf" resname="ezgmaplocation.longitude" approved="yes">
         <source>Longitude</source>
@@ -74,6 +76,46 @@
         <target state="final">%width%px szerokości - %height%px wysokości</target>
         <note>key: ezimage.width_and_height</note>
       </trans-unit>
+      <trans-unit id="85038ddf9e38bbf3da26c38adff609012d65a53a" resname="ezimageasset.alternative_text">
+        <source>Alternative text</source>
+        <target state="translated">Alternatywny opis</target>
+        <note>key: ezimageasset.alternative_text</note>
+      </trans-unit>
+      <trans-unit id="6ccdfa3f93ea5a6c0c17a7a9f6fe8fac4d5b6926" resname="ezimageasset.file_name">
+        <source>File name</source>
+        <target state="translated">Nazwa pliku</target>
+        <note>key: ezimageasset.file_name</note>
+      </trans-unit>
+      <trans-unit id="776e01f9a87ec54ddd743494a906d859643aca68" resname="ezimageasset.image_file_properties">
+        <source>Image file properties</source>
+        <target state="translated">Właściwości pliku obrazu</target>
+        <note>key: ezimageasset.image_file_properties</note>
+      </trans-unit>
+      <trans-unit id="dd0de6b207b703b96d015f309ffa8d53d32f64bf" resname="ezimageasset.master_dimensions">
+        <source>Master dimensions</source>
+        <target state="translated">Wymiary oryginału</target>
+        <note>key: ezimageasset.master_dimensions</note>
+      </trans-unit>
+      <trans-unit id="c63a925d645b5365654bfaa2e5ac129280388bc0" resname="ezimageasset.not_available">
+        <source>Image asset is not available (related content has been deleted or insufficient permissions)</source>
+        <target state="translated">Zasób obrazu nie jest dostępny (powiązana treść została usunięta lub nie posiadasz odpowiednich uprawnień)</target>
+        <note>key: ezimageasset.not_available</note>
+      </trans-unit>
+      <trans-unit id="9d8611731543740ff64e9e1a69f9c18812301879" resname="ezimageasset.ratio">
+        <source>Ratio</source>
+        <target state="translated">Proporcje</target>
+        <note>key: ezimageasset.ratio</note>
+      </trans-unit>
+      <trans-unit id="b79e2f923b29d82c28e5eaff5475d2edee6d7826" resname="ezimageasset.size">
+        <source>Size</source>
+        <target state="translated">Rozmiar</target>
+        <note>key: ezimageasset.size</note>
+      </trans-unit>
+      <trans-unit id="06c54d9e5476af34defb52323b7b1ebacce6a38c" resname="ezimageasset.width_and_height">
+        <source>%width%px Width - %height%px Height</source>
+        <target state="translated">%width%px szerokości - %height%px wysokości</target>
+        <note>key: ezimageasset.width_and_height</note>
+      </trans-unit>
       <trans-unit id="e371d4573dda857ef4a58cebd2420f87992b8864" resname="ezmedia.auto_play" approved="yes">
         <source>Auto play</source>
         <target state="final">Autoodtwarzanie</target>
@@ -98,9 +140,6 @@
         <source>Loop</source>
         <target state="final">Zapętlenie</target>
         <note>key: ezmedia.loop</note>
-        <alt-trans>
-          <target>Pętla</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="c351fa9d7e7c134199f7f49e0cd010dedafb4e13" resname="ezmedia.no" approved="yes">
         <source>No</source>
@@ -116,9 +155,6 @@
         <source>Type</source>
         <target state="final">Typ</target>
         <note>key: ezmedia.type</note>
-        <alt-trans>
-          <target>Rodzaj bazy danych</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="207f2af6642a19b3e2ee254f82bd71ae2351d6f0" resname="ezmedia.video_file_properties" approved="yes">
         <source>Video file properties</source>
@@ -149,9 +185,6 @@
         <source>Single relation</source>
         <target state="final">Pojedyncze powiązanie</target>
         <note>key: ezobjectrelation.single_relation</note>
-        <alt-trans>
-          <target>Pojedyncza relacja</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="61c7580e3e4d4547527322089f577eca2ff1ea5b" resname="ezobjectrelationlist.content_type" approved="yes">
         <source>Content Type</source>
@@ -167,14 +200,16 @@
         <source>Multiple relations</source>
         <target state="final">Wiele powiązań</target>
         <note>key: ezobjectrelationlist.multiple_relations</note>
-        <alt-trans>
-          <target>Wiele relacji</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="44d2ac9ae83f6b73fa8f61fad66a77d76d2159f0" resname="ezobjectrelationlist.name" approved="yes">
         <source>Name</source>
         <target state="final">Nazwa</target>
         <note>key: ezobjectrelationlist.name</note>
+      </trans-unit>
+      <trans-unit id="eb451c657d2bd24b90aaea1619ba0ffb33ba52cc" resname="ezuser.email">
+        <source>Email</source>
+        <target state="translated">Email</target>
+        <note>key: ezuser.email</note>
       </trans-unit>
       <trans-unit id="09acf9d3220515cf63f284525c54ed3f88b7a396" resname="ezuser.enabled" approved="yes">
         <source>Enabled</source>
@@ -185,6 +220,21 @@
         <source>No</source>
         <target state="final">Nie</target>
         <note>key: ezuser.no</note>
+      </trans-unit>
+      <trans-unit id="7db7e702a32f5265b8ea0db196b4a41ea5ea6988" resname="ezuser.password_already_expired">
+        <source>Password has expired</source>
+        <target state="translated">Hasło wygasło</target>
+        <note>key: ezuser.password_already_expired</note>
+      </trans-unit>
+      <trans-unit id="dbfe48152c3022f68affdb8798eaa36f07dcb147" resname="ezuser.password_expires_in">
+        <source><![CDATA[Current password <b>expires in %count% days</b>]]></source>
+        <target state="translated"><![CDATA[Aktualne hasło <b>wygasa za %count% dni</b>]]></target>
+        <note>key: ezuser.password_expires_in</note>
+      </trans-unit>
+      <trans-unit id="7771c9e2b90e9636e8fbb858cf7e5204ada687e9" resname="ezuser.password_expires_today">
+        <source><![CDATA[Current password <b>expires today</b>]]></source>
+        <target state="translated"><![CDATA[Aktualne hasło <b>wygasa dzisiaj</b>]]></target>
+        <note>key: ezuser.password_expires_today</note>
       </trans-unit>
       <trans-unit id="fc4b6b718b2cee2f8a91703c070fd69756d5c4cd" resname="ezuser.username" approved="yes">
         <source>Username</source>

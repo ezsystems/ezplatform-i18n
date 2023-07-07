@@ -210,9 +210,6 @@
         <target state="translated">使用者無權訪問 "%function%"%module% "</target>
         <note>key: User does not have access to '%function%' '%module%'</note>
         <jms:reference-file line="38">eZ/Publish/Core/Base/Exceptions/UnauthorizedException.php</jms:reference-file>
-        <alt-trans>
-          <target>使用者無法訪問 "%function%"%module% "</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="649224015306dff4831eceb63d49e66d7c0c4f1b" resname="User does not have access to '%function%' '%module%' with: %with%'">
         <source>User does not have access to '%function%' '%module%' with: %with%'</source>
@@ -235,9 +232,6 @@
         <source>expected value to be of type '%expectedType%', got '%actualType%'</source>
         <target state="translated">預期值為“%expectedType%”類型，實際為“%actualType%”</target>
         <note>key: expected value to be of type '%expectedType%', got '%actualType%'</note>
-        <alt-trans>
-          <target>預期值為“％expectedType％”類型，實際為“％actualType％”</target>
-        </alt-trans>
       </trans-unit>
     </body>
   </file>

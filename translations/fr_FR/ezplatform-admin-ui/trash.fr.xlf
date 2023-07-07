@@ -35,9 +35,6 @@
         <source>Trash is empty. Any content item you send to trash will end up here.</source>
         <target state="translated">La corbeille est vide. Tout les éléments de contenu que vous envoyez dans la corbeille apparaîtront ici.</target>
         <note>key: trash.empty</note>
-        <alt-trans>
-          <target>La corbeille est vide. Tout élément de contenu que vous envoyez dans la corbeille apparaîtra ici.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="17b503b33de4f7e60958b7824dd959dd0144ae13" resname="trash.empty.success">
         <source>Trash empty.</source>

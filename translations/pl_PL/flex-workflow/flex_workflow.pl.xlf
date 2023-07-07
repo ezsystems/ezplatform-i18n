@@ -30,17 +30,11 @@
         <source>Type your message...</source>
         <target state="final">Wpisz wiadomość...</target>
         <note>key: content.review.message_placeholder</note>
-        <alt-trans>
-          <target>Podaj treść wiadomości...</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="b19cf3651ea59d72545d9e67ccdcd5c4241a0681" resname="content.review.request" approved="yes">
         <source>Content review request</source>
         <target state="final">Prośba o zatwierdzenie treści</target>
         <note>key: content.review.request</note>
-        <alt-trans>
-          <target>Prośba zatwierdzenia treści</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e476d7b010b290ee024c243ce41a6935c89f1f28" resname="content.review.reviewer_placeholder" approved="yes">
         <source>Type to search</source>
@@ -56,9 +50,6 @@
         <source>Hi %receiver_firstname%,</source>
         <target state="final">Witaj, %receiver_firstname%,</target>
         <note>key: email.greeting</note>
-        <alt-trans>
-          <target>Cześć %receiver_firstname%,</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="bec9c3c6dd19267375283c7e65cdec4b05a52e0c" resname="email.review_button" approved="yes">
         <source>Review Content</source>
@@ -84,17 +75,11 @@
         <source>Cannot send content for review: %reason%</source>
         <target state="final">Nie można wysłać elementu do zatwierdzenia: %reason%</target>
         <note>key: flex_workflow.error.send_to_review</note>
-        <alt-trans>
-          <target>Nie można wysłać treście do zatwierdzenia: %reason%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="dc6d3555eccf09627c710b91bee7a2115ff26e78" resname="flex_workflow.success.send_to_review" approved="yes">
         <source>Content sent for review.</source>
         <target state="final">Element wysłany do zatwierdzenia.</target>
         <note>key: flex_workflow.success.send_to_review</note>
-        <alt-trans>
-          <target>Treść wysłana do zatwierdzenia.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="06a48339bcee7f4409c1a1a58e1cbf57927783d3" resname="menu.flex_workflow" approved="yes">
         <source>Send for review</source>

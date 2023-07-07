@@ -10,9 +10,6 @@
         <source>No</source>
         <target state="translated">否</target>
         <note>key: ezboolean.no</note>
-        <alt-trans>
-          <target> 否</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="dfb5fd4a5dec38539847d92bb5e8417c5b82b96a" resname="ezboolean.yes">
         <source>yes</source>
@@ -33,9 +30,6 @@
         <source>Latitude</source>
         <target state="translated">緯度</target>
         <note>key: ezgmaplocation.latitude</note>
-        <alt-trans>
-          <target>緯度:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="38022a4ef42d878eb38c71537fdc4c72b5fbb989" resname="ezgmaplocation.location_properties">
         <source>Location properties</source>
@@ -81,9 +75,6 @@
         <source>%width%px Width - %height%px Height</source>
         <target state="translated">寬%width%px - 高%height%px</target>
         <note>key: ezimage.width_and_height</note>
-        <alt-trans>
-          <target>寬％width％px - 高%height%px</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="85038ddf9e38bbf3da26c38adff609012d65a53a" resname="ezimageasset.alternative_text">
         <source>Alternative text</source>
@@ -124,9 +115,6 @@
         <source>%width%px Width - %height%px Height</source>
         <target state="translated">寬%width%px - 高%height%px</target>
         <note>key: ezimageasset.width_and_height</note>
-        <alt-trans>
-          <target>寬％width％px - 高%height%px</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e371d4573dda857ef4a58cebd2420f87992b8864" resname="ezmedia.auto_play">
         <source>Auto play</source>

@@ -11,9 +11,6 @@
         <target state="translated">請輸入登入名稱或電子郵件</target>
         <note>key: Enter login or email</note>
         <jms:reference-file line="18">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>請輸入用戶名或電子郵件</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="570591c060a999e9ab1592763c74d881b7654ee1" resname="Enter password">
         <source>Enter password</source>
@@ -27,9 +24,6 @@
         <note>key: Login</note>
         <jms:reference-file line="32">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
         <jms:reference-file line="6">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
-        <alt-trans>
-          <target>用戶名</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="be81ab98cb9ccf753975f50fa70cd32581a821fc" resname="Password:">
         <source>Password:</source>

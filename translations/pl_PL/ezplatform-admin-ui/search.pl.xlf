@@ -155,9 +155,6 @@
         <source>Try more general keywords.</source>
         <target state="final">Spróbuj użyć bardziej ogólnych słów kluczowych.</target>
         <note>key: search.tips.more_general_keywords</note>
-        <alt-trans>
-          <target>Spróbuj więcej ogólnikowych słów kluczowych.</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="0c9866a19fd5d3074bdb05b339df05b7c05a5661" resname="search.type" approved="yes">
         <source>Content Type</source>

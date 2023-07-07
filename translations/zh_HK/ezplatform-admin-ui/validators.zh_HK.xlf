@@ -70,9 +70,6 @@
         <source>A valid email address is required</source>
         <target state="translated">需要有效的電子郵箱地址</target>
         <note>key: js.error.invalid_email</note>
-        <alt-trans>
-          <target>需要一個有效的電子郵箱地址</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="5c26acfa4532917d4763c44d5b7ec8dd180b98a4" resname="js.error.invalid_file_size">
         <source>{fieldName}: Cannot upload. File exceeds file size limit.</source>

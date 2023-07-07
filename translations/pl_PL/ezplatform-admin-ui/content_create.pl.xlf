@@ -10,9 +10,6 @@
         <source>Creating - %contentTypeName% in %languageName%</source>
         <target state="final">Tworzysz %contentTypeName% w języku %languageName%</target>
         <note>key: creating_in_language</note>
-        <alt-trans>
-          <target>Tworzenie - %contentTypeName% w języku %languageName%</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="32d50c07b2eacd6fa72742ff1c1f5963c26a251d" resname="new_content_item" approved="yes">
         <source>New %contentType%</source>

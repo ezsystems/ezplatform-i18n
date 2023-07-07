@@ -20,9 +20,6 @@
         <source>Content type name cannot be blank and cannot exceed 255 characters.</source>
         <target state="translated">コンテンツタイプ名は空白および 255 文字を超えることはできません。</target>
         <note>key: ez.content_type.names</note>
-        <alt-trans>
-          <target>コンテンツタイプ名は、空白および 255 文字を超えることはできません。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="95f7490a739fd599a8d1d8f2ddec862744a71faa" resname="ez.field_definition.descriptions">
         <source>Field definition description cannot exceed 255 characters.</source>

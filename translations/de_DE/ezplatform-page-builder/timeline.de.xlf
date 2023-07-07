@@ -11,6 +11,26 @@
         <target state="translated">Zurück zur aktuellen Zeit</target>
         <note>key: back_to_current_time.info.text</note>
       </trans-unit>
+      <trans-unit id="258c0c6baf5618d7e07897b16e391bbfb59096d9" resname="back_to_current_time.warning.text">
+        <source>Previewing content in the future</source>
+        <target state="translated">Vorschau von Inhalten in der Zukunft</target>
+        <note>key: back_to_current_time.warning.text</note>
+      </trans-unit>
+      <trans-unit id="163cc65eb485b6e6ea486543f97f53e24d948b6f" resname="events_table.date.header">
+        <source>Date</source>
+        <target state="translated">Datum</target>
+        <note>key: events_table.date.header</note>
+      </trans-unit>
+      <trans-unit id="bf431aa92c86e5f7ea95bbb43a667b847d58b611" resname="events_table.event.header">
+        <source>Event</source>
+        <target state="translated">Veranstaltung</target>
+        <note>key: events_table.event.header</note>
+      </trans-unit>
+      <trans-unit id="ee97caad08c2e3308f12b9eb54f8e5e3464df2ab" resname="events_table.title">
+        <source>Upcoming scheduled events</source>
+        <target state="translated">Bevorstehende geplante Veranstaltungen</target>
+        <note>key: events_table.title</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>

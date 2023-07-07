@@ -70,9 +70,6 @@
         <source>Items restored under '%location%' location.</source>
         <target state="translated">內容項還原到'%location%'位置。</target>
         <note>key: trash.restore_new_location.success</note>
-        <alt-trans>
-          <target>內容項還原到'％location％'位置。</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d4e8ddb6a84d9ca3a3b39485e9b7c5ef2860d879" resname="trash.restore_original_location.success">
         <source>Items restored under their original location.</source>

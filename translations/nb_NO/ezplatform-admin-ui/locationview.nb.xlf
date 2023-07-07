@@ -240,9 +240,6 @@
         <source>Related content (content items used by %contentName%)</source>
         <target state="translated">Relatert innhold (innholdselementer som brukes av %contentName%)</target>
         <note>key: tab.relations.related_content</note>
-        <alt-trans>
-          <target>Relatert innhold (innholdselementer brukes av %contentName%)</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="797eb29381132df5a71378b71b3237cf9a063b5c" resname="tab.relations.reverse_relations">
         <source>Reverse relations (content items using %contentName%)</source>

@@ -305,9 +305,6 @@
         <source>Select a language for your new translation</source>
         <target state="final">Válassz nyelvet az új fordításhoz</target>
         <note>key: tab.translations.add.language</note>
-        <alt-trans>
-          <target>Válassz nyelvet az új fordításhoz:</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="2d1ceec2bfb85db323e21e358b6be6aad547e1d0" resname="tab.translations.add.title" approved="yes">
         <source>Create new translation</source>

@@ -21,11 +21,6 @@
         <target state="translated">Oppretter en ny innholdstype</target>
         <note>key: content_type.breadcrumb.create</note>
       </trans-unit>
-      <trans-unit id="7dd9e32add81dba08bfbaefaac9442a7e7dbb6ae" resname="content_type.breadcrumb.edit">
-        <source>%identifier%</source>
-        <target state="translated">%identifier%</target>
-        <note>key: content_type.breadcrumb.edit</note>
-      </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
         <target state="translated">Beholder</target>
@@ -45,9 +40,6 @@
         <source>Default content availability</source>
         <target state="translated">Standard språk tilgjengelighet for innhold</target>
         <note>key: content_type.default_availability</note>
-        <alt-trans>
-          <target>Standard tilgjengelighet for innhold</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="3b3fc626a669a5462ec9fa7c94280a3573d8b106" resname="content_type.default_availability.help">
         <source>Default availability in primary language, if translation is absent</source>

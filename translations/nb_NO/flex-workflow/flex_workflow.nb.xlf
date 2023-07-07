@@ -45,9 +45,6 @@
         <source>Send for review</source>
         <target state="translated">Send for gjennomgang</target>
         <note>key: content.review.send_for_review</note>
-        <alt-trans>
-          <target>Send for gjennomsyn</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="a5d7d2276bbfe70fc88f354d03a89fe4cd92bbd3" resname="email.greeting">
         <source>Hi %receiver_firstname%,</source>

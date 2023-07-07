@@ -50,9 +50,6 @@
         <source>Policy type</source>
         <target state="translated">ポリシーの種別</target>
         <note>key: role.policy.type</note>
-        <alt-trans>
-          <target>ポリシータイプ</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="f807a08e0f2e4780d2d54ed57e5c88bb5c937f49" resname="role.remove_draft">
         <source>Cancel</source>

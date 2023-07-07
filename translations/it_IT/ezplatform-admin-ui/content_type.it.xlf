@@ -11,6 +11,11 @@
         <target state="translated">Modifica</target>
         <note>key: content_type.action.edit</note>
       </trans-unit>
+      <trans-unit id="0aef83746d192c9b507ecabebe250aeb684cc210" resname="content_type.breadcrumb.create">
+        <source>Creating a new Content Type</source>
+        <target state="translated">Creare un nuovo tipo di contenuto</target>
+        <note>key: content_type.breadcrumb.create</note>
+      </trans-unit>
       <trans-unit id="a9206d413d4ca7266dace54fde2e1f8d85a4d557" resname="content_type.container">
         <source>Container</source>
         <target state="translated">Contenitore</target>
@@ -81,6 +86,11 @@
         <target state="translated">Ascendente</target>
         <note>key: content_type.sort_field.ascending</note>
       </trans-unit>
+      <trans-unit id="c699d43b72ab990a33d92d85bc5c773078d8c62d" resname="content_type.sort_field.content_id">
+        <source>Content ID</source>
+        <target state="translated">Id Contenuto</target>
+        <note>key: content_type.sort_field.content_id</note>
+      </trans-unit>
       <trans-unit id="5149e0146059487622a9f1ebf3c843b8a020db33" resname="content_type.sort_field.depth">
         <source>Location depth</source>
         <target state="translated">Profondità del percorso</target>
@@ -90,6 +100,11 @@
         <source>Descending</source>
         <target state="translated">Discendente</target>
         <note>key: content_type.sort_field.descending</note>
+      </trans-unit>
+      <trans-unit id="afb48eb0ff69f32e95393be9247ac7ba40d61142" resname="content_type.sort_field.location_id">
+        <source>Location ID</source>
+        <target state="translated">Id Posizione</target>
+        <note>key: content_type.sort_field.location_id</note>
       </trans-unit>
       <trans-unit id="187a5f274b61172d6e478830081210a75b9f916d" resname="content_type.sort_field.location_path">
         <source>Location path</source>
@@ -126,6 +141,11 @@
         <target state="translated">Patter per l'URL alias</target>
         <note>key: content_type.url_alias_schema</note>
       </trans-unit>
+      <trans-unit id="30f5ddb258e0ab8c31381ec10d9a90f7071bbf6f" resname="content_type.user_name.can_not_be_fetched">
+        <source>another user</source>
+        <target state="translated">un altro utente</target>
+        <note>key: content_type.user_name.can_not_be_fetched</note>
+      </trans-unit>
       <trans-unit id="56a9f26e930ab0493fc9cb9609318ea699cf8b76" resname="content_type.view.create.content_field_definitions">
         <source>Content field definitions</source>
         <target state="translated">Definizione dei field di contenuto</target>
@@ -136,6 +156,11 @@
         <target state="translated">Global Properties</target>
         <note>key: content_type.view.create.global_properties</note>
       </trans-unit>
+      <trans-unit id="4f63ade40ae91a9ad39e4be7b9e4f51003f1f4b3" resname="content_type.view.create.title">
+        <source>Creating a new Content Type</source>
+        <target state="translated">Creare un nuovo tipo di contenuto</target>
+        <note>key: content_type.view.create.title</note>
+      </trans-unit>
       <trans-unit id="94367a951b897bc2964d0c45286b560c59ebb996" resname="content_type.view.edit.content_field_definitions">
         <source>Content field definitions</source>
         <target state="translated">Definizione dei field di contenuto</target>
@@ -145,6 +170,16 @@
         <source>Global properties</source>
         <target state="translated">Global Properties</target>
         <note>key: content_type.view.edit.global_properties</note>
+      </trans-unit>
+      <trans-unit id="803a61fc8cf4e7bdfcf27432bb35e379a4971134" resname="content_type.view.list.action.add">
+        <source>Create a Content Type</source>
+        <target state="translated">Crea un tipo di contenuto</target>
+        <note>key: content_type.view.list.action.add</note>
+      </trans-unit>
+      <trans-unit id="c3287b9fccc0b54216e50ba02e3d72e17cc1c92e" resname="content_type.view.list.action.delete">
+        <source>Delete Content Type</source>
+        <target state="translated">Elimina Tipo Di Contenuto</target>
+        <note>key: content_type.view.list.action.delete</note>
       </trans-unit>
       <trans-unit id="bef02fc3d41e74bf002af93b413a2a203a04db1a" resname="content_type.view.list.column.id">
         <source>ID</source>
@@ -166,6 +201,16 @@
         <target state="translated">Etichetta per il campo</target>
         <note>key: content_type.view.list.column.name</note>
       </trans-unit>
+      <trans-unit id="83a16866c8ff14a4966553088657aafbb9db8edb" resname="content_type_group.breadcrumb.list">
+        <source>Content Types</source>
+        <target state="translated">Tipi Di Contenuto</target>
+        <note>key: content_type_group.breadcrumb.list</note>
+      </trans-unit>
+      <trans-unit id="541e02854f7e561d84637ce99ec6fd6e8404bce4" resname="content_type_group.breadcrumb.view">
+        <source>%identifier%</source>
+        <target state="translated">%identifier%</target>
+        <note>key: content_type_group.breadcrumb.view</note>
+      </trans-unit>
       <trans-unit id="e7cbc2b974608f280aa2b412d4c7836c7a56946d" resname="content_type_group.create.name">
         <source>Name</source>
         <target state="translated">Etichetta per il campo</target>
@@ -186,6 +231,11 @@
         <target state="translated">Etichetta per il campo</target>
         <note>key: content_type_group.update.name</note>
       </trans-unit>
+      <trans-unit id="d44e2ddf0ee9d2e6fcb0b4f2c49a2b579d629588" resname="content_type_group.update.submit">
+        <source>Update</source>
+        <target state="translated">Aggiorna</target>
+        <note>key: content_type_group.update.submit</note>
+      </trans-unit>
       <trans-unit id="e078a8733eac84a6f85ccb7883df2767d357528e" resname="content_type_group.view.list.action.edit">
         <source>Edit</source>
         <target state="translated">Modifica</target>
@@ -201,6 +251,26 @@
         <target state="translated">Etichetta per il campo</target>
         <note>key: content_type_group.view.list.column.identifier</note>
       </trans-unit>
+      <trans-unit id="1769b5258d896d9ccb207c09e04534ce9a01c571" resname="content_type_group.view.view.title">
+        <source>%identifier%</source>
+        <target state="translated">%identifier%</target>
+        <note>key: content_type_group.view.view.title</note>
+      </trans-unit>
+      <trans-unit id="62ac918fce5389cd868b988e65b4ab96477a1344" resname="location_update_form.sort_field">
+        <source>Sort field</source>
+        <target state="translated">Campo di ordinamento</target>
+        <note>key: location_update_form.sort_field</note>
+      </trans-unit>
+      <trans-unit id="7d29fb5b1206bd3313bd2eb6c078ab72c244545a" resname="location_update_form.sort_order">
+        <source>Sort order</source>
+        <target state="translated">Ordinamento</target>
+        <note>key: location_update_form.sort_order</note>
+      </trans-unit>
+      <trans-unit id="2bb23a852a2a16458d2dad6931debc447564dff2" resname="location_update_form.update">
+        <source>Update</source>
+        <target state="translated">Aggiorna</target>
+        <note>key: location_update_form.update</note>
+      </trans-unit>
       <trans-unit id="7fe072f41348fb097b6bb018eec4f1b1bc9cffc3" resname="modal.cancel">
         <source>Cancel</source>
         <target state="translated">Annulla</target>
@@ -210,6 +280,16 @@
         <source>Delete</source>
         <target state="translated">Cancella</target>
         <note>key: modal.delete</note>
+      </trans-unit>
+      <trans-unit id="0b83b391386f47130b2d3ac1869fe27aa8c45fb7" resname="tab.name.translations">
+        <source>Translations</source>
+        <target state="translated">Traduzioni</target>
+        <note>key: tab.name.translations</note>
+      </trans-unit>
+      <trans-unit id="eb3b504a0281951f15692e888226579aa99bb512" resname="tab.name.view">
+        <source>View</source>
+        <target state="translated">Visualizza</target>
+        <note>key: tab.name.view</note>
       </trans-unit>
     </body>
   </file>

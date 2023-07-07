@@ -20,9 +20,6 @@
         <source>Remove</source>
         <target state="final">Eltávolítás</target>
         <note>key: anchor_edit.btn.remove.title</note>
-        <alt-trans>
-          <target>Eltávolít</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="e3cac876bf40ad24c9f0a7c272ca0564c2d6c901" resname="anchor_edit.btn.save.title" approved="yes">
         <source>Save</source>
@@ -113,9 +110,6 @@
         <source>Select another image item</source>
         <target state="final">Válassz újabb elemet</target>
         <note>key: image_update_btn.label</note>
-        <alt-trans>
-          <target>Válassz másik elemet</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit id="d8edff94c5ba9f6148382057d71339ba75bc3903" resname="image_update_btn.udw.title" approved="yes">
         <source>Select an image to embed</source>
