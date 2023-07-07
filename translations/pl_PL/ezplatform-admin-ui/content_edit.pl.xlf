@@ -16,6 +16,11 @@
         <target state="final">Treść opublikowano.</target>
         <note>key: content.published.success</note>
       </trans-unit>
+      <trans-unit id="669edeb37bec7cf4ec99288b90b02ba65e84b4cf" resname="errors.in.the.form">
+        <source>Cannot save the form. Check required Fields or validation errors.</source>
+        <target state="translated">Nie można zapisać formularza. Sprawdź wymagane pola lub błędy weryfikacji.</target>
+        <note>key: errors.in.the.form</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
