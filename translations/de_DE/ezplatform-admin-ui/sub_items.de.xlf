@@ -186,6 +186,16 @@
         <target state="translated">Bearbeiten</target>
         <note>key: edit_item_btn.label</note>
       </trans-unit>
+      <trans-unit id="0f2106150fc552b94658eee2125a4c4680f3564c" resname="hide_locations_btn.label">
+        <source>Hide selected Locations</source>
+        <target state="translated">Ausgewählte Orte ausblenden</target>
+        <note>key: hide_locations_btn.label</note>
+      </trans-unit>
+      <trans-unit id="2f2de7291ed87063841f5d65e5d73c1c50eaa3be" resname="instant.filter.placeholder">
+        <source>Type to refine</source>
+        <target state="translated">Zum Verfeinern eingeben</target>
+        <note>key: instant.filter.placeholder</note>
+      </trans-unit>
       <trans-unit id="2a9e4002be191374ee14674d2e67eb9fe2d631d2" resname="items_list.title">
         <source>Sub-items</source>
         <target state="translated">Unterelemente</target>
@@ -211,6 +221,16 @@
         <target state="translated">Filter</target>
         <note>key: items_table.header.filters</note>
       </trans-unit>
+      <trans-unit id="fdb8e418a944ccd7b2b8575c09abf1838589d51b" resname="items_table.header.location_id">
+        <source>Location ID</source>
+        <target state="translated">Location ID</target>
+        <note>key: items_table.header.location_id</note>
+      </trans-unit>
+      <trans-unit id="86e7d70a1dee14408d841d5f2f7bc3bf4d4579a3" resname="items_table.header.location_remote_id">
+        <source>Location remote ID</source>
+        <target state="translated">Location Remote ID</target>
+        <note>key: items_table.header.location_remote_id</note>
+      </trans-unit>
       <trans-unit id="8f1583d031a1cc60061659b8a55291496f0a40c6" resname="items_table.header.modified">
         <source>Modified</source>
         <target state="translated">Geändert</target>
@@ -220,6 +240,16 @@
         <source>Name</source>
         <target state="translated">Name</target>
         <note>key: items_table.header.name</note>
+      </trans-unit>
+      <trans-unit id="725a35139d6927f9c5ac199aa42a0baf362986fb" resname="items_table.header.object_id">
+        <source>Object ID</source>
+        <target state="translated">Objekt ID</target>
+        <note>key: items_table.header.object_id</note>
+      </trans-unit>
+      <trans-unit id="d8a8032b67e3e3626e01d4983b4d76a4e9d2c999" resname="items_table.header.object_remote_id">
+        <source>Object remote ID</source>
+        <target state="translated">Content Remote ID</target>
+        <note>key: items_table.header.object_remote_id</note>
       </trans-unit>
       <trans-unit id="ee6e79244a03c8adceb13aa6a7aff2cb496cb9d0" resname="items_table.header.priority">
         <source>Priority</source>
@@ -261,10 +291,55 @@
         <target state="translated">Sprache auswählen</target>
         <note>key: languages.modal.label</note>
       </trans-unit>
+      <trans-unit id="e3c395cec9466f06c8f2f3f4b2bfcd9021537714" resname="move_btn.label">
+        <source>Move selected items</source>
+        <target state="translated">Ausgewählte Elemente verschieben</target>
+        <note>key: move_btn.label</note>
+      </trans-unit>
       <trans-unit id="276a7024903672cd0476c82ba8845453e13db95e" resname="no_items.message">
         <source>This location has no sub-items</source>
         <target state="translated">Diese Location hat keine Unterelemente</target>
         <note>key: no_items.message</note>
+      </trans-unit>
+      <trans-unit id="af3bcdfcdcd33a16838a6f2b88c845c92fcb0938" resname="pagination.back">
+        <source>Back</source>
+        <target state="translated">Zurück</target>
+        <note>key: pagination.back</note>
+      </trans-unit>
+      <trans-unit id="b10157de76c0f57fa166904d97c06336e10559ca" resname="pagination.next">
+        <source>Next</source>
+        <target state="translated">Weiter</target>
+        <note>key: pagination.next</note>
+      </trans-unit>
+      <trans-unit id="af207d1e719904a39524b34212a1ea6116cb3d46" resname="switch_to_grid_view.btn.label">
+        <source>View as grid</source>
+        <target state="translated">Ansicht als Gitter</target>
+        <note>key: switch_to_grid_view.btn.label</note>
+      </trans-unit>
+      <trans-unit id="b5bfcc24141601264b6c03972d8e45bbb7c49a09" resname="switch_to_list_view.btn.label">
+        <source>View as list</source>
+        <target state="translated">Als Liste anzeigen</target>
+        <note>key: switch_to_list_view.btn.label</note>
+      </trans-unit>
+      <trans-unit id="11b5de206f496e357ede3c3798b8e113c2946a60" resname="trash_btn.label">
+        <source>Delete selected items</source>
+        <target state="translated">Ausgewählte Elemente löschen</target>
+        <note>key: trash_btn.label</note>
+      </trans-unit>
+      <trans-unit id="cd8466f8e727278543a7e1ded7f3a0c67243c276" resname="udw.choose_location.title">
+        <source>Choose Location</source>
+        <target state="translated">Standort auswählen</target>
+        <note>key: udw.choose_location.title</note>
+      </trans-unit>
+      <trans-unit id="8518fc267b3ab3f637351ddbd8ad08e1312d822c" resname="unhide_locations_btn.label">
+        <source>Reveal selected Locations</source>
+        <target state="translated">Ausgewählte Orte anzeigen</target>
+        <note>key: unhide_locations_btn.label</note>
+      </trans-unit>
+      <trans-unit id="5ae5a511a5c344781ad0caa53efe7b33429c6132" resname="viewing_message">
+        <source><![CDATA[Viewing <strong>%viewingCount%</strong> out of <strong>%totalCount%</strong> sub-items]]></source>
+        <target state="translated"><![CDATA[<strong>%viewing%</strong> von <strong>%total%</strong> Elementen werden angezeigt]]></target>
+        <note>key: viewing_message</note>
       </trans-unit>
     </body>
   </file>
