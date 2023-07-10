@@ -16,6 +16,11 @@
         <target state="translated">Type de Contenu</target>
         <note>key: bulk_action.failed.modal.content_type_name</note>
       </trans-unit>
+      <trans-unit id="a4b9e9b4898dd285237fc60130970ce7ed988871" resname="content.create.choose_content_type">
+        <source>Create content</source>
+        <target state="translated">Créer un contenu</target>
+        <note>key: content.create.choose_content_type</note>
+      </trans-unit>
       <trans-unit id="f599001c1ab9442f20e23d535e1dad8f3b75c337" resname="content.create.select_content_type">
         <source>Select a Content Type:</source>
         <target state="translated">Sélectionner un Type de Contenu :</target>
@@ -331,6 +336,11 @@
         <target state="translated">Annuler</target>
         <note>key: tab.translations.add.cancel</note>
       </trans-unit>
+      <trans-unit id="fe6c962e1d0766f59a66d3766c56edffdce6735d" resname="tab.translations.add.language">
+        <source>Select a language for the new translation</source>
+        <target state="translated">Sélectionnez une langue pour la nouvelle traduction</target>
+        <note>key: tab.translations.add.language</note>
+      </trans-unit>
       <trans-unit id="2d1ceec2bfb85db323e21e358b6be6aad547e1d0" resname="tab.translations.add.title">
         <source>Create a new translation</source>
         <target state="translated">Créer une nouvelle traduction</target>
@@ -385,6 +395,11 @@
         <source>Published version</source>
         <target state="translated">Version publiée</target>
         <note>key: tab.versions.published_version</note>
+      </trans-unit>
+      <trans-unit id="97721a4a6c33834bb6421c29ef72e8654f39a4ab" resname="tab.versions.table.action.draft.edit">
+        <source>Edit draft</source>
+        <target state="translated">Modifier le brouillon</target>
+        <note>key: tab.versions.table.action.draft.edit</note>
       </trans-unit>
       <trans-unit id="4c27637d649c221e58c6a9629f14a2f75aeed151" resname="tab.versions.table.contributor">
         <source>Contributor</source>
