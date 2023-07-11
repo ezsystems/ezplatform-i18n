@@ -21,6 +21,11 @@
         <target state="translated">Criar</target>
         <note>key: content_translation_add_form.add</note>
       </trans-unit>
+      <trans-unit id="390eb98ace269d5909c838416c36248c40895058" resname="ezplatform.change_user_password.confirm_new_password">
+        <source>Confirm password</source>
+        <target state="translated">Confirmar palavra-chave</target>
+        <note>key: ezplatform.change_user_password.confirm_new_password</note>
+      </trans-unit>
       <trans-unit id="0ad9197dcdbe88b1a05f099c564dc2b5634f8aa5" resname="ezplatform.language.create.enabled">
         <source>Enabled</source>
         <target state="translated">Activo</target>
@@ -60,6 +65,11 @@
         <source>Save</source>
         <target state="translated">Gravar</target>
         <note>key: ezplatform.language.update.save</note>
+      </trans-unit>
+      <trans-unit id="877b8a2a4e3b2c7c137b7776a54cd7531421e5d3" resname="ezplatform.reset_user_password.confirm_new_password">
+        <source>Confirm password</source>
+        <target state="translated">Confirmar palavra-chave</target>
+        <note>key: ezplatform.reset_user_password.confirm_new_password</note>
       </trans-unit>
       <trans-unit id="e1f039c692df803a42d90f2bcd4f763623241bb2" resname="location_copy.copy">
         <source>Copy</source>
