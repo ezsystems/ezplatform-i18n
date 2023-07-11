@@ -41,6 +41,11 @@
         <target state="translated">Inviato alla data del cestino</target>
         <note>key: trash.date</note>
       </trans-unit>
+      <trans-unit id="7ffaa1444a83e959f8de3c2410bb65acdd3e3ff0" resname="trash.delete">
+        <source>Delete</source>
+        <target state="translated">Cancella</target>
+        <note>key: trash.delete</note>
+      </trans-unit>
       <trans-unit id="45548aed8adb5019c3b806992e903965699c7e08" resname="trash.deleted.success">
         <source>Deleted selected item(s) from Trash.</source>
         <target state="translated">Elemento(i) selezionato(i) eliminato(i) dal Cestino.</target>

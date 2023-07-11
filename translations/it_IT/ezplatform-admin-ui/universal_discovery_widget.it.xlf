@@ -201,11 +201,6 @@
         <target state="translated">Cerca</target>
         <note>key: search.label</note>
       </trans-unit>
-      <trans-unit id="8a3a6b538d81237dcb9533496c691a7685e456de" resname="search.no_results">
-        <source>No results found for %query%</source>
-        <target state="translated">Siamo spiacenti, no risultati trovati per</target>
-        <note>key: search.no_results</note>
-      </trans-unit>
       <trans-unit id="6ffbb9b14f98e94b8dda5418ef3910942b42c44e" resname="search.search">
         <source>Search</source>
         <target state="translated">Cerca</target>
