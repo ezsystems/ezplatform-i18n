@@ -76,6 +76,11 @@
         <target state="translated">Gelöschter Benutzer</target>
         <note>key: trash.item.deleted_user</note>
       </trans-unit>
+      <trans-unit id="2720e3018fc8b1158cb728b1d5dc377ef7293b57" resname="trash.modal.message">
+        <source>Do you want to delete the selected item(s) from Trash?</source>
+        <target state="translated">Möchten Sie die ausgewählten Elemente aus dem Papierkorb löschen?</target>
+        <note>key: trash.modal.message</note>
+      </trans-unit>
       <trans-unit id="34525fc5da381111c2104d20a55021eb8b698c7c" resname="trash.name">
         <source>Name</source>
         <target state="translated">Name</target>
