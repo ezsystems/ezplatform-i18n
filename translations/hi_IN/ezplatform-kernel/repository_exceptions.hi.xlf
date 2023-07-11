@@ -10,13 +10,13 @@
         <source>'%actualValue%' is wrong value</source>
         <target state="translated">'%actualValue%' का गलत मूल्य है</target>
         <note>key: '%actualValue%' is wrong value</note>
-        <jms:reference-file line="32">src/lib/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
+        <jms:reference-file line="32">eZ/Publish/Core/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
       </trans-unit>
       <trans-unit id="7a87971cc45ac957c7db1a4907f8e7f4325e3e32" resname="'%actualValue%' is wrong value in class '%className%'">
         <source>'%actualValue%' is wrong value in class '%className%'</source>
         <target state="translated">'%actualValue%' का मूलय '%className%' वर्ग में गलत है</target>
         <note>key: '%actualValue%' is wrong value in class '%className%'</note>
-        <jms:reference-file line="34">src/lib/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
+        <jms:reference-file line="34">eZ/Publish/Core/Base/Exceptions/InvalidArgumentValue.php</jms:reference-file>
       </trans-unit>
     </body>
   </file>
