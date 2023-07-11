@@ -26,6 +26,36 @@
         <target state="final">Usuń tłumaczenie</target>
         <note>key: content_translation_remove_form.remove</note>
       </trans-unit>
+      <trans-unit id="56281d5c292a4fe95f9b1af5ae0b1deaebab7342" resname="ezplatform.change_user_password.change" approved="yes">
+        <source>Change</source>
+        <target state="final">Zmień</target>
+        <note>key: ezplatform.change_user_password.change</note>
+      </trans-unit>
+      <trans-unit id="390eb98ace269d5909c838416c36248c40895058" resname="ezplatform.change_user_password.confirm_new_password" approved="yes">
+        <source>Confirm password</source>
+        <target state="final">Potwierdź hasło</target>
+        <note>key: ezplatform.change_user_password.confirm_new_password</note>
+      </trans-unit>
+      <trans-unit id="43521bfea046f591270e027a69fc52cccc486e23" resname="ezplatform.change_user_password.new_password" approved="yes">
+        <source>New password</source>
+        <target state="final">Nowe hasło</target>
+        <note>key: ezplatform.change_user_password.new_password</note>
+      </trans-unit>
+      <trans-unit id="859bfc3d21113eecb4a19d4a9305f2519eb4b331" resname="ezplatform.forgot_user_password.email" approved="yes">
+        <source>Enter your email address:</source>
+        <target state="final">Podaj adres e-mail:</target>
+        <note>key: ezplatform.forgot_user_password.email</note>
+      </trans-unit>
+      <trans-unit id="ffb6990d5e75fe6dc86e94166b77e40a79e4e2a3" resname="ezplatform.forgot_user_password.login" approved="yes">
+        <source>Enter your login:</source>
+        <target state="final">Podaj login:</target>
+        <note>key: ezplatform.forgot_user_password.login</note>
+      </trans-unit>
+      <trans-unit id="0f7bbe027d2c53c78c7b3ce938af6c0ef6c1c2e2" resname="ezplatform.forgot_user_password.reset" approved="yes">
+        <source>Reset</source>
+        <target state="final">Resetuj</target>
+        <note>key: ezplatform.forgot_user_password.reset</note>
+      </trans-unit>
       <trans-unit id="0ad9197dcdbe88b1a05f099c564dc2b5634f8aa5" resname="ezplatform.language.create.enabled" approved="yes">
         <source>Enabled</source>
         <target state="final">Aktywny</target>
@@ -65,6 +95,16 @@
         <source>Save</source>
         <target state="final">Zapisz</target>
         <note>key: ezplatform.language.update.save</note>
+      </trans-unit>
+      <trans-unit id="877b8a2a4e3b2c7c137b7776a54cd7531421e5d3" resname="ezplatform.reset_user_password.confirm_new_password" approved="yes">
+        <source>Confirm password</source>
+        <target state="final">Potwierdź hasło</target>
+        <note>key: ezplatform.reset_user_password.confirm_new_password</note>
+      </trans-unit>
+      <trans-unit id="943fa9c11c71de16802dad7eea78690f53eb9888" resname="ezplatform.reset_user_password.new_password" approved="yes">
+        <source>New password</source>
+        <target state="final">Nowe hasło</target>
+        <note>key: ezplatform.reset_user_password.new_password</note>
       </trans-unit>
       <trans-unit id="a1e42d4c649f7fbb614729978fea692be51d1485" resname="languages_delete_form.delete" approved="yes">
         <source>Delete languages</source>
