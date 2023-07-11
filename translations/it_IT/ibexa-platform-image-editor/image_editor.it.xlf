@@ -96,11 +96,6 @@
         <target state="final">Dimensione</target>
         <note>key: image_editor.dimension</note>
       </trans-unit>
-      <trans-unit id="1834d0a289e023d978daec2f01b8bba6bf703745" resname="image_editor.edit_image" approved="yes">
-        <source>Edit image</source>
-        <target state="final">Modalità di modifica</target>
-        <note>key: image_editor.edit_image</note>
-      </trans-unit>
       <trans-unit id="bd499e574059518dde520fd569e1afb7affc9f7c" resname="image_editor.redo" approved="yes">
         <source>Redo</source>
         <target state="final">Ripeti</target>

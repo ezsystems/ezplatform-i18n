@@ -7,8 +7,8 @@
     </header>
     <body>
       <trans-unit id="50833698162171103793dc9cb6367839a8e063a4" resname="preview_unavailable">
-        <source>You cannot preview this translation: there is no site available for this language. Please contact the website administrator.</source>
-        <target xml:lang="ach">crwdns214768:0crwdne214768:0</target>
+        <source>You cannot preview this translation because there is no site available for this language. Contact your Administrator.</source>
+        <target>crwdns222042:0crwdne222042:0</target>
         <note>key: preview_unavailable</note>
       </trans-unit>
     </body>

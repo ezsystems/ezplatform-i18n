@@ -10,25 +10,25 @@
         <source>Enter login or email</source>
         <target state="final">Podaj login lub e-mail</target>
         <note>key: Enter login or email</note>
-        <jms:reference-file line="18">src/bundle/Core/Resources/views/Security/login.html.twig</jms:reference-file>
+        <jms:reference-file line="18">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="570591c060a999e9ab1592763c74d881b7654ee1" resname="Enter password" approved="yes">
         <source>Enter password</source>
         <target state="final">Podaj hasło</target>
         <note>key: Enter password</note>
-        <jms:reference-file line="22">src/bundle/Core/Resources/views/Security/login.html.twig</jms:reference-file>
+        <jms:reference-file line="22">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="be81ab98cb9ccf753975f50fa70cd32581a821fc" resname="Password:" approved="yes">
         <source>Password:</source>
         <target state="final">Hasło:</target>
         <note>key: Password:</note>
-        <jms:reference-file line="21">src/bundle/Core/Resources/views/Security/login.html.twig</jms:reference-file>
+        <jms:reference-file line="21">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
       </trans-unit>
       <trans-unit id="17dfb031e086e3415d71f3928e6ce08d6b1c1d4d" resname="Username:" approved="yes">
         <source>Username:</source>
         <target state="final">Nazwa użytkownika:</target>
         <note>key: Username:</note>
-        <jms:reference-file line="17">src/bundle/Core/Resources/views/Security/login.html.twig</jms:reference-file>
+        <jms:reference-file line="17">eZ/Bundle/EzPublishCoreBundle/Resources/views/Security/login.html.twig</jms:reference-file>
       </trans-unit>
     </body>
   </file>

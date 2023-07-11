@@ -42,7 +42,7 @@
         <note>key: form_builder.submission.boolean.true</note>
       </trans-unit>
       <trans-unit id="4ca91a461622421947258e5e7e305704088e4b7b" resname="no.fields.in.form" approved="yes">
-        <source>There are no fields in this form.</source>
+        <source>There are no fields in this form. Create your form.</source>
         <target state="final">Ten formularz nie zawiera pól. Utwórz formularz.</target>
         <note>key: no.fields.in.form</note>
       </trans-unit>

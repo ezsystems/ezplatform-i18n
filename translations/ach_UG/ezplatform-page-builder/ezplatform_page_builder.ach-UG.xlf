@@ -8,12 +8,12 @@
     <body>
       <trans-unit id="473791d4ee73c0b1401f37519728414c339edc21" resname="javascript.disabled.required">
         <source>javascript.disabled.required</source>
-        <target xml:lang="ach">crwdns215713:0crwdne215713:0</target>
+        <target>crwdns249253:0crwdne249253:0</target>
         <note>key: javascript.disabled.required</note>
       </trans-unit>
       <trans-unit id="1ac530659b5b57d48cf6d95bc51ead90f1a2ac6d" resname="javascript.enable">
         <source>javascript.enable</source>
-        <target xml:lang="ach">crwdns215714:0crwdne215714:0</target>
+        <target>crwdns249255:0crwdne249255:0</target>
         <note>key: javascript.enable</note>
       </trans-unit>
     </body>

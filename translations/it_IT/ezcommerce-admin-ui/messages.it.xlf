@@ -61,16 +61,6 @@
         <target state="translated">Risposta DOPO mappatura.</target>
         <note>key: code.280_complete</note>
       </trans-unit>
-      <trans-unit id="74a0a1f1378464d065954caae7ce69feb20bad8e" resname="field_type.add_variant">
-        <source>Add</source>
-        <target state="translated">Aggiungi variante</target>
-        <note>key: field_type.add_variant</note>
-      </trans-unit>
-      <trans-unit id="cbc1f44be5f6d1cff762774712d8ccbfd796f6ec" resname="field_types.variants.button.trash">
-        <source>Delete</source>
-        <target state="translated">Rimuovi variante</target>
-        <note>key: field_types.variants.button.trash</note>
-      </trans-unit>
       <trans-unit id="9c6d51b72da01a6f73c4493275e770f739a2aec6" resname="modal.button.close">
         <source>Close</source>
         <target state="translated">Chiudi</target>

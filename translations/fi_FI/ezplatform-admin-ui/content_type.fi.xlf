@@ -11,6 +11,11 @@
         <target state="translated">Muokkaa</target>
         <note>key: content_type.action.edit</note>
       </trans-unit>
+      <trans-unit id="3066b4a1b2277f4e299d9c91ad3134d725467b39" resname="content_type.content_type">
+        <source>Content Type</source>
+        <target state="translated">Sisältötyyppi</target>
+        <note>key: content_type.content_type</note>
+      </trans-unit>
       <trans-unit id="7fddd251857df821bd536dd680e1edbc921790a2" resname="content_type.name">
         <source>Name</source>
         <target state="translated">Nimi</target>

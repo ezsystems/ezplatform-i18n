@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="14bf2f86fe3ff46636bfc648aba65c4ea4284881" resname="Basket with ID: %basketId% not found">
+        <source>Basket with ID: %basketId% not found</source>
+        <target>crwdns228970:0%basketId%crwdne228970:0</target>
+        <note>key: Basket with ID: %basketId% not found</note>
+      </trans-unit>
+      <trans-unit id="b56631bc8890459851f4998909f97b253a715c89" resname="Cockpit">
+        <source>Cockpit</source>
+        <target>crwdns248663:0crwdne248663:0</target>
+        <note>key: Cockpit</note>
+      </trans-unit>
+      <trans-unit id="817971873a6ee985fdba4953592bc9f617c46dbb" resname="Control center">
+        <source>Control center</source>
+        <target>crwdns223902:0crwdne223902:0</target>
+        <note>key: Control center</note>
+      </trans-unit>
+      <trans-unit id="11470e24a23c56cc3afe507f757b425a1867eea7" resname="Error for basket %basketId%: %error%">
+        <source>Error for basket %basketId%: %error%</source>
+        <target>crwdns228974:0%basketId%crwdnd228974:0%error%crwdne228974:0</target>
+        <note>key: Error for basket %basketId%: %error%</note>
+      </trans-unit>
+      <trans-unit id="9d2a9f0a31db1c658c1c486cdbe3ff84da6e1f3a" resname="Order for basket: %basketId% has been deleted successfully.">
+        <source>Order for basket: %basketId% has been deleted successfully.</source>
+        <target>crwdns228976:0%basketId%crwdne228976:0</target>
+        <note>key: Order for basket: %basketId% has been deleted successfully.</note>
+      </trans-unit>
+      <trans-unit id="c95b4a4292a043e6e35b17abe3083e1a51c74b60" resname="Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%">
+        <source>Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</source>
+        <target>crwdns228978:0%basketId%crwdnd228978:0%orderId%crwdne228978:0</target>
+        <note>key: Order for basket: %basketId% has been processed successfully, Order-ID: %orderId%</note>
+      </trans-unit>
+      <trans-unit id="df84747dfab1a2d359641c7790d1d64e11f1fe42" resname="Price and stock management">
+        <source>Price and stock management</source>
+        <target>crwdns248665:0crwdne248665:0</target>
+        <note>key: Price and stock management</note>
+      </trans-unit>
+      <trans-unit id="5392f37b938a3fec5bc6fc366cdbd759343f07cb" resname="code.120_complete">
+        <source>Request BEFORE mapping.</source>
+        <target>crwdns223904:0crwdne223904:0</target>
+        <note>key: code.120_complete</note>
+      </trans-unit>
+      <trans-unit id="d560f1fe93e737b56528c3830d8e828ed68e194f" resname="code.150_mapping">
+        <source>Request data before and after mapping.</source>
+        <target>crwdns223906:0crwdne223906:0</target>
+        <note>key: code.150_mapping</note>
+      </trans-unit>
+      <trans-unit id="6bc992db37051803c3fdc8012ac4677f4edee96f" resname="code.180_soap">
+        <source>Request AFTER mapping.</source>
+        <target>crwdns223908:0crwdne223908:0</target>
+        <note>key: code.180_soap</note>
+      </trans-unit>
+      <trans-unit id="fa2190b24a7c4d15e5fb2b055a10508097257df8" resname="code.220_soap">
+        <source>Response BEFORE mapping.</source>
+        <target>crwdns223910:0crwdne223910:0</target>
+        <note>key: code.220_soap</note>
+      </trans-unit>
+      <trans-unit id="90ce1f306b926c6a7530381f5da5bc40d1ab302e" resname="code.250_mapping">
+        <source>Response data before and after mapping.</source>
+        <target>crwdns223912:0crwdne223912:0</target>
+        <note>key: code.250_mapping</note>
+      </trans-unit>
+      <trans-unit id="a20fc8e1030f7823a743596ba05e0422e6cf9d4b" resname="code.280_complete">
+        <source>Response AFTER mapping.</source>
+        <target>crwdns223914:0crwdne223914:0</target>
+        <note>key: code.280_complete</note>
+      </trans-unit>
+      <trans-unit id="74a0a1f1378464d065954caae7ce69feb20bad8e" resname="field_type.add_variant">
+        <source>Add variant</source>
+        <target>crwdns248667:0crwdne248667:0</target>
+        <note>key: field_type.add_variant</note>
+      </trans-unit>
+      <trans-unit id="cbc1f44be5f6d1cff762774712d8ccbfd796f6ec" resname="field_types.variants.button.trash">
+        <source>Remove variant</source>
+        <target>crwdns248669:0crwdne248669:0</target>
+        <note>key: field_types.variants.button.trash</note>
+      </trans-unit>
+      <trans-unit id="9c6d51b72da01a6f73c4493275e770f739a2aec6" resname="modal.button.close">
+        <source>Close</source>
+        <target>crwdns223970:0crwdne223970:0</target>
+        <note>key: modal.button.close</note>
+      </trans-unit>
+      <trans-unit id="41718aba6bfdfdf48b47c9cb0f3d1ea324683121" resname="msg.invalid_csv_file">
+        <source>Invalid CSV file</source>
+        <target>crwdns223972:0crwdne223972:0</target>
+        <note>key: msg.invalid_csv_file</note>
+      </trans-unit>
+      <trans-unit id="c3c81201bee9a881ec4fef0326ee0d5abf07a066" resname="msg.invalid_shop_id">
+        <source>Invalid shop ID : %shopId%</source>
+        <target>crwdns223974:0%shopId%crwdne223974:0</target>
+        <note>key: msg.invalid_shop_id</note>
+      </trans-unit>
+      <trans-unit id="0801224be6bc55f0e38efa128854c6d0bdbfe22f" resname="msg.price_upload_success">
+        <source>Prices for %products% products imported successfully</source>
+        <target>crwdns223976:0%products%crwdne223976:0</target>
+        <note>key: msg.price_upload_success</note>
+      </trans-unit>
+      <trans-unit id="eb6aa749b48acf60573017b34841c8196a161cdb" resname="msg.stock_upload_success">
+        <source>Stock for %products% products imported successfully</source>
+        <target>crwdns223978:0%products%crwdne223978:0</target>
+        <note>key: msg.stock_upload_success</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

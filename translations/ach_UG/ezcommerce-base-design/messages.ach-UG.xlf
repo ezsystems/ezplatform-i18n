@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns:jms="urn:jms:translation" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="en" target-language="ach" datatype="plaintext" original="not.available">
+    <header>
+      <tool tool-id="JMSTranslationBundle" tool-name="JMSTranslationBundle" tool-version="1.1.0-DEV"/>
+      <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
+    </header>
+    <body>
+      <trans-unit id="cdcc456629195ed5a337a4be78100dda7a14aef3" resname="Article|search">
+        <source>Article</source>
+        <target>crwdns224068:0crwdne224068:0</target>
+        <note>key: Article|search</note>
+      </trans-unit>
+      <trans-unit id="94cac684119b86220a4aef50584ce15a39849625" resname="Blog post|search">
+        <source>Blog post</source>
+        <target>crwdns248671:0crwdne248671:0</target>
+        <note>key: Blog post|search</note>
+      </trans-unit>
+      <trans-unit id="e6908c7ca7cdd2ad37670dd5909e6bed46d08c0a" resname="Contact|search">
+        <source>Contact</source>
+        <target>crwdns248673:0crwdne248673:0</target>
+        <note>key: Contact|search</note>
+      </trans-unit>
+      <trans-unit id="ce3e4bed2954adbf05f8edfaf1a4c0cc0cea70e9" resname="DE">
+        <source>Germany</source>
+        <target>crwdns224074:0crwdne224074:0</target>
+        <note>key: DE</note>
+      </trans-unit>
+      <trans-unit id="7c9a7c0610c1bc20abb9c9d07094daa33576a8f8" resname="Detail">
+        <source>Detail</source>
+        <target>crwdns248675:0crwdne248675:0</target>
+        <note>key: Detail</note>
+      </trans-unit>
+      <trans-unit id="d469baae0628495800672bc39fdc71f30fbf6f45" resname="Event|search">
+        <source>Event</source>
+        <target>crwdns248677:0crwdne248677:0</target>
+        <note>key: Event|search</note>
+      </trans-unit>
+      <trans-unit id="30baa24967e08965d1594408031f0324ae11ccac" resname="Folder">
+        <source>Folder</source>
+        <target>crwdns228982:0crwdne228982:0</target>
+        <note>key: Folder</note>
+      </trans-unit>
+      <trans-unit id="d2e269273a451b6887ce930a00282453b864f784" resname="Folder|search">
+        <source>Folder</source>
+        <target>crwdns224080:0crwdne224080:0</target>
+        <note>key: Folder|search</note>
+      </trans-unit>
+      <trans-unit id="bdacb320f0c8f55a2902e8d61cb1f9943e1850a7" resname="News|search">
+        <source>News</source>
+        <target>crwdns248679:0crwdne248679:0</target>
+        <note>key: News|search</note>
+      </trans-unit>
+      <trans-unit id="a88b7dcd1a9e3e17770bbaa6d7515b31a2d7e85d" resname="email">
+        <source>email</source>
+        <target>crwdns248681:0crwdne248681:0</target>
+        <note>key: email</note>
+      </trans-unit>
+      <trans-unit id="ad1ee409b13768fa0736118aef26405092bd2f39" resname="read_more">
+        <source>Read more</source>
+        <target>crwdns224094:0crwdne224094:0</target>
+        <note>key: read_more</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

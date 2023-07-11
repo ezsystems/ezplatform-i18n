@@ -41,11 +41,6 @@
         <target state="translated">Accetta termini e condizioni</target>
         <note>key: Accept terms and conditions</note>
       </trans-unit>
-      <trans-unit id="543beca5f8d4001627a6e9551a79a0d49738b8dd" resname="Account:|profile">
-        <source>Account:</source>
-        <target state="translated">Account: | profilo</target>
-        <note>key: Account:|profile</note>
-      </trans-unit>
       <trans-unit id="92ef08325a4813563a3110359906076374683282" resname="Activate">
         <source>Activate</source>
         <target state="translated">Attiva</target>
@@ -1869,16 +1864,6 @@
         <target state="translated">Codice postale</target>
         <note>key: ZIP code</note>
       </trans-unit>
-      <trans-unit id="0b5351ada9d86b9b68449a983095e3deee465050" resname="admin.translations_onesky_intro">
-        <source>Static text can be edited in the translation platform IbexaCommerceOneSky. </source>
-        <target state="translated">Il testo statico può essere modificato nella piattaforma di traduzione OneSky.</target>
-        <note>key: admin.translations_onesky_intro</note>
-      </trans-unit>
-      <trans-unit id="97989bb4d4723ad78b09779f3f0f700261a7ac9e" resname="admin.translations_onesky_link">
-        <source>Open IbexaCommerceOneSky</source>
-        <target state="translated">Apri OneSky</target>
-        <note>key: admin.translations_onesky_link</note>
-      </trans-unit>
       <trans-unit id="eb3c107f4b260b122216c378f76608c9e2f39d02" resname="admin.translations_textmodules">
         <source>Textmodules offers a more sophisticated way to manage text modules for the shop.</source>
         <target state="translated">Textmodules offre un modo più sofisticato per gestire i moduli di testo per il negozio.</target>
@@ -2666,35 +2651,10 @@
         <target state="translated">precedente</target>
         <note>key: previous</note>
       </trans-unit>
-      <trans-unit id="5960d500d74c4f539d30c8a6d23f7b781ac34fee" resname="price_management.add_price">
-        <source>Add price</source>
-        <target state="translated">Aggiungi prezzo</target>
-        <note>key: price_management.add_price</note>
-      </trans-unit>
-      <trans-unit id="827e0c73b985d0d1c73c918753475d588adf3e6a" resname="price_management.base_price">
-        <source>Base price</source>
-        <target state="translated">Prezzo base</target>
-        <note>key: price_management.base_price</note>
-      </trans-unit>
-      <trans-unit id="ebd2a49d04aa9f85526914138446a3a74d341035" resname="price_management.customer_group">
-        <source>Customer group</source>
-        <target state="translated">Gruppo clienti</target>
-        <note>key: price_management.customer_group</note>
-      </trans-unit>
-      <trans-unit id="12a68ad36a50e95a745fe6deeb28b3dbd6cb8541" resname="price_management.delete_price.button">
-        <source>Delete price</source>
-        <target state="translated">Elimina prezzo</target>
-        <note>key: price_management.delete_price.button</note>
-      </trans-unit>
       <trans-unit id="42b96d2ed0ac4fcbc81b3cbde87ad32a2651aa4d" resname="price_management.offer_price">
         <source>Offer price</source>
         <target state="translated">Prezzo di offerta</target>
         <note>key: price_management.offer_price</note>
-      </trans-unit>
-      <trans-unit id="7e9100796092cda3d8b24a610e0c786d37aa5040" resname="price_management.sku">
-        <source>SKU</source>
-        <target state="translated">SKU</target>
-        <note>key: price_management.sku</note>
       </trans-unit>
       <trans-unit id="49d53daa0498e9b68995714269155bc3a3290631" resname="quickorder_introtext">
         <source>quickorder_introtext</source>
@@ -2770,21 +2730,6 @@
         <source>Delegate finished</source>
         <target state="translated">Delegato terminato</target>
         <note>key: silversolutions_undelegate|breadcrumb</note>
-      </trans-unit>
-      <trans-unit id="231b0beb563e4e61f1608a88a4597f4ef262dfb3" resname="stock_management.on_stock">
-        <source>On stock</source>
-        <target state="translated">In magazzino</target>
-        <note>key: stock_management.on_stock</note>
-      </trans-unit>
-      <trans-unit id="17aa5eb3fb62622b7e00d4f9bf7a84512307c79f" resname="stock_management.sku">
-        <source>SKU</source>
-        <target state="translated">SKU</target>
-        <note>key: stock_management.sku</note>
-      </trans-unit>
-      <trans-unit id="b61bd861b86f97b578af8a4ba46c57567fc397f3" resname="stock_management.stock_text">
-        <source>Stock text</source>
-        <target state="translated">Testo stock</target>
-        <note>key: stock_management.stock_text</note>
       </trans-unit>
       <trans-unit id="b7304ae7d712baa91b98553f04ef7957863a9a3f" resname="stored_baskets_empty">
         <source>You have no stored baskets</source>

@@ -7,33 +7,33 @@
     </header>
     <body>
       <trans-unit id="e3134aea8177d5285a440a147f434f843d81e0dc" resname="version.conflict.are_you_sure">
-        <source>Are you sure you want to continue and overwrite the latest version?</source>
-        <target xml:lang="ach">crwdns215543:0crwdne215543:0</target>
+        <source>Are you sure you want to continue and overwrite the published version?</source>
+        <target>crwdns222988:0crwdne222988:0</target>
         <note>key: version.conflict.are_you_sure</note>
       </trans-unit>
       <trans-unit id="f77f809ec953a9ee0a8fe642ab53e2763e5eaed2" resname="version.conflict.choices">
-        <source>To resolve the conflict, click Cancel and delete the draft. Then edit the published Content Item.</source>
-        <target xml:lang="ach">crwdns215544:0crwdne215544:0</target>
+        <source>To resolve the conflict, click Cancel and delete the draft. Then edit the published version.</source>
+        <target>crwdns222990:0crwdne222990:0</target>
         <note>key: version.conflict.choices</note>
       </trans-unit>
       <trans-unit id="9fad7ad8b2a4215487f98fc67dd7d793dd0382e8" resname="version.conflict.consequences">
-        <source>If you continue, the previous version will be overwritten.</source>
-        <target xml:lang="ach">crwdns215545:0crwdne215545:0</target>
+        <source>If you continue, the published version will be overwritten.</source>
+        <target>crwdns222992:0crwdne222992:0</target>
         <note>key: version.conflict.consequences</note>
       </trans-unit>
       <trans-unit id="5b6635730e66eb50ae26455406ca774eac8fd8e1" resname="version.conflict.form.cancel">
         <source>Cancel</source>
-        <target xml:lang="ach">crwdns215546:0crwdne215546:0</target>
+        <target>crwdns215546:0crwdne215546:0</target>
         <note>key: version.conflict.form.cancel</note>
       </trans-unit>
       <trans-unit id="c70ab0acdd2b67e3043949422191e75e6e09440e" resname="version.conflict.form.continue">
         <source>Continue</source>
-        <target xml:lang="ach">crwdns215547:0crwdne215547:0</target>
+        <target>crwdns215547:0crwdne215547:0</target>
         <note>key: version.conflict.form.continue</note>
       </trans-unit>
       <trans-unit id="0fcf485b042da069359444e8395122974ad929fc" resname="version.conflict.header">
-        <source>Version conflict when editing</source>
-        <target xml:lang="ach">crwdns215548:0crwdne215548:0</target>
+        <source>Version conflict</source>
+        <target>crwdns222994:0crwdne222994:0</target>
         <note>key: version.conflict.header</note>
       </trans-unit>
     </body>
