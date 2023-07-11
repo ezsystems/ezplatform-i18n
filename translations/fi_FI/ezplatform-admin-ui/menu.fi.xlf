@@ -11,11 +11,6 @@
         <target state="translated">Kopioi</target>
         <note>key: content__sidebar_right__copy</note>
       </trans-unit>
-      <trans-unit id="a2fafde1538959ee924436a6d4bbd8269c1ac412" resname="content__sidebar_right__create">
-        <source>Create content</source>
-        <target state="translated">Luo</target>
-        <note>key: content__sidebar_right__create</note>
-      </trans-unit>
       <trans-unit id="b3937ec2d3ae4980f8ae00ed20818d92bfab3407" resname="content__sidebar_right__delete">
         <source>Delete</source>
         <target state="translated">Poista</target>
