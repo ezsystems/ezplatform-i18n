@@ -16,11 +16,6 @@
         <target state="translated">La vista previa no se pudo cargar. La vista previa está en otro campo que no se ha configurado para trabajar con Page Builder.</target>
         <note>key: preview.could.not.be.loaded</note>
       </trans-unit>
-      <trans-unit id="a89fa23dda796749c6bb7c0290ee22ae4a731c23" resname="you.can.go.back.to.previous.page">
-        <source><![CDATA[You can go back to the previous website or to <a class="ibexa-error-screen__link">the last page you visited.</a>]]></source>
-        <target state="translated"><![CDATA[Puedes volver a la página anterior o a <a class="ez-error-screen__link">la última página vistada.</a>]]></target>
-        <note>key: you.can.go.back.to.previous.page</note>
-      </trans-unit>
     </body>
   </file>
 </xliff>
