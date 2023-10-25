@@ -338,7 +338,7 @@
       </trans-unit>
       <trans-unit id="5ae5a511a5c344781ad0caa53efe7b33429c6132" resname="viewing_message">
         <source><![CDATA[Viewing <strong>%viewingCount%</strong> out of <strong>%totalCount%</strong> sub-items]]></source>
-        <target state="translated"><![CDATA[<strong>%viewing%</strong> von <strong>%total%</strong> Elementen werden angezeigt]]></target>
+        <target state="translated"><![CDATA[<strong>%viewingCount%</strong> von <strong>%totalCount%</strong> Elementen werden angezeigt]]></target>
         <note>key: viewing_message</note>
       </trans-unit>
     </body>
