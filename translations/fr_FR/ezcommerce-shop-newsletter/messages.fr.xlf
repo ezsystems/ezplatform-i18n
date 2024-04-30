@@ -6,18 +6,11 @@
       <note>The source node in most cases contains the sample message as written by the developer. If it looks like a dot-delimitted string such as "form.label.firstname", then the developer has not provided a default message.</note>
     </header>
     <body>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
+      <trans-unit id="79e28d04b6b241cc2149c05d199cba9d278ac060" resname="msg.newsletter_subscribed_error">
+        <source>Error occured when subscribing to the newsletter: %id%</source>
+        <target state="translated">Une erreur est apparue lors de la souscription à la newsletter : %id%</target>
+        <note>key: msg.newsletter_subscribed_error</note>
+      </trans-unit>
     </body>
   </file>
 </xliff>
