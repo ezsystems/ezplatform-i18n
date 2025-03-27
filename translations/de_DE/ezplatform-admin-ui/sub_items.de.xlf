@@ -128,7 +128,7 @@
       </trans-unit>
       <trans-unit id="d2ab57f08d00c6f0d714b26aa81a44c8a1867903" resname="bulk_hide.popup.message">
         <source>Are you sure you want to hide the selected Location(s)?</source>
-        <target state="translated">Möchten Sie die gewählten Abschnitte wirklich löschen?</target>
+        <target state="translated">Möchten Sie die gewählten Orte wirklich verstecken?</target>
         <note>key: bulk_hide.popup.message</note>
       </trans-unit>
       <trans-unit id="9157594a9c2f44581165ee5e73c89bc5985a7fc9" resname="bulk_hide.success.message">
@@ -173,7 +173,7 @@
       </trans-unit>
       <trans-unit id="99b9c21ff0ed8b33521c0b8c07410f1f10e5f879" resname="bulk_unhide.popup.message">
         <source>Are you sure you want to reveal the selected Location(s)?</source>
-        <target state="translated">Möchten Sie die gewählten Abschnitte wirklich löschen?</target>
+        <target state="translated">Möchten Sie die gewählten Orte wirklich aufdecken?</target>
         <note>key: bulk_unhide.popup.message</note>
       </trans-unit>
       <trans-unit id="edb883dfd8dc46cc6d99b10e9e6fd7bc708f72db" resname="bulk_unhide.success.message">
